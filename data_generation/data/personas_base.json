@@ -1,0 +1,1221 @@
+[
+  {
+    "persona_name": "Budget Home Chef",
+    "description": "Enjoys cooking affordable meals and improving kitchen skills.",
+    "categories": [
+      "Food & Drink",
+      "Home & Garden",
+      "Shopping"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Buy / Acquire",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Weekend Baker",
+    "description": "Bakes pastries and desserts as a hobby.",
+    "categories": [
+      "Food & Drink",
+      "Hobbies & Leisure"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Create / Produce"
+    ]
+  },
+  {
+    "persona_name": "Fitness Beginner",
+    "description": "Learning basic exercises and improving wellness routines.",
+    "categories": [
+      "Beauty & Fitness",
+      "Food & Drink"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Monitor / Track"
+    ]
+  },
+  {
+    "persona_name": "Home Workout Enthusiast",
+    "description": "Regularly shops for workout gear and follows routines.",
+    "categories": [
+      "Beauty & Fitness",
+      "Shopping"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Buy / Acquire",
+      "Monitor / Track"
+    ]
+  },
+  {
+    "persona_name": "Skin Care Researcher",
+    "description": "Explores skincare ingredients and best practices.",
+    "categories": [
+      "Beauty & Fitness",
+      "Science"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Local News Follower",
+    "description": "Checks daily news, policy updates, and local events.",
+    "categories": [
+      "News",
+      "Law & Government"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Political Issues Learner",
+    "description": "Studies political systems and policy topics.",
+    "categories": [
+      "Law & Government",
+      "Reference"
+    ],
+    "intents": [
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Film Buff",
+    "description": "Explores movies, actors, and streaming content.",
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Research / Learn",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Music Streamer",
+    "description": "Listens to playlists, discovers artists, and revisits favorites.",
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Movie Reviewer Hobbyist",
+    "description": "Writes informal film reviews and posts in discussion boards.",
+    "categories": [
+      "Arts & Entertainment",
+      "Online Communities"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Communicate / Share",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Console Gamer",
+    "description": "Follows game releases, plays often, and revisits favorite titles.",
+    "categories": [
+      "Games",
+      "Online Communities"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Resume / Revisit",
+      "Communicate / Share"
+    ]
+  },
+  {
+    "persona_name": "PC Gamer",
+    "description": "Researches hardware, plays competitive games, and joins forums.",
+    "categories": [
+      "Games",
+      "Computers & Electronics",
+      "Online Communities"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Monitor / Track",
+      "Entertain / Relax"
+    ]
+  },
+  {
+    "persona_name": "Game Modder",
+    "description": "Creates mods and shares them with communities.",
+    "categories": [
+      "Games",
+      "Computers & Electronics",
+      "Online Communities"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Communicate / Share",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Photography Hobbyist",
+    "description": "Learns photography techniques and buys accessories.",
+    "categories": [
+      "Hobbies & Leisure",
+      "Computers & Electronics",
+      "Shopping"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Buy / Acquire",
+      "Create / Produce"
+    ]
+  },
+  {
+    "persona_name": "Gardening Beginner",
+    "description": "Grows plants at home and learns gardening techniques.",
+    "categories": [
+      "Home & Garden",
+      "Hobbies & Leisure"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Create / Produce"
+    ]
+  },
+  {
+    "persona_name": "Interior Decor Planner",
+    "description": "Plans room layouts and shops for d\u00e9cor.",
+    "categories": [
+      "Home & Garden",
+      "Shopping"
+    ],
+    "intents": [
+      "Plan / Organize",
+      "Buy / Acquire",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "First-Time Home Buyer",
+    "description": "Explores real estate listings and mortgage basics.",
+    "categories": [
+      "Real Estate",
+      "Business & Industrial",
+      "Reference"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Compare / Evaluate",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Apartment Hunter",
+    "description": "Looks for rentals and compares neighborhoods.",
+    "categories": [
+      "Real Estate",
+      "Reference"
+    ],
+    "intents": [
+      "Compare / Evaluate",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Job Seeker",
+    "description": "Researches job roles and prepares applications.",
+    "categories": [
+      "Jobs & Education",
+      "Reference"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Online Course Student",
+    "description": "Takes online courses and revisits lessons.",
+    "categories": [
+      "Jobs & Education",
+      "Internet & Telecom"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "College Applicant",
+    "description": "Researches schools, requirements, and application timelines.",
+    "categories": [
+      "Jobs & Education",
+      "Reference"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "STEM Learner",
+    "description": "Explores science topics and academic concepts.",
+    "categories": [
+      "Science",
+      "Reference"
+    ],
+    "intents": [
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Weather Tracker",
+    "description": "Checks local air quality and weather forecasts.",
+    "categories": [
+      "Science",
+      "News"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Space Exploration Fan",
+    "description": "Follows astronomy updates and space missions.",
+    "categories": [
+      "Science",
+      "News"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Monitor / Track"
+    ]
+  },
+  {
+    "persona_name": "Fitness Apparel Shopper",
+    "description": "Looks for workout clothing deals and compares brands.",
+    "categories": [
+      "Shopping",
+      "Beauty & Fitness"
+    ],
+    "intents": [
+      "Buy / Acquire",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Tech Gadget Shopper",
+    "description": "Compares devices and looks for deals before buying.",
+    "categories": [
+      "Shopping",
+      "Computers & Electronics"
+    ],
+    "intents": [
+      "Buy / Acquire",
+      "Compare / Evaluate",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Toy Collector",
+    "description": "Collects figures and memorabilia and compares prices.",
+    "categories": [
+      "Shopping",
+      "Hobbies & Leisure"
+    ],
+    "intents": [
+      "Buy / Acquire",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Car Shopper",
+    "description": "Researches car models, compares prices, and reads reviews.",
+    "categories": [
+      "Autos & Vehicles",
+      "Shopping"
+    ],
+    "intents": [
+      "Compare / Evaluate",
+      "Buy / Acquire",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "EV Researcher",
+    "description": "Studies electric vehicle technology and charging options.",
+    "categories": [
+      "Autos & Vehicles",
+      "Science"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Daily Commuter",
+    "description": "Checks public transit schedules and traffic updates.",
+    "categories": [
+      "Travel & Transportation"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Travel Planner",
+    "description": "Builds itineraries and compares flights and hotels.",
+    "categories": [
+      "Travel & Transportation",
+      "Food & Drink"
+    ],
+    "intents": [
+      "Plan / Organize",
+      "Compare / Evaluate",
+      "Buy / Acquire"
+    ]
+  },
+  {
+    "persona_name": "Backpacker",
+    "description": "Researches destinations and reads travel blogs.",
+    "categories": [
+      "Travel & Transportation",
+      "Arts & Entertainment"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Food Explorer",
+    "description": "Watches recipe videos and tries new cuisines.",
+    "categories": [
+      "Food & Drink",
+      "Arts & Entertainment"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Nutrition Tracker",
+    "description": "Monitors calorie intake and reads nutrition facts.",
+    "categories": [
+      "Food & Drink",
+      "Science"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Pet Owner",
+    "description": "Learn pet care routines and revisit training guides.",
+    "categories": [
+      "Pets & Animals"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Dog Training Enthusiast",
+    "description": "Watches training videos and practices techniques.",
+    "categories": [
+      "Pets & Animals",
+      "Hobbies & Leisure"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Create / Produce"
+    ]
+  },
+  {
+    "persona_name": "Community Forum User",
+    "description": "Participates in group discussions online.",
+    "categories": [
+      "Online Communities",
+      "Internet & Telecom"
+    ],
+    "intents": [
+      "Communicate / Share",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Social Media Poster",
+    "description": "Shares updates and interacts with friends.",
+    "categories": [
+      "Online Communities",
+      "People & Society"
+    ],
+    "intents": [
+      "Communicate / Share",
+      "Entertain / Relax"
+    ]
+  },
+  {
+    "persona_name": "Beginner Blogger",
+    "description": "Learns to write blog posts and publish content.",
+    "categories": [
+      "Internet & Telecom",
+      "Books & Literature"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Productivity App User",
+    "description": "Finds tools to better organize tasks and schedules.",
+    "categories": [
+      "Internet & Telecom",
+      "Reference"
+    ],
+    "intents": [
+      "Plan / Organize",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Home Budgeter",
+    "description": "Researches budgeting methods and tracks personal finances.",
+    "categories": [
+      "Business & Industrial",
+      "Reference"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Monitor / Track",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Stock Market Observer",
+    "description": "Follows market updates and reads investing fundamentals.",
+    "categories": [
+      "Business & Industrial",
+      "News"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Entrepreneur Planner",
+    "description": "Explores business registration, funding, and strategy ideas.",
+    "categories": [
+      "Business & Industrial",
+      "Law & Government",
+      "Reference"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Freelance Designer",
+    "description": "Researches design trends and shares work online.",
+    "categories": [
+      "Arts & Entertainment",
+      "Internet & Telecom"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Communicate / Share",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Amateur Music Producer",
+    "description": "Learns how to create tracks and purchase audio equipment.",
+    "categories": [
+      "Arts & Entertainment",
+      "Computers & Electronics",
+      "Shopping"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Buy / Acquire",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Audiobook Listener",
+    "description": "Revisits saved audiobooks and finds new titles.",
+    "categories": [
+      "Books & Literature"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Book Club Reader",
+    "description": "Reads novels and participates in online book discussions.",
+    "categories": [
+      "Books & Literature",
+      "Online Communities"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Communicate / Share",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "DIY Crafter",
+    "description": "Looks up craft tutorials and creates handmade items.",
+    "categories": [
+      "Hobbies & Leisure"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Sewing Hobbyist",
+    "description": "Learns new sewing patterns and tools.",
+    "categories": [
+      "Hobbies & Leisure",
+      "Shopping"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Buy / Acquire",
+      "Create / Produce"
+    ]
+  },
+  {
+    "persona_name": "Home Mechanic",
+    "description": "Looks up car repair instructions and maintenance schedules.",
+    "categories": [
+      "Autos & Vehicles",
+      "Hobbies & Leisure"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Monitor / Track"
+    ]
+  },
+  {
+    "persona_name": "Used Car Researcher",
+    "description": "Compares used car options and reliability reports.",
+    "categories": [
+      "Autos & Vehicles",
+      "Shopping"
+    ],
+    "intents": [
+      "Compare / Evaluate",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Esports Fan",
+    "description": "Watches esports tournaments and tracks player stats.",
+    "categories": [
+      "Games",
+      "Sports"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Monitor / Track"
+    ]
+  },
+  {
+    "persona_name": "Sports Stats Tracker",
+    "description": "Monitors team standings and player performance.",
+    "categories": [
+      "Sports"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Running Enthusiast",
+    "description": "Plans training routines and tracks progress.",
+    "categories": [
+      "Sports",
+      "Beauty & Fitness"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Plan / Organize",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Outdoor Gear Shopper",
+    "description": "Compares outdoor equipment before buying.",
+    "categories": [
+      "Shopping",
+      "Hobbies & Leisure"
+    ],
+    "intents": [
+      "Buy / Acquire",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Luxury Fashion Browser",
+    "description": "Looks at fashion trends and compares designer brands.",
+    "categories": [
+      "Shopping",
+      "Arts & Entertainment"
+    ],
+    "intents": [
+      "Compare / Evaluate",
+      "Entertain / Relax"
+    ]
+  },
+  {
+    "persona_name": "Grocery Deal Hunter",
+    "description": "Finds weekly grocery deals and compares prices.",
+    "categories": [
+      "Shopping",
+      "Food & Drink"
+    ],
+    "intents": [
+      "Buy / Acquire",
+      "Compare / Evaluate",
+      "Monitor / Track"
+    ]
+  },
+  {
+    "persona_name": "Recipe Learner",
+    "description": "Reads recipes and cooking techniques online.",
+    "categories": [
+      "Food & Drink"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Create / Produce"
+    ]
+  },
+  {
+    "persona_name": "Home Brewer",
+    "description": "Learns brewing techniques and buys equipment.",
+    "categories": [
+      "Food & Drink",
+      "Hobbies & Leisure",
+      "Shopping"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Research / Learn",
+      "Buy / Acquire"
+    ]
+  },
+  {
+    "persona_name": "Pet Health Monitor",
+    "description": "Tracks pet health and reads care guidance.",
+    "categories": [
+      "Pets & Animals"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Cat Adoption Explorer",
+    "description": "Researches cat breeds and adoption centers.",
+    "categories": [
+      "Pets & Animals"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Dog Toy Shopper",
+    "description": "Finds chew toys and compares durability.",
+    "categories": [
+      "Pets & Animals",
+      "Shopping"
+    ],
+    "intents": [
+      "Buy / Acquire",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Eco-Friendly Shopper",
+    "description": "Researches sustainable products and compares alternatives.",
+    "categories": [
+      "Science",
+      "Shopping"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Health Advice Reader",
+    "description": "Looks up wellness articles and reference materials.",
+    "categories": [
+      "Reference",
+      "Beauty & Fitness"
+    ],
+    "intents": [
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Academic Researcher",
+    "description": "Studies scholarly topics and revisits journals.",
+    "categories": [
+      "Reference",
+      "Science"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Legal Information Seeker",
+    "description": "Reads about legal rights and processes.",
+    "categories": [
+      "Law & Government",
+      "Reference"
+    ],
+    "intents": [
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Civic Engagement Follower",
+    "description": "Monitors government announcements and community issues.",
+    "categories": [
+      "Law & Government",
+      "News"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Tech News Reader",
+    "description": "Follows updates on new software and hardware releases.",
+    "categories": [
+      "News",
+      "Computers & Electronics"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Gadget Reviewer",
+    "description": "Creates product reviews and posts online.",
+    "categories": [
+      "Computers & Electronics",
+      "Online Communities"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Communicate / Share",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Programming Learner",
+    "description": "Reads tutorials and revisits documentation for coding.",
+    "categories": [
+      "Computers & Electronics",
+      "Jobs & Education"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Mobile App Tester",
+    "description": "Tries new apps and provides feedback online.",
+    "categories": [
+      "Internet & Telecom",
+      "Online Communities"
+    ],
+    "intents": [
+      "Communicate / Share",
+      "Create / Produce"
+    ]
+  },
+  {
+    "persona_name": "Social Media Consumer",
+    "description": "Scrolls feeds and watches casual content.",
+    "categories": [
+      "Online Communities"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Digital Organizer",
+    "description": "Uses digital tools to manage tasks and calendars.",
+    "categories": [
+      "Internet & Telecom",
+      "Reference"
+    ],
+    "intents": [
+      "Plan / Organize",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Student Researcher",
+    "description": "Looks up educational materials and exam guides.",
+    "categories": [
+      "Jobs & Education",
+      "Reference"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Online Tutor",
+    "description": "Creates learning materials and communicates with students.",
+    "categories": [
+      "Jobs & Education",
+      "Internet & Telecom"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Communicate / Share"
+    ]
+  },
+  {
+    "persona_name": "Craft Workshop Organizer",
+    "description": "Plans hobby workshops and buys supplies.",
+    "categories": [
+      "Hobbies & Leisure",
+      "Shopping"
+    ],
+    "intents": [
+      "Plan / Organize",
+      "Buy / Acquire"
+    ]
+  },
+  {
+    "persona_name": "Home Improvement Planner",
+    "description": "Researches renovation ideas and budgets materials.",
+    "categories": [
+      "Home & Garden",
+      "Shopping"
+    ],
+    "intents": [
+      "Plan / Organize",
+      "Research / Learn",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Minimalist Lifestyle Learner",
+    "description": "Explores decluttering strategies and home design ideas.",
+    "categories": [
+      "People & Society",
+      "Home & Garden"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Cultural Events Attendee",
+    "description": "Finds concerts, museums, and events to visit.",
+    "categories": [
+      "Arts & Entertainment",
+      "Travel & Transportation"
+    ],
+    "intents": [
+      "Plan / Organize",
+      "Entertain / Relax"
+    ]
+  },
+  {
+    "persona_name": "Local Tourist",
+    "description": "Explores nearby attractions and restaurants.",
+    "categories": [
+      "Travel & Transportation",
+      "Food & Drink"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Entertain / Relax"
+    ]
+  },
+  {
+    "persona_name": "Hotel Deal Finder",
+    "description": "Compares hotel prices and books stays.",
+    "categories": [
+      "Travel & Transportation",
+      "Shopping"
+    ],
+    "intents": [
+      "Compare / Evaluate",
+      "Buy / Acquire",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Flight Tracker",
+    "description": "Monitors airline delays and price changes.",
+    "categories": [
+      "Travel & Transportation"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Theme Park Visitor",
+    "description": "Plans trips and compares ticket options.",
+    "categories": [
+      "Travel & Transportation",
+      "Arts & Entertainment"
+    ],
+    "intents": [
+      "Plan / Organize",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Eco Traveler",
+    "description": "Researches sustainable travel choices.",
+    "categories": [
+      "Travel & Transportation",
+      "Science"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Fantasy Sports Player",
+    "description": "Tracks player stats and manages fantasy leagues.",
+    "categories": [
+      "Sports",
+      "Online Communities"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Plan / Organize",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Casual Sports Viewer",
+    "description": "Watches highlights and reads game summaries.",
+    "categories": [
+      "Sports",
+      "Arts & Entertainment"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Athletic Gear Shopper",
+    "description": "Compares sports equipment and purchases items.",
+    "categories": [
+      "Sports",
+      "Shopping"
+    ],
+    "intents": [
+      "Buy / Acquire",
+      "Compare / Evaluate"
+    ]
+  },
+  {
+    "persona_name": "Parent of Student",
+    "description": "Researches school programs and academic schedules.",
+    "categories": [
+      "People & Society",
+      "Jobs & Education"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Wedding Planner",
+    "description": "Plans wedding logistics and compares vendors.",
+    "categories": [
+      "People & Society",
+      "Shopping"
+    ],
+    "intents": [
+      "Plan / Organize",
+      "Compare / Evaluate",
+      "Buy / Acquire"
+    ]
+  },
+  {
+    "persona_name": "Community Volunteer",
+    "description": "Discovers volunteer events and shares them with others.",
+    "categories": [
+      "People & Society",
+      "Law & Government"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Communicate / Share"
+    ]
+  },
+  {
+    "persona_name": "Decor Hobby Photographer",
+    "description": "Takes home interior photos and shares them online.",
+    "categories": [
+      "Home & Garden",
+      "Online Communities"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Communicate / Share"
+    ]
+  },
+  {
+    "persona_name": "News Article Researcher",
+    "description": "Reads background information for news topics.",
+    "categories": [
+      "News",
+      "Reference"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Marketplace Seller",
+    "description": "Lists items for sale and communicates with buyers.",
+    "categories": [
+      "Shopping",
+      "Internet & Telecom"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Communicate / Share"
+    ]
+  },
+  {
+    "persona_name": "3D Printing Hobbyist",
+    "description": "Learn modeling techniques and buys printing supplies.",
+    "categories": [
+      "Hobbies & Leisure",
+      "Computers & Electronics",
+      "Shopping"
+    ],
+    "intents": [
+      "Create / Produce",
+      "Research / Learn",
+      "Buy / Acquire"
+    ]
+  },
+  {
+    "persona_name": "Drone Operator Learner",
+    "description": "Researches drone rules and flight techniques.",
+    "categories": [
+      "Hobbies & Leisure",
+      "Science"
+    ],
+    "intents": [
+      "Research / Learn",
+      "Plan / Organize"
+    ]
+  },
+  {
+    "persona_name": "Cooking Video Watcher",
+    "description": "Watches cooking videos for fun and ideas.",
+    "categories": [
+      "Food & Drink",
+      "Arts & Entertainment"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Interior Inspiration Viewer",
+    "description": "Looks at design photos and revisits saved ideas.",
+    "categories": [
+      "Home & Garden",
+      "Arts & Entertainment"
+    ],
+    "intents": [
+      "Entertain / Relax",
+      "Resume / Revisit"
+    ]
+  },
+  {
+    "persona_name": "Recipe Collector",
+    "description": "Saves and revisits recipes from multiple sites.",
+    "categories": [
+      "Food & Drink"
+    ],
+    "intents": [
+      "Resume / Revisit",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Budget Planner",
+    "description": "Tracks expenses and studies budgeting principles.",
+    "categories": [
+      "Business & Industrial",
+      "Reference"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Research / Learn"
+    ]
+  },
+  {
+    "persona_name": "Online Community Moderator",
+    "description": "Monitors user activity and communicates with members.",
+    "categories": [
+      "Online Communities",
+      "Internet & Telecom"
+    ],
+    "intents": [
+      "Monitor / Track",
+      "Communicate / Share"
+    ]
+  }
+]
