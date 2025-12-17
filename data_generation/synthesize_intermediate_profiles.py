@@ -12,9 +12,19 @@ np.random.seed(2025)
 
 PERSONA_DIR = "./persona_data"
 BANK_DIR = "./websites"
+OUTPUT_DIR = "./records"
+
+if not os.path.isdir(OUTPUT_DIR):
+    os.makedirs(OUTPUT_DIR)
 
 START_TIME = 1760720236895000
 END_TIME = 1765907836895000
+
+with open("./data/query_labels.json") as f:
+    QUERY_LABELS = json.load(f)
+
+with open("./data/url_labels.json") as f:
+    URL_LABELS = json.load(f)
 
 SEARCH_ENGINE_DOMAINS = [
   "google",
@@ -30,16 +40,10 @@ SEARCH_ENGINE_DOMAINS = [
 
 
 def _get_args():
-    global OUTPUT_DIR
     parser = argparse.ArgumentParser()
     parser.add_argument("--min-records", dest="min_records", type=int, default=30)
     parser.add_argument("--max-records", dest="max_records", type=int, default=30)
-    parser.add_argument("--output-dir", dest="output_dir", default="records")
     args = parser.parse_args()
-
-    OUTPUT_DIR = args.output_dir
-    if not os.path.isdir(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
 
     return args
 
@@ -50,7 +54,8 @@ def _insert_query(records, query):
     url = f"https://{domain}.com/search?q={converted_query}"
     host = f"{domain}.com"
     title = f"{domain.capitalize()} Search : {query}"
-    records.append([url, host, title, 0])
+    category, intent = QUERY_LABELS[query]['labels']
+    records.append([url, host, title, 0, category, intent])
 
 
 def _insert_websites(records, selected_websites):
@@ -61,7 +66,8 @@ def _insert_websites(records, selected_websites):
         second_half = url.split("//")[1]
         host = second_half.split("/")[0]
         elapse += random.randint(10000000, 120000000) # 10~120 seconds
-        records.append([url, host, title, elapse])
+        category, intent = URL_LABELS[url]['labels']
+        records.append([url, host, title, elapse, category, intent])
 
 
 def randomly_insert_records(records, available_queries, query_websites):
@@ -144,19 +150,18 @@ def get_frec_dict(arr):
             recency_dict[text] = list()
         recency_dict[text].append(idx)
 
-    sudo_res = list()
-    for text in arr:
-        freq = freq_dict[text]
-        recency = sum(recency_dict[text])
-        sudo_res.append(freq * recency)
+    freq_arr = [freq_dict[text] for text in arr]
+    rec_arr = [sum(recency_dict[text]) for text in arr]
+    freq_arr = normalize_to_range(freq_arr)
+    rec_arr = normalize_to_range(rec_arr)
 
-    recency = normalize_to_range(sudo_res)
+    recency = [(x + y) / 2 for x, y in zip(freq_arr, rec_arr)]
     return dict(zip(arr, recency))
 
 
 def build_intermediate_profile(fname, args):
     """
-    url | host | title | visit_date | frecency_pct | domain_frecency_pct
+    url | host | title | category | intent | visit_date | frecency_pct | domain_frecency_pct
     visit_date ~= 1765400059075515
     """
     with open(os.path.join(PERSONA_DIR, fname)) as f:
@@ -179,7 +184,7 @@ def build_intermediate_profile(fname, args):
     assign_frec_pct(records)
     assign_domain_frec_pct(records)
 
-    columns = ['url', 'host', 'title', 'visit_date', 'frecency_pct', 'domain_frecency_pct']
+    columns = ['url', 'host', 'title', 'visit_date', 'category', 'intent', 'frecency_pct', 'domain_frecency_pct']
     df = pd.DataFrame(columns=columns, data=records)
     df.to_csv(os.path.join(OUTPUT_DIR, fname[:-4] + "csv"), index=False)
 
