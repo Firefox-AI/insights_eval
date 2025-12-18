@@ -244,3 +244,192 @@ Input persona:
 """
 
 
+SYSTEM_PROMPT_LABEL_QUERY = """
+You are tasked to assign a category and an intent to a given query.
+Return the most relevant [category, intent] pair.
+Do not return intent description, for example the expected result should look like ["Science", "Research / Learn"]
+
+VALID_CATEGORIES = [
+  "Arts & Entertainment",
+  "Autos & Vehicles",
+  "Beauty & Fitness",
+  "Books & Literature",
+  "Business & Industrial",
+  "Computers & Electronics",
+  "Food & Drink",
+  "Games",
+  "Hobbies & Leisure",
+  "Home & Garden",
+  "Internet & Telecom",
+  "Jobs & Education",
+  "Law & Government",
+  "News",
+  "Online Communities",
+  "People & Society",
+  "Pets & Animals",
+  "Real Estate",
+  "Reference",
+  "Science",
+  "Shopping",
+  "Sports",
+  "Travel & Transportation",
+]
+
+VALID_INTENTS = {
+  "Research / Learn": "User is seeking new information, understanding, explanations, or background knowledge about a topic.",
+  "Compare / Evaluate": "User is assessing differences, pros/cons, quality, or suitability between multiple options.",
+  "Plan / Organize": "User is structuring future actions, logistics, schedules, or decisions.",
+  "Buy / Acquire": "User intends to purchase, order, or obtain a product, service, or resource.",
+  "Create / Produce": "User is trying to make something or generate original output, either physical or digital.",
+  "Communicate / Share": "User intends to interact with others, exchange information, or post/share content.",
+  "Monitor / Track": "User is checking updates, status changes, progress, or real-time information.",
+  "Entertain / Relax": "User is engaging in leisure or recreation without a goal beyond enjoyment.",
+  "Resume / Revisit": "User is returning to previously viewed or ongoing content, tasks, or activities.",
+}
+"""
+
+
+USER_PROMPT_LABEL_QUERY = """
+query:
+{}
+"""
+
+SYSTEM_PROMPT_LABEL_WEBSITE = """
+You are tasked to assign a category and an intent to a given website.
+You will be given the URL and title of the website.
+Return the most relevant [category, intent] pair.
+Do not return intent description, for example the expected result should look like ["Science", "Research / Learn"]
+
+VALID_CATEGORIES = [
+  "Arts & Entertainment",
+  "Autos & Vehicles",
+  "Beauty & Fitness",
+  "Books & Literature",
+  "Business & Industrial",
+  "Computers & Electronics",
+  "Food & Drink",
+  "Games",
+  "Hobbies & Leisure",
+  "Home & Garden",
+  "Internet & Telecom",
+  "Jobs & Education",
+  "Law & Government",
+  "News",
+  "Online Communities",
+  "People & Society",
+  "Pets & Animals",
+  "Real Estate",
+  "Reference",
+  "Science",
+  "Shopping",
+  "Sports",
+  "Travel & Transportation",
+]
+
+VALID_INTENTS = {
+  "Research / Learn": "User is seeking new information, understanding, explanations, or background knowledge about a topic.",
+  "Compare / Evaluate": "User is assessing differences, pros/cons, quality, or suitability between multiple options.",
+  "Plan / Organize": "User is structuring future actions, logistics, schedules, or decisions.",
+  "Buy / Acquire": "User intends to purchase, order, or obtain a product, service, or resource.",
+  "Create / Produce": "User is trying to make something or generate original output, either physical or digital.",
+  "Communicate / Share": "User intends to interact with others, exchange information, or post/share content.",
+  "Monitor / Track": "User is checking updates, status changes, progress, or real-time information.",
+  "Entertain / Relax": "User is engaging in leisure or recreation without a goal beyond enjoyment.",
+  "Resume / Revisit": "User is returning to previously viewed or ongoing content, tasks, or activities.",
+}
+"""
+
+
+USER_PROMPT_LABEL_WEBSITE = """
+website:
+{}
+"""
+
+
+SYSTEM_PROMPT_REFINE_SEARCH_RESULTS = """
+You will be given a query and a list of websites (url and title).
+You are tasked to identify which websites in the list match the goal of this query and return those in a new list.
+Do not modify any website title.
+"""
+
+
+USER_PROMPT_REFINE_SEARCH_RESULTS = """
+Query:
+{}
+
+Websites:
+{}
+"""
+
+
+SYSTEM_PROMPT_GENERATE_INSIGHTS = """
+You are tasked to generate a list of insights from a given user profile.
+In a user profile you will find many history visit records, you will summarize those records and build a list of representative insights following below guidelines and provided valid categories / intents.
+
+VALID_CATEGORIES = [
+  "Arts & Entertainment",
+  "Autos & Vehicles",
+  "Beauty & Fitness",
+  "Books & Literature",
+  "Business & Industrial",
+  "Computers & Electronics",
+  "Food & Drink",
+  "Games",
+  "Hobbies & Leisure",
+  "Home & Garden",
+  "Internet & Telecom",
+  "Jobs & Education",
+  "Law & Government",
+  "News",
+  "Online Communities",
+  "People & Society",
+  "Pets & Animals",
+  "Real Estate",
+  "Reference",
+  "Science",
+  "Shopping",
+  "Sports",
+  "Travel & Transportation",
+]
+
+VALID_INTENTS = [
+  "Research / Learn",
+  "Compare / Evaluate",
+  "Plan / Organize",
+  "Buy / Acquire",
+  "Create / Produce",
+  "Communicate / Share",
+  "Monitor / Track",
+  "Entertain / Relax",
+  "Resume / Revisit",
+]
+
+Valid history record elements:
+- url: The URL user visited.
+- host: The host of the website user visited.
+- visit_date: The timestamp of this visit.
+- frecency_pct: A number between 0 and 100 representing the frecency of the visited website.
+- domain_frecency_pct: A number between 0 and 100 representing the frecency of the visited website host.
+
+Valid insight elements:
+- insight_summary: A concise human-readable label capturing the main theme or goal behind a cluster of browsing activities. For example, "Trip Plans to Italy"
+- category: The high-level domain of user interest from VALID_CATEGORIES that best represents the browsing behavior related to this insight. For example, "Travel & Transportation"
+- intent: The underlying purpose of the user’s behavior from VALID_INTENTS, inferred from their actions and queries. For example, "Plan / Organize"
+- score: A relevance or confidence score ranging from 1 to 5 indicating how strongly the browsing records support this insight.
+
+Guidelines:
+- Insights should group related records into a meaningful purpose.
+- Each insight should have exactly a proper intent a proper category, seperate the insight if it includes multiple categories / intents, drop the insight if there exists no proper category / intent.
+- Summaries should be concise and human-readable.
+- Should not generate similar insights.
+- Category and intent must match the meaning of the grouped behaviors.
+- Do not fabricate details not supported by the browsing records.
+- Use only categories and intents from the provided lists.
+"""
+
+
+USER_PROMPT_GENERATE_INSIGHTS = """
+User profile (history visits):
+{}
+"""
+

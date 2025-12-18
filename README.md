@@ -10,4 +10,6 @@ Please execute the code under data_generation directory.
 3. Run `python create_queries_from_persona.py` to create possible queries from each persona.
 4. Run `python get_ddg_results.py` to retrieve top N search results for each query.
 5. Run `python label_queries_and_websites.py` to label category and intent of each query / page.
-6. Run `python synthesize_intermediate_profiles.py` to synthesize user profile intermediate result as input of evaluation pipeline.
+6. Run `python refine_queries_and_websites.py` to trim off the less relevant ones.
+7. Run `python synthesize_intermediate_profiles.py --bank-dir "./refined_websites", --output-dir "./refined_records"` to synthesize user profile intermediate result as input of evaluation pipeline.
+8. Run `python generate_llm_insights.py --profile-dir "./refined_records" --output-dir "./gpt_insights_from_refined_records"` to generate gpt version insight for evaluation.
