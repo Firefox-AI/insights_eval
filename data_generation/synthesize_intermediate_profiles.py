@@ -10,13 +10,6 @@ from collections import Counter
 random.seed(2025)
 np.random.seed(2025)
 
-PERSONA_DIR = "./persona_data"
-BANK_DIR = "./websites"
-OUTPUT_DIR = "./records"
-
-if not os.path.isdir(OUTPUT_DIR):
-    os.makedirs(OUTPUT_DIR)
-
 START_TIME = 1760720236895000
 END_TIME = 1765907836895000
 
@@ -43,7 +36,13 @@ def _get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--min-records", dest="min_records", type=int, default=30)
     parser.add_argument("--max-records", dest="max_records", type=int, default=30)
+    parser.add_argument("--bank-dir", dest="bank_dir", default="./websites", help="bank of all the query-website records")
+    parser.add_argument("--persona-dir", dest="persona_dir", default="./persona_data", help="directory of all persona data")
+    parser.add_argument("--output-dir", dest="output_dir", default="./records", help="output directory")
     args = parser.parse_args()
+
+    if not os.path.isdir(args.output_dir):
+        os.makedirs(args.output_dir)
 
     return args
 
@@ -164,10 +163,10 @@ def build_intermediate_profile(fname, args):
     url | host | title | category | intent | visit_date | frecency_pct | domain_frecency_pct
     visit_date ~= 1765400059075515
     """
-    with open(os.path.join(PERSONA_DIR, fname)) as f:
+    with open(os.path.join(args.persona_dir, fname)) as f:
         persona_data = json.load(f)
 
-    with open(os.path.join(BANK_DIR, fname)) as f:
+    with open(os.path.join(args.bank_dir, fname)) as f:
         query_websites = json.load(f)
 
     available_queries = list(query_websites.keys())
@@ -186,12 +185,12 @@ def build_intermediate_profile(fname, args):
 
     columns = ['url', 'host', 'title', 'visit_date', 'category', 'intent', 'frecency_pct', 'domain_frecency_pct']
     df = pd.DataFrame(columns=columns, data=records)
-    df.to_csv(os.path.join(OUTPUT_DIR, fname[:-4] + "csv"), index=False)
+    df.to_csv(os.path.join(args.output_dir, fname[:-4] + "csv"), index=False)
 
 
 def main():
     args = _get_args()
-    file_names = sorted(os.listdir(PERSONA_DIR))
+    file_names = sorted(os.listdir(args.persona_dir))
     process_list = [
         Process(target=build_intermediate_profile, args=(fname, args)) for fname in file_names
     ]
