@@ -10,8 +10,13 @@ from collections import Counter
 random.seed(2025)
 np.random.seed(2025)
 
+# 10 seconds
 START_TIME = 1760720236895000
+# 120 seconds
 END_TIME = 1765907836895000
+
+# Minimum websites a query must have to be included
+MIN_WEBSITES_PER_QUERY = 3
 
 with open("./data/query_labels.json") as f:
     QUERY_LABELS = json.load(f)
@@ -69,16 +74,28 @@ def _insert_websites(records, selected_websites):
         records.append([url, host, title, elapse, category, intent])
 
 
-def randomly_insert_records(records, available_queries, query_websites):
+def randomly_insert_records(records, available_queries, query_websites, used_queries):
+
     query = random.sample(available_queries, 1)[0]
-    _insert_query(records, query)
-
-    website_set = query_websites[query]
-    if not website_set:
+    # Check if we've already used a query -> can't duplicate queries
+    if query in used_queries:
         return
+    used_queries.append(query)
 
-    num = random.randint(1, len(website_set))
+    # Randomly select between MIN_WEBSITES_PER_QUERY and len(website_set) websites for each query
+    # If a query has fewer than MIN_WEBSITES_PER_QUERY websites, skip it
+    # We need enough websites in each query to have sufficient evidence for a memory
+    website_set = query_websites[query]
+    num_websites = len(website_set)
+    if num_websites == MIN_WEBSITES_PER_QUERY:
+        num = MIN_WEBSITES_PER_QUERY
+    elif num_websites > MIN_WEBSITES_PER_QUERY:
+        num = random.randint(MIN_WEBSITES_PER_QUERY, len(website_set))
+    else:
+        return
     selected_websites = random.sample(website_set, num)
+
+    _insert_query(records, query)
     _insert_websites(records, selected_websites)
 
 
@@ -163,29 +180,38 @@ def build_intermediate_profile(fname, args):
     url | host | title | category | intent | visit_date | frecency_pct | domain_frecency_pct
     visit_date ~= 1765400059075515
     """
-    with open(os.path.join(args.persona_dir, fname)) as f:
-        persona_data = json.load(f)
 
     with open(os.path.join(args.bank_dir, fname)) as f:
         query_websites = json.load(f)
 
     available_queries = list(query_websites.keys())
+    used_queries = []
 
     limit = random.randint(args.min_records, args.max_records+1)
     records = list()
 
+    last_records_len = -1
+    retries = 0
     while len(records) < limit:
-        randomly_insert_records(records, available_queries, query_websites)
+        randomly_insert_records(records, available_queries, query_websites, used_queries)
+        if len(records) > last_records_len:
+            last_records_len = len(records)
+        else:
+            if retries < 5:
+                retries += 1
+            else:
+                break
 
-    records = records[:limit]
+    if len(records) >= limit:
+        records = records[:limit]
 
-    post_process_visit_date(records)
-    assign_frec_pct(records)
-    assign_domain_frec_pct(records)
+        post_process_visit_date(records)
+        assign_frec_pct(records)
+        assign_domain_frec_pct(records)
 
-    columns = ['url', 'host', 'title', 'visit_date', 'category', 'intent', 'frecency_pct', 'domain_frecency_pct']
-    df = pd.DataFrame(columns=columns, data=records)
-    df.to_csv(os.path.join(args.output_dir, fname[:-4] + "csv"), index=False)
+        columns = ['url', 'host', 'title', 'visit_date', 'category', 'intent', 'frecency_pct', 'domain_frecency_pct']
+        df = pd.DataFrame(columns=columns, data=records)
+        df.to_csv(os.path.join(args.output_dir, fname[:-4] + "csv"), index=False)
 
 
 def main():
