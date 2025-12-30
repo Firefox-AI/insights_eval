@@ -126,7 +126,7 @@ SEARCH_ENGINE_REGEX = re.compile(
 )
 
 # Markdown JSON extraction regex
-JSON_REGEX = re.compile(r"(?:```json)?(.*)(?:```)?", re.DOTALL)
+JSON_REGEX = re.compile(r"(?:```json)?([\[\{].*[\}\]])(?:```)?", re.DOTALL)
 
 
 class MemoryEvaluator:
@@ -286,6 +286,7 @@ Give your answer as a JSON list in the following format:
                 comparison_json_out = [query for query in MemoryEvaluator.extract_and_parse_json_response(resp.choices[0].message.content) if query in used_queries]
                 break
             except Exception as e:
+                print(f"Failed to extract insight/query comparison data: {e}")
                 continue
         return comparison_json_out
 
@@ -327,6 +328,7 @@ If you do not identify any groups of such statements, simply return an empty lis
                 dup_json_out = MemoryEvaluator.extract_and_parse_json_response(resp.choices[0].message.content)
                 break
             except Exception as e:
+                print(f"Failed to extract duplicates list: {e}")
                 continue
 
         return dup_json_out
