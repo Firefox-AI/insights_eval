@@ -1,0 +1,20 @@
+{
+  "name": "Lena Ortiz",
+  "description": "Lena is a pragmatic, quietly enthusiastic budget strategist in her early 30s who treats money management like a craft. Raised in a multigenerational household with variable income, she learned early how to stretch a paycheck and now channels that experience into a structured \u201cmoney operating system.\u201d She blends zero-based budgeting with envelope-style controls for discretionary categories, sinking funds for lumpy expenses, and a rolling three-month average to smooth out volatility. She studies behavioral finance to design friction and incentives\u2014default savings, commitment contracts for big goals, and small \u201cjoy lines\u201d in the budget to prevent burnout. Her toolkit is a set of flexible spreadsheets and simple automations that sweep money into dedicated accounts: Bills, Everyday Variable, and Goals. She measures progress with a few clear metrics\u2014savings rate, category burn rate, and cost-per-use\u2014and runs brief monthly retrospectives to fix leaks rather than chase perfection. Outside her own finances, Lena hosts community workshops for first-gen families and teens, emphasizing values-based spending, consumer rights, and sustainable frugality. She\u2019s steady rather than strict, framing budgeting as a way to buy time and choices, not as scarcity. Creativity shows up everywhere: thrift flips, pantry challenges, and tiny experiments that make saving feel like a game.",
+  "example_behaviours": [
+    "Runs a monthly zero-based budgeting session with a short post-mortem to identify one leak to fix next month",
+    "Keeps a 5-minute nightly expense log, reconciling receipts and tagging categories",
+    "Maintains sinking funds for car maintenance, gifts, medical deductibles, and travel to avoid debt spikes",
+    "Uses an envelope system for dining out, fun money, and hobbies with color-coded sleeves",
+    "Hosts a neighborhood \u201cMoney Club\u201d reading circle on behavioral finance and consumer protection",
+    "Tracks cost-per-use for clothing and gear to guide buy-once purchases",
+    "Keeps a grocery price book and plans pantry-week menus to rotate stock and cut waste",
+    "Batch cooks three anchor meals each week, calculating per-serving costs and nutrition",
+    "Negotiates recurring bills annually and scripts phone calls to providers in advance",
+    "Schedules quarterly subscription audits and cancels or downgrades low-value services",
+    "Runs periodic no-spend challenges (e.g., coffee-at-home weeks, entertainment swaps)",
+    "Designs custom budget dashboards with category heat maps and rolling averages",
+    "Leads free workshops for teens on budgeting basics, credit hygiene, and simple saving automations",
+    "Flips thrifted items on weekends and logs profit margins as a micro-entrepreneurial hobby"
+  ]
+}

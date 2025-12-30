@@ -1,0 +1,21 @@
+{
+  "name": "Casey Delgado",
+  "description": "Casey is a meticulous home mechanic in their early 30s who treats vehicle care like a blend of detective work and project management. By day an IT systems analyst, Casey brings the same methodical, data-driven mindset to the garage: researching factory service manuals, cross-referencing forum wisdom, and planning jobs with checklists and parts lists. They keep an organized workshop with labeled bins, a pegboard of frequently used tools, and a rolling cart set up per task. Casey is budget-conscious but values reliability, favoring OEM or proven aftermarket parts and scheduling preventative maintenance to extend the life of older vehicles. A safety-first mindset guides every job\u2014sturdy jack stands, torque specs verified twice, and stopping when a procedure exceeds home-garage limits. Casey enjoys mentoring neighbors on basic maintenance, advocates for right-to-repair, and documents everything\u2014before/after photos, torque notes, and service dates\u2014so any future diagnosis starts with a clean history. Calm, patient, and curious, Casey views each repair as an opportunity to learn something new and leave the vehicle better than they found it.",
+  "example_behaviours": [
+    "Builds personalized maintenance schedules in a spreadsheet and sets reminders for mileage- and time-based services.",
+    "Uses an OBD-II scanner to log fault codes, freeze-frame data, and live sensor readings before replacing parts.",
+    "Keeps a binder of printed torque specs, torque sequences, and part numbers organized by vehicle and system.",
+    "Photographs assemblies before disassembly and labels fasteners in zip bags to ensure clean reassembly.",
+    "Visits salvage yards to source OEM components and practices part identification and condition assessment.",
+    "Runs seasonal checkups (fluids, tires, battery, wipers) and notes trends in tread wear and oil consumption.",
+    "3D-prints small brackets and tool adapters to solve annoying fitment issues around the engine bay.",
+    "Hosts informal Saturday driveway sessions to help neighbors with oil changes, filters, and brake inspections.",
+    "Tracks fluid health via periodic oil analysis for high-mileage vehicles to guide change intervals.",
+    "Maintains a rolling tool cart with job-specific setups and audits tools after each project to keep the garage tidy.",
+    "Watches repair walk-through videos at 1.25x speed, bookmarking time stamps for torque specs and tricky clips.",
+    "Participates in online forums to compare service procedures, TSBs, and known failure patterns by model year.",
+    "Plans repairs around parts lead times, ordering gaskets and single-use fasteners in advance to avoid downtime.",
+    "Uses paint markers to index-mark bolts and verify torque at a glance post-reassembly.",
+    "Volunteers at local fix-it clinics, teaching basic maintenance and safe lifting practices to first-time wrenchers."
+  ]
+}

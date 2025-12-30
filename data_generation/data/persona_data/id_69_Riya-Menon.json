@@ -1,0 +1,21 @@
+{
+  "name": "Riya Menon",
+  "description": "Riya is a 28-year-old support specialist transitioning into backend development. She\u2019s a doc-first, experiment-driven learner who treats official documentation like a map and tutorials like guided hikes. Before writing code, she skims guides for mental models, then drills into API references, highlighting edge cases and version changes. She keeps meticulous notes in Obsidian, linking concepts across languages (Python, JavaScript/TypeScript) and maintaining a personal glossary of recurring terms. Riya learns by building tiny, disposable playgrounds that test one idea at a time, writing minimal reproducible examples and unit tests to probe behavior. She struggles with imposter syndrome but mitigates it through structured routines, peer study sessions, and measurable micro-goals. Tooling-wise, she uses VS Code with offline doc sets (Zeal), a request runner, and a test-first workflow. She favors clarity and reproducibility: every snippet has a README, and every bug gets a root-cause note. Community keeps her motivated\u2014she attends local Python meetups, contributes doc fixes to open source, and posts TILs. Her long-term aim is to build reliable backend services; in pursuit of that, she reads release notes, RFC summaries, and SRE best practices to ground her learning in real-world constraints. Outside coding, she enjoys bullet journaling, light climbing, and urban walks with a podcast queue of engineering stories\u2014activities that mirror her love for structure, iteration, and narrative learning.",
+  "example_behaviours": [
+    "Starts each day with a 15-minute doc warm-up (reads a section, captures 3 takeaways).",
+    "Maintains a public TIL repository with tagged snippets and links to official docs.",
+    "Builds tiny throwaway repos (\u201cplaygrounds\u201d) to test one API or concept at a time.",
+    "Keeps a \u201cbug zoo\u201d log: past bugs with root cause, fix, and prevention checklist.",
+    "Runs weekly \u201cDocs & Donuts\u201d study hour with friends to read, code, and compare notes.",
+    "Creates spaced-repetition flashcards from tricky doc details and version differences.",
+    "Rewrites earlier code after revisiting docs to simplify or use idiomatic patterns.",
+    "Summarizes monthly release notes of favorite libraries and shares a one-pager recap.",
+    "Tackles Advent of Code and kata sites, writing brief postmortems for each puzzle.",
+    "Contributes doc PRs (typo fixes, clearer examples) to open-source projects she uses.",
+    "Uses \u201cread-guide-then-API\u201d flow: narrative first, then exact signatures and edge cases.",
+    "Maintains a personal \u201cpitfall test suite\u201d of edge cases to run against new projects.",
+    "Records short screencasts where she explains a concept to future-herself.",
+    "Collects and prints cheat sheets (HTTP status codes, SQL joins, regex) for quick reference.",
+    "Schedules a weekly \u201crefactor hour\u201d to replace hacks with documented best practices."
+  ]
+}

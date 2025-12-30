@@ -1,0 +1,18 @@
+{
+  "name": "Maya Ortega",
+  "description": "Maya Ortega is a 34-year-old public library programs coordinator in Madison, Wisconsin, who treats staying on top of local news, policy updates, and community events as both a civic duty and a practical tool for her job. Each morning she triages city press releases, local outlets, school board notes, transit alerts, and neighborhood forums, logging items into a Notion database tagged by topic and urgency. Bilingual in English and Spanish, she summarizes key policy changes in plain language and translates important notices for Spanish-speaking patrons and neighbors. Nonpartisan and solutions-focused, she avoids hot takes, prioritizes verified sources, and tracks how decisions on zoning, public safety, budgets, and transit affect everyday residents and library programming. Outside work, she volunteers with her neighborhood association, maintains a shared community calendar, and organizes low-cost events that bridge groups. She prefers walking and biking, photographs evolving storefronts for a personal archive, and uses urban sketching and baking as quiet counterweights to her outward-facing routine.",
+  "example_behaviours": [
+    "6:30 a.m. daily triage: skims three local outlets and city press releases; saves summaries and tags items in Notion.",
+    "Subscribes to city council agenda RSS and highlights items affecting libraries, parks, and transit.",
+    "Attends first-Tuesday council meetings or watches the livestream; live-threads neutral summaries for neighbors.",
+    "Publishes a Friday \u201cCedar Street Digest\u201d email with 8\u201310 key policy updates and weekend event picks.",
+    "Maintains a shared Google Calendar of local events; cross-posts to the library bulletin and Spanish-language WhatsApp groups.",
+    "Applies a two-source rule before sharing; checks original ordinance PDFs, meeting minutes, or budget line items.",
+    "Hosts a Saturday \u2018News & Coffee\u2019 drop-in at the library to help patrons decode policy changes and services.",
+    "Volunteers as a poll worker and posts pre-election explainers about polling locations and ID requirements.",
+    "Commutes by bike and monitors transit alerts; advocates for safer crossings at neighborhood association meetings.",
+    "Urban sketches at the farmers\u2019 market; trades sketches for recipe cards and bakes sourdough for block potlucks.",
+    "Keeps a photo log of new small businesses and writes short spotlights to boost local visibility.",
+    "Schedules a Sunday evening \u2018quiet hour\u2019 to plan the week, queue posts, and prune alerts to reduce noise."
+  ]
+}

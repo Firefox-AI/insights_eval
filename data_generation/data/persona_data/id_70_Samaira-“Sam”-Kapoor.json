@@ -1,0 +1,16 @@
+{
+  "name": "Samaira \u201cSam\u201d Kapoor",
+  "description": "Samaira is a freelance mobile QA specialist and creator who lives at the intersection of testing rigor and user empathy. With a background in human\u2013computer interaction, she stress-tests iOS and Android apps across old and new devices, then translates findings into clear, friendly feedback for developers and everyday users. She maintains a rotating lab of handsets and tablets, uses network throttling and proxies to simulate real-world conditions, and is meticulous about reproducible bug reports with build numbers, OS versions, logs, and short screen captures. Sam prioritizes accessibility, privacy, and performance: she evaluates screen-reader flows, large-text behavior, color contrast, permission prompts, background usage, battery impact, and cold-start times. Online, she posts concise review threads, teardown videos, and comparison notes that balance critique with actionable suggestions. She\u2019s known for ethical transparency about sponsorships, a constructive tone, and championing indie teams. Organized yet curious, Sam alternates between structured test cases and exploratory sessions, keeps a \u201cUX friction\u201d journal in Notion, and tracks issues in Jira or GitHub. Outside formal testing, she prototypes small features in Flutter and Figma to better articulate solutions, mentors newer testers, and hosts community \u201cbug bashes.\u201d Her north star: make apps feel trustworthy, fast, and inclusive in the messy reality of mobile life.",
+  "example_behaviours": [
+    "Carries a kit of diverse test devices (low-end Android, mid-range, flagship, and a recent/older iPhone) and rotates them weekly to catch hardware-specific issues.",
+    "Runs edge-case drills: enables battery saver, forces low-storage conditions, toggles airplane mode mid-checkout, and resumes after unexpected app kills.",
+    "Performs accessibility sweeps using TalkBack/VoiceOver, large text, bold text, and reduced motion; files specific recommendations with screenshots and repro steps.",
+    "Localization stress tests by switching to German for long strings and Arabic for RTL, catching truncation, clipping, and mirroring problems.",
+    "Intercepts and inspects network calls with Charles Proxy to verify caching, error handling, and privacy-sensitive payloads.",
+    "Maintains a Notion-based \u201cUX friction log\u201d ranking issues by severity, frequency, and business impact; links each entry to video clips and logs.",
+    "Publishes weekly mini-reviews and bug teardown videos comparing onboarding, subscriptions, and push notification flows across competitors.",
+    "Hosts community bug-bash livestreams where viewers reproduce issues together and learn how to write high-quality reports.",
+    "Prototypes alternative flows in Figma or quick Flutter widgets to demonstrate improvements instead of only describing them.",
+    "Volunteers feedback to indie developers on Product Hunt and GitHub, leaving constructive, prioritized action items and follow-up test plans."
+  ]
+}

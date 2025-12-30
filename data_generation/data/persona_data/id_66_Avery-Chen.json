@@ -1,0 +1,21 @@
+{
+  "name": "Avery Chen",
+  "description": "Avery is a civic-tech enthusiast in their early 30s who blends data literacy with neighborhood-level empathy. They work as a UX researcher at a nonprofit focused on public-sector transparency, translating dense policy documents and city datasets into plain-language resources for residents. Avery maintains an organized system of RSS feeds, public records alerts, and city API notifications to track council agendas, budget revisions, zoning notices, and infrastructure projects. Their interest in civic processes began when their family\u2019s small business was affected by a zoning change, motivating a career centered on making government information accessible and actionable. Avery is methodical, calm under pressure, and careful about privacy. They avoid partisan framing, prioritize verified sources, and enjoy coaching others on how to give effective public comment and engage constructively with agencies. Outside work, Avery bikes around their mid-sized city, documents street-level accessibility issues, and creates minimalist map art. They are known locally for turning complicated municipal budgets into friendly infographics and for convening small, welcoming meetups that help neighbors understand how to navigate city hall.",
+  "example_behaviours": [
+    "Starts each weekday by scanning city council RSS feeds and scrapers for new agenda items, tagging them in Airtable by district and topic.",
+    "Builds quick Python scripts to extract key motions from lengthy PDF agendas and posts summaries to a community newsletter.",
+    "Hosts a monthly \u201cBudget & Brews\u201d meetup where residents decode line items in the municipal budget together.",
+    "Uses QGIS to map sidewalk gaps and ADA curb ramp needs; submits datasets to open data portals and advocates for inclusion in capital plans.",
+    "Runs a public Google Calendar of hearings, comment deadlines, and neighborhood association meetings.",
+    "Leads short workshops on crafting concise, respectful three-minute public comments.",
+    "Volunteers as a moderator for a local subreddit and Nextdoor group, enforcing source verification and civility.",
+    "Organizes quarterly \u201cFOIA Fridays,\u201d helping neighbors file public records requests and track responses.",
+    "Participates in weekend urban hikes to photograph and catalog streetlights, crosswalks, and bus shelters needing maintenance.",
+    "Designs accessible infographics explaining ballot measures, linking to nonpartisan source documents and pro/con analyses.",
+    "Collaborates with a mutual aid group to route residents to city services and document service gaps.",
+    "Maintains a living glossary of local government terms and agencies to reduce barriers for first-time participants.",
+    "Uses SeeClickFix and 311 apps to report issues, then follows up on resolution timelines and publishes outcomes.",
+    "Curates a podcast playlist on civic design, open data, and community organizing; discusses takeaways in a monthly study circle.",
+    "Creates watercolor map art of neighborhoods undergoing streetscape improvements, auctioning prints to fund bus passes for low-income riders."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Avery Cortez",
+  "description": "Avery is a 27-year-old amateur music producer in Austin who splits time between a daytime UX design job and late-night sessions in a compact, acoustically treated bedroom studio. Drawn to alt-R&B, lo-fi house, and groove-focused electronica, Avery is methodical about learning: setting weekly goals to finish short sketches, studying mixing fundamentals, and keeping a meticulous gear budget. They produce primarily in Ableton Live, leaning on a small but curated set of plugins, a 49-key MIDI controller, and a modest interface and monitors. Avery prefers buying used gear after exhaustive research, and resists impulse purchases by setting a 30-day \u201ccool-off\u201d rule. They catalog samples by key, BPM, and mood, keep field recordings from walks around the city for texture, and use reference tracks to shape mixes. A community-oriented collaborator, Avery trades stems online, attends local open-mic nights, and joins weekend jam circles to push past perfectionism. Their near-term goal is a self-released 5-track EP within a year, with one live performance using a minimal controller setup. Long-term, they want to develop a recognizable sonic signature\u2014warm, tactile low end, dusty percussion, and evolving chordal layers\u2014while maintaining sustainable creative habits and a healthy work-life balance.",
+  "example_behaviours": [
+    "Schedules two focused 90-minute nightly production blocks with a short ear break between them",
+    "Keeps a Trello board for song ideas, arrangement tasks, and mix notes",
+    "Uses Ableton Live with a 49-key MIDI controller, Focusrite 2i2, Yamaha HS5 monitors, and Sennheiser HD600 headphones",
+    "Practices ear training for intervals and chord quality 10 minutes a day",
+    "Records city ambience and nature sounds with a handheld recorder to layer under drums",
+    "Crate-digs at thrift shops for vinyl to sample, logging potential sample points by timecode",
+    "Applies a 30-day rule before any new gear purchase and checks used listings first",
+    "Hosts a monthly virtual feedback circle with producers from Discord and Reddit",
+    "Studies mixing techniques like gain staging, subtractive EQ, and parallel compression with reference tracks",
+    "Attends local open mics and synth meetups to network and test works-in-progress",
+    "Tags and organizes sample libraries by BPM, key, and descriptive mood in a consistent folder structure",
+    "Sets quarterly goals (finish 12 sketches, 4 full arrangements, 2 mixed tracks) and reviews progress at month-end"
+  ]
+}

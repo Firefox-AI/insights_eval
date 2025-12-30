@@ -1,0 +1,20 @@
+{
+  "name": "Mira Kwan",
+  "description": "Mira is a Berlin-based Korean-Canadian freelance brand and product designer who blends systems thinking with expressive visual identity. She focuses on early-stage tech and cultural organizations, translating messy ideas into clear design languages. Her week begins with a 30-minute trend scan, feeding a living Notion database of signals, motifs, and references that she turns into experiments\u2014variable type, kinetic micro-interactions, and modular grid systems. She prototypes quickly in Figma and Framer, records Loom walkthroughs for async clients, and publishes transparent WIP threads to invite critique. Mira values accessibility, sustainability, and proper attribution, championing open-source fonts and inclusive motion. She is curious and quietly assertive, good at facilitating decisions with annotated options and scope boundaries. To fight scope creep, she uses change logs, crisp acceptance criteria, and milestone billing. She wants to grow into a part-time design director while retaining independence, and is developing a course on building maintainable brand systems. Outside work, she does \u201ctexture walks,\u201d analog film color studies, and keeps a swipe file that doubles as a public research artifact. Clients describe her as a steady collaborator who brings both craft and strategic clarity.",
+  "example_behaviours": [
+    "Publishes a weekly Design Signals newsletter distilling five emerging trends with practical use cases.",
+    "Maintains a public Notion swipe file of 1,200+ references tagged by motif, mood, and industry.",
+    "Hosts a monthly Open Studio critique on Discord for cross-time-zone designers.",
+    "Goes on 35mm film \u201ctexture walks\u201d to capture surfaces and extract color palettes.",
+    "Builds lightweight Figma plugins to automate token updates and accessibility checks.",
+    "Experiments with variable fonts and kinetic type, sharing process reels and source files.",
+    "Runs an annual 100 Posters in 100 Days challenge to test visual systems under constraints.",
+    "Mentors underrepresented designers through ADPList with structured feedback templates.",
+    "Collects vintage transit ephemera and maps its wayfinding logic to modern UI patterns.",
+    "Schedules Saturday sketch sprints: three prompts, 90 minutes, timelapse posted publicly.",
+    "Packages brand guidelines as interactive Framer microsites so teams can self-serve assets.",
+    "Curates a personal \u201ccolor garden,\u201d sampling hues from caf\u00e9s and cataloging them for reuse.",
+    "Co-creates a kickoff playlist with clients to align tone and pacing for motion and UI.",
+    "Sends weekly scope-check emails using a traffic-light board to prevent timeline drift."
+  ]
+}

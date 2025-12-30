@@ -1,0 +1,16 @@
+{
+  "name": "Maya Kapoor",
+  "description": "Maya is a 31-year-old product manager in a fintech startup who treats tech purchases like mini research projects. She\u2019s an early-but-pragmatic adopter who balances cutting-edge features with total cost of ownership. Before buying, she builds comparison matrices of specs, software support timelines, repairability scores, and historical pricing. She tracks deals across multiple retailers, waits for seasonal sale cycles, and leverages price protection and cashback cards. Privacy and longevity matter to her: she prefers brands with transparent update policies, minimal bloat, and good right-to-repair practices, and she\u2019s comfortable flashing firmware or debloating when needed. Maya runs a tidy, interoperable setup across ecosystems\u2014Android phone with a Pixel, MacBook for work, Linux on a mini PC at home\u2014and uses open-source tools when practical. She runs Home Assistant to keep smart-home gear local-first, resells or donates old devices responsibly, and keeps meticulous records of warranties and return windows. Friends rely on her for practical advice because she explains trade-offs clearly\u2014battery vs. brightness, camera pipeline vs. raw sensor size, subscription lock-in vs. one-time cost. She follows reviewers who test methodically, and she distrusts hype without data. Her buying philosophy: best value for her use, not the lowest sticker price.",
+  "example_behaviours": [
+    "Maintains a living Google Sheet comparing devices by specs, software support years, repairability, and price history before any purchase",
+    "Sets multi-site price alerts (CamelCamelCamel/Keepa, Slickdeals, retailer apps) and waits for Black Friday/Prime Day/back-to-school cycles",
+    "Uses a cashback card with price protection, logs serial numbers and return windows in Notion, and registers warranties on day one",
+    "Runs Home Assistant with local automations; avoids cloud lock-in where possible and measures smart plug energy usage to pick efficient gear",
+    "Flashes firmware or debloats Android devices, tests betas via TestFlight/Play previews, and submits thoughtful bug reports",
+    "Builds and tunes mechanical keyboards (hot-swap boards, silent tactile switches) and 3D-prints small desk accessories",
+    "Sells or trades old tech on Swappa/eBay after securely wiping and refurbishing; donates workable gear to local nonprofits",
+    "Weekend street photography to evaluate phone camera pipelines; compares HDR tone mapping and low-light noise handling across models",
+    "Writes concise deal breakdowns and value scores in a small newsletter/Discord to help friends avoid upsells",
+    "Keeps a travel kit with a compact GaN charger, multi-port cable, and eSIM profiles; measures charge speeds to validate vendor claims"
+  ]
+}

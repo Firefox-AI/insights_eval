@@ -1,0 +1,21 @@
+{
+  "name": "Avery Ramos",
+  "description": "Avery Ramos is a 31-year-old operations coordinator in Austin who treats console gaming as both a ritual and a creative outlet. They own a PS5 and Switch, keep an Xbox Series X for Game Pass discovery, and track upcoming releases through calendars, wishlist alerts, and a neatly maintained backlog board. Avery plays most weeknights from 9\u201311 pm, with a longer Sunday morning session reserved for deep narrative progress. They keep one single-player story and one evergreen multiplayer game in rotation to match mood and time constraints. Avery gravitates toward action-adventures, immersive sims, and indie darlings, prioritizing performance mode at 60 fps but switching to fidelity for photo mode sessions. Comfort replays are a staple; every year they revisit a small set of favorites to benchmark new patches, haptic tweaks, and their own skill growth. A thoughtful host, Avery runs spoiler-safe discussion threads in a small Discord, organizes couch co-op nights, and writes succinct, spoiler-light micro-reviews in Notion that capture mechanics, accessibility options, and \u201cvibe\u201d in 300 words or less. They enjoy trophy hunting to about 70\u201380% completion, avoiding grindy platinums unless the game truly clicks. Hardware and presentation matter: Avery calibrates HDR for each title, rotates and labels controller batteries, and keeps a lean capture gallery for share-worthy clips. They collect select art books and soundtrack vinyls, favor physical editions for cherished series, and go digital for day-one convenience. Above all, Avery values games as stress relief and storytelling, balancing curiosity for new releases with the comfort of returning to worlds that feel like home.",
+  "example_behaviours": [
+    "Maintains a Notion board for backlog, release dates, and completion percentages",
+    "Runs a \u201ctwo-stack\u201d rotation: one narrative single-player and one multiplayer staple",
+    "Hosts monthly couch co-op pizza nights with a second controller always charged",
+    "Calibrates HDR and audio profiles per game; labels settings in a shared Google Doc",
+    "Switches between performance and fidelity modes based on combat vs photo sessions",
+    "Keeps a yearly \u201ccomfort replay\u201d list (e.g., one action-adventure, one platformer)",
+    "Writes 300-word spoiler-light micro-reviews after each completion",
+    "Tracks trophy/achievement goals per game and skips grindy ones beyond a time cap",
+    "Uses a pre-release ritual: preloads, clears cache space, updates controllers, checks day-one patch notes",
+    "Curates a capture gallery and posts a single best clip per game to avoid clutter",
+    "Collects select steelbook editions and vinyl soundtracks for favorite franchises",
+    "Participates in spoiler-tagged Discord threads with clear chapter boundaries",
+    "Schedules \u201cBacklog Night\u201d midweek to reduce impulse buying during sales",
+    "Experiments with controller layouts and haptics, documenting preferred schemes",
+    "Runs seasonal retro weekends to revisit older console generations and compare QoL updates"
+  ]
+}

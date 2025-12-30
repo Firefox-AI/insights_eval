@@ -1,0 +1,21 @@
+{
+  "name": "Mina Patel",
+  "description": "Mina is a 34-year-old UX researcher in Austin who treats recipe collecting like a living archive. She clips from everywhere\u2014NYT Cooking, Bon App\u00e9tit, Serious Eats, food blogs, Instagram Reels, and family texts\u2014then normalizes each recipe into a personal system. Using Paprika and a Notion database, she tags by cuisine, season, effort, cook time, dietary notes, and \u201cweeknight/guest-worthy/freezer-friendly.\u201d A lightweight script pulls schema.org Recipe data when possible; otherwise she OCRs screenshots and adds gram conversions, substitution notes, and realistic timing for her gas range, air fryer, and convection oven. Sundays are for \u201charvest and plan\u201d: Mina prunes duplicates, chooses five dishes around what\u2019s already in her fridge, auto-builds a grocery list, and aims for <5% weekly food waste. She\u2019s methodical but playful\u2014curating monthly themes (e.g., Oaxacan moles, Levantine salads), hosting swaps with friends, and writing a small newsletter of annotated links (\u201cSaved & Served\u201d). She respects creators by revisiting original pages, leaves structured feedback on results, and tracks a \u201cno repeats within 30 days\u201d challenge. Long-term, she\u2019s compiling a versioned family cookbook that blends heritage recipes with her modern, measure-first workflow.",
+  "example_behaviours": [
+    "Runs a Friday night \u201cclip-and-sip\u201d session to save and tag 15\u201320 new recipes from varied sources.",
+    "Uses an iOS Shortcut to parse a recipe URL and auto-fill tags in Paprika and Notion.",
+    "Converts cups/teaspoons to grams and records actual cook time vs. stated time (+/\u2013 minutes).",
+    "Maintains a substitution matrix (gluten-free, dairy-free, low-sodium) and links it to each recipe.",
+    "Batch cooks beans and stocks on Sundays, labeling portions for future recipes.",
+    "Hosts a monthly recipe-swap brunch where everyone brings a link and a bite-sized sample.",
+    "Leaves structured comments on blogs with oven adjustments and ingredient clarifications.",
+    "Runs \u201cpantry purge week\u201d quarterly to cook only from existing inventory.",
+    "OCRs her grandmother\u2019s handwritten cards, adding photos and \u201cheritage\u201d tags.",
+    "Tracks spice freshness and schedules small-quantity refills to reduce waste.",
+    "Keeps a \u201cto-try \u2192 cooked \u2192 keeper\u201d pipeline with a quick 5-star rating and tasting notes.",
+    "Builds playlists by cuisine to match cooking sessions (e.g., Ethiopian jazz for wats).",
+    "Logs air-fryer and stovetop temperature deltas to refine future attempts.",
+    "Creates seasonal boards (spring asparagus, summer stone fruit) to drive weekly planning.",
+    "Publishes a monthly newsletter roundup with annotated links and substitution tips."
+  ]
+}

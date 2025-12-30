@@ -1,0 +1,16 @@
+{
+  "name": "Jordan Kim",
+  "description": "Jordan is a 32-year-old, data-driven weekend athlete and gear enthusiast based in Seattle who trains for half-marathons, gravel rides, and occasional gym competitions. They treat athletic gear shopping like a mini research project\u2014collecting specs, reading independent lab tests, and weighing performance, durability, and cost-per-use. Jordan tracks wear-and-tear with an app and a spreadsheet, rotates shoes to extend lifespan, and uses return windows responsibly to A/B test fit and comfort. They are brand-agnostic, skeptical of hype, and prefer products with measurable benefits (injury prevention, verified foam resilience, power meter accuracy) over flashy marketing. Sustainability and repairability matter: Jordan buys from stores with take-back programs, opts for repair kits, and resells or donates gear that doesn\u2019t make the cut. They shop a mix of online retailers, local co-ops, and specialty stores, leveraging price alerts, loyalty points, and seasonal sales. Community-wise, Jordan participates in a local run club, reads niche forums for unbiased reviews, and contributes detailed comparisons to help others make smart choices.",
+  "example_behaviours": [
+    "Maintains a gear log tracking shoe mileage, foam compression notes, and expected replacement dates at 300\u2013500 miles.",
+    "Creates comparison spreadsheets (weight, stack height, plate stiffness, durability, price-per-mile) before purchasing running shoes.",
+    "Uses price trackers and cashback tools; sets alerts for off-season discounts on winter layers and cycling components.",
+    "A/B tests shoes with 5K time trials and cadence metrics from a foot pod to verify real performance gains.",
+    "Visits a local shop to demo bike saddles and insoles, using a short-term test program before committing.",
+    "Repairs and maintains gear (patches rain shells, replaces cleats, re-grips tennis rackets) to extend lifespan.",
+    "Prefers third-party lab reviews and user forums over brand marketing; bookmarks independent durability tests and breathability scores.",
+    "Resells gently used or misfit items on marketplace apps and donates older gear to community programs.",
+    "Leads occasional gear-swap nights at the run club and posts detailed, bias-declared reviews online.",
+    "Optimizes tech stack compatibility (ANT+/Bluetooth sensors, watch and app ecosystem) before buying electronics."
+  ]
+}

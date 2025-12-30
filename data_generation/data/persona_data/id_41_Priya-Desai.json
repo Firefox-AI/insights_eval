@@ -1,0 +1,20 @@
+{
+  "name": "Priya Desai",
+  "description": "Priya is a fundamentals-first market observer who treats investing as a craft and a long-term study rather than a sport. A Toronto-based fintech product manager by day, she carves out focused blocks to scan macro signals, read filings, and refine simple valuation models. She anchors decisions in business quality\u2014cash flow durability, capital allocation, and competitive moats\u2014while using macro data as context, not a compass. Her portfolio is core-indexed for compounding, with a small satellite of carefully researched single-name positions. Calm and methodical, Priya tracks her cognitive biases with a checklist, writes pre-mortems before buying, and performs structured post-mortems after exits. She prefers primary sources (10-Ks, earnings calls) over headlines, annotates footnotes meticulously, and uses lightweight Python notebooks and spreadsheets to sanity-check narratives. Curious but skeptical of hype, she keeps a strict \u201ctoo hard\u201d pile and an \u201cavoid list.\u201d Outside markets, she enjoys building community\u2014hosting a casual Coffee & Charts meetup and mentoring students on financial literacy. She\u2019s values-aware (leans toward durable, productive companies and climate tech), sets alerts instead of doomscrolling, and strives for steady habits that compound\u2014both in capital and in judgment.",
+  "example_behaviours": [
+    "Begins mornings with a 20-minute macro snapshot (yield curve, index futures, DXY, commodities).",
+    "Color-codes the weekly earnings calendar and sets price/volume alerts.",
+    "Annotates 10-K/10-Q footnotes on a tablet with a stylus.",
+    "Builds simple DCF and reverse-DCF sanity checks for watchlist names.",
+    "Maintains a strict \u201ctoo hard\u201d pile and an \u201cavoid list\u201d for thesis discipline.",
+    "Keeps an investment journal with pre-commitment checklists and post-mortems.",
+    "Paper-trades event-driven scenarios during earnings season to practice execution.",
+    "Hosts a Saturday Coffee & Charts meetup at a local cafe.",
+    "Takes long walks while listening to earnings calls and investing podcasts.",
+    "Uses Python/Sheets quarterly to backtest simple factor screens and rebalance rules.",
+    "Collects and rereads investor letters; revisits Berkshire letters each spring.",
+    "Imposes a daily \u201cnews diet,\u201d muting intraday alerts after lunch for deep reading.",
+    "Volunteers with a high school investing club to teach compounding basics.",
+    "Shares monthly one-pagers to friends summarizing market themes and learnings."
+  ]
+}

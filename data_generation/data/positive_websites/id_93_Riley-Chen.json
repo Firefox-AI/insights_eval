@@ -1,0 +1,1328 @@
+{
+  "OrcaSlicer vs PrusaSlicer profile differences for PLA": [
+    {
+      "url": "https://kingroon.com/blogs/3d-printing-guides/prusaslicer-vs-orcaslicer-vs-cura-a-comparison-of-the-best-slicers-for-your-3d-printing-needs",
+      "title": "PrusaSlicer vs OrcaSlicer vs Cura-A Comparison of 3d printing slicers"
+    },
+    {
+      "url": "https://www.obico.io/blog/orca-slicer-vs-prusaslicer/",
+      "title": "Orca Slicer VS PrusaSlicer : Everything You Need To Know | Obico"
+    },
+    {
+      "url": "https://jlc3dp.com/blog/orcaslicer-vs-prusa-bambu-cura-all-features-pros-cons-compared",
+      "title": "OrcaSlicer vs Prusa , Bambu & Cura: All Features, Pros & Cons..."
+    },
+    {
+      "url": "https://orcaslicer.pro/orca-vs-cura-vs-prusa-slicer/",
+      "title": "Orca Slicer Vs Cura Vs PrusaSlicer | A Complete Guide"
+    }
+  ],
+  "best flow rate calibration method OrcaSlicer": [
+    {
+      "url": "https://github.com/OrcaSlicer/OrcaSlicer/wiki/flow-rate-calib",
+      "title": "flow rate calib \u00b7 OrcaSlicer / OrcaSlicer Wiki \u00b7 GitHub"
+    },
+    {
+      "url": "https://orcaslicer3d.com/orca-slicer-flow-rate-calibration/",
+      "title": "Master Orca Slicer Flow Rate Calibration In 4 Simple Steps"
+    },
+    {
+      "url": "https://www.obico.io/blog/flow-rate-calibration-orca-slicer-comprehensive-guide/",
+      "title": "Flow Rate Calibration in OrcaSlicer : A Comprehensive Guide | Obico"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VUp2mpfdpuc",
+      "title": "Calibrate your Flow Rate with Orca Slicer ! - YouTube"
+    },
+    {
+      "url": "https://orcaslicerpro.com/flow-calibration-in-orca-slicer/",
+      "title": "Flow Calibration in Orca Slicer : Improve 3D Print Quality"
+    }
+  ],
+  "retraction tower generator gcode download": [
+    {
+      "url": "https://github.com/kartchnb/AutoTowersGenerator",
+      "title": "GitHub - kartchnb/AutoTowersGenerator: A Cura plugin to automate..."
+    },
+    {
+      "url": "https://www.thingiverse.com/thing:5240378",
+      "title": "Retraction Tower G - Code For Adventurer 4 (Different...) - Thingiverse"
+    },
+    {
+      "url": "http://retractioncalibration.com/",
+      "title": "Retraction Calibration Tool"
+    }
+  ],
+  "pressure advance tuning klipper guide": [
+    {
+      "url": "https://www.klipper3d.org/Pressure_Advance.html",
+      "title": "Pressure advance - Klipper documentation"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LtG--ev3-4s",
+      "title": "Klipper Pressure Advance Tuning MADE EASY! - YouTube"
+    },
+    {
+      "url": "https://www.obico.io/blog/klipper-pressure-advance/",
+      "title": "Klipper Pressure Advance Tuning - How to Guide | Obico"
+    },
+    {
+      "url": "https://github.com/Klipper3d/klipper/blob/master/docs/Pressure_Advance.md",
+      "title": "klipper /docs/ Pressure _ Advance .md at master \u00b7 Klipper 3d/ klipper"
+    }
+  ],
+  "input shaper adxl345 mount stl prusa mk3": [
+    {
+      "url": "https://www.thingiverse.com/thing:5001570",
+      "title": "ADXL 345 Mount for Hemera (for auto calibrating Input Shaper ) by..."
+    },
+    {
+      "url": "https://www.stlfinder.com/3dmodels/adxl345-accelerometer/?page=6",
+      "title": "adxl 345 accelerometer 3D Models | Page 6 | STLFinder"
+    }
+  ],
+  "first layer live z calibration tips prusa": [
+    {
+      "url": "https://forum.prusa3d.com/forum/original-prusa-i3-mk3s-mk3-assembly-and-first-prints-troubleshooting/correct-first-layer-height-for-petg/",
+      "title": "Correct first layer height for PETG \u2013 Assembly and first prints... | Forum"
+    },
+    {
+      "url": "https://www.printables.com/model/107539-first-layer-calibration-prusa-i3-mk3s/comments",
+      "title": "First Layer Calibration Prusa i3 MK3/s/+ by ArtyL | Printables.com"
+    }
+  ],
+  "elephant foot compensation prusaslicer setting": [
+    {
+      "url": "https://help.prusa3d.com/article/elephant-foot-compensation_114487",
+      "title": "Elephant foot compensation | Prusa Knowledge Base"
+    },
+    {
+      "url": "https://arctiex3d.com/support/user-interface-elephant-foot-compensation/",
+      "title": "Print Settings \u2013 Elephant Foot Compensation | ARCTIEX RESEARCH"
+    },
+    {
+      "url": "https://github.com/prusa3d/PrusaSlicer/issues/8378",
+      "title": "SLA Elephant Foot Compensation \u00b7 Issue #8378..."
+    }
+  ],
+  "bridging flow rate vs fan speed prusa": [
+    {
+      "url": "https://help.prusa3d.com/article/max-volumetric-speed_127176",
+      "title": "Max volumetric speed | Prusa Knowledge Base"
+    },
+    {
+      "url": "https://www.printables.com/model/4667-all-in-one-temperature-bridging-tower-pla-petg-gco",
+      "title": "All in One Temperature & Bridging Tower - PLA... | Printables.com"
+    }
+  ],
+  "seam placement hide on back prusaslicer": [
+    {
+      "url": "https://githubhelp.com/prusa3d/PrusaSlicer/issues/8464",
+      "title": "2.5.0-alpha2 Aligned Seam placement issue, about... - GithubHelp"
+    }
+  ],
+  "avoid crossing perimeters orcaslicer stringing": [
+    {
+      "url": "https://github.com/prusa3d/PrusaSlicer/issues/14542",
+      "title": "\" Avoid crossing perimeters \" suppresses wipe \u00b7 Issue #14542..."
+    },
+    {
+      "url": "https://forum.bambulab.com/t/better-perimiter-protection-in-avoid-crossing-walls/111670",
+      "title": "Better Perimiter protection in \" Avoid Crossing Walls\" - Bambu Lab..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9w-LakY0SUo",
+      "title": "OrcaSlicer Fix Stringing Slicer Setting - YouTube"
+    },
+    {
+      "url": "https://www.xda-developers.com/ways-get-rid-stringing-3d-prints/",
+      "title": "10 ways to get rid of stringing in your 3D prints"
+    }
+  ],
+  "coasting vs wipe orcaslicer meaning": [
+    {
+      "url": "https://github.com/OrcaSlicer/OrcaSlicer/wiki/quality_settings_seam",
+      "title": "quality_settings_seam \u00b7 OrcaSlicer / OrcaSlicer Wiki \u00b7 GitHub"
+    },
+    {
+      "url": "https://www.obico.io/blog/orcaslicer-seam-settings/",
+      "title": "OrcaSlicer Seam Settings - How to Use It | Obico"
+    },
+    {
+      "url": "https://orca-slicer.com/wiki/seam-settings/",
+      "title": "Seam Settings in OrcaSlicer"
+    }
+  ],
+  "volumetric speed limit prusaslicer calculation": [
+    {
+      "url": "https://qurotai.org/blog/fix-prusaslicer-volumetric-autospeed-issues",
+      "title": "Fix PrusaSlicer Volumetric Autospeed Issues: Guide"
+    },
+    {
+      "url": "https://figutech.com/en/volumetric-speed-test-3d-printing/",
+      "title": "Volumetric Speed Test | Increase 3D Printing Speed"
+    },
+    {
+      "url": "https://github.com/supermerill/SuperSlicer/issues/4440",
+      "title": "Max Volumetric speed interference \u00b7 Issue #4440..."
+    },
+    {
+      "url": "https://brightqna.com/blog/prusa-xl-fixing-max-volumetric",
+      "title": "Prusa XL: Fixing Max Volumetric Speed Exceeding Issues"
+    }
+  ],
+  "ironing top surface settings orcaslicer": [
+    {
+      "url": "https://www.printables.com/model/1418235-top-surface-ironing-test-orca-slicer",
+      "title": "Top surface ironing test Orca Slicer by Alejandro | Printables.com"
+    }
+  ],
+  "monotonic top infill pattern comparison": [
+    {
+      "url": "https://forum.bambulab.com/t/difference-between-monotonic-and-monotonic-line-fills/7094",
+      "title": "Difference between Monotonic and Monotonic Line fills? - Bambu Lab..."
+    },
+    {
+      "url": "https://github.com/OrcaSlicer/OrcaSlicer/discussions/4997",
+      "title": "Conditional Top Layer Patterns \u00b7 OrcaSlicer OrcaSlicer \u00b7 Discussion..."
+    },
+    {
+      "url": "https://forum.simplify3d.com/viewtopic.php?t=16665&start=10",
+      "title": "[ADDED] Monotonic Top /Bottom infill - Page 2 - Simplify3D User..."
+    }
+  ],
+  "calibration cube 20mm accurate dimensions": [
+    {
+      "url": "https://www.thingiverse.com/thing:1278865",
+      "title": "XYZ 20 mm Calibration Cube by iDig3Dprinting - Thingiverse"
+    },
+    {
+      "url": "https://www.printables.com/pl/model/115252-accurate-calibration-cube-20-x-20-x-20mm",
+      "title": "Accurate Calibration Cube 20 x 20 x 20 mm przez... | Printables.com"
+    },
+    {
+      "url": "https://makerworld.com/en/models/1690367-best-calibration-cube-xyz-20x20x20",
+      "title": "Best calibration cube XYZ (20x20x20) by Nox MakerWorld: Download..."
+    },
+    {
+      "url": "https://www.3dprintsearch.com/models/20mm+test+cube/",
+      "title": "20 mm Test Cube 3D Print Models"
+    },
+    {
+      "url": "https://www.myminifactory.com/object/3d-print-xyz-20mm-3d-printer-calibration-cube-17725",
+      "title": "3D Printable XYZ 20 mm 3D printer Calibration Cube by iDig3Dprinting"
+    }
+  ],
+  "PETG nozzle temp tower template": [
+    {
+      "url": "https://www.printables.com/model/39810-improved-all-in-one-temperature-and-bridging-tower/files",
+      "title": "Improved All-In-One Temperature and Bridging Tower -- Hi to Lo..."
+    },
+    {
+      "url": "https://makerworld.com/en/models/719503",
+      "title": "Temperatur tower PETG by m.parts.3d - MakerWorld"
+    },
+    {
+      "url": "https://makeronline.com/en/model/petg-temp-tower-220-up-to-245/13266.html",
+      "title": "PETG temp tower 220 up to 245 - Makeronline - More Than Fun"
+    },
+    {
+      "url": "https://cults3d.com/en/3d-model/tool/petg-temp-tower-275-245-cura",
+      "title": "Free STL file PETG Temp Tower 275-245 (cura) \u30fb3D printing..."
+    }
+  ],
+  "TPU retraction direct drive values": [
+    {
+      "url": "https://www.youtube.com/watch?v=ODgptcJMj5w",
+      "title": "7 Steps to print TPU - Temperature, Retractions ... - YouTube"
+    },
+    {
+      "url": "https://3dprinting.stackexchange.com/questions/14381/ender-3-with-direct-drive-has-severe-stringing-printing-tpu",
+      "title": "Ender 3 with direct drive has severe stringing printing TPU"
+    },
+    {
+      "url": "https://3dprinterly.com/filament-printing-guide/tpu/",
+      "title": "How to 3D Print TPU Filament Like a Pro - Ultimate... - 3D Printerly"
+    },
+    {
+      "url": "https://3dism.org/advanced-retraction-settings-for-string-free-tpu-prints/",
+      "title": "Advanced Retraction Settings for String-Free TPU Prints - 3DISM"
+    }
+  ],
+  "ABS enclosure temperature ideal": [
+    {
+      "url": "https://www.3dupfitters.com/blogs/news/managing-temperature-in-a-passive-3d-printer-enclosure",
+      "title": "3D Printing PLA, PETG and ABS while Protecting Your Lungs with an..."
+    },
+    {
+      "url": "https://chinacolours.com/abs-temperature/",
+      "title": "ABS Temperature Guide: Optimal Settings for 3D Printing, Properties..."
+    },
+    {
+      "url": "https://3dcentroamerica.com/misc/3d-printer-enclosure-temperature.html",
+      "title": "3D printer enclosure temperature"
+    },
+    {
+      "url": "https://3dinnovationhub.com/blog/3d-printer-enclosure-temperature/",
+      "title": "Unveiling the Ideal Temperature for Your 3D Printer Enclosure"
+    }
+  ],
+  "ASA vs ABS warping comparison": [
+    {
+      "url": "https://store.anycubic.com/blogs/3d-printing-guides/asa-vs-abs-filament",
+      "title": "ASA and ABS Filament Compared for 3D Printing | ANYCUBIC..."
+    },
+    {
+      "url": "https://www.matterhackers.com/articles/abs-vs-asa-filament-in-3d-printing",
+      "title": "Understanding the Distinctive Properties of ABS and ASA in 3D Printing"
+    },
+    {
+      "url": "https://azurefilm.com/blog/asa-vs-abs-finding-the-right-material/",
+      "title": "ASA vs ABS : Finding the right material - AzureFilm"
+    },
+    {
+      "url": "https://www.makeshaper.com/post/comparing-3d-printing-filament-features-abs-vs-asa-filament",
+      "title": "Comparing 3D Printing Filament Features: ABS vs . ASA Filament"
+    },
+    {
+      "url": "https://www.unionfab.com/blog/2025/05/asa-vs-abs-vs-petg-vs-pla",
+      "title": "ASA vs ABS vs PETG vs PLA [+ Property Comparison ]"
+    }
+  ],
+  "CF nylon hardened nozzle size 0.6 recommendation": [
+    {
+      "url": "https://www.3dxtech.com/products/obsidian-nylon-6-cf-v2",
+      "title": "OBSIDIAN NYLON 6+ CF V2"
+    },
+    {
+      "url": "https://www.bastelgarage.ch/paht-cf-nylon-carbon-fiber-filament-1-75mm-0-75kg-esun-1-1790",
+      "title": "PAHT- CF Nylon Carbon Fiber Filament 1.75mm 0.75Kg eSun..."
+    },
+    {
+      "url": "https://www.matterhackers.com/articles/how-to-succeed-3d-printing-with-nylon-and-nylon-composites",
+      "title": "How To Succeed: 3D Printing with Nylon and Nylon ... | MatterHackers"
+    },
+    {
+      "url": "https://3dism.org/how-to-3d-print-tough-parts-with-nylon-cf-nylon-and-polycarbonate/",
+      "title": "How to 3D Print Tough Parts With Nylon , CF Nylon , and... - 3DISM"
+    },
+    {
+      "url": "https://filamatrix.com/products/nylon-carbon-fiber-3d-printer-filament-2-2-kg",
+      "title": "Nylon Carbon Fiber 3D Printer Filament 2.2 kg - Filamatrix"
+    }
+  ],
+  "best PLA+ brand for functional parts": [
+    {
+      "url": "https://all3dp.com/2/pla-plus-filament-what-is-it/",
+      "title": "The Best PLA+ /Plus Filaments \u2013 Buyer's Guide | All3DP"
+    }
+  ],
+  "drying PETG in food dehydrator time temp": [
+    {
+      "url": "https://forum.duet3d.com/topic/10893/petg-drying",
+      "title": "PETG Drying | Duet3D Forum"
+    },
+    {
+      "url": "https://3dprinterly.com/how-to-dry-filament-like-a-pro-pla-abs-petg-nylon-tpu/",
+      "title": "How to Dry Filament Like a Pro \u2013 PLA, ABS, PETG ... - 3D Printerly"
+    },
+    {
+      "url": "https://m3dzone.com/how-to-dry-petg/",
+      "title": "How to Dry PETG Filament? Does It Need to Be Dried ?"
+    },
+    {
+      "url": "https://siraya.tech/blogs/news/how-to-dry-petg",
+      "title": "How to Dry PETG Filament for Perfect Prints"
+    }
+  ],
+  "filament dryer eSun eBox s1 vs s2": [
+    {
+      "url": "https://yandex.ru/video/preview/2751748955649901009",
+      "title": "ESun eBox vs Sunlu Filadryer S 1 filament dryer - comparison tests"
+    }
+  ],
+  "layer adhesion test model download": [
+    {
+      "url": "https://www.printables.com/model/437584-qualitative-layer-adhesion-test",
+      "title": "Qualitative Layer Adhesion Test by B. Carver Creatives | Download ..."
+    },
+    {
+      "url": "https://makerworld.com/en/models/1397310-layer-adhesion-test",
+      "title": "Layer adhesion test by ManuMakerWorld: Download Free 3D Models"
+    },
+    {
+      "url": "https://www.thingiverse.com/thing:6698394",
+      "title": "Layer Adhesion Test Delamination Bending Test ... - Thingiverse"
+    }
+  ],
+  "heat creep symptoms and fixes prusa mk3": [
+    {
+      "url": "https://forum.drucktipps3d.de/forum/thread/28961-m\u00f6glicher-heat-creep-trotz-gegenma\u00dfnahmen/",
+      "title": "M\u00f6glicher Heat Creep trotz Gegenma\u00dfnahmen... - 3D-Druck Forum"
+    }
+  ],
+  "resin printer exposure test stl": [
+    {
+      "url": "https://cults3d.com/en/3d-model/tool/3d-resin-printer-exposure-calibration-test-by-fheder",
+      "title": "3D Resin Printer - Exposure Calibration Test by Fheder\u30fbFree STL ..."
+    },
+    {
+      "url": "https://www.stlfinder.com/3dmodels/resin-exposure-test/",
+      "title": "resin exposure test 3D Models | Page 1 | STLFinder"
+    }
+  ],
+  "normal vs water washable resin strength chart": [
+    {
+      "url": "https://www.3dsourced.com/3d-printer-materials/water-washable-resins/",
+      "title": "Water - Washable Resins : Best Brands & Printing Guide - 3DSourced"
+    },
+    {
+      "url": "https://3dism.org/uv-resin-vs-water-washable-resin-which-one-should-you-choose/",
+      "title": "UV Resin vs Water Washable Resin : Which One Should You... - 3DISM"
+    },
+    {
+      "url": "https://phrozen3d.com/products/water-washable-tough-resin",
+      "title": "Phrozen Water - Washable Tough 3D Printing Resin"
+    }
+  ],
+  "hollowing and drain hole size resin prints": [
+    {
+      "url": "https://forum.formlabs.com/t/recommended-minimum-drain-hole-and-vent-hole-sizes-by-material/16829",
+      "title": "Recommended minimum drain hole and vent hole sizes (by material)"
+    },
+    {
+      "url": "https://meshmixer.org/hollowing-for-resin-wall\u2011thickness-drain\u2011holes-orientation-in-meshmixer/",
+      "title": "Hollowing for Resin : Wall\u2011Thickness, Drain \u2011 Holes & Orientation in..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-oJR_TvEwak",
+      "title": "Should you Hollow Resin 3D Prints - If so How & Why ?? - YouTube"
+    }
+  ],
+  "nFEP vs FEP difference release force": [
+    {
+      "url": "https://ameralabs.com/blog/are-fep-alternatives-worth-it-acf-vs-nfep-vs-fep-films/",
+      "title": "ACF vs nFEP vs FEP for Resin 3D Printing | AmeraLabs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=O6qnxmDee2E",
+      "title": "Why ACF\uff1f ACF vs NFEP vs FEP , Peeling force Test of... - YouTube"
+    },
+    {
+      "url": "https://helpcenter.phrozen3d.com/hc/en-us/articles/6399641736857-What-are-the-Differences-Between-FEP-PFA-nFEP-and-ACF-Films",
+      "title": "What are the Differences Between FEP , PFA ( nFEP ), and ACF Films?"
+    },
+    {
+      "url": "https://antinsky3d.com/h-nd-294.html",
+      "title": "How to Choose Between FEP , NFEP ... - Antinsky 3d Official website"
+    }
+  ],
+  "UV curing times by resin color": [
+    {
+      "url": "https://the3dprinterbee.com/anycubic-resin-settings/",
+      "title": "Anycubic Resin Settings for Best 3D Printing Results + Table \u2013 The..."
+    }
+  ],
+  "IPA alternatives for resin cleaning simple green": [
+    {
+      "url": "https://www.youtube.com/watch?v=FCXL9du58L0",
+      "title": "IPA Alternatives For Resin Print Cleaning | EU Available - YouTube"
+    },
+    {
+      "url": "https://formlabs.com/blog/alternate-wash-solutions/",
+      "title": "Cleaning Resin 3D Prints: Alternative Wash Solutions for... | Formlabs"
+    },
+    {
+      "url": "https://blender.fi/2022/09/18/ipa-alternatives-for-resin-print-cleaning-eu-available/",
+      "title": "IPA Alternatives For Resin Print Cleaning | EU Available \u2013 Blender.fi"
+    }
+  ],
+  "safe disposal of resin waste seattle": [
+    {
+      "url": "https://www.seattle.gov/utilities/your-services/collection-and-disposal/garbage/hazardous-waste-items/where-to-dispose-of-hazardous-waste",
+      "title": "Where to Dispose of Household Hazardous Waste ... | seattle .gov"
+    }
+  ],
+  "activated carbon filter for resin printer enclosure": [
+    {
+      "url": "https://www.amazon.com/ELEGOO-Purifier-Activated-Reducing-Compatible/dp/B0BKPPJHJK",
+      "title": "ELEGOO USB Mini Purifier with Built-in Activated Carbon , Reducing..."
+    },
+    {
+      "url": "https://anycubic-test.myshopify.com/products/anycubic-airpure",
+      "title": "Anycubic AirPure (2Pcs) - Effective & Efficient Air Purifier for Resin ..."
+    },
+    {
+      "url": "https://anycubic-test.myshopify.com/products/anycubic-airpure",
+      "title": "Anycubic AirPure (2Pcs) - Effective & Efficient Air Purifier for Resin ..."
+    }
+  ],
+  "resin odor troubleshooting leaks": [
+    {
+      "url": "https://3dprinterly.com/learn-how-to-reduce-get-rid-of-uv-polyester-resin-smell-3d-printers/",
+      "title": "Learn How to Reduce & Get Rid of UV Resin Smell - 3D Printerly"
+    },
+    {
+      "url": "https://forum.prusa3d.com/forum/original-prusa-sl1-general-discussion-announcements-and-releases/resin-odor/",
+      "title": "Resin Odor \u2013 General discussion, announcements and releases..."
+    },
+    {
+      "url": "https://printaguide.com/does-3d-resin-smell/",
+      "title": "Does 3D Resin Smell? - PrintaGuide"
+    }
+  ],
+  "Elegoo Mars screen replacement tutorial": [
+    {
+      "url": "https://www.elegoo.com/blogs/3d-printer-user-guide/elegoo-mars-3-how-to-replace-the-lcd-screen",
+      "title": "ELEGOO Mars 3: How to replace the LCD screen \u2013 ELEGOO Official"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=c8xDvq3QbVw",
+      "title": "How to Replace the Elegoo Mars LCD - YouTube"
+    },
+    {
+      "url": "https://www.aceaddity.com/el/blogs/3d-printer-faq/elegoo-mars-3-pro-how-to-replace-the-lcd-screen",
+      "title": "ELEGOO MARS 3 PRO: How to replace the LCD screen ?"
+    },
+    {
+      "url": "https://TheWikiHow.com/video_8GipqT3ylFg",
+      "title": "Elegoo Mars 2 Pro: How To Replace The Lcd - Elegoo ... - TheWikiHow"
+    }
+  ],
+  "resin support tip size for miniatures": [],
+  "anti aliasing vs blur resin settings": [],
+  "fusion 360 snap fit design guidelines": [
+    {
+      "url": "https://www.youtube.com/watch?v=HcLT5Hz9-mk",
+      "title": "HOW TO CREATE A SNAP FIT IN FUSION 360 ! - YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GlMo6IWF6CY",
+      "title": "Fusion 360 Tutorial \u2013 Snap Fit Circular PCBs - YouTube"
+    },
+    {
+      "url": "https://productdesignonline.com/fusion-360-tutorials/fusion-360-snap-fit-cases-3d-printable-raspberry-pi-case/",
+      "title": "Fusion 360 Snap Fit Cases | 3D-Printable... - Product Design Online"
+    }
+  ],
+  "heat set insert hole size chart m3 m4": [
+    {
+      "url": "http://www.webclient.engmachref.com/Hole_size_for_metric_inserts.php",
+      "title": "Hole Size for Metric Inserts , Heat or Mold in : EnginRef"
+    },
+    {
+      "url": "https://www.mcmaster.com/products/heat-set-inserts/",
+      "title": "Heat - Set Inserts | McMaster-Carr"
+    },
+    {
+      "url": "https://www.makertechstore.com/products/heat-set-threaded-inserts-m4-threads",
+      "title": "Heat - Set Threaded Inserts ( M 4 Threads) \u2013 MakerTechStore"
+    }
+  ],
+  "parametric cable clip fusion 360 tutorial": [],
+  "print in place hinge clearance mm": [
+    {
+      "url": "https://www.youtube.com/watch?v=w1o48laHAos",
+      "title": "3D Print in Place Hinge with Parametric Pin Modeled in... - YouTube"
+    },
+    {
+      "url": "https://makerworld.com/en/models/103892-print-in-place-butt-hinge-fusion-360-file-included",
+      "title": "Print In Place Butt Hinge (Fusion 360 File Included) by... - MakerWorld"
+    },
+    {
+      "url": "https://www.instructables.com/Parametric-Print-in-Place-Hinge/",
+      "title": "Parametric Print in Place Hinge - Instructables"
+    }
+  ],
+  "living hinge thickness for PLA": [
+    {
+      "url": "https://www.matterhackers.com/news/living-hinge:--design-guidelines-and-material-selection",
+      "title": "Living Hinge : Design Guidelines and Material Selection | MatterHackers"
+    },
+    {
+      "url": "https://store.trimech.com/blog/3d-printing-living-hinge-prototypes-best-practices-updated/page/479",
+      "title": "3D Printing Living Hinge Prototypes: Best Practices... - TriMech Store"
+    },
+    {
+      "url": "https://elitemoldtech.com/3d-printed-living-hinge-design-guide/",
+      "title": "3D Printed Living Hinge Design Guide"
+    },
+    {
+      "url": "https://cncnow.com/3d-print-living-hinge/",
+      "title": "Best Practices of 3D Print Living Hinge : What Is It & How to Design?"
+    }
+  ],
+  "draft angles for resin part release": [
+    {
+      "url": "https://www.hubs.com/knowledge-base/draft-angle/",
+      "title": "Why is draft angle design essential for injection molding? | Protolabs..."
+    },
+    {
+      "url": "https://revpart.com/draft-angles-for-injection-molding/",
+      "title": "Injection Molding Draft Angle Guide | RevPart"
+    },
+    {
+      "url": "https://www.alpine-mold.com/draft-angle-design-in-injection-molding-key-tips-and-strategies.html",
+      "title": "Draft Angle Design in Injection Molding: Key Tips And... - Alpine Mold"
+    }
+  ],
+  "fillet vs chamfer for strength 3d prints": [
+    {
+      "url": "https://www.xometry.com/resources/3d-printing/fillet-vs-chamfer/",
+      "title": "Fillet vs . Chamfer \u2014 What Are the Differences and Uses? | Xometry"
+    },
+    {
+      "url": "https://www.sculpteo.com/en/3d-learning-hub/design-guidelines/fillet-vs-chamfer-key-differences-and-choose-the-right-edge/",
+      "title": "Fillet vs . Chamfer : Key Differences and Choose the Right Edge"
+    },
+    {
+      "url": "https://www.selfcad.com/blog/fillet-vs-chamfer-in-3d-printing-similarities-and-differences",
+      "title": "Fillet vs Chamfer in 3 D Printing : Similarities and Differences"
+    },
+    {
+      "url": "https://www.techandespresso.com/blog/using-chamfers-fillets-fusion-360-3d-print-strength",
+      "title": "Use Chamfers and Fillets in Fusion 360 to Strengthen Your 3 D Prints"
+    }
+  ],
+  "knurled knob generator fusion 360": [
+    {
+      "url": "https://yandex.ru/video/preview/8903207665342618599",
+      "title": "Fusion 360 for 3D Printing Lesson 12: Designing and Printing Knurled ..."
+    },
+    {
+      "url": "https://rutube.ru/video/2a603ffd93bd9d83baec74fd00f79a86/",
+      "title": "How I Designed Knurled Knobs in Fusion 360 - \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u0438\u0434\u0435\u043e..."
+    },
+    {
+      "url": "https://www.thingiverse.com/thing:5348989",
+      "title": "Knurled knobs generator by franpoli - Thingiverse"
+    },
+    {
+      "url": "https://makerworld.com/ru/models/1538507-knob-generator-right-when-you-need-it-ver-knurl",
+      "title": "Knob Generator \u2013 Right When You Need It(Ver. knurl ) by Nanashi..."
+    }
+  ],
+  "tolerance for m3 screws in fdm": [
+    {
+      "url": "https://en.wikipedia.org/wiki/ISO_metric_screw_thread",
+      "title": "ISO metric screw thread - Wikipedia"
+    },
+    {
+      "url": "https://amesweb.info/Screws/metric-thread-dimensions-calculator.aspx",
+      "title": "Metric Thread Calculator"
+    },
+    {
+      "url": "https://www.accu.co.uk/p/117-iso-metric-thread-dimensions",
+      "title": "accu.co.uk/p/117-iso-metric-thread-dimensions"
+    }
+  ],
+  "blender boolean cleanup tips": [
+    {
+      "url": "https://www.youtube.com/watch?v=migq6ZhnH9Q",
+      "title": "7 Ways to Fix Boolean Issues in Blender for Hard Surface - YouTube"
+    },
+    {
+      "url": "https://hyper-casual.games/blog/blender-boolean-workflow",
+      "title": "Blender Boolean Workflow Guide - Clean Topology & Non-Destructive..."
+    },
+    {
+      "url": "https://ru.pinterest.com/pin/clean-boolean-mess-in-seconds-using-rantools-new-blender-addon--116812184077258893/",
+      "title": "Clean Boolean Mess in seconds.. using RanTools |New Blender Addon"
+    },
+    {
+      "url": "https://rutube.ru/video/5ddd5887618c20e319a0e83083ba4df7/",
+      "title": "Blender Boolean Cleanup : Topology Study #1 - \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u0438\u0434\u0435\u043e..."
+    }
+  ],
+  "seattle makerspace 3d printing meetup schedule": [
+    {
+      "url": "https://www.eventbrite.com.au/d/wa--seattle/tech-meetup/",
+      "title": "Seattle , WA Tech Meetup Events | Eventbrite"
+    },
+    {
+      "url": "https://www.eventbrite.sg/d/wa--seattle/hobbies--events--next-month/?page=1",
+      "title": "Seattle , WA Hobbies Events Next Month | Eventbrite"
+    }
+  ],
+  "bulk PLA filament 1kg sale black white": [
+    {
+      "url": "https://www.amazon.com/Pla-Filament-Bulk/s?k=Pla+Filament+Bulk",
+      "title": "Amazon.com: Pla Filament Bulk"
+    },
+    {
+      "url": "https://www.matterhackers.com/store/l/bambu-lab-tough-pla-filament/sk/MDU4EFMH",
+      "title": "Bambu Lab White Tough+ PLA Filament - 1 .75mm ( 1 kg )"
+    },
+    {
+      "url": "https://ecoreprap.com/pla-filament/",
+      "title": "Bulk PLA Filament 1 .75mm | ECO"
+    },
+    {
+      "url": "https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg",
+      "title": "store.creality.com/products/soleyin-ultra- pla -3d-printing- filament - 1 kg"
+    }
+  ],
+  "hardened steel nozzle 0.4 vs 0.6 pros cons": [
+    {
+      "url": "https://www.youtube.com/watch?v=WgXM2zPusXo",
+      "title": "0 . 4 mm nozzles just became obsolete - YouTube"
+    }
+  ],
+  "ruby nozzle worth it abrasive filaments": [
+    {
+      "url": "https://3dpblog.com/ruby-nozzle-review/",
+      "title": "Master of nozzles - the ruby nozzle from Trianglelab"
+    },
+    {
+      "url": "https://3DPrinterChat.com/olsson-ruby/",
+      "title": "The Olsson Ruby - Is It Worth It ? | 3D Printer Chat"
+    }
+  ],
+  "spring steel pei plate textured vs smooth": [
+    {
+      "url": "https://www.youtube.com/watch?v=Z7LK28tL028",
+      "title": "Guide to PEI 3D printer beds: Why and when to use smooth vs textured"
+    },
+    {
+      "url": "https://3dpblog.com/pei-spring-steel-magnetic-build-plate/",
+      "title": "PEI spring steel magnetic build plate from Energetic - review and..."
+    },
+    {
+      "url": "https://3dprintbeginner.com/energetic-double-sided-pei-sheet-review/",
+      "title": "ENERGETIC Double-Sided PEI Sheet Review | 3D Print Beginner"
+    }
+  ],
+  "glue stick vs magigoo adhesion test": [
+    {
+      "url": "https://www.youtube.com/watch?v=MW2_ZQlOIaE",
+      "title": "Magigoo vs Glue Stick : Hold down your 3D Prints! Test ... - YouTube"
+    },
+    {
+      "url": "https://the3dprinterbee.com/magigoo-review/",
+      "title": "Magigoo vs . Glue Stick | Hands-On Test & Review \u2013 The 3D Printer..."
+    },
+    {
+      "url": "https://stickyn.com/magigoo-vs-glue-stick/",
+      "title": "Magigoo vs Glue Stick : Which is Best for 3D Printing Adhesion ?"
+    }
+  ],
+  "pe powder coated pei first layer tune": [
+    {
+      "url": "https://forum.prusa3d.com/forum/original-prusa-i3-mk3s-mk3-assembly-and-first-prints-troubleshooting/have-all-powder-coated-sheets-a-pei-layer/",
+      "title": "Have all powder - coated sheets a PEI layer ? \u2013 Assembly and first ..."
+    },
+    {
+      "url": "https://www.makeuseof.com/3d-printing-surfaces-explained/",
+      "title": "First Layer Woes? Here Are 5 3D Printing Surfaces to the Rescue"
+    }
+  ],
+  "belt tension prusa mk3 how to measure": [
+    {
+      "url": "https://www.smrnc.com/blog/checking-belt-tension-gets-easier-for-some-prusa-3d-printers.html",
+      "title": "Checking Belt Tension Gets Easier For (Some) Prusa 3D Printers..."
+    },
+    {
+      "url": "https://dozuki.umd.edu/Guide/Prusa+i3+MK3S:+Belt+Tensioning/313",
+      "title": "Prusa i3 MK 3 S: Belt Tensioning - University of Maryland"
+    },
+    {
+      "url": "https://makerworld.com/en/models/37288-belt-tension-gauge-source-file-included",
+      "title": "Belt Tension Gauge (source file included) by ChipCE MakerWorld..."
+    },
+    {
+      "url": "https://www.printables.com/en/model/447036-belt-tension-tester",
+      "title": "Belt tension tester by JanHajn | Download free STL... | Printables.com"
+    }
+  ],
+  "extrusion multiplier vs e steps difference": [
+    {
+      "url": "https://forum.duet3d.com/topic/20613/esteps-vs-multiplier",
+      "title": "esteps vs multiplier | Duet3D Forum"
+    },
+    {
+      "url": "https://reprap.org/forum/read.php?262,494946",
+      "title": "E Steps vs Print E steps | Forum"
+    },
+    {
+      "url": "https://3dx.info/your-first-e-steps-calibration-a-step-by-step-guide-to-perfect-extrusion/",
+      "title": "E - Steps Calibration Guide: Perfect 3D Printer Extrusion"
+    },
+    {
+      "url": "https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8",
+      "title": "Extrusion multiplier and filament diameter - Bear Lab"
+    }
+  ],
+  "extrude 100mm e steps calibration guide": [
+    {
+      "url": "https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html",
+      "title": "Extruder Calibration | Ellis\u2019 Print Tuning Guide"
+    },
+    {
+      "url": "https://www.3dsourced.com/guides/how-to-calibrate-e-steps-on-extruder/",
+      "title": "How To Calibrate E - Steps on Your Extruder for Perfect... - 3DSourced"
+    },
+    {
+      "url": "https://imaginethat3d.atlassian.net/wiki/spaces/IMAGINETHA/pages/704479242/How+To+Calibrate+the+Extruder+Steps+Ender-3+Ender-5+CR-10?atl_f=content-tree",
+      "title": "How To Calibrate the Extruder Steps (Ender-3 / Ender-5 / CR-10)..."
+    },
+    {
+      "url": "https://3dprinterly.com/how-to-calibrate-your-extruder-e-steps-flow-rate/",
+      "title": "How to Calibrate Your Extruder E - Steps & Flow Rate... - 3D Printerly"
+    },
+    {
+      "url": "https://kingroon.com/blogs/3d-print-101/how-to-calibrating-3d-printer-extruder-with-esteps",
+      "title": "How to Calibrating 3D Printer Extruder with e Steps Calibration"
+    }
+  ],
+  "octoprint klipper timelapse plugin setup": [
+    {
+      "url": "https://www.obico.io/blog/klipper-timelapse/",
+      "title": "Klipper Timelapse With Fluidd or Mainsail - All You Need to... | Obico"
+    }
+  ],
+  "gcode trigger camera shutter m240 klipper macro": [
+    {
+      "url": "https://github.com/jschuh/klipper-macros",
+      "title": "GitHub - jschuh/ klipper - macros : A collection of useful macros for the..."
+    },
+    {
+      "url": "https://www.klipper3d.org/G-Codes.html",
+      "title": "G - Codes - Klipper documentation"
+    },
+    {
+      "url": "https://docs.zerog.one/universal/klipper_macro_generator",
+      "title": "Klipper Macro Generator | ZeroG Documentation"
+    },
+    {
+      "url": "https://docs.vorondesign.com/community/howto/voidtrance/Klipper_Macros_Beginners_Guide.html",
+      "title": "Voidtrance Klipper Macros Beginners Guide | Voron Documentation"
+    }
+  ],
+  "time lapse lighting led ring gcode control": [
+    {
+      "url": "https://controllerstech.com/ws2812-arduino-tutorial-neopixel-ring/",
+      "title": "WS2812 Arduino Tutorial: Control NeoPixel Ring with Effects"
+    }
+  ],
+  "light box diy for product photos": [
+    {
+      "url": "https://br.pinterest.com/ideas/diy-lightbox-for-product-photography/923558202434/",
+      "title": "Diy Lightbox for Product Photography"
+    },
+    {
+      "url": "https://katrinalum.wixsite.com/katrinalumdesigns/diylightbox",
+      "title": "DIY Photography Lightbox with Katrina Lum"
+    },
+    {
+      "url": "https://rutube.ru/video/e4d64a0e0d07e3eabb381a71338dc8ea/",
+      "title": "DIY Lightbox for product photography for under $20"
+    }
+  ],
+  "best camera mount for mk3 print head": [],
+  "vibration damping feet tpu design stl": [
+    {
+      "url": "https://www.printables.com/model/707761-anycubic-tpu-damping-feet",
+      "title": "Anycubic TPU damping feet by ThePrintedWaffle | Download free STL ..."
+    },
+    {
+      "url": "https://www.printables.com/model/659347-trident-interlocking-tpu-feet",
+      "title": "Trident Interlocking TPU Feet by Jynxx13 | Download free STL model"
+    },
+    {
+      "url": "https://makerworld.com/en/models/433550",
+      "title": "Anti- Vibration TPU feet by Sanders - MakerWorld"
+    },
+    {
+      "url": "https://www.stlfinder.com/3dmodels/3d-printer-vibration-damping/?page=2",
+      "title": "3d printer vibration damping | Page 2 | STLFinder"
+    }
+  ],
+  "layer change light flash for timelapse": [
+    {
+      "url": "https://cp2004.gitbook.io/ws281x-led-status/guides/octolapse-flash",
+      "title": "OctoLapse Timelapse Flash | WS281x LED Status"
+    }
+  ],
+  "tree supports orcaslicer settings tips": [
+    {
+      "url": "https://orcaslicerpro.com/supports-in-orca-slicer/",
+      "title": "Orca Slicer Tree Supports : Best Settings & Easy Removal (2025)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=i6D-JNu6wE8",
+      "title": "Orca Slicer - Quick and easy support settings - YouTube"
+    },
+    {
+      "url": "https://github.com/OrcaSlicer/OrcaSlicer/issues/11607",
+      "title": "Tree Support - random areas in the support are printed in thin air...."
+    }
+  ],
+  "organic supports prusaslicer 2.6 interface layers": [
+    {
+      "url": "https://blog.prusa3d.com/prusaslicer-2-6-is-here-organic-supports-text-embossing-new-cut-tool-and-more_79322/",
+      "title": "PrusaSlicer 2 . 6 is here - Organic Supports , Text Embossing, New..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MMRCYsXhCZA",
+      "title": "PrusaSlicer 2 . 6 Is HERE! Organic Supports , New Cutting... - YouTube"
+    },
+    {
+      "url": "https://www.obico.io/blog/prusa-slicer-2.6/",
+      "title": "Prusa Slicer 2 . 6 - Organic Supports , Embossing and More! | Obico"
+    },
+    {
+      "url": "https://clevercreations.org/prusaslicer-organic-supports-tree/",
+      "title": "PrusaSlicer Organic Supports : 9 Tips To Use... | Clever Creations"
+    }
+  ],
+  "custom support blocker prusaslicer how to": [],
+  "support material gap top bottom tuning": [
+    {
+      "url": "https://3dprinterly.com/best-prusaslicer-support-settings-filament-3d-printers/",
+      "title": "Best PrusaSlicer Support Settings - Filament 3D Printers - 3D Printerly"
+    }
+  ],
+  "minimize supports orientation strategy": [
+    {
+      "url": "https://www.mdpi.com/2072-666X/16/11/1230",
+      "title": "Integrating Orientation Optimization and Thermal Distortion Prediction..."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/4228043_Determination_of_optimal_build_orientation_based_on_satisfactory_degree_theory_for_RPT",
+      "title": "Determination of optimal build orientation based on satisfactory..."
+    },
+    {
+      "url": "https://leadmachinery.net/your-ultimate-guide-to-sourcing-best-3d-print-orientation/",
+      "title": "Your Ultimate Guide to Sourcing Best 3D Print Orientation"
+    }
+  ],
+  "sacrificial bridges technique 3d printing": [
+    {
+      "url": "https://hackaday.com/2017/10/17/sacrificial-bridge-avoids-3d-printed-supports/",
+      "title": "Sacrificial Bridge Avoids 3 D Printed Supports | Hackaday"
+    },
+    {
+      "url": "https://upmytech.com/3d-printing-bores-without-support-hackaday/",
+      "title": "3 D Printing Bores Without Support [Hackaday] \u2013 Up My Tech"
+    }
+  ],
+  "spool storage dry box with desiccant diy": [
+    {
+      "url": "https://www.printables.com/model/491140-multi-orientation-dry-box-with-desiccant-container",
+      "title": "Multi-orientation Dry Box - With Desiccant Container... | Printables.com"
+    },
+    {
+      "url": "https://makerworld.com/en/search/models?keyword=tag:+desiccantbox",
+      "title": "Search:tag: desiccantbox - MakerWorld"
+    },
+    {
+      "url": "https://www.pinterest.com/ideas/filament-storage-container/945151676410/",
+      "title": "Find and save ideas about filament storage container on Pinterest."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mFskttC0y3c",
+      "title": "UPGRADE Bambu Lab \"AMS\" into a Dry Box with Desiccant ..."
+    },
+    {
+      "url": "https://hackaday.com/2018/02/10/heated-drybox-banishes-filament-moisture-for-under-20/",
+      "title": "Heated DryBox Banishes Filament Moisture For Under $20 | Hackaday"
+    }
+  ],
+  "silica gel recharge oven temp time": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Silica_gel",
+      "title": "Silica gel - Wikipedia"
+    },
+    {
+      "url": "https://www.beyondphototips.com/recharge-silica-gel-crystals/",
+      "title": "How To Dry & Reuse Silica Gel To Reduce... - Beyond Photo Tips"
+    },
+    {
+      "url": "https://forum.bambulab.com/t/recharge-dessicant-in-the-oven-or-microwave/103858",
+      "title": "Recharge dessicant in the oven or microwave - Filament - Bambu Lab..."
+    },
+    {
+      "url": "https://www.digitalphotography.life/how-to-dry-out-and-reuse-silica-gel/",
+      "title": "How To Dry Silica Gel Desiccant, And... - Digital Photography Life"
+    },
+    {
+      "url": "https://dryndry.com/pages/faqs",
+      "title": "FAQ's for Silica gel | Dry & Dry"
+    }
+  ],
+  "wall thickness minimum for fdm strength": [
+    {
+      "url": "https://www.linkedin.com/pulse/design-manufacturability-dfm-3d-printing-practical-guide-br8ef",
+      "title": "Design for Manufacturability (DFM) in 3D Printing: A Practical Guide"
+    }
+  ],
+  "infill pattern gyroid vs cubic strength": [
+    {
+      "url": "https://forum.bambulab.com/t/pros-and-cons-of-infill-patterns/60297",
+      "title": "Pros and Cons of Infill Patterns - Bambu Lab Software - Bambu Lab..."
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Gyroid-vs-Cubic-infill-pattern-testing-results-summary-in-tension_fig4_386582725",
+      "title": "Gyroid vs . Cubic infill pattern testing results summary in tension."
+    },
+    {
+      "url": "https://crealityslicer.com/3d-printing-infill/",
+      "title": "3D Printing Infill Guide - Patterns , Percentages & Strength"
+    },
+    {
+      "url": "https://3dinsider.com/infill-pattern-3d-printing/",
+      "title": "What is the Best Infill Pattern in 3D Printing? - 3D Insider"
+    }
+  ],
+  "adaptive layer height vs fixed surface quality": [
+    {
+      "url": "https://www.obico.io/blog/orca-slicer-adaptive-and-variable-layer-height-guide-smoother-3d-prints/",
+      "title": "Orca Slicer Adaptive and Variable Layer Height : A Guide to... | Obico"
+    },
+    {
+      "url": "https://the3dprinterbee.com/best-layer-height-3d-printing/",
+      "title": "Best Layer Height for 3D Printing | Quality vs . Speed \u2013 The 3D Printer..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Wf55vWzHs7M",
+      "title": "PrusaSlicer Variable Adaptive Layer Height / Practical... - YouTube"
+    },
+    {
+      "url": "https://wiki.creality.com/en/software/update-released/toolbar-introduction/adaptive-layer-height",
+      "title": "Adaptive Layer Height | Creality Wiki"
+    },
+    {
+      "url": "https://bigrep.com/posts/optimizing-layer-height-3d-printing/",
+      "title": "The Best Layer Height for 3D Printing: Finding the Sweet Spot for..."
+    }
+  ],
+  "calibration gcode purge line start script": [
+    {
+      "url": "https://forum.snapmaker.com/t/help-with-cura-start-gcode-purge-line/36266",
+      "title": "Help with Cura start gcode / purge line ? - Snapmaker... | Forum"
+    },
+    {
+      "url": "https://forum.bambulab.com/t/start-script-purge-line/105503",
+      "title": "Start Script - Purge Line - Bambu Lab A1 mini - Bambu Lab... | Forum"
+    }
+  ],
+  "nozzle prime tower alternative single color": [
+    {
+      "url": "https://iwow.com.kz/blog/cura-prime-tower-optimize-single",
+      "title": "Cura Prime Tower : Optimize Single Extruder 3D Prints"
+    }
+  ],
+  "bed mesh visualizer klipper": [
+    {
+      "url": "https://www.klipper3d.org/Bed_Mesh.html",
+      "title": "Bed Mesh - Klipper documentation"
+    },
+    {
+      "url": "https://klipper.discourse.group/t/using-octoprints-bed-visualizer-with-klipper/13035",
+      "title": "Using Octoprint's Bed Visualizer with Klipper - General... - Klipper"
+    },
+    {
+      "url": "https://docs.mainsail.xyz/overview/features/bed-mesh",
+      "title": "Bed Mesh | Mainsail"
+    },
+    {
+      "url": "https://github.com/Klipper3d/klipper/issues/2842",
+      "title": "Bed Visualizer plugin \u00b7 Issue #2842 \u00b7 Klipper 3d/ klipper \u00b7 GitHub"
+    },
+    {
+      "url": "https://docs.fluidd.xyz/features/bed_mesh",
+      "title": "Bed Mesh | Fluidd"
+    }
+  ],
+  "photogrammetry workflow meshroom beginner": [
+    {
+      "url": "https://www.youtube.com/watch?v=j3lhPKF8qjU",
+      "title": "Photoscanning 100% Free: Complete Meshroom Tutorial - YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Iy9KUAO3Oe0",
+      "title": "Meshroom / Blender / Unreal Engine - Tutorial / Free Photogrammetry ..."
+    },
+    {
+      "url": "https://gamedesigning.org/learn/meshroom-tutorial/",
+      "title": "The Beginners Guide to Meshroom"
+    }
+  ],
+  "polycam lidar export to fusion 360": [
+    {
+      "url": "https://styly.cc/tips/nimi-lidar-polycam-3dscan/",
+      "title": "[iPhone12Pro/iPad] 3D scanning with the LiDAR app \" Polycam \" | STYLY"
+    }
+  ],
+  "clean scan to solid modeling workflow": [
+    {
+      "url": "https://www.Artec3D.com/3d-software/solidworks-cad",
+      "title": "Geomagic for SOLIDWORKS | Artec 3D"
+    },
+    {
+      "url": "https://3dprintingindustry.com/news/creality-and-kvs-ltd-partner-to-deliver-integrated-scan-to-cad-workflow-for-engineers-247224/",
+      "title": "Creality and KVS Ltd Partner to Deliver Integrated Scan - to -CAD..."
+    },
+    {
+      "url": "https://novedge.com/blogs/design-news/rhino-3d-tip-converting-mesh-geometry-to-solid-nurbs-in-rhino-3d-for-enhanced-model-precision",
+      "title": "Rhino 3D Tip: Converting Mesh Geometry to Solid NURBS in Rhino..."
+    }
+  ],
+  "scale from photo reference fusion": [
+    {
+      "url": "https://imagemeasurementonline.com/",
+      "title": "Image Measurement Tool \u2013 Measure a Photo , Get Picture Dimensions..."
+    },
+    {
+      "url": "https://eleif.net/photomeasure",
+      "title": "Measure in photo online \u2010 eleif.net"
+    },
+    {
+      "url": "https://smallpond.ca/jim/scale/",
+      "title": "Photographic reference scale"
+    }
+  ],
+  "retopology in blender for 3d print": [
+    {
+      "url": "https://docs.blender.org/manual/en/latest/modeling/meshes/retopology.html",
+      "title": "Remeshing - Blender 5.0 Manual"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=X2GNyEUvpD4",
+      "title": "Retopology in Blender (Beginner Tutorial) - YouTube"
+    },
+    {
+      "url": "https://github.com/CGCookie/retopoflow",
+      "title": "GitHub - CGCookie/retopoflow: A suite of retopology tools for Blender"
+    },
+    {
+      "url": "https://www.blenderbasecamp.com/how-to-retopologze-your-model-the-fast-way/",
+      "title": "How To Retopologize Your Model The Fast Way? - Blender Base Camp"
+    },
+    {
+      "url": "https://www.wikihow.tech/Retopologize-a-Mesh-in-Blender",
+      "title": "How to Retopologize a Mesh in Blender (with Pictures) - wikiHow Tech"
+    }
+  ],
+  "decimate without losing holes blender": [
+    {
+      "url": "https://www.youtube.com/watch?v=xLIitW-fHu0",
+      "title": "Decimate without losing shape keys + Decimate in edit... - YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tBiP-O9jqU8",
+      "title": "Blender How to Reduce Polygons using Un-Subdivide with Decimate ..."
+    },
+    {
+      "url": "https://blenderartists.org/t/unwrapping-decimate-advice/1376020",
+      "title": "Unwrapping/ decimate advice - Materials... - Blender Artists Community"
+    },
+    {
+      "url": "https://rutube.ru/video/c145576b71b190cc6b2a92e51686ddcc/",
+      "title": "Decimate without losing shape keys + Decimate in edit mode..."
+    }
+  ],
+  "ipa 99% bulk seattle pickup": [
+    {
+      "url": "https://gotparts747.com/products/isopropyl-alcohol-ipa-99-5-55-gallon-drum",
+      "title": "Isopropyl Alcohol - IPA 99 .5% (55 Gallon) \u2013 GotParts747"
+    },
+    {
+      "url": "https://detaillink.com/products/ipa-99-isopropyl-alcohol-5-gal",
+      "title": "IPA 99 % Isopropyl Alcohol 5 Gal \u2013 Detaillink"
+    }
+  ],
+  "nitrile gloves black medium box 200": [
+    {
+      "url": "https://www.amazon.com.be/-/en/ARNOMED-Disposable-Gloves-Nitrile-Available/dp/B0C4YQBJKV",
+      "title": "ARNOMED Black Disposable Gloves , 200 Pieces/ Box , Medium ..."
+    },
+    {
+      "url": "https://bondimedical.com/products/black-medical-nitrile-gloves-200-box",
+      "title": "Black 5.0mil Medical Nitrile Gloves 200 / Box \u2013 Bondi Medical Supplies..."
+    },
+    {
+      "url": "https://72hours.ca/products/black-nitrile-gloves-all-purpose-gloves-box-of-200-pieces-4-0-mil-72hrs",
+      "title": "Black Nitrile Gloves , All Purpose Gloves , Box of 200 Pieces, 4.0 Mil..."
+    },
+    {
+      "url": "https://www.target.com/p/hand-e-black-nitrile-gloves-perfect-for-cleaning-cooking-200-pack-medium/-/A-88098543",
+      "title": "Hand-e Black Nitrile Gloves , Perfect For Cleaning & Cooking - 200 ..."
+    },
+    {
+      "url": "https://drugtests.co.uk/products/black-nitrile-gloves",
+      "title": "Omnitex Black Nitrile Gloves Box of 200 Gloves | Drug Testing Kits UK"
+    }
+  ],
+  "silicone mat resin workstation large": [
+    {
+      "url": "https://www.matterhackers.com/store/l/sla-3d-printing-resin-workstation-silicone-mat/sk/MWU3RAMU",
+      "title": "Resin Workstation Mat - 19.7\" x 15.35\" x 0.18\" | MatterHackers"
+    },
+    {
+      "url": "https://www.craft-resin.com/products/large-silicone-mat-60x40-cm",
+      "title": "Extra Thick Silicone Craft Mat \u2013 60x40 cm, 1.3 mm"
+    },
+    {
+      "url": "https://www.etsy.com/listing/1672879250/lets-resin-extra-large-silicone-mat-for",
+      "title": "LET'S RESIN Extra Large Silicone Mat for Crafts,36''x24... - Etsy"
+    }
+  ],
+  "uv safety glasses wavelength 405nm": [
+    {
+      "url": "https://www.krantz-online.de/en/yellow-tinted-uv-protection-glasses-255nm-405nm/W18",
+      "title": "Yellow tinted UV protection glasses , 255nm- 405 nm | W18"
+    },
+    {
+      "url": "https://www.amazon.com/laserland-Glasses-190nm-490nm-Wavelength-TUB-F/dp/B0BJKL1QBB",
+      "title": "OD6 Laser Safety Glasses UV light Violet Blue for 405 nm , 445nm..."
+    },
+    {
+      "url": "https://beamqlaser.com/product/free-shipping-uv-laser-radiation-marking-safety-glasses-180-520nm-protection-450nm-blue-light-305nm-380nm-405nm-eye-goggles/",
+      "title": "free shipping UV Laser Radiation Marking Safety Glasses 180-520nm..."
+    }
+  ],
+  "wash and cure station comparison 2 in 1": [
+    {
+      "url": "https://printingatoms.com/best-wash-and-cure-station/",
+      "title": "7 Best Wash And Cure Stations In 2024"
+    }
+  ],
+  "resin drip tray printed design ideas": [
+    {
+      "url": "https://cults3d.com/en/3d-model/tool/resin-print-drip-tray-works-well-with-wham-bam-resin-tools",
+      "title": "Resin Print Drip Tray works well with Wham Bam Resin Tools"
+    },
+    {
+      "url": "https://www.myminifactory.com/object/3d-print-resin-drip-tray-funnel-and-base-111799",
+      "title": "3D Printable Resin Drip Tray , Funnel and base by Luke Pettit"
+    },
+    {
+      "url": "https://www.printables.com/model/354823-saturn-2-resin-drip-tray-with-funnel-for-ring-stan",
+      "title": "Saturn 2 Resin Drip Tray with Funnel for Ring Stand... | Printables.com"
+    },
+    {
+      "url": "https://www.3dprintsearch.com/model/0kg598rd25/saturn-2-resin-drip-tray-with-funnel-for-ring-stand",
+      "title": "Saturn 2 Resin Drip Tray With Funnel For Ring Stand 3D Print Model"
+    }
+  ],
+  "pla recycling drop off seattle": [
+    {
+      "url": "https://www.recology.com/recology-king-county/seattle/recology-store/",
+      "title": "The Recology Store | Recology - Recology King County: Seattle"
+    }
+  ],
+  "reuse failed prints filament grinder options": [
+    {
+      "url": "https://cults3d.com/en/blog/articles/how-to-recycle-reuse-fail-prints",
+      "title": "How to recycle or reuse your fail prints ?\u30fbCults"
+    },
+    {
+      "url": "https://3d-p.eu/materials/is-there-a-way-to-recycle-3d-printer-filament-sustainability-tips/",
+      "title": "Is There A Way To Recycle 3D Printer Filament ? [Sustainability Tips]..."
+    }
+  ],
+  "masterspool reusable spool printable": [
+    {
+      "url": "https://www.printables.com/model/107482-prusament-masterspool-reuse?lang=en",
+      "title": "Prusament Masterspool Reuse by Bernd | Download... | Printables.com"
+    },
+    {
+      "url": "https://makerworld.com/es/models/36669-bambu-lab-reusable-spool-masterspool?from=search",
+      "title": "Bambu Lab Reusable Spool / MasterSpool por Print 4Gods..."
+    },
+    {
+      "url": "https://cults3d.com/en/3d-model/tool/smart-masterspool",
+      "title": "Free STL file Smart MasterSpool \u30fb3D print design to..."
+    },
+    {
+      "url": "https://www.thingiverse.com/thing:5938871",
+      "title": "Rosa3D Filaments MASTERSPOOL - reusable ReFill... - Thingiverse"
+    },
+    {
+      "url": "https://www.myminifactory.com/object/3d-print-reusable-adjustable-spool-for-spoolless-filament-136426",
+      "title": "3D Printable Reusable adjustable spool for spoolless filament by Felix"
+    }
+  ],
+  "cardboard spool brands list": [],
+  "low waste support strategies tree supports": [
+    {
+      "url": "https://www.tol.ca/en/news/give-joy-not-garbage-low-waste-holiday-tips.aspx",
+      "title": "Give Joy, Not Garbage: Low - Waste Holiday Tips - Township of Langley"
+    },
+    {
+      "url": "https://umbrex.com/news-articles/building-design-with-low-waste-in-mind/",
+      "title": "Building Design with Low Waste in Mind - Building Design with Low ..."
+    },
+    {
+      "url": "https://www.poe-vault.com/guides/atlas-passive-skill-tree-strategies",
+      "title": "Atlas Passive Skill Tree Strategies Guide - PoE Vault"
+    }
+  ],
+  "energy usage per print calculator": [
+    {
+      "url": "https://www.3dsourced.com/guides/how-much-electricity-does-a-3d-printer-use/",
+      "title": "How Much Electricity Does A 3D Printer Use ? [ Calculator ] - 3DSourced"
+    },
+    {
+      "url": "https://www.inchcalculator.com/electricity-cost-calculator/",
+      "title": "2025 Electricity Cost Calculator - Inch Calculator"
+    },
+    {
+      "url": "https://www.calculator.net/electricity-calculator.html",
+      "title": "Electricity Calculator"
+    }
+  ],
+  "etsy seo for 3d printed desk organizer": [
+    {
+      "url": "https://www.etsy.com/market/desk_organiser_3d_print",
+      "title": "Desk Organiser 3 d Print - Etsy"
+    },
+    {
+      "url": "https://litcommerce.com/blog/etsy-seo/",
+      "title": "Etsy SEO : 15 Helpful Tips to Get More Traffic in 2025"
+    }
+  ],
+  "cost per gram spreadsheet template google sheets": [
+    {
+      "url": "https://thegoodocs.com/freebies/sheets/",
+      "title": "200+ Templates in Google Sheets (Free)"
+    },
+    {
+      "url": "https://coefficient.io/templates",
+      "title": "200+ Free Spreadsheet Templates [Sep 2025 Edition]"
+    }
+  ],
+  "shipping small 3d prints eco packaging": [
+    {
+      "url": "https://www.pinterest.com/ideas/shipping-delicate-packages-safely/907666082316/",
+      "title": "Shipping Delicate Packages Safely"
+    },
+    {
+      "url": "https://www.designboom.com/design/eco-friendly-packaging-bioregion-institute-barley-waste-and-seaweed-12-16-2024/",
+      "title": "eco -friendly packaging by bioregion institute repurposes barley waste..."
+    }
+  ],
+  "heat set insert press soldering iron temp": [
+    {
+      "url": "https://markforged.com/resources/blog/heat-set-inserts",
+      "title": "Using Heat Set Inserts"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=c4KrlqsEBB0",
+      "title": "Unbox: 90W Heat Insert Press Kit for 3D Prints - Vertical Heat Set ..."
+    },
+    {
+      "url": "https://ldomotion.com/guides/heatset-insert-tool-guide",
+      "title": "Heatset Insert Tool Guide | LDO Motion"
+    },
+    {
+      "url": "https://learn.adafruit.com/heat-set-rig",
+      "title": "Overview | Heat Set Insert Rig | Adafruit Learning System"
+    },
+    {
+      "url": "https://www.fixturfab.com/articles/diy-heat-set-insert-press",
+      "title": "fixturfab.com/articles/diy- heat - set - insert - press"
+    }
+  ]
+}

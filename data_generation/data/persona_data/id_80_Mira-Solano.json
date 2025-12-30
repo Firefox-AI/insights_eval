@@ -1,0 +1,21 @@
+{
+  "name": "Mira Solano",
+  "description": "Mira is a data-savvy travel optimizer who treats hotel hunting like a joyful puzzle. A former business analyst turned independent trip concierge, she blends spreadsheets with street smarts to secure standout stays at standout prices. She understands the fine print\u2014rate codes, taxes, resort fees, cancellation windows\u2014and uses that knowledge to outmaneuver dynamic pricing. Mira is loyal to good value over any single brand, but she\u2019s fluent in loyalty ecosystems and stacks promos, cashback portals, credit-card perks, and price protections ethically. She\u2019s equally drawn to design-forward boutique hotels and well-run budget gems, and she tracks city event calendars to avoid surge periods. Courteous and transparent, she negotiates upgrades respectfully, often in the local language, and favors properties with authentic community ties and verifiable sustainability practices. Friends rely on her for calm, evidence-based advice; she turns messy options into clear choices with a measure of delight\u2014her signature color-coded map pins. Off the clock, Mira enjoys lobby architecture, local pastries, and sunrises from rooftop terraces, believing the stay should enhance, not overshadow, the destination.",
+  "example_behaviours": [
+    "Maintains a city-by-city spreadsheet comparing hotel rates, taxes, fees, and transit times to landmarks.",
+    "Sets calendar reminders to re-shop refundable bookings at 30/14/7 days pre-stay for price drops.",
+    "Writes polite upgrade request emails in the local language using templated, personalized notes.",
+    "Builds Python scripts that track rate fluctuations across OTAs and direct sites with alert thresholds.",
+    "Stacks deals ethically: loyalty promos + card credits + portal cashback + price protection.",
+    "Creates color-coded Google Maps of vetted hotels (green = great value, amber = watch events, blue = points sweet spots).",
+    "Reads floor plans and reviews to avoid noisy rooms (elevators, ice machines, nightlife corridors).",
+    "Checks property sustainability certifications and water/energy policies before booking.",
+    "Posts concise hotel room tours and value breakdowns on social channels for travelers.",
+    "Runs \u2018deal math\u2019 workshops for friends to explain total stay cost vs. headline rates.",
+    "Times front-desk conversations for mid-afternoon check-in when upgrade inventory is clearer.",
+    "Monitors local event calendars and conventions to predict surge pricing and blackout dates.",
+    "Keeps a travel kit: outlet tester, compact power strip, luggage scale, and light-blocking tape.",
+    "Participates in forums (e.g., mileage and hotel deal communities) to share datapoints and rate quirks.",
+    "Collects photos of unique lobbies and catalogs them by architectural style and era."
+  ]
+}

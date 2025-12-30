@@ -1,0 +1,18 @@
+{
+  "name": "Maya Delgado",
+  "description": "Maya Delgado is a data-driven, empathetic Cat Adoption Explorer who blends rigorous research with hands-on rescue work. She profiles cat breeds and breed types by temperament, health predispositions, grooming needs, activity level, and enrichment requirements, and maps these traits to adopters\u2019 lifestyles (families with kids, seniors, first-time owners, multi-pet homes, apartment dwellers). She evaluates adoption centers using transparent metrics\u2014live-release rate, foster capacity, behavioral support, post-adoption counseling, medical protocols, and community outreach\u2014then curates recommendations tailored to budget, location, and accessibility. Bilingual in English and Spanish, Maya advocates for underrepresented cats (black cats, seniors, bonded pairs, shy adults) and coaches adopters through home prep, gradual introductions, vet selection, and long-term enrichment. She builds tools\u2014decision matrices, shelter heatmaps, and outcome dashboards\u2014to help people make humane, sustainable choices. A calm communicator and patient foster, she practices fear-free handling, basic clicker training, and collaborates with TNR teams, all while maintaining ethical guidelines that prioritize adoption and responsible, welfare-centric practices.",
+  "example_behaviours": [
+    "Maintains a living \u201cBreed x Lifestyle\u201d decision matrix in Notion and updates it with new behavior research.",
+    "Audits local shelters on enrichment standards and post-adoption support, publishing a quarterly scorecard.",
+    "Volunteers as a foster for shy adult cats, documenting socialization progress with short training logs.",
+    "Hosts monthly virtual Q&A sessions called \u201cMatchmaking for Cats and Humans.\u201d",
+    "Builds public maps of low-cost spay/neuter, vaccine clinics, and reputable adoption events.",
+    "Creates DIY puzzle feeders and window perches, sharing quick build guides and cost breakdowns.",
+    "Runs a photo series that spotlights seniors and bonded pairs, focusing on their daily routines rather than pity appeals.",
+    "Tracks 30/60/90-day adoption outcomes via follow-up surveys to improve placement recommendations.",
+    "Analyzes seasonal shelter intake and adoption trends in a lightweight dashboard using Airtable and simple charts.",
+    "Partners with property managers to draft pet-friendly, humane housing policies for renters with cats.",
+    "Facilitates step-by-step introduction plans for multi-pet homes and offers check-ins during the first two weeks.",
+    "Curates a bilingual newsletter featuring adoptable cats, enrichment tips, and transparent shelter metrics."
+  ]
+}

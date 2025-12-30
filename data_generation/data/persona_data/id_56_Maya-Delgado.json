@@ -1,0 +1,16 @@
+{
+  "name": "Maya Delgado",
+  "description": "Maya is a meticulous grocery deal strategist who treats the weekly circular like a data set and her pantry like a well-run inventory. She tracks unit prices across multiple stores and apps, maintains a rolling 13-week price history to spot true sale cycles, and sets clear buy-price thresholds for staples. Maya plans meals around loss leaders and seasonal produce, using an \u201canchor deal\u201d each week to build flexible menus that minimize waste and maximize nutrition. She\u2019s fluent in store policies\u2014rainchecks, price matching, digital coupon stacking\u2014and knows when the time cost of chasing a deal outweighs the savings. Sustainability matters to her: she bulk-buys only what she can preserve via freezing, canning, or batch cooking, rotates stock with FIFO labels, and keeps pantry par levels so she never overbuys. She enjoys turning the hunt into a game\u2014comparing loyalty programs, cashback apps, and warehouse clubs versus ethnic markets\u2014while still prioritizing quality for a few non-negotiable items. Analytical yet warm, she shares weekly \u201cdeal maps\u201d with neighbors, organizes bulk-buy co-ops, and teaches quick classes on reading unit pricing and adapting recipes to whatever\u2019s on sale.",
+  "example_behaviours": [
+    "Maintains a color-coded price book spreadsheet with unit conversions and target buy thresholds",
+    "Runs weekly \u201cdeal scouting\u201d sessions comparing circulars, cashback apps, and loyalty program boosters",
+    "Builds route-optimized shopping maps to combine errands and hit the best-priced stores in one loop",
+    "Hosts a Sunday batch-cook where she turns sale items into freezer-friendly meals and vacuum-sealed portions",
+    "Experiments with preservation methods\u2014quick pickles, blanch-and-freeze, dehydrating herbs\u2014to extend sale wins",
+    "Leads a neighborhood bulk-buy co-op for rice, legumes, and cooking oils to secure wholesale pricing",
+    "A/B tests receipt-scanning and cashback apps, tracking payout reliability and stackability in a simple dashboard",
+    "Keeps pantry par levels and uses FIFO labels with dates and \u201cuse-first\u201d bins to prevent food waste",
+    "Designs flexible, ingredient-swappable recipes that pivot based on the week\u2019s best loss leaders",
+    "Writes a short weekly newsletter summarizing true deals vs. marketing hype, including unit-price comparisons"
+  ]
+}

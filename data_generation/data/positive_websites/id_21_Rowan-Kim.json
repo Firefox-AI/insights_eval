@@ -1,0 +1,1590 @@
+{
+  "monthly learning theme ideas for STEM self-study": [
+    {
+      "url": "https://www.steampoweredfamily.com/monthly-stem-ideas-for-the-classroom/",
+      "title": "Monthly STEM Ideas for the Classroom - STEAM Powered Family"
+    }
+  ],
+  "microfluidics paper-based channels diy safe": [
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0925400521002495",
+      "title": "Paper-based microfluidics: Simplified fabrication and assay ..."
+    },
+    {
+      "url": "https://simplemicrofluidics.com/diy-microfluidics-prototyping/paper-based-microfluidics/",
+      "title": "How to make paper microfluidic devices - SimpleMicrofluidics"
+    },
+    {
+      "url": "https://www.instructables.com/The-Makers-Guide-to-Microfluidics/",
+      "title": "The Makers Guide to Microfluidics : 13 Steps (with Pictures ..."
+    },
+    {
+      "url": "https://link.springer.com/article/10.1140/epjs/s11734-022-00727-y",
+      "title": "Paper based microfluidic devices: a review of fabrication ..."
+    },
+    {
+      "url": "https://link.springer.com/article/10.1140/epjs/s11734-022-00727-y",
+      "title": "Paper based microfluidic devices: a review of fabrication ..."
+    }
+  ],
+  "best low cost PM2.5 sensor comparison 2025": [
+    {
+      "url": "https://bestvacuumexpert.com/vetted/best-pm25-monitor/",
+      "title": "15 Best PM2.5 Monitors to Keep Your Air Clean and Safe in 2025"
+    }
+  ],
+  "calibrating SDS011 pm sensor python": [
+    {
+      "url": "https://github.com/TimOrme/sds011lib",
+      "title": "Python library for the SDS011 Air Quality Sensor - GitHub"
+    },
+    {
+      "url": "https://pypi.org/project/sds011lib/",
+      "title": "sds011lib \u00b7 PyPI"
+    },
+    {
+      "url": "https://timorme.github.io/sds011lib/",
+      "title": "SDS011lib - timorme.github.io"
+    },
+    {
+      "url": "https://gitlab.com/frankrich/sds011_particle_sensor/blob/master/Code/sds011.py",
+      "title": "master \u00b7 Frank Heuer / sds011_particle_sensor - GitLab"
+    },
+    {
+      "url": "https://github.com/ikalchev/py-sds011",
+      "title": "Python 3 interface to the SDS011 air particulate density sensor."
+    }
+  ],
+  "arduino CO2 sensor SCD41 example code": [
+    {
+      "url": "https://learn.adafruit.com/adafruit-scd-40-and-scd-41/arduino",
+      "title": "Arduino | Adafruit SCD-40 and SCD-41 | Adafruit Learning System"
+    },
+    {
+      "url": "https://docs.sparkfun.com/SparkFun_Qwiic_CO2_Sensor_SCD4X/examples/",
+      "title": "Arduino Examples - SparkFun CO2 Humidity and Temperature Sensor - SCD4X ..."
+    },
+    {
+      "url": "https://github.com/sparkfun/SparkFun_SCD4x_Arduino_Library/blob/main/examples/Example8_SCD41SingleShot/Example8_SCD41SingleShot.ino",
+      "title": "SparkFun_SCD4x_Arduino_Library/examples/Example8 ... - GitHub"
+    },
+    {
+      "url": "https://docs.arduino.cc/libraries/sparkfun-scd4x-arduino-library/",
+      "title": "SparkFun SCD4x Arduino Library"
+    }
+  ],
+  "BME680 accuracy temperature humidity correction": [
+    {
+      "url": "https://community.bosch-sensortec.com/t5/MEMS-sensors-forum/BME280-and-BME680-humidity-accuracy/m-p/13308",
+      "title": "Re: BME280 and BME 680 humidity accuracy"
+    },
+    {
+      "url": "https://forums.pimoroni.com/t/bme680-humidity-calibration/9105",
+      "title": "BME 680 Humidity Calibration - Support - Pimoroni Buccaneers"
+    },
+    {
+      "url": "https://community.home-assistant.io/t/bme680-temperature-offset-impacts-the-humidity/802716",
+      "title": "BME 680 temperature offset impacts the humidity - ESPHome - Home..."
+    }
+  ],
+  "diy Stevenson screen radiation shield 3D print": [
+    {
+      "url": "https://www.printables.com/model/240974-solar-radiation-shield-aka-stevenson-screen",
+      "title": "Solar Radiation Shield aka Stevenson Screen - Printables.com"
+    },
+    {
+      "url": "https://www.yeggi.com/q/stevenson+shield/",
+      "title": "\"stevenson shield\" 3D Models to Print - yeggi"
+    },
+    {
+      "url": "https://www.thingiverse.com/thing:1718334",
+      "title": "Solar Radiation Shield (Stevenson Screen) for Outdoor ... - Thingiverse"
+    },
+    {
+      "url": "https://www.stlfinder.com/3dmodels/stevenson-shield/",
+      "title": "stevenson shield 3d models - Page 1 | STLFinder"
+    },
+    {
+      "url": "https://www.printables.com/model/202225-solar-radiation-shield-stevenson-screen-for-outdoo",
+      "title": "Solar Radiation Shield (Stevenson Screen) for Outdoor Thermometer"
+    }
+  ],
+  "soil moisture sensor calibration gravimetric method": [
+    {
+      "url": "https://sabraojournal.org/low-cost-soil-moisture-sensors-assessment-accuracy-calibration-gravimetric-method/",
+      "title": "Low-cost soil moisture sensors ' assessment for their..."
+    }
+  ],
+  "grafana influxdb setup on raspberry pi bullseye": [
+    {
+      "url": "https://sandyjmacdonald.github.io/2021/12/29/setting-up-influxdb-and-grafana-on-the-raspberry-pi-4/",
+      "title": "Setting up InfluxDB and Grafana on the Raspberry Pi 4"
+    },
+    {
+      "url": "https://simonhearne.com/2020/pi-influx-grafana/",
+      "title": "Installing InfluxDB & Grafana on Raspberry Pi - Simon Hearne"
+    }
+  ],
+  "jupyter notebook unit tests pytest nbval": [
+    {
+      "url": "https://pypi.org/project/nbval/",
+      "title": "nbval \u00b7 PyPI"
+    },
+    {
+      "url": "https://github.com/computationalmodelling/nbval",
+      "title": "GitHub - computationalmodelling/nbval: A py.test plugin to ... Python Tests for Jupyter Notebooks | by ifeelfree | Medium Testing with Jupyter notebooks: NoteBook VALidation ( plug-in ... Notebook Code Execution \u2014 Using Automation To Support Quality ... IPython Notebook Validation for py.test - Documentation nbval \u00b7 PyPI Python Tests for Jupyter Notebooks | by ifeelfree - Medium nbval \u00b7 PyPI Python Tests for Jupyter Notebooks | by ifeelfree - Medium nbval/tests/test_unit_tests_in_notebooks.py at master ..."
+    },
+    {
+      "url": "https://majianglin2003.medium.com/python-tests-for-jupyter-notebooks-9676c095bf72",
+      "title": "Python Tests for Jupyter Notebooks | by ifeelfree | Medium Testing with Jupyter notebooks: NoteBook VALidation ( plug-in ... Notebook Code Execution \u2014 Using Automation To Support Quality ... IPython Notebook Validation for py.test - Documentation nbval \u00b7 PyPI Python Tests for Jupyter Notebooks | by ifeelfree - Medium nbval \u00b7 PyPI Python Tests for Jupyter Notebooks | by ifeelfree - Medium nbval/tests/test_unit_tests_in_notebooks.py at master ..."
+    },
+    {
+      "url": "https://arxiv.org/pdf/2001.04808",
+      "title": "Testing with Jupyter notebooks: NoteBook VALidation ( plug-in ..."
+    }
+  ],
+  "pandas resample irregular time series to 1min": [
+    {
+      "url": "https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.resample.html",
+      "title": "pandas.Series.resample \u2014 pandas 2.3.3 documentation"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/61613411/pandas-resampling-irregular-time-series",
+      "title": "Pandas resampling irregular time series - Stack Overflow"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/data-analysis/converting-irregular-intervals-to-regular-intervals-with-pandas/",
+      "title": "Converting Irregular Intervals to Regular Intervals with Pandas"
+    },
+    {
+      "url": "https://www.sparkcodehub.com/pandas/time-series/resampling-data",
+      "title": "Mastering Data Resampling in Pandas for Time Series Analysis"
+    },
+    {
+      "url": "https://medium.com/@tubelwj/python-pandas-resampling-handling-regular-and-irregular-time-series-data-545ca65cda4b",
+      "title": "Python Pandas Resampling: Handling Regular and Irregular Time Series ..."
+    }
+  ],
+  "openaq api python tutorial": [
+    {
+      "url": "https://py-openaq.readthedocs.io/",
+      "title": "Welcome to py- openaq \u2019s documentation! \u2014 py- openaq documentation"
+    },
+    {
+      "url": "https://python.openaq.org/tutorial/getting-started/",
+      "title": "Getting started - OpenAQ Python SDK"
+    },
+    {
+      "url": "https://github.com/cytojen/OpenAQ_API_Request",
+      "title": "GitHub - cytojen/ OpenAQ _ API _Request"
+    },
+    {
+      "url": "https://community.panodata.org/t/using-the-openaq-api-to-acquire-open-air-quality-information-from-python/151",
+      "title": "Using the OpenAQ API to acquire open air quality information from..."
+    }
+  ],
+  "EPA AQI calculation for PM2.5 formula": [
+    {
+      "url": "https://community.purpleair.com/t/how-to-calculate-the-us-epa-pm2-5-aqi/877",
+      "title": "How to Calculate the US EPA PM 2 . 5 AQI - Data - PurpleAir Community"
+    },
+    {
+      "url": "https://forum.airnowtech.org/t/aqi-calculations-overview-ozone-pm2-5-and-pm10/168",
+      "title": "AQI Calculations Overview- Ozone, PM 2 . 5 and PM10 - Air Quality ..."
+    }
+  ],
+  "allan variance sensor drift explained": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Allan_variance",
+      "title": "Allan variance - Wikipedia"
+    },
+    {
+      "url": "https://liquidinstruments.com/application-notes/understanding-and-performing-allan-variance-measurements/",
+      "title": "Understanding and performing Allan variance measurements"
+    },
+    {
+      "url": "https://home.engineering.iastate.edu/~shermanp/AERE432/lectures/Rate+Gyros/Allan+variance.pdf",
+      "title": "PDF Allan variance - Iowa State University"
+    },
+    {
+      "url": "https://www.mathworks.com/help/nav/ug/inertial-sensor-noise-analysis-using-allan-variance.html",
+      "title": "Inertial Sensor Noise Analysis Using Allan Variance"
+    },
+    {
+      "url": "https://www.st.com/resource/en/design_tip/dt0064-noise-analysis-and-identification-in-mems-sensors-allan-time-hadamard-overlapping-modified-total-variance-stmicroelectronics.pdf",
+      "title": "PDF Noise analysis and identification in MEMS sensors, Allan, Time ..."
+    }
+  ],
+  "kalman filter simple python for noisy sensor": [
+    {
+      "url": "https://python.plainenglish.io/python-kalman-filter-for-noisy-sensor-data-6291523ae089",
+      "title": "Python Kalman Filter for Noisy Sensor Data"
+    },
+    {
+      "url": "https://github.com/BhargaviM0729/-Noise-Reduction-in-Sensor-Data-Using-a-Simple-Kalman-Filter",
+      "title": "BhargaviM0729/-Noise-Reduction-in-Sensor-Data-Using-a-Simple-Kalman-Filter"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/python/kalman-filter-in-python/",
+      "title": "Kalman Filter in Python - GeeksforGeeks"
+    },
+    {
+      "url": "https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/",
+      "title": "What is a Kalman Filter? How to Simplify Noisy Data in Navigation and ..."
+    },
+    {
+      "url": "https://simonebertonilab.com/kalman-filter-python/",
+      "title": "Kalman Filter: Python Implementation - simonebertonilab.com"
+    }
+  ],
+  "oversampling averaging adc noise reduction arduino": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Oversampling",
+      "title": "Oversampling - Wikipedia"
+    },
+    {
+      "url": "https://www.instructables.com/Exploring-and-Reducing-ADC-Noise-on-Adafruit-CLUE-/",
+      "title": "Exploring and Reducing ADC Noise on Adafruit CLUE... - Instructables"
+    },
+    {
+      "url": "https://files.elektroda.pl/961077,doc8003.html",
+      "title": "Download file doc8003.pdf from thread Arduino Nano oversampling ..."
+    }
+  ],
+  "esp32 deep sleep current measurement tips": [
+    {
+      "url": "https://docs.espressif.com/projects/esp-iot-solution/en/latest/low_power_solution/deep-sleep_current_test.html",
+      "title": "Current Consumption Test for ESP32 in Deep sleep"
+    },
+    {
+      "url": "https://forum.digilent.com/topic/29140-how-to-use-the-analog-discovery-3-to-measure-deep-sleep-current-on-an-esp32/",
+      "title": "How to Use the Analog Discovery 3 to Measure Deep Sleep ..."
+    },
+    {
+      "url": "https://lucidar.me/en/esp32/power-consumption-of-esp32-devkitc-v4/",
+      "title": "ESP32-DevKitC V4 real current consumption in deep sleep mode"
+    }
+  ],
+  "lora ttn getting started environmental sensors": [
+    {
+      "url": "https://wiki.seeedstudio.com/SenseCAP_Builder_build_LoRaWAN_Sensors/",
+      "title": "Build LoRaWAN Sensors with SenseCAP Data... | Seeed Studio Wiki"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VldgrTKdAqo",
+      "title": "LoRaWAN Tutorial | Dragino Gateway Setup with... - YouTube"
+    },
+    {
+      "url": "https://espeasy.readthedocs.io/en/latest/Controller/C018.html",
+      "title": "Controller - LoRa TTN - RN2483/RN2903 \u2014 ESP Easy..."
+    },
+    {
+      "url": "https://www.thethingsnetwork.org/labs/story/first-ttn-and-allthingstalk-application-using-tlabgrs-unode-lora-board",
+      "title": "Write your first TTN and AllThingsTalk application using..."
+    }
+  ],
+  "mqtt mosquitto tls self signed cert guide": [
+    {
+      "url": "http://www.steves-internet-guide.com/mosquitto-tls/",
+      "title": "Mosquitto MQTT Broker SSL Configuration Using Own Certificates"
+    },
+    {
+      "url": "https://cedalo.com/blog/mqtt-tls-configuration-guide/",
+      "title": "MQTT TLS/SSL Configuration: Guide with Mosquitto Examples ... Configure TLS for Mosquitto using a self-signed certificate How to Use the Mosquitto MQTT Broker (With SSL/TLS) Self signed Mosquitto - Tasmota mosquitto-tls man page | Eclipse Mosquitto Configure TLS for Mosquitto using a self - signed certificate MQTT TLS /SSL Configuration: Guide with Mosquitto Examples | Cedalo Mosquitto MQTT Broker SSL Configuration Using Own Certificates Self signed Mosquitto - Tasmota - GitHub Pages MQTT TLS Certificate Generation & Usage Guide - GitHub"
+    },
+    {
+      "url": "https://www.marioverhaeg.nl/2022/09/17/configure-tls-for-mosquitto-using-a-self-signed-certificate/",
+      "title": "Configure TLS for Mosquitto using a self-signed certificate"
+    },
+    {
+      "url": "https://shawnhymel.com/3085/how-to-use-the-mosquitto-mqtt-broker-with-ssl-tls/",
+      "title": "How to Use the Mosquitto MQTT Broker (With SSL/TLS)"
+    },
+    {
+      "url": "https://tasmota.github.io/docs/Self-signed-Mosquitto/",
+      "title": "Self signed Mosquitto - Tasmota mosquitto-tls man page | Eclipse Mosquitto Configure TLS for Mosquitto using a self - signed certificate MQTT TLS /SSL Configuration: Guide with Mosquitto Examples | Cedalo Mosquitto MQTT Broker SSL Configuration Using Own Certificates Self signed Mosquitto - Tasmota - GitHub Pages MQTT TLS Certificate Generation & Usage Guide - GitHub"
+    }
+  ],
+  "influxdb vs timescaledb for iot time series": [
+    {
+      "url": "https://markaicode.com/time-series-data-influxdb-timescaledb-comparison/",
+      "title": "Time-Series Data in 2025: InfluxDB 4.0 vs TimescaleDB 3.0"
+    },
+    {
+      "url": "https://www.influxdata.com/comparison/influxdb-vs-timescaledb/",
+      "title": "InfluxDB vs TimescaleDB"
+    },
+    {
+      "url": "https://www.tigerdata.com/blog/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877",
+      "title": "TimescaleDB vs. InfluxDB: Purpose-built for time-series data"
+    },
+    {
+      "url": "https://blog.octabyte.io/topics/open-source-databases/influxdb-vs-timescaledb/",
+      "title": "InfluxDB vs TimescaleDB: Which is Better for Time-Series Data?"
+    }
+  ],
+  "zenodo generate doi for github release how": [
+    {
+      "url": "https://anenadic.github.io/ett-example/zenodo_doi",
+      "title": "Your tasks: Adding a DOI in your code releases with Zenodo ..."
+    },
+    {
+      "url": "https://libanswers.caltech.edu/faq/238813",
+      "title": "How do I get a DOI badge on my GitHub repository? - LibAnswers"
+    },
+    {
+      "url": "https://tilburgsciencehub.com/topics/automation/version-control/repository-lifecycle/make-code-citable-with-doi/",
+      "title": "Make Your GitHub Repository Citable using DOIs - Tilburg ..."
+    },
+    {
+      "url": "https://cassgvp.github.io/github-for-collaborative-documentation/docs/tut/6-Zenodo-integration.html",
+      "title": "6. Issue a doi with Zenodo - Github for collaborative ..."
+    }
+  ],
+  "osf preregistration template n-of-1 study": [
+    {
+      "url": "https://www.overleaf.com/latex/templates/osf-preregistration-template/ycwdkjhjpgfy",
+      "title": "OSF Preregistration Template - Overleaf, Online LaTeX Editor"
+    },
+    {
+      "url": "https://www.cos.io/blog/choosing-preregistration-template-guide-for-researchers",
+      "title": "Choosing the Right Preregistration Template : A Guide for Researchers"
+    },
+    {
+      "url": "https://gist.github.com/JoKeyser/3506f3087bc68dda89f32f56ed9c283c",
+      "title": "OSF Preregistration template in Markdown \u00b7 GitHub"
+    }
+  ],
+  "wearable sleep data export csv which devices": [
+    {
+      "url": "https://autosleepapp.tantsissa.com/settings/export",
+      "title": "AutoSleep - Export"
+    },
+    {
+      "url": "https://support.sleepcycle.com/hc/en-us/articles/12221835792796-I-d-like-to-export-my-data-from-Sleep-Cycle",
+      "title": "I\u2019d like to export my data from Sleep Cycle. \u2013 Sleep Cycle"
+    },
+    {
+      "url": "https://github.com/tintin305/GarminSleepAnalytics",
+      "title": "Extraction and analysis of sleep data from Garmin watches Track sleep with wearable device exports \u2013 The Palos ... Exporting Data from the Smartwatches \u2014 SmartHealthApp ... Gain Insights from Your Apple Watch \u2014 Sleep Data Extraction Garmin Export Overview"
+    },
+    {
+      "url": "https://palospublishing.com/track-sleep-with-wearable-device-exports/",
+      "title": "Track sleep with wearable device exports \u2013 The Palos ..."
+    },
+    {
+      "url": "https://smartsdk-healthapp-rehabilitation.readthedocs.io/en/latest/exportDataFromSmartWatch.html",
+      "title": "Exporting Data from the Smartwatches \u2014 SmartHealthApp ..."
+    }
+  ],
+  "safe yeast growth curve at home protocol": [
+    {
+      "url": "https://www.researchgate.net/publication/363890764_Yeast_growth_profile_analysis_v1/fulltext/6360108c8d4484154a4f1250/Yeast-growth-profile-analysis-v1.pdf",
+      "title": "PDF Yeast growth profile analysis - ResearchGate"
+    },
+    {
+      "url": "https://wiki.realvegancheese.org/wiki/Growth_Curve_Experiment",
+      "title": "Growth Curve Experiment - Real Vegan Cheese"
+    },
+    {
+      "url": "https://www.protocols.io/view/yeast-growth-profile-analysis-33jgqkn",
+      "title": "Yeast growth profile analysis - protocols.io"
+    }
+  ],
+  "plotting growth curves log phase python": [
+    {
+      "url": "https://matplotlib.org/stable/gallery/scales/log_demo.html",
+      "title": "Log scale \u2014 Matplotlib 3.10.8 documentation"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/python/how-to-put-the-y-axis-in-logarithmic-scale-with-matplotlib/",
+      "title": "How to put the y-axis in logarithmic scale with Matplotlib"
+    }
+  ],
+  "bias checklist scientific reasoning disconfirming evidence": [
+    {
+      "url": "https://fs.blog/confirmation-bias/",
+      "title": "Confirmation Bias And the Power of Disconfirming Evidence"
+    },
+    {
+      "url": "https://www.jstor.org/stable/23087302",
+      "title": "What Is Confirmation Bias and When Do People - JSTOR"
+    },
+    {
+      "url": "https://reasoningforthedigitalage.com/table-of-contents/confirmation-bias-total-evidence-requirement-and-falsificationism/",
+      "title": "Confirmation Bias, Total Evidence Requirement, and Falsificationism ..."
+    },
+    {
+      "url": "https://sensibility.berkeley.edu/index.php?title=10.1_Confirmation_Bias",
+      "title": "10.1 Confirmation Bias - Sense & Sensibility & Science"
+    },
+    {
+      "url": "https://libraryguides.mayo.edu/evidencesynthesis/bias",
+      "title": "Minimize Bias - Evidence Synthesis Guide - Guides at Mayo Clinic"
+    }
+  ],
+  "fermi estimate indoor CO2 ppm from people count": [
+    {
+      "url": "https://www.nature.com/articles/s41370-024-00694-7",
+      "title": "Carbon dioxide guidelines for indoor air quality: a review"
+    },
+    {
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/can-i-measure-carbon-dioxide-co2-indoors-get-information-ventilation",
+      "title": "Can I measure carbon dioxide (CO2) indoors to get information ..."
+    }
+  ],
+  "co2 vs occupancy correlation studies": [
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352710223023604",
+      "title": "Low-cost data-driven estimation of indoor occupancy based on carbon ..."
+    },
+    {
+      "url": "https://www.mdpi.com/2079-9292/14/7/1377",
+      "title": "Occupancy Estimation in Academic Laboratory: A CO2-Based ... - MDPI"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40477044/",
+      "title": "Measurement of CO2 concentration for occupancy estimation in ..."
+    },
+    {
+      "url": "https://stats.iop.org/article/10.1088/1742-6596/1224/1/012016",
+      "title": "Occupancy modelling of buildings based on CO2 concentration ..."
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/11096825",
+      "title": "CO2-Based Occupancy Detection in Apartments: A Longitudinal Study for ..."
+    }
+  ],
+  "air quality index WHO vs US EPA differences": [
+    {
+      "url": "https://www.airnow.gov/aqi/aqi-basics/",
+      "title": "AQI Basics | AirNow.gov"
+    },
+    {
+      "url": "https://aqicn.org/scale/",
+      "title": "Air Quality Index Scale and Color Legend"
+    },
+    {
+      "url": "https://smartairfilters.com/en/blog/difference-pm2-5-aqi-measurements/",
+      "title": "What is PM2.5 AQI and How is it Calculated? \u2013 Smart Air"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Air_quality_index",
+      "title": "Air quality index - Wikipedia"
+    }
+  ],
+  "particle sensor woodsmoke detection limitations": [
+    {
+      "url": "https://pubs.acs.org/doi/10.1021/acs.est.3c03661",
+      "title": "Low-Cost Particulate Matter Sensors for Monitoring Residential Wood ..."
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8588471/",
+      "title": "Performance and Deployment of Low-Cost Particle Sensor Units to Monitor ..."
+    },
+    {
+      "url": "https://www.mdpi.com/1424-8220/21/21/7206",
+      "title": "Performance and Deployment of Low-Cost Particle Sensor Units to ... - MDPI"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11511236/",
+      "title": "Use of Low-Cost Sensors to Study Atmospheric Particulate Matter ..."
+    }
+  ],
+  "NO2 low cost electrochemical sensor cross sensitivity": [
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0269749125007912",
+      "title": "Low-cost sensors for atmospheric NO2 measurement: A review"
+    },
+    {
+      "url": "https://www.aeroqual.com/blog/challenges-electrochemical-no2-sensors-outdoor-air-monitoring",
+      "title": "Challenges with electrochemical NO2 sensors in outdoor air ... - Aeroqual"
+    },
+    {
+      "url": "https://www.mdpi.com/1424-8220/25/10/3096/review_report",
+      "title": "Laboratory Cross-Sensitivity Evaluation of Low-Cost Electrochemical ..."
+    }
+  ],
+  "building open source air quality monitor bill of materials": [
+    {
+      "url": "https://www.airgradient.com/",
+      "title": "Accurate and Open Air Quality Monitoring ."
+    },
+    {
+      "url": "https://medium.com/@gendor/designing-an-open-source-air-quality-monitor-and-building-a-community-sensor-network-f5c408c309a6",
+      "title": "Designing an open - source air quality monitor and building ... | Medium"
+    },
+    {
+      "url": "https://github.com/nekromoff/air-quality-monitor",
+      "title": "GitHub - nekromoff/ air - quality - monitor : Open Source Air Quality ..."
+    }
+  ],
+  "battery life calculator for iot node": [
+    {
+      "url": "https://www.of-things.de/battery-life-calculator.php",
+      "title": "IOT Battery Life Calculator - of-things.de"
+    },
+    {
+      "url": "https://tinkeriot.com/battery-life-calculator/",
+      "title": "Battery Life Calculator for IoT Devices \u2013 Estimate Power ..."
+    },
+    {
+      "url": "https://www.onesdr.com/iot-battery-life-calculator/",
+      "title": "IoT Battery Life Calculator: Estimate Device Runtime with Ease"
+    },
+    {
+      "url": "https://climbers.net/sbc/iot-battery-runtime-calculator/",
+      "title": "IoT Battery Runtime calculator - Climbers.net Battery Life Estimator - Calculate Runtime for Electronics ... Battery Life Calculator - Engineering Calculators & Tools MeshCalc \u2013 Battery Life Estimator for Mesh Networks"
+    }
+  ],
+  "lifepo4 vs li-ion safety for field sensors": [
+    {
+      "url": "https://www.epochbatteries.com/pages/lifepo4-vs-lithium-ion-batteries",
+      "title": "LiFePO\u2084 vs. Lithium-Ion Batteries: Safety, Performance, and ..."
+    },
+    {
+      "url": "https://lanpwr.com/blogs/news/lifepo4-battery-vs-li-ion-battery-which-is-safest",
+      "title": "LiFePO4 Battery vs Li-ion Battery, Which is Safest? - lanpwr.com"
+    },
+    {
+      "url": "https://www.vadebattery.com/li-ion-vs-lifepo4/",
+      "title": "2025 Battery Guide: 7 Li-ion vs LiFePO4 Differences"
+    },
+    {
+      "url": "https://coolithium.com/lifepo4-battery-vs-lithium-ion/",
+      "title": "LiFePO4 Battery vs. Lithium-Ion: A Comprehensive Guide"
+    },
+    {
+      "url": "https://www.anker.com/blogs/others/lifepo4-vs-lithium-ion",
+      "title": "LiFePO4 vs Lithium Ion Batteries | An In-Depth Comparison LiFePO4 vs Lithium-Ion Batteries: Pros, Cons, and Best Use ... Lithium-Ion vs LiFePO4 Battery Safety Comparison"
+    }
+  ],
+  "solar panel sizing for raspberry pi data logger": [
+    {
+      "url": "https://www.instructables.com/Raspberry-Pi-solar-logger/",
+      "title": "Raspberry Pi Solar Logger - Instructables"
+    },
+    {
+      "url": "https://forums.raspberrypi.com/viewtopic.php?t=69344",
+      "title": "Solar Powered Data Logger - Raspberry Pi Forums"
+    }
+  ],
+  "time sync ntp vs chrony on pi": [
+    {
+      "url": "https://forums.raspberrypi.com/viewtopic.php?t=256372",
+      "title": "Network time sync on Raspbian Buster??? - Raspberry Pi Forums"
+    },
+    {
+      "url": "https://pimylifeup.com/using-ntp-on-linux-with-chrony/",
+      "title": "Using NTP on Linux with Chrony - Pi My Life Up"
+    },
+    {
+      "url": "https://unix.stackexchange.com/questions/504381/chrony-vs-systemd-timesyncd-what-are-the-differences-and-use-cases-as-ntp-cli",
+      "title": "chrony vs . systemd-timesyncd \u2013 What are the differences and use..."
+    }
+  ],
+  "gps pps time synchronization raspberry pi guide": [
+    {
+      "url": "https://robrobinette.com/pi_GPS_PPS_Time_Server.htm",
+      "title": "Build a Pi Time Server With GPS & Kernel PPS - Rob Robinette"
+    },
+    {
+      "url": "https://austinsnerdythings.com/2025/02/14/revisiting-microsecond-accurate-ntp-for-raspberry-pi-with-gps-pps-in-2025/",
+      "title": "Revisiting Microsecond Accurate NTP for Raspberry Pi with GPS ..."
+    },
+    {
+      "url": "https://danielhankewycz.com/blog/2022/06/rpi-gps-time-sync/",
+      "title": "Synchronize a Raspberry Pi to GPS - danielhankewycz.com"
+    },
+    {
+      "url": "https://github.com/parlaynu/pi5-timeserver-gps-pps",
+      "title": "GitHub - parlaynu/pi5-timeserver-gps-pps: Create an NTP and ..."
+    },
+    {
+      "url": "https://johnburns.io/post/building-stratum-1-time-source/",
+      "title": "Stratum\u20111 NTP Server on Raspberry Pi 5 | The Colour of My ..."
+    }
+  ],
+  "shielded cable when to use for i2c": [
+    {
+      "url": "https://forum.arduino.cc/t/i2c-wire-shielding/660686",
+      "title": "I2C Wire Shielding - General Guidance - Arduino Forum"
+    },
+    {
+      "url": "https://electronics.stackexchange.com/questions/704024/i2c-signals-over-longer-wires",
+      "title": "cables - I2C signals over longer wires - Electrical Engineering Stack ..."
+    },
+    {
+      "url": "https://hackaday.com/2017/02/08/taking-the-leap-off-board-an-introduction-to-i2c-over-long-wires/",
+      "title": "Taking The Leap Off Board: An Introduction To I2C Over Long Wires"
+    },
+    {
+      "url": "https://www.reddit.com/r/AskElectronics/comments/hq1vyh/why_does_my_i2c_bus_perform_worse_with_shielded/",
+      "title": "Why does my I2C bus perform WORSE with shielded cable? Am I ... - Reddit"
+    },
+    {
+      "url": "https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q000001EAc6CAG&l=en-US",
+      "title": "How Long Can My Cable Be for Usage With I2C? - NI"
+    }
+  ],
+  "i2c long cable reliability tips": [
+    {
+      "url": "https://electronics.stackexchange.com/questions/704024/i2c-signals-over-longer-wires",
+      "title": "cables - I2C signals over longer wires - Electrical Engineering Stack ..."
+    },
+    {
+      "url": "https://www.reddit.com/r/AskElectronics/comments/s2k309/any_way_to_improve_signal_integrity_for_i2c_over/",
+      "title": "Any way to improve signal integrity for I2C over decent run ... - Reddit"
+    },
+    {
+      "url": "https://forum.arduino.cc/t/i2c-and-long-distance/923850",
+      "title": "I2C and long distance - General Guidance - Arduino Forum"
+    },
+    {
+      "url": "https://ic-online.com/news/post/how-device-count-and-distance-affect-i2c-performance",
+      "title": "How Device Count and Distance Affect I2C Performance"
+    },
+    {
+      "url": "https://hackaday.com/2017/02/08/taking-the-leap-off-board-an-introduction-to-i2c-over-long-wires/",
+      "title": "Taking The Leap Off Board: An Introduction To I2C Over Long Wires"
+    }
+  ],
+  "ground loop issues with sensors troubleshooting": [
+    {
+      "url": "https://www.kmccontrols.com/wp-content/uploads/kmc_documents/AG_Ground_Loops_AG170905B.pdf",
+      "title": "PDF Avoiding and Troubleshooting Ground Loops - KMC Controls"
+    },
+    {
+      "url": "https://www.turtletoughsensors.com/images/PDF/TurtleTough_dealing_with_ground_loop_V090221.pdf",
+      "title": "PDF How to deal with Ground Loops - Turtle Tough"
+    },
+    {
+      "url": "https://www.electricalandcontrol.com/causes-of-ground-loops-in-instrumentation-how-to-avoid-them/",
+      "title": "Causes of Ground Loops in Instrumentation & How to Avoid Them"
+    },
+    {
+      "url": "https://www.electricneutron.com/ground-loop-issues-101/",
+      "title": "Ground Loop Issues 101 - Electrical Engineering Center"
+    },
+    {
+      "url": "https://eureka.patsnap.com/article/ground-loop-problems-in-io-modules-identification-and-solutions",
+      "title": "Ground Loop Problems in I/O Modules: Identification and Solutions"
+    }
+  ],
+  "breadboard vs perfboard reliability for field use": [
+    {
+      "url": "https://www.raypcb.com/stripboard-vs-perfboard-vs-breadboard/",
+      "title": "Stripboard Vs Perfboard Vs Breadboard : What's Difference - RayPCB"
+    },
+    {
+      "url": "https://www.globalwellpcba.com/stripboard-vs-perfboard-vs-breadboard/",
+      "title": "Stripboard vs Perfboard vs Breadboard : Ultimate... - GlobalWellPCBA"
+    },
+    {
+      "url": "https://www.head-fi.org/threads/protoboard-vs-perfboard-vs-breadboard.18022/",
+      "title": "Protoboard vs . perfboard vs . breadboard | Headphone... - Head-Fi.org"
+    }
+  ],
+  "soldering beginner kit recommendations under $50": [
+    {
+      "url": "https://www.reddit.com/r/soldering/comments/ydm1lc/50_and_under_soldering_station_recommendations/",
+      "title": "$50 and under soldering station recommendations for a beginner"
+    },
+    {
+      "url": "https://www.diyrecordingequipment.com/blogs/news/54222724-the-50-quick-dirty-soldering-setup",
+      "title": "The $50 Quick & Dirty Soldering Setup - DIY Recording Equipment"
+    }
+  ],
+  "kicad beginner tutorial simple pcb": [
+    {
+      "url": "https://learn.sparkfun.com/tutorials/beginners-guide-to-kicad/all",
+      "title": "Beginner 's Guide to KiCad - SparkFun Learn"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TJPyqRnhytA",
+      "title": "How to make your First PCB ! Beginner KiCAD Design Tutorial"
+    },
+    {
+      "url": "https://hackaday.com/2016/11/17/creating-a-pcb-in-everything-kicad-part-1/",
+      "title": "Creating A PCB In Everything: KiCad , Part 1 | Hackaday"
+    },
+    {
+      "url": "https://michaelruppe.com/learning/pcb-design-in-kicad-beginner-course/",
+      "title": "PCB design in KiCad \u2013 Beginner Course \u2013 Michael Ruppe"
+    }
+  ],
+  "openscad parametric enclosure for electronics": [
+    {
+      "url": "https://makerworld.com/en/models/1541903-easy-customizable-openscad-electronic-project-box",
+      "title": "Easy customizable OpenSCAD electronic project box"
+    },
+    {
+      "url": "https://github.com/mrWheel/YAPP_Box",
+      "title": "GitHub - mrWheel/YAPP_Box: Yet Another Parametric Projectbox Box"
+    }
+  ],
+  "freecad vs fusion 360 for hobby cad": [
+    {
+      "url": "https://toxigon.com/freecad-vs-fusion-360-which-is-right-for-you",
+      "title": "FreeCAD vs Fusion 360 : Which is Right for You? - Toxigon"
+    },
+    {
+      "url": "https://web.archive.org/web/20220725215159/https://www.autodesk.com/products/fusion-360/personal",
+      "title": "Fusion 360 for Personal Use | Fusion 360 | Autodesk"
+    }
+  ],
+  "recycled plastic filament eco options": [
+    {
+      "url": "https://www.recyclingtoday.org/pages/recycled-plastic-filament",
+      "title": "Recycled Plastic Filament : Sustainable 3D Printing Solution"
+    },
+    {
+      "url": "https://plastic-recycled.com/recycled-3d-print-plastic-filament/",
+      "title": "Recycled 3D Print Plastic Filament - Experts in Recycling"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jXY1EygE4R8",
+      "title": "Recycling 3D Prints and Waste Plastic into Filament ... - YouTube"
+    },
+    {
+      "url": "https://yolandantec.en.made-in-china.com/product/PFmADbSxqlGt/China-100-Recycled-Polylactic-Acid-PLA-3D-Printer-Filament-Eco-Friendly-Monofilament.html",
+      "title": "100% Recycled Polylactic Acid (PLA) 3D Printer Filament ..."
+    }
+  ],
+  "qr code labels for sample bottles open source": [
+    {
+      "url": "https://github.com/aomlomics/labelmaker",
+      "title": "GitHub - aomlomics/labelmaker: Printable QR labels for samples"
+    },
+    {
+      "url": "https://github.com/awkena/qrlabelr",
+      "title": "GitHub - awkena/qrlabelr: An open-source software for designing print ..."
+    }
+  ],
+  "data dictionary template csv spreadsheet": [
+    {
+      "url": "https://repository.upenn.edu/entities/publication/0430ccdd-cbd8-4404-9f54-11cb81d5b3b1",
+      "title": "Data Dictionary Blank Template - repository.upenn.edu"
+    },
+    {
+      "url": "https://sourcetable.com/excel-templates/data-dictionary",
+      "title": "Data Dictionary Template - Free Excel Download"
+    }
+  ],
+  "reproducible conda environment yml lock best practice": [
+    {
+      "url": "https://pythonspeed.com/articles/conda-dependency-management/",
+      "title": "Reproducible and upgradable Conda environments with conda - lock"
+    },
+    {
+      "url": "https://tech-champion.com/programming/python-programming/make-conda-workflows-reproducible-by-locking-envs-and-data-schemas/",
+      "title": "Conda data reproducibility with env, data, and config locks"
+    },
+    {
+      "url": "https://www.pythontutorials.net/blog/is-it-possible-to-lock-versions-of-packages-in-anaconda/",
+      "title": "How to Lock Package Versions in Anaconda... \u2014 pythontutorials.net"
+    }
+  ],
+  "jupyter book vs quarto for notebooks publishing": [
+    {
+      "url": "https://discourse.pangeo.io/t/when-to-use-quarto-v-jupyterbook/3136",
+      "title": "When to use Quarto v JupyterBook - Science - Pangeo"
+    }
+  ],
+  "github actions run notebooks and cache data": [
+    {
+      "url": "https://github.com/actions/cache",
+      "title": "GitHub - actions/cache: Cache dependencies and build outputs in GitHub ..."
+    },
+    {
+      "url": "https://cicube.io/blog/github-actions-cache/",
+      "title": "GitHub Actions Cache - A Complete Guide with Examples - CICube"
+    },
+    {
+      "url": "https://graphite.com/guides/github-actions-caching",
+      "title": "Caching in GitHub Actions - Graphite.dev"
+    },
+    {
+      "url": "https://lalits77.medium.com/caching-in-github-actions-speed-up-your-workflows-the-right-way-675c599da09d",
+      "title": "Caching in GitHub Actions: Speed Up Your Workflows the Right Way"
+    }
+  ],
+  "zotero better bibtex citation keys setup": [
+    {
+      "url": "https://retorque.re/zotero-better-bibtex/citing/",
+      "title": "Citation Keys :: Better BibTeX for Zotero"
+    },
+    {
+      "url": "https://github.com/retorquere/zotero-better-bibtex/wiki/Citation-Keys/cc94eb1b3f10d44ed2406ea4e4a7bea4d09a35e1",
+      "title": "Citation Keys \u00b7 retorquere/ zotero - better - bibtex Wiki \u00b7 GitHub"
+    },
+    {
+      "url": "https://forums.zotero.org/discussion/97758/better-bibtex-citation-key-format-help",
+      "title": "Better BibTeX Citation key format help - Zotero Forums"
+    },
+    {
+      "url": "https://tex.stackexchange.com/questions/702678/generating-citation-keys-with-zotero-and-better-bibtex-plugin",
+      "title": "Generating Citation Keys with Zotero and Better BibTex Plugin"
+    }
+  ],
+  "zotero mdnotes obsidian workflow": [
+    {
+      "url": "https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd",
+      "title": "An Updated Academic Workflow: Zotero & Obsidian | by ... - Medium Zotero -> zotfile -> mdnotes -> obsidian -> dataview... How to Connect Zotero and Obsidian for the Ultimate PhD Workflow Step-by-step: How to Integrate Zotero + Obsidian for Seamless ... Streamline Your Research Workflow with Obsidian Templates Best Obsidian Plugins to Integrate Zetero with Obsidian Streamline Your Research Workflow with Obsidian Templates An Updated Academic Workflow : Zotero & Obsidian - Medium Best Obsidian Plugins to Integrate Zetero with Obsidian How to Connect Zotero and Obsidian for the Ultimate PhD Workflow Zotero+Obsidian: a workflow to process articles, books, and ..."
+    },
+    {
+      "url": "https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536",
+      "title": "Zotero -> zotfile -> mdnotes -> obsidian -> dataview... How to Connect Zotero and Obsidian for the Ultimate PhD Workflow Step-by-step: How to Integrate Zotero + Obsidian for Seamless ... Streamline Your Research Workflow with Obsidian Templates Best Obsidian Plugins to Integrate Zetero with Obsidian Streamline Your Research Workflow with Obsidian Templates An Updated Academic Workflow : Zotero & Obsidian - Medium Best Obsidian Plugins to Integrate Zetero with Obsidian How to Connect Zotero and Obsidian for the Ultimate PhD Workflow Zotero+Obsidian: a workflow to process articles, books, and ..."
+    }
+  ],
+  "obsidian mermaid concept map examples": [
+    {
+      "url": "https://levelup.gitconnected.com/mermaid-diagrams-for-obsidian-note-taking-b022b570e01c",
+      "title": "Mermaid Diagrams for Obsidian | by C Jarnach | Level Up Coding"
+    },
+    {
+      "url": "https://www.xda-developers.com/mermaid-best-feature-obsidian/",
+      "title": "Mermaid is the best Obsidian feature you didn't know about"
+    },
+    {
+      "url": "https://docs.mermaidchart.com/mermaid-oss/syntax/mindmap.html",
+      "title": "Mermaid Chart - Create complex, visual diagrams with text. A ..."
+    },
+    {
+      "url": "https://lucas-schiavini.com/mermaid-graphs-themes-and-new-ways-to-conjure-ideas-using-obsidian/",
+      "title": "\u2640\ufe0f Mermaid Graphs, Themes, and New Ways to Conjure Ideas ... Mermaid Diagrams - Alex Hyett Mermaid is the best Obsidian feature you didn't know about Mermaid Diagrams for Obsidian | by C Jarnach | Level Up Coding #role | mermaid obsidian \u00b7 GitHub #role | mermaid obsidian \u00b7 GitHub #role | mermaid obsidian \u00b7 GitHub"
+    }
+  ],
+  "accessible color palettes colorblind friendly scientific plots": [
+    {
+      "url": "https://colorany.com/color-palettes/colorblind-friendly-color-palettes-for-scientific-bar-plots/",
+      "title": "4 Colorblind Friendly Color Palettes for Scientific Bar Plots"
+    },
+    {
+      "url": "https://www.nceas.ucsb.edu/sites/default/files/2022-06/Colorblind+Safe+Color+Schemes.pdf",
+      "title": "Colorblind Safe Color Schemes"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/57153428/r-plot-color-combinations-that-are-colorblind-accessible/57155367",
+      "title": "R Plot Color Combinations that Are Colorblind Accessible"
+    }
+  ],
+  "alt text guidelines for scientific figures wcag": [
+    {
+      "url": "https://www.w3.org/WAI/alt/",
+      "title": "Resources on Alternative Text for Images"
+    },
+    {
+      "url": "https://www.geosociety.org/GSA/GSA/Pubs/alternative-text.aspx",
+      "title": "Alternative Text (Alt Text) for your Figures"
+    },
+    {
+      "url": "https://press.princeton.edu/resources/alt-text-guidelines",
+      "title": "Alt Text Guidelines - Princeton University Press"
+    },
+    {
+      "url": "http://dataabinitio.com/?p=1161",
+      "title": "Writing Alt Text for a Scientific Figure \u00bb Data Ab Initio"
+    }
+  ],
+  "explain like im five diffusion equation": [
+    {
+      "url": "https://explainlikeiamfive.com/",
+      "title": "Explain Like I ' m Five - Simple Explanations for Complex Topics"
+    }
+  ],
+  "grad level derivation navier stokes intro resources": [
+    {
+      "url": "https://www.ams.org/books/gsm/192/gsm192-endmatter.pdf",
+      "title": "Lectures on Navier-Stokes Equations"
+    },
+    {
+      "url": "https://cfd.university/learn/10-key-concepts-everyone-must-understand-in-cfd/how-to-derive-the-navier-stokes-equations/",
+      "title": "How to Derive the Navier-Stokes Equations: From start to end"
+    },
+    {
+      "url": "https://assets.cambridge.org/97810092/36157/frontmatter/9781009236157_frontmatter.pdf",
+      "title": "A Student\u2019s Guide to the Navier\u2013Stokes Equations Derivation of the Navier\u2013Stokes equations - Wikipedia, the ... Navier-Stokes Equations: An Introduction - Rutgers University Images The Navier-Stokes Equations - Illinois Institute of Technology 3 The Navier-Stokes Equation - University of Cambridge"
+    },
+    {
+      "url": "https://www.math.ucdavis.edu/~temple/MAT22C/NavierStodesWiki.pdf",
+      "title": "Derivation of the Navier\u2013Stokes equations - Wikipedia, the ..."
+    }
+  ],
+  "networkx graph algorithms tutorial shortest path": [
+    {
+      "url": "https://networkx.org/documentation/stable/reference/algorithms/shortest_paths.html",
+      "title": "Shortest Paths \u2014 NetworkX 3.6.1 documentation"
+    },
+    {
+      "url": "https://deepwiki.com/networkx/networkx/3.1-shortest-path-algorithms",
+      "title": "Shortest Path Algorithms | networkx/networkx | DeepWiki"
+    },
+    {
+      "url": "https://blog.scientific-python.org/networkx/hacking-shortest-paths/",
+      "title": "Hacking Shortest Paths: Solve Harder Problems by Tweaking Graphs"
+    },
+    {
+      "url": "https://memgraph.github.io/networkx-guide/algorithms/shortest-path/",
+      "title": "Shortest path algorithms overview | Memgraph's Guide for ..."
+    }
+  ],
+  "citizen science zooniverse best projects 2025": [
+    {
+      "url": "https://blog.zooniverse.org/tag/citizen-science/",
+      "title": "citizen science | Zooniverse"
+    },
+    {
+      "url": "https://blog.zooniverse.org/category/citizenscience/",
+      "title": "CitizenScience | Zooniverse"
+    }
+  ],
+  "ebird logging tips beginners checklist": [
+    {
+      "url": "https://www.vtbirder.com/add-a-photo-to-your-ebird-checklist/",
+      "title": "Add a Photo to Your eBird Checklist | Vermont Birder"
+    },
+    {
+      "url": "https://support.ebird.org/en/support/solutions/articles/48000948757-ebird-faqs",
+      "title": "eBird Frequently Asked Questions (FAQ) : Help Center"
+    }
+  ],
+  "folding at home gpu power usage and settings": [
+    {
+      "url": "https://foldingathome.org/faqs/fah-v7/v7-introduction/web-control/folding-power-slider/",
+      "title": "Folding Power slider \u2013 Folding@home"
+    },
+    {
+      "url": "https://www.reddit.com/r/foldingathome/comments/e2tx8x/foldinghome_folding_full_power_gpu_barely_being/",
+      "title": "Folding@Home folding @ full power, GPU barely being used. How ..."
+    },
+    {
+      "url": "https://github.com/FoldingAtHome/fah-issues/issues/1702",
+      "title": "GPU usage \u00b7 Issue #1702 \u00b7 FoldingAtHome/fah-issues - GitHub"
+    },
+    {
+      "url": "https://greenfoldingathome.com/2019/02/07/foldinghome-efficiency-vs-gpu-power-limit/",
+      "title": "Folding@Home Efficiency vs. GPU Power Limit"
+    },
+    {
+      "url": "https://folding.lar.systems/gpu_ppd/brands/nvidia/folding_profile/ad103_geforce_rtx_4080",
+      "title": "GeForce RTX 4080 Folding@Home PPD Averages, Power Consumption ..."
+    }
+  ],
+  "community hack night open science near me": [
+    {
+      "url": "https://sciencenearme.org/",
+      "title": "Science Near Me"
+    },
+    {
+      "url": "https://www.hackthebox.com/meetups",
+      "title": "Hack The Box Community Meetups | Let's Hacking & Train Together"
+    },
+    {
+      "url": "https://www.meetup.com/topics/hacking/us/",
+      "title": "Hacking groups | Meetup"
+    }
+  ],
+  "public lecture calendars physics department generic": [
+    {
+      "url": "https://physics.yale.edu/calendar/all-events/Talks+And+Lectures",
+      "title": "Talks And Lectures Events | Department of Physics"
+    },
+    {
+      "url": "https://phy.princeton.edu/events",
+      "title": "Upcoming Events | Department of Physics"
+    },
+    {
+      "url": "https://www.physics.harvard.edu/events/gencal",
+      "title": "Physics Event Calendar | Department of Physics"
+    }
+  ],
+  "feynman technique examples for studying": [
+    {
+      "url": "https://www.savemyexams.com/learning-hub/revision-tips/what-is-the-feynman-technique/",
+      "title": "What Is the Feynman Technique? - savemyexams.com"
+    },
+    {
+      "url": "https://www.oakland.edu/cetl/teaching-tips/2025/10/Simplify-a-Study-Session-with-the-Feynman-Technique.php",
+      "title": "Simplify a Study Session with the Feynman Technique"
+    },
+    {
+      "url": "https://collegeinfogeek.com/feynman-technique/",
+      "title": "How to Use the Feynman Technique to Learn Faster (With Examples) The Feynman Technique: A Proven Method for Mastering Any Topic How to Use the Feynman Technique to Study With More Clarity Images Guide to the Feynman Learning Technique - Calm Sage How Feynman Technique Works | Step-by-Step Guide"
+    },
+    {
+      "url": "https://thestudyjournal.com/the-feynman-technique-a-proven-method-for-mastering-any-topic/",
+      "title": "The Feynman Technique: A Proven Method for Mastering Any Topic"
+    },
+    {
+      "url": "https://onlinestudentlife.com/feynman-technique-for-studying/",
+      "title": "How to Use the Feynman Technique to Study With More Clarity"
+    }
+  ],
+  "whiteboard capture app open source android": [
+    {
+      "url": "https://sourceforge.net/directory/whiteboard/android/",
+      "title": "Best Open Source Android Whiteboard Apps 2025 - SourceForge"
+    },
+    {
+      "url": "https://github.com/Hjorthdx/real-time-whiteboard-app",
+      "title": "GitHub - Hjorthdx/real-time-whiteboard-app: Android app that ... Open Source Whiteboards - AlternativeTo Best Whiteboard Software Apps for Android in 2025 - Techjockey How to Use a Whiteboard in Google Meet - Alphr 8 Great Android Whiteboard Apps - Educators Technology Best Whiteboard Software Apps for Android in 2025 - Techjockey Open Source Whiteboards - AlternativeTo Best Whiteboard Apps for Android 2025 | GetApp"
+    },
+    {
+      "url": "https://alternativeto.net/category/productivity/whiteboard/?license=opensource",
+      "title": "Open Source Whiteboards - AlternativeTo"
+    }
+  ],
+  "anki cloze deletion latex math tips": [
+    {
+      "url": "https://www.reddit.com/r/Anki/comments/17uh1s0/how_to_add_a_hint_and_make_it_look_good_for_cloze/",
+      "title": "How to add a hint (and make it look good) for cloze deletions ..."
+    },
+    {
+      "url": "https://docs.ankiweb.net/math.html",
+      "title": "Math & Symbols - Anki Manual"
+    },
+    {
+      "url": "https://tony-zorman.com/posts/anki-latex.html",
+      "title": "Leveraging LaTeX in Anki - Tony Zorman"
+    },
+    {
+      "url": "https://www.memrizz.com/blogs/cloze-deletion-pro-tips-ankis-most-misused-feature",
+      "title": "Cloze Deletion Pro Tips: Anki\u2019s Most Misused Feature"
+    },
+    {
+      "url": "https://www.reddit.com/r/Anki/comments/pwik8h/can_i_create_a_cloze_deletion_for_latex_equations/",
+      "title": "Can I create a cloze deletion for Latex equations? : r/Anki"
+    }
+  ],
+  "spaced repetition evidence meta analysis learning": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Spaced_repetition",
+      "title": "Spaced repetition - Wikipedia"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Z-zNHHpXoMM",
+      "title": "How to Study for Exams - Spaced Repetition | Evidence -based..."
+    }
+  ],
+  "anki tag strategy by difficulty": [
+    {
+      "url": "https://ankiweb.net/shared/info/372934150",
+      "title": "Tag Difficulty Analyzer - AnkiWeb"
+    },
+    {
+      "url": "https://www.reddit.com/r/Anki/comments/13eqcv1/add_on_to_rank_the_cards_based_on_difficulty/",
+      "title": "add on to rank the cards based on difficulty? : r/Anki - Reddit"
+    }
+  ],
+  "jupyter widgets serial plotter arduino": [
+    {
+      "url": "https://github.com/ylabrj/jam",
+      "title": "GitHub - ylabrj/jam: Arduino in a Jupyter Notebook Cell"
+    },
+    {
+      "url": "https://be189.github.io/lessons/10/control_of_arduino_with_python.html",
+      "title": "10. Serial communication with Python \u2014 BE/EE/MedE 189 a ..."
+    }
+  ],
+  "python struct pack unpack sensor bytes": [
+    {
+      "url": "https://docs.python.org/3/library/struct.html",
+      "title": "struct \u2014 Interpret bytes as packed binary data \u2014 Python 3.14.2 ..."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/3753589/packing-and-unpacking-variable-length-array-string-using-the-struct-module-in-py",
+      "title": "packing and unpacking variable length array/string using the struct ..."
+    },
+    {
+      "url": "https://coderivers.org/blog/python-struct-unpack/",
+      "title": "Python `struct` Unpack: A Comprehensive Guide - CodeRivers"
+    },
+    {
+      "url": "https://pradyunsg-cpython-lutra-testing.readthedocs.io/en/latest/library/struct.html",
+      "title": "struct \u2014 Interpret bytes as packed binary data - Python 3.12.0a0 ..."
+    },
+    {
+      "url": "https://mangohost.net/blog/python-struct-pack-and-unpack-working-with-binary-data/",
+      "title": "Python struct Pack and Unpack - Working with Binary Data"
+    }
+  ],
+  "bokeh vs plotly for live streaming data": [
+    {
+      "url": "https://www.geeksforgeeks.org/python/which-one-is-better-bokeh-or-plotly/",
+      "title": "Which one is better: Bokeh or Plotly? - GeeksforGeeks"
+    },
+    {
+      "url": "https://pauliacomi.com/2020/06/07/plotly-v-bokeh.html",
+      "title": "Plotly vs. Bokeh: Interactive Python Visualisation Pros and Cons"
+    },
+    {
+      "url": "https://peerdh.com/blogs/programming-insights/comparing-plotly-and-bokeh-for-interactive-data-visualization",
+      "title": "Comparing Plotly And Bokeh For Interactive Data Visualization"
+    },
+    {
+      "url": "https://medium.com/@shidqi19muhamad/plotly-over-bokeh-a-comparative-analysis-72edbb3ce07a",
+      "title": "Plotly Over Bokeh: A Comparative Analysis - Medium"
+    }
+  ],
+  "streamlit vs dash for quick demos": [
+    {
+      "url": "https://medium.com/@beelkaahmed/streamlit-vs-flask-vs-dash-for-machine-learning-applications-64cb77766def",
+      "title": "Streamlit vs Flask vs Dash for machine learning applications. | Medium"
+    },
+    {
+      "url": "https://toxigon.com/streamlit-vs-dash-for-data-science-apps",
+      "title": "Streamlit vs Dash for Data Science Apps: Which is Right - Toxigon"
+    }
+  ],
+  "d3 beginner tutorial accessible charts": [
+    {
+      "url": "https://fossheim.io/writing/posts/apple-dataviz-a11y-tutorial/",
+      "title": "How to create a screen reader accessible graph like Apple's with D 3 .js..."
+    }
+  ],
+  "open hardware license choose oshwa": [
+    {
+      "url": "https://opensource.com/law/15/2/intro-open-hardware-licensing",
+      "title": "Does your open hardware project need a license ? | Opensource.com"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Open-source_hardware",
+      "title": "Open -source hardware - Wikipedia"
+    }
+  ],
+  "oshwa certification process summary": [
+    {
+      "url": "https://certification.oshwa.org/process/documentation.html",
+      "title": "OSHWA Certification Process - Documentation"
+    },
+    {
+      "url": "https://certification.oshwa.org/process.html",
+      "title": "OSHWA Certification Process"
+    },
+    {
+      "url": "https://certification.oshwa.org/requirements.html",
+      "title": "OSHWA Certification Requirements"
+    }
+  ],
+  "bill of materials spreadsheet template with cost": [
+    {
+      "url": "https://templatelab.com/bill-of-materials/",
+      "title": "48 FREE Bill Of Material Templates (Excel & Word)"
+    },
+    {
+      "url": "https://capitalbuildcon.com/bill-of-materials-excel-template-format/",
+      "title": "Bill Of Materials Excel Template: Free Download"
+    },
+    {
+      "url": "https://www.dailylifedocs.com/bill-of-materials-bom-templates.html",
+      "title": "FREE 23+ Bill of Materials (BOM) Templates [EXCEL, WORD]"
+    },
+    {
+      "url": "https://www.sibe.io/cloud-pdm/free-bom-templates",
+      "title": "Free BOM Templates (Excel) - EBOM, MBOM, CBOM, ServBOM & SBOM"
+    },
+    {
+      "url": "https://www.xappex.com/templates/bill-of-materials-template/",
+      "title": "Bill of Materials Template - For Excel & Google Sheets"
+    }
+  ],
+  "ethics safety checklist for diy electronics fieldwork": [
+    {
+      "url": "https://canalnewgeneration.com/safety-checklist-for-setting-up-a-home-diy-electronics-workshop/",
+      "title": "Home DIY Electronics Workshop Safety Checklist"
+    },
+    {
+      "url": "https://www.rgs.org/research/higher-education-resources/fieldwork-principle-3-safe-responsible-and-ethical-fieldwork",
+      "title": "Fieldwork principle 3: safe, responsible and ethical fieldwork"
+    },
+    {
+      "url": "https://ehs.yale.edu/sites/default/files/files/field-safety-handbook.pdf",
+      "title": "PDF Field Safety Handbook - Yale University"
+    },
+    {
+      "url": "https://electroviz.com/diy-electronics-projects/how-can-i-ensure-safety-while-working-on-diy-electronics-projects",
+      "title": "How Can I Ensure Safety While Working on DIY Electronics Projects?"
+    },
+    {
+      "url": "https://ehs.stanford.edu/forms-tools/field-safety-plan",
+      "title": "Field Safety Plan - Stanford Environmental Health & Safety"
+    }
+  ],
+  "simple statistics for small n experiments guide": [
+    {
+      "url": "https://measuringu.com/small-n/",
+      "title": "Best Practices for Using Statistics on Small Sample Sizes"
+    },
+    {
+      "url": "https://api.pageplace.de/preview/DT0400.9781136588488_A23835764/preview-9781136588488_A23835764.pdf",
+      "title": "PDF Single-case and Small-n Experimental Designs: A Practical Guide to ..."
+    },
+    {
+      "url": "https://www.taylorfrancis.com/books/mono/10.4324/9780203180938/single-case-small-experimental-designs-pat-dugard-portia-file-jonathan-todman",
+      "title": "Single-case and Small-n Experimental Designs | A Practical Guide To Ra"
+    },
+    {
+      "url": "https://people.uncw.edu/tothj/PSY355/PSY355-13-Small-N+Designs.pdf",
+      "title": "PDF What are Small-N Designs? - University of North Carolina Wilmington"
+    },
+    {
+      "url": "http://www.dominikduell.com/teaching/DDuell_courseOutline_smallSampleStatistics.pdf",
+      "title": "PDF Analzying small sample experimental data"
+    }
+  ],
+  "preprint arxiv how to include dataset and code": [
+    {
+      "url": "https://info.arxiv.org/help/submit/index.html",
+      "title": "Submission Guidelines - arXiv info"
+    },
+    {
+      "url": "https://gist.github.com/xiaohk/ed587934d4fd5c3e4bc501020c9c8bda",
+      "title": "Prepare for an arXiv submission \u00b7 GitHub"
+    },
+    {
+      "url": "https://norlab.ulaval.ca/research/publish-prepints-arxiv/",
+      "title": "How to publish your preprints on Arxiv \u2022 Northern Robotics ..."
+    }
+  ],
+  "pubpeer how to comment responsibly": [
+    {
+      "url": "https://web.archive.org/web/20161115164005/https://pubpeer.com/howto",
+      "title": "PubPeer - How to comment on PubPeer"
+    }
+  ],
+  "peer reviewed sources open access search engines": [
+    {
+      "url": "https://proofed.com/writing-tips/10-free-research-journal-databases/",
+      "title": "10 Free Research and Journal Databases | Proofed"
+    },
+    {
+      "url": "https://digitalresearchtools.pbworks.com/w/page/17801670/Find+Research+Materials",
+      "title": "digitalresearchtools / Find Research Materials"
+    },
+    {
+      "url": "https://about.jstor.org/products/jstor-platform/whats-on-jstor/open-and-free/",
+      "title": "Open and Free Content on JSTOR | Journals, Books & More"
+    },
+    {
+      "url": "https://deepgram.com/ai-apps/consensus",
+      "title": "Consensus: AI-Powered Search Engine for Scientific... | Deepgram"
+    }
+  ],
+  "nasa earthdata aerosol datasets tutorial": [
+    {
+      "url": "https://colab.research.google.com/github/nmfs-opensci/EDMW-EarthData-Workshop-2025/blob/main/tutorials/clean/Tutorial_0_search.ipynb",
+      "title": "Tutorial _0_search.ipynb - Colab"
+    },
+    {
+      "url": "https://www.earthdata.nasa.gov/topics/atmosphere/aerosols",
+      "title": "Aerosols | NASA Earthdata"
+    }
+  ],
+  "sentinel 5p NO2 tropospheric column download python": [
+    {
+      "url": "https://github.com/sweing/sentinel5p-no2-downloader",
+      "title": "GitHub - sweing/sentinel5p-no2-downloader: Python tool to ..."
+    },
+    {
+      "url": "https://forum.dataspace.copernicus.eu/t/download-sentinel-5p-no2-data/1335",
+      "title": "Download Sentinel 5P NO2 data - APIs - Copernicus Data Space ..."
+    },
+    {
+      "url": "https://sentinel5dl.emissions-api.org/home.html",
+      "title": "Sentinel-5P Downloader \u2014 Sentinel-5P Downloader documentation"
+    }
+  ],
+  "openmeteo api python example": [
+    {
+      "url": "https://github.com/open-meteo/python-requests",
+      "title": "GitHub - open-meteo/python-requests: Open-Meteo Python ..."
+    },
+    {
+      "url": "https://pypi.org/project/openmeteo-requests/",
+      "title": "openmeteo-requests \u00b7 PyPI"
+    },
+    {
+      "url": "https://mukulgupta121190.medium.com/creating-an-mcp-server-using-python-and-the-open-meteo-api-cfdca873d55f",
+      "title": "\ufe0f Build Your Own Weather-Aware MCP Server with Python and ..."
+    },
+    {
+      "url": "https://colab.research.google.com/github/spatialthoughts/geopython-tutorials/blob/main/notebooks/openmeteo_weather_forecast.ipynb",
+      "title": "openmeteo_weather_forecast.ipynb - Colab"
+    },
+    {
+      "url": "https://github.com/axx/openmeteo-examples",
+      "title": "GitHub - axx/openmeteo-examples: Some scripts to use the Open ..."
+    }
+  ],
+  "weather station radiation shield vs aspirated pros cons": [
+    {
+      "url": "https://www.instructables.com/Solar-Powered-Aspirator-for-Vantage-Vue-Weather-St/",
+      "title": "Solar Powered Aspirator for Vantage Vue Weather Station Radiation ..."
+    },
+    {
+      "url": "https://www.weather-station-products.co.uk/temperature-humidity-sensor-with-24h-fan-aspirated-radiation-shield",
+      "title": "Davis Temperature/Humidity Sensor with 24-hour Fan- Aspirated ..."
+    },
+    {
+      "url": "https://jimhannon.wordpress.com/2015/11/23/fan-aspirated-temperature-sensor/",
+      "title": "Fan Aspirated Temperature Sensor | Jim Hannon's Blog"
+    }
+  ],
+  "home assistant vs grafana for dashboards sensors": [
+    {
+      "url": "https://grafana.com/grafana/dashboards/22928-home-assistant-sensor-data/",
+      "title": "Home Assistant sensor data | Grafana Labs"
+    },
+    {
+      "url": "https://www.libhunt.com/compare-smarthome-influxDB-grafana-dashboard-vs-core",
+      "title": "smarthome-influxDB- grafana - dashboard vs Home Assistant ..."
+    },
+    {
+      "url": "https://iwow.com.kz/blog/master-grafana-dashboards-for-your",
+      "title": "Master Grafana Dashboards For Your Smart Home Assistant"
+    }
+  ],
+  "esphome environmental sensors templates": [
+    {
+      "url": "https://esphome.io/cookbook/bme280_environment/",
+      "title": "BME280 Environment - ESPHome - Smart Home Made Simple"
+    },
+    {
+      "url": "https://github.com/Benvdaa/EspHome-Environment-Sensors",
+      "title": "GitHub - Benvdaa/ EspHome - Environment - Sensors : EspHome ..."
+    },
+    {
+      "url": "https://www.wtip.net/blog/2022/01/building-an-esphome-environmental-multi-sensor/",
+      "title": "Building an ESPHome environmental multi- sensor - wtip.net"
+    }
+  ],
+  "ota update esp32 secure tutorial": [
+    {
+      "url": "https://myembeddedsystems.com/how-to-tutorials/how-to-implement-secure-ota-firmware-updates-on-esp32-with-https/",
+      "title": "How to Implement Secure OTA Firmware Updates on ESP32 with ..."
+    },
+    {
+      "url": "https://bytewires.com/en/article/implementing-over-the-air-ota-updates-via-wi-fi-on-esp32-L24G1A13",
+      "title": "Secure & Reliable ESP32 OTA Firmware Updates Tutorial"
+    },
+    {
+      "url": "https://mischianti.org/esp32-self-ota-update-in-https-ssl-tls-with-trusted-self-signed-certificate-3/",
+      "title": "ESP32 self OTA update in HTTPS (SSL/TLS) with trusted self ..."
+    },
+    {
+      "url": "https://circuitlabs.net/ota-update-security-for-esp32/",
+      "title": "OTA Update Security for ESP32 - circuitlabs.net"
+    },
+    {
+      "url": "https://hackaday.com/2021/11/29/how-to-easily-set-up-secure-ota-firmware-updates-on-esp32/",
+      "title": "How To Easily Set Up Secure OTA Firmware Updates On ESP32"
+    }
+  ],
+  "usb power meter cheap accurate recommendations": [
+    {
+      "url": "https://www.zdnet.com/article/this-usb-power-meter-i-tested-is-shockingly-accurate-especially-for-how-cheap-it-is/",
+      "title": "This USB power meter I tested is shockingly accurate ... - ZDNET"
+    },
+    {
+      "url": "https://nerdtechy.com/best-usb-power-tester",
+      "title": "4 Best USB Power Testers (Voltage Meters) [2024 Updated] 15 Best USB Power Meters for Accurate Testing in 2025 Best USB Power Meter 2025: Accurate & Affordable Picks 15 Best USB\u2011C Power Meters That Will Optimize Your Charging ... USB Type-C Power Meters: The Top Picks for Accurate ... 2025's Most Accurate USB Power Meter at Budget Price Usb voltage tester - Best Brands Side by Side Top 5 Best Usb Power Meter Tester of 2025 Usb Port Power Meter - Usb Port Power Meter on Amazon"
+    },
+    {
+      "url": "https://skypixeltech.com/vetted/best-usb-power-meters-tester/",
+      "title": "15 Best USB Power Meters for Accurate Testing in 2025"
+    },
+    {
+      "url": "https://www.accio.com/business/best-usb-power-meter-2025",
+      "title": "Best USB Power Meter 2025: Accurate & Affordable Picks"
+    }
+  ],
+  "adc reference voltage stability tips": [
+    {
+      "url": "https://www.ti.com/lit/pdf/snaa320",
+      "title": "Voltage Reference Selection and Design Tips For Data Converters"
+    },
+    {
+      "url": "https://eureka.patsnap.com/article/optimizing-adc-performance-choosing-the-right-reference-voltage",
+      "title": "Optimizing ADC Performance: Choosing the Right Reference Voltage"
+    },
+    {
+      "url": "https://www.analog.com/en/resources/analog-dialogue/articles/precision-successive-approximation-adcs.html",
+      "title": "Voltage Reference Design for Precision Successive ... - Analog"
+    },
+    {
+      "url": "https://www.powerelectronictips.com/choosing-reference-voltage-adc-2/",
+      "title": "Choosing a reference voltage for an ADC - Power Electronic Tips"
+    }
+  ],
+  "pm sensor airflow duct design small fan": [
+    {
+      "url": "https://tera-sensor.com/nextpm-for-ambient-air-quality-monitoring-2/",
+      "title": "HVAC real time PM monitoring - TERA Sensor"
+    },
+    {
+      "url": "https://www.captiveaire.com/manuals/airsystemdesign/designairsystems.htm",
+      "title": "Air Flow, Air Systems, Pressure, and Fan Performance"
+    },
+    {
+      "url": "https://heaterguides.com/duct-design-considerations-for-small-hvac-systems/",
+      "title": "Duct Design Essentials For Small HVAC Systems"
+    }
+  ],
+  "diy wind speed sensor safe simple ideas": [
+    {
+      "url": "https://open-boat-projects.org/en/diy-windsensor/",
+      "title": "DIY wind sensor WiFi 1000 - open-boat-projects.org"
+    },
+    {
+      "url": "https://shunpoly.com/article/how-to-make-an-anemometer-with-plastic-cups",
+      "title": "Diy Wind Speed Sensor: Crafting A Plastic Cup Anemometer Easily"
+    },
+    {
+      "url": "https://www.instructables.com/DIY-Anemometer-and-Windvane-for-Standalone-Weather/",
+      "title": "DIY Anemometer and Windvane for Standalone Weather Station"
+    },
+    {
+      "url": "https://iotprojectsideas.com/wind-speed-meter-using-anemometer-arduino/",
+      "title": "Wind Speed Meter Using Anemometer & Arduino - IoT Projects Ideas"
+    },
+    {
+      "url": "https://www.hackster.io/achindra/diy-anemometer-wind-speed-sensor-device-84a2e3",
+      "title": "DIY Anemometer: Wind Speed Sensor Device - Hackster.io"
+    }
+  ],
+  "water quality turbidity sensor low cost options": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11207302/",
+      "title": "A Compact, Low-Cost, and Low-Power Turbidity Sensor for Continuous In ..."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2590123024013719",
+      "title": "A smart, multi-configuration, and low-cost system for water turbidity ..."
+    },
+    {
+      "url": "https://www.nature.com/articles/s41598-022-14228-4",
+      "title": "Open-source, low-cost, in-situ turbidity sensor for river ... - Nature"
+    },
+    {
+      "url": "https://www.uwgb.edu/getmedia/e661222b-e0e8-47c4-99f4-b8cd916a1275/Low-Cost_Turbidity_Sensors_Watershed_AWRA_2021.pdf",
+      "title": "PDF Low-Cost Turbidity Sensors as a Method for Watershed"
+    }
+  ],
+  "tds sensor limitations conductivity freshwater": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Total_dissolved_solids",
+      "title": "Total dissolved solids - Wikipedia"
+    },
+    {
+      "url": "https://www.scribd.com/document/523277644/Conductivity-Salinity-Total-Dissolved-Solids-Environmental-Measurement-Systems",
+      "title": "Conductivity , Salinity & Total Dissolved Solids - Environmental..."
+    },
+    {
+      "url": "https://www.scribd.com/document/523277644/Conductivity-Salinity-Total-Dissolved-Solids-Environmental-Measurement-Systems",
+      "title": "Conductivity , Salinity & Total Dissolved Solids - Environmental..."
+    },
+    {
+      "url": "https://www.watequipment.com/news/ec-electrical-conductivity-meter-with-temperature-sensor-convert-to-tds-instantly.html",
+      "title": "EC Electrical Conductivity Meter with Temperature Sensor Convert to..."
+    }
+  ],
+  "kicad schematic symbols libraries open source": [
+    {
+      "url": "https://www.kicad.org/libraries/download/",
+      "title": "Download Libraries - KiCad"
+    },
+    {
+      "url": "https://gitlab.com/kicad/libraries/kicad-symbols/",
+      "title": "KiCad / KiCad Libraries / KiCad Symbols \u00b7 GitLab"
+    },
+    {
+      "url": "https://kicad.github.io/symbols/",
+      "title": "Symbols - GitHub Pages"
+    },
+    {
+      "url": "https://alternatekicadlibrary.com/",
+      "title": "Alternate KiCad Library"
+    }
+  ],
+  "license for datasets cc by vs cc0 which to use": [
+    {
+      "url": "https://www.elsevier.support/publishing/answer/which-license-should-i-select-when-posting-my-research-data",
+      "title": "Which license should I select when posting my research data?"
+    },
+    {
+      "url": "https://libanswers.ucalgary.ca/faq/200582",
+      "title": "Q. Common license types for datasets and what they mean"
+    },
+    {
+      "url": "https://academia.stackexchange.com/questions/116401/publishing-data-under-creative-commons-license-cc0-or-cc-by",
+      "title": "Publishing data under Creative Commons license: CC0 or CC-BY?"
+    },
+    {
+      "url": "https://docs.data.world/en/214274-common-license-types-for-datasets.html",
+      "title": "Common license types for datasets - docs.data.world"
+    },
+    {
+      "url": "https://wiki.creativecommons.org/wiki/Data_and_CC_licenses",
+      "title": "Data and CC licenses - Creative Commons"
+    }
+  ],
+  "creating data README and codebook examples": [
+    {
+      "url": "https://rdm.vu.nl/topics/data-documentation.html",
+      "title": "Data Documentation \u2013 Research Support Handbook"
+    },
+    {
+      "url": "https://github.com/nstellitano/courseraproject",
+      "title": "GitHub - nstellitano/courseraproject: Creating a Tidy Data Table along..."
+    },
+    {
+      "url": "https://www.lib.sfu.ca/help/publish/research-data-management/describe-data",
+      "title": "Describe your research data | SFU Library"
+    },
+    {
+      "url": "https://rdmkit.elixir-europe.org/metadata_management",
+      "title": "How to document and describe your data . | RDMkit"
+    }
+  ],
+  "project postmortem template for experiments": [
+    {
+      "url": "https://www.smartsheet.com/content/project-post-mortem-templates",
+      "title": "Free Project Post - mortem Templates | Smartsheet"
+    },
+    {
+      "url": "https://www.projectmanager.com/templates/post-mortem-template",
+      "title": "Post - Mortem Template - ProjectManager"
+    },
+    {
+      "url": "https://www.tempo.io/blog/project-post-mortem-template",
+      "title": "Project Post Mortem Template for Better Team Insights | Tempo"
+    },
+    {
+      "url": "https://easyretro.io/templates/post-mortem-retrospective/",
+      "title": "The Project Post - Mortem Retrospective Template | EasyRetro"
+    }
+  ],
+  "systems thinking concept mapping examples tools": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Concept_map",
+      "title": "Concept map - Wikipedia"
+    },
+    {
+      "url": "https://www.conceptmap.ai/",
+      "title": "Concept Map AI: Free Concept Map Maker for Knowledge Workers"
+    },
+    {
+      "url": "https://www.pinterest.com/ideas/system-thinking-tools/957123817940/",
+      "title": "Find and save ideas about system thinking tools on Pinterest."
+    },
+    {
+      "url": "https://jistae.wordpress.com/2009/01/11/systems-thinking-concept-map/",
+      "title": "Systems Thinking Concept Map | Journeys into Systems Thinking ..."
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Example-concept-map-for-systems-thinking-task_fig2_272815044",
+      "title": "Fig. 2. Example concept map for systems thinking task."
+    }
+  ]
+}

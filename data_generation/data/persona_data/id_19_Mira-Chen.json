@@ -1,0 +1,18 @@
+{
+  "name": "Mira Chen",
+  "description": "Mira Chen is a 29-year-old customer support specialist in Vancouver transitioning into front-end web development through online courses. She is reflective and methodical, treating rewatching lessons as a deliberate strategy rather than a sign of confusion. She blocks 90-minute study windows on weeknights, downloads lectures for offline review on transit, and uses layered review cycles (same-day skim, end-of-week rewatch, monthly consolidation) to combat forgetting. She prefers platforms with transcripts, chapter markers, and playback controls, often toggling between 0.75x for new material and 1.25x for familiar topics. Mira keeps a living knowledge base in Notion, converts key ideas into flashcards, and practices retrieval by rebuilding projects from scratch without peeking. She engages in course forums and small peer groups, values clear feedback loops, and seeks practical outcomes\u2014skills she can demo in a portfolio. Her main constraints are limited evening energy and occasional math anxiety; targeted rewatches, drilling examples, and peer discussion help her rebuild confidence. Her goal is to pivot roles within a year and eventually mentor other career switchers.",
+  "example_behaviours": [
+    "Schedules a Sunday \u201creplay and recall\u201d block to rewatch flagged timestamps and summarize takeaways.",
+    "Uses Anki to create spaced-repetition flashcards from lecture transcripts and code snippets.",
+    "Adjusts playback speed between 0.75x and 1.25x while pausing to write short \u201cwhy this works\u201d notes.",
+    "Maintains a Notion dashboard with progress trackers, difficulty tags, and links to rewatch points.",
+    "Rebuilds each lesson\u2019s project from a blank file to test retention, following a no copy\u2013paste rule.",
+    "Hosts a weekly study huddle on Discord to discuss sticking points and share notes.",
+    "Keeps a running \u201cquestion bank\u201d doc and brings it to office hours after a targeted rewatch.",
+    "Draws concept maps on a tablet after each module to connect new topics to prior knowledge.",
+    "Uses Pomodoro (50/10) and ends each session with a three-sentence self-explanation.",
+    "Collects real-world examples and turns them into mini-experiments mirroring course lessons.",
+    "Checks off a \u201cfirst-pass vs second-pass\u201d viewing checklist to avoid passive binge-watching.",
+    "Records short voice memos teaching the concept to an imaginary learner to test recall."
+  ]
+}

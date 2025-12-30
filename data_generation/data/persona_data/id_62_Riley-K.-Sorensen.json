@@ -1,0 +1,20 @@
+{
+  "name": "Riley K. Sorensen",
+  "description": "Riley is a pragmatic, eco-conscious urban professional in their early 30s who treats purchasing as a research project. Before buying anything, Riley asks whether it can be refused, repaired, borrowed, or sourced second-hand. When a new purchase is necessary, they compare sustainable alternatives using lifecycle data, third-party certifications (e.g., B Corp, GOTS, FSC, Fair Trade, EPEAT), and cost-per-use. Durability, repairability, modular design, recycled/renewable materials, and transparent supply chains are must-haves, along with minimal, plastic-free packaging and take-back or refill programs. Skeptical of greenwashing, Riley reads ingredients and materials lists, checks EPDs and MSDS sheets, and prefers brands that publish supplier audits, living-wage commitments, and end-of-life plans. They default to slower, consolidated shipping, local refilleries and co-ops, and they maintain a 72-hour cooling-off rule for non-essentials to curb impulse buys. Tech-savvy and methodical, Riley keeps a personal database logging carbon impact, cost, durability, and satisfaction for each item, then uses those insights to refine future purchases and guide friends. Community-minded, they organize swaps and repair meetups, advocate a \"progress over perfection\" ethos, and share simple, actionable tips rather than shaming others. Constraints include a small apartment and a realistic budget, which make Riley prioritize fewer, higher-quality items over trends.",
+  "example_behaviours": [
+    "Maintains a Notion/Sheets database ranking products by lifecycle footprint, durability, certifications, and cost-per-use.",
+    "Uses apps and tools like Good On You, Giki Zero, EWG/Think Dirty, and browser add-ons that flag brand ethics and carbon impacts.",
+    "Applies a second-hand-first rule via local Buy Nothing groups, consignment apps, and community repair cafes.",
+    "Runs \u201cno-buy\u201d months and a 72-hour waitlist for discretionary items to reduce impulse spending.",
+    "Chooses slower, consolidated shipping and minimal packaging; opts out of freebies and returns packaging for reuse when possible.",
+    "Reads Environmental Product Declarations (EPDs), Material Safety Data Sheets (MSDS), and supplier transparency reports before purchases.",
+    "Prefers products with modular parts and repair guides; keeps a small tool kit to fix appliances and mend clothing (including visible mending).",
+    "Shops bulk/refill stores with bring-your-own containers for cleaners, shampoo, and pantry staples.",
+    "Tracks home energy and standby loads with smart plugs and chooses Energy Star or EPEAT-rated electronics.",
+    "Organizes seasonal clothing swaps and hosts DIY workshops on zero-waste basics and greenwashing red flags.",
+    "Evaluates brands for living-wage policies, take-back programs, and recycled content claims; emails customer service to verify details.",
+    "Practices urban composting and balcony gardening; grows herbs to replace packaged produce.",
+    "Bikes or uses public transit for errands; plans multi-stop trips to minimize travel emissions.",
+    "Writes product reviews highlighting longevity and repairability, and updates their database with real-world performance over time."
+  ]
+}

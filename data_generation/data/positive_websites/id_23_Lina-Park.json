@@ -1,0 +1,1264 @@
+{
+  "ISS pass Seattle tonight": [
+    {
+      "url": "https://iss.guru/",
+      "title": "ISS Pass Predictions - Track the International Space Station ..."
+    },
+    {
+      "url": "https://issinfo.net/next-pass.html",
+      "title": "Next ISS Pass Over You - issinfo.net"
+    },
+    {
+      "url": "https://sky-tonight.com/satellites",
+      "title": "Tonight's Satellite Flyovers: Track Live Passes"
+    },
+    {
+      "url": "https://www.astroviewer.net/iss/en/observation.php",
+      "title": "ISS observation - AstroViewer"
+    },
+    {
+      "url": "https://www.facebook.com/SoggyAstronomer/posts/272248246241381/",
+      "title": "Seattle! Bright ISS pass tonight @... - The Soggy Astronomer"
+    }
+  ],
+  "timeanddate UTC converter": [
+    {
+      "url": "https://www.timeanddate.com/worldclock/converter.html",
+      "title": "Time Zone Converter - Time Difference Calculator - timeanddate.com"
+    }
+  ],
+  "CelesTrak TLE API example": [
+    {
+      "url": "https://github.com/corygrunk/space-station-telemetry-api",
+      "title": "API to get telemetry data via Celestrak for space stations in ..."
+    },
+    {
+      "url": "https://thebaldgeek.github.io/autoTLE.html",
+      "title": "A flow to automatically get TLE data from celestrak.com and ..."
+    },
+    {
+      "url": "https://docs.poliastro.space/en/stable/examples/Loading+OMM+and+TLE+satellite+data.html",
+      "title": "Loading OMM and TLE satellite data \u2014 poliastro 0.17.0 ..."
+    }
+  ],
+  "JPL Horizons Python tutorial": [
+    {
+      "url": "https://space.stackexchange.com/questions/15462/python-api-for-jpl-horizons",
+      "title": "Python API for JPL Horizons? - Space Exploration Stack Exchange"
+    },
+    {
+      "url": "https://docs.sunpy.org/en/stable/generated/gallery/units_and_coordinates/ParkerSolarProbe_trajectory.html",
+      "title": "Obtaining a spacecraft trajectory from JPL Horizons - sunpy"
+    }
+  ],
+  "orbital inclination calculator given launch site latitude": [
+    {
+      "url": "https://space.stackexchange.com/questions/17679/how-to-calculate-orbital-inclination-knowing-the-launch-azimuth-and-launch-latit",
+      "title": "How to calculate Orbital Inclination knowing the launch ..."
+    },
+    {
+      "url": "https://www.orbiterwiki.org/wiki/Launch_Azimuth",
+      "title": "Launch Azimuth - OrbiterWiki"
+    }
+  ],
+  "LC-39A vs SLC-40 differences": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39A",
+      "title": "Kennedy Space Center Launch Complex 39A - Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Launch_Complex_40",
+      "title": "Cape Canaveral Space Launch Complex 40 - Wikipedia"
+    },
+    {
+      "url": "https://space.stackexchange.com/questions/67040/does-the-tel-at-slc-40-handle-dragons-the-same-way-the-tel-at-lc-39a-does",
+      "title": "Does the TEL at SLC-40 handle Dragons the same way the TEL at LC-39A does?"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/SpaceX_facilities",
+      "title": "SpaceX facilities - Wikipedia"
+    }
+  ],
+  "Vandenberg launch viewing spots public": [
+    {
+      "url": "https://spacetourismguide.com/vandenberg-launch-viewing/",
+      "title": "Vandenberg Launch Viewing: How to See a Rocket Launch in California"
+    },
+    {
+      "url": "https://www.spacelaunchschedule.com/category/vandenberg-rocket-launch-viewing/",
+      "title": "Vandenberg Rocket Launch Viewing Guide - Space Launch Schedule"
+    },
+    {
+      "url": "https://shuttlepresskit.com/vandenberg-launch-viewing/",
+      "title": "Vandenberg Launch Viewing: Complete Guide 2025"
+    },
+    {
+      "url": "https://www.vcstar.com/story/news/local/california/2025/12/15/spacex-vandenberg-rocket-launch-today/87717779007/",
+      "title": "Is there a rocket launch today? Where to see SpaceX liftoff from Vandenberg"
+    },
+    {
+      "url": "https://www.slocal.com/blog/post/watch-space-launches-in-slo-cal/",
+      "title": "Best Places to Watch the Space Launches in SLO CAL"
+    }
+  ],
+  "Boca Chica road closures schedule": [
+    {
+      "url": "https://www.cameroncountytx.gov/spacex/",
+      "title": "Boca Chica & Highway 4 Closures Information - Cameron County"
+    },
+    {
+      "url": "https://starbasestatus.com/closures/",
+      "title": "Boca Chica Road Closures - Starbase Status"
+    },
+    {
+      "url": "https://www.cameroncountytx.gov/order-closing-boca-chica-beach-and-state-hwy-4-july-30-2025-from-7-a-m-to-7-p-m/",
+      "title": "Order Closing Boca Chica Beach and State Hwy 4; July 30, 2025, from 7 a ..."
+    }
+  ],
+  "KSC launch weather rules PDF": [
+    {
+      "url": "https://spacenews.com/space-shuttle-weather-launch-commit-criteria-and-ksc-end-of-mission-weather-landing-criteria/",
+      "title": "Space Shuttle Weather Launch Commit Criteria and KSC End of ..."
+    }
+  ],
+  "scrubbed launch safety culture explanation": [
+    {
+      "url": "https://www.independent.co.uk/space/artemis-rocket-launch-scrubbed-cancelled-nasa-b2159066.html",
+      "title": "Nasa Moon rocket: What does it mean when a launch is \u2018 scrubbed ..."
+    }
+  ],
+  "Falcon 9 user's guide pdf": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Falcon_9",
+      "title": "Falcon 9 - Wikipedia"
+    }
+  ],
+  "Atlas V ascent profile timeline": [
+    {
+      "url": "https://spaceflightnow.com/2016/11/18/av069ascent/",
+      "title": "Timeline: Atlas 5/GOES-R ascent profile - Spaceflight Now"
+    },
+    {
+      "url": "https://science.nasa.gov/blogs/osiris-rex/2016/09/08/ascent-timeline/",
+      "title": "Ascent Timeline - Science@NASA"
+    },
+    {
+      "url": "https://www.n2yo.com/news/?n=3899",
+      "title": "Timeline: Atlas 5/EchoStar 19 ascent"
+    }
+  ],
+  "SLS flight manual pdf": [
+    {
+      "url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20190000736.pdf",
+      "title": "PDF Space Launch System (SLS) Mission Planner's Guide"
+    }
+  ],
+  "SpaceX webcast callouts glossary": [
+    {
+      "url": "https://spacexnow.com/dictionary",
+      "title": "Acronyms - SpaceXNow"
+    },
+    {
+      "url": "https://starbasebrewery.com/pages/starbase-texas-spaceflight-rocketry-acronyms-elon-musk",
+      "title": "Rocketry, Spaceflight, and Starbase | Acronyms and Glossary"
+    },
+    {
+      "url": "https://www.reddit.com/r/SpaceXLounge/comments/6jjpxk/spacex_callouts/",
+      "title": "SpaceX Callouts : r/SpaceXLounge - Reddit"
+    }
+  ],
+  "NOTAM rocket launch Florida map": [
+    {
+      "url": "https://www.floridatoday.com/story/news/2025/12/13/florida-rocket-launch-what-time-map-new-jersey-ohio-michigan/87739816007/",
+      "title": "Florida rocket launch visibility map includes New Jersey ..."
+    }
+  ],
+  "Heavens-Above Seattle ISS schedule": [
+    {
+      "url": "https://www.heavens-above.com/",
+      "title": "Heavens-Above"
+    }
+  ],
+  "ISS pass notification app Android": [
+    {
+      "url": "https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation&hl=en-US",
+      "title": "Spot the Station - Apps on Google Play"
+    },
+    {
+      "url": "https://isslivenow.com/get-app",
+      "title": "Download ISS Live Now - Mobile App"
+    },
+    {
+      "url": "https://ifttt.com/applets/YfkYtQB2-get-a-notification-when-the-international-space-station-passes-over-your-house",
+      "title": "Get a notification when the International Space Station passes over - IFTTT"
+    },
+    {
+      "url": "https://apkpure.com/spot-the-station/gov.nasa.hq.SpotTheStation",
+      "title": "Spot the Station APK for Android Download - APKPure.com"
+    }
+  ],
+  "polar alignment Seattle Polaris azimuth altitude tool": [
+    {
+      "url": "https://www.opticalmechanics.com/mastering-polar-alignment-methods-tools-and-fixes/",
+      "title": "Mastering Polar Alignment: Methods, Tools, and Fixes"
+    },
+    {
+      "url": "https://openphdguiding.org/man/Tools.htm",
+      "title": "Tools and Utilities - Open PHD Guiding"
+    }
+  ],
+  "Star Adventurer 2i vs SkyGuider Pro": [
+    {
+      "url": "https://www.reddit.com/r/AskAstrophotography/comments/sl2jz7/ioptron_mount_skyguider_pro_or_the_star_adventure/",
+      "title": "iOptron Mount SkyGuider Pro or the Star Adventure 2i? : r ..."
+    },
+    {
+      "url": "https://skiesandscopes.com/star-tracker-for-dslr/",
+      "title": "Best Star Trackers for Astrophotography (2025) - Skies & Scopes"
+    },
+    {
+      "url": "https://www.peterzelinka.com/blog/2018/8/which-star-tracker-should-i-get",
+      "title": "Which Star Tracker Should I Get? - Peter Zelinka Photography"
+    },
+    {
+      "url": "https://astrobackyard.com/star-tracker-astrophotography/",
+      "title": "Which Star Tracker is Best for Astrophotography? (In 2025)"
+    }
+  ],
+  "best red headlamp for astronomy": [
+    {
+      "url": "https://www.bing.com/aclick?ld=e8Za7PWIyXp5kKTe4BXc20rTVUCUxgY6hB3K0rktUWQZiGTb8zwPxjQhRcmxTwdcWcCFP8cAcXJnXc-iMRBTfON1LUVnL334agcAy2wdvi-lQhzHaD_NJQZAtlvttT_e2u6QmHr3C9ebmgCS8Pcrvpxnv8WIyc6GmKlE7mBdXJLAO9h6_nT90PXjw03A31yt1z6VDNFao1748NAPl5vjX-KQCbjOA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHJlZCUyYm9ubHklMmJoZWFkbGFtcCUyYmFzdHJvbm9teSUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzE4dXJ2MTF5cmFfZSUyNmFkZ3JwaWQlM2QxMzQ0NzA1MjI5MTk2OTA5JTI2aHZhZGlkJTNkODQwNDQzNTE5NDcwMjglMjZodm5ldHclM2RvJTI2aHZxbXQlM2RlJTI2aHZibXQlM2RiZSUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTg0MDQ1MjI3Nzc0ODU0JTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2QxNDI0XzEzNDU5MTE5JTI2bWNpZCUzZGYxOTdjNDRhZDEyYjM5Y2Q4NzBkYjkzOTBkMGYzZTJiJTI2bXNjbGtpZCUzZDU4OGRmNzI2ZGQzZTFkOTRjMDA5OWU2NzNmMDljNjFj&rlid=588df726dd3e1d94c0099e673f09c61c",
+      "title": "Red Only Headlamp Astronomy - View Ratings and Reviews"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e8JsJVLeXewQcmHc6V-ivRWjVUCUzapi5PyWdwKMKf2yAQvsRTuflXBy4U0qj36OyLbLWQ31PSQUSbfeKffvNX_tYZwp8MRbddroEg3y-62NTwSqrVc8KR2hQuWM3Hx83zBKEU54NRSVY6ZUeAey0o1khQGKziWSybPfw83gmGnWlzAA5dOIDseTalkioz835gudmTc-9y4QOK78rEckh4i9SrPlg&u=aHR0cHMlM2ElMmYlMmZ0b3A1YmVzdC5jb20lMmZhc3Ryb25vbXktaGVhZGxhbXAlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q2NDg3JTI2bXNjbGtpZCUzZGE1ZmM0NzE0NmY3ZTFlZGMyNzZmMmU1NThkNDkxZTY3&rlid=a5fc47146f7e1edc276f2e558d491e67",
+      "title": "Best Red Headlamp Astronomy - Top 5 Picks of 2025"
+    },
+    {
+      "url": "https://sentinelmission.org/buying-guides/best-headlamps-with-red-light-for-astronomers/",
+      "title": "10 Best Headlamps With Red Light for Astronomers: Illuminate ..."
+    },
+    {
+      "url": "https://spectralore.com/vetted/best-red-led-headlamps-for-astronomy/",
+      "title": "15 Best Red LED Headlamps for Astronomy Enthusiasts in 2025"
+    }
+  ],
+  "USB dew heater strap review": [
+    {
+      "url": "https://www.bing.com/aclick?ld=e8_yZ1qKO15U7JCqRKCWJUazVUCUz9-l9yOBpgMHHFKL-senbKj8TlNHK9BRE_NBnZql37eqJiLNQCH1ggp6icXV02Tw_TAyCKqLU7R4u6li9Qf1k1CKt6VHB5NQmMeebwl-UwunTI8wBSJfdr_WpBRzkCCizn-nTHL95dT5DJi57L5MxMjjwpHJ1d3NyBiHdNDuw4hTTsKG_nW8FLFSIS0G_fO3s&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHVzYiUyYmRldyUyYmhlYXRlciUyNmluZGV4JTNkZWxlY3Ryb25pY3MlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfMnd2cGc4MzR3YV9wJTI2YWRncnBpZCUzZDEzMzgxMDcwNTY5OTEzMzUlMjZodmFkaWQlM2Q4MzYzMTg5NjU0MTYwMiUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODM2MzI2MDU2MDYyMzElM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDE5MTA0XzEzMzUxNTYyJTI2bWNpZCUzZGY3MTQ1YzdjMjVhODM5NTQ5NDZmNDZiM2M2YmViYmJkJTI2bXNjbGtpZCUzZGQ1ODNkZDA2YzIzMjE4NWU3ZDgyYjQ0NzIwMDVmYWFk&rlid=d583dd06c232185e7d82b4472005faad",
+      "title": "Usb Dew Heater - View Ratings and Reviews"
+    },
+    {
+      "url": "https://www.cloudynights.com/topic/839414-usb-powered-dew-heaters/",
+      "title": "USB powered Dew Heaters - Cloudy Nights"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-onCHpSUfCs",
+      "title": "USB powered SVBONY Dew Heater Review and How to Connect to ... USB Vs RCA Dew-Heater Bands: Pros, Cons and Use Cases Agena Dew-Ninja\u2122 5V USB Heater Strip with Stepless ... Dew Heaters for Astrophotography - Keep Your Telescope/Lens Dry SVBONY SV172 Lens Heater Warmer Dew, 240mm 3 Gear Regulator ... Usb Dew Heater - View Ratings and Reviews Dew Heater Straps - 5-Star Rated"
+    }
+  ],
+  "Bahtinov mask 72mm 3D print STL": [
+    {
+      "url": "https://www.stlfinder.com/3dmodels/bahtinov-mask-72mm/",
+      "title": "bahtinov mask 72mm 3d models - Page 1 | STLFinder"
+    },
+    {
+      "url": "https://www.thingiverse.com/thing:6884563",
+      "title": "Bahtinov Mask For Skywatcher Evostar 72ED - Thingiverse"
+    }
+  ],
+  "star tracker travel tripod recommendations": [
+    {
+      "url": "https://www.space.com/best-tripods",
+      "title": "Best tripods 2025: For astrophotography, landscapes, travel ... - Space"
+    },
+    {
+      "url": "https://shuttlepresskit.com/best-astrophotography-tripod/",
+      "title": "Best Astrophotography Tripod 2025: Expert Reviews"
+    }
+  ],
+  "Milky Way stacking tutorial Sequator": [
+    {
+      "url": "https://www.youtube.com/watch?v=MoaqgbQsAms",
+      "title": "Still the Best Free Software for Stacking Milky Way ? Sequator Tutorial"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uw0Y9y1axdA",
+      "title": "Sequator Milky Way Stack Tutorial - 2021 Edition - YouTube"
+    },
+    {
+      "url": "https://yandex.ru/video/preview/837190608784124882",
+      "title": "Sequator Tutorial - The Best Milky Way Stacking Software"
+    }
+  ],
+  "ISS solar transit finder Seattle": [
+    {
+      "url": "https://transit-finder.com/",
+      "title": "ISS Transit Finder"
+    },
+    {
+      "url": "https://skyandtelescope.org/observing/interactive-sky-watching-tools/skyandtelescope-coms-satellite-transit-tracker/",
+      "title": "Satellite Transit Tool: Spot ISS Transits of the Sun and Moon"
+    },
+    {
+      "url": "https://iss.vierwandfrei.de/",
+      "title": "ISS transit prediction & email alerter"
+    }
+  ],
+  "light pollution map Seattle Bortle": [
+    {
+      "url": "https://lightpollutionmap.app/",
+      "title": "Light Pollution Map | Bortle Scale & Dark Sky (2025)"
+    },
+    {
+      "url": "https://www.lightpollutionmap.info/",
+      "title": "Light pollution map"
+    },
+    {
+      "url": "http://cleardarksky.com/lp/Seattlelp.html",
+      "title": "Seattle Light Pollution Map - cleardarksky.com Washington Dark Sky Parks & Places | Stargazing & Astrotourism Dark Sky Map Washington State: 2025 Free Stargazer\u2019s Guide DarkSkySites | Daily Light Pollution Map, Skyglow Light ... Bortle Buddy"
+    },
+    {
+      "url": "https://astrorover.com/dark-sky-map-washington-state/",
+      "title": "Dark Sky Map Washington State: 2025 Free Stargazer\u2019s Guide"
+    },
+    {
+      "url": "https://darkskysites.com/",
+      "title": "DarkSkySites | Daily Light Pollution Map, Skyglow Light ..."
+    }
+  ],
+  "International Dark-Sky Association model lighting ordinance": [
+    {
+      "url": "https://darksky.org/app/uploads/bsk-pdf-manager/16_MLO_FINAL_JUNE2011.PDF",
+      "title": "MODEL LIGHTING ORDINANCE (MLO) - International Dark Sky Week"
+    },
+    {
+      "url": "https://store.ies.org/product/ida-ies-mlo-11-model-lighting-ordinance-mlo-with-users-guide/",
+      "title": "Model Lighting Ordinance (MLO) with User\u2019s Guide \u2013 The IES ..."
+    },
+    {
+      "url": "https://www.cambridgema.gov/~/media/Files/CDD/EconDev/lightingtaskforce/lighting_model_ordinance.pdf",
+      "title": "IDA-IES Model Lighting Ordinance - Lighting Ordinance Task ..."
+    }
+  ],
+  "amber shielded streetlight fixture examples": [
+    {
+      "url": "https://dwdigitaldesign.com/crossroadsled/lighting-products/narrow-band-amber-street-lights/",
+      "title": "Narrow Band Amber Street Lights \u2013 Crossroads LED"
+    },
+    {
+      "url": "https://www.accessfixtures.com/amber-led-fixtures-fwc-pc-amber-590nm-amber-and-2200k/",
+      "title": "590nm Light: Amber LED Fixtures - FWC, PC Amber, and 2200K Night Sky Solutions - DARK SKY DEFENDERS Dark Sky Commercial Lighting Products - Flagstaff Dark Skies Lighting Guide \u2014 Greater Big Bend International Dark Sky Reserve 590nm Light: Amber LED Fixtures - FWC, PC Amber , and 2200K Amber LED Sources \u2014 Saving Our Stars 590nm Light: Amber LED Fixtures - FWC, PC Amber , and 2200K 590nm Light: Amber LED Fixtures - FWC, PC Amber , and 2200K Amber LED Sources - Saving Our Stars"
+    },
+    {
+      "url": "https://www.savingourstars.org/amberleds",
+      "title": "Amber LED Sources - Saving Our Stars"
+    }
+  ],
+  "DIY SQM meter raspberry pi": [
+    {
+      "url": "https://github.com/beckrd/DIY_SQM",
+      "title": "GitHub - beckrd/DIY_SQM: Two Sky Qaulity Meter Implementations using ..."
+    },
+    {
+      "url": "https://sourceforge.net/projects/mysqmproesp32/",
+      "title": "mySQM+ DIY SQM WEATHER STATION download | SourceForge.net"
+    },
+    {
+      "url": "https://sourceforge.net/projects/mysqmproesp32/files/mySQMWEB/",
+      "title": "mySQM+ DIY SQM WEATHER STATION - SourceForge"
+    }
+  ],
+  "NOAA APT decode Raspberry Pi RTL-SDR": [
+    {
+      "url": "https://www.rtl-sdr.com/automatically-receiving-decoding-and-tweeting-noaa-weather-satellite-images-with-a-raspberry-pi-and-rtl-sdr/",
+      "title": "Automatically Receiving, Decoding and Tweeting NOAA ... - RTL-SDR"
+    },
+    {
+      "url": "https://jeremyclark.ca/wp/telecom/rtl-sdr-for-noaa-satellite-weather-on-raspberrypi4/",
+      "title": "RTL-SDR for NOAA Satellite Weather on RaspberryPi4"
+    },
+    {
+      "url": "https://www.raspberrypi.com/tutorials/build-your-own-weather-satellite-receiving-station/",
+      "title": "Build your own weather satellite receiving station - Raspberry Pi"
+    },
+    {
+      "url": "https://github.com/jekhokie/raspberry-noaa-v2",
+      "title": "GitHub - jekhokie/raspberry-noaa-v2: V2 of the fantastic ... Automatic Capture of NOAA Satellite Images - Matthew Turner noaa-apt image decoder Apt Capture and Decode Project - evosignalworks.com"
+    },
+    {
+      "url": "https://matthewturner.io/posts/2023-02-08-noaa-capture.html",
+      "title": "Automatic Capture of NOAA Satellite Images - Matthew Turner"
+    }
+  ],
+  "WXtoImg alternative linux": [
+    {
+      "url": "https://alternativeto.net/software/wxtoimg-restored-/",
+      "title": "WXtoIMG Restored Alternatives and Similar Software | AlternativeTo"
+    },
+    {
+      "url": "https://noaa-apt.mbernardi.com.ar/alternatives.html",
+      "title": "Alternatives"
+    }
+  ],
+  "Meteor M2 LRPT guide 137 MHz": [
+    {
+      "url": "https://leshamilton.co.uk/MeteorLRPTSuite.htm",
+      "title": "LRPT Meteor Suite"
+    },
+    {
+      "url": "https://github.com/NAP3XD/Setup-Meteor-M-N2-N2-2-with-LRPT-Decoder-and-MeteorGIS",
+      "title": "GitHub - NAP3XD/Setup- Meteor - M -N2-N2-2-with- LRPT -Decoder-and..."
+    },
+    {
+      "url": "https://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-meteor-m-n2-lrpt-weather-satellite-images-rtl-sdr/",
+      "title": "RTL-SDR Tutorial: Receiving Meteor - M N 2 LRPT Weather Satellite..."
+    },
+    {
+      "url": "https://usradioguy.com/meteor-satellite/",
+      "title": "METEOR M 2 - Series - USRadioguy.com"
+    },
+    {
+      "url": "https://satsignal.eu/software/LRPT-notes.html",
+      "title": "Automating LRPT"
+    }
+  ],
+  "QFH antenna plans PVC": [
+    {
+      "url": "https://www.instructables.com/NOAA-Satellite-Signals-with-a-PVC-QFH-Antenna-and-/",
+      "title": "NOAA Satellite Signals With a PVC QFH Antenna and Laptop"
+    },
+    {
+      "url": "https://www.qsl.net/vu2msy/homebrew/QHF+antenna/NOAA-Satellite-Signals-with-a-PVC-QFH-Antenna-and-.pdf",
+      "title": "PDF NOAA Satellite Signals With a PVC QFH Antenna and Laptop"
+    },
+    {
+      "url": "https://github.com/kmkingsbury/pvc-qfh-antenna",
+      "title": "GitHub - kmkingsbury/pvc-qfh-antenna: Plans for a Quadrifilar ..."
+    },
+    {
+      "url": "http://www.g4ilo.com/qfh.html",
+      "title": "A QFH antenna for the weather satellite band - G4ILO"
+    }
+  ],
+  "137 MHz LNA bias tee raspberry pi": [
+    {
+      "url": "https://www.rtl-sdr.com/product/rtl-sdr-blog-wideband-lna-bias-tee-powered/",
+      "title": "RTL-SDR Blog Wideband LNA ( Bias Tee Powered)"
+    },
+    {
+      "url": "https://discussions.flightaware.com/t/power-bias-tee-from-usb-port/66181",
+      "title": "Power Bias Tee from USB port - ADS-B Flight Tracking - FlightAware..."
+    },
+    {
+      "url": "https://forum.flightradar24.com/forum/radar-forums/technical-matters-hardware/11523-rtl_sdr-v3-bias-tee-power-on-off",
+      "title": "RTl_SDR v3 bias tee power on/off - Flightradar24 Forum"
+    }
+  ],
+  "SatNOGS network how to schedule a pass": [
+    {
+      "url": "https://wiki.satnogs.org/SatNOGS_Network",
+      "title": "SatNOGS Network - SatNOGS Wiki"
+    },
+    {
+      "url": "https://community.libre.space/t/how-to-schedule-observations-on-satnogs/12036",
+      "title": "How to schedule Observations on SATNOGS - community.libre.space"
+    },
+    {
+      "url": "https://concretedog.blogspot.com/2018/12/scheduling-observation-on-satnogs.html",
+      "title": "Concretedog: Scheduling an Observation on SatNOGS"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=D1T6Zz9eIsU",
+      "title": "Satnogs amsat series: Scheduling amateur satellite passages Setting Up Your Own Satellite Ground Station with SatNOGS Operation - SatNOGS Wiki Operation - SatNOGS Wiki Setting Up Your Own Satellite Ground Station with SatNOGS Setting Up Your Own Satellite Ground Station with SatNOGS SatNOGS Network - SatNOGS Wiki Filters and Scheduling - SatNOGS - Libre Space Community"
+    }
+  ],
+  "Gpredict setup with RTL-SDR tutorial": [
+    {
+      "url": "https://www.linkedin.com/pulse/signals-from-space-using-gpredict-sdr-track-listen-satellites-nash-2rusc",
+      "title": "Signals from Space: Using Gpredict + SDR to Track and Listen to..."
+    },
+    {
+      "url": "https://subscription.packtpub.com/book/iot-and-hardware/9781783982929/9/ch09lvl1sec82/satellite-tracking-using-gpredict-and-rtl-sdr",
+      "title": "Satellite tracking using GPredict and RTL - SDR | BeagleBone Black..."
+    }
+  ],
+  "Jupyter notebook plot ground track with Skyfield": [
+    {
+      "url": "https://github.com/topics/skyfield",
+      "title": "skyfield \u00b7 GitHub Topics \u00b7 GitHub"
+    },
+    {
+      "url": "https://space.stackexchange.com/questions/tagged/skyfield?tab=Newest",
+      "title": "Newest ' skyfield ' Questions - Space Exploration Stack Exchange"
+    }
+  ],
+  "SPICE kernels download NAIF": [
+    {
+      "url": "https://naif.jpl.nasa.gov/naif/toolkit.html",
+      "title": "SPICE Toolkit"
+    },
+    {
+      "url": "https://planetmapper.readthedocs.io/en/stable/spice_kernels.html",
+      "title": "SPICE kernels \u2014 PlanetMapper 1.13.4 documentation"
+    }
+  ],
+  "spiceypy example orbit plot": [
+    {
+      "url": "https://heliopy.readthedocs.io/en/0.6.0/auto_examples/plot_spice_orbit.html",
+      "title": "SPICE orbit plotting - HelioPy 0.6.0 documentation"
+    },
+    {
+      "url": "https://github.com/heliopython/heliopy/blob/main/examples/plot_spice_orbit.py",
+      "title": "heliopy/examples/plot_spice_orbit.py at main - GitHub"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=NhnowBBLtmo",
+      "title": "Solar System Orbits with SPICE Files | Orbital Mechanics with Python 16"
+    },
+    {
+      "url": "http://spiceypy.readthedocs.io/",
+      "title": "Welcome to SpiceyPy's documentation! \u2014 SpiceyPy 8.0.0 documentation"
+    }
+  ],
+  "NASA PDS imaging archive search": [
+    {
+      "url": "https://pds.nasa.gov/tools/data-search/",
+      "title": "PDS: Data Search"
+    },
+    {
+      "url": "https://pds.nasa.gov/datasearch/keyword-search/",
+      "title": "PDS: Keyword Search"
+    },
+    {
+      "url": "https://www.usgs.gov/centers/astrogeology-science-center/science/pds-cartography-and-imaging-sciences-node-usgs",
+      "title": "PDS Cartography and Imaging Sciences Node at USGS"
+    }
+  ],
+  "Sentinel-2 cloud optimized GeoTIFF download": [
+    {
+      "url": "https://registry.opendata.aws/sentinel-2-l2a-cogs/",
+      "title": "Sentinel-2 Cloud-Optimized GeoTIFFs - Registry of Open Data on AWS"
+    },
+    {
+      "url": "https://planetarycomputer.microsoft.com/dataset/sentinel-2-l2a",
+      "title": "Sentinel-2 Level-2A | Planetary Computer"
+    }
+  ],
+  "STAC browser public endpoints": [
+    {
+      "url": "https://www.usgs.gov/landsat-missions/spatiotemporal-asset-catalog-stac",
+      "title": "SpatioTemporal Asset Catalog (STAC) | U.S. Geological Survey"
+    }
+  ],
+  "xarray dask tutorial for satellite data": [
+    {
+      "url": "https://docs.terrabyte.lrz.de/services/data-processing/data-cubes/stac-xarray-dask/",
+      "title": "STAC, xarray and dask | terrabyte Documentation"
+    },
+    {
+      "url": "https://docs.xarray.dev/en/stable/user-guide/dask.html",
+      "title": "Parallel Computing with Dask"
+    }
+  ],
+  "cartopy nightshade day night terminator": [
+    {
+      "url": "https://github.com/scitools/cartopy/issues/2142",
+      "title": "Nightshade coordinates for different times don't change \u00b7 Issue #2142..."
+    },
+    {
+      "url": "https://scitools.org.uk/cartopy/docs/v0.21/_modules/cartopy/feature/nightshade.html",
+      "title": "cartopy .feature. nightshade \u2014 cartopy 0.21.0 documentation"
+    },
+    {
+      "url": "https://cartopy.readthedocs.io/stable/reference/generated/cartopy.feature.nightshade.Nightshade.html",
+      "title": "cartopy .feature. nightshade . Nightshade \u2014 cartopy ..."
+    }
+  ],
+  "colorblind safe palettes dark background": [
+    {
+      "url": "https://github.com/DesiQuintans/Pebble-safe",
+      "title": "GitHub - DesiQuintans/Pebble- safe : Light and dark RStudio..."
+    },
+    {
+      "url": "https://www.nceas.ucsb.edu/sites/default/files/2022-06/Colorblind+Safe+Color+Schemes.pdf",
+      "title": "Colorblind Safe Color Schemes"
+    },
+    {
+      "url": "https://colorany.com/color-palettes/science-color-blind-safe-color-palettes/",
+      "title": "5 Science Color Blind Safe Color Palettes"
+    },
+    {
+      "url": "https://venngage.com/blog/color-blind-friendly-palette/",
+      "title": "Colorblind -Friendly Palettes : Why & How to Use in Design - Venngage"
+    }
+  ],
+  "d3.js satellite ground track example": [
+    {
+      "url": "https://www.geeksforgeeks.org/javascript/d3-js-geosatellite-function/",
+      "title": "D3.js geoSatellite () Function - GeeksforGeeks"
+    },
+    {
+      "url": "https://observablehq.com/@test187/bodenspur",
+      "title": "Satellite ground track visualizer / 187 | Observable"
+    }
+  ],
+  "Launch Library 2 API documentation": [
+    {
+      "url": "https://freeapis.io/launch-library-2",
+      "title": "Launch Library 2 API - Free APIs Directory"
+    },
+    {
+      "url": "https://publicapis.io/launch-library-2-api",
+      "title": "Launch Library 2 API \u2014 Free Public API | Public APIs Directory"
+    },
+    {
+      "url": "https://www.freepublicapis.com/launch-library-2",
+      "title": "Launch Library 2 - Tested Every Single Day."
+    },
+    {
+      "url": "https://jsonapiapp-alia.vercel.app/public-api/Launch+Library+2",
+      "title": "Launch Library 2 Public science & math Api in 2025 | JSON API APP"
+    }
+  ],
+  "NASA mission RSS feeds list": [
+    {
+      "url": "https://www.nasa.gov/rss-feeds/",
+      "title": "RSS Feeds - NASA"
+    }
+  ],
+  "ESA RSS feeds index": [
+    {
+      "url": "https://www.esa.int/Services/RSS_Feeds",
+      "title": "ESA - RSS Feeds"
+    }
+  ],
+  "TweetDeck alternative for Twitter lists": [
+    {
+      "url": "https://onurerginoglu.medium.com/apps-like-tweetdeck-3-alternatives-for-tweetdeck-71a0cb29f184",
+      "title": "Apps like Tweetdeck ! 3 Alternatives for Tweetdeck ! | Medium"
+    },
+    {
+      "url": "https://www.socialpilot.co/tweetdeck-alternatives",
+      "title": "10 TweetDeck Alternatives for All Business Types"
+    },
+    {
+      "url": "https://tweetdeck.en.softonic.com/windows/alternatives",
+      "title": "Top 10 alternatives to TweetDeck for Windows"
+    }
+  ],
+  "create Twitter list of spaceflight teams": [
+    {
+      "url": "https://www.caa.co.uk/space/the-role-of-the-caa/the-spaceflight-team/",
+      "title": "The spaceflight team | Civil Aviation Authority"
+    }
+  ],
+  "Substack schedule newsletter send time": [
+    {
+      "url": "https://substackcourse.com/how-to-schedule-post-in-substack/",
+      "title": "How to Schedule Posts in Substack - Substack Course"
+    }
+  ],
+  "Mailchimp RSS to email setup": [
+    {
+      "url": "https://mailchimp.com/features/rss-to-email/",
+      "title": "RSS-To-Email Feeds | Mailchimp"
+    },
+    {
+      "url": "https://wpism.com/mailchimp-rss-email-newsletter/",
+      "title": "MailChimp RSS to Email Newsletter - Complete Guide 2025 - WPism"
+    },
+    {
+      "url": "https://www.feedotter.com/blog/mailchimp-rss-email-automation-tips/",
+      "title": "Simple Setup Guide for Mailchimp RSS Email Automation"
+    },
+    {
+      "url": "https://help.rss.app/en/articles/10944454-how-to-create-a-newsletter-from-rss-with-mailchimp",
+      "title": "How to create a newsletter from RSS with Mailchimp"
+    }
+  ],
+  "convert UTC to CET and PST simultaneously": [
+    {
+      "url": "https://savvytime.com/converter/utc-to-pst-cet",
+      "title": "UTC to PST to CET - Savvy Time"
+    },
+    {
+      "url": "https://dateful.com/time-zone-converter",
+      "title": "Dateful Time Zone Converter"
+    }
+  ],
+  "world rocket launch calendar ICS": [
+    {
+      "url": "https://space.floern.com/",
+      "title": "Space Flight Launch Calendar (iCal / ICS)"
+    },
+    {
+      "url": "https://nextspaceflight.com/calendar/",
+      "title": "Calendar Integration - Next Spaceflight"
+    }
+  ],
+  "JPL small-body database API how to": [
+    {
+      "url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html",
+      "title": "Small - Body Database Lookup"
+    },
+    {
+      "url": "https://namakkaro.serv00.net/https-ssd.jpl.nasa.gov/tools/sbdb_query.html",
+      "title": "Small - Body Database Query"
+    }
+  ],
+  "exoplanet transit model python batman": [
+    {
+      "url": "http://lkreidberg.github.io/batman/docs/html/index.html",
+      "title": "batman: Bad-Ass Transit Model cAlculatioN \u2014 batman 2.4.6 documentation"
+    },
+    {
+      "url": "https://iopscience.iop.org/article/10.1086/683602",
+      "title": "batman: BAsic Transit Model cAlculatioN in Python - IOPscience"
+    },
+    {
+      "url": "https://github.com/lkreidberg/batman",
+      "title": "lkreidberg/batman: Fast transit light curves models in Python. - GitHub"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1507.08285",
+      "title": "batman: BAsic TransitModelcAlculatioN in Python - arXiv.org"
+    },
+    {
+      "url": "https://emac.gsfc.nasa.gov/?cid=2207-163",
+      "title": "Exoplanet Modeling and Analysis Center: BATMAN - EMAC"
+    }
+  ],
+  "Lightkurve tutorial download TESS light curve": [
+    {
+      "url": "https://heasarc.gsfc.nasa.gov/docs/tess/LightCurve-object-Tutorial.html",
+      "title": "LightCurve objects - TESS"
+    },
+    {
+      "url": "https://github.com/kacorcoran/TESS_LC_Quickstart_Tutorial",
+      "title": "GitHub - kacorcoran/TESS_LC_Quickstart_Tutorial: This is a ..."
+    },
+    {
+      "url": "https://lightkurve.github.io/lightkurve/tutorials/index.html",
+      "title": "Tutorials \u2014 Lightkurve"
+    }
+  ],
+  "Planet Hunters TESS how to vet dips": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLcGN9RTlAo4xE_0Ng0tqZAmqa4x7LJB7E",
+      "title": "Planet Hunters TESS Tutorial Playlist - YouTube"
+    },
+    {
+      "url": "https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess",
+      "title": "Planet Hunters TESS | Zooniverse - People-powered research"
+    }
+  ],
+  "Exoplanet Watch Transit Finder": [
+    {
+      "url": "https://astro.swarthmore.edu/transits/",
+      "title": "Transit Finder - Swarthmore College"
+    }
+  ],
+  "Zooniverse astronomy projects list": [
+    {
+      "url": "https://www.zooniverse.org/projects?discipline=astronomy&page=1&sort=-activity&status=live",
+      "title": "Projects \u2014 Zooniverse"
+    }
+  ],
+  "Kerbal Space Program Realism Overhaul install guide": [
+    {
+      "url": "https://www.youtube.com/watch?v=pxnHSZyqtAI",
+      "title": "Installing Realism Overhaul in Kerbal Space Program ... - YouTube"
+    },
+    {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=528605748",
+      "title": "Steam Community :: Video :: Realism Overhaul Tutorial 1: Intro and..."
+    }
+  ],
+  "delta-v map Real Solar System": [
+    {
+      "url": "https://en.wikipedia.org/wiki/File:Solar_system_delta_v_map.svg",
+      "title": "File:Solar system delta v map.svg - Wikipedia"
+    },
+    {
+      "url": "https://www.reddit.com/r/RealSolarSystem/comments/nr8cgk/interactive_delta_v_map_of_the_solar_system/",
+      "title": "Interactive Delta V Map of the Solar System : r/RealSolarSystem - Reddit"
+    },
+    {
+      "url": "https://commons.m.wikimedia.org/wiki/File:Solar_system_delta_v_map.svg",
+      "title": "File:Solar system delta v map.svg - Wikimedia Commons"
+    },
+    {
+      "url": "https://www.deviantart.com/yumonstudios/art/THE-Ultimate-Delta-V-Map-of-the-Solar-System-559376250",
+      "title": "THE Ultimate Delta-V Map of the Solar System - DeviantArt"
+    },
+    {
+      "url": "https://teslamotorsclub.com/tmc/threads/interactive-delta-v-map.313820/",
+      "title": "Interactive Delta-V Map | Tesla Motors Club"
+    }
+  ],
+  "kOS vs MechJeb for ascent RO": [
+    {
+      "url": "https://forum.kerbalspaceprogram.com/topic/229195-112x-kosmechjeb2addon-integration-layer-between-kos-and-mechjeb2/",
+      "title": "[1.12.X] kOS.MechJeb2.Addon - Integration layer between kOS and ..."
+    },
+    {
+      "url": "https://github-wiki-see.page/m/KSP-RO/RealismOverhaul/wiki/MechJeb-Ascents",
+      "title": "MechJeb Ascents - KSP-RO/RealismOverhaul GitHub Wiki"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=_s_dPkH_mLU",
+      "title": "MechJeb & kOS, BFFs! | Mike Plays RP-1 #10 - YouTube"
+    }
+  ],
+  "mission log template spreadsheet KSP": [
+    {
+      "url": "https://spacedock.info/mod/2711/KSP+Data+Export",
+      "title": "KSP Data Export on SpaceDock"
+    },
+    {
+      "url": "https://forum.kerbalspaceprogram.com/forum/123-mission-reports/",
+      "title": "Mission Reports - Kerbal Space Program Forums"
+    },
+    {
+      "url": "https://github.com/kna27/ksp-data-export",
+      "title": "GitHub - kna27/ksp-data-export: Exports KSP telemetry to a ..."
+    }
+  ],
+  "FAA Starbase launch closure filings": [
+    {
+      "url": "https://www.faa.gov/space/stakeholder_engagement/spacex_starship",
+      "title": "SpaceX Starship Super Heavy Project at the Boca Chica Launch Site"
+    }
+  ],
+  "Lompoc hotels near Vandenberg launch": [
+    {
+      "url": "https://www.bing.com/aclick?ld=e8vRTjYxogk4uh0GiionIuaTVUCUwS3tQMK84MjWoZd61UqbH0aIHOmD_LSvFUFkA5v1QIfVH_mOeIdHMmHIyqHYKU2TQQXx8uOwaQdTqxBJ3B8xBYKCAMWJNF_q8Ij16qNlvn30ZXiFF7hBx6H_8kzz-Eh8PpPen9pz41J-svWBKqhuZJYj7SHwZp49UdBmnpLC-gWjiUUxki3Og_G7iMF8zHOcU&u=aHR0cHMlM2ElMmYlMmZ3d3cuZXhwZWRpYS5jb20lMmZIb3RlbC1TZWFyY2glM2ZyZWdpb25JZCUzZDYxOTg1MzglMjZsb2NhbGUlM2Rlbl9VUyUyNnNpdGVpZCUzZDElMjZzZW1jaWQlM2RVUy5VQi5CSU5HLkxNLWMtRU4uSE9URUwlMjZzZW1kdGwlM2RhMTM5MjgxMjI5NS5iMTEzMjkzMTA2ODM0NjY2NzEuZzFrd2QtODMwODI2Njc4MjMzMTElM2Fsb2MtMTkwLmUxYy5tMTVhM2QzZWYyZDkyNTE5NTBmYjA1NTdiMzNiN2ExNGFmLnIxM2M0YWNjMjRmZWZkYmJhYzUzNmZlOGU0OTkyN2NkZTA1YjljMGFiM2ZiYjVkYzhhYmVhZmYyZGJkMjI4ZTllZC5jMS5qMTU4MTYyLmsxNDQxNTEuZDE3OTc4MzUyMDk5MzAyNi5oMXAuaTEubDEubjEubzEucDEucTEuczEudDEueDEuZjEudTEudjEudzElMjZtc2Nsa2lkJTNkNWEzZDNlZjJkOTI1MTk1MGZiMDU1N2IzM2I3YTE0YWY&rlid=5a3d3ef2d9251950fb0557b33b7a14af",
+      "title": "Hotels Vandenberg Air Force Base - Competitive Pricing"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e8VvVCrkm9wkiHvLfMDQQhCjVUCUwSaODsPeE-A0hccWE5NfG1YeOWy8Xh2rA5dmkhRsY9prhyLzDuNtmV1FHw-nWguVDXYMSEWiNrqoffEoms6Vi7i3eHOOS1T35Dt7_7o-HXXO0tzKskZZ8bxtAyKrreUjx3qkYGj73yX9G6eyd9JI9Enzlde594ESuCkmhJFdX-h2-mJGkkfAwSrLTnqdB6FTY&u=aHR0cHMlM2ElMmYlMmZjbGlja3NlcnZlLmRhcnRzZWFyY2gubmV0JTJmbGluayUyZmNsaWNrJTNmJTI2JTI2ZHNfZV9hZGlkJTNkNzM1MzAxNTUyNDQwNjAlMjZkc19lX3RhcmdldF9pZCUzZGt3ZC03MzUzMDE0MzcyNjkzMiUzYWxvYy0xOTAlMjYlMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmd3d3LnByaWNlbGluZS5jb20lMmZyJTJmJTNmcHJvZHVjdCUzZGhvdGVsJTI2dGhlbWUlM2RjaXR5c3RhdGUlMjZjaXR5bmFtZSUzZExvbXBvYyUyNnN0YXRlJTNkQ0ElMjZjb3VudHJ5JTNkVVMlMjZzdGF0ZW5hbWUlM2RDYWxpZm9ybmlhJTI2Y2l0eV9pZCUzZDMwMDAwMDE5MzklMjZxdWVyeSUzZExvbXBvYyUyNTIwaG90ZWxzJTI1MjBuZWFyJTI1MjBWYW5kZW5iZXJnJTI1MjBsYXVuY2glMjZtYXRjaCUzZGJwJTI2a3clM2Rob3RlbHMlMjUyMGxvbXBvYyUyNTIwY2ElMjZyZWZpZCUzZFBMTVNOJTI2cmVmY2xpY2tpZCUzZEQlM2FjSG90ZWxQSU4zMDc3MjQ3MW83MzUzMDE1NTI0NDA2MDI2NzU2NjYwN2t3ZC03MzUzMDE0MzcyNjkzMiUzYWxvYy0xOTAlN2MxMDAwMDAwNTgxNjIlMjZnY2xpZCUzZGEwMDZlOWY0ODkzYjFmZWUwNWRlODBiNTZiNjQ0M2Y2JTI2Z2Nsc3JjJTNkM3AuZHMlMjYlMjZtc2Nsa2lkJTNkYTAwNmU5ZjQ4OTNiMWZlZTA1ZGU4MGI1NmI2NDQzZjYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RVUyUyNTdDQ0ElMjU3Q0JvZHklMjUyMENpdGllcyUyNTdDMSUyNTdDMSUyNTdDQ29yZSUyNTdDU3RhdGUlMjU3Q0hvdGVsJTI1N0NNYWluJTI1N0NEZXNrdG9wJTI2dXRtX3Rlcm0lM2Rob3RlbHMlMjUyMGxvbXBvYyUyNTIwY2ElMjZ1dG1fY29udGVudCUzZFVTJTI1N0NDQSUyNTdDTG9tcG9jJTI1N0MzMDAwMDAxOTM5JTI1N0MzMDAwMDAxOTM5JTI1N0NDb3JlJTI1N0NTdGF0ZSUyNTdDSG90ZWxzJTI1N0NNYWluJTI1N0NCTU0&rlid=a006e9f4893b1fee05de80b56b6443f6",
+      "title": "Lompoc, CA Hotels from $59 - $59+ Lompoc Hotels"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e86yvxjlPRcoXUsaonpBWWwDVUCUzY1knv4OlG_J8N53PTe580ArZMRlXHnNpsCqrxoujclTBuIZzQ__LMASGVJhKs5oByXOreqGrWxQE95c8HS0htsBxygGmmTvsfr2PeY6-l5kaXFLiVD2fmlDkCBxF6oPVsad8BeoWUGNX3wLdG7uFgiYU32EL6ysZE46jBRylw2l_Sk_0a42j5MdsGWant_iw&u=aHR0cHMlM2ElMmYlMmZ3d3cuaG90ZWxzLmNvbSUyZkhvdGVsLVNlYXJjaCUzZnJlZ2lvbklkJTNkODU2MCUyNmxvY2FsZSUzZGVuX1VTJTI2c2l0ZWlkJTNkMzAwMDAwMDAxJTI2c2VtY2lkJTNkSENPTS1VUy5VQi5CSU5HLkRULWMtRU4uSE9URUwlMjZzZW1kdGwlM2RhMTQxMDY1NDYxNS5iMTEzMzU5MDczNjQ5NTIzMDkuZzFrd2QtODM0OTUwODQ2OTEwNzglM2Fsb2MtMTkwLmUxYy5tMTY4ZmNmOGFjZGY0NjFlOGJlOWM2OTFlZDNkMTk2ODc5LnIxNjgwNjczMzc4MDQxODhmNTU1NDZhMTVlNWJiMjUyYTlkMjQxYWRlMzJlNzliMmVmZmM0ZTZhOTg0NWU3ZjkzZC5jMS5qMTU4MTYyLmsxNDQxNTEuZDE4MzQ5NDU5OTAwNDA5Mi5oMXAuaTEubDEubjEubzEucDEucTEuczEudDEueDEuZjEudTEudjEudzElMjZtc2Nsa2lkJTNkNjhmY2Y4YWNkZjQ2MWU4YmU5YzY5MWVkM2QxOTY4Nzk&rlid=68fcf8acdf461e8be9c691ed3d196879",
+      "title": "Hotels in Lompoc, California - Stays from $70"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e82BW9xHOe_1qtOa7WrxVEsjVUCUw2NqqnZQyZkYk48Z7ZHxwuBFibri8qU4GKxKBlVbLz3HBP8ceNtKrVptTMFFfxaYQipRJVylfLuwUYlE1hRShRWtKxshlXqnxNcMO5ie3n8AWx5sbHSjywpq53mHtU2xTIc1ygkyrgZFjLwkGLvp50bBm8yeIga86ksOWV8iCwoljTbc0cbUkPA_NvGY_gMwQ&u=aHR0cHMlM2ElMmYlMmZ3d3cudHJpcGFkdmlzb3IuY29tJTJmU21hcnREZWFscyUzZmdlbyUzZDMyNjQ1JTI2bSUzZDExMDA0JTI2c3VwY20lM2QyOTUwMDY3NzglMjZzdXBhZyUzZDEyNzY1MzMwODcwODEyNDclMjZzdXB0aSUzZGt3ZC03OTc4MzY2ODQ2Mjc3NyUzYWxvYy0xOTAlMjZzdXBhaSUzZDc5NzgzNTE4NzEwNDAwJTI2c3VwZHYlM2RjJTI2c3VwbnQlM2RvJTI2c3Vwa3clM2RMb21wb2MlMjUyMGhvdGVscyUyNTIwbmVhciUyNTIwVmFuZGVuYmVyZyUyNTIwbGF1bmNoJTI2bXNjbGtpZCUzZGNhODIzNWIyODc3MDEwZGM2NmEwNWNmMzY1MmYxOTA0&rlid=ca8235b2877010dc66a05cf3652f1904",
+      "title": "Hotels In Lompoc Ca - The 10 Best Hotels"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e8FepcZd6I1bMSRef1hkYeHjVUCUyxCj2KKyK0hACHAV-psKPxYU9Vr2alcGc0HxQul2rv_C8ydcvxQNowmAXzlWawfjya7w7ULTjBTJQqdm2LHZ9jqUzUgu3mmbXWVpMsQRQtG_Flzqt-tvPW6Ygzg84rkcQcveTm3PGl4ITOFTS34RsCDEci9LZlkt4jNFsw1VWLOdQbY3tTqOiq5tFM2ERoJbY&u=aHR0cHMlM2ElMmYlMmZ3d3cudHJpdmFnby5jb20lMmZlbi1VUyUyZmxtJTNmdGhlbWVJZCUzZDElMjZzZWFyY2glM2QyMDAtNDEyNTUlMjZzZW1fa2V5d29yZCUzZGhvdGVsJTI1MjBsb21wb2MlMjUyMGNhbGlmb3JuaWElMjZzZW1fY3JlYXRpdmVpZCUzZDc4MDY1NTM4MzExNzc1JTI2c2VtX21hdGNodHlwZSUzZGJwJTI2c2VtX25ldHdvcmslM2RvJTI2c2VtX2RldmljZSUzZGMlMjZzZW1fY2FtcGFpZ25pZCUzZDM2NzczNDE3NiUyNnNlbV9hZGdyb3VwaWQlM2QxMjEzODYxMjg0MTI3NDYyJTI2c2VtX3RhcmdldGlkJTNka3dkLTc1ODY2NjgzODgwMDg2JTNhbG9jLTQxMTIlMjZjaXBjJTNkc2VtJTI2Y2lwJTNkMTI5MDAwMDQ2NyUyNm1zY2xraWQlM2Q2N2FiZTFjY2YyMTIxZjM1Y2QyODg4OGQxMDRkOTM4ZQ&rlid=67abe1ccf2121f35cd28888d104d938e",
+      "title": "Hotels in Lompoc CA - trivago\u2122 Price Comparison"
+    }
+  ],
+  "Kennedy Space Center launch viewing tickets": [
+    {
+      "url": "https://www.kennedyspacecenter-tickets.com/kennedy-space-center-rocket-launches-schedules/",
+      "title": "Kennedy Space Center Launches | Dates, Times & Viewing Guide"
+    },
+    {
+      "url": "https://www.kennedyspacecenter.com/",
+      "title": "Kennedy Space Center Visitor Complex - Official Website"
+    },
+    {
+      "url": "https://www.tiqets.com/en/kennedy-space-center-tickets-l147775/new-attraction-the-gantry-at-lc-39-e78281/",
+      "title": "New Attraction: The Gantry at LC-39 | Book Tickets"
+    },
+    {
+      "url": "https://www.attractiontickets.com/en-nl/latest-news/orlando/kennedy-space-center-tickets/gantry-lc-39-now-open-kennedy-space-center-visitor",
+      "title": "The Gantry at LC-39 at Kennedy Space Center | AttractionTickets.com"
+    }
+  ],
+  "Orionids meteor shower forecast cloud cover": [
+    {
+      "url": "https://www.bbc.com/weather/articles/c70196602g2o",
+      "title": "Orionid meteor shower peak: When and where to see it"
+    },
+    {
+      "url": "https://www.foxweather.com/earth-space/orionid-meteor-shower-peak-how-to-watch",
+      "title": "How and when to watch the Orionid meteor shower | Fox Weather Orionids meteor shower peak tonight: Viewing tips, when to ... Orionid meteor shower: What to know and how to watch As the Orionid meteor shower peaks, here\u2019s how and ... - MSN"
+    }
+  ],
+  "GOES West cloud cover loop Pacific NW": [
+    {
+      "url": "https://ifunny.co/video/goes-west-sector-view-pacific-northwest-geocolor-true-color-daytime-IMniQvqv8",
+      "title": "GOES - West - Sector view: Pacific Northwest - GeoColor... - iFunny"
+    }
+  ],
+  "aurora forecast Seattle Kp index tonight": [
+    {
+      "url": "https://www.spaceweatherlive.com/en/auroral-activity/aurora-forecast.html",
+      "title": "Aurora forecast | SpaceWeatherLive.com"
+    },
+    {
+      "url": "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast",
+      "title": "Aurora - 30 Minute Forecast | NOAA / NWS Space Weather Prediction..."
+    },
+    {
+      "url": "https://auroraforecast.me/",
+      "title": "Northern Lights Tonight | Live Aurora Forecast & Tracker"
+    },
+    {
+      "url": "https://www.auroraadmin.com/3-day-aurora-forecast/",
+      "title": "3 Day Aurora Forecast | Aurora Admin"
+    }
+  ],
+  "Heavens-Above Starlink visibility Seattle": [
+    {
+      "url": "https://www.heavens-above.com/StarlinkLaunchPasses.aspx",
+      "title": "Starlink passes for all objects from a launch"
+    },
+    {
+      "url": "https://www.heavens-above.com/StarLink.aspx",
+      "title": "Starlink - dynamic 3D orbit display"
+    }
+  ],
+  "Find Starlink app Seattle pass alerts": [
+    {
+      "url": "https://findstarlink.com/",
+      "title": "Starlink Satellites Tracker - Check when you can see it!"
+    },
+    {
+      "url": "https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide",
+      "title": "Starlink Tracker | Starlink Satellite Train 2025 ... - Star Walk ISS, Starlink Tracker App \u2014 Satellite Tracking | Satellites ... StaXlink: Satellites Tracker on the App Store Staxlink Tracker Satellite ISS - Apps on Google Play What is Starlink's proactive alerting? - Starlink Help Center"
+    },
+    {
+      "url": "https://vitotechnology.com/apps/satellite-tracker",
+      "title": "ISS, Starlink Tracker App \u2014 Satellite Tracking | Satellites ..."
+    },
+    {
+      "url": "https://apps.apple.com/us/app/staxlink-satellites-tracker/id6746504191",
+      "title": "StaXlink: Satellites Tracker on the App Store"
+    }
+  ],
+  "orbital debris mitigation IADC guidelines pdf": [
+    {
+      "url": "https://orbitaldebris.jsc.nasa.gov/library/iadc-space-debris-guidelines-revision-2.pdf",
+      "title": "IADC Space Debris Mitigation Guidelines"
+    }
+  ],
+  "FCC 5-year deorbit rule text": [
+    {
+      "url": "https://www.fcc.gov/document/fcc-adopts-new-5-year-rule-deorbiting-satellites",
+      "title": "FCC Adopts New '5-Year Rule' for Deorbiting Satellites"
+    }
+  ],
+  "NASA ODPO conjunction risk assessment": [
+    {
+      "url": "https://core.ac.uk/download/pdf/227725491.pdf",
+      "title": "NASA Conjunction assessment risk analysis updated"
+    },
+    {
+      "url": "https://www.nasa.gov/conjunction-assessment/",
+      "title": "Conjunction Assessment Risk Analysis - NASA"
+    },
+    {
+      "url": "https://aerospace.csis.org/wp-content/uploads/2021/07/NASA_ConjunctionHandbook.pdf",
+      "title": "NASA Spacecraft Conjunction Assessment and Collision Avoidance"
+    },
+    {
+      "url": "https://amostech.com/TechnicalPapers/2014/Conjunction_Assessment/NEWMAN.pdf",
+      "title": "Evolution and Implementation of the NASA Robotic Conjunction ..."
+    },
+    {
+      "url": "https://ai-solutions.com/newsroom/nasa-conjunction-assessment-risk-analysis-updated-requirements/",
+      "title": "a.i. solutions | NASA Conjunction Assessment Risk Analysis Updates"
+    }
+  ],
+  "ASAT test debris timeline visualization": [
+    {
+      "url": "https://skyandtelescope.org/astronomy-news/what-indias-anti-satellite-test-means-for-space-debris/",
+      "title": "What India's Anti-Satellite Test Means for Space Debris"
+    },
+    {
+      "url": "https://astrobites.org/2022/01/03/asat-tests/",
+      "title": "Antisatellite Tests Risk Catastrophic Collisions in... | astrobites"
+    },
+    {
+      "url": "https://www.space.com/3415-china-anti-satellite-test-worrisome-debris-cloud-circles-earth.html",
+      "title": "China's Anti-Satellite Test : Worrisome Debris Cloud Circles... | Space"
+    }
+  ],
+  "Artemis Accords signatories map": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Map_of_the_signatory_nation_of_the_Artemis_Accords.png",
+      "title": "File:Map of the signatory nation of the Artemis Accords.png"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artemis_Accords",
+      "title": "Artemis Accords - Wikipedia"
+    }
+  ],
+  "Outer Space Treaty salvage rights clarification": [
+    {
+      "url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1122&context=spacelaw",
+      "title": "Property Rights in Space: Where Does the Law Stand Now?"
+    },
+    {
+      "url": "https://cjil.uchicago.edu/print-archive/regulating-space-commons-treating-space-debris-abandoned-property-violation-outer",
+      "title": "Regulating the Space Commons: Treating Space Debris as ..."
+    },
+    {
+      "url": "https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html",
+      "title": "Outer Space Treaty - UNOOSA Governing Outer Space: A Conference of the Parties for the ... Exploring the Legal Framework of Space Salvage Rights (PDF) Salvage Law for Outer Space - Academia.edu Outer Space Treaty - UNOOSA (PDF) Salvage Law for Outer Space - Academia.edu (PDF) Salvage Law for Outer Space - Academia.edu (PDF) Salvage Law for Outer Space - Academia.edu"
+    }
+  ],
+  "EU Space Traffic Management initiative update": [
+    {
+      "url": "https://spacepolicyonline.com/events/collision-course-is-space-traffic-mgmt-dead-will-europe-kill-the-cmrcl-dream-reuters-dec-16-2025-virtual-1200-pm-et/",
+      "title": "Events for December 2025 \u2013 SpacePolicyOnline.com"
+    },
+    {
+      "url": "https://csps.aerospace.org/sites/default/files/2024-10/05a_NewEUSpaceLaw_Gleason_20241017.pdf",
+      "title": "SPACE AGENDA 2025"
+    }
+  ],
+  "US National Space Council orbital debris strategy": [
+    {
+      "url": "https://csps.aerospace.org/sites/default/files/2022-08/07-2022-NATIONAL-ORBITAL-DEBRIS-IMPLEMENTATION-PLAN.pdf",
+      "title": "NATIONAL ORBITAL DEBRIS IMPLEMENTATION PLAN"
+    },
+    {
+      "url": "https://space.commerce.gov/national-orbital-debris-mitigation-plan-released/",
+      "title": "National Orbital Debris Mitigation Plan Released"
+    },
+    {
+      "url": "https://ntrs.nasa.gov/api/citations/20200002258/downloads/20200002258.pdf",
+      "title": "NASA & US Government Orbital Debris Mitigation Policies NSS Position Statement National Science and Technology Council Unveils Orbital ... 2021 National Orbital Debris Research and Development Plan Orbital Debris Policy: Essential Strategies for Space ..."
+    },
+    {
+      "url": "https://stg-upload.executivegov.com/articles/white-house-unveils-national-orbital-debris-implementation-plan",
+      "title": "National Science and Technology Council Unveils Orbital ..."
+    },
+    {
+      "url": "https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/National-Orbital-Debris-RD-Plan-2021.pdf",
+      "title": "2021 National Orbital Debris Research and Development Plan"
+    }
+  ],
+  "open source orbit propagation Python poliastro": [
+    {
+      "url": "https://docs.poliastro.space/en/stable/index.html",
+      "title": "poliastro - Astrodynamics in Python \u2014 poliastro 0.17.0 ..."
+    },
+    {
+      "url": "https://github.com/newlawrence/poliastro",
+      "title": "GitHub - newlawrence/Poliastro: poliastro - Astrodynamics in ... poliastro \u00b7 PyPI Propagation module \u2014 poliastro 0.14.post0.dev0 documentation Welcome to poliastro | poliastro poliastro: a Python library for interactive astrodynamics poliastro - Astrodynamics in Python \u2014 poliastro 0.17.0 documentation GitHub - newlawrence/ Poliastro : poliastro - Astrodynamics in Python poliastro \u00b7 PyPI poliastro \u00b7 PyPI Getting started \u2014 poliastro 0.14.post0.dev0 documentation"
+    },
+    {
+      "url": "https://pypi.org/project/poliastro/",
+      "title": "poliastro \u00b7 PyPI Propagation module \u2014 poliastro 0.14.post0.dev0 documentation Welcome to poliastro | poliastro poliastro: a Python library for interactive astrodynamics poliastro - Astrodynamics in Python \u2014 poliastro 0.17.0 documentation GitHub - newlawrence/ Poliastro : poliastro - Astrodynamics in Python poliastro \u00b7 PyPI poliastro \u00b7 PyPI Getting started \u2014 poliastro 0.14.post0.dev0 documentation"
+    },
+    {
+      "url": "https://poliastro-py.readthedocs.io/en/latest/api/core/propagation.html",
+      "title": "Propagation module \u2014 poliastro 0.14.post0.dev0 documentation"
+    },
+    {
+      "url": "https://www.poliastro.space/",
+      "title": "Welcome to poliastro | poliastro"
+    }
+  ],
+  "Orekit vs GMAT comparison": [],
+  "telemetry overlay software for livestreams": [
+    {
+      "url": "https://goprotelemetryextractor.com/telemetry-overlay-trial",
+      "title": "Telemetry Overlay (trial) | Download and test Telemetry Overlay for free"
+    },
+    {
+      "url": "https://sugggest.com/software/telemetry-overlay",
+      "title": "Telemetry Overlay: Visualize Real-Time Performance Data | Sugggest"
+    }
+  ],
+  "overlay NMEA GPS and alt data onto video open source": [
+    {
+      "url": "https://github.com/peregin/gps-overlay-on-video",
+      "title": "GitHub - peregin/gps-overlay-on-video: Telemetry (GPS) data overlay on ..."
+    }
+  ],
+  "YouTube rocket launch callouts explained": [
+    {
+      "url": "https://www.youtube.com/watch?v=FqZ8MXA7UZU",
+      "title": "Rocket Launch Explained: Step-by-Step 3D Animation ... - YouTube The Steps Involved In An Orbital Rocket Launch How Do We Launch Things Into Space? - NASA Space Place How Do Rockets Fly Into Space | Space for Kids - Videos For Kids Which are the main stages in a rocket launch? - impulso.space The Soyuz Rocket and Launch Sequence Explained The Steps Involved In An Orbital Rocket Launch - Headed For Space The Steps Involved In An Orbital Rocket Launch - Headed For Space The Steps Involved In An Orbital Rocket Launch - Headed For Space How Do We Launch Things Into Space? - NASA Space Place How Do Rockets Blast Off? | Luna the Catrstonaut ... - YouTube"
+    }
+  ],
+  "Reddit r/space launch discussion live thread": [],
+  "GitHub NOAA APT decoder projects": [
+    {
+      "url": "https://github.com/zacstewart/apt-decoder",
+      "title": "NOAA APT Decoder - GitHub"
+    },
+    {
+      "url": "https://github.com/martinber/noaa-apt",
+      "title": "GitHub - martinber/noaa-apt: NOAA APT weather satellite image decoder ..."
+    }
+  ],
+  "arXiv smallsat drag sail deorbit paper": [
+    {
+      "url": "https://arxiv.org/pdf/2408.13562",
+      "title": "Plug-and-Play Drag Sail Module for LEO Satellites: Implementation"
+    }
+  ],
+  "ESA ClearSpace-1 mission status": [
+    {
+      "url": "https://en.wikipedia.org/wiki/ClearSpace-1",
+      "title": "ClearSpace-1 - Wikipedia"
+    },
+    {
+      "url": "https://www.esa.int/Space_Safety/ClearSpace-1",
+      "title": "ESA - ClearSpace-1"
+    },
+    {
+      "url": "https://clearspace.today/missions/clearspace-1",
+      "title": "ClearSpace-1"
+    },
+    {
+      "url": "https://spacenews.com/major-changes-approved-for-clearspace-1-mission/",
+      "title": "Major changes approved for ClearSpace-1 mission - SpaceNews"
+    }
+  ],
+  "planetarium star chart workshop slides": [
+    {
+      "url": "https://wisenight.eu/activities/planetarium-movie-we-are-stars-workshop-create-your-own-star-chart/",
+      "title": "Planetarium movie \u201cWe are stars \u201d + workshop \u201cCreate your own star ..."
+    },
+    {
+      "url": "https://www.eventbrite.com/e/we-are-stars-workshop-nlfren-tickets-1432144255019",
+      "title": "\u201cWe are stars \u201d + workshop (NL/FR/EN) Tickets, Fri, Sep... | Eventbrite"
+    }
+  ],
+  "beginner star chart printable PDF": [
+    {
+      "url": "https://www.sampletemplates.com/business-templates/star-chart.html",
+      "title": "FREE 8+ Sample Star Chart Templates in PDF | MS Word"
+    },
+    {
+      "url": "https://chartprintablee.com/printable-star-charts/",
+      "title": "Printable Star Charts - Printable Chart Template"
+    },
+    {
+      "url": "https://www.freeprintablebehaviorcharts.com/star-charts.htm",
+      "title": "Printable star charts for kids | Free Printable Behavior Charts"
+    }
+  ],
+  "welcoming newcomers to astronomy club tips": [
+    {
+      "url": "https://www.astroleague.org/better-astronomy-club-meetings/",
+      "title": "Better Astronomy Club Meetings - Astronomical League"
+    },
+    {
+      "url": "https://cn4dev.cloudynights.com/forums/topic/861375-tell-us-how-your-club-nurtures-newbies/",
+      "title": "Tell us how your club nurtures newbies - Astronomy Clubs, Star Parties ..."
+    },
+    {
+      "url": "http://www.atlantaastronomy.org/docs/features/orientation.pdf",
+      "title": "PDF AAC Observing Program and Newcomers Orientation Guidelines"
+    },
+    {
+      "url": "https://tcaa-content-2923.s3.us-east-2.amazonaws.com/guides/Recruiting-Retaining-Membership.pdf",
+      "title": "PDF Recruiting & Retaining Astronomy Club Membership"
+    }
+  ],
+  "mission patches collector storage binder": [
+    {
+      "url": "https://www.amazon.com/organizer-zippered-removable-flip-page-collector/dp/b0bcfycv4m",
+      "title": "Flip Page Patch Book Patch Organizer Storage Zippered Clear ... Images Scout Patch Collector Album - hobbymasterstore Patch Storage Binder - Creek Stewart Mission Patch Binder - Etsy collectpatches.com - Patch Collecting Software & AI Patch ... Amazon.com: Patch Binder Patch Collector Display Book \u2013 Black - Just For Patches"
+    },
+    {
+      "url": "https://hobbymaster.com/products/scout-patch-collector-album",
+      "title": "Scout Patch Collector Album - hobbymasterstore"
+    },
+    {
+      "url": "https://www.creekstewart.com/closeout-sale/patch-storage-binder",
+      "title": "Patch Storage Binder - Creek Stewart"
+    },
+    {
+      "url": "https://www.etsy.com/market/mission_patch_binder",
+      "title": "Mission Patch Binder - Etsy"
+    }
+  ],
+  "custom enamel pins minimum order manufacturer": [
+    {
+      "url": "https://www.alibaba.com/product-detail/OEM-ODM-No-Minimum-Bulk-Wholesale_1600318253874.html",
+      "title": "Custom Enamel Pins - Perfect for Promotions & Collectibles"
+    },
+    {
+      "url": "https://www.enamelpins.com/",
+      "title": "Custom Enamel Pins [ Up to 30% Off & QTY No Minimum ]"
+    },
+    {
+      "url": "https://studiodais.co.uk/minimum-order-quantities-for-our-custom-products/",
+      "title": "No Minimum Order Quantities - Studio Dais - Custom Merchandise"
+    },
+    {
+      "url": "https://inimaker.com/custom-pins/",
+      "title": "Custom Pins - inimaker-China metal crafts factory"
+    }
+  ],
+  "NASA worm logo Pantone color code": [
+    {
+      "url": "https://www.brandcolorcode.com/nasa-red",
+      "title": "NASA Red Brand Color Codes \u00bb BrandColorCode.com"
+    },
+    {
+      "url": "https://www.nasa.gov/nasa-brand-center/brand-guidelines/",
+      "title": "NASA Brand Guidelines"
+    },
+    {
+      "url": "https://brandpalettes.com/nasa-colors/",
+      "title": "NASA Color Codes - Hex, RGB and CMYK Color Codes NASA Red color hex code is #D92906 - Color-Name.com NASA Colors - Brands and Logos - SchemeColor.com NASA insignia - Wikipedia NASA Red brand & logo color codes NASA Color Codes - Hex, RGB and CMYK Color Codes NASA Color Codes - Hex, RGB and CMYK Color Codes NASA Brand Guidelines PANTONE\u00ae USA | Pantone Color Finder"
+    }
+  ],
+  "NASA 3D resources STL rocket models": [
+    {
+      "url": "https://science.nasa.gov/3d-resources/",
+      "title": "3D Resources - NASA Science"
+    },
+    {
+      "url": "https://github.com/nasa/NASA-3D-Resources",
+      "title": "GitHub - nasa/NASA-3D-Resources: Here you'll find a growing ... NASA models for 3D printer | Printables.com \"nasa rocket\" 3D Models to Print - yeggi NASA 3D Models | Cosmic Explorer nasa rocket 3d models - Page 1 | STLFinder Nasa-rocket 3D models - Sketchfab"
+    }
+  ],
+  "sanding and priming FDM prints smooth finish": [
+    {
+      "url": "https://blog.snapmaker.com/blog/how-to-sand-and-smooth-3d-prints/",
+      "title": "Improve Surface Finish: Sanding and Smoothing Your 3D Prints"
+    },
+    {
+      "url": "https://hi3dp.com/blog/surface-finish-guide-for-fdm-printed-plastics",
+      "title": "Surface Finish Guide for FDM Printed Plastics | Hi3DP"
+    },
+    {
+      "url": "https://3dx.info/beyond-sanding-achieving-a-mirror-smooth-prime-coat-on-fdm-3d-prints-with-minimal-preparation/",
+      "title": "Smooth FDM Prints: No Sanding Primer & Layer Line Removal"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PCmmykvJq8Y",
+      "title": "How to Get a Super Smooth Finish on 3D Prints - YouTube How to Smooth 3D Prints in 5 Steps - Flashforge How to prime 3D prints for a smooth, paint-ready finish ... Top 5 Ways to Improve Surface Finish on FDM Prints - 3DISM"
+    },
+    {
+      "url": "https://www.flashforge.com/blogs/news/how-to-smooth-3d-prints",
+      "title": "How to Smooth 3D Prints in 5 Steps - Flashforge"
+    }
+  ],
+  "mask and paint tiny logos on models technique": [
+    {
+      "url": "https://renderguide.com/blender-texture-paint-tutorial/",
+      "title": "Blender Texture Paint Tutorial - RenderGuide.com"
+    }
+  ],
+  "field kit checklist for eclipse travel cold weather": [
+    {
+      "url": "https://frugalbackpacker.com/blog/total-solar-eclipse-checklist/",
+      "title": "Your Total Solar Eclipse Checklist | Frugal Backpacker"
+    },
+    {
+      "url": "https://www.accuweather.com/en/weather-blogs/astronomy/eclipse-checklist-5-things-to-take-with-you-for-the-solar-eclipse/337307",
+      "title": "Eclipse checklist : 5 things to take with you for the solar eclipse"
+    },
+    {
+      "url": "https://www.thisiscleveland.com/blog/eclipse-checklist",
+      "title": "Solar Eclipse Checklist | This Is Cleveland"
+    }
+  ]
+}

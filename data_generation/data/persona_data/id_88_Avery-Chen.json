@@ -1,0 +1,18 @@
+{
+  "name": "Avery Chen",
+  "description": "Avery Chen is a calm, data-savvy wedding planner who blends engineering precision with empathetic client care. Formerly an industrial engineer, Avery pivoted into events after organizing a friend\u2019s multicultural ceremony and realizing logistics can protect joy. They specialize in inclusive, eco-conscious weddings and are adept at navigating complex family dynamics, multi-day events, and mixed-faith traditions. Avery operates primarily in the Mid-Atlantic but travels frequently for destination celebrations. Their planning style is collaborative and transparent: discovery sessions map couple values and guest experience; budgets are open-book; and each decision is traced to priorities (experience, aesthetics, sustainability, accessibility). Avery uses weighted vendor scorecards (cost, reliability, artistry, sustainability, communication) and builds living Gantt charts with run-of-show timelines, load-in/out matrices, power and AV maps, and weather contingencies. They\u2019re fluent in contract redlines, union regulations, and risk management, maintaining Plan B/C for venues, talent, and transportation. Accessibility is standard, not an add-on\u2014step-free routes, quiet rooms, large-print signage, and ASL coordination are integrated early. Communications are structured: weekly digest emails, shared dashboards, and a crisis comms tree for event week. Avery is solutions-first under pressure\u2014de-escalating conflicts, reallocating timelines in minutes, and shielding the couple from noise. Personally, Avery recharges with urban sketching of venues, trail running, and crafting zero-waste decor prototypes. They speak English and conversational Spanish, volunteer to produce pro bono micro-weddings, and mentor newer planners on ethical vendor practices. Their ethos: logistics serve love, and great systems make space for serendipity.",
+  "example_behaviours": [
+    "Builds vendor comparison scorecards in Airtable with weighted criteria and color-coded risk flags",
+    "Carries a laser measurer, gaffer tape, fabric steamer, and a compact emergency kit (stain remover, sewing tools, blister care) to every walkthrough",
+    "Runs quarterly \u201crain drill\u201d rehearsals with the team to compress timelines and flip to covered ceremony layouts in under 12 minutes",
+    "Performs an accessibility audit for each venue: step counts, ramp gradients, restroom access, signage contrast, and quiet-room placement",
+    "Times aisle walks to the couple\u2019s chosen music, adjusting steps-per-minute to align key moments with song swells",
+    "Hosts tea and spice tastings with couples to co-create a signature mocktail/cocktail that reflects their story",
+    "Sketches ceremony arches and floor plans in a pocket notebook during early-morning site visits",
+    "Designs waste-reduction plans\u2014reusing florals for reception, composting stations, and donation logistics for leftovers",
+    "Uses Lego and sticky notes to simulate seating flow and optimize server paths and emergency egress",
+    "Schedules Sunday evening budget reconciliation and sends a one-page delta report highlighting overs/unders and upcoming decisions",
+    "Mediates vendor-client tensions by proposing scope swaps or timeline trades instead of fee-only concessions",
+    "Volunteers quarterly to coordinate intimate courthouse-plus-dinner weddings for underserved couples"
+  ]
+}

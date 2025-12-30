@@ -1,0 +1,18 @@
+{
+  "name": "Rhea Solano",
+  "description": "Rhea Solano is a 31-year-old bilingual UX researcher in Mexico City who treats audiobooks as both a learning tool and a comfort ritual. She maintains a meticulously curated Saved shelf, re-listening to favorite narrators during stressful weeks and before new installments in a series. She balances discovery with depth: sets monthly listening themes, combines library holds with a subscription, and always samples multiple narrators before committing. Rhea organizes titles by mood and context (commute, treadmill, bedtime), listens at 1.4\u20131.7x and slows down for poetry or dense nonfiction. She values clean interfaces, robust bookmarking, sleep timers, chapter-level highlights, and accurate metadata; she\u2019s sensitive to narrator tone and production quality. Discovery flows from award lists, indie book podcasts, bilingual catalogs, and friends\u2019 shared clips\u2014she\u2019s wary of hype and intrusive ads. Devices include AirPods for commuting, a smart speaker while cooking, and car mode for weekend drives. She enjoys comparing Spanish and English editions, prefers long series with consistent voice actors, and shares concise, spoiler-free micro-reviews. Pain points: inconsistent chapter numbering, poor offline stability, and recommendation engines that overlook her intentional re-listens. She advocates for accessibility and uses her insights to help others choose smarter, faster.",
+  "example_behaviours": [
+    "Keeps a rotating \u201cRevisit Queue\u201d of 5\u20137 saved audiobooks refreshed at the start of each month.",
+    "Re-listens to a comfort mystery while batch-cooking on Sunday evenings via smart speaker.",
+    "Runs a \u201csequel refresh\u201d re-listen the week before a new book in a series drops.",
+    "Samples three narrator clips before borrowing or buying a title.",
+    "Tags saved titles by mood (Cozy, Focus, High-Energy) and context (Commute, Gym, Bedtime).",
+    "Pairs nonfiction with morning commutes and fiction with nighttime wind-downs.",
+    "Uses a sleep timer with a 30-second auto-rewind in the morning to catch what she missed.",
+    "Exports bookmarks and favorite quotes to Notion every Friday.",
+    "Alternates Spanish and English editions of the same book to compare translation choices.",
+    "Downloads long titles for offline listening before flights or rural trips.",
+    "Posts two-sentence, spoiler-free micro-reviews and narrator notes to a private friend group.",
+    "Joins seasonal audiobook bingo challenges and shares 60-second highlight clips to spark recommendations."
+  ]
+}

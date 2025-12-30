@@ -1,0 +1,18 @@
+{
+  "name": "Maya Desai",
+  "description": "Maya is a 31-year-old product marketing strategist living in London who treats luxury fashion like a research project. Analytical and aesthetically driven, she tracks runway seasons, fabric compositions, and house sizing nuances to compare designer brands before buying. She maintains a capsule wardrobe anchored by investment pieces and complements it with seasonal accents, prioritizing craftsmanship, sustainability, and price-per-wear. Maya follows fashion weeks via livestreams, reads industry newsletters, and saves detailed notes on cuts, stitching, and provenance. She shops both new and pre-owned, times purchases around currency shifts and seasonal sales, and has standing wishlists, restock alerts, and consignment credits. Socially, she\u2019s active on style forums and curates moodboards that blend archival references with contemporary silhouettes. She has a pragmatic relationship with brands\u2014loyal to quality, not logos\u2014and maintains rapport with boutique associates for early access and accurate sizing guidance. Maya\u2019s end goal is a wardrobe that evolves slowly, feels current without chasing micro-trends, and tells a cohesive story about her taste and values.",
+  "example_behaviours": [
+    "Maintains a price-per-wear spreadsheet and updates it quarterly",
+    "Tracks runway looks on a tagging app, linking silhouettes to comparable archive pieces",
+    "Sets multi-retailer price and restock alerts for the same item to compare fluctuations",
+    "Schedules boutique appointments to examine stitching, edge paint, and hardware finishes in person",
+    "Uses AR try-on and virtual styling tools to test proportions before purchase",
+    "Creates seasonal moodboards and a personal lookbook to guide buying decisions",
+    "Sells and buys via trusted consignment platforms to rotate pieces responsibly",
+    "Subscribes to industry newsletters and runway recaps; annotates trends by longevity",
+    "Logs fabric composition and care notes to predict drape, wrinkle resistance, and durability",
+    "Times purchases during travel for tax refunds and favorable exchange rates",
+    "Keeps a reference chart of brand-specific sizing and last shapes for footwear",
+    "Hosts occasional closet edit sessions for friends, swapping or lending statement pieces"
+  ]
+}

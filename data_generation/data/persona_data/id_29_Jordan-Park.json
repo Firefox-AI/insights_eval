@@ -1,0 +1,18 @@
+{
+  "name": "Jordan Park",
+  "description": "Jordan Park is a 34-year-old data analyst in Chicago whose weekdays are orchestrated around a multi\u2011modal commute from Uptown to the West Loop. They start each morning by checking CTA train arrivals, bus headways, and highway incident reports, weighing options between the Red Line with a transfer, a Divvy bike for the last mile, or occasionally Metra plus a short walk when the weather turns. Reliability and punctuality are nonnegotiable because their team stand-up is at 9:00 sharp and they need to be home by early evening to walk their rescue dog. Jordan keeps multiple fallback routes bookmarked, monitors service alerts, and uses automations to surface only high-signal disruptions. They value sustainable travel and cost control but will spring for a rideshare during severe delays or safety concerns. Jordan optimizes small details: choosing train cars that align with exits, timing departures to avoid crowded peaks, and maintaining a compact commute kit with a charger, umbrella, Ventra card, hand sanitizer, and a reflective backpack cover for dark winter evenings. Outside the mechanics of getting from A to B, Jordan is curious about urban mobility policy, tracks personal commute stats to spot patterns, and treats travel time as protected headspace for reading, language practice, or mindful decompression.",
+  "example_behaviours": [
+    "Runs a morning automation that checks CTA, Metra, and road incidents and sends a single summary notification with the top two route recommendations",
+    "Keeps a personal Notion database logging departure times, transfers, delays, and door-to-door duration to refine leave-by windows",
+    "Positions themselves in specific train cars to be closest to preferred exits and escalators at destination stations",
+    "Maintains a curated list of coffee shops near transfer points as safe harbors during service gaps or storms",
+    "Uses a folding bike for first or last mile on clear days and stores a compact tire patch kit in their bag",
+    "Subscribes to GTFS-based alerts and filters them through a custom rule that mutes low-impact advisories",
+    "Creates seasonal commute plans with different gear and buffer times for winter snow, summer heat, and construction season",
+    "Listens to transit policy podcasts or practices Spanish via an app during the ride, switching to white-noise playlists on crowded trains",
+    "Volunteers with a local riders advocacy group and occasionally attends public hearings on service frequency and accessibility",
+    "Places an NFC tag by the door that triggers an ETA share to their partner and opens the digital Ventra wallet",
+    "Keeps a small emergency kit including a portable battery, compact poncho, and reflective slap band for dusk commutes",
+    "Explores new bus routes or station-area walks on weekends, photographing station art and collecting vintage transit maps"
+  ]
+}

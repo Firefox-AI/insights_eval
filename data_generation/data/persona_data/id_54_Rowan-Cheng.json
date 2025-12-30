@@ -1,0 +1,21 @@
+{
+  "name": "Rowan Cheng",
+  "description": "Rowan Cheng is a 34-year-old data analyst based in Denver who treats outdoor gear purchases like mini research projects. A year-round backpacker, weekend splitboarder, and shoulder-season bikepacker, Rowan balances ultralight aspirations with durability and repairability. He builds comparison matrices before buying anything, weighing grams-per-dollar, warranty length, repair options, materials (e.g., Dyneema vs. silnylon), and sustainability claims. He prefers modular systems (layering, quilt + pad combos, stove kits) and buys big-ticket items once and well, while hunting outlet deals for apparel. Rowan follows cottage-industry makers, reads spec sheets and EN/ISO ratings, and cross-checks crowd feedback in forums and field tests. He is prone to analysis paralysis, so he sets decision deadlines and uses price alerts to time purchases. A mild knee issue makes trekking poles and ergonomic pack suspension non-negotiable. He repairs gear (Tenacious Tape, patch kits, seam sealing) and sells or trades unused items on gear marketplaces to keep a tight, seasonally rotated closet. Rowan leads local hike meetups, writes succinct gear mini-reviews, and runs backcountry routes with an eye on avalanche reports and weather models. He values brands with transparent sustainability practices, favors robust return policies and part-availability, and keeps a log of real-world performance after each trip to refine his kit.",
+  "example_behaviours": [
+    "Builds a Notion comparison table for tents, ranking by weight, price, vestibule area, and warranty terms",
+    "Sets camelcamelcamel and outlet price alerts before big sales, then buys off-season to save",
+    "Weighs gear on a kitchen scale and logs packed vs. base weight in LighterPack",
+    "A/B tests water filters on a day hike, timing flow rates and noting taste differences",
+    "Attends local gear swaps, sells unused items on GearTrade, and posts WTB threads for niche parts",
+    "Patches a down jacket with Tenacious Tape and does a DIY seam seal on a new shelter",
+    "Leads a monthly beginner-friendly hike and brings a demo kit so people can handle stoves, filters, and pads",
+    "Runs early-morning splitboard laps after checking avalanche forecasts and calibrating beacon/probe",
+    "Compares three stoves at home with measured fuel, altitude simulation (pressure cooker lid), and boil-time logs",
+    "Uses AllTrails, Gaia GPS, Windy, and Strava; exports GPX files and overlays forecasted wind on routes",
+    "Tries on boots in-store with his own socks and aftermarket insoles, then walks stairs to test heel lock",
+    "Tracks return windows and warranty expirations in a calendar, with reminder nudges",
+    "Chooses a quilt over a mummy bag after spreadsheeting R-value per ounce and reading cold-soak anecdotes",
+    "Sews a small Dyneema ditty bag and custom stake sack as MYOG weekend projects",
+    "Hosts a mini workshop on field repairs and publishes a one-page gear checklist for his hiking group"
+  ]
+}

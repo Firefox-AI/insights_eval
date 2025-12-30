@@ -1,0 +1,18 @@
+{
+  "name": "Maya Chen",
+  "description": "Maya is a 29-year-old product analyst in Austin who treats her activewear closet like a well-run project. She trains five days a week\u2014morning runs, two strength sessions, a weekend yoga class, and the occasional bouldering session\u2014so she seeks apparel that balances performance, durability, and price. Pragmatic and data-driven, Maya compares fabrics (nylon vs. polyester blends, GSM, and elastane percentages), construction details (flatlock seams, gussets, bonded hems), and real-user photo reviews before purchasing. She\u2019s budget-conscious but strategic: invests in high-wear staples and hunts discounts for trend pieces. Fit consistency, compression level, squat-proof opacity, pocket depth, breathability, and waistband stability are her top criteria. Digitally savvy, she stacks loyalty points and cashback, sets price alerts, and maintains a gear log with cost-per-wear and wash outcomes. She prefers brands with transparent sustainability claims, inclusive sizing (including petite lengths), robust return policies, and community programming. Her pain points are inconsistent sizing across collections, greenwashing, pilling after a few washes, and shallow or missing pockets. She aims to maintain a versatile capsule wardrobe in muted tones with a few seasonal accents, reduce decision fatigue, and keep purchases intentional while training for her next half marathon.",
+  "example_behaviours": [
+    "Sets price alerts and compares items in a spreadsheet by fabric blend, inseam, opacity tests, and return policy terms.",
+    "Stacks savings by combining loyalty points, credit card rewards, and cashback portals on sale days.",
+    "Performs a \u2018movement test\u2019 in-store\u2014deep squats, lunges, and jump tucks\u2014to check opacity and waistband slippage.",
+    "Logs size, fit notes, and fabric performance by brand in Notion, including cost-per-wear.",
+    "Washes gear in cold on gentle, uses a mesh bag, and air-dries to prevent pilling and loss of compression.",
+    "Resells lightly used pieces on peer-to-peer platforms and uses take-back programs for worn-out items.",
+    "Joins brand-hosted community runs or yoga classes to field-test apparel before committing to multiples.",
+    "Reads fiber content labels and fabric weights, avoiding blends that historically pill for her skin and routine.",
+    "Keeps a monthly activewear budget cap and defers non-essentials to a 30-day \u2018cooling-off\u2019 list.",
+    "Measures inseams and rise at home to cross-check against size charts before ordering multiple sizes with free returns.",
+    "Creates neutral capsule outfits with mix-and-match tops and leggings, scheduling laundry around training blocks.",
+    "Posts short, honest try-on reviews with movement clips on social platforms to help others with similar measurements."
+  ]
+}

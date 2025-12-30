@@ -1,0 +1,21 @@
+{
+  "name": "Aria Mendoza",
+  "description": "Aria is a detail\u2011oriented, safety\u2011minded learner building a foundation to become a certified drone operator. With a background in environmental science and a love for photography, she approaches drones as both a creative tool and a data\u2011gathering instrument. Aria\u2019s learning path emphasizes understanding national aviation rules, airspace classes, privacy and ethics, and weather impacts on flight. She keeps meticulous logs, builds checklists, and practices deliberate skills progression\u2014from simulator sessions to controlled field exercises. Naturally curious but risk\u2011aware, Aria seeks mentorship from local pilots, participates in community clubs, and keeps up with evolving regulations and best practices. She\u2019s motivated by creating beautiful, responsible aerial imagery and by using drones for good\u2014like habitat mapping or community events\u2014while maintaining strong operational discipline around preflight planning, emergency procedures, and respect for people and property.",
+  "example_behaviours": [
+    "Studies local and national drone regulations weekly, including airspace classifications, remote ID requirements, and privacy guidelines",
+    "Uses a flight simulator 20 minutes a day to practice orientation, yaw control, and smooth camera moves",
+    "Builds and iterates on preflight and postflight checklists, adding lessons learned after each sortie",
+    "Checks weather, NOTAMs, and temporary flight restrictions before planning any flight",
+    "Practices basic maneuvers (hovering, squares, circles, figure\u20118s) in an empty field with clear visual lines and a defined safety perimeter",
+    "Maintains a detailed flight log with battery cycles, firmware versions, wind conditions, and notes on pilot performance",
+    "Joins a weekend photography walk, then overlays aerial shots with ground images to study composition and lighting",
+    "Participates in a local drone club\u2019s safety briefings and peer debriefs to review incidents and near\u2011misses",
+    "Experiments with mapping workflows on practice sites, creating orthomosaics and basic elevation models for learning purposes",
+    "Keeps a \u201cno\u2011fly\u201d personal ethics checklist\u2014avoids sensitive areas and obtains consent when filming near people or private property",
+    "Runs battery care routines: balanced charging, storage voltages, and labeling by cycle count",
+    "Uses planning apps to confirm airspace and, where applicable, requests digital authorization for controlled airspace",
+    "Sets monthly goals (e.g., smoother parallax shots, better horizon level, improved wind compensation) and tracks progress",
+    "Reads accident reports and safety case studies to internalize human\u2011factors lessons",
+    "Volunteers to help a community group document a park restoration project with properly permitted flights and clear communication to bystanders"
+  ]
+}

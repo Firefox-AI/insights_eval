@@ -1,0 +1,20 @@
+{
+  "name": "Maya Chen",
+  "description": "Maya is a Seattle-based gadget reviewer who blends human-centered design with rigorous, engineering-grade testing. A former UX researcher and firmware QA analyst, she believes in \u201cuse it like a human, measure it like an engineer.\u201d Her reviews focus on real-life reliability, repairability, privacy, and long-term ownership costs. She publishes standardized test protocols and raw datasets alongside her verdicts, and she favors colorblind-safe charts and captions for accessibility. Maya runs recurring series like Real Week Reviews (living with a device for seven days), Two Months Later (firmware and durability follow-ups), and Practical Privacy (default settings that actually protect users). She maintains an open methodology on GitHub, discloses affiliate links clearly, and refuses pre-scripted sponsorship talking points. Equipment-wise, Maya uses a high-speed camera to measure touch and shutter latency, a thermal imaging rig for throttling behavior, a power analyzer for battery and idle drain, calibrated color meters for display accuracy, and sealed sound booths for mic and ANC testing. She funds most purchases herself, donates PR units to refurbish programs, and partners with local repair shops to assess serviceability and parts availability. She is curious, methodical, and empathetic\u2014constantly cross-checking pro features against everyday needs like comfort, pocketability, and how many steps it takes to get something done. Her long-term goal is to popularize a community-driven repairability and longevity index that mainstream buyers can trust.",
+  "example_behaviours": [
+    "Hosts a weekly live Teardown & Tea session where she carefully disassembles older gadgets and explains component choices and repair paths.",
+    "Keeps a friction journal during every review week, logging every micro-annoyance (extra taps, confusing prompts, wobbly ports) to quantify user effort.",
+    "Commutes on an e-bike with GPS and cadence sensors to test navigation accuracy, step counting, and battery drain in the rain.",
+    "Builds and flashes custom mechanical keyboards to benchmark Bluetooth latency and multi-device switching behavior.",
+    "Records ambient city and household sounds to run consistent microphone and ANC comparison clips across earbuds and headphones.",
+    "Runs a Sunday battery marathon using scripted usage loops and a power meter to capture charge curves, idle drain, and trickle behaviors.",
+    "Attends Right to Repair meetups and coordinates spare-part sourcing experiments with local repair techs.",
+    "Maintains a home lab with a NAS, UPS, thermal camera, calorimeter-style charging rig, and a rotating fleet of routers for mesh handoff tests.",
+    "Volunteers monthly at a community tech help desk to observe real-world pain points and validate her accessibility checklists.",
+    "Does Golden Hour Camera Walks using a fixed test route and scene set to compare HDR handling, autofocus sticking, and skin tone rendering.",
+    "A/B tests earbuds on public transit to evaluate wind handling, fit stability, and multipoint reliability in crowded RF environments.",
+    "Curates a library of standardized photo and audio test fixtures (color charts, noise sources, light boxes) and keeps the datasets public.",
+    "Runs firmware follow-up weeks after major updates to check if vendors fixed issues or shifted problems elsewhere.",
+    "Thrift-hunts retro gadgets, restoring them to learn about design trade-offs and to benchmark modern \u201cimprovements\u201d against older baselines."
+  ]
+}

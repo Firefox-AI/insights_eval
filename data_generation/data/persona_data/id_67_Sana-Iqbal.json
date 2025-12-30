@@ -1,0 +1,20 @@
+{
+  "name": "Sana Iqbal",
+  "description": "Sana is a methodical, hype-resistant tech enthusiast who treats product launches like weather systems to be tracked, mapped, and compared. A UX researcher at a small accessibility-focused startup, she follows software and hardware news not just for novelty but to assess real-world impact\u2014especially for users with diverse abilities and bandwidth constraints. She maintains a personal \u201crelease radar\u201d pipeline that ingests RSS feeds, vendor roadmaps, changelogs, and developer forums, then tags items by maturity (rumor, preview, GA) and potential user benefit. Sana is analytical yet warm; she mentors friends on sensible upgrade cycles, keeps a running model of total cost of ownership, and prioritizes privacy and repairability. She keeps a tiny home lab to validate marketing claims\u2014benchmarking drivers, testing firmware, and noting gotchas in a shared Notion page. Outside work, Sana decompresses by building custom mechanical keyboards and biking to independent coffee shops, where she writes short, jargon-free explainers on what new releases actually mean. She measures her accuracy by logging predictions and postmortems, adjusts her sources accordingly, and loves turning chaos into comprehensible summaries.",
+  "example_behaviours": [
+    "Starts mornings skimming curated RSS folders labeled Ship, Roadmap, and Rumor, starring only items with primary sources",
+    "Maintains a living spreadsheet that tracks chip codenames, process nodes, and projected vs actual release dates",
+    "Diffs release notes and API docs with a custom script to surface breaking changes and silent deprecations",
+    "Runs mini-benchmarks in a home lab (NUC + low-power server) to verify performance claims",
+    "Joins beta programs selectively, logging bugs with reproducible steps and impact notes",
+    "Hosts a monthly Patch Tuesday call with friends to review critical CVEs and safe update timing",
+    "Uses price alerts and depreciation curves to recommend optimal upgrade windows for family devices",
+    "Writes plain-language explainers on accessibility implications of new UI patterns or OS features",
+    "Keeps an accuracy diary, scoring rumor sources and adjusting trust weights over time",
+    "Builds custom mechanical keyboards and swaps switches based on typing context (research vs long-form writing)",
+    "Bikes to different cafes to test Wi\u2011Fi stability and note captive portal quirks in a personal map",
+    "Collects and tests privacy-respecting alternatives to mainstream apps, sharing a vetted toolkit quarterly",
+    "Attends livestream keynotes with a second screen open for spec sheets and cross-vendor comparisons",
+    "Volunteers at a community center to help seniors update devices and set sane default settings"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Lena Park",
+  "description": "Lena is a Seattle-based hobbyist film reviewer known for punchy, conversational write-ups that blend humor with granular notes on sound design, editing rhythm, and character arcs. By day she works in UX research; by night she\u2019s on Letterboxd and forum threads championing microbudget indies, Hong Kong action, and cozy comfort rewatches. She favors practical effects over CGI, logs everything in a color\u2011coded Notion database, and adds content warnings and spoiler sections to keep discussions considerate. Lena\u2019s signature is the Three\u2011Snack Test (Popcorn, Kettle, Spicy, or Burnt) to convey watchability and vibe. She curates vibe-based lists like \u201cTender Robots,\u201d \u201cRain-Soaked Cityscapes,\u201d and \u201cBreakups with Great Lighting,\u201d and hosts a weekly Discord watch party with polls for double-feature pairings. She volunteers at a community cinema, swaps physical media at local meetups, and spotlights one under-seen film each week. Her style invites counterpoints, often ending reviews with open questions to spark respectful debate.",
+  "example_behaviours": [
+    "Posts Monday Mini-Reviews: three films, three sentences each, with a quick Three\u2011Snack rating",
+    "Runs Weird Wednesday double-features (e.g., Primer + Timecrimes; Police Story + The Raid) with pre-show trivia",
+    "Maintains a Notion tracker with tags for mood, pacing, needle-drops, and standout shots, plus a color code for rewatch priority",
+    "Hosts a Sunday Stack Discord watch party where attendees vote on the second feature via live polls",
+    "Builds Spotify playlists for Soundtrack Sunday using cues discovered during the week",
+    "Adds spoiler-safe sections and content warnings to every forum review, with time-stamped notes for sensitive content",
+    "Collects thrifted DVDs and annotates ticket stubs with a one-line takeaway and a favorite frame number",
+    "Live-blogs local film festivals with day-by-day threads, sharing short reactions and \u201cbest shorts\u201d picks",
+    "Runs a quarterly Comfort Rewatch bracket where the community votes titles through semifinals and finals",
+    "Writes \u201cFix-It Edit\u201d posts proposing small changes (scene trims, reorderings) to improve pacing in near-miss films"
+  ]
+}

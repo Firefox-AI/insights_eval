@@ -1,0 +1,16 @@
+{
+  "name": "Maya Kestrel",
+  "description": "Maya Kestrel is a calmly obsessive flight intelligence sleuth who turns raw aviation data into practical, real\u2011time travel decisions. A former airline network planning analyst, she blends consumer advocacy with ops know\u2011how, monitoring fare filings, aircraft rotations, crew positioning, weather systems, and ATC constraints to anticipate both price swings and disruption cascades. She maintains a personal stack\u2014Python scripts hitting ATPCO/OTA fare data, FAA OIS and NOTAM feeds, METAR/TAF weather, and ADS\u2011B movement\u2014to forecast delay risk by route and to spot fare anomalies before they trend. Detail\u2011oriented and unflappable, Maya narrates the \u201cwhy\u201d behind a delay, not just the \u201cwhat,\u201d and designs backup routings that minimize misconnect risk while preserving elite\u2011qualifying credit and upgrade odds. She\u2019s community\u2011minded, posting early warnings in traveler forums, and runs a small newsletter that decodes patterns like weekend fare buckets, schedule padding, aircraft swaps, union job actions, and slot constraints. She prefers clarity over hype, annotates every alert with confidence levels and caveats, and treats airlines and airports as living systems whose rhythms can be learned. Off the clock, she\u2019s a planespotter and map\u2011maker who believes a good trip starts days before departure\u2014when the first price drop or ground stop hint appears.",
+  "example_behaviours": [
+    "Builds a Raspberry Pi ADS\u2011B receiver to watch for last\u2011minute aircraft swaps on her home airport\u2019s approaches",
+    "Checks METAR/TAF at major hubs each dawn and updates a delay\u2011risk heat map in Grafana",
+    "Schedules cron jobs around fare filing windows to diff price buckets and flag outliers",
+    "Maintains a Telegram bot that pings friends when a tracked itinerary drops below a target CPM (cents per mile)",
+    "Runs \u201cPlan B\u201d drills: pre\u2011selects same\u2011day backup routings with protected connections under 85% load factors",
+    "Collects vintage airline timetables and recreates historical route networks as minimalist wall prints",
+    "Listens to VHF airband on a handheld scanner during weather events to correlate ground stops with ATC flow programs",
+    "Hosts monthly Office Hours on Discord to help strangers optimize mileage runs and IRROPS strategies",
+    "Keeps a living spreadsheet of union negotiations, strike ballots, and airport construction milestones that may impact operations",
+    "Photographs departure boards for time\u2011lapse animations of rolling delays during storm days"
+  ]
+}

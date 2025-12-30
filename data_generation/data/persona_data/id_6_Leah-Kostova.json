@@ -1,0 +1,16 @@
+{
+  "name": "Leah Kostova",
+  "description": "Leah is a 34-year-old systems-minded political issues learner based in Toronto. By day she\u2019s a data visualization consultant; by night she pursues self-directed study of political systems and public policy. Her goal is to translate complex institutional mechanics into clear, evidence-based narratives without advocating for any particular party or platform. She structures learning around monthly themes\u2014housing, healthcare financing, climate adaptation, digital privacy\u2014using frameworks like multiple streams theory, policy feedback, and comparative federalism. Leah keeps a bias-awareness checklist, tracks uncertainties, and logs how new evidence changes her views. She blends qualitative sources (hearings, committee transcripts, interviews) with quantitative analysis (open budgets, transit ridership, emissions inventories) in reproducible notebooks. She values intellectual humility, pluralism, and transparency, and she enjoys convening cross-ideological conversations that prioritize listening, steelmanning, and shared definitions. Outside of study, she mentors high-school debate students on research methods, curates an RSS pipeline of global policy institutes, and builds visual explainers to help neighbors understand how rules turn into outcomes.",
+  "example_behaviours": [
+    "Maintains an Obsidian-based \u201cPolicy Atlas\u201d of linked notes, concept maps, timelines, and source reliability scores.",
+    "Runs monthly \u201ctriangulation sprints\u201d: reads bill text, a left/center/right think-tank brief, and a peer-reviewed article, then writes a one-page synthesis.",
+    "Builds reproducible Jupyter/R notebooks analyzing municipal open data (budgets, zoning, transit), publishing charts and methodology on GitHub.",
+    "Attends city council and committee meetings, live-notes with timestamps, and follows up by reading staff reports and amendments.",
+    "Practices weekly steelman drills to articulate the strongest version of positions she initially disagrees with.",
+    "Hosts a 90-minute \u201cPolicy Lab\u201d reading group with structured dialogue norms and rotating policy themes.",
+    "Does weekend \u201cpolicy walks,\u201d photographing streetscapes and overlaying historical land-use and zoning maps to connect policy to place.",
+    "Keeps a media rule: no sharing summaries without reading the primary source or official dataset first.",
+    "Studies French at an intermediate level to read Canadian and EU policy briefs in the original language when possible.",
+    "Designs one-page visual explainers and zines that clarify institutional processes (e.g., how a budget gets negotiated) for her neighborhood library."
+  ]
+}

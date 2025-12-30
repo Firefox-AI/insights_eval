@@ -1,0 +1,1714 @@
+{
+  "css grid vs flexbox when to use": [
+    {
+      "url": "https://webdesign.tutsplus.com/flexbox-vs-css-grid-which-should-you-use--cms-30184a",
+      "title": "CSS Grid vs. Flexbox: Which should you use and when?"
+    },
+    {
+      "url": "https://www.c-sharpcorner.com/article/css-grid-vs-flexbox-when-to-use-which-for-modern-layouts/",
+      "title": "CSS Grid vs Flexbox: When to Use Which for Modern Layouts"
+    },
+    {
+      "url": "https://wedesignmarbella.com/css-grid-vs-flexbox/",
+      "title": "CSS Grid vs. Flexbox: Which Should You Use and When?"
+    },
+    {
+      "url": "https://livehtmlviewer.com/blog/css-grid-vs-flexbox",
+      "title": "CSS Grid vs. Flexbox: Which One Should You Use in 2025?"
+    },
+    {
+      "url": "https://blog.logrocket.com/css-flexbox-vs-css-grid/",
+      "title": "When to use Flexbox and when to use CSS Grid - LogRocket Blog"
+    }
+  ],
+  ":has selector practical examples": [
+    {
+      "url": "https://www.lambdatest.com/blog/css-has-selector/",
+      "title": "Complete Guide to CSS : has () Selector | LambdaTest"
+    },
+    {
+      "url": "https://blog.logrocket.com/how-when-use-css-has-selector/",
+      "title": "How and when to use the CSS : has selector - LogRocket Blog"
+    },
+    {
+      "url": "https://blog.openreplay.com/how-to-use-the-css-has-selector/",
+      "title": "How to use the CSS : has Selector"
+    },
+    {
+      "url": "https://www.sitepoint.com/has-selector-in-css/",
+      "title": "An Introduction to the : has () Selector in CSS \u2014 SitePoint"
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2023/01/level-up-css-skills-has-selector/",
+      "title": "Level Up Your CSS Skills With The : has () Selector"
+    }
+  ],
+  "container queries tutorial 2025": [
+    {
+      "url": "https://cssauthor.com/master-css-container-queries-a-hands-on-tutorial/",
+      "title": "Master CSS Container Queries: A Hands-On Tutorial for 2025"
+    },
+    {
+      "url": "https://medium.com/@vyakymenko/css-2025-container-queries-and-style-queries-in-real-projects-c38af5a13aa2",
+      "title": "CSS 2025 Container queries and style queries in real projects"
+    },
+    {
+      "url": "https://johal.in/css-container-queries-tutorial-step-by-step-guide-for-2025-developers/",
+      "title": "CSS Container Queries Tutorial: Step-by-Step Guide for 2025 Developers"
+    },
+    {
+      "url": "https://learnwebcraft.com/learn/css/css-container-queries",
+      "title": "CSS Container Queries & Scoped Responsive Components"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=N1zpqJI8NVk",
+      "title": "Master @Container Queries in CSS 2025 | New Web Design Revolution"
+    }
+  ],
+  "css subgrid support and examples": [
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Grid_layout/Subgrid",
+      "title": "Subgrid - CSS | MDN - MDN Web Docs"
+    },
+    {
+      "url": "https://dev.to/mechcloud_academy/css-subgrid-tutorial-a-comprehensive-guide-to-advanced-grid-layouts-2g4i",
+      "title": "CSS Subgrid Tutorial: A Comprehensive Guide to Advanced Grid Layouts"
+    },
+    {
+      "url": "https://prismic.io/blog/css-subgrid",
+      "title": "CSS Subgrid Guide: Syntax, Examples & Best Practices"
+    },
+    {
+      "url": "https://web.dev/articles/css-subgrid",
+      "title": "CSS subgrid | Articles | web.dev"
+    },
+    {
+      "url": "https://www.freecodecamp.org/news/what-is-css-subgrid/",
+      "title": "What is CSS Subgrid? A Practical Tutorial - freeCodeCamp.org"
+    }
+  ],
+  "fluid typography clamp calculator": [
+    {
+      "url": "https://royalfig.github.io/fluid-typography-calculator/",
+      "title": "Fluid Typography Calculator - GitHub Pages"
+    },
+    {
+      "url": "https://www.fluid-type-scale.com/",
+      "title": "Fluid Type Scale Calculator - Generate font size variables ..."
+    },
+    {
+      "url": "https://fluidtypography.com/",
+      "title": "Fluid Typography Tool"
+    },
+    {
+      "url": "https://clampcalculator.com/",
+      "title": "CSS Clamp Calculator"
+    },
+    {
+      "url": "https://clampgenerator.com/tools/font-size-typescale/",
+      "title": "Typescale Font Size Clamp Generator - Fluid CSS Calculator"
+    }
+  ],
+  "responsive images srcset sizes guide": [
+    {
+      "url": "https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/",
+      "title": "HTML Responsive Images Guide - CSS-Tricks"
+    },
+    {
+      "url": "https://floatui.com/blog/responsive-images-guide-srcset-sizes-attributes",
+      "title": "Responsive Images Guide: srcset, sizes Attributes - Float UI"
+    },
+    {
+      "url": "https://vayce.app/blog/responsive-images-guide/",
+      "title": "The Simple Guide to Responsive Images (srcset and sizes)"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Responsive_images",
+      "title": "Using responsive images in HTML - MDN Web Docs"
+    },
+    {
+      "url": "https://moldstud.com/articles/p-implement-responsive-images-with-srcset-and-sizes-guide",
+      "title": "Implement Responsive Images with srcset and sizes Guide"
+    }
+  ],
+  "variable fonts performance best practices": [
+    {
+      "url": "https://inkbotdesign.com/variable-fonts/",
+      "title": "Variable Fonts Explained: Reduce Bloat and Fix Layout Shifts"
+    },
+    {
+      "url": "https://nihstudio.com/variable-font-performance/",
+      "title": "Variable Font Performance Website: Boost Speed, UX, and Modern"
+    }
+  ],
+  "normalize.css vs modern css reset": [
+    {
+      "url": "https://www.geeksforgeeks.org/css/difference-between-reset-vs-normalize-css/",
+      "title": "Difference between reset vs normalize CSS - GeeksforGeeks"
+    },
+    {
+      "url": "https://cssanalyzer.com/modern-css-reset-vs-normalize-which-should-you-use/",
+      "title": "Modern CSS Reset vs Normalize: Which Should You Use in 2025?"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css",
+      "title": "What is the difference between Normalize.css and Reset CSS?"
+    },
+    {
+      "url": "https://codelucky.com/css-reset-vs-normalize/",
+      "title": "CSS Reset vs Normalize: Complete Guide to Default Style Standardization"
+    },
+    {
+      "url": "https://mattbrictson.com/blog/css-normalize-and-reset",
+      "title": "Making the case for CSS normalize and reset stylesheets in 2023"
+    }
+  ],
+  "sticky footer with flexbox simple": [
+    {
+      "url": "https://www.geeksforgeeks.org/html/how-to-create-a-sticky-footer-using-css-flexbox/",
+      "title": "How to Create a Sticky Footer Using CSS Flexbox?"
+    },
+    {
+      "url": "https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/",
+      "title": "Sticky Footer \u2014 Solved by Flexbox \u2014 Cleaner, hack-free CSS"
+    },
+    {
+      "url": "https://prismic.io/blog/css-sticky-footers",
+      "title": "CSS Sticky Footer Guide: Flexbox, Grid & Best Practices"
+    },
+    {
+      "url": "https://www.developerdrive.com/sticky-footer-with-flexbox/",
+      "title": "How to Create a Sticky Footer with Flexbox - Developer Drive"
+    },
+    {
+      "url": "https://dev.to/tailwine/css-flexbox-creating-a-sticky-footer-582h",
+      "title": "CSS Flexbox: Creating a Sticky Footer - DEV Community"
+    }
+  ],
+  "position sticky not working scrolling parent": [
+    {
+      "url": "https://stackoverflow.com/questions/46913063/positionsticky-does-not-leave-parent",
+      "title": "css - position:sticky does not leave parent - Stack Overflow Code sample"
+    },
+    {
+      "url": "https://www.browserstack.com/guide/why-css-position-sticky-is-not-working",
+      "title": "Why CSS Position Sticky is Not Working - BrowserStack"
+    },
+    {
+      "url": "https://polypane.app/blog/getting-stuck-all-the-ways-position-sticky-can-fail/",
+      "title": "Getting stuck: all the ways position:sticky can fail | Polypane"
+    },
+    {
+      "url": "https://blog.logrocket.com/troubleshooting-css-sticky-positioning/",
+      "title": "Troubleshooting CSS sticky positioning - LogRocket Blog"
+    },
+    {
+      "url": "https://www.w3tutorials.net/blog/apply-position-sticky-to-child-of-a-div/",
+      "title": "Position: Sticky Not Working on Div Child? How to Fix It"
+    }
+  ],
+  "ARIA roles for forms beginner": [
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Roles/form_role",
+      "title": "ARIA: form role - MDN Code sample"
+    },
+    {
+      "url": "https://moldstud.com/articles/p-creating-accessible-forms-with-aria-roles-a-practical-guide-for-web-developers",
+      "title": "Accessible Web Forms Using ARIA Roles Practical Developer ..."
+    }
+  ],
+  "color contrast checker WCAG 2.2": [
+    {
+      "url": "https://www.accessibility.build/tools/contrast-checker",
+      "title": "WCAG Contrast Checker | Color Contrast Checker | WCAG 2.2 & 3.0 | Free ..."
+    },
+    {
+      "url": "https://www.thecolorcontrastchecker.com/",
+      "title": "AI Color Contrast Checker | WCAG 2.1 and 2.2 Tool"
+    },
+    {
+      "url": "https://www.accessibilitychecker.org/color-contrast-checker/",
+      "title": "Accessibility Color Contrast Checker WCAG Compliance (2025)"
+    },
+    {
+      "url": "https://contrastcalculator.com/",
+      "title": "Contrast Calculator - Free WCAG 2.2 AA/AAA Checker"
+    },
+    {
+      "url": "https://www.ada-check.com/",
+      "title": "ADA Check - WCAG Color Contrast Checker"
+    }
+  ],
+  "prefers-reduced-motion media query examples": [
+    {
+      "url": "https://web.dev/articles/prefers-reduced-motion",
+      "title": "prefers - reduced - motion : Sometimes less movement is more | web.dev"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion",
+      "title": "prefers - reduced - motion - CSS | MDN"
+    },
+    {
+      "url": "https://www.w3.org/WAI/WCAG21/Techniques/css/C39.html",
+      "title": "C39: Using the CSS prefers - reduced - motion query to prevent... | W3C"
+    },
+    {
+      "url": "https://medium.com/@emenjivar/css-prefers-reduced-motion-media-query-de05c3db6885",
+      "title": "CSS prefers - reduced - motion Media Query | by EMenjivar | Medium"
+    },
+    {
+      "url": "https://practicaldev-herokuapp-com.global.ssl.fastly.net/plank/using-the-reduced-motion-media-query-in-a-project-34gb",
+      "title": "Using the reduced motion media query in a project - DEV Community"
+    }
+  ],
+  "dark mode with prefers-color-scheme": [
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-color-scheme",
+      "title": "prefers-color-scheme - CSS | MDN"
+    },
+    {
+      "url": "https://codelucky.com/css-prefers-color-scheme/",
+      "title": "CSS Prefers-Color-Scheme: Complete Guide to Dark Mode and Light Mode ..."
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/css/how-to-create-dark-mode-using-prefer-color-scheme-media-query/",
+      "title": "How to create dark mode using prefer-color-scheme media query"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/56300132/how-to-override-css-prefers-color-scheme-setting",
+      "title": "How to override css prefers-color-scheme setting - Stack Overflow"
+    },
+    {
+      "url": "https://dev.to/dct_technology/dark-mode-prefers-color-scheme-theming-in-modern-ui-4dfe",
+      "title": "Dark Mode, Prefers-Color-Scheme & Theming in Modern UI"
+    }
+  ],
+  "css logical properties margin-inline": [
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/margin-inline",
+      "title": "margin-inline - CSS - MDN"
+    },
+    {
+      "url": "https://css-tricks.com/css-logical-properties-and-values/",
+      "title": "CSS Logical Properties and Values - CSS-Tricks"
+    },
+    {
+      "url": "https://www.sitepoint.com/css-logical-properties-guide/",
+      "title": "A Complete Guide to CSS Logical Properties, with Cheat Sheet"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/css/logical-properties-in-css/",
+      "title": "Logical Properties in CSS - GeeksforGeeks"
+    },
+    {
+      "url": "https://lapidist.net/articles/2025/from-margin-left-to-margin-inline-why-logical-css-properties-matter/",
+      "title": "From margin-left to margin-inline: Why Logical CSS Properties Matter"
+    }
+  ],
+  "BEM naming cheat sheet": [
+    {
+      "url": "https://bem-cheat-sheet.9elements.com/",
+      "title": "BEM Naming Cheat Sheet by 9elements"
+    },
+    {
+      "url": "https://scalablecss.com/static/BEM-cheat-sheet-c5d485af76bc3ec0fd23140951861136.pdf",
+      "title": "BEM Cheat Sheet - Scalable CSS"
+    },
+    {
+      "url": "https://gist.github.com/jonlabelle/23328821e386b8fcd3ae07c55944e629",
+      "title": "BEM cheatsheet \u00b7 GitHub"
+    },
+    {
+      "url": "https://pitdesigns.com/tools_resources/bem-cheat-sheet-59/",
+      "title": "BEM Cheat Sheet - PIT Designs"
+    }
+  ],
+  "javascript debounce vs throttle codepen": [
+    {
+      "url": "https://dev.to/ashiqsultan/never-forget-debounce-and-throttle-again-visualise-them-codepen-included-4bi6",
+      "title": "Debounce and Throttle in JS. Visualize and Understand"
+    }
+  ],
+  "event loop microtask macrotask visualization": [
+    {
+      "url": "https://michaelsolati.com/blog/visualizing-the-event-loop-a-guide-to-microtasks-macros-and-timers",
+      "title": "Visualizing the Event Loop: A Guide to Microtasks, Macros ..."
+    },
+    {
+      "url": "https://javascript.info/event-loop",
+      "title": "Event loop: microtasks and macrotasks - The Modern JavaScript ..."
+    },
+    {
+      "url": "https://jsflow.info/",
+      "title": "JSFlow | JavaScript Runtime Visualizer - Learn Event Loop ..."
+    },
+    {
+      "url": "https://medium.com/@javascriptvisualized/eventloop-visualized-javascript-model-d5b9d5a93a38",
+      "title": "EventLoop Visualized JavaScript Model | by ... - Medium"
+    },
+    {
+      "url": "https://dev.to/nishanthan-k/understanding-the-event-loop-in-javascript-microtasks-macrotasks-and-asynchronous-execution-3037",
+      "title": "Understanding the Event Loop in JavaScript: Microtasks ..."
+    }
+  ],
+  "fetch abortcontroller timeout example": [
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal/timeout_static",
+      "title": "AbortSignal: timeout () static method - Web APIs | MDN"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/46946380/fetch-api-request-timeout",
+      "title": "javascript - Fetch API request timeout? - Stack Overflow"
+    },
+    {
+      "url": "https://dev.to/saurabh_raj_afaabe1844a4c/learn-abortcontroller-with-examples-never-to-look-back-again-38a3",
+      "title": "Learn AbortController with Examples - Never to look back again"
+    },
+    {
+      "url": "https://www.javascripttutorial.net/web-apis/javascript-abortcontroller/",
+      "title": "JavaScript AbortController"
+    },
+    {
+      "url": "https://codedrivendevelopment.com/posts/everything-about-abort-signal-timeout",
+      "title": "Everything about the AbortSignals (timeouts, combining signals, and how ..."
+    }
+  ],
+  "optional chaining vs nullish coalescing examples": [
+    {
+      "url": "https://blog.openreplay.com/mastering-javascript-optional-chaining-and-nullish-coalescing/",
+      "title": "Mastering JavaScript: optional chaining and nullish coalescing"
+    },
+    {
+      "url": "https://dev.to/shagun_mistry/optional-chaining-and-nullish-coalescing-o7j",
+      "title": "Optional Chaining and Nullish Coalescing - DEV Community"
+    },
+    {
+      "url": "https://medium.com/@Adekola_Olawale/working-with-optional-chaining-and-nullish-coalescing-3ab4404256f2",
+      "title": "Working with Optional Chaining and Nullish Coalescing"
+    },
+    {
+      "url": "https://javascript.plainenglish.io/streamline-your-javascript-code-with-optional-chaining-and-nullish-coalescing-525f273d2197",
+      "title": "Streamline Your JavaScript Code with Optional Chaining and ..."
+    },
+    {
+      "url": "https://atomizedobjects.com/blog/javascript/nullish-coalescing-and-optional-chaining/",
+      "title": "What is Nullish Coalescing and Optional Chaining in ..."
+    }
+  ],
+  "localStorage vs sessionStorage vs IndexedDB use cases": [
+    {
+      "url": "https://www.frontendtools.tech/blog/client-side-storage-guide-localstorage-sessionstorage-indexeddb",
+      "title": "Client-Side Storage Guide 2025: LocalStorage vs IndexedDB"
+    },
+    {
+      "url": "https://www.thatsoftwaredude.com/content/14097/web-storage-guide-localstorage-sessionstorage-indexeddb",
+      "title": "Understanding localStorage, sessionStorage, and IndexedDB"
+    },
+    {
+      "url": "https://futuristicgeeks.com/mastering-web-storage-the-ultimate-guide-to-localstorage-sessionstorage-cookies-and-indexeddb/",
+      "title": "Mastering Web Storage: The Ultimate Guide to LocalStorage ..."
+    },
+    {
+      "url": "https://javascript.plainenglish.io/how-cookies-localstorage-sessionstorage-and-indexeddb-work-a633f5b01062",
+      "title": "How Cookies, LocalStorage, SessionStorage, and IndexedDB Work"
+    },
+    {
+      "url": "https://namastedev.com/blog/local-storage-session-storage-and-indexeddb-choosing-the-right-client-storage/",
+      "title": "Local Storage, Session Storage, and IndexedDB: Choosing the ..."
+    }
+  ],
+  "course platforms with transcripts and chapter markers": [
+    {
+      "url": "https://screenapp.io/features/online-course-creator",
+      "title": "Online Course Creator - screenapp.io"
+    }
+  ],
+  "regex email validation pitfalls accessibility": [
+    {
+      "url": "https://dev.to/nikl/why-good-developers-never-use-regex-to-verify-emails-3h2a",
+      "title": "Why experienced developers never use regex for email validation? The Ultimate Email Validation Regex (2025 Edition) 5 Ways to Validate Emails with Regex - abstractapi.com Mastering Email Validation Regex: Tips and Tricks for Email ... Email Regex: Validation Guide, JavaScript Tips & Examples 5 Ways to Validate Emails with Regex - abstractapi.com Email Regex : Validation Guide, JavaScript Tips & Examples Email Validation Regex in Multiple Programming Languages Email Regex : Validation Guide, JavaScript Tips & Examples Email Validation Regex in Multiple Programming Languages"
+    },
+    {
+      "url": "https://flipperfile.com/developer-guides/regex/regex-email-validation/",
+      "title": "Regex Email Validation (Practical Patterns & Real Examples)"
+    }
+  ],
+  "import export default vs named modules": [
+    {
+      "url": "https://www.geeksforgeeks.org/javascript/difference-between-default-named-exports-in-javascript/",
+      "title": "Difference Between Default & Named Exports in JavaScript"
+    },
+    {
+      "url": "https://dev-aditya.medium.com/default-exports-vs-named-exports-in-esm-a-deep-dive-for-javascript-developers-b0803271de5d",
+      "title": "Default Exports vs Named Exports in ESM and CJS: A Deep Dive ..."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/46913851/why-and-when-to-use-default-export-over-named-exports-in-es6-modules",
+      "title": "javascript - Why and when to use default export over named ... Code sample"
+    },
+    {
+      "url": "https://dev.to/mahmud-r-farhan/importexport-default-vs-named-and-why-some-use-braces-37jd",
+      "title": "Import/Export: Default vs Named (And Why Some Use Braces)"
+    },
+    {
+      "url": "https://sqlpey.com/javascript/javascript-named-vs-default-exports/",
+      "title": "JavaScript ES Modules: Distinguishing Named vs Default"
+    }
+  ],
+  "this keyword in arrow functions vs regular": [
+    {
+      "url": "https://www.geeksforgeeks.org/javascript/behavior-of-arrow-functions-and-regular-functions-for-this-keyword/",
+      "title": "Behavior of Arrow functions and Regular Functions for this Keyword"
+    },
+    {
+      "url": "https://dev.to/hargun_singh/why-the-this-keyword-behaves-differently-in-regular-functions-and-arrow-functions-52j6",
+      "title": "Why the \"this\" Keyword Behaves Differently in Regular Functions and ..."
+    },
+    {
+      "url": "https://dev-aditya.medium.com/understanding-this-in-javascript-arrow-functions-vs-regular-functions-704a8452c4f1",
+      "title": "Understanding this in JavaScript: Arrow Functions vs. Regular Functions ..."
+    },
+    {
+      "url": "https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/",
+      "title": "Arrow Functions vs Regular Functions in JavaScript - What's the Difference?"
+    }
+  ],
+  "React useEffect cleanup patterns": [
+    {
+      "url": "https://blog.logrocket.com/understanding-react-useeffect-cleanup-function/",
+      "title": "Understanding React\u2019s useEffect cleanup function - LogRocket Blog"
+    },
+    {
+      "url": "https://react.dev/reference/react/useEffect",
+      "title": "useEffect \u2013 React"
+    },
+    {
+      "url": "https://mikitaaliaksandrovich.substack.com/p/advanced-useeffect-patterns-react",
+      "title": "Advanced useEffect Patterns for React Developers"
+    },
+    {
+      "url": "https://medium.com/javascript-decoded-in-plain-english/the-cleanup-function-in-reacts-useeffect-the-bug-fix-i-ignored-for-way-too-long-e83c71a485c1",
+      "title": "The Cleanup Function in React\u2019s useEffect: The Bug Fix I ..."
+    },
+    {
+      "url": "https://dev.to/werliton/useeffect-with-cleanup-function-in-react-what-it-is-when-to-use-it-and-why-k18",
+      "title": "`useEffect` with Cleanup Function in React: What It Is, When ..."
+    }
+  ],
+  "useEffect dependency array common mistakes": [
+    {
+      "url": "https://kinsta.com/blog/react-hook-useeffect-has-a-missing-dependency/",
+      "title": "How To Fix the \u201cReact Hook useEffect Has a Missing Dependency \u201d..."
+    },
+    {
+      "url": "https://medium.com/@akhshyganesh/react-useeffect-mistakes-that-junior-devs-make-05507d0978c3",
+      "title": "React useEffect mistakes that Junior Devs make | Medium"
+    },
+    {
+      "url": "https://www.freecodecamp.org/news/most-common-react-useeffect-problems-and-how-to-fix-them/",
+      "title": "React. useEffect Hook \u2013 Common Problems and How to Fix Them"
+    },
+    {
+      "url": "https://blog.stackademic.com/15-common-mistakes-beginners-make-with-react-hooks-f437df458a19",
+      "title": "15 Common Mistakes Beginners Make with React Hooks | Stackademic"
+    }
+  ],
+  "controlled vs uncontrolled inputs react": [
+    {
+      "url": "https://www.geeksforgeeks.org/reactjs/react-js-uncontrolled-vs-controlled-inputs/",
+      "title": "Uncontrolled Vs Controlled Inputs in React - GeeksforGeeks"
+    },
+    {
+      "url": "https://www.freecodecamp.org/news/what-are-controlled-and-uncontrolled-components-in-react/",
+      "title": "What are Controlled and Uncontrolled Components in React.js?"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/42522515/what-are-the-differences-between-controlled-and-uncontrolled-components-in-react",
+      "title": "What are the Differences Between Controlled and Uncontrolled ... Code sample"
+    },
+    {
+      "url": "https://dev.to/maximlogunov/controlled-vs-uncontrolled-components-in-react-a-practical-guide-k79",
+      "title": "Controlled vs. Uncontrolled Components in React: A Practical ..."
+    },
+    {
+      "url": "https://certificates.dev/blog/controlled-vs-uncontrolled-components-in-react",
+      "title": "Controlled vs Uncontrolled Components in React"
+    }
+  ],
+  "React Hook Form with Zod validation": [
+    {
+      "url": "https://medium.com/@toukir.ahamed.pigeon/react-hook-form-with-zod-validation-a-complete-guide-with-typescript-aacbcb370a8b",
+      "title": "React Hook Form with Zod Validation: A Complete Guide with ..."
+    },
+    {
+      "url": "https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/",
+      "title": "How to Validate Forms with Zod and React-Hook-Form"
+    },
+    {
+      "url": "https://www.wisp.blog/blog/how-to-use-zod-validation-for-react-hook-forms-with-shadcns-form-component",
+      "title": "How to Use Zod Validation for React Hook Forms with ShadCN's ..."
+    },
+    {
+      "url": "https://blog.nashtechglobal.com/form-validation-in-react-with-zod-and-react-hook-form/",
+      "title": "Form Validation in React with Zod and React Hook Form ..."
+    },
+    {
+      "url": "https://blog.logrocket.com/building-reusable-multi-step-form-react-hook-form-zod/",
+      "title": "Building a reusable multi-step form with React Hook Form and Zod"
+    }
+  ],
+  "React Router v6 lazy load routes": [
+    {
+      "url": "https://reactrouter.com/docs/en/v6/route/lazy",
+      "title": "lazy v6.30.2 | React Router"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/76340518/lazy-loading-routes-in-react-router-v6",
+      "title": "Lazy loading routes in react router v6 - Stack Overflow"
+    },
+    {
+      "url": "https://dev.to/abhay_yt_52a8e72b213be229/optimizing-performance-with-lazy-loading-in-react-router-v6-3m5p",
+      "title": "Optimizing Performance with Lazy Loading in React Router v6"
+    },
+    {
+      "url": "https://remix.run/blog/lazy-loading-routes",
+      "title": "Lazy Loading Routes in React Router 6.4+ | Remix"
+    },
+    {
+      "url": "https://moldstud.com/articles/p-how-to-effectively-implement-lazy-loading-for-routes-in-react-router",
+      "title": "Implement Lazy Loading for Routes Using React Router Best Practices ..."
+    }
+  ],
+  "React Query initial data and caching": [
+    {
+      "url": "https://antelo.medium.com/react-query-avoid-expensive-queries-by-using-sub-queries-with-initialdata-7ed72a555a2c",
+      "title": "React Query : Initial Data by Flavio Wuensche | May, 2023 | Medium"
+    },
+    {
+      "url": "https://tanstack.com/query/v4/docs/framework/react/guides/initial-query-data",
+      "title": "Initial Query Data | TanStack Query React Docs"
+    },
+    {
+      "url": "https://react-query-git-feature-typescript-example.tannerlinsley.vercel.app/guides/initial-query-data",
+      "title": "Initial Query Data | React Query | TanStack"
+    }
+  ],
+  "useMemo and useCallback when to use": [
+    {
+      "url": "https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/",
+      "title": "What's the Difference Between the useMemo and useCallback Hooks?"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/reactjs/when-to-use-usecallback-usememo-and-useeffect/",
+      "title": "When to use useCallback, useMemo and useEffect - GeeksforGeeks"
+    },
+    {
+      "url": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+      "title": "Understanding useMemo and useCallback - Josh W. Comeau React useMemo vs useCallback: What's the Difference and When ... useMemo vs useCallback in React: When and Why to Use Them React useMemo and useCallback differences With Examples What's the Difference Between the useMemo and useCallback Hooks? useMemo vs useCallback in React: When and Why to Use Them React useMemo vs useCallback : What's the Difference and ... - C# Co\u2026 useMemo vs useCallback in React: When and Why to Use Them React useMemo vs useCallback: 5 Key Differences Every ..."
+    },
+    {
+      "url": "https://www.c-sharpcorner.com/article/react-usememo-vs-usecallback-whats-the-difference-and-when-to-use-each/",
+      "title": "React useMemo vs useCallback: What's the Difference and When ..."
+    },
+    {
+      "url": "https://mikitaaliaksandrovich.substack.com/p/usememo-vs-usecallback-in-react",
+      "title": "useMemo vs useCallback in React: When and Why to Use Them"
+    }
+  ],
+  "profile react performance devtools": [
+    {
+      "url": "https://dev.to/hasunnilupul/how-to-leverage-react-profiler-for-performance-tuning-235o",
+      "title": "How to Leverage React Profiler for Performance Tuning"
+    },
+    {
+      "url": "https://medium.com/@conboys111/how-to-profile-and-optimize-react-performance-like-a-pro-6a460555ecca",
+      "title": "How to Profile and Optimize React Performance Like a Pro"
+    },
+    {
+      "url": "https://asepalazhari.com/blog/react-devtools-profiler-performance-optimization",
+      "title": "React DevTools Profiler: Find and Fix Performance Issues in ..."
+    },
+    {
+      "url": "https://kentcdodds.com/blog/profile-a-react-app-for-performance",
+      "title": "Profile a React App for Performance - Kent C. Dodds"
+    },
+    {
+      "url": "https://learncodewithdurgesh.com/tutorials/react-handbook/react-profiling-optimization-with-devtools",
+      "title": "React Profiling & Optimization with DevTools | Learn Code ..."
+    }
+  ],
+  "Vitest vs Jest for React Testing Library": [
+    {
+      "url": "https://medium.com/@ruverd/jest-vs-vitest-which-test-runner-should-you-use-in-2025-5c85e4f2bda9",
+      "title": "Jest vs Vitest: Which Test Runner Should You Use in 2025?"
+    },
+    {
+      "url": "https://javascript.plainenglish.io/jest-vs-vitest-in-a-react-project-which-one-should-you-use-in-2025-2c254ddfd6f8",
+      "title": "Jest vs Vitest in a React Project: Which One Should You Use in 2025?"
+    },
+    {
+      "url": "https://makersden.io/blog/testing-with-vitest-vs-jest",
+      "title": "Vitest vs Jest and a bit more - Makers' Den"
+    },
+    {
+      "url": "https://github.com/vitest-dev/vitest/discussions/6098",
+      "title": "React 18 & React-Testing-Library performance vs Jest \u00b7 vitest-dev ..."
+    },
+    {
+      "url": "https://vitest.dev/guide/comparisons.html",
+      "title": "Comparisons with Other Test Runners | Guide | Vitest"
+    }
+  ],
+  "Vite React TypeScript setup": [
+    {
+      "url": "https://practicaldev-herokuapp-com.freetls.fastly.net/phongphanq089/setup-react-typescript-with-vite-eslint-1nfk",
+      "title": "Setup React Typescript with Vite & ESLint - DEV Community"
+    },
+    {
+      "url": "https://medium.com/@pushpendrapal_/how-to-setup-react-typescript-and-tailwind-css-with-vite-in-a-project-8d9b0b51d1bd",
+      "title": "How to setup React , TypeScript , and Tailwind CSS with Vite in..."
+    },
+    {
+      "url": "https://typescript-course-turbo-git-vojta-pt-60-96ce7e-skillrecordings.vercel.app/tutorials/build-a-dynamic-avatar-component-with-react-typescript/set-up-application-with-vite",
+      "title": "Set up Application with Vite | TypeScript Course"
+    },
+    {
+      "url": "https://vite.dev/guide/",
+      "title": "Getting Started | Vite"
+    }
+  ],
+  "Vite path alias tsconfig": [
+    {
+      "url": "https://stackoverflow.com/questions/77249074/how-do-i-use-typescript-path-aliases-in-vite",
+      "title": "How do I use Typescript path aliases in Vite? - Stack Overflow"
+    },
+    {
+      "url": "https://medium.com/@the.sikandar.dev/how-to-configure-path-aliases-in-a-vite-app-2-easy-methods-7f929b175f01",
+      "title": "How to Configure Path Aliases in a Vite App (2 Easy Methods)"
+    },
+    {
+      "url": "https://truecoderguru.com/blog/vite/typescript-path-aliases-vite",
+      "title": "How to Use TypeScript Path Aliases in Vite | True Coder Guru"
+    },
+    {
+      "url": "https://www.npmjs.com/package/vite-tsconfig-paths",
+      "title": "vite-tsconfig-paths - npm"
+    },
+    {
+      "url": "https://www.w3tutorials.net/blog/how-do-i-use-typescript-path-aliases-in-vite/",
+      "title": "How to Set Up TypeScript Path Aliases in Vite: Fix 'Failed to ..."
+    }
+  ],
+  "Tailwind CSS with Vite setup": [
+    {
+      "url": "https://tailwindcss.com/docs/installation/using-vite",
+      "title": "Installing Tailwind CSS with Vite - Tailwind CSS"
+    },
+    {
+      "url": "https://dev.to/imamifti056/how-to-setup-tailwind-css-v415-with-vite-react-2025-updated-guide-3koc",
+      "title": "How to setup Tailwind CSS v4.1.5 with Vite + React (2025 ..."
+    },
+    {
+      "url": "https://medium.com/@fasihuddin102/how-to-set-up-tailwindcss-in-a-react-vite-project-2025-edition-999e0541a493",
+      "title": "How to Set Up TailwindCSS in a React + Vite ... - Medium"
+    },
+    {
+      "url": "https://tailkits.com/blog/install-tailwind-css-with-vite/",
+      "title": "Install Tailwind CSS with Vite (v4 Plugin Guide) | Tailkits"
+    },
+    {
+      "url": "https://www.thatsoftwaredude.com/content/14166/vite-and-tailwind",
+      "title": "How to Configure Tailwind CSS in Your Vite App"
+    }
+  ],
+  "CSS Modules vs Tailwind when to choose": [
+    {
+      "url": "https://javascript.plainenglish.io/styling-solutions-tailwind-vs-css-modules-vs-styled-components-vs-vanilla-css-3ab3aef4ef47",
+      "title": "Styling Solutions: Tailwind vs CSS Modules vs Styled Components..."
+    },
+    {
+      "url": "https://medium.com/@ignatovich.dm/css-modules-vs-css-in-js-vs-tailwind-css-a-comprehensive-comparison-24e7cb6f48e9",
+      "title": "CSS Modules vs CSS -in-JS vs Tailwind CSS ... | Medium"
+    },
+    {
+      "url": "https://www.saashub.com/compare-tailwind-css-vs-css-modules",
+      "title": "Tailwind CSS VS CSS Modules - compare differences & reviews?"
+    }
+  ],
+  "npm vs pnpm vs yarn 2025 comparison": [
+    {
+      "url": "https://dev.to/hamzakhan/npm-vs-yarn-vs-pnpm-which-package-manager-should-you-use-in-2025-2f1g",
+      "title": "npm vs Yarn vs pnpm \u2013 Which Package ... - DEV Community"
+    },
+    {
+      "url": "https://pnpm.io/benchmarks",
+      "title": "Benchmarks of JavaScript Package Managers - pnpm"
+    },
+    {
+      "url": "https://prateeksha.com/blog/pnpm-vs-npm-vs-yarn-key-differences-and-which-one-you-should-use-in-2025",
+      "title": "PNPM vs NPM vs Yarn- Key Differences for 2025 | Prateeksha ..."
+    },
+    {
+      "url": "https://medium.com/@djantchengamo/npm-yarn-or-pnpm-in-2025-which-package-manager-should-you-choose-d1a351810fd4",
+      "title": "npm, Yarn, or pnpm in 2025: Which Package Manager ... - Medium"
+    },
+    {
+      "url": "https://developersvoice.com/blog/js/npm-yarn-pnpm-bun-comparison/",
+      "title": "Choosing the Right JavaScript Package Manager in 2025: npm vs ..."
+    }
+  ],
+  "git rebase vs merge visual guide": [
+    {
+      "url": "https://www.atlassian.com/git/tutorials/merging-vs-rebasing",
+      "title": "Merging vs. Rebasing | Atlassian Git Tutorial"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/git/git-difference-between-merging-and-rebasing/",
+      "title": "Git - Difference Between Merging and Rebasing - GeeksforGeeks"
+    },
+    {
+      "url": "https://ananya-thakre.hashnode.dev/git-rebase-vs-merge-explained-beginner-friendly-guide",
+      "title": "Git Rebase vs Merge Explained (Beginner-Friendly Guide)"
+    },
+    {
+      "url": "https://www.datacamp.com/blog/git-merge-vs-git-rebase",
+      "title": "Git Merge vs Git Rebase: Pros, Cons, and Best Practices"
+    },
+    {
+      "url": "https://www.beyondthesemicolon.com/untangling-git-rebase-and-merge-a-practical-guide-for-clean-histories-and-calm-teams/",
+      "title": "Untangling Git Rebase and Merge: A Practical Guide for Clean ..."
+    }
+  ],
+  "squash commits before pull request": [
+    {
+      "url": "https://stackoverflow.com/questions/31668794/squash-all-your-commits-in-one-before-a-pull-request-in-github",
+      "title": "Squash all your commits in one, before a pull request in github Code sample"
+    },
+    {
+      "url": "https://dev.to/arrowdan/git-squashing-how-to-clean-up-your-commit-history-like-a-pro-5h27",
+      "title": "Git Squashing: How to Clean Up Your Commit History Like a ..."
+    },
+    {
+      "url": "https://thelinuxcode.com/git-squash-explained-a-guide-for-keeping-commit-history-clean/",
+      "title": "Git Squash Explained: A Guide for Keeping Commit History ..."
+    },
+    {
+      "url": "https://expertbeacon.com/the-complete-guide-to-git-squash-commits/",
+      "title": "The Complete Guide To Git Squash Commits - ExpertBeacon"
+    }
+  ],
+  "Husky and lint-staged pre-commit setup": [
+    {
+      "url": "https://builtin.com/articles/lint-staged-with-husky-pre-commit",
+      "title": "Lint - Staged With Husky Pre - Commit : A Guide | Built In"
+    },
+    {
+      "url": "https://duncanlew.medium.com/getting-started-with-husky-and-lint-staged-for-pre-commit-hooks-c2764d8c9ae",
+      "title": "Getting started with Husky and Lint - staged for pre - commit ... | Medium"
+    },
+    {
+      "url": "https://betterstack.com/community/guides/scaling-nodejs/husky-and-lint-staged/",
+      "title": "Prevent Bad Commits with Husky and lint - staged"
+    },
+    {
+      "url": "https://github.com/gabrielsanttana/husky-lint-staged-pre-commit",
+      "title": "GitHub - gabrielsanttana/ husky - lint - staged - pre - commit : A setup ..."
+    }
+  ],
+  "ESLint and Prettier config conflict fix": [
+    {
+      "url": "https://dev.to/devland/set-up-a-nodejs-app-with-eslint-and-prettier-4i7p",
+      "title": "Set up a Node.js App with ESLint and Prettier - DEV Community"
+    },
+    {
+      "url": "https://www.npmjs.com/package/eslint-plugin-prettier",
+      "title": "npmjs.com/package/ eslint -plugin- prettier"
+    }
+  ],
+  "env variables in Vite import.meta.env": [
+    {
+      "url": "https://stackoverflow.com/questions/70709987/how-to-load-environment-variables-from-env-file-using-vite",
+      "title": "javascript - How to load environment variables from . env file using Vite"
+    },
+    {
+      "url": "https://vite.dev/guide/env-and-mode",
+      "title": "Env Variables and Modes | Vite"
+    },
+    {
+      "url": "https://medium.com/@andrewmasonmedia/how-to-use-environmental-variables-env-in-vue-js-and-vite-ac2ee73480dd",
+      "title": "How to use environmental variables (. env ) in Vue.js and Vite . | Medium"
+    },
+    {
+      "url": "https://dev.to/ebereplenty/how-to-use-environment-variables-in-a-reactjs-app-with-vite-3lh0",
+      "title": "How to Use Environment Variables in a React.js App with Vite"
+    }
+  ],
+  "keyboard accessibility checklist web": [
+    {
+      "url": "https://www.washington.edu/accesstech/checklist/keyboard/",
+      "title": "Keyboard accessibility \u2013 Accessible Technology"
+    },
+    {
+      "url": "https://dequeuniversity.com/checklists/web/keyboard",
+      "title": "Keyboard | Web Accessibility Checklist"
+    }
+  ],
+  "aria-live for form error messages": [
+    {
+      "url": "https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA19",
+      "title": "Using ARIA role=alert or Live Regions to Identify Errors"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-errormessage",
+      "title": "ARIA: aria-errormessage attribute - ARIA | MDN - MDN Web Docs"
+    },
+    {
+      "url": "https://www.davidmacd.com/blog/test-aria-describedby-errormessage-aria-live.html",
+      "title": "Testing ARIA-LIVE with ariadescribedby on errormessages ... How to properly handle inline error messages while the user ... Technique: Form error communication | Digital Accessibility ... Accessibility Quick Wins: Error messages with aria-live Simple Form Validation Using Only WAI-ARIA role=alert or aria ..."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/71615554/how-to-properly-handle-inline-error-messages-while-the-user-is-typing-aria",
+      "title": "How to properly handle inline error messages while the user ..."
+    },
+    {
+      "url": "https://accessibility.huit.harvard.edu/technique-form-error-communication",
+      "title": "Technique: Form error communication | Digital Accessibility ..."
+    }
+  ],
+  "focus trap accessible modal example": [
+    {
+      "url": "https://www.uxpin.com/studio/blog/how-to-build-accessible-modals-with-focus-traps/",
+      "title": "How to Build Accessible Modals with Focus Traps | UXPin"
+    },
+    {
+      "url": "https://medium.com/cstech/achieving-focus-trapping-in-a-react-modal-component-3f28f596f35b",
+      "title": "Achieving Focus Trapping in a React Modal Component | Medium"
+    },
+    {
+      "url": "https://blog.logrocket.com/build-accessible-modal-focus-trap-react/",
+      "title": "Build an accessible modal with focus - trap -react - LogRocket Blog"
+    },
+    {
+      "url": "https://tech.instacart.com/making-an-accessible-web-modal-48e4e9d8c284",
+      "title": "Making an accessible web modal . While a lot of... | tech-at-instacart"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/32996817/vanilla-javascript-trap-focus-in-modal-accessibility-tabbing",
+      "title": "Vanilla javascript Trap Focus in modal ( accessibility ... - Stack Overflow"
+    }
+  ],
+  "accessible dropdown menu without libs": [
+    {
+      "url": "https://dev.to/5t3ph/css-only-accessible-dropdown-navigation-menu-1f95",
+      "title": "CSS-Only Accessible Dropdown Navigation Menu - DEV Community"
+    },
+    {
+      "url": "https://www.a11y-collective.com/blog/mastering-web-accessibility-making-drop-down-menus-user-friendly/",
+      "title": "Mastering Web Accessibility : Making Drop - Down Menus User-Friendly"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/21349670/accessible-html5-css3-dropdown-menu-without-javascript",
+      "title": "html - Accessible HTML5/CSS3 dropdown menu without Javascript"
+    }
+  ],
+  "screen reader testing on Mac VoiceOver shortcuts": [
+    {
+      "url": "https://codoid.com/accessibility-testing/a-voiceover-quick-reference-guide-with-keyboard-shortcuts-gestures/",
+      "title": "A VoiceOver Quick Reference Guide with Keyboard Shortcuts ... - Codoid"
+    },
+    {
+      "url": "https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts",
+      "title": "VoiceOver Keyboard Shortcuts on a Mac | Screen Reader Keyboard ..."
+    },
+    {
+      "url": "https://medium.com/@natalia.chugaievska/voiceover-accessibility-testing-a-practical-guide-for-designers-db0a8e7b2bfb",
+      "title": "VoiceOver Accessibility Testing: A Practical Guide for Designers"
+    },
+    {
+      "url": "https://www.browserstack.com/docs/live/references/accessibility-shortcuts-mac",
+      "title": "VoiceOver Screen Reader keyboard shortcuts for macOS"
+    },
+    {
+      "url": "https://kevinyank.com/posts/test-screen-reader-accessibility-with-voiceover-on-mac/",
+      "title": "How to test for screen reader accessibility with VoiceOver on your Mac"
+    }
+  ],
+  "skip to content link pattern": [
+    {
+      "url": "https://medium.com/uxmm/straight-to-the-point-a-guide-to-skip-links-in-accessibility-205a2626ae6a",
+      "title": "Straight to the Point: A Guide to Skip Links in ... - Medium"
+    },
+    {
+      "url": "https://www.w3schools.com/accessibility/accessibility_skip_links.php",
+      "title": "Accessibility Skip links - W3Schools Code sample"
+    },
+    {
+      "url": "https://www.webability.io/glossary/skip-link",
+      "title": "Skip Link - Complete Guide | Web Accessibility Glossary ..."
+    },
+    {
+      "url": "https://www.w3.org/WAI/test-evaluate/easy-checks/skip-link/",
+      "title": "[Draft] Skip Link - Easy Checks | Web Accessibility ..."
+    },
+    {
+      "url": "https://css-tricks.com/how-to-create-a-skip-to-content-link/",
+      "title": "How to Create a \u201cSkip to Content\u201d Link - CSS-Tricks"
+    }
+  ],
+  "alt text writing guidelines": [
+    {
+      "url": "https://www.deque.com/blog/great-alt-text-introduction/",
+      "title": "Writing Alt Text for Accessibility: Guidelines and Examples"
+    },
+    {
+      "url": "https://moz.com/learn/seo/alt-text",
+      "title": "How To Write the Best Alternative Text - Moz"
+    },
+    {
+      "url": "https://www.semrush.com/blog/alt-text/",
+      "title": "What Is Alt Text ? Why It Matters & How to Write It"
+    },
+    {
+      "url": "https://www.reliablesoft.net/alt-text/",
+      "title": "What Is Alt Text ? Examples & Best Practices"
+    },
+    {
+      "url": "https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/",
+      "title": "How to Write Alt Text and Image Descriptions for the visually impaired"
+    }
+  ],
+  "Lighthouse score improve suggestions": [
+    {
+      "url": "https://bionicjulia.com/blog/improving-lighthouse-scores-bionicjulia",
+      "title": "Improving Lighthouse Scores For bionicjulia.com - Bionic Julia"
+    },
+    {
+      "url": "https://www.designingtherow.com/blog/google-lighthouse-desktop",
+      "title": "How to Improve Your Google Lighthouse Score on Desktop..."
+    },
+    {
+      "url": "https://medium.com/flyword/lighthouse-lazy-loading-offscreen-and-hidden-images-ee0b76db5130",
+      "title": "Lighthouse : lazy-loading offscreen and hidden images | Medium"
+    },
+    {
+      "url": "https://www.feelcreated.com/blog/google-lighthouse-website-optimisation/",
+      "title": "Optimise your Website with Google Lighthouse \u2022 Feel Created"
+    }
+  ],
+  "Core Web Vitals CLS avoid layout shift": [
+    {
+      "url": "https://web.dev/articles/optimize-cls",
+      "title": "Optimize Cumulative Layout Shift | Articles | web.dev"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/75038116/how-do-i-avoid-cls-cumulative-layout-shift-if-im-loading-external-content-and",
+      "title": "core web vitals - How do I avoid CLS (Cumulative Layout Shift ..."
+    },
+    {
+      "url": "https://www.debugbear.com/docs/fix-cls-issues",
+      "title": "How To Fix Cumulative Layout Shift (CLS) Issues | DebugBear"
+    }
+  ],
+  "lazy load images react intersection observer": [
+    {
+      "url": "https://miletadulovic.me/blog/lazy-loading-images-with-intersection-observer-in-react",
+      "title": "Lazy loading images with Intersection Observer in React"
+    },
+    {
+      "url": "https://www.techchefz.digital/insights/simplifying-image-loading-in-react-with-lazy-loading-and-intersection-observer-api",
+      "title": "Simplifying Image Loading in React with Lazy Loading"
+    }
+  ],
+  "vite code splitting dynamic import": [
+    {
+      "url": "https://deepwiki.com/vitejs/vite/8.5-code-splitting-and-chunk-generation",
+      "title": "Code Splitting and Chunk Generation | vitejs/ vite | DeepWiki"
+    },
+    {
+      "url": "https://medium.com/@akashsdas_dev/code-splitting-in-react-w-vite-eae8a9c39f6e",
+      "title": "Code Splitting in React w/ Vite . If you\u2019ve a large application... | Medium"
+    },
+    {
+      "url": "https://v3.vitejs.dev/guide/features.html",
+      "title": "Features | Vite"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/78041376/vue-vite-disable-code-splitting-chunking",
+      "title": "javascript - Vue & Vite disable code splitting ... - Stack Overflow"
+    }
+  ],
+  "service worker basics with Workbox": [
+    {
+      "url": "https://github.com/noconsulate/react-workbox-tutorial",
+      "title": "noconsulate/react- workbox -tutorial: a brief tutorial covering the basics ..."
+    },
+    {
+      "url": "https://medium.com/@stefanledin/a-basic-service-worker-with-workbox-473fff5bbd9b",
+      "title": "A basic service worker with Workbox | by Stefan Ledin | Medium"
+    },
+    {
+      "url": "https://sevic.dev/caching-service-worker-workbox/",
+      "title": "Caching with service worker and Workbox | \u017deljko \u0160evi\u0107"
+    },
+    {
+      "url": "https://developer.chrome.com/docs/workbox/app-shell-model",
+      "title": "Service workers and the application shell model | Workbox"
+    },
+    {
+      "url": "https://publishing-project.rivendellweb.net/pwa-starter-automating-service-worker-creation-with-workbox-js/",
+      "title": "PWA Starter: Automating Service Worker Creation with Workbox .js"
+    }
+  ],
+  "PWA setup for Vite React": [
+    {
+      "url": "https://www.npmjs.com/package/vite-plugin-pwa",
+      "title": "vite -plugin- pwa - npm"
+    },
+    {
+      "url": "https://github.com/BasirahThing/vite-pwa-bootstrap",
+      "title": "GitHub - BasirahThing/ vite - pwa -bootstrap: Unified app bootstrap..."
+    }
+  ],
+  "frontend mentor projects ideas intermediate": [
+    {
+      "url": "https://www.frontendmentor.io/",
+      "title": "Frontend Mentor"
+    },
+    {
+      "url": "https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl",
+      "title": "16 front-end projects (with designs) to help improve your ... Images Frontend Projects - roadmap.sh Top 300 Frontend Project Ideas For Students 2024 Many people don't know this, but Frontend Mentor challenges ... Top 15 Projects for Front-end Developers with Source Code Frontend Mentor | Frontend Projects \u2013 Build Real Websites ..."
+    },
+    {
+      "url": "https://roadmap.sh/frontend/projects?difficulty=intermediate",
+      "title": "Frontend Projects - roadmap.sh"
+    }
+  ],
+  "free public APIs for portfolio": [
+    {
+      "url": "https://dev.to/williamsmithh/top-5-free-financial-data-apis-for-building-a-powerful-stock-portfolio-tracker-4dhj",
+      "title": "Top 5 Free Financial Data APIs for Building a Powerful Stock ..."
+    },
+    {
+      "url": "https://publicapis.io/",
+      "title": "Public APIs \u2014 A directory of free and public apis"
+    },
+    {
+      "url": "https://www.findmymoat.com/free/apis-sdks",
+      "title": "Best Free APIs & SDKs Tools for Investors | Find My Moat"
+    },
+    {
+      "url": "https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/",
+      "title": "Big List of Free and Open Public APIs (No Auth Needed) Free Public APIs 40 Free APIs for Your Next Project 2026 - Images, Weather ... Curated List of Free APIs for Fun Projects - GitHub"
+    },
+    {
+      "url": "https://www.freepublicapis.com/",
+      "title": "Free Public APIs"
+    }
+  ],
+  "react typescript weather app openweather example": [
+    {
+      "url": "https://medium.com/@senoltanriver/weather-app-with-react-typescript-91de320b452",
+      "title": "Weather App with React - Typescript | by \u015eenol Tanr\u0131ver | Medium"
+    },
+    {
+      "url": "https://github.com/ManchalaSashank/ClimaCast",
+      "title": "ManchalaSashank/ClimaCast: A responsive React + TypeScript ..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ewi_nCwFOEc",
+      "title": "Dynamic Weather App In React + Typescript Project - YouTube"
+    }
+  ],
+  "drag and drop kanban react beautiful dnd": [
+    {
+      "url": "https://abhiiishek07.medium.com/kanban-board-multi-list-drag-and-drop-with-react-beautiful-dnd-in-next-js-12b73c32e938",
+      "title": "Kanban Board / Multi-List Drag and Drop with react-beautiful ..."
+    }
+  ],
+  "markdown blog with Next.js and MDX tutorial": [
+    {
+      "url": "https://practicaldev-herokuapp-com.global.ssl.fastly.net/usedevjet/create-a-blog-using-nextjs-and-markdownmdx-4pem",
+      "title": "Create a blog using Next . js and Markdown / MDX - DEV Community"
+    },
+    {
+      "url": "https://lucaimbalzano-io.vercel.app/blog/how-to-build-a-blog-with-nextjs-and-mdx",
+      "title": "How to build a blog with Next . js and MDX | Lucas Imbalzano - Cloud..."
+    },
+    {
+      "url": "https://blog.jetbrains.com/webstorm/2021/10/building-a-blog-with-next-js-and-mdx/",
+      "title": "Building a Blog With Next . js and MDX | The WebStorm Blog"
+    },
+    {
+      "url": "https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/",
+      "title": "How to Build Your Own Blog with Next . js and MDX"
+    }
+  ],
+  "deploy Vite React site to Netlify": [
+    {
+      "url": "https://docs.netlify.com/build/frameworks/framework-setup-guides/vite/",
+      "title": "Vite on Netlify | Netlify Docs"
+    },
+    {
+      "url": "https://vite.dev/guide/static-deploy",
+      "title": "Deploying a Static Site | Vite"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=IV6bgVMkxPs",
+      "title": "How to Deploy a Vite (React) App on Netlify - 2025 Beginner Guide"
+    }
+  ],
+  "vercel vs netlify for personal portfolio": [
+    {
+      "url": "https://prismic.io/blog/vercel-vs-netlify",
+      "title": "Vercel vs Netlify : Compare Jamstack Hosting and Deployment"
+    },
+    {
+      "url": "https://northflank.com/blog/vercel-vs-netlify-choosing-the-deployment-platform-in-2025",
+      "title": "Vercel vs Netlify : Choosing the right one in 2025... \u2014 Northflank"
+    },
+    {
+      "url": "https://dev.to/maxniederman/netlify-vs-vercel-a-comparison-5643",
+      "title": "Netlify vs . Vercel : A Comparison - DEV Community"
+    },
+    {
+      "url": "https://bejamas.com/compare/netlify-vs-vercel",
+      "title": "Netlify vs Vercel : Which Frontend Cloud Platform Delivers Best..."
+    }
+  ],
+  "buy .ca domain cheap canada": [
+    {
+      "url": "https://www.namecheap.com/domains/registration/cctld/ca/",
+      "title": ".CA Domain Registration | Cheap .CA domain names - Namecheap"
+    }
+  ],
+  "static site contact form without backend": [
+    {
+      "url": "https://dev.to/allenarduino/how-to-handle-html-form-submissions-without-a-backend-2025-guide-2i5g",
+      "title": "How to Handle HTML Contact Form Submissions Without a Backend (2025 ..."
+    },
+    {
+      "url": "https://frankindev.com/2018/03/24/contact-form-for-static-site/",
+      "title": "Contact form for a static site without a backend - inDev. Journal"
+    },
+    {
+      "url": "https://myformcapture.com/blog/how-to-collect-form-submissions-without-backend-server",
+      "title": "How to Collect Form Submissions Without a Backend Server"
+    },
+    {
+      "url": "https://medium.com/react-native-nigeria/add-a-simple-functional-contact-form-to-your-portfolio-no-backend-needed-using-react-6b8567402c80",
+      "title": "Add a Simple Functional Contact Form to your Portfolio \u2014 No backend ..."
+    },
+    {
+      "url": "https://devmatter.app/blog/how-to-collect-form-data-from-static-sites-using-a-simple-api",
+      "title": "How to Collect Form Data from Static Sites Using a Simple API"
+    }
+  ],
+  "favicon generator svg to ico": [
+    {
+      "url": "https://svg-to-ico.org/",
+      "title": "SVG to ICO Converter - Free Online SVG to ICO Tool | Convert SVG to Favicon"
+    },
+    {
+      "url": "https://convertio.co/svg-ico/",
+      "title": "SVG to ICO (Online & Free) \u2014 Convertio"
+    },
+    {
+      "url": "https://cloudconvert.com/svg-to-ico",
+      "title": "SVG to ICO | CloudConvert"
+    },
+    {
+      "url": "https://www.freeconvert.com/svg-to-ico",
+      "title": "SVG to ICO Converter - FreeConvert.com"
+    },
+    {
+      "url": "https://favicon.im/generator",
+      "title": "Free Favicon Generator - Create ICO, PNG, SVG Icons Online | Favicon.im"
+    }
+  ],
+  "open graph image generator free": [
+    {
+      "url": "https://opengraphtools.org/tools/open-graph-images-generator",
+      "title": "Free Open Graph Images Generator | Open Graph Tools"
+    },
+    {
+      "url": "https://directify.app/tools/open-graph-generator/",
+      "title": "Free Open Graph Image Generator"
+    },
+    {
+      "url": "https://wutools.com/social/open-graph-image-generator",
+      "title": "Free Open Graph Image Generator for Social Media | WuTools"
+    }
+  ],
+  "Notion spaced repetition template": [
+    {
+      "url": "https://www.notion.com/templates/spaced-repetititon-planner",
+      "title": "Spaced Repetititon Planner Template | Notion Marketplace"
+    },
+    {
+      "url": "https://magazinerolls.gumroad.com/l/kxxwu",
+      "title": "Spaced Repetition Notion System [Free Template] Images Master Spaced Repetition with Notion | Acamode Spaced Repetition Template Pack - Notion Everything The ULTIMATE Notion Spaced Repetition Template | Study ... Spaced Repetition Template by Marlon Cerozino | Notion ... Spaced Repetition for Students | Prototion | Notion Template"
+    },
+    {
+      "url": "https://petereza.com/spaced-repetition-notion-template/",
+      "title": "Master Spaced Repetition with Notion | Acamode"
+    },
+    {
+      "url": "https://www.notioneverything.com/templates/spaced-repetition-template-pack",
+      "title": "Spaced Repetition Template Pack - Notion Everything"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RSEqLTgIkHw",
+      "title": "The ULTIMATE Notion Spaced Repetition Template | Study ... Spaced Repetition Template by Marlon Cerozino | Notion ... Spaced Repetition for Students | Prototion | Notion Template"
+    }
+  ],
+  "export youtube transcript to text": [
+    {
+      "url": "https://youtubetotranscript.com/",
+      "title": "Youtube to Transcript - Read Videos and Take Notes [100% Free ]"
+    },
+    {
+      "url": "https://notegpt.io/youtube-transcript-generator",
+      "title": "YouTube Transcript Generator - Free Online, No Sign-up - NoteGPT"
+    },
+    {
+      "url": "https://www.wikihow.com/Get-Transcript-of-YouTube-Video",
+      "title": "How to Get a Transcript from Any YouTube Video: 3 Easy Ways - wikiHow"
+    },
+    {
+      "url": "https://www.youtranscripts.com/",
+      "title": "100% Free YouTube Transcript Generator - No Signup [2025]"
+    },
+    {
+      "url": "https://recapio.com/youtube-transcript",
+      "title": "Free YouTube Transcript Generator | Convert Video to Text"
+    }
+  ],
+  "anki code snippets syntax highlight": [
+    {
+      "url": "https://ankiweb.net/shared/info/566351439",
+      "title": "Syntax Highlighting (NG) - AnkiWeb"
+    },
+    {
+      "url": "https://github.com/gregorias/anki-code-highlighter",
+      "title": "GitHub - gregorias/anki-code-highlighter: Anki plugin for ..."
+    },
+    {
+      "url": "https://www.alveeakand.com/anki-syntax-highlighting/",
+      "title": "Anki Syntax Highlighting - Alvee's Blog"
+    },
+    {
+      "url": "https://www.reddit.com/r/Anki/comments/d6ov8a/most_efficient_way_to_add_syntax_highlighting/",
+      "title": "Most efficient way to add syntax highlighting? : r/Anki - Reddit"
+    },
+    {
+      "url": "https://github.com/cav71/syntax-highlighting-ng",
+      "title": "GitHub - cav71/syntax-highlighting-ng: A modernized version ..."
+    }
+  ],
+  "anki cloze deletion shortcuts mac": [
+    {
+      "url": "https://forums.ankiweb.net/t/mac-shortcut-for-cloze-deletion-same-card/63785",
+      "title": "Mac shortcut for cloze deletion (same card) - Help - Anki Forums"
+    },
+    {
+      "url": "https://www.reddit.com/r/Anki/comments/js6dkr/cloze_deletion_keyboard_shortcut/",
+      "title": "Cloze deletion keyboard shortcut : r/Anki - Reddit"
+    },
+    {
+      "url": "https://anki-decks.com/blog/post/anki-shortcuts-cheatsheet/",
+      "title": "Anki Keyboard Shortcuts Cheatsheet"
+    },
+    {
+      "url": "https://keycombiner.com/collections/anki/",
+      "title": "Anki Keyboard Shortcuts - KeyCombiner Anki - Hotkey Cheatsheet new feature is \u2018\u2018cloze deletion\u2019\u2019 - Help - Anki Forums r/Anki on Reddit: Is there a shortcut key for cloze deletion ..."
+    },
+    {
+      "url": "https://hotkeycheatsheet.com/hotkey-cheatsheet/anki",
+      "title": "Anki - Hotkey Cheatsheet"
+    }
+  ],
+  "evidence for 90 minute study sessions": [
+    {
+      "url": "https://www.nsdr.co/post/the-ideal-length-of-time-for-focused-work-a-neurobiological-perspective-from-andrew-huberman",
+      "title": "The Ideal Length of Time for Focused Work (90 minutes) - NSDR"
+    },
+    {
+      "url": "https://www.thelearningzone.com.au/articles-and-insights/scientific-proof-that-90-minute-learning-is-better-for-you",
+      "title": "Scientific Proof: 90-Minute Learning Is Better For You"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/surprising-science-behind-90-minute-focus-rule-kushal-shah-j5d9f",
+      "title": "The Surprising Science Behind the 90-Minute Focus Rule - LinkedIn"
+    },
+    {
+      "url": "https://www.clrn.org/how-long-should-study-sessions-be/",
+      "title": "How Long Should Study Sessions Be? - California Learning ..."
+    }
+  ],
+  "interleaving vs blocked practice coding": [
+    {
+      "url": "https://www.innerdrive.co.uk/blog/blocking-or-interleaving/",
+      "title": "Blocking or Interleaving: Which is better for revision?"
+    },
+    {
+      "url": "https://www.smartick.com/blog/parents-and-teachers/education/interleaving-vs-blocked-practice/",
+      "title": "Interleaving vs Blocked Practice to Learn Math - Smartick"
+    },
+    {
+      "url": "https://www.teachthemtostudy.com/articles/interleaving-vs-blocking-practice-study-methods-high-school-entrance-exam-success/",
+      "title": "Interleaving vs Blocking Practice: Study Methods Explained ..."
+    },
+    {
+      "url": "https://examstudyexpert.com/interleaving/",
+      "title": "Interleaved Practice 101: What Is Interleaving And How To Use It How to Use Interleaving for Deeper Learning - Coursera Interleaving Study Method: A Guide for Students Mastering Learning Outcomes with Interleaving vs Blocking ..."
+    }
+  ],
+  "question bank template notion": [
+    {
+      "url": "https://www.notion.com/templates/question-bank",
+      "title": "Question Bank Template | Notion Marketplace"
+    },
+    {
+      "url": "https://www.notion.com/templates/collections/top-10-free-practice-tests-templates-in-notion",
+      "title": "Top 10 Free Practice Test Templates - Notion"
+    },
+    {
+      "url": "https://www.notion.com/templates/category/test-prep",
+      "title": "Best Test Prep Templates from Notion | Notion Marketplace"
+    }
+  ],
+  "weekly review checklist template": [
+    {
+      "url": "https://gettingthingsdone.com/wp-content/uploads/2014/10/Weekly_Review_Checklist.pdf",
+      "title": "PDF GTD Weekly Review - Getting Things Done"
+    },
+    {
+      "url": "https://www.todoist.com/templates/gtd-weekly-review",
+      "title": "Free Weekly Review Template for 2024 - Todoist"
+    },
+    {
+      "url": "https://www.mapleplanners.com/download/weekly-review-template",
+      "title": "Weekly Review Template - Free Printable Templates"
+    },
+    {
+      "url": "https://blog.weekdone.com/the-best-gtd-weekly-review-check-list-with-free-pdf/",
+      "title": "The Best GTD Weekly Review Checklist: With Free PDF - Weekdone"
+    }
+  ],
+  "discord study group agenda sample": [
+    {
+      "url": "https://www.northwestern.edu/academic-support-learning/documents/sample-study-group-agenda.pdf",
+      "title": "PDF Sample Study Group Agendas - Northwestern University"
+    }
+  ],
+  "peer instruction method for coding": [
+    {
+      "url": "https://www.codio.com/blog/3-collaborative-coding-practices-pair-programming-peer-instruction",
+      "title": "Better Peer Programming Practices: 3 Methods | Codio"
+    },
+    {
+      "url": "https://files.eric.ed.gov/fulltext/EJ1267971.pdf",
+      "title": "PDF The Effect of Peer Instruction Method in Programming Education to ..."
+    },
+    {
+      "url": "https://therenegadecoder.com/teach/how-to-improve-coding-comprehension-using-peer-instruction/",
+      "title": "How to Improve Coding Comprehension Using Peer Instruction"
+    }
+  ],
+  "voice memo self explanation prompts": [
+    {
+      "url": "https://scispace.com/papers/better-self-explaining-backwards-or-forwards-prompting-self-2rr8sjqc9y",
+      "title": "Better self -explaining backwards or forwards? Prompting ..."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/363565804_Self-control_tasks_with_self-explanation_prompts_as_a_component_of_self-directed_online_learning",
+      "title": "(PDF) Self -control tasks with self - explanation prompts as..."
+    },
+    {
+      "url": "https://arxiv.org/abs/2309.12940",
+      "title": "[2309.12940] Self - Explanation Prompting Improves Dialogue..."
+    },
+    {
+      "url": "https://ijlter.org/index.php/ijlter/article/view/2856",
+      "title": "Advancing the Design of Self - Explanation Prompts for Complex..."
+    }
+  ],
+  "Pomodoro 50 10 timer online": [
+    {
+      "url": "https://focusday.io/timer/10x/50-minute/",
+      "title": "10 x 50 Minute Pomodoro Timer | FocusDay"
+    },
+    {
+      "url": "https://www.tomatotimers.com/",
+      "title": "TomatoTimers - Pomodoro Timer"
+    },
+    {
+      "url": "https://pomodorotimer.online/",
+      "title": "Pomodoro Timer \u2014 Do more in less time, stress-free"
+    },
+    {
+      "url": "https://www.pomofox.com/",
+      "title": "PomoFox \u2013 Gamified Pomodoro Timer with Pixel Art & Fun Challenges"
+    },
+    {
+      "url": "https://www.freepomodorotimer.com/",
+      "title": "Free Online Pomodoro Timer - Focus & Productivity Tool"
+    }
+  ],
+  "math anxiety techniques for programmers": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mathematical_anxiety",
+      "title": "Mathematical anxiety - Wikipedia"
+    },
+    {
+      "url": "https://www.weber.edu/wsuimages/vetsupwardbound/studyskills/overcomemathanxiety.pdf",
+      "title": "How to Overcome Math Anxiety"
+    },
+    {
+      "url": "https://psyche.co/ideas/if-you-think-you-are-just-not-a-math-person-then-think-again",
+      "title": "If you think you are \u2018just not a math person\u2019 then think... | Psyche Ideas"
+    },
+    {
+      "url": "https://medium.com/skilluped/what-is-math-anxiety-185c7f948e72",
+      "title": "What Is Math Anxiety ?. Why you\u2019re stressed with math ... | Medium"
+    }
+  ],
+  "Vancouver frontend developer meetups": [
+    {
+      "url": "https://www.meetup.com/vancouver-javascript-developers/",
+      "title": "VanJS: Vancouver JavaScript Developers - Meetup"
+    },
+    {
+      "url": "https://dev.events/meetups/NA/CA/Vancouver/web",
+      "title": "Web / Frontend meetups in Vancouver 2025 / 2026 - dev.events"
+    },
+    {
+      "url": "https://www.meetup.com/vancouver-developer-meetup/",
+      "title": "Vancouver Developers - Meetup"
+    }
+  ],
+  "Women Who Code Vancouver events": [
+    {
+      "url": "https://www.meetup.com/Women-Who-Code-Vancouver/events",
+      "title": "Women Who Code Vancouver Events"
+    }
+  ],
+  "resume bullets customer support to frontend": [
+    {
+      "url": "https://www.velvetjobs.com/resume/software-engineer-web-resume-sample",
+      "title": "Software Engineer, Web Resume Samples | Velvet Jobs"
+    },
+    {
+      "url": "https://www.qwikresume.com/resume-samples/senior-application-developer/",
+      "title": "10+ Senior Application Developer Resume Samples & Templates for..."
+    }
+  ],
+  "transferable skills from support to developer": [
+    {
+      "url": "https://techamplifiers.com/2025/06/24/how-to-switch-from-support-to-development/",
+      "title": "How to Switch from Support to Development: A Step-by-Step Roadmap"
+    },
+    {
+      "url": "https://dev.to/rafikke_lion/making-the-jump-from-support-to-development-2kif",
+      "title": "Making the Jump from Support to Development - DEV Community"
+    }
+  ],
+  "junior front end jobs Vancouver": [
+    {
+      "url": "https://ca.indeed.com/q-junior-front-end-l-vancouver,-bc-jobs.html",
+      "title": "junior front end jobs in Vancouver, BC - Indeed"
+    },
+    {
+      "url": "https://www.glassdoor.ca/Job/vancouver-junior-front-end-developer-jobs-SRCH_IL.0,9_IC2278756_KO10,36.htm",
+      "title": "173 Junior front end developer jobs in Vancouver, BC"
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/junior-front-end-developer-jobs-vancouver-bc",
+      "title": "29 Junior Front End Developer jobs in Vancouver - LinkedIn"
+    }
+  ],
+  "junior frontend salary Vancouver 2025": [
+    {
+      "url": "https://www.glassdoor.com/Salaries/vancouver-bc-junior-front-end-developer-salary-SRCH_IL.0,12_IC2278756_KO13,39.htm",
+      "title": "Salary: Junior Front End Developer in Vancouver, BC 2025"
+    },
+    {
+      "url": "https://ca.indeed.com/career/junior-front-end-developer/salaries/Vancouver--BC",
+      "title": "Junior front end developer salary in Vancouver, BC - Indeed"
+    },
+    {
+      "url": "https://www.glassdoor.co.uk/Salaries/vancouver-bc-jr-frontend-developer-salary-SRCH_IL.0,12_IM972_KO13,34.htm",
+      "title": "Salary: Jr Frontend Developer in Vancouver, BC, Canada 2025"
+    }
+  ],
+  "Vancouver tech recruiters frontend": [
+    {
+      "url": "https://dailyhive.com/calgary/techrecruiter-vancouver-startup-fix-tech-problem",
+      "title": "TechRecruiter: Vancouver startup aims to fix the tech problem while..."
+    }
+  ],
+  "linkedin about summary career switch examples": [
+    {
+      "url": "https://www.linkedin.com/business/talent/blog/product-tips/linkedin-profile-summaries-that-we-love-and-how-to-boost-your-own",
+      "title": "14 LinkedIn Profile Summary Examples (and 14 Best Practices)"
+    },
+    {
+      "url": "https://www.finaldraftresumes.com/post/linkedin-summary-examples-15-templates-that-get-results",
+      "title": "LinkedIn Summary Examples: 10 Templates That Get Results"
+    }
+  ],
+  "frontend take home assignment tips": [
+    {
+      "url": "https://dev.to/gergelyorosz/9-insider-tips-to-ace-your-next-takehome-project-for-frontend-fullstack-and-mobile-interviews-41nn",
+      "title": "9 Tips to Ace Your Takehome Project for Frontend, Fullstack ..."
+    },
+    {
+      "url": "https://tip.speak.careers/docs/week-2/take-home-projects",
+      "title": "Take Home Projects | Tech Interview Prep Guide by Speak_"
+    }
+  ],
+  "GitHub profile README template developer": [
+    {
+      "url": "https://github.com/topics/profile-template",
+      "title": "profile - template \u00b7 GitHub Topics \u00b7 GitHub"
+    },
+    {
+      "url": "https://jsmastery.com/course/dev-career-accelerator/github-profile-optimization/profile-readme-template",
+      "title": "Profile ReadMe Template"
+    },
+    {
+      "url": "https://pypi.org/project/profile-readme/",
+      "title": "A CLI tool for generating a GitHub profile README using the Jinja..."
+    }
+  ],
+  "open source good first issue react typescript": [
+    {
+      "url": "https://goodfirstissue.dev/",
+      "title": "Good First Issue: Make your first open-source contribution"
+    },
+    {
+      "url": "https://github.com/topics/good-first-issue",
+      "title": "good-first-issue \u00b7 GitHub Topics \u00b7 GitHub"
+    },
+    {
+      "url": "https://first-issues.live/",
+      "title": "First Issues - Find Your First Open Source Contribution"
+    }
+  ],
+  "mentorship programs for career switchers tech": [
+    {
+      "url": "https://www.bettercareer.org/post/tech-career-mentorship-program",
+      "title": "What Is the Best Tech Career Mentorship Program? Top 10 Options"
+    },
+    {
+      "url": "https://blog.get-merit.com/17-mentorship-programs-to-help-you-launch-and-grow-your-tech-career/",
+      "title": "17 Mentorship Programs to Help You Launch and Grow Your Tech ... We Uncovered 5 Best Platforms For Career Tech Mentorship Transitioning to Tech: The Ultimate Guide for Career Switchers Mentors in Tech We Uncovered 5 Best Platforms For Career Tech Mentorship 17 Mentorship Programs to Help You Launch and Grow Your Tech Car\u2026 Mentors in Tech 17 Mentorship Programs to Help You Launch and Grow Your Tech Car\u2026 Learn and Grow in Tech with help from world class mentors."
+    },
+    {
+      "url": "https://mentorsintech.com/",
+      "title": "Mentors in Tech"
+    }
+  ],
+  "udemy download lectures offline mac": [
+    {
+      "url": "https://support.udemy.com/hc/en-us/articles/229231167-How-to-Download-Lectures-to-a-Computer-if-Enabled",
+      "title": "How to Download Lectures to a Computer (if Enabled) \u2013 Udemy"
+    },
+    {
+      "url": "https://udemyvideodownloader.com/blog/how-to-download-udemy-videos-on-mac",
+      "title": "How to Download Udemy Videos on Mac ... | Udemy Video Downloader"
+    },
+    {
+      "url": "https://idownergo.com/convert-video/download-udemy-video/",
+      "title": "4 Best Ways to Download Udemy Videos on PC/ Mac for Free"
+    },
+    {
+      "url": "https://multimedia.easeus.com/video-download-tips/download-udemy-video.html",
+      "title": "Download Udemy Video/Course to Watch Offline [2025]"
+    },
+    {
+      "url": "https://www.allavsoft.com/how-to/download-udemy-videos.html",
+      "title": "Download Udemy Videos to MP4, MP3, MOV, AVI etc"
+    }
+  ],
+  "coursera offline video download iphone": [
+    {
+      "url": "https://blog.coursera.org/mobile-offline-features/",
+      "title": "Going Offline: Improvements to our most ... - Coursera Blog"
+    },
+    {
+      "url": "https://expertbeacon.com/the-ultimate-guide-to-downloading-coursera-courses-for-offline-learning/",
+      "title": "The Ultimate Guide to Downloading Coursera Courses for ..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YSd3p9fKcOE",
+      "title": "Can I Download Coursera Videos? - Be App Savvy - YouTube The Ultimate Guide to Downloading Coursera Courses for ... GitHub - sanketh95/coursera-offline: Download your favorite ... Going Offline: Improvements to our most ... - Coursera Blog How To Download All Videos In Coursera Course Download Coursera Courses: A Step-by-Step Guide How do I download an entire Coursera course? - spainexchange.com"
+    }
+  ],
+  "export coursera transcript to srt": [
+    {
+      "url": "https://github.com/jansenicus/www-coursera-downloader",
+      "title": "jansenicus/www-coursera-downloader - GitHub"
+    },
+    {
+      "url": "https://subtitletools.com/convert-to-srt-online",
+      "title": "Convert Subtitles to Srt: online format converter"
+    },
+    {
+      "url": "https://gotranscript.com/subtitle-converter",
+      "title": "Subtitle Converter | Free tool | GoTranscript"
+    },
+    {
+      "url": "https://www.taption.com/transcripts-to-subtitles/",
+      "title": "TXT to SRT Converter - Import & Edit Subtitles Online - Taption"
+    }
+  ],
+  "frontend masters offline app ios": [
+    {
+      "url": "https://apps.apple.com/de/app/frontend-masters/id1383780486",
+      "title": "Frontend Masters im App Store"
+    },
+    {
+      "url": "https://frontend-masters.softonic.com/",
+      "title": "Frontend Masters para iPhone - Descargar"
+    }
+  ],
+  "scrimba offline videos available": [
+    {
+      "url": "https://scrimba.helpscoutdocs.com/article/75-can-i-watch-courses-offline",
+      "title": "Can I watch courses offline? - Scrimba Help Centre"
+    },
+    {
+      "url": "https://forum.videohelp.com/threads/415945-Help-downloading-videos-from-Scrimba",
+      "title": "Help downloading videos from Scrimba - VideoHelp Forum"
+    }
+  ],
+  "youtube playback speed keyboard shortcuts": [
+    {
+      "url": "https://support.google.com/youtube/answer/7631406?hl=en",
+      "title": "Keyboard shortcuts for YouTube - YouTube Help - Google Help"
+    },
+    {
+      "url": "https://vidiq.com/blog/post/30-youtube-keyboard-shortcuts/",
+      "title": "30 YouTube Keyboard Shortcuts to Save Yourself Some Time - vidIQ"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=zkZJgSlR0IA",
+      "title": "Hotkeys For YouTube Speed - Faster & Slower Playback"
+    },
+    {
+      "url": "https://www.sickrate.com/youtube-shortcuts",
+      "title": "YouTube Keyboard Shortcuts - Complete Guide & Cheat Sheet"
+    },
+    {
+      "url": "https://vind-works.io/resources/youtube-keyboard-shortcuts",
+      "title": "YouTube Keyboard Shortcuts Guide 2025 \u00b7 Vind"
+    }
+  ],
+  "vlc playback speed shortcut mac": [
+    {
+      "url": "https://apple.stackexchange.com/questions/127386/how-do-i-vary-the-playback-speed-in-vlc-using-keyboard-shortcuts",
+      "title": "How do I vary the playback speed in VLC using keyboard shortcuts ?"
+    }
+  ]
+}

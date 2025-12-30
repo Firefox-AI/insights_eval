@@ -1,0 +1,20 @@
+{
+  "name": "Rowan Kim",
+  "description": "Rowan Kim is an inquisitive, systems-thinking STEM learner who treats curiosity as a sequence of small, reproducible research sprints. Blending physics, biology, and computing, they design self-directed learning quests with clear questions, success metrics, and a tangible deliverable (a demo, write-up, or dataset). Rowan\u2019s approach is hands-on and evidence-driven: build a sensor, simulate a model in Python, validate with back-of-the-envelope estimates, then compare against peer-reviewed sources. To avoid shallow topic-hopping, they work in monthly focus themes and keep a \u2018parking lot\u2019 for tangential ideas. They champion open science and accessibility, publishing notes and code with thoughtful documentation, diagrams, and beginner-friendly explainers. Rowan leans on a tight toolchain\u2014Obsidian for a lab notebook, Zotero for literature, Anki for spaced repetition, and Jupyter for computational experiments\u2014with checklists for reproducibility and ethics/safety. Reflective practice frames everything: concept maps, postmortems, and bias checks (e.g., looking for disconfirming evidence). Community fuels their learning\u2014study circles, hack nights, and mentorship\u2014where they enjoy translating between expert jargon and novice intuition. Constrained by a student budget, they prioritize frugal, safe, and modular builds using open-source hardware and recycled parts. Long-term, Rowan aims to work at the intersection of environmental sensing and science communication, helping communities collect trustworthy data and turn it into actionable understanding.",
+  "example_behaviours": [
+    "Sets a monthly \u2018learning theme\u2019 (e.g., microfluidics, air quality, graph algorithms) culminating in a small demo and a public reflection post.",
+    "Maintains Jupyter notebooks with unit tests and clear docstrings; publishes reproducible repos with environment files and data dictionaries.",
+    "Builds and calibrates an Arduino-based air-quality monitor; streams data to a local database and visualizes it in Grafana.",
+    "Uses Anki daily for formulas, derivations, and vocabulary; tags cards by theme and difficulty to guide spaced repetition.",
+    "Runs kitchen-safe growth curve experiments with baker\u2019s yeast to practice data collection, plotting, and error analysis.",
+    "Participates in citizen science (Zooniverse image classification, eBird logs, Folding@home) and documents contributions and insights.",
+    "Hosts a weekly \u2018Concept Caf\u00e9\u2019 study circle, using the Feynman technique and whiteboard sketches to consolidate shared understanding.",
+    "Writes \u2018explain-like-I\u2019m-five\u2019 and \u2018explain-like-I\u2019m-a-grad\u2019 paired summaries of papers; includes accessibility notes and alt text for figures.",
+    "Practices Fermi estimates and order-of-magnitude checks before deep-diving; logs assumptions and sanity checks in the notebook.",
+    "Builds a Raspberry Pi star tracker for weekend astrophotography; processes images with dark/flat calibration frames.",
+    "Designs small N-of-1 sleep or focus experiments using a wearable; preregisters a simple hypothesis and analyzes results with basic stats.",
+    "Volunteers at a local science museum, running a slime mold maze demo to teach optimization and emergent behavior.",
+    "Enters beginner-friendly data competitions and writes postmortems that compare feature choices to domain theory.",
+    "Attends public lectures with one pre-written question; posts a two-paragraph TL;DR of the talk with references in Zotero."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Maya Lorenz",
+  "description": "Maya is a 29-year-old Berlin-born backpacker and remote UX researcher who funds long stints of slow travel by working 20\u201325 hours a week from hostels, caf\u00e9s, and coworking spaces. Curious and methodical, she plans trips by triangulating travel blogs, local forums, and official sources, then builds lightweight itineraries that balance nature, street food, and neighborhood culture with strong Wi\u2011Fi windows for work. She\u2019s budget-savvy but values ethical choices\u2014favoring public transit, refill stations, and family-run stays. Maya travels carry-on only with a 38L pack, prioritizing repairable gear and ultralight basics. She layers safety into every move (offline maps, document backups, check-in routines) and cross-checks visa rules, seasonal weather, and potential scams before committing. An ambivert, she enjoys hostel common rooms and free walking tours, but also carves out quiet mornings for deep work and sunset hours for photography. She\u2019s learning Spanish and basic phrases in each country, connects with locals through language exchanges and short-term volunteer projects, and publishes honest mini-guides on her blog with what she\u2019d redo next time. Pain points include patchy internet, night-bus fatigue, and visa bureaucracy; she mitigates with flexible schedules, eSIMs, and contingency buffers. Long-term, Maya aims to write a guide on responsible backpacking and to hike at least one iconic multi-day trail on each continent.",
+  "example_behaviours": [
+    "Builds destination scorecards in Notion with columns for visa rules, seasons, hikes, safety notes, and average Wi\u2011Fi speeds.",
+    "Annotates Google Maps layers with caf\u00e9s, street-food stalls, hiking trailheads, and laundromats; color-codes by priority.",
+    "Reads and compares multiple travel blogs, then validates details in local Facebook groups, Wikivoyage, and official transport sites.",
+    "Practices ultralight packing; does periodic pack shakedowns; repairs gear with a mini sewing kit and Tenacious Tape.",
+    "Joins free walking tours and tips well; returns solo at golden hour for street photography.",
+    "Keeps a handwritten travel journal with watercolor sketches and taped-in tickets/receipts.",
+    "Learns essential phrases via Anki decks; attends language-exchange meetups weekly.",
+    "Volunteers short-term through Workaway/WWOOF on eco-projects that align with her sustainability values.",
+    "Tracks expenses daily, targeting a <$35/day average; cooks in hostel kitchens and hunts local produce markets.",
+    "Chooses night buses/trains to save on accommodation; packs earplugs, inflatable footrest, and a silk liner.",
+    "Uses safety routines: door wedge, decoy wallet, offline document copies, and scheduled family check-ins.",
+    "Seeks trail-running routes and 2\u20133 day treks; carries resistance bands to maintain strength on the road.",
+    "Publishes a no-sponsorship newsletter with practical itineraries and candid \u2018what I\u2019d do differently\u2019 sections.",
+    "Carries a water filter, collapsible cup, and tote; avoids single-use plastics and offsets flights when unavoidable.",
+    "Hosts casual hostel board-game nights or photo walks to spark connections without heavy drinking."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cassia \"Cass\" Moreno",
+  "description": "Cassia Moreno is a community-first craft workshop organizer based in Milwaukee, age 34, with a background in industrial design and adult education. She specializes in approachable, low-waste projects\u2014macrame plant hangers, linocut printmaking, cyanotypes, kintsugi-inspired repairs, and natural dyeing\u2014tailored for neighborhood centers, libraries, and team-building events. Cass excels at turning ambiguous ideas into calm, well-sequenced sessions: she builds minute-by-minute run sheets, pre-packs seat-specific supply kits, and keeps 10 percent overage for breakage. Cost-savvy and sustainability-minded, she blends wholesale orders with reclaimed finds, tracks price-per-seat in a color-coded spreadsheet, and prioritizes non-toxic materials and reusables. A warm but structured facilitator, Cass creates psychologically safe rooms with clear demos, practice swatches, and optional adaptations for different skill levels and sensory needs. She is meticulous about storage and logistics\u2014Airtable for inventory, Notion for curriculum, Canva for handouts, Eventbrite and Square for registrations and payments. Her business goals are balanced: keep materials under $12 per attendee on a $45 ticket, maintain a 35 percent repeat rate, and partner with local artisans to feature guest techniques. Challenges she navigates include cash flow for upfront buying, venue constraints, and late RSVPs; she mitigates with deposits, tiered pricing, and portable setups. Outside of sessions, Cass cultivates a neighborhood repair culture, mentors teen volunteers, and experiments with new crafts each quarter to keep her curriculum fresh.",
+  "example_behaviours": [
+    "Runs a 20-minute dry run of every project to time steps and identify bottlenecks",
+    "Maintains a supplier binder with three alternates per material and historical price logs",
+    "Pre-cuts and packs seat-numbered project pouches to speed class setup",
+    "Builds spill and safety kits with gloves, stain remover, and labeled disposal bags",
+    "Designs illustrated, large-type handouts and offers QR codes for digital copies",
+    "Grows marigold and indigo in a balcony garden for natural dye demos",
+    "Thrift-hunts on Sundays for frames, jars, and textiles to upcycle into class kits",
+    "Tracks cost-per-seat and waste rate in a color-coded Google Sheet dashboard",
+    "Hosts a monthly Fix-It Friday drop-in for mending and kintsugi-style repairs",
+    "Curates a low-tempo playlist and schedules quiet focus intervals during workshops",
+    "Offers sensory-friendly sessions with softer lighting and optional noise-dampening",
+    "Barters with a local cafe for evening venue space in exchange for co-promotion",
+    "Keeps an Airtable inventory with par levels and auto-reminders for reorders",
+    "Trains teen volunteers with micro-roles (greeting, tool sanitation, photo logging)",
+    "Uses before-and-after photo boards and attendee work walls to build momentum",
+    "Pilots one new craft per quarter and trades classes with other instructors",
+    "Saves labeled material swatches in a reference library for future project planning",
+    "Sends a 3-question post-event survey and iterates supply choices based on feedback"
+  ]
+}

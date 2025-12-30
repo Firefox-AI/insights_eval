@@ -1,0 +1,26 @@
+{
+  "name": "Alex Kim",
+  "description": "Alex Kim is a meticulous, value-driven car shopper in their mid-30s who approaches vehicle purchases like a product manager. They maintain a living spreadsheet to compare models across total cost of ownership, reliability, safety ratings, warranty terms, depreciation forecasts, and real-world fuel economy. Alex currently commutes across a busy metro area and wants a car that balances comfort, safety tech (adaptive cruise, blind-spot monitoring), and low running costs. Apartment living limits home charging, so Alex leans toward hybrids or efficient gas models while staying curious about PHEVs with accessible public charging. Budget is mid-30k, with flexibility if long-term cost savings or resale value justify it. Alex prefers transparent pricing, secures credit-union preapproval, and negotiates via email to avoid pressure tactics and add-ons. They read long-form reviews, watch YouTube instrumented tests, and rely on owner forums and reliability databases more than glossy marketing. Weekend test drives include family fit checks (car seat space, trunk usability) and noise-level assessments on highways. Alex times purchases near month/quarter end, tracks incentive cycles, and considers off-lease CPO options versus new to optimize warranty and depreciation. Post-purchase, they log fuel economy, share detailed reviews, and keep a strict maintenance schedule, aiming to help other shoppers with clear, data-backed insights.",
+  "example_behaviours": [
+    "Builds a comparison spreadsheet with columns for MSRP, OTD price, insurance quotes, fuel costs, maintenance estimates, and projected resale value",
+    "Sets saved searches and price-drop alerts on CarGurus, Cars.com, and Autotrader",
+    "Checks IIHS and NHTSA safety ratings and filters out models without top scores",
+    "Watches long-form reviews and instrumented tests from channels like Throttle House and Alex on Autos",
+    "Reads Consumer Reports reliability data and owner forums for common issues",
+    "Emails multiple dealerships for written, out-the-door quotes and rejects add-ons in advance",
+    "Obtains credit-union preapproval and compares APRs with dealer financing",
+    "Schedules back-to-back test drives on the same route to compare road noise and ride quality",
+    "Uses a portable car seat to test rear-seat space and latch accessibility",
+    "Brings a paint depth gauge and OBD-II scanner for used car inspections; reviews Carfax/AutoCheck and service records",
+    "Times dealer visits near the end of the month or quarter to leverage sales targets",
+    "Tracks regional incentives, loyalty/conquest cash, and tax credits for hybrids/PHEVs",
+    "Runs a 5-year TCO model including tires, brakes, insurance, taxes, and expected depreciation",
+    "Negotiates remotely and requests a buyer\u2019s order before stepping into the dealership",
+    "Audits for hidden fees (VIN etching, nitrogen, paint sealant) and declines extended warranties unless priced fairly",
+    "Tests smartphone integration (CarPlay/Android Auto), lane-keeping behavior, and adaptive cruise in real traffic",
+    "Attends local Cars & Coffee events, chats with owners about long-term reliability",
+    "Logs fuel economy and maintenance in Fuelly/Drivvo and posts ownership updates on Reddit r/whatcarshouldIbuy",
+    "Uses public charging apps to simulate PHEV viability before committing",
+    "After purchase, writes a comprehensive review and publishes the comparison sheet template for other shoppers"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Jordan Park",
+  "description": "Jordan Park is a data-savvy running enthusiast in their mid-30s who treats training like an evolving experiment. A weekday dawn runner and weekend long-distance explorer, Jordan periodizes the year into macro, meso, and microcycles, adjusting volume and intensity using heart rate zones, HRV, and subjective readiness scores. They blend road and trail running, aiming to sharpen 10K speed while building toward a sub-3:30 marathon, all without sacrificing durability. Jordan relies on structured routines\u2014strength and mobility twice a week, a recovery protocol after hard sessions, and a nutrition plan that periodizes carbs\u2014yet remains flexible enough to adapt to weather, travel, or niggles. A natural organizer, Jordan captains a local run club pace group and curates route playlists, hydration stops, and post-run coffee meetups. They love visualizing progress, turning raw data from a GPS watch and sleep tracker into insights that shape the next week\u2019s workouts. Curious and community-minded, Jordan blends sports science with real-world testing, logs reflective notes about mindset and fatigue, and shares distilled takeaways with friends. Running is Jordan\u2019s creative outlet, a way to explore neighborhoods, trails, and limits\u2014always with an eye toward sustainability, consistency, and joy.",
+  "example_behaviours": [
+    "Builds 12\u201316 week periodized plans in Notion, tagging workouts by purpose (VO2, threshold, endurance, form).",
+    "Maintains a personal dashboard that syncs GPS runs, HRV, sleep, and RPE to spot patterns and adjust load.",
+    "Rotates three shoe types (daily trainer, tempo, plated racer) and A/B tests them on matched segments.",
+    "Leads a Sunday pace group, pre-staging water drops and mapping restrooms and bailout points.",
+    "Schedules twice-weekly strength and mobility sessions focused on hips, glutes, and single-leg stability.",
+    "Experiments with fueling (carb periodization, gel timing) only during training to avoid race-day surprises.",
+    "Uses a standardized post-run routine: 10-minute mobility, foam rolling, and a short breathing drill.",
+    "Writes detailed race reports with split analyses, conditions, and lessons for the next training block.",
+    "Volunteers as a race marshal or pacer and mentors new runners on pacing and effort management.",
+    "Collects route photos on easy trail days, later annotating them with elevation and surface notes."
+  ]
+}

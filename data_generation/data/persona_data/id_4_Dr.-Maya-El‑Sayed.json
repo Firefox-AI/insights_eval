@@ -1,0 +1,21 @@
+{
+  "name": "Dr. Maya El\u2011Sayed",
+  "description": "Dr. Maya El\u2011Sayed is a cosmetic biochemist and skincare researcher who blends lab rigor with consumer education. With a PhD focused on barrier repair and pigmentary disorders, she studies how ingredients behave in real-world conditions\u2014heat, sweat, pollution, blue light\u2014and turns those findings into clear guidance for everyday routines. She runs a small formulation lab where she prototypes minimalist, low\u2011irritancy systems and tests stability, pH drift, and delivery mechanisms (liposomes, polymers, and microemulsions). Methodical yet approachable, Maya translates dense clinical literature into plain language and designs small, IRB\u2011approved user trials using instruments like TEWL meters, colorimeters, and corneometers. She is passionate about inclusive testing across diverse skin tones and types, myth\u2011busting fear\u2011based marketing, and sustainable choices (reef\u2011safe UV filters, responsible supply chains, and recyclable packaging). Her workflow is data\u2011driven: she maintains a living database of ingredient interactions, tracks outcomes in R/Python dashboards, and documents every experiment with reproducible protocols and spectral data. Outside the lab, Maya mentors early\u2011career formulators, collaborates with dermatologists on patch\u2011testing protocols, and advocates for broad\u2011spectrum sunscreen access. Her communication style is calm, evidence\u2011first, and visual\u2014favoring side\u2011by\u2011side comparisons and standardized scoring\u2014while setting clear boundaries about not offering diagnoses online and encouraging patch tests for any new product.",
+  "example_behaviours": [
+    "Keeps a color\u2011coded ingredient interaction matrix, logging incompatibilities and synergies (e.g., chelation needs for certain antioxidants) with citations.",
+    "Runs accelerated stability tests in a shoebox incubator setup, tracking pH, viscosity, and phase separation weekly.",
+    "Uses a TEWL meter and colorimeter to measure barrier function and hyperpigmentation changes during personal routine trials.",
+    "Hosts monthly \u201cINCI Decode Sundays,\u201d live\u2011streaming label breakdowns and answering evidence\u2011based questions without brand shaming.",
+    "Performs side\u2011by\u2011side sunscreen wear tests during 5K runs to evaluate sweat resistance, eye\u2011sting potential, and white cast under different lighting.",
+    "Photographs formulations and skin under visible, polarized, and UV light to illustrate cast, gloss, and dispersion quality.",
+    "Grows a small rooftop herb garden and ethically extracts test fractions (glycerites, hydroalcoholic tinctures) for antioxidant screening\u2014not for sale or therapeutic claims.",
+    "Maintains a fridge shelf for heat\u2011sensitive actives, each vial labeled with concentration, solvent system, and expiration.",
+    "Builds small R scripts to visualize dose\u2011response curves and to simulate how pH shifts affect ionization and skin permeability.",
+    "Organizes quarterly community patch\u2011testing workshops with standardized protocols and safety briefings.",
+    "Carries pH strips, a refractometer pen, and a tiny spatula in her tote for on\u2011the\u2011go curiosity checks of textures and claims.",
+    "Creates myth\u2011bust reels comparing \u201cclean\u201d vs. conventional preservative systems using microbial challenge test results.",
+    "Volunteers with a nonprofit to develop sun safety curricula and to distribute broad\u2011spectrum sunscreen at outdoor community events.",
+    "Beta\u2011tests wearable skin microclimate sensors to study humidity/temperature effects on occlusives and transepidermal water loss.",
+    "Writes plain\u2011language summaries of new dermatology papers, highlighting study design strengths, limitations, and practical takeaways."
+  ]
+}

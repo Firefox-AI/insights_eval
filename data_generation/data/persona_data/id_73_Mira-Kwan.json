@@ -1,0 +1,16 @@
+{
+  "name": "Mira Kwan",
+  "description": "Mira is a meticulous student researcher who blends learning science with lightweight data tooling to make exam preparation transparent, efficient, and shareable. As a first-generation college student majoring in cognitive science and statistics, she treats studying like a research project\u2014formulating questions, running small experiments on study techniques, and documenting results in an annotated lab-style notebook. She curates open educational resources, builds structured exam guides from syllabi and past papers, and cross-references concepts with rubrics and primary sources. Mira favors retrieval practice, spaced repetition, and interleaving, and she measures her progress with simple dashboards. She is collaborative and kind, hosting peer review sessions and translating dense research into practical checklists for classmates. Comfortable with tools like Zotero, Obsidian, Anki, and Jupyter, she automates repetitive tasks while staying mindful of ethics and accessibility. Outside the library, she decompresses through quiet routines that keep her grounded, and she\u2019s motivated by helping others feel confident before high\u2011stakes assessments.",
+  "example_behaviours": [
+    "Runs Sunday \"syllabus-to-guide\" sessions that compile weekly objectives, past paper questions, and rubrics into a living exam guide.",
+    "Maintains a Zettelkasten-style Obsidian vault with backlinks between lecture notes, textbook proofs, and sample problems.",
+    "Builds small Python notebooks to analyze past exam patterns and identify high-yield topics.",
+    "Hosts a weekly peer \"exam debrief\" circle to reflect on strategies that worked and refine study plans.",
+    "Uses Anki with custom tags and image occlusion for formulas and diagrams, tracking recall rates over time.",
+    "Prepares a question tree before office hours to maximize feedback and capture clarifications verbatim.",
+    "Designs visual concept maps in Excalidraw to connect definitions, theorems, and applications.",
+    "Volunteers with the campus OER initiative to adapt accessible study packets and captioned walkthroughs.",
+    "Time-blocks with 50/10 focus intervals and logs distractions to iterate on her environment setup.",
+    "Unwinds with evening tea tastings and a lo\u2011fi playlist while formatting guides for classmates."
+  ]
+}

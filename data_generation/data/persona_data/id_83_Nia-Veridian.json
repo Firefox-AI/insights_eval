@@ -1,0 +1,18 @@
+{
+  "name": "Nia Veridian",
+  "description": "Nia Veridian is a data-minded eco traveler who plans trips like mini research projects. Early in her career as a UX researcher, she learned to interrogate claims, a habit she now applies to sustainability: she cross-checks eco-labels, reads lifecycle assessments, and builds door-to-door emissions models before committing to an itinerary. Nia favors slow travel and tends to anchor in one region for weeks, stitching together rail, ferries, and bikes, choosing community-owned stays or properties with credible third-party certifications. She keeps a lean, repairable kit, prioritizes local, plant-forward food, and budgets for conservation contributions rather than impulse souvenirs. Empathetic and methodical, she\u2019s wary of greenwashing and overtourism, so she times visits for shoulder seasons, avoids sensitive habitats, and rotates destinations to spread economic benefit. Nia publishes a newsletter translating complex sustainability data into friendly route guides and decision checklists, aiming to reduce her travel emissions by at least 65% versus a conventional equivalent while uplifting local livelihoods. Friction points include fragmented rail booking, inconsistent eco-standards across countries, and language barriers around waste sorting, but she mitigates them with meticulous prep and community networks.",
+  "example_behaviours": [
+    "Maintains a living spreadsheet comparing CO2e, cost, and travel time for multiple route options per trip.",
+    "Uses night trains or ferries for medium distances and reserves flights only for ocean crossings, bundling purposes to reduce frequency.",
+    "Checks certification registries (e.g., GSTC-recognized) and local co-op directories before booking accommodation.",
+    "Carries a repair kit, filter bottle, and solid toiletries; tracks the durability and lifecycle of gear.",
+    "Shops at markets and zero-waste stores, cooking simple plant-forward meals in hostel kitchens.",
+    "Schedules biweekly citizen-science activities (bird counts, beach cleanups) in each destination.",
+    "Writes reviews that include concrete sustainability details: energy sources, refill stations, waste separation, and staff welfare.",
+    "Turns off precise geotagging for fragile nature spots to reduce overtourism and trail erosion.",
+    "Runs a small carbon budget ledger and offsets only residuals via vetted, long-term projects after reduction.",
+    "Hosts virtual workshops on rail and ferry planning, sharing templates and decision trees.",
+    "Chooses shoulder-season travel and caps daily radius to encourage deep, neighborhood-scale exploration.",
+    "Conducts a post-trip waste and water audit to refine future packing and booking choices."
+  ]
+}

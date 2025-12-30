@@ -1,0 +1,1496 @@
+{
+  "nba play-by-play api python": [
+    {
+      "url": "https://pypi.org/project/nba_api/",
+      "title": "nba_api \u00b7 PyPI"
+    },
+    {
+      "url": "https://github.com/swar/nba_api/blob/master/docs/examples/PlayByPlay.ipynb",
+      "title": "nba_api/docs/examples/PlayByPlay.ipynb at master - GitHub"
+    },
+    {
+      "url": "https://nba-apidocumentation.knowledgeowl.com/help",
+      "title": "Welcome to the NBA-API Documentation!"
+    },
+    {
+      "url": "https://medium.com/@cristianvaldez85/nba-data-using-python-82ebc0e19398",
+      "title": "NBA Data \u2014 Using Python. If you\u2019d like to pull data on NBA ... Get NBA Stats API play-by-play (Multiple Games) \u2014 nba_pbps nba_api - Codesandbox PySport Opensource Overview"
+    }
+  ],
+  "understat xG data api endpoint": [
+    {
+      "url": "https://pypi.org/project/jeke-understat-scrapper/",
+      "title": "A Python API for scraping football data from understat .com"
+    }
+  ],
+  "mlb statcast data python tutorial": [
+    {
+      "url": "https://medium.com/@robbiedudz34/from-raw-statcast-data-to-full-mlb-reports-python-does-it-all-2dcb7356a4bc",
+      "title": "From Raw Statcast Data to Full MLB Reports \u2014 Python Does It ..."
+    },
+    {
+      "url": "https://www.tdabaseball.com/post/an-introduction-to-pybaseball-using-python-to-analyze-baseball-data",
+      "title": "An Introduction to PyBaseball: Using Python to Analyze ..."
+    },
+    {
+      "url": "https://www.mlbdatawarehouse.com/p/mlb-python-learning-course",
+      "title": "MLB + Python Learning Course - by Jon A - Substack"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uI4zCM1b-R8",
+      "title": "how to download MLB Statcast data with pybaseball in Python GitHub - jldbc/ pybaseball : Pull current and historical baseball An Introduction to PyBaseball: Using Python to Analyze Baseball Data GitHub - jldbc/ pybaseball : Pull current and historical baseball An Introduction to PyBaseball: Using Python to Analyze Baseball Data Baseball_Data_Analysis.ipynb - Colab"
+    }
+  ],
+  "fbref team match logs download csv": [
+    {
+      "url": "https://github.com/griffisben/Soccer-Analyses/blob/main/Match+Log+Downloads+from+FBRef.ipynb",
+      "title": "Match Log Downloads from FBRef.ipynb - GitHub"
+    },
+    {
+      "url": "https://jaseziv.github.io/worldfootballR/articles/extract-fbref-data.html",
+      "title": "Extracting data from FBref \u2022 worldfootballR - GitHub Pages"
+    },
+    {
+      "url": "https://pypi.org/project/fbref-scraper/",
+      "title": "fbref-scraper \u00b7 PyPI"
+    }
+  ],
+  "elo rating update formula sports k factor": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Elo_rating_system",
+      "title": "Elo rating system - Wikipedia"
+    },
+    {
+      "url": "https://stanislav-stankovic.medium.com/elo-rating-system-6196cc59941e",
+      "title": "Elo Rating System. NOTE: Medium doesn\u2019t display subscripts | Medium"
+    },
+    {
+      "url": "https://www.omnicalculator.com/sports/elo",
+      "title": "Elo Calculator"
+    },
+    {
+      "url": "https://elo-calculator-bice.vercel.app/",
+      "title": "FIDE ELO Calculator"
+    },
+    {
+      "url": "https://deepwiki.com/ak47andrew/ChessBotAdventures/3.3-elo-calculation",
+      "title": "Elo Calculation | ak47andrew/ChessBotAdventures | DeepWiki"
+    }
+  ],
+  "bayesian update player form kalman filter example": [
+    {
+      "url": "https://www.r-bloggers.com/2020/07/kalman-filter-as-a-form-of-bayesian-updating/",
+      "title": "Kalman Filter as a Form of Bayesian Updating - R-bloggers"
+    },
+    {
+      "url": "http://stefanosnikolaidis.net/course-files/CS545/Lecture6.pdf",
+      "title": "Lecture #6: Bayesian and Kalman Filters - Stefanos Nikolaidis Kalman Filter Part 2 \u2014 Bayes Filter | by Mathias Mantelli ... Lecture 3: Bayesian Optimal Filtering Equations and Kalman Filter The Kalman Filter Kalman Filtering: A Bayesian Approach Lecture 3: Bayesian Optimal Filtering Equations and Kalman Filter Lecture #6: Bayesian and Kalman Filters - Stefanos Nikolaidis Lecture #6: Bayesian and Kalman Filters - Stefanos Nikolaidis The Kalman Filter Kalman Filter for Bayesians \u2014 LessWrong"
+    },
+    {
+      "url": "https://medium.com/@mathiasmantelli/kalman-filter-part-2-bayes-filter-f2fa9c0b5c95",
+      "title": "Kalman Filter Part 2 \u2014 Bayes Filter | by Mathias Mantelli ..."
+    },
+    {
+      "url": "https://users.aalto.fi/~ssarkka/course_k2011/pdf/handout3.pdf",
+      "title": "Lecture 3: Bayesian Optimal Filtering Equations and Kalman Filter"
+    },
+    {
+      "url": "https://pages.cs.wisc.edu/~jphanna/teaching/25spring_cs639/resources/KalmanNotes.pdf",
+      "title": "The Kalman Filter"
+    }
+  ],
+  "soccer strength of schedule calculation last 5": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Strength_of_schedule",
+      "title": "Strength of schedule - Wikipedia"
+    },
+    {
+      "url": "https://hackastat.eu/en/learn-a-stat-strength-of-schedule-sos/",
+      "title": "Learn a Stat: Strength of Schedule (SoS) - Hack a Stat Images How to Calculate the Strength of Schedule in Excel Calculating a Football Team\u2019s Strength of Schedule Strength of Schedule - TheHuddle How to Measure and Compute Strength of Schedule Strength of Schedule - DraftSharks"
+    },
+    {
+      "url": "https://www.thebricks.com/resources/how-to-calculate-strength-of-schedule-in-excel",
+      "title": "How to Calculate the Strength of Schedule in Excel"
+    },
+    {
+      "url": "https://paulrjohnson.net/blog/2024-04-02-calculating-strength-of-schedule-football/",
+      "title": "Calculating a Football Team\u2019s Strength of Schedule"
+    },
+    {
+      "url": "https://thedatajocks.com/computing-strength-of-schedule/",
+      "title": "How to Measure and Compute Strength of Schedule"
+    }
+  ],
+  "okabe ito color palette hex codes": [
+    {
+      "url": "https://easystats.github.io/see/reference/okabeito_colors.html",
+      "title": "Extract Okabe-Ito colors as hex codes \u2014 okabeito_colors"
+    },
+    {
+      "url": "https://www.rdocumentation.org/packages/see/versions/0.10.0/topics/okabeito_colors",
+      "title": "okabeito_colors function - RDocumentation"
+    }
+  ],
+  "colorblind safe palettes matplotlib": [
+    {
+      "url": "https://www.stratascratch.com/blog/how-to-customize-matplotlib-colors-for-better-plots/",
+      "title": "How to Customize Matplotlib Colors for Better Plots? - StrataScratch"
+    },
+    {
+      "url": "https://freedium.cfd/d023f74515b4",
+      "title": "Matplotlib Styles for Scientific Plotting | by Rizky Maulana... - Freedium"
+    },
+    {
+      "url": "https://medium.com/@kevinrioharris/enhancing-data-visualizations-with-color-palettes-in-matplotlib-0a39e70f8dfc",
+      "title": "Enhancing Data Visualizations with Color Palettes in Matplotlib"
+    }
+  ],
+  "plotly dashboard colorblind theme sports": [
+    {
+      "url": "https://plotly.com/python/templates/",
+      "title": "Theming and templates in Python - Plotly"
+    },
+    {
+      "url": "https://thelinuxcode.com/plotly-io-templates/",
+      "title": "Taking Control of Your Plots: An Advanced Guide to Plotly Themes"
+    },
+    {
+      "url": "https://www.linkedin.com/advice/3/how-can-you-design-dashboard-accessible-users-color-undsf",
+      "title": "How to Design Dashboards for Color Blindness - LinkedIn"
+    },
+    {
+      "url": "https://github.com/plotly/dash-sample-apps/issues/450",
+      "title": "Use colorblind-friendly sequence of colors for trainable ..."
+    }
+  ],
+  "slack bot post matplotlib image python": [
+    {
+      "url": "https://stackoverflow.com/questions/52417750/how-to-send-image-to-slack-as-slack-bot-via-slackclient",
+      "title": "python - How to send Image to Slack as slack bot via ... Code sample"
+    },
+    {
+      "url": "https://pypi.org/project/slack-helpers/",
+      "title": "slack-helpers \u00b7 PyPI"
+    },
+    {
+      "url": "https://github.com/deargen/slack-helpers",
+      "title": "GitHub - deargen/slack-helpers: Send traceback, matplotlib ..."
+    },
+    {
+      "url": "https://docs.slack.dev/tools/python-slack-sdk/tutorial/uploading-files/",
+      "title": "Uploading files with Python | Slack Developer Docs"
+    },
+    {
+      "url": "https://www.exchangetuts.com/how-to-send-image-to-slack-as-slack-bot-via-slackclient-1641296823672681",
+      "title": "How to send Image to Slack as slack bot via slackclient?"
+    }
+  ],
+  "discord bot post game updates schedule": [
+    {
+      "url": "https://patchbot.io/",
+      "title": "PatchBot - The #1 Discord Bot for Patch Notes and Game Updates"
+    },
+    {
+      "url": "https://github.com/sillvva/rpg-schedule",
+      "title": "GitHub - sillvva/rpg-schedule: A discord bot for announcing ... Calendar Discord Bots and Apps | The #1 Discord Bot and ... PatchBot - Discord Bots Add Announcements Discord Bot | Invite Link Discord Post Scheduler | Schedule Channel Posts PatchBot - The #1 Discord Bot for Patch Notes and Game Updates GitHub - sillvva/rpg- schedule : A discord bot for announcing RPG gam\u2026 PatchBot - Discord Bots PatchBot - Discord Bots rpg-schedule/README.md at master \u00b7 sillvva/rpg-schedule"
+    },
+    {
+      "url": "https://top.gg/tag/calendar",
+      "title": "Calendar Discord Bots and Apps | The #1 Discord Bot and ..."
+    },
+    {
+      "url": "https://discord.bots.gg/bots/402528814548254720",
+      "title": "PatchBot - Discord Bots"
+    },
+    {
+      "url": "https://discordbotlist.com/bots/game-announcements",
+      "title": "Add Announcements Discord Bot | Invite Link"
+    }
+  ],
+  "nba win probability model possession level": [
+    {
+      "url": "https://github.com/tonyelhabr/nba_wp",
+      "title": "tonyelhabr/ nba _wp: 1-day project modeling NBA win probability"
+    },
+    {
+      "url": "https://www.inpredictable.com/2013/06/nba-win-probability-added.html",
+      "title": "NBA Win Probability Added - inpredictable"
+    }
+  ],
+  "open source pbp data nba alternative": [
+    {
+      "url": "https://hoopr.sportsdataverse.org/",
+      "title": "hoopR \u2022 Data and Tools for Men's Basketball \u2022 hoopR"
+    },
+    {
+      "url": "https://github.com/JovaniPink/awesome-nba-data",
+      "title": "GitHub - JovaniPink/awesome-nba-data: A curated list of ..."
+    },
+    {
+      "url": "https://www.libhunt.com/topic/nba-data",
+      "title": "Top 3 nba-data Open-Source Projects | LibHunt"
+    },
+    {
+      "url": "https://sportsdataverse.r-universe.dev/hoopR",
+      "title": "hoopR: Access Men's Basketball Play by Play Data"
+    }
+  ],
+  "official nba injury report data feed": [
+    {
+      "url": "https://official.nba.com/nba-injury-report-2025-26-season/",
+      "title": "NBA Injury Report: 2025-26 Season - NBA Official"
+    }
+  ],
+  "soccer injury news api free": [
+    {
+      "url": "https://github.com/arkasarkar2000/football-news-api",
+      "title": "The Football News Aggregator API is a powerful tool for ..."
+    }
+  ],
+  "mlb lineup changes feed api": [
+    {
+      "url": "https://www.postman.com/sportradar-media-apis/workspace/sportradar-media-apis/request/17203961-38618e60-3f00-4678-9e1b-24955e7e1f39",
+      "title": "MLB Lineup Changes | Sportradar Media APIs | Postman API Network"
+    }
+  ],
+  "brier score calculation python sklearn": [
+    {
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.brier_score_loss.html",
+      "title": "brier_score_loss \u2014 scikit-learn 1.8.0 documentation"
+    },
+    {
+      "url": "https://sklearner.com/scikit-learn-brier_score_loss/",
+      "title": "Scikit-Learn brier_score_loss () Metric | SKLearner"
+    },
+    {
+      "url": "https://scikit-learn.ru/1.4/modules/generated/sklearn.metrics.brier_score_loss.html",
+      "title": "sklearn.metrics.brier_score_loss \u2014 scikit-learn 1.4.2 ..."
+    },
+    {
+      "url": "https://scikit-learn.sourceforge.net/stable/modules/generated/sklearn.metrics.brier_score_loss.html",
+      "title": "sklearn.metrics.brier_score_loss \u2014 scikit-learn 0.16.1 ..."
+    }
+  ],
+  "reliability diagram calibration curve code": [
+    {
+      "url": "https://github.com/apple/ml-calibration",
+      "title": "GitHub - apple/ml-calibration: relplot: Utilities for ..."
+    },
+    {
+      "url": "https://scikit-learn.org/stable/auto_examples/calibration/plot_calibration_curve.html",
+      "title": "Probability Calibration curves \u2014 scikit-learn 1.8.0 documentation"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/machine-learning/probability-calibration-curve-in-scikit-learn/",
+      "title": "Probability Calibration Curve in Scikit Learn - GeeksforGeeks"
+    },
+    {
+      "url": "https://towardsdatascience.com/model-calibration-explained-a-visual-guide-with-code-examples-for-beginners-55f368bafe72/",
+      "title": "Model Calibration, Explained: A Visual Guide with Code ..."
+    }
+  ],
+  "hierarchical bayesian model sports tutorial": [
+    {
+      "url": "http://varianceexplained.org/r/hierarchical_bayes_baseball/",
+      "title": "Understanding empirical Bayesian hierarchical modeling ..."
+    },
+    {
+      "url": "https://www.r-bloggers.com/2013/07/modeling-match-results-in-la-liga-using-a-hierarchical-bayesian-poisson-model-part-one/",
+      "title": "Modeling Match Results in La Liga Using a Hierarchical Bayesian ..."
+    },
+    {
+      "url": "https://medium.com/@samvaughan01/world-cup-predictions-from-a-hierarchical-bayesian-model-537e2319cc5d",
+      "title": "World Cup Predictions from a Hierarchical Bayesian Model | Medium"
+    }
+  ],
+  "elo model with home advantage parameter": [
+    {
+      "url": "https://github.com/VargaJaData/nfl-elo-game-test",
+      "title": "GitHub - VargaJaData/nfl- elo -game-test: Data and code for..."
+    },
+    {
+      "url": "https://thedatajocks.com/baseball-elo-model-with-betting-data/",
+      "title": "Building a Baseball Elo Model using Betting Data - The Data Jocks"
+    }
+  ],
+  "soccer elo draw probability adjustment": [
+    {
+      "url": "https://en.wikipedia.org/wiki/World_Football_Elo_Ratings",
+      "title": "World Football Elo Ratings - Wikipedia"
+    },
+    {
+      "url": "https://www.cosmicway.net/elocalculator.html",
+      "title": "the elo soccer probability engine"
+    }
+  ],
+  "expected goals glossary simple explanation": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Expected_goals",
+      "title": "Expected goals - Wikipedia"
+    },
+    {
+      "url": "https://theanalyst.com/articles/what-is-expected-goals-xg",
+      "title": "What Is Expected Goals (xG)? | Opta Analyst"
+    }
+  ],
+  "basketball rapm vs rpm differences": [],
+  "baseball WAR explained for beginners": [
+    {
+      "url": "https://www.baseball-reference.com/about/war_explained.shtml",
+      "title": "Baseball -Reference.com WAR Explained | Baseball -Reference.com"
+    }
+  ],
+  "youth soccer passing drills metrics": [
+    {
+      "url": "https://www.risefcsoccer.com/youth-soccer-evaluation-drills/",
+      "title": "18 Effective Youth Soccer Evaluation Drills and Tips"
+    },
+    {
+      "url": "https://vallerta.com/blogs/vallertas-premier-soccer-blog/passing-mastery-essential-soccer-drills-for-youth-players",
+      "title": "Top Soccer Passing Drills for Youth: Skills & Teamwork \u2013 Vallerta"
+    },
+    {
+      "url": "https://www.soccercoachingpro.com/soccer-passing-drills/",
+      "title": "15 Soccer Passing Drills (2024 Update) - Soccer Coaching Pro KPIs: Unlocking Success in Youth Soccer | SkillShark Soccer ... 8 Top Soccer Passing Drills Youth Passing Drills Soccer: Build Passing Proficiency from a ..."
+    },
+    {
+      "url": "https://skillshark.com/blog/soccer-kpis",
+      "title": "KPIs: Unlocking Success in Youth Soccer | SkillShark Soccer ..."
+    },
+    {
+      "url": "https://www.soccer.com/guide/top-soccer-passing-drills",
+      "title": "8 Top Soccer Passing Drills"
+    }
+  ],
+  "practice plan spacing drills small sided": [
+    {
+      "url": "https://soccersourcecoaching.com/spacing-soccer-drills/",
+      "title": "Soccer Spacing Drills | 10 Drills The Best Coaches Are Using"
+    },
+    {
+      "url": "https://practiceprepped.com/small-sided-game-tactics-for-u10/",
+      "title": "Small-Sided Game Tactics for U10 - Practice Prepped"
+    },
+    {
+      "url": "https://www.soccerdrive.com/soccer-drills/category/small-sided-games",
+      "title": "Small Sided Soccer Games and Drills | SoccerDrive.com"
+    },
+    {
+      "url": "https://www.soccercoachingpro.com/small-sided-games-for-soccer/",
+      "title": "17 Small-Sided Games for Soccer (2024 Update)"
+    }
+  ],
+  "tracking training load rpe youth soccer": [
+    {
+      "url": "https://www.ecysa.org/Sites/Default/file/repository/US_Soccer_Monitoring_Training_loads.pdf",
+      "title": "MONITORING TRAINING LOADS IN SOCCER - ECYSA"
+    },
+    {
+      "url": "https://mozaiqsports.com/how-to-monitor-young-athletes-training-load/",
+      "title": "How to Monitor Young Athletes\u2019 Training Load?"
+    },
+    {
+      "url": "https://www.youcoach.com/tlm",
+      "title": "YouCoach Training Load Monitoring"
+    }
+  ],
+  "shot map python soccer heatmap": [
+    {
+      "url": "https://www.youtube.com/watch?v=N46zGdX_xsY",
+      "title": "How to Create Soccer Heatmaps in Python ! - YouTube"
+    },
+    {
+      "url": "https://medium.com/@JuanfranMandu/creating-soccer-heatmaps-with-python-369106c5fb57",
+      "title": "Creating Soccer Heatmaps with Python | by Francisco... | Medium"
+    },
+    {
+      "url": "https://github.com/ericksolisz/soccer-heatmap",
+      "title": "GitHub - ericksolisz/ soccer - heatmap"
+    },
+    {
+      "url": "https://mplsoccer.readthedocs.io/",
+      "title": "Quick start \u2014 mplsoccer 1.6.1 documentation"
+    },
+    {
+      "url": "https://fcpython.com/visualisation/football-heatmaps-seaborn",
+      "title": "Football Heatmaps with Seaborn - FC Python"
+    }
+  ],
+  "nba shot chart hexbin matplotlib": [
+    {
+      "url": "https://www.jphwang.com/posts/nba-shot-data-analytics-visualization-with-python-pandas-and-matplotlib-part-3/",
+      "title": "NBA shot data analytics & visualization with Python, Pandas ..."
+    },
+    {
+      "url": "https://github.com/savvastj/nbashots",
+      "title": "GitHub - savvastj/nbashots: NBA shot charts using matplotlib ..."
+    },
+    {
+      "url": "http://savvastjortjoglou.com/nba-shot-sharts.html",
+      "title": "How to Create NBA Shot Charts in Python - Savvas Tjortjoglou"
+    }
+  ],
+  "baseball spray chart python example": [],
+  "pbp event tagging tablet apps soccer": [
+    {
+      "url": "https://github.com/qoidnaufal/soccer_event_tagger",
+      "title": "GitHub - qoidnaufal/soccer_event_tagger"
+    },
+    {
+      "url": "https://tagg-maker.com/home/",
+      "title": "Tagg-maker \u2013 Digital platform for recording, tagging and ..."
+    },
+    {
+      "url": "https://www.spiideo.com/autodata/autodata-soccer/",
+      "title": "AutoData\u2122 - Football/Soccer - Spiideo"
+    },
+    {
+      "url": "https://www.metrica-sports.com/blog/smart-tagging-3-0-football-analysis",
+      "title": "Introducing Smart Tagging 3.0: The Future of Football ..."
+    }
+  ],
+  "open source sports event tagging tool": [
+    {
+      "url": "https://analystsid.medium.com/sports-event-tagger-using-python-generating-data-from-video-cea5bbd51fce",
+      "title": "Sports Event Tagger using Python: Generating Data from... | Medium"
+    }
+  ],
+  "nacsport vs hudl comparison pricing": [
+    {
+      "url": "https://slashdot.org/software/comparison/Hudl-Sportscode-vs-Nacsport/",
+      "title": "Compare Hudl Sportscode vs . Nacsport in 2025"
+    },
+    {
+      "url": "https://www.analysispro.com/nacsport-vs-hudl-sportscode",
+      "title": "Nacsport vs Hudl Sportscode: A Complete Overview"
+    },
+    {
+      "url": "https://www.nacsport.com/blog/en-gb/Users/10-surprising-differences-between-hudl-sportscode-and-nacsport-according-to-experts",
+      "title": "Nacsport | 10 Surprising Differences Between Hudl Sportscode and..."
+    }
+  ],
+  "win probability shift 5 percent threshold detection": [],
+  "annotate key possessions automatically code": [
+    {
+      "url": "https://github.com/Tengfei1010/provable-data-possession",
+      "title": "GitHub - Tengfei1010/provable-data- possession : Automatically ..."
+    },
+    {
+      "url": "https://diffgram.readme.io/docs/keypoints-annotation-type",
+      "title": "Keypoints Annotation Type | Diffgram Docs"
+    },
+    {
+      "url": "https://programmersought.com/article/19595074586/",
+      "title": "idea Set shortcut key annotation automatic ... - Programmer Sought"
+    },
+    {
+      "url": "https://newbe.dev/key-annotation-c-code-example",
+      "title": "key annotation c# code example"
+    }
+  ],
+  "nba lineup on off splits api": [
+    {
+      "url": "https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/teamdashlineups.md",
+      "title": "nba_api/docs/nba_api/stats/endpoints/teamdashlineups.md at ..."
+    },
+    {
+      "url": "https://nba-apidocumentation.knowledgeowl.com/help",
+      "title": "Welcome to the NBA-API Documentation!"
+    }
+  ],
+  "lineup net rating query nba stats python": [
+    {
+      "url": "https://pypi.org/project/nba_api/",
+      "title": "nba_api \u00b7 PyPI"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/79146183/how-can-i-get-advanced-team-stats-from-the-nba-api",
+      "title": "python - How can I get advanced team stats from the NBA API ..."
+    },
+    {
+      "url": "https://medium.com/@cristianvaldez85/nba-data-using-python-82ebc0e19398",
+      "title": "NBA Data \u2014 Using Python. If you\u2019d like to pull data on NBA ... Welcome to the NBA-API Documentation! An API Client package to access the APIs for NBA.com How to Retrieve NBA Statistics with NBA API in Python Using Python to Analyze NBA Game Data - DEV Community How to Retrieve NBA Statistics with NBA API in Python How to Retrieve NBA Statistics with NBA API in Python Welcome to the NBA -API Documentation! - KnowledgeOwl How to Retrieve NBA Statistics with NBA API in Python"
+    },
+    {
+      "url": "https://nba-apidocumentation.knowledgeowl.com/help",
+      "title": "Welcome to the NBA-API Documentation!"
+    },
+    {
+      "url": "https://github.com/swar/nba_api",
+      "title": "An API Client package to access the APIs for NBA.com"
+    }
+  ],
+  "mlb bullpen fatigue model rest days": [
+    {
+      "url": "https://help.outlier.bet/en/articles/11906728-how-to-use-bullpen-data-in-your-mlb-betting-strategy",
+      "title": "How to Use Bullpen Data in Your MLB Betting Strategy"
+    },
+    {
+      "url": "https://insidethepen.com/",
+      "title": "InsidethePen | Bullpen Analytics and Usage"
+    },
+    {
+      "url": "https://wsb.wharton.upenn.edu/wp-content/uploads/2023/12/2023_Baseball_Pitram_PitchingRest.pdf",
+      "title": "Optimal Rest Days for Pitchers: Maximizing Performance and Wins"
+    },
+    {
+      "url": "https://www.coresportsbetting.com/how-to-use-bullpen-fatigue-in-mlb-betting/",
+      "title": "How to Use Bullpen Fatigue in MLB Betting - Core Sports Betting"
+    }
+  ],
+  "back to back effects nba study": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8636381/",
+      "title": "Impacts of travel distance and travel direction on back-to ..."
+    },
+    {
+      "url": "https://thedatajocks.com/the-stats-behind-back-to-back-nba-games/",
+      "title": "The Stats Behind Back to Back NBA Games - The Data Jocks"
+    },
+    {
+      "url": "https://www.bruinsportsanalytics.com/post/how-does-back-to-backs-impact-the-nba",
+      "title": "How does Back to Backs impact the NBA? - bruinsportsanalytics.com"
+    },
+    {
+      "url": "https://medium.com/@kevhopper92/analyzing-the-impact-of-back-to-backs-on-nba-team-performance-88a4b80a5d99",
+      "title": "Analyzing the Impact of Back-to-Backs on NBA Team Performance"
+    }
+  ],
+  "fixture congestion soccer injury risk": [
+    {
+      "url": "https://www.researchgate.net/publication/366385199_The_Effects_of_Fixture_Congestion_on_Injury_in_Professional_Male_Soccer_A_Systematic_Review",
+      "title": "(PDF) The Effects of Fixture Congestion on Injury in Professional..."
+    },
+    {
+      "url": "https://www.academia.edu/12646469/The_effects_of_a_congested_fixture_period_on_physical_performance_technical_activity_and_injury_rate_during_matches_in_a_professional_soccer_team",
+      "title": "(PDF) The effects of a congested fixture period on physical..."
+    },
+    {
+      "url": "https://bjsm.bmj.com/content/49/6/390.full",
+      "title": "The effects of a congested fixture period on physical performance..."
+    }
+  ],
+  "travel distance team schedule csv source": [
+    {
+      "url": "https://fixturedownload.com/",
+      "title": "Download sports fixtures, schedules and results as CSV, XLSX ..."
+    },
+    {
+      "url": "https://bulk.distance.to/",
+      "title": "Excel, XLSX, CSV, Google Drive & Spreadsheet bulk distance ..."
+    },
+    {
+      "url": "https://docs.distance.tools/tools/spreadsheet",
+      "title": "Spreadsheet | Distance Tools"
+    }
+  ],
+  "public sports data apis list": [
+    {
+      "url": "https://publicapis.io/best/sports-and-fitness",
+      "title": "Best Sports & Fitness APIs (2025) \u2014 Public APIs"
+    },
+    {
+      "url": "https://topbusinesssoftware.com/categories/sports-data-apis/",
+      "title": "List of the Top 25 Sports Data APIs in 2025"
+    },
+    {
+      "url": "https://www.sportsjobs.online/blogposts/43",
+      "title": "12 Best Free Sports API Options for Developers in 2025"
+    },
+    {
+      "url": "https://publicapilist.com/category.php?name=sports-fitness",
+      "title": "Sports & Fitness APIs - Public API List"
+    }
+  ],
+  "rate limits handling retry backoff python requests": [
+    {
+      "url": "https://python.plainenglish.io/handling-api-rate-limits-in-python-techniques-to-avoid-downtime-e4c2c3c95cdd",
+      "title": "Handling API Rate Limits in Python \u2014 Techniques to Avoid Downtime"
+    },
+    {
+      "url": "https://peerdh.com/blogs/programming-insights/mastering-api-rate-limiting-in-python",
+      "title": "Mastering Api Rate Limiting In Python \u2013 peerdh.com"
+    },
+    {
+      "url": "https://www.pythontutorials.net/blog/limiting-throttling-the-rate-of-http-requests-in-grequests/",
+      "title": "How to Throttle HTTP Requests in GRequests ( Python ) to Avoid 429..."
+    }
+  ],
+  "data provenance best practices analytics": [
+    {
+      "url": "https://www.astera.com/type/blog/data-provenance/",
+      "title": "Data Provenance: Importance, Challenges and 8 Best Practices"
+    },
+    {
+      "url": "https://blog.emb.global/data-provenance-explained/",
+      "title": "Data Provenance: Key Concepts and Best Practices for Businesses"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/data-provenance-why-knowing-where-your-comes-from-crucial-ahamed-zynxe",
+      "title": "The Importance of Data Provenance in AI and Analytics"
+    }
+  ],
+  "version control datasets dvc vs git lfs": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Data_Version_Control_(software)",
+      "title": "Data Version Control (software) - Wikipedia"
+    },
+    {
+      "url": "https://harshilp.medium.com/why-is-dvc-better-than-git-and-git-lfs-in-machine-learning-reproducibility-13102f47e00c",
+      "title": "Why is DVC Better Than Git and Git - LFS in Machine... | Medium"
+    },
+    {
+      "url": "https://lakefs.io/blog/dvc-vs-git-vs-dolt-vs-lakefs/",
+      "title": "DVC vs . Git - LFS vs . Dolt vs . lakeFS: Data Versioning Compared"
+    },
+    {
+      "url": "https://www.libhunt.com/compare-git-lfs-vs-dvc",
+      "title": "git - lfs vs dvc - compare differences and reviews? | LibHunt"
+    }
+  ],
+  "semantic versioning for models examples": [
+    {
+      "url": "https://gerben-oostra.medium.com/semantic-versioning-for-ml-models-8315d03907bf",
+      "title": "Semantic Versioning for ML models | by Gerben Oostra | Medium"
+    },
+    {
+      "url": "https://palospublishing.com/using-semantic-versioning-for-ml-model-releases/",
+      "title": "Using semantic versioning for ML model releases \u2013 The Palos ..."
+    }
+  ],
+  "git commit message template for model changes": [
+    {
+      "url": "https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-message-template-20n9",
+      "title": "Git Commit Message Template : How to Write... - DEV Community"
+    },
+    {
+      "url": "https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733",
+      "title": "Use a Git commit message template to write better commit messages"
+    },
+    {
+      "url": "https://axolo.co/blog/p/git-commit-messages-best-practices-examples",
+      "title": "Ultimate Guide to Git Commit Message Templates : Best... | Axolo Blog"
+    }
+  ],
+  "archive model artifacts s3 lifecycle policy": [
+    {
+      "url": "https://softwarepatternslexicon.com/cloud-computing/cost-optimization-and-management-in-cloud/storage-lifecycle-policies/",
+      "title": "Storage Lifecycle Policies : Automating... | Software Patterns Lexicon"
+    }
+  ],
+  "fiveThirtyEight elo methodology soccer": [
+    {
+      "url": "https://fivethirtyeight.com/features/podcast-nate-silver-on-the-power-of-elo/",
+      "title": "Podcast: Nate Silver On The Power Of Elo | FiveThirtyEight"
+    }
+  ],
+  "glicko vs elo for team ratings comparison": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Glicko_rating_system",
+      "title": "Glicko rating system - Wikipedia"
+    },
+    {
+      "url": "https://www.englishchess.org.uk/wp-content/uploads/2012/04/Elo_vs_Glicko.pdf",
+      "title": "A brief comparison guide between"
+    },
+    {
+      "url": "https://www.chess.com/forum/view/general/converting-glicko-to-elo",
+      "title": "Converting Glicko to Elo - Chess Forums - Chess.com"
+    }
+  ],
+  "xgboost shap values tutorial sports data": [
+    {
+      "url": "https://shap.readthedocs.io/en/latest/example_notebooks/tabular_examples/tree_based_models/League+of+Legends+Win+Prediction+with+XGBoost.html",
+      "title": "League of Legends Win Prediction with XGBoost \u2014 SHAP latest..."
+    }
+  ],
+  "explainable models injuries adjusted projections": [
+    {
+      "url": "https://research.rug.nl/en/publications/explainable-multi-modal-and-local-approaches-to-modelling-injurie",
+      "title": "Explainable Multi-Modal and Local Approaches to Modelling Injuries ..."
+    },
+    {
+      "url": "https://www.pff.com/news/nfl-pff-data-study-war-adjusted-injuries-lost",
+      "title": "PFF Data Study: Introducing PFF WAR- Adjusted Injuries Lost"
+    },
+    {
+      "url": "https://www.analyticsvidhya.com/blog/2020/12/model-risk-management-and-the-role-of-explainable-modelswith-python-code/",
+      "title": "Model Risk Management | Role of Explainable Models"
+    },
+    {
+      "url": "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3979/",
+      "title": "EGUsphere - Bias- adjusted projections of snow cover over eastern..."
+    }
+  ],
+  "partial dependence plot python guide": [
+    {
+      "url": "https://scikit-learn.org/0.23/auto_examples/inspection/plot_partial_dependence.html",
+      "title": "Partial Dependence Plots \u2014 scikit-learn 0.23.2 documentation"
+    },
+    {
+      "url": "https://medium.com/data-science/prettifying-partial-density-plots-in-python-1f7216937ff",
+      "title": "Peering Into the Black Box. How more engaging partial dependency"
+    },
+    {
+      "url": "https://hackernoon.com/partial-dependence-plots-how-to-discover-variables-influencing-a-model-zk3c34j2",
+      "title": "Partial Dependence Plots : How to Discover Variables... | HackerNoon"
+    }
+  ],
+  "time series cross validation rolling origin": [
+    {
+      "url": "https://robjhyndman.com/hyndsight/tscv/",
+      "title": "Cross-validation for time series \u2013 Rob J Hyndman"
+    },
+    {
+      "url": "https://openforecast.org/adam/rollingOrigin.html",
+      "title": "2.4 Rolling origin | Forecasting and Analytics with the ..."
+    },
+    {
+      "url": "https://otexts.com/fpp3/tscv.html",
+      "title": "5.10 Time series cross-validation | Forecasting: Principles ..."
+    },
+    {
+      "url": "https://business-science.github.io/timetk/reference/time_series_cv.html",
+      "title": "Time Series Cross Validation \u2014 time_series_cv \u2022 timetk"
+    }
+  ],
+  "kalman filter player form state space sports": [
+    {
+      "url": "https://www.slideshare.net/slideshow/l11-forecasting-and-smoothing-using-the-kalman-filterpptx/264875441",
+      "title": "L11 - Forecasting and Smoothing using the Kalman Filter .pptx"
+    },
+    {
+      "url": "https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.kalman_filter.FilterResults.predict.html",
+      "title": "statsmodels.tsa.statespace. kalman _ filter .FilterResults.predict..."
+    },
+    {
+      "url": "https://bookdown.org/rdpeng/timeseriesbook/maximum-likelihood-with-the-kalman-filter.html",
+      "title": "6.2 Maximum Likelihood with the Kalman Filter | A Very Short Course..."
+    }
+  ],
+  "prior for home field advantage bayesian": [
+    {
+      "url": "https://baseballwithr.wordpress.com/2014/12/10/a-bayesian-approach-to-measuring-home-effects-on-hitting-performance/",
+      "title": "A bayesian approach to measuring home effects on hitting performance"
+    }
+  ],
+  "updating priors with new match data notebook": [
+    {
+      "url": "https://discourse.pymc.io/t/updating-priors-with-posterior-for-vector-valued-distributions/946",
+      "title": "Updating Priors with Posterior for Vector-Valued... - PyMC Discourse"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/41354745/rstanarm-updating-priors-with-binary-data-without-any-events",
+      "title": "r - rstanarm - updating priors with binary data ... - Stack Overflow"
+    },
+    {
+      "url": "https://discourse.mc-stan.org/t/using-posteriors-as-new-priors/12745",
+      "title": "Using posteriors as new priors - Modeling - The Stan Forums"
+    },
+    {
+      "url": "https://readmedium.com/understanding-bayesian-updating-the-posterior-becomes-the-prior-0b714ed7330c",
+      "title": "Read Medium articles with AI"
+    }
+  ],
+  "z score rolling form dashboard recipe": [
+    {
+      "url": "https://stackoverflow.com/questions/47164950/compute-rolling-z-score-in-pandas-dataframe",
+      "title": "python - Compute rolling z - score in pandas dataframe - Stack Overflow"
+    },
+    {
+      "url": "https://www.tradingview.com/script/rbeErVR5-Rolling-Z-Score-Trend-QuantAlgo/",
+      "title": "Rolling Z - Score Trend [QuantAlgo] \u2014 Indicator by... \u2014 TradingView"
+    },
+    {
+      "url": "https://stats.stackexchange.com/questions/467897/statistical-significance-of-rolling-z-score-and-z-score-w-r-t-central-limit-the",
+      "title": "time series - Statistical Significance of Rolling Z - Score and Z - Score ..."
+    },
+    {
+      "url": "https://www.developerload.com/compute-rolling-zscore-in-pandas-dataframe",
+      "title": "[SOLVED] Compute rolling z - score in pandas... - DeveloperLoad"
+    }
+  ],
+  "schedule strength weighting recent matches": [
+    {
+      "url": "https://www.rotowire.com/football/schedule-strength.php",
+      "title": "Fantasy Football Strength of Schedule 2025 | RotoWire"
+    }
+  ],
+  "variance decomposition team performance": [
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/peps.12609",
+      "title": "Identifying the structure of within-team variance in ratings ..."
+    }
+  ],
+  "bootstrap uncertainty intervals sports predictions": [
+    {
+      "url": "http://optimumsportsperformance.com/blog/tidymodels-bootstrapping-for-coefficient-uncertainty-and-prediction/",
+      "title": "tidymodels: bootstrapping for coefficient uncertainty and ..."
+    }
+  ],
+  "brier skill score interpretation": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Brier_score",
+      "title": "Brier score - Wikipedia"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/241293791_The_Discrete_Brier_and_Ranked_Probability_Skill_Scores",
+      "title": "(PDF) The Discrete Brier and Ranked Probability Skill Scores"
+    }
+  ],
+  "brier scoring for multiclass outcomes": [
+    {
+      "url": "https://stats.stackexchange.com/questions/403544/how-to-compute-the-brier-score-for-more-than-two-classes",
+      "title": "How to Compute the Brier Score for more than Two Classes"
+    },
+    {
+      "url": "https://statproofbook.github.io/D/bsr.html",
+      "title": "Brier scoring rule | The Book of Statistical Proofs"
+    },
+    {
+      "url": "https://mlr3measures.mlr-org.com/reference/mbrier.html",
+      "title": "Multiclass Brier Score \u2014 mbrier \u2022 mlr3measures"
+    },
+    {
+      "url": "https://penaltyblog.readthedocs.io/en/master/metrics/briar.html",
+      "title": "Multiclass Briar Score \u2014 penaltyblog documentation"
+    },
+    {
+      "url": "https://search.r-project.org/CRAN/refmans/mlr3measures/html/mbrier.html",
+      "title": "R: Multiclass Brier Score"
+    }
+  ],
+  "calibration of probabilities isotonic regression sports": [
+    {
+      "url": "https://stats.stackexchange.com/questions/466722/understanding-probability-calibration-with-isotonic-regression-in-sklearn?lq=1",
+      "title": "scikit learn - Understanding probability calibration with isotonic ..."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3248752/",
+      "title": "Smooth Isotonic Regression : A New Method to Calibrate Predictive..."
+    }
+  ],
+  "how to present uncertainty fan friendly": [
+    {
+      "url": "https://www.linkedin.com/pulse/how-present-uncertainty-without-sounding-unprepared-deason-md-myjmc",
+      "title": "How to Present Uncertainty Without Sounding Unprepared"
+    },
+    {
+      "url": "https://obr.uk/box/presenting-uncertainty-in-our-forecasts/",
+      "title": "Presenting uncertainty in our forecasts - Office for Budget..."
+    },
+    {
+      "url": "https://users.eecs.northwestern.edu/~jhullman/sciam_hullman.pdf",
+      "title": "How to Get Better at Embracing Unknowns - Scientific American"
+    }
+  ],
+  "color contrast checker wcag sports charts": [
+    {
+      "url": "https://webaim.org/resources/contrastchecker/",
+      "title": "WebAIM: Contrast Checker"
+    },
+    {
+      "url": "https://contrastchecker.com/",
+      "title": "WCAG - Contrast Checker"
+    },
+    {
+      "url": "https://colourcontrast.cc/",
+      "title": "Colour Contrast Checker"
+    },
+    {
+      "url": "https://coolors.co/contrast-checker",
+      "title": "Color Contrast Checker - Coolors"
+    },
+    {
+      "url": "https://polypane.app/color-contrast/",
+      "title": "Color contrast checker , analyser and color suggestions | Polypane"
+    }
+  ],
+  "simulate color blindness charts tool": [
+    {
+      "url": "https://colorblindsimulator.app/",
+      "title": "Color Blindness Simulator \u2013 Test & Improve Accessibility"
+    },
+    {
+      "url": "https://rgblind.com/",
+      "title": "RGBlind - Color Blindness Simulator & Accessibility Tools"
+    },
+    {
+      "url": "https://colorpickerimage.org/colorblindness-simulator/",
+      "title": "Color Blindness Simulator \u2014 Test Palettes & Screenshots"
+    }
+  ],
+  "accessible alt text for data visualizations": [
+    {
+      "url": "https://www.sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/alternative_text/charts-diagrams/",
+      "title": "Charts & Diagrams Alt Text - Digital Accessibility | University of South..."
+    },
+    {
+      "url": "https://nightingaledvs.com/writing-alt-text-for-data-visualization/",
+      "title": "Writing Alt Text for Data Visualization | Nightingale"
+    }
+  ],
+  "a b test dashboard layout comprehension": [
+    {
+      "url": "https://www.geckoboard.com/dashboard-examples/marketing/AB-test-dashboard/",
+      "title": "A/B Test Dashboard Example - Geckoboard"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Themes-Gallery/A-B-Testing-Analysis-Dashboard-Template/m-p/3810574",
+      "title": "A/B Testing Analysis Dashboard Template - Microsoft Fabric ..."
+    },
+    {
+      "url": "https://contentsquare.com/guides/ab-testing/dashboards/",
+      "title": "How to Create an Effective A/B Testing Dashboard in 5 Steps"
+    }
+  ],
+  "user testing sports dashboard questions": [
+    {
+      "url": "https://spur-reply.com/blog/overlooked-dashboard-questions",
+      "title": "3 Commonly Overlooked Dashboard Questions"
+    },
+    {
+      "url": "https://blog.hubspot.com/marketing/marketing-dashboard-questions",
+      "title": "Creating a New Dashboard for Your Reports? Ask These 26..."
+    }
+  ],
+  "python slack_sdk upload file ratelimit": [
+    {
+      "url": "https://docs.slack.dev/tools/python-slack-sdk/tutorial/uploading-files/",
+      "title": "Uploading files with Python | Slack Developer Docs"
+    },
+    {
+      "url": "https://github.com/slackapi/python-slack-sdk/issues/1693",
+      "title": "Improve rate-limit handling \u00b7 Issue #1693 \u00b7 slackapi/python ..."
+    }
+  ],
+  "discord webhook send chart image python": [
+    {
+      "url": "https://stackoverflow.com/questions/78213659/using-discord-webhooks-to-send-a-message-with-embedded-image-files-using-urllib3",
+      "title": "Using Discord Webhooks to Send a Message with Embedded Image ..."
+    },
+    {
+      "url": "https://pypi.org/project/discord-webhook/",
+      "title": "discord-webhook \u00b7 PyPI"
+    },
+    {
+      "url": "https://github.com/Daethyra/Discord-AIU",
+      "title": "GitHub - Daethyra/Discord-AIU: Quickly upload images to a ... Python Code: Capture and Send Image to Discord Webhook Simple discord webhook with python \u00b7 GitHub Python Code: Send Image to Discord Webhook - CodePal discord - webhook \u00b7 PyPI Webhooking into Discord with Python | by Mike Riley - Medium GitHub - Daethyra/ Discord -AIU: Quickly upload images to a Discord w\u2026 GitHub - Daethyra/ Discord -AIU: Quickly upload images to a Discord w\u2026 Python - Discord Webhooks Guide"
+    },
+    {
+      "url": "https://codepal.ai/code-generator/query/5KiaCYwq/python-code-capture-send-image-discord-webhook",
+      "title": "Python Code: Capture and Send Image to Discord Webhook"
+    }
+  ],
+  "github actions schedule daily cron 8am": [
+    {
+      "url": "https://cicube.io/blog/github-actions-cron/",
+      "title": "How to Schedule Workflows in GitHub Actions | CICube"
+    },
+    {
+      "url": "https://medium.com/@thibautdonis1998/automating-your-workflows-on-a-schedule-github-actions-cron-fd7e662083c6",
+      "title": "Automating Your Workflows on a Schedule: GitHub Actions + Cron"
+    },
+    {
+      "url": "https://dev.to/britzdm/how-to-run-scheduled-cron-jobs-in-github-workflows-for-free-4pgn",
+      "title": "How to Run Scheduled Cron Jobs in GitHub Workflows for Free"
+    },
+    {
+      "url": "https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows",
+      "title": "Events that trigger workflows - GitHub Docs"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/75166565/how-to-run-cron-jobs-in-github-action-for-a-particular-day-and-time",
+      "title": "How to run cron jobs in github action for a particular day ..."
+    }
+  ],
+  "deploy python bot to railway tutorial": [
+    {
+      "url": "https://railway.com/deploy/a0ln90",
+      "title": "Deploy Telegram Bot Python | Railway"
+    },
+    {
+      "url": "https://medium.com/@andrea.faviait/deploying-a-telegram-bot-using-chatgpt-and-whisper-apis-with-railway-ef79e6cff955",
+      "title": "Deploying a Telegram Bot using ChatGPT and Whisper... | Medium"
+    }
+  ],
+  "heroku free tier alternatives 2025": [
+    {
+      "url": "https://northflank.com/blog/top-heroku-alternatives",
+      "title": "Top Heroku alternatives in 2025 | Blog \u2014 Northflank"
+    },
+    {
+      "url": "https://betterstack.com/community/comparisons/heroku-alternatives/",
+      "title": "Top 10 Heroku Alternatives for 2025 - Better Stack Community"
+    },
+    {
+      "url": "https://signoz.io/comparisons/heroku-alternatives/",
+      "title": "10 Best Heroku Alternatives for 2025 - Free and Paid Options"
+    },
+    {
+      "url": "https://codeless.co/heroku-alternatives/",
+      "title": "10 Best Heroku Alternatives 2025 (Compared) - Codeless Stop Paying Monthly: Best Cheap Heroku Alternative in 2025 Top 7+ Free Heroku Alternatives for 2025 - FormBold Replace Heroku Today: 2025 PaaS Buyer's Guide - stacksync.com"
+    }
+  ],
+  "nba_api playbyplayv2 pagination tips": [
+    {
+      "url": "https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/playbyplayv2.md",
+      "title": "nba _ api /docs/ nba _ api /stats/endpoints/ playbyplayv 2 .md at master..."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/79116001/why-am-i-getting-a-keyerror-resultset-from-nba-api-playbyplayv2-even-with-ex",
+      "title": "nba api - Why am I getting a KeyError: 'resultSet... - Stack Overflow"
+    },
+    {
+      "url": "https://hexdocs.pm/nba_api_ex/NBA.Stats.PlayByPlayV2.html",
+      "title": "NBA.Stats. PlayByPlayV 2 \u2014 nba _ api _ex v0.1.0"
+    }
+  ],
+  "pybaseball statcast batter pitcher ids": [
+    {
+      "url": "https://github.com/jldbc/pybaseball/blob/master/docs/statcast_batter.md",
+      "title": "pybaseball /docs/ statcast _ batter .md at master \u00b7 jldbc/ pybaseball"
+    }
+  ],
+  "retrosheet play by play parsing python": [
+    {
+      "url": "https://pypi.org/project/pyretrosheet/",
+      "title": "Load, analyze, and enrich retrosheet .org MLB data."
+    },
+    {
+      "url": "https://github.com/rozelie/pyretrosheet",
+      "title": "GitHub - rozelie/pyretrosheet: Load, analyze, and enrich retrosheet .org..."
+    },
+    {
+      "url": "https://www.retrosheet.org/",
+      "title": "Retrosheet"
+    },
+    {
+      "url": "https://pydigger.com/pypi/pyretrosheet",
+      "title": "pyretrosheet"
+    }
+  ],
+  "baseball savant leaderboards csv download": [
+    {
+      "url": "https://baseballsavant.mlb.com/csv-docs",
+      "title": "Statcast Search CSV Documentation | baseballsavant.com"
+    },
+    {
+      "url": "https://github.com/jmaschino56/savant_data_downloader",
+      "title": "Baseball Savant Data Downloader - GitHub"
+    },
+    {
+      "url": "https://www.reddit.com/r/Sabermetrics/comments/gdzeye/how_could_i_get_a_table_from_baseball_savant_as/",
+      "title": "How could I get a table from Baseball Savant as CSV? I\u2019m ..."
+    },
+    {
+      "url": "https://saberpowers.github.io/sabRmetrics/reference/download_baseballsavant.html",
+      "title": "Download MLB data from baseballsavant.mlb.com \u2014 download ..."
+    }
+  ],
+  "fbref team ratings sos srs": [
+    {
+      "url": "https://fbref.com/",
+      "title": "Football Statistics and History | FBref .com"
+    }
+  ],
+  "soccerapi fixtures results free tier": [
+    {
+      "url": "https://freewebapi.com/sports-apis/football-api/",
+      "title": "Free Football API - FreeWebApi"
+    },
+    {
+      "url": "https://publicapis.io/football-data-org-api",
+      "title": "Football-Data.org API \u2014 Free Public API | Public APIs Directory Free API Live Football Data API-Football - Restful API for Football data Soccer API | Live Scores, Stats & Fixtures | Sportmonks Top 7 Soccer APIs for Real-Time Match Data - sportbex.com Football Stats JSON API - Use Today! | FootyStats API"
+    },
+    {
+      "url": "https://rapidapi.com/Creativesdev/api/free-api-live-football-data",
+      "title": "Free API Live Football Data"
+    },
+    {
+      "url": "https://www.api-football.com/",
+      "title": "API-Football - Restful API for Football data"
+    }
+  ],
+  "fifa world cup qualifiers elo ratings data": [
+    {
+      "url": "https://eloratings.net/",
+      "title": "World Football Elo Ratings"
+    }
+  ],
+  "expected threat xT model resources": [
+    {
+      "url": "https://www.footballytics.ch/post/expected-threat-xt-the-best-offensive-metric-so-far",
+      "title": "Expected Threat ( xT ) the best offensive metric so far"
+    },
+    {
+      "url": "https://footsci.medium.com/summary-by-expected-threat-xt-why-its-important-to-provide-transition-matrix-576cc4601395",
+      "title": "Expected Threat , xT , football analytics | Medium"
+    },
+    {
+      "url": "https://mplsoccer.readthedocs.io/en/latest/gallery/tutorials/plot_xt.html",
+      "title": "Expected threat \u2014 mplsoccer 1.6.1 documentation"
+    },
+    {
+      "url": "https://towardsai.net/p/l/sports-analytics-101\u200a-\u200aexpected-threats-xt",
+      "title": "Sports Analytics 101 \u2014 Expected Threats ( xT ) | Towards AI"
+    },
+    {
+      "url": "https://ceur-ws.org/Vol-3910/aics2024_p74.pdf",
+      "title": "Microsoft Word - Modelling Expected Threat in Gaelic Football using..."
+    }
+  ],
+  "pass sonars soccer how to plot": [
+    {
+      "url": "https://medium.com/@aleks-kapich/passing-sonars-football-viz-in-python-full-walkthrough-b2f2e46720c1",
+      "title": "Passing Sonars Football Viz in Python: Full Walkthrough"
+    },
+    {
+      "url": "https://mplsoccer.readthedocs.io/en/latest/gallery/sonars/plot_sonar.html",
+      "title": "Sonar \u2014 mplsoccer 1.6.1 documentation"
+    },
+    {
+      "url": "https://github.com/etmckinley/PassSonar",
+      "title": "GitHub - etmckinley/PassSonar: Example code to produce ..."
+    },
+    {
+      "url": "https://rdrr.io/github/abhiamishra/ggshakeR/man/plot_sonar.html",
+      "title": "plot_sonar: Function for plotting pass sonars in abhiamishra ..."
+    }
+  ],
+  "event stream to possession spells algorithm": [],
+  "markov model for basketball possessions": [
+    {
+      "url": "https://ideas.repec.org/a/eee/intfor/v28y2012i2p532-542.html",
+      "title": "Simulating a basketball match with a homogeneous Markov model ..."
+    },
+    {
+      "url": "https://ideas.repec.org/a/eee/intfor/v28y2012i2p532-542.html",
+      "title": "Simulating a basketball match with a homogeneous Markov model ..."
+    },
+    {
+      "url": "https://arxiv.org/pdf/1408.0777",
+      "title": "A Multiresolution Stochastic Process Model for"
+    }
+  ],
+  "in game win prob model baseball run expectancy": [
+    {
+      "url": "https://danblewett.com/run-expectancy-bunting-bad/",
+      "title": "Why Bunting is Bad: A Discussion of Run Expectancy & Bunting"
+    },
+    {
+      "url": "https://blogs.fangraphs.com/intentionally-walking-the-bases-loaded-a-primer/",
+      "title": "Intentionally Walking the Bases Loaded: A Primer | FanGraphs Baseball"
+    }
+  ],
+  "leverage index explanation simple": [
+    {
+      "url": "https://aibettingedge.com/harnessing-leverage-index-a-promising-tool-for-predicting-mlb-prop-bets/",
+      "title": "Harnessing Leverage Index : A Promising Tool for... - AI Betting Edge"
+    },
+    {
+      "url": "https://ru.tradingview.com/script/WYQCG1z3-Crypto-Leverage-Index-OI-Norm-FR/",
+      "title": "Crypto Leverage Index (OI Norm. + FR) \u2014 \u0418\u043d\u0434\u0438\u043a\u0430\u0442\u043e\u0440... \u2014 TradingView"
+    }
+  ],
+  "win probability added definition nba": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Win_probability_added",
+      "title": "Win probability added - Wikipedia"
+    },
+    {
+      "url": "https://www.inpredictable.com/2014/04/win-probability-added-and-four-factors.html",
+      "title": "Win Probability Added and the Four Factors - inpredictable"
+    },
+    {
+      "url": "https://www.raptorsrepublic.com/2010/08/02/win-probability-added/",
+      "title": "Win Probability Added - Raptors Republic"
+    }
+  ],
+  "postgame brief template concise stats": [
+    {
+      "url": "https://phillysoccerpage.net/resources/templates/template-match-reports/",
+      "title": "Template: Match reports - The Philly Soccer Page"
+    },
+    {
+      "url": "https://boardgamegeek.com/thread/2631850/template-for-box-score-with-game-summary",
+      "title": "Template for Box Score with Game Summary | BoardGameGeek"
+    },
+    {
+      "url": "https://www.pippit.ai/templates/postgame-recap-template",
+      "title": "postgame recap template - Pippit"
+    },
+    {
+      "url": "https://www.meegle.com/en_us/advanced-templates/game_industry_software_development/dynamic_post_match_stats_display",
+      "title": "Meegle | Free Download Dynamic Post-Match Stats Display"
+    },
+    {
+      "url": "https://kickly.net/templates/stats",
+      "title": "Sports Stats Graphic Templates | Customizable Sports Designs by"
+    }
+  ],
+  "podcast mic for 90 second segments": [
+    {
+      "url": "https://riverside.com/blog/best-podcast-microphone",
+      "title": "9 Best Podcast Microphones For Every Need and Budget (2025 ..."
+    },
+    {
+      "url": "https://castos.com/microphones-for-podcasting/",
+      "title": "Best Microphones for Podcasting in 2025: Complete Buyer's ..."
+    },
+    {
+      "url": "https://homestudioguys.com/microphones/best-mic-for-podcasting/",
+      "title": "10 Best Mics for Podcasting That Deliver Professional Sound ..."
+    },
+    {
+      "url": "https://www.nearstream.us/blog/best-podcast-microphone-ultimate-guide-pro-sound",
+      "title": "Best Podcast Microphones 2025: Pro Audio Guide & Reviews"
+    },
+    {
+      "url": "https://www.thepodcasthost.com/equipment/the-best-podcasting-microphones-on-the-market/",
+      "title": "The Best Podcast Microphones for All Abilities and Budgets Images The 10 Best Microphones for Podcasting in 2025 - Audiophile ON Best Microphones for Podcasting | B&H eXplora"
+    }
+  ],
+  "quick audio editing open source audacity tips": [
+    {
+      "url": "https://manual.audacityteam.org/man/tips.html",
+      "title": "Tips - Audacity Manual"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ox0NSwdOiyA",
+      "title": "10 Powerful Tips Every Audacity User Should Know 10 Powerful Audacity Tips Everybody Should Know Audacity Tutorial for Beginners: Master Audio Editing with ... Complete Guide to Using Audacity 3.2.1 for Audio Editing ... Ultimate Beginner's Guide to Audacity Editor for Smooth Audio ... Make Your Voice Sound Professional With These Quick Audacity Tips"
+    },
+    {
+      "url": "https://producer.musicradiocreative.com/10-powerful-audacity-tips-everybody-should-know/",
+      "title": "10 Powerful Audacity Tips Everybody Should Know"
+    }
+  ],
+  "fantasy auction vickrey faab spreadsheet": [
+    {
+      "url": "https://www.reddit.com/r/fantasyfootball/comments/16hguhr/what_are_your_thoughts_on_vickrey_faab/",
+      "title": "What are your thoughts on Vickrey FAAB? : r/fantasyfootball"
+    },
+    {
+      "url": "https://rubesheets.com/Footballv2.aspx",
+      "title": "Customized Fantasy Football Auction Cheat Sheet"
+    },
+    {
+      "url": "https://spreadsheetsolving.com/a-simple-fantasy-football-auction-draft-spreadsheet/",
+      "title": "A Simple Fantasy Football Auction Draft Spreadsheet"
+    }
+  ],
+  "transparent bidding sheet template google sheets": [
+    {
+      "url": "https://www.template.net/sheet/bid/google-docs",
+      "title": "Editable Bid Sheet Templates in Google Docs to Download"
+    },
+    {
+      "url": "https://thegoodocs.com/freebies/sheets/",
+      "title": "200+ Templates in Google Sheets (Free)"
+    },
+    {
+      "url": "https://www.zeffy.com/en-gb/blog/silent-auction-bid-sheet",
+      "title": "Free Printable Silent Auction Bid Sheet Template (2024)"
+    },
+    {
+      "url": "https://templatesz234.com/silent-auction-bidding-sheet-template/",
+      "title": "Silent Auction Bidding Sheet Template ... - Templatesz234.com"
+    }
+  ],
+  "post mortem template for fantasy trades": [
+    {
+      "url": "https://www.smartsheet.com/content/project-post-mortem-templates",
+      "title": "Free Project Post-Mortem Templates - Smartsheet"
+    },
+    {
+      "url": "https://clickup.com/blog/post-mortem-templates/",
+      "title": "15 Free Project Post-Mortem Templates in Word, Excel, & ClickUp GitHub \u2013 dastergon/postmortem-templates: A collection of ... Event Post Mortem Template - Jotform Free Project Post Mortem Template [Docs / DOCX] Free Project Post - Mortem Templates - Smartsheet 15 Free Project Post - Mortem Templates in Word, Excel, & ClickUp 15 Free Project Post - Mortem Templates in Word, Excel, & ClickUp Free Project Post Mortem Template [Docs / DOCX] Flight Template | Balloon"
+    },
+    {
+      "url": "https://github.com/dastergon/postmortem-templates",
+      "title": "GitHub \u2013 dastergon/postmortem-templates: A collection of ..."
+    },
+    {
+      "url": "https://www.jotform.com/board-templates/event-post-mortem-template",
+      "title": "Event Post Mortem Template - Jotform"
+    }
+  ],
+  "outlier detection robust z score sports": [
+    {
+      "url": "https://medium.com/@aakash013/outlier-detection-treatment-z-score-iqr-and-robust-methods-398c99450ff3",
+      "title": "Outlier Detection and Treatment: Z-score, IQR, and Robust ... Top 5 Statistical Techniques to Detect and Handle Outliers in ... Detecting and Treating Outliers with Z-Scores and IQR Z score for Outlier Detection - Python - GeeksforGeeks 3 Simple Statistical Methods for Outlier Detection How to detect outliers with z-score - Machine Learning Plus Z score for Outlier Detection - Python - GeeksforGeeks Outlier Detection & Treatment: Z - score , IQR, and Robust Methods Detecting and Treating Outliers with Z -Scores and IQR Detecting and Treating Outliers with Z -Scores and IQR Mastering Outlier Detection Techniques - numberanalytics.com"
+    },
+    {
+      "url": "https://businessanalyticsinstitute.com/detecting-and-treating-outliers-with-z-scores-and-iqr/",
+      "title": "Detecting and Treating Outliers with Z-Scores and IQR"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/machine-learning/z-score-for-outlier-detection-python/",
+      "title": "Z score for Outlier Detection - Python - GeeksforGeeks"
+    }
+  ],
+  "changepoint detection player performance python": [
+    {
+      "url": "https://github.com/epfl-lasa/changepoint-detection",
+      "title": "GitHub - epfl-lasa/ changepoint - detection : Online Change - point ..."
+    },
+    {
+      "url": "https://www.lancaster.ac.uk/~romano/post/change_point_online_intro/",
+      "title": "How to Perform Online (or Real-Time) Changepoint Detection in..."
+    },
+    {
+      "url": "https://pypi.org/project/changepoint-online/",
+      "title": "A Collection of Online Methods for Changepoint and Anomaly Detection"
+    },
+    {
+      "url": "https://readmedium.com/contextual-changepoint-detection-with-python-and-r-using-rpy2-fa7d86259ba9",
+      "title": "Contextual Changepoint Detection with Python and R using RPy2"
+    }
+  ],
+  "edge cases overtime and win prob handling": [
+    {
+      "url": "https://blog.albertkuo.me/post/probability-of-winning-an-nba-game-a-minute-by-minute-breakdown/",
+      "title": "Probability of Winning an NBA Game... - Albert's Blog"
+    },
+    {
+      "url": "https://opensourcefootball.com/posts/2021-04-13-creating-a-model-from-scratch-using-xgboost-in-r/",
+      "title": "Open Source Football: NFL win probability from scratch using xgboost..."
+    },
+    {
+      "url": "https://azscience.blog/landry-win-prob-nfl",
+      "title": "WMM: Landry, Win Prob , and NFL Results Explained - AZscience.blog"
+    }
+  ],
+  "extra innings runner on second effect model": [
+    {
+      "url": "https://www.platecrate.com/blogs/baseball-101/who-goes-to-second-base-in-extra-innings-understanding-the-automatic-runner-rule",
+      "title": "Who Goes to Second Base in Extra Innings: Understanding the ..."
+    },
+    {
+      "url": "https://sportslawblogger.com/what-is-the-new-mlb-regulation-regarding-extra-innings.html",
+      "title": "What Is The New Rule In Baseball For Extra Innings"
+    },
+    {
+      "url": "https://suchbaseball.com/extra-innings-ghost-runner-rule/",
+      "title": "Extra-Innings Ghost-Runner Rule Explained: What Fans Need to ..."
+    },
+    {
+      "url": "https://www.mlb.com/news/mlb-extra-innings-rules-for-playoffs-2024-automatic-runners-and-pitch-clock",
+      "title": "MLB Extra Innings Rules for Playoffs 2024: Automatic Runners ..."
+    },
+    {
+      "url": "https://www.refrsports.com/blog/mlb-extra-inning-rule-changes-how-theyre-shaping-the-game",
+      "title": "MLB Extra Inning Rule Changes: How They\u2019re Shaping the Game"
+    }
+  ],
+  "soccer stoppage time modeling approach": [
+    {
+      "url": "https://uu.diva-portal.org/smash/get/diva2:1771664/FULLTEXT01.pdf",
+      "title": "Modeling Stoppage Time in Football as a Convolution of ..."
+    },
+    {
+      "url": "https://patents.google.com/patent/US20250292154A1/en",
+      "title": "US20250292154A1 - Machine learning techniques for stoppage ..."
+    },
+    {
+      "url": "https://www.mdpi.com/2225-1146/2/1/1",
+      "title": "Referee Bias and Stoppage Time in Major League Soccer: A ..."
+    }
+  ],
+  "basketball garbage time filter rules": [
+    {
+      "url": "https://cleaningtheglass.com/stats/guide/garbage_time",
+      "title": "Guide - Garbage Time /// Stats /// Cleaning the Glass"
+    },
+    {
+      "url": "https://blog.hoopsalytics.com/eliminate-garbage-time-from-your-stats/",
+      "title": "How to Eliminate Garbage Time from your Stats"
+    }
+  ],
+  "api terms of service sports data legal": [
+    {
+      "url": "https://api-sports.io/terms",
+      "title": "API-SPORTS - Terms of service"
+    },
+    {
+      "url": "https://sportsdata.io/terms-of-service",
+      "title": "Terms of Service - SportsDataIO Terms of Service | BALLDONTLIE Sports API Data Use in Sports Deals: Legal Risks & Commercial Strategy Navigating the Legal Landscape of Sports Data Use: Key ... API Legal Issues: The Ultimate Guide to Copyright, Contracts ... Navigating the Legal Landscape of Live Sports Data Usage"
+    },
+    {
+      "url": "https://www.balldontlie.io/terms.html",
+      "title": "Terms of Service | BALLDONTLIE Sports API"
+    }
+  ],
+  "robots txt respect scraping guidelines": [
+    {
+      "url": "https://www.promptcloud.com/blog/how-to-read-and-respect-robots-file/",
+      "title": "Read and Respect Robots txt Disallow | Techniques - PromptCloud"
+    },
+    {
+      "url": "https://scrape.do/blog/robots-txt/",
+      "title": "How to Find and Read robots.txt for Crawling and Scraping"
+    },
+    {
+      "url": "https://www.hystruct.com/articles/ethical-web-scraping",
+      "title": "Ethical Web Scraping: Respecting robots.txt and Rate Limits"
+    },
+    {
+      "url": "https://developers-heaven.net/blog/ethical-web-scraping-respecting-robots-txt-and-website-policies/",
+      "title": "Ethical Web Scraping: Respecting robots.txt and Website ..."
+    }
+  ],
+  "cache sports api responses etag python": [
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/ETag",
+      "title": "ETag header - HTTP | MDN"
+    },
+    {
+      "url": "https://github.com/ranjanrak/etag-response-cache",
+      "title": "GitHub - ranjanrak/ etag - response - cache : Python package for..."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/27621689/not-getting-a-304-response-even-after-adding-etag-header",
+      "title": "python - Not getting a 304 response even after adding ETag header"
+    },
+    {
+      "url": "https://app.studyraid.com/en/read/14936/515079/common-header-use-cases",
+      "title": "Common header use cases - Python Requests... | StudyRaid"
+    }
+  ],
+  "unit tests for sports models pytest examples": [
+    {
+      "url": "https://www.geeksforgeeks.org/python/pytest-tutorial-testing-python-application-using-pytest/",
+      "title": "Pytest Tutorial - Unit Testing in Python using Pytest Framework"
+    },
+    {
+      "url": "https://dev.to/nkpydev/python-testing-unit-tests-pytest-and-best-practices-45gl",
+      "title": "Python Testing \u2013 Unit Tests, Pytest, and Best Practices"
+    },
+    {
+      "url": "https://www.hrekov.com/blog/python-unittest-pytest-beginners-guide",
+      "title": "Testing in Python for Beginners. Using `unittest` and `pytest ..."
+    },
+    {
+      "url": "https://medium.com/@ydmarinb/simplifying-unit-testing-in-machine-learning-with-python-df9b9c1a3300",
+      "title": "Simplifying Unit Testing in Machine Learning with Python"
+    }
+  ],
+  "brier score benchmark naive model win rate": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Brier_score",
+      "title": "Brier score - Wikipedia"
+    },
+    {
+      "url": "https://howtolearnmachinelearning.com/articles/brier-score/",
+      "title": "Understanding the Brier Score: Your Go-To Metric for ..."
+    },
+    {
+      "url": "https://www.clinicalpredictionmodels.org/extra-material/chapter-15",
+      "title": "www.clinicalpredictionmodels.org - Chapter 15"
+    },
+    {
+      "url": "https://rugbyclubranks.github.io/model/update/2022/08/09/Naive-Model-Benchmark.html",
+      "title": "Naive Model Benchmarks - Rugby Club Ranks"
+    }
+  ]
+}

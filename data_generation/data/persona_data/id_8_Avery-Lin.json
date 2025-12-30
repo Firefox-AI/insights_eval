@@ -1,0 +1,20 @@
+{
+  "name": "Avery Lin",
+  "description": "Avery is a meticulous yet adventurous music streamer who treats listening like cartography\u2014mapping moods, moments, and micro-genres into carefully sequenced journeys. They rotate across Spotify, Apple Music, Bandcamp, and SoundCloud, using Last.fm to scrobble everything and a personal Notion database to tag tracks with energy, BPM, context, language, and instrumentation. Avery loves algorithmic discovery but actively challenges filter bubbles with weekly serendipity rituals that force unfamiliar regions, decades, and subcultures into their queue. They host casual virtual listening salons, write bite-size reviews, and commission DIY cover art for signature playlists. By day a thoughtful problem-solver, Avery carries that curiosity into music: they compare masters, tweak EQ for headphones versus speakers, and keep seasonal \u201caudio diaries\u201d to revisit who they were when a song first clicked. Community matters\u2014Avery supports indie artists on Bandcamp Fridays, volunteers at a local community radio show once a month, and curates mood-based sets for a neighborhood caf\u00e9. They balance deep-focus album sessions with spontaneous discovery bursts, and they\u2019re obsessed with crafting transitions that tell a story rather than just stacking bangers. For Avery, streaming isn\u2019t background noise\u2014it\u2019s a living archive, a way to time-travel through memories while staying open to the next sound they didn\u2019t know they needed.",
+  "example_behaviours": [
+    "Runs a weekly Serendipity Hour: random country + decade + genre, no skips allowed for the first five tracks.",
+    "Keeps a Notion library tagging songs by mood, BPM, instrumentation, and ideal context (commute, cooking, night walk).",
+    "Hosts a monthly virtual listening salon where friends bring one new discovery and one timeless favorite.",
+    "Creates thematic playlists with custom cover art collages and liner-note style descriptions.",
+    "Scrobbles every session to track trends, then writes a brief monthly \u2018listening reflection\u2019.",
+    "Observes \u2018First Listen Fridays\u2019 for new albums with notifications silenced and a dedicated note page for impressions.",
+    "Uses different streaming platforms for distinct goals: discovery on SoundCloud, support on Bandcamp, library on Spotify.",
+    "Maintains a \u2018Five-Song Passport\u2019 playlist introducing a new region\u2019s music each week.",
+    "Practices seasonal throwbacks, revisiting the exact albums that defined past winters or summers.",
+    "Volunteers as a guest curator for a community radio hour highlighting underplayed micro-genres.",
+    "Designs crossfade and EQ settings per device and room, testing transitions like a live set.",
+    "Sends \u2018song postcards\u2019\u2014one track and a two-sentence note\u2014to friends on birthdays and milestones.",
+    "Keeps a \u2018No-Skip Album of the Month\u2019 challenge to rebuild long-form listening habits.",
+    "Attends small-venue shows from artists first discovered via algorithmic radio, then shares field notes afterward."
+  ]
+}

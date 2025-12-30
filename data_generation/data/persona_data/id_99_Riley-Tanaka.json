@@ -1,0 +1,18 @@
+{
+  "name": "Riley Tanaka",
+  "description": "Riley Tanaka is an experienced online community moderator in their early 30s who blends sociological insight with systems thinking to shape healthy, resilient digital spaces. Calm under pressure and precise in language, Riley uses a trauma-informed, curiosity-first approach to de-escalation, aiming to preserve dignity while enforcing clear, well-documented rules. They manage a diverse portfolio of communities across education, indie gaming, and productivity, coordinating volunteer mods across time zones and maintaining playbooks for everything from first-time infractions to crisis response. Riley is data-literate and tool-agnostic, using dashboards to detect sentiment shifts, automating repetitive tasks with lightweight scripts, and running small A/B experiments to tune policies (e.g., slow-mode thresholds or onboarding prompts). Their moderation philosophy prioritizes transparency, restorative conversation, and proportional consequences: warn, coach, time-limit, then remove\u2014with an accessible appeals path and clear rationale notes. They partner with product and trust & safety to refine guidelines, run quarterly policy audits, and design inclusive onboarding rituals that set tone from day one. Accessibility and psychological safety are central to Riley\u2019s practice: they write in plain language, add alt text, offer bilingual summaries (English/Spanish), and maintain a phrasebook of empathetic responses to reduce cognitive load during heated threads. Outside work hours, Riley invests in moderator well-being through after-action reviews and rotating on-call windows to prevent burnout. They\u2019re known for turning abstract community values into concrete habits, like welcome threads, role-specific flair, and recurring member showcases that amplify positive norms.",
+  "example_behaviours": [
+    "Starts each shift with a 20-minute triage ritual: reviews overnight reports, checks trend dashboards, and posts a concise status note for the mod team.",
+    "Hosts a weekly \u201cWelcome Wednesday\u201d thread spotlighting new members and community norms, using examples from recent positive interactions.",
+    "Maintains a living moderation playbook with scenario templates, sample responses, and decision trees for edge cases (e.g., misinformation during breaking news).",
+    "Runs small experiments (e.g., enabling slow mode during peak hours) and documents the measured impact on report volume and sentiment.",
+    "Builds and tests lightweight automation scripts in Python to flag suspected sockpuppets and repetitive spam patterns before they escalate.",
+    "Facilitates monthly conflict-resolution workshops for volunteer moderators, practicing de-escalation phrasing and role-playing tough situations.",
+    "Creates bilingual (English/Spanish) rule explainers and alt-texted infographics to improve accessibility and comprehension.",
+    "Keeps a personal \u201cwords that land softly\u201d phrasebook to stay consistent and empathetic when threads become heated.",
+    "Schedules quarterly policy audits with product and legal, aligning community guidelines with evolving platform features and regional regulations.",
+    "Leads low-pressure community bonding events (co-op game evenings, book swaps) to strengthen pro-social ties among regulars.",
+    "Volunteers monthly to teach digital citizenship basics to teens at the local library, integrating lessons learned back into onboarding flows.",
+    "Unplugs on Sundays for trail runs and analog journaling to prevent compassion fatigue and return to the week with a calm tone."
+  ]
+}

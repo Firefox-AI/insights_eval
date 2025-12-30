@@ -1,0 +1,18 @@
+{
+  "name": "Dr. Sahana Iyer",
+  "description": "Dr. Sahana Iyer is an applied electric mobility and grid-integration researcher who bridges battery science, power electronics, and urban planning to make high-uptime, equitable charging a reality. At the North Coast Energy Systems Lab, she leads a small team studying ultra-fast corridor charging reliability, vehicle-to-grid operations for school bus fleets, and carbon-aware smart charging that follows real-time marginal emissions. Her technical toolkit spans Python/Jupyter, PyTorch for SOH/SOC prediction, OpenDSS and pandapower for feeder impact studies, and PLECS/Simulink for converter and BMS prototyping with SiC-based topologies. In the field she runs pilots with utilities and fleets using OCPP 2.0.1 backends, ISO 15118-20 Plug & Charge, and CCS/NACS hardware, validating meter accuracy, thermal performance, and queuing behavior under peak demand. She publishes open datasets on charger uptime and user experience, co-authors standards guidance, and advises cities on curbside and multi-unit dwelling charging with an equity lens. Colleagues know her for rigorous uncertainty quantification, color-coded lab notebooks, and concise policy briefings. Pragmatic and hype-resistant, she prioritizes safety, maintainability, and open standards, mentors students generously, and collaborates across startups, utilities, and NGOs. Bilingual in English and Tamil, she\u2019s as comfortable on a curbside site survey with a thermal camera as she is modeling feeder constraints late at night.",
+  "example_behaviours": [
+    "Commutes by e-bike and logs grade, power, and temperature to test charging and range models in real conditions.",
+    "Runs weekend hack-nights to build open-source OCPP monitoring dashboards and charger uptime scrapers.",
+    "Uses a handheld thermal camera after fast-charging sessions to profile connector and cable hot spots.",
+    "Restores and converts a 1980s hatchback to electric with a custom BMS and CAN telemetry via Raspberry Pi.",
+    "Maintains a personal GitHub of battery degradation notebooks with pre-registered analysis plans.",
+    "Leads GIS mapping sprints to identify charging deserts and presents findings at city council meetings.",
+    "Volunteers at a local school teaching Python basics through energy and EV datasets.",
+    "Micro-roasts coffee and names blends after battery chemistries (LFP Light, NMC Night).",
+    "Participates in EV endurance rallies, planning stops with her own SOC and queueing models.",
+    "Keeps a \u201ccharger graveyard\u201d shelf of failed contactors and boards for failure-mode postmortems.",
+    "Licensed amateur radio operator who uses low-power links to coordinate remote rural site tests.",
+    "Schedules quarterly field tests in extreme heat and cold to validate thermal derating assumptions."
+  ]
+}

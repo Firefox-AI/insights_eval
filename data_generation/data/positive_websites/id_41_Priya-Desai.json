@@ -1,0 +1,1362 @@
+{
+  "yield curve today chart": [
+    {
+      "url": "https://www.ustreasuryyieldcurve.com/",
+      "title": "US Treasury Yield Curve"
+    },
+    {
+      "url": "https://ycharts.com/yield_curve",
+      "title": "Yield Curve Tool | Interactive U.S. Treasury Rates Chart ..."
+    },
+    {
+      "url": "https://www.gurufocus.com/yield_curve.php/",
+      "title": "Current US Yield Curve Today (Yield Curve Charts)| GuruFocus"
+    },
+    {
+      "url": "https://www.slickcharts.com/treasury",
+      "title": "US Treasury Yield Curve Chart - SlickCharts"
+    },
+    {
+      "url": "https://public.com/treasury-yield-curve",
+      "title": "US Treasury Yield Curve (updated daily) - Public.com"
+    }
+  ],
+  "spx futures premarket": [
+    {
+      "url": "https://www.cnbc.com/pre-markets/",
+      "title": "Premarket Stock Trading Data: Dow, S&P, NASDAQ Futures"
+    },
+    {
+      "url": "https://www.investing.com/indices/us-spx-500-futures",
+      "title": "S&P 500 Futures - Investing.com"
+    },
+    {
+      "url": "https://stockmarketwatch.com/markets/sp500/premarket/",
+      "title": "S&P 500 Premarket Report | Live Updates, Top Movers, Chart"
+    },
+    {
+      "url": "https://markets.businessinsider.com/premarket",
+      "title": "Premarket | Futures | Pre-market Trading | Markets Insider"
+    }
+  ],
+  "dxy live chart": [
+    {
+      "url": "https://www.tradingview.com/symbols/TVC-DXY/",
+      "title": "DXY \u2014 U.S. Dollar Index Chart \u2014 TradingView"
+    },
+    {
+      "url": "https://www.investing.com/indices/usdollar-chart",
+      "title": "US Dollar Index Chart (DXY) - Investing.com"
+    },
+    {
+      "url": "https://www.marketwatch.com/investing/index/dxy/charts",
+      "title": "DXY | U.S. Dollar Index (DXY) Advanced Charts | MarketWatch"
+    },
+    {
+      "url": "https://investinglive.com/LiveCharts?tvwidgetsymbol=CAPITALCOM:DXY",
+      "title": "Live Chart \u2013 DXY (Capital.com) | investingLive"
+    },
+    {
+      "url": "https://www.barchart.com/stocks/quotes/$DXY/interactive-chart",
+      "title": "U.S. Dollar Index Chart Panel - Barchart.com"
+    }
+  ],
+  "wti crude front month price": [
+    {
+      "url": "https://www.investing.com/commodities/crude-oil",
+      "title": "Crude Oil Futures Price Today ( WTI ) - Investing.com"
+    },
+    {
+      "url": "https://www.tradingview.com/symbols/NYMEX-CL1!/",
+      "title": "Crude Oil WTI Futures Price \u2014 CL Chart & Quotes \u2014 TradingView"
+    },
+    {
+      "url": "https://tradingeconomics.com/commodity/crude-oil",
+      "title": "Crude Oil - Price - Chart - Historical Data - News"
+    },
+    {
+      "url": "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.html",
+      "title": "Crude Oil Futures Overview - CME Group"
+    }
+  ],
+  "copper price lme today": [
+    {
+      "url": "https://www.lme.com/Metals/Non-ferrous/LME-Copper",
+      "title": "LME Copper | London Metal Exchange"
+    },
+    {
+      "url": "https://www.westmetall.com/en/markdaten.php?action=table&field=LME_Cu_cash",
+      "title": "westmetall . market data . prices / lme stocks . copper , tin, lead, zinc..."
+    },
+    {
+      "url": "https://www.metal.com/en/prices/LME_CA_3M",
+      "title": "LME Copper 3-Month price today | Historical... - Shanghai Metal Market"
+    }
+  ],
+  "natural gas aeco price canada": [
+    {
+      "url": "https://naturalgasintel.com/data-snapshot/daily-gpi/CDNNOVA/",
+      "title": "NOVA/ AECO C Daily Natural Gas Price Snapshot"
+    },
+    {
+      "url": "https://www.aer.ca/data-and-performance-reports/statistical-reports/alberta-energy-outlook-st98/prices-and-capital-expenditure/natural-gas-prices/aeco-c-price",
+      "title": "AECO -C Price | Alberta Energy Regulator"
+    },
+    {
+      "url": "https://www.gasalberta.com/gas-market/market-prices",
+      "title": "Market Prices"
+    }
+  ],
+  "tsx today market breadth": [
+    {
+      "url": "https://marketcharts.com/indicators/breadth/$tsx",
+      "title": "$TSX Breadth Indicators - MarketCharts.com"
+    },
+    {
+      "url": "https://www.360miq.com/market?data=TSX",
+      "title": "Toronto TSX Market Indicators - 360MiQ.com"
+    }
+  ],
+  "canada cpi release schedule": [
+    {
+      "url": "https://www150.statcan.gc.ca/n1/dai-quo/cal1-eng.htm",
+      "title": "Release schedule \u2013 Major economic releases - Statistics Canada"
+    },
+    {
+      "url": "https://inflationcalculator.ca/cpi-release-schedule/",
+      "title": "Canadian CPI Release Schedule 2025-2026 - Inflation Calculator"
+    },
+    {
+      "url": "https://ca.investing.com/economic-calendar/cpi-741",
+      "title": "Canada Consumer Price Index (CPI) YoY - Investing.com Canada"
+    }
+  ],
+  "bank of canada rate decision calendar": [
+    {
+      "url": "https://www.nesto.ca/mortgage-basics/bank-of-canada-interest-rate-schedule/",
+      "title": "Bank of Canada Policy Interest Rate Schedule - nesto.ca"
+    },
+    {
+      "url": "https://mortgage.expert/bank-of-canada-policy-interest-rate-schedule-updated-2025/",
+      "title": "Bank of Canada Policy Interest Rate Schedule (Updated 2025)"
+    },
+    {
+      "url": "https://equalsmoney.com/economic-calendar/events/boc-interest-rate-decision",
+      "title": "When is the next Bank of Canada rate announcement?"
+    }
+  ],
+  "nonfarm payrolls calendar next release time": [
+    {
+      "url": "https://www.ebc.com/forex/when-is-the-next-us-non-farm-payrolls-report-released",
+      "title": "When Is the Next US Non-Farm Payrolls Report Released?"
+    },
+    {
+      "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "title": "Schedule of Releases for the Employment Situation"
+    },
+    {
+      "url": "https://simplefx.com/blog/non-farm-payroll-2025-schedule-what-time-is-nfp/",
+      "title": "Non-Farm Payroll 2025 schedule - date and time when the NFP ..."
+    },
+    {
+      "url": "https://equalsmoney.com/economic-calendar/events/non-farm-payrolls",
+      "title": "When is the next Non-Farm Payrolls report published?"
+    }
+  ],
+  "earnings calendar this week": [
+    {
+      "url": "https://finance.yahoo.com/calendar/earnings/",
+      "title": "Company Earnings Calendar - Yahoo Finance"
+    },
+    {
+      "url": "https://www.zacks.com/earnings/earnings-calendar",
+      "title": "Earnings Calendar - Zacks Investment Research"
+    },
+    {
+      "url": "https://markets.businessinsider.com/earnings-calendar?op=1",
+      "title": "Earnings calendar - Markets Insider"
+    },
+    {
+      "url": "https://earningshub.com/",
+      "title": "Earnings This Week, Earnings Calendar - Earnings Hub"
+    },
+    {
+      "url": "https://stocksguide.com/en/earnings-calendar",
+      "title": "Earnings Calendar this WEEK, TODAY | NASDAQ + Indices"
+    }
+  ],
+  "tsx earnings calendar pdf": [
+    {
+      "url": "https://f.tlcollect.com/fr2/617/86843/TSX_Earnings_Calendar.pdf",
+      "title": "TSX Earnings Calendar"
+    }
+  ],
+  "msft q2 2025 earnings call transcript": [
+    {
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/01/29/microsoft-msft-q2-2025-earnings-call-transcript/",
+      "title": "Microsoft (MSFT) Q2 2025 Earnings Call Transcript - The Motley Fool"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/microsoft-corporation-nasdaqmsft-q2-2025-earnings-call-transcript-1439102/",
+      "title": "Microsoft Corporation (NASDAQ:MSFT) Q2 2025 Earnings Call Transcript"
+    },
+    {
+      "url": "https://finance.yahoo.com/quote/MSFT/earnings/MSFT-Q2-2025-earnings_call-251674.html",
+      "title": "Microsoft Corporation (MSFT) Q2 FY2025 earnings call transcript"
+    },
+    {
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-microsoft-q2-2025-beats-expectations-stock-dips-93CH-3840237",
+      "title": "Earnings call transcript: Microsoft Q2 2025 beats expectations, stock ..."
+    }
+  ],
+  "shopify investor relations presentations": [
+    {
+      "url": "https://shopifyinvestors.com/news-and-events/default.aspx",
+      "title": "Shopify - Investor Events"
+    },
+    {
+      "url": "https://shopifyinvestorupdate2023.q4ir.com/home/default.aspx",
+      "title": "Home - Investor Day"
+    },
+    {
+      "url": "https://www.slidebook.io/company/shopify/",
+      "title": "Shopify - Investor Presentations and Pitch Decks | Slidebook.io"
+    }
+  ],
+  "constellation software annual letter mark leonard pdf": [
+    {
+      "url": "https://csinvesting.org/files/wp-content/uploads/2020/06/presidents_letter_2014.pdf",
+      "title": "Constellation Software Inc."
+    },
+    {
+      "url": "https://www.investingcity.org/post/mark-leonard-letters",
+      "title": "Mark Leonard Letters | Investing City"
+    }
+  ],
+  "cpkc 2024 annual report pdf": [],
+  "canadian national vs cpkc operating ratio": [
+    {
+      "url": "https://www.fool.ca/2024/08/14/cn-vs-cpkc-the-1-rail-stock-to-buy-and-the-1-to-avoid/",
+      "title": "CN vs . CPKC : The 1 Rail Stock to Buy and... | The Motley Fool Canada"
+    }
+  ],
+  "brookfield renewable partners letters to unitholders": [
+    {
+      "url": "https://bep.brookfield.com/bep/reports-filings/letters-unitholders/q2-2025-letter-unitholders",
+      "title": "Q2 2025 Letter to Unitholders | Brookfield Renewable Partners"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/brookfield-renewable-partners-l-p-q2-2025-letter-to-unitholders-english-ce7c5fd2d088f026",
+      "title": "Brookfield Renewable Partners L P : Q2 2025 Letter to ..."
+    },
+    {
+      "url": "https://www.scribd.com/document/822623352/bep-q4-2024-letter-to-unitholders-vff",
+      "title": "Q4 2024 Brookfield Renewable Update | PDF | Mergers And ..."
+    },
+    {
+      "url": "https://bep.brookfield.com/bep/reports-filings/letters-unitholders",
+      "title": "Letters to Unitholders | Brookfield Renewable Partners"
+    }
+  ],
+  "hydro one sedar+ annual information form": [
+    {
+      "url": "https://www.hydroone.com/investorrelations/Reports/2023_HOI_AIF.pdf",
+      "title": "Hydro One Inc. Annual Information Form 2023"
+    },
+    {
+      "url": "https://www.sedarplus.ca/",
+      "title": "SEDAR+ Landing Page"
+    }
+  ],
+  "enbridge investor day slides 2025": [
+    {
+      "url": "https://www.enbridge.com/~/media/Enb/Documents/Investor-Relations/2025/2025_ENB_Day_Combined_Presentation.pdf?rev=e8d30c8175284e25b6c69b362a424c9d&hash=004645D9EBD9C75D2BCD9DD16BABE4C4",
+      "title": "PDF 2025 Investor Day - Combined - Enbridge Inc."
+    },
+    {
+      "url": "https://www.enbridge.com/investment-center/events-and-presentations",
+      "title": "Events and Presentations - Enbridge Inc."
+    },
+    {
+      "url": "https://www.enbridge.com/~/media/Enb/Documents/Investor-Relations/2025/2025_ENB_Day_Financial_Outlook.pdf?rev=86de1ec5000440c7b436f4602abf73be&hash=8261EFE9CA9A172B7B27D56503382393",
+      "title": "PDF 2025 Investor Day - Financial Outlook - Enbridge Inc."
+    }
+  ],
+  "apple 2024 form 10-k sec": [
+    {
+      "url": "https://investor.apple.com/sec-filings/sec-filings-details/default.aspx?FilingId=17933082",
+      "title": "SEC Filings - SEC Filings Details - Apple - investor.apple.com"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm",
+      "title": "aapl-20240928 - SEC.gov"
+    },
+    {
+      "url": "http://pdf.secdatabase.com/12/0000320193-24-000123.pdf",
+      "title": "PDF FORM 10-K - pdf.secdatabase.com"
+    },
+    {
+      "url": "https://app.stocklight.com/stocks/us/nasdaq-aapl/apple/annual-reports/nasdaq-aapl-2024-10K-241416806.pdf",
+      "title": "PDF Apple Annual Report 2024"
+    },
+    {
+      "url": "https://last10k.com/sec-filings/aapl/0000320193-24-000123.htm",
+      "title": "Apple Inc (AAPL) 10-K Annual Report November 2024"
+    }
+  ],
+  "edgar search by ticker tool": [
+    {
+      "url": "https://www.sec.gov/edgar/search/",
+      "title": "SEC.gov | EDGAR Full Text Search"
+    },
+    {
+      "url": "https://app.edgar.tools/companies",
+      "title": "Discover Companies - edgar.tools"
+    },
+    {
+      "url": "https://www.formal.financial/edgar/filings/",
+      "title": "Search Company Filings | SEC EDGAR API Tools"
+    },
+    {
+      "url": "https://www.sec.gov/search-filings",
+      "title": "Search Filings - SEC.gov"
+    }
+  ],
+  "reverse dcf template google sheets": [
+    {
+      "url": "https://optionsamurai.com/blog/reverse-dcf-template/",
+      "title": "Reverse DCF Template Excel | Blog | Option Samurai"
+    },
+    {
+      "url": "https://hub-sheet.com/reverse-dcf/",
+      "title": "Reverse Dcf Excel Template"
+    },
+    {
+      "url": "https://rizzcalc.com/use-cases/en/free-dcf-template",
+      "title": "Free DCF Template | Google Sheets & Excel with AI - RizzCalc"
+    },
+    {
+      "url": "https://blog.wisesheets.io/free-dcf-template-for-stocks-in-google-sheets/",
+      "title": "Free DCF Template for Stocks in Google Sheets - Wisesheets Blog"
+    }
+  ],
+  "unlevered free cash flow formula example": [
+    {
+      "url": "https://www.wallstreetprep.com/knowledge/unlevered-free-cash-flow/",
+      "title": "Unlevered Free Cash Flow (UFCF) | Formula + Calculator"
+    },
+    {
+      "url": "https://breakingintowallstreet.com/kb/discounted-cash-flow-analysis-dcf/unlevered-free-cash-flow/",
+      "title": "Unlevered Free Cash Flow: Formulas, Calculations, and Full Tutorial"
+    },
+    {
+      "url": "https://corporatefinanceinstitute.com/resources/financial-modeling/unlevered-free-cash-flow/",
+      "title": "Unlevered Free Cash Flow - Corporate Finance Institute"
+    },
+    {
+      "url": "https://www.wallstreetoasis.com/resources/financial-modeling/unlevered-free-cash-flow",
+      "title": "Unlevered Free Cash Flow - Definition, Examples & Formula"
+    },
+    {
+      "url": "https://www.highradius.com/resources/Blog/unlevered-free-cash-flow-formula/",
+      "title": "What is Unlevered Free Cash Flow (UFCF)? Formula & Calculation"
+    }
+  ],
+  "wacc for canadian company with us debt": [
+    {
+      "url": "https://www.bdc.ca/en/articles-tools/entrepreneur-toolkit/templates-business-guides/glossary/weighted-average-cost-of-capital",
+      "title": "What is weighted average cost of capital (WACC)? - BDC"
+    },
+    {
+      "url": "https://www.wallstreetprep.com/knowledge/wacc/",
+      "title": "WACC Guide | Formula + Calculation Example - Wall Street Prep"
+    },
+    {
+      "url": "https://goodcalculators.com/wacc-calculator/",
+      "title": "Weighted Average Cost of Capital (WACC) Calculator | Good Calculators"
+    },
+    {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/what-is-wacc-formula/",
+      "title": "WACC Formula, Definition and Uses - Guide to Cost of Capital"
+    }
+  ],
+  "beta estimation thinly traded stocks method": [
+    {
+      "url": "https://analystprep.com/cfa-level-1-exam/corporate-issuers/beta-estimation-for-public-companies-thinly-traded-companies-and-nonpublic-companies/",
+      "title": "Beta Estimation for Public and Private Firms | CFA Level 1"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/030504839090045B",
+      "title": "Beta estimation for thinly traded shares: A bootstrap approach"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/287234395_Thin-Trading_and_Beta_Estimation_Results_From_a_Simulated_Environment",
+      "title": "Thin-Trading and Beta Estimation: Results From a Simulated ..."
+    }
+  ],
+  "capital allocation checklist pdf": [
+    {
+      "url": "https://som.yale.edu/sites/default/files/2025-04/Check+Your+Strategy+and+Capital+Allocation+Aspirations.pdf",
+      "title": "Check Your Strategy and Capital Allocation Aspirations"
+    }
+  ],
+  "share repurchase authorization tracker": [],
+  "dividend cut early warning indicators": [
+    {
+      "url": "https://www.mystocksecret.com/2025/07/27/dividend-cut-warning-signs-how-to-protect-your-income/",
+      "title": "Dividend Cut Warning Signs: How to Protect Your... - My Stock Secret"
+    },
+    {
+      "url": "https://www.dividend-growth-stocks.com/2009/03/early-warning-signs-of-dividend-cut.html",
+      "title": "Dividend Growth Stocks: * Early Warning Signs of a Dividend Cut"
+    }
+  ],
+  "switching costs case studies b2b software": [
+    {
+      "url": "https://fastercapital.com/content/Switching-Costs--The-Price-of-Change--Understanding-Switching-Costs-in-Networked-Environments.html",
+      "title": "Switching Costs: The Price of Change: Understanding Switching Costs in ..."
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/hidden-costs-switching-vendors-why-staying-put-can-cheaper-disalvo",
+      "title": "The Hidden Costs of Switching Vendors: Why Staying Put Can ... - LinkedIn"
+    },
+    {
+      "url": "https://www.businessmodelhacking.com/switching-costs-example-lock-ins/",
+      "title": "Switching costs example: How lock-ins create businessgrowth"
+    }
+  ],
+  "net revenue retention saas benchmarks 2025": [
+    {
+      "url": "https://www.saas-capital.com/blog-posts/what-is-a-good-retention-rate-for-a-private-saas-company/",
+      "title": "What is a Good Retention Rate for a Private SaaS Company in 2025 ?"
+    },
+    {
+      "url": "https://www.benchmarkit.ai/2025benchmarks",
+      "title": "2025 SaaS Performance Metrics | Benchmarkit"
+    },
+    {
+      "url": "https://churnzero.com/webinars/2025-saas-benchmarks-on-retention-and-ai/",
+      "title": "2025 SaaS benchmarks on retention and AI: How does... - ChurnZero"
+    }
+  ],
+  "unit economics marketplace business example": [
+    {
+      "url": "https://www.breakcold.com/explain/unit-economics",
+      "title": "What are Unit Economics? (Explained With Examples) - Breakcold"
+    },
+    {
+      "url": "https://www.musesymphony.com/unit-economics-examples-startup-success/",
+      "title": "8 Unit Economics Examples for Startup Success - Muse Symphony"
+    },
+    {
+      "url": "https://ramp.com/model/unit-economics",
+      "title": "Unit Economics Guide (2025) - Unit Economics Models and ..."
+    }
+  ],
+  "capital intensity by sector chart": [
+    {
+      "url": "https://www.ibisworld.com/blog/getting-intense-how-high-interest-rates-will-affect-capital-intense-industries/",
+      "title": "Getting Intense : How High Interest Rates Will Affect Capital - Intense ..."
+    }
+  ],
+  "moat assessment checklist investing": [
+    {
+      "url": "https://www.morganstanley.com/im/publication/insights/articles/article_measuringthemoat.pdf",
+      "title": "Measuring the Moat - Morgan Stanley"
+    },
+    {
+      "url": "https://www.eatonvance.com/insights/consilient-observer/measuring-the-moat.html",
+      "title": "Assessing Corporate Strategy - A Checklist| Morgan Stanley ..."
+    },
+    {
+      "url": "https://www.morningstar.com/business/insights/blog/markets/equity-economic-moat-ratings",
+      "title": "Moat Ratings: The Ultimate Guide for Asset Managers"
+    }
+  ],
+  "python discounted cash flow pandas example": [
+    {
+      "url": "https://medium.com/@gianlucabaglini/automate-your-discounted-cash-flow-model-in-python-cdf98eb0924d",
+      "title": "Automate your Discounted Cash Flow model in Python"
+    },
+    {
+      "url": "https://www.tidy-finance.org/python/discounted-cash-flow-analysis.html",
+      "title": "DCF with Python \u2013 Tidy Finance"
+    },
+    {
+      "url": "https://github.com/halessi/DCF",
+      "title": "GitHub - halessi/DCF: Basic Discounted Cash Flow library ... PYTHON TIP + FINANCE - Discounted Cash Flow (DCF ... Discounted Cash Flow (DCF) valuation using Python & Streamlit Comparing Financial Analysis with Excel and Python/Pandas How to Calculate Discounted Cash Flows with Python"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/python-tip-finance-discounted-cash-flow-dcf-izairton-8xiqf",
+      "title": "PYTHON TIP + FINANCE - Discounted Cash Flow (DCF ..."
+    },
+    {
+      "url": "https://wire.insiderfinance.io/discounted-cash-flow-dcf-valuation-using-python-streamlit-269b316d833f",
+      "title": "Discounted Cash Flow (DCF) valuation using Python & Streamlit"
+    }
+  ],
+  "yfinance quarterly cashflow fields": [
+    {
+      "url": "https://stackoverflow.com/questions/72818954/how-do-i-extract-a-value-from-quarterly-cashflow-using-python-and-yfinance",
+      "title": "How do I extract a value from quarterly cashflow using python and yfinance"
+    },
+    {
+      "url": "https://deepwiki.com/ranaroussi/yfinance/5.3-fundamentals-and-financial-statements",
+      "title": "Fundamentals and Financial Statements | ranaroussi/yfinance | DeepWiki"
+    },
+    {
+      "url": "https://rfachrizal.medium.com/how-to-obtain-financial-statements-from-stocks-using-yfinance-87c432b803b8",
+      "title": "How to Obtain Financial Statements from Stocks Using yfinance"
+    }
+  ],
+  "fred api yield curve python example": [
+    {
+      "url": "https://datons.ai/download-and-analyze-fred-data-automatically-with-python/",
+      "title": "FRED API in Python: Automated US Federal Reserve ... - datons"
+    },
+    {
+      "url": "https://nikhilxsunder.github.io/fedfred/index.html",
+      "title": "FedFred: A Modern Python Client for FRED\u00ae API \u2014 fedfred"
+    }
+  ],
+  "sec edgar submissions api python": [
+    {
+      "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+      "title": "EDGAR Application Programming Interfaces (APIs) - SEC.gov"
+    },
+    {
+      "url": "https://sec-edgar-api.readthedocs.io/en/latest/",
+      "title": "sec-edgar-api \u2014 SEC EDGAR API Wrapper 1.1.0 documentation"
+    },
+    {
+      "url": "https://pypi.org/project/sec-edgar-api/",
+      "title": "sec-edgar-api \u00b7 PyPI"
+    },
+    {
+      "url": "https://nikhilxsunder.github.io/edgar-sec/index.html",
+      "title": "Edgar-SEC: A Modern Python Client for SEC EDGAR\u00ae API"
+    }
+  ],
+  "alpha vantage rate limits 2025": [
+    {
+      "url": "https://stackoverflow.com/questions/79352540/alpha-vantage-daily-api-rate-limit-reached-shown-every-day",
+      "title": "Alpha Vantage - \"daily API rate limit reached\" shown every day"
+    },
+    {
+      "url": "https://www.reddit.com/r/GnuCash/comments/17hf65m/alphavantage_online_quotes_now_limited_to_only/",
+      "title": "AlphaVantage online quotes now limited to only 25/day - Reddit"
+    },
+    {
+      "url": "https://srdjanmitrovic.com/blog/alpha-vantage-api-understanding-free-1763412826837",
+      "title": "Alpha Vantage API: Understanding Free Usage Limits"
+    },
+    {
+      "url": "https://askai.glarity.app/search/What-are-the-limitations-of-Alpha-Vantage-s-free-API-tier",
+      "title": "What are the limitations of Alpha Vantage's free API tier?"
+    }
+  ],
+  "optimize rebalancing with transaction costs python": [
+    {
+      "url": "https://gurobi-finance.readthedocs.io/en/latest/modeling_notebooks/rebalancing.html",
+      "title": "Rebalancing with Transaction Costs - Gurobi Finance"
+    },
+    {
+      "url": "https://skfolio.org/auto_examples/mean_risk/plot_6_transaction_costs.html",
+      "title": "Transaction Costs - skfolio"
+    }
+  ],
+  "rolling sharpe ratio pandas code": [
+    {
+      "url": "https://stackoverflow.com/questions/49091044/python-rolling-sharpe-ratio-with-pandas-or-numpy",
+      "title": "finance - Python rolling Sharpe ratio with Pandas or... - Stack Overflow"
+    },
+    {
+      "url": "https://www.quantstart.com/articles/annualised-rolling-sharpe-ratio-in-qstrader/",
+      "title": "Annualised Rolling Sharpe Ratio in QSTrader | QuantStart"
+    }
+  ],
+  "rss feed investor relations pages": [
+    {
+      "url": "https://global.honda/en/investors/rss.html",
+      "title": "RSS Feed | Investor Relations | Honda Motor Co., Ltd."
+    }
+  ],
+  "sec filing alerts email setup": [
+    {
+      "url": "https://www.theonlineinvestor.com/alerts/",
+      "title": "Free SEC Filing Email Alerts Service | The Online Investor"
+    },
+    {
+      "url": "https://help.boardroomalpha.com/hc/en-us/articles/14821125237015-Set-Up-SEC-Filing-Alerts",
+      "title": "Set Up SEC Filing Alerts \u2013 Boardroom Alpha Help"
+    },
+    {
+      "url": "https://www.ilovefreesoftware.com/01/featured/how-to-get-sec-filing-alerts-via-email.html",
+      "title": "How to Get SEC Filing Alerts via Email ?"
+    }
+  ],
+  "sedar+ watchlist notifications": [
+    {
+      "url": "https://systems.securities-administrators.ca/onlinehelp/faqs/cto-dl-sedar-email-subscription/",
+      "title": "CTO/DL SEDAR+ Email Subscription - SEDAR+ Resources"
+    },
+    {
+      "url": "https://systems.securities-administrators.ca/onlinehelp/general-help/create-or-modify-your-sedar-financial-documents-email-alerts-subscription/",
+      "title": "Create or Modify your SEDAR+ Financial Documents Email Alerts ..."
+    }
+  ],
+  "macro economic calendar ics feed": [],
+  "msft earnings call mp3 download": [
+    {
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2025/earnings-fy-2025-q4",
+      "title": "Microsoft Fiscal Year 2025 Fourth Quarter Earnings Conference ..."
+    },
+    {
+      "url": "https://seekingalpha.com/symbol/MSFT/earnings/transcripts",
+      "title": "Microsoft Corporation (MSFT) Earnings Call Transcripts ..."
+    }
+  ],
+  "spotify earnings call podcasts list": [
+    {
+      "url": "https://investors.spotify.com/podcasts/default.aspx",
+      "title": "Spotify - Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/46PBtsfdrwsRSELyCUuC8u",
+      "title": "Spotify Earnings Call Replays | Podcast on Spotify"
+    },
+    {
+      "url": "https://creators.spotify.com/pod/profile/ampspotify",
+      "title": "Spotify Earnings Call Replays \u2022 A podcast on Spotify for Creators"
+    },
+    {
+      "url": "https://podcasts.musixmatch.com/podcast/spotify-earnings-call-replays-01hdgw7tt2v3qkjb8j2bxv0qtw",
+      "title": "Spotify Earnings Call Replays Podcast Transcripts"
+    }
+  ],
+  "investment premortem template": [
+    {
+      "url": "https://www.atlassian.com/team-playbook/plays/pre-mortem",
+      "title": "How to Run Pre - Mortem Exercises [ Templates Included] | Atlassian"
+    },
+    {
+      "url": "https://miro.com/templates/premortem/",
+      "title": "Premortem Template | Miroverse"
+    },
+    {
+      "url": "https://www.jotform.com/board-templates/premortem-template",
+      "title": "Premortem Template | Jotform"
+    }
+  ],
+  "post mortem investing template": [
+    {
+      "url": "https://www.meegle.com/en_us/advanced-templates/private_equity/deal_execution_post_mortem_analysis_template",
+      "title": "Deal Execution Post-Mortem Analysis Template - Meegle"
+    }
+  ],
+  "cognitive biases checklist investing": [
+    {
+      "url": "https://www.investopedia.com/terms/b/bias.asp",
+      "title": "Avoid Investment Pitfalls: Recognize Common Biases in ... - Investopedia"
+    },
+    {
+      "url": "https://smartasset.com/investing/cognitive-biases-in-investing",
+      "title": "10 Types of Cognitive Biases in Investing - SmartAsset"
+    },
+    {
+      "url": "https://magellaninvestmentpartners.com/insights/decoding-cognitive-biases-what-every-investor-needs-to-be-aware-of/",
+      "title": "Decoding Cognitive Biases: What every Investor needs to be aware of"
+    },
+    {
+      "url": "https://www.avatrade.com/education/trading-for-beginners/cognitive-bias",
+      "title": "11 Cognitive Bias That Can Affect Your Trading - AvaTrade"
+    },
+    {
+      "url": "https://neurolaunch.com/cognitive-bias-investing/",
+      "title": "Cognitive Bias in Investing: Influence on Financial Decisions"
+    }
+  ],
+  "xeqt vs veqt vs hgro comparison": [
+    {
+      "url": "https://www.myownadvisor.ca/veqt-vs-xeqt-vs-hgro/",
+      "title": "VEQT vs. XEQT vs. HGRO Equity ETFs - My Own Advisor"
+    }
+  ],
+  "us total market etf rrsp withholding tax": [
+    {
+      "url": "https://benderbenderbortolotti.com/foreign-withholding-tax-u-s-equity-etfs/",
+      "title": "Foreign Withholding Tax | U.S. Equity ETFs | PWL Capital ..."
+    },
+    {
+      "url": "https://www.moneysense.ca/columns/ask-a-planner/withholding-tax-on-us-etfs/",
+      "title": "Do you pay withholding tax on U.S. ETFs? - MoneySense U.S Witholding Tax - U.S ETF (SCHD) in TFSA : r ... - Reddit Is an RRSP or TFSA best to minimize withholding taxes on U.S ... Part I: Foreign Withholding Taxes for Equity ETFs | PWL ... The impact of withholding taxes on Canadian ETF investors Foreign Withholding Tax | U.S. Equity ETFs - Bender Bender Bortolotti Non-resident withholding taxes and how to minimize them The impact of withholding taxes on Canadian ETF investors Part I: Foreign Withholding Taxes for Equity ETFs Non-resident withholding taxes and how to minimize them"
+    },
+    {
+      "url": "https://financialpost.com/personal-finance/minimize-withholding-taxes-us-stocks-rrsp-tfsa",
+      "title": "Is an RRSP or TFSA best to minimize withholding taxes on U.S ..."
+    },
+    {
+      "url": "https://benderbenderbortolotti.com/part-i-foreign-withholding-taxes-for-equity-etfs/",
+      "title": "Part I: Foreign Withholding Taxes for Equity ETFs | PWL ..."
+    }
+  ],
+  "xbb vs zag canadian bond etf comparison": [
+    {
+      "url": "https://portfolioslab.com/tools/stock-comparison/ZAG.TO/XBB.TO",
+      "title": "ZAG.TO vs. XBB.TO \u2014 ETF Comparison Tool | PortfoliosLab"
+    },
+    {
+      "url": "https://whatifinvested.com/xbb-vs-vab-vs-zag-2025/",
+      "title": "XBB vs VAB vs ZAG (2025 Comparison) - whatifinvested.com"
+    },
+    {
+      "url": "https://ca.investing.com/news/stock-market-news/zag-vs-xbb-which-bond-etf-is-the-better-buy-for-canadian-investors-2671595",
+      "title": "ZAG vs. XBB: Which Bond ETF Is the Better Buy for Canadian ..."
+    },
+    {
+      "url": "https://peaceofmindinvesting.com/stocks/zag-vs-vab-vs-xbb-which-aggregate-bond-etf-is-the-best-buy-for-canadians",
+      "title": "ZAG vs. VAB vs. XBB - Which Aggregate Bond ETF is the Best ..."
+    }
+  ],
+  "capital gains inclusion rate canada current": [
+    {
+      "url": "https://www.sterncohen.com/insights/capital_gains_inclusion_rate/",
+      "title": "Capital Gains Inclusion Rate - Changes & Updates | Stern Cohen"
+    },
+    {
+      "url": "https://www.canada.ca/en/department-finance/news/2024/06/capital-gains-inclusion-rate.html",
+      "title": "Capital Gains Inclusion Rate - Canada .ca"
+    },
+    {
+      "url": "https://www.bdo.global/en-gb/insights/tax/expatriate-tax/canada-government-defers-capital-gains-inclusion-rate-increase-what-this-means-for-employer-empl",
+      "title": "Canada - What the Pending Capital Gains Tax Legislation... - BDO"
+    },
+    {
+      "url": "https://www.ctvnews.ca/business/article/ottawa-announces-deferral-in-implementing-its-capital-gains-changes/",
+      "title": "Canada Capital Gains : Ottawa delays capital gains tax change"
+    },
+    {
+      "url": "https://www.taxand.com/our-thinking/insights/increase-to-canadas-capital-gains-inclusion-rate/",
+      "title": "Increase to Canada \u2019s Capital Gains Inclusion Rate - Taxand"
+    }
+  ],
+  "t1135 foreign income verification guide": [
+    {
+      "url": "https://cpaguide.ca/t1135-form/",
+      "title": "T 1135 Form: Foreign Income Verification Statement Guide"
+    },
+    {
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/foreign-reporting/foreign-income-verification-statement.html",
+      "title": "Foreign Income Verification Statement - Canada.ca"
+    },
+    {
+      "url": "https://support.cchifirm.ca/en/assistance/T2/2022/content/taxhelp/fed20.htm",
+      "title": "T 1135 , Foreign Income Verification Statement"
+    },
+    {
+      "url": "https://filingtaxes.ca/form-t1135-complete-guide/",
+      "title": "Form T 1135 Guide 2025: CRA Foreign Income Reporting"
+    },
+    {
+      "url": "https://www.nbfwm.ca/content/dam/fbngp/microsites/equipe-chartier-grandmaison/guides-fiscalit\u00e9/T1135Guide_2020_NBFWM_en.pdf",
+      "title": "T 1135 \u2013 GUIDE"
+    }
+  ],
+  "rrsp vs tfsa which first calculator": [
+    {
+      "url": "https://ativa.com/tfsa-vs-rrsp-calculator/",
+      "title": "TFSA vs RRSP Calculator - Ativa Interactive Corp."
+    },
+    {
+      "url": "https://www.conexus.ca/calculators/tfsa-vs-rrsp",
+      "title": "Conexus - TFSA vs RRSP"
+    },
+    {
+      "url": "https://dynamic.ca/en/tools/calculators-and-planners/calculators-and-planners/tfsa-rrsp-savings.html",
+      "title": "TFSA , RRSP and Savings Account Calculator \u2013 Dynamic Funds"
+    },
+    {
+      "url": "https://www.taxtips.ca/calculators/tfsavsrrsp/tfsa-vs-rrsp-calculator.htm",
+      "title": "TaxTips.ca - TFSA vs RRSP Calculator"
+    }
+  ],
+  "norbert's gambit dlr dlr.u questrade step by step": [
+    {
+      "url": "https://wealthsavvy.ca/norberts-gambit-questrade/",
+      "title": "Norbert's Gambit with Questrade: Step-By-Step Guide (2025)"
+    },
+    {
+      "url": "https://www.stocktrades.ca/norberts-gambit/",
+      "title": "Norberts Gambit - Step by Step Instructions for Major Brokerages ..."
+    },
+    {
+      "url": "https://genymoney.ca/norbert-gambit-convert-cad-usd-questrade/",
+      "title": "Questrade Currency Conversion Fee (Avoid It Using Norbert's Gambit)"
+    }
+  ],
+  "usd cash tfsa which brokers allow": [
+    {
+      "url": "https://www.interactivebrokers.ca/en/accounts/rsp_tfsa_information.php",
+      "title": "RRSP/SRSP, TFSA and FHSA Account Information | Interactive..."
+    }
+  ],
+  "acb tracking for etfs canada spreadsheet": [
+    {
+      "url": "https://benderbenderbortolotti.com/tracking-the-acb-of-your-asset-allocation-etf/",
+      "title": "Tracking the ACB of Your Asset Allocation ETF - PWL Capital"
+    },
+    {
+      "url": "https://www.adjustedcostbase.ca/blog/exporting-adjusted-cost-base-data-to-a-spreadsheet/",
+      "title": "Exporting Adjusted Cost Base Data to a Spreadsheet"
+    }
+  ],
+  "questrade stop limit order how to": [
+    {
+      "url": "https://www.questrade.com/learning/investment-concepts/adv-order-types-durations/stop-limit-orders",
+      "title": "Stop-limit orders - Questrade"
+    },
+    {
+      "url": "http://mybubbaandme.com/read-here/how-do-i-sell-a-stop-limit-on-questrade/",
+      "title": "How do I sell a stop limit on questrade? \u2013 My bubba and me"
+    }
+  ],
+  "wealthsimple fractional shares tsx list": [
+    {
+      "url": "https://www.wealthsimple.com/en-ca/fractional-shares",
+      "title": "Fractional Shares | Invest with $1 | Wealthsimple"
+    },
+    {
+      "url": "https://www.wealthsimple.com/en-ca/learn/fractional-shares",
+      "title": "Fractional Shares | Wealthsimple"
+    }
+  ],
+  "ibkr price volume alert tutorial": [
+    {
+      "url": "https://ibkrguides.com/traderworkstation/set-price-alert.htm",
+      "title": "Set Price Alert"
+    }
+  ],
+  "tradingview alert to slack webhook": [
+    {
+      "url": "https://www.tradingview.com/support/solutions/43000529313-i-cannot-send-webhooks-to-slack/",
+      "title": "I cannot send webhooks to Slack - TradingView"
+    },
+    {
+      "url": "https://www.blog.brightcoding.dev/2025/08/26/\ud83d\udcca-ultimate-guide-how-to-forward-tradingview-alerts-to-telegram-discord-slack-twitter-email-in-2025/",
+      "title": "Ultimate Guide: How to Forward TradingView Alerts to Telegram ..."
+    },
+    {
+      "url": "https://www.pabbly.com/how-to-send-tradingview-alerts-to-slack-channel-using-pabbly-connect/",
+      "title": "How to Send TradingView Alerts to Slack Channel Using Pabbly Connect"
+    },
+    {
+      "url": "https://github.com/fabston/TradingView-Webhook-Bot",
+      "title": "Send TradingView alerts to Telegram, Discord, Slack ... - GitHub"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=YOwD4tqvS3c",
+      "title": "How to Send TradingView Alerts on Slack Channel - YouTube"
+    }
+  ],
+  "statcan productivity dataset csv": [],
+  "bls employment data api guide": [
+    {
+      "url": "https://www.bls.gov/bls/api_features.htm",
+      "title": "Data API - U.S. Bureau of Labor Statistics"
+    },
+    {
+      "url": "https://www.bd-econ.com/blsapi.html",
+      "title": "BD Economics | BLS API Guide"
+    },
+    {
+      "url": "https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/bls.html",
+      "title": "U.S. Bureau of Labor Statistics API in Python"
+    },
+    {
+      "url": "https://blsapi.readthedocs.io/en/latest/",
+      "title": "blsAPI \u2014 blsAPI latest documentation"
+    }
+  ],
+  "iea electricity market report 2025 pdf": [
+    {
+      "url": "https://www.iea.org/reports/electricity-2025",
+      "title": "Electricity 2025 \u2013 Analysis - IEA"
+    }
+  ],
+  "eia weekly petroleum status latest": [
+    {
+      "url": "https://www.eia.gov/petroleum/supply/weekly/?_hsenc=p2ANqtz-_9OBIIfoY5c3GhriPeVKdWtoGYvT8ZA9t7ud015R4MM6YUs_CIv0jV_ExnYR-CNpE3V9va",
+      "title": "Weekly Petroleum Status Report - U.S. Energy Information ..."
+    },
+    {
+      "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php",
+      "title": "Weekly Petroleum Status Report Schedule - U.S. Energy ..."
+    }
+  ],
+  "grid interconnection backlog us 2025 report": [
+    {
+      "url": "https://energyscaperenewables.com/post/2025-interconnection-queue-how-epcs-beat-grid-delays/",
+      "title": "2025 Interconnection Queue: How EPCs Beat Grid Delays"
+    },
+    {
+      "url": "https://pv-magazine-usa.com/2025/05/09/u-s-renewables-developers-face-daunting-grid-interconnection-queues/",
+      "title": "U.S. renewables developers face daunting grid interconnection ..."
+    }
+  ],
+  "ieso ontario demand forecast 2030 pdf": [
+    {
+      "url": "https://www.ieso.ca/en/Sector-Participants/Planning-and-Forecasting/Annual-Planning-Outlook",
+      "title": "Annual Planning Outlook - IESO"
+    },
+    {
+      "url": "https://www.ieso.ca/-/media/Files/IESO/Document-Library/Decarbonization-Hub/IESO-Ontarios-Energy-Future-Spring-2024.pdf",
+      "title": "Ontario s Energy Future - IESO"
+    }
+  ],
+  "heat pump adoption canada data": [
+    {
+      "url": "https://natural-resources.canada.ca/energy-efficiency/home-energy-efficiency/canada-greener-homes-initiative/heat-pumps-uptake-glance-0",
+      "title": "Heat pumps uptake at a glance - Natural Resources Canada"
+    },
+    {
+      "url": "https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2023/market-snapshot-heat-pumps-could-significantly-reduce-ghg-emissions-from-canadas-buildings.html",
+      "title": "CER - Market Snapshot: Heat pumps could significantly reduce GHG ..."
+    },
+    {
+      "url": "https://www.theenergymix.com/latest-data-shows-the-rapid-growth-of-heat-pumps-in-canada/",
+      "title": "Latest Data Shows the Rapid Growth of Heat Pumps in Canada"
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/energy-efficiency/articles/10.3389/fenef.2024.1376070/pdf",
+      "title": "The landscape of heat pump adoption in Canada: a market segments approach"
+    }
+  ],
+  "lfp vs nmc battery cost curve 2025": [
+    {
+      "url": "https://evtech.news/battery-technology/lfp-vs-nmc-2025-comparison.html",
+      "title": "LFP vs NMC Batteries: 2025 Comparison - evtech.news"
+    },
+    {
+      "url": "https://ts2.tech/en/ev-battery-economics-2025-cost-parity-milestones-and-chemistry-breakthroughs/",
+      "title": "EV Battery Economics 2025: Cost-Parity Milestones and Chemistry ..."
+    },
+    {
+      "url": "https://insights.frost.com/hubfs/Content+Uploads/DGT/2025/GO/TV/DAF3_Samples.pdf?hsLang=en",
+      "title": "PDF Techno-economic Comparison of LFP and NMC Battery Technologies for ..."
+    }
+  ],
+  "carbon capture economics breakeven": [
+    {
+      "url": "https://malotastudio.net/carbon-capture-break-even-case-studies/",
+      "title": "When Does Carbon Capture Pay Off? Break-Even Case Studies from the US ..."
+    },
+    {
+      "url": "https://www.bbvaresearch.com/en/publicaciones/global-carbon-capture-and-storage-costs-opportunity-costs-and-profitability/",
+      "title": "Global | Carbon Capture and Storage: Costs, Opportunity Costs, and ..."
+    },
+    {
+      "url": "https://sigmaearth.com/carbon-capture-cost-trends-how-the-economics-are-shaping-up/",
+      "title": "Carbon Capture Cost Trends: How The Economics Are Shaping Up"
+    },
+    {
+      "url": "https://pubs.acs.org/doi/10.1021/acsenergylett.4c02852",
+      "title": "Economic Viability of Integrated CO2 Capture and Conversion"
+    }
+  ],
+  "small modular reactor canada opg status": [
+    {
+      "url": "https://www.opg.com/projects-services/projects/nuclear/smr/darlington-smr/",
+      "title": "Small modular reactors | Darlington SMR \u2013 OPG"
+    },
+    {
+      "url": "https://www.cbc.ca/news/canada/toronto/small-modular-reactor-nuclear-power-ontario-construction-1.7529338",
+      "title": "Ontario set to begin construction of Canada's 1st mini ..."
+    },
+    {
+      "url": "https://news.ontario.ca/en/release/1005889/ontario-leads-the-g7-by-building-first-small-modular-reactor",
+      "title": "Ontario Leads the G7 by Building First Small Modular Reactor"
+    },
+    {
+      "url": "https://cna.ca/2025/05/08/opg-secures-approval-from-ontario-to-construct-first-small-modular-reactor-in-the-g7/",
+      "title": "OPG Secures Approval from Ontario to Construct First Small ..."
+    },
+    {
+      "url": "https://www.world-nuclear-news.org/articles/opg-gets-go-ahead-to-build-first-smr-in-canada",
+      "title": "OPG gets go-ahead to build first SMR in Canada - World ..."
+    }
+  ],
+  "ira transferability tax credits guide": [
+    {
+      "url": "https://www.cruxclimate.com/insights/transferable-tax-credits",
+      "title": "Transferable Tax Credits - 2025 Ultimate Guide | Crux"
+    },
+    {
+      "url": "https://www.gasilov.com/insights/ira-transferable-tax-credits-2025-cfo-playbook-45q-48-48e",
+      "title": "IRA Transferable Tax Credits 2025 | CFO Playbook for 45Q, 48, 48E ..."
+    },
+    {
+      "url": "https://www.irs.gov/credits-deductions/elective-pay-and-transferability",
+      "title": "Elective pay and transferability - Internal Revenue Service"
+    },
+    {
+      "url": "https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2024/transferable-tax-credits.pdf",
+      "title": "PDF What you should know about transferable tax credits - KPMG"
+    },
+    {
+      "url": "https://www.reunioninfra.com/insights/transferable-tax-credit-comprehensive-guide",
+      "title": "Transferable Tax Credits Comprehensive Guide 2025"
+    }
+  ],
+  "uranium spot price source reliable": [
+    {
+      "url": "https://tradingeconomics.com/commodity/uranium",
+      "title": "Uranium - Price - Chart - Historical Data - News"
+    },
+    {
+      "url": "https://markets.businessinsider.com/commodities/uranium-price?op=1",
+      "title": "Uranium PRICE Today | Uranium Spot Price Chart | Live Price of Uranium ..."
+    }
+  ],
+  "lumber futures chart continuous": [
+    {
+      "url": "https://www.marketwatch.com/investing/future/lbr00",
+      "title": "LBR00 | Lumber Continuous Contract Overview | MarketWatch Lumber Futures Continuous Contract - Google Images Lumber Futures Chart - Investing.com Lumber - Price - Chart - Historical Data - News Lumber Continuous Contract Futures Prices and News | LBR00 Lumber Continuous Contract Overview (LBR00) | Barron's LBR1! Charts and Quotes \u2014 TradingView"
+    },
+    {
+      "url": "https://www.google.com/finance/quote/LBRW00:CME",
+      "title": "Lumber Futures Continuous Contract - Google"
+    },
+    {
+      "url": "https://www.investing.com/commodities/lumber-streaming-chart",
+      "title": "Lumber Futures Chart - Investing.com"
+    },
+    {
+      "url": "https://www.wsj.com/market-data/quotes/futures/LBR00",
+      "title": "Lumber Continuous Contract Futures Prices and News | LBR00"
+    }
+  ],
+  "usdcad dxy correlation": [
+    {
+      "url": "https://www.myfxbook.com/forex-market/correlation/USDCAD",
+      "title": "USDCAD US Dollar vs Canadian Dollar USD CAD Top Correlation | Myfxbook"
+    },
+    {
+      "url": "https://priceactionninja.com/top-usd-cad-correlations-every-forex-trader-should-know/",
+      "title": "USD/CAD Currency Correlation - PriceActionNinja"
+    },
+    {
+      "url": "https://take-profit.org/en/currency-correlation/usd-cad/",
+      "title": "USD CAD Correlation | How USD/CAD Correlated to Currencies - Take ..."
+    }
+  ],
+  "cad hedged vs unhedged s&p 500 etf long term": [
+    {
+      "url": "https://www.fool.ca/2022/03/05/sp-500-etfs-should-canadians-buy-hedged-or-unhedged/",
+      "title": "S & P 500 ETFs : Should Canadians Buy Hedged or Unhedged ?"
+    },
+    {
+      "url": "https://piggybank.ca/investing/etf/hedged-vs-unhedged-etfs-in-canada",
+      "title": "Hedged vs Unhedged ETF in Canada: Which To Choose? - PiggyBank"
+    },
+    {
+      "url": "https://www.tawcan.com/hedged-vs-unhedged-etfs-in-canada/",
+      "title": "Should I Hedge ? Hedged Vs . Unhedged ETFs In Canada \u00bb Tawcan"
+    }
+  ],
+  "max drawdown calculator portfolio": [
+    {
+      "url": "https://stockcalculators.org/risk/maximum-drawdown-calculator/",
+      "title": "Maximum Drawdown Calculator - Track Portfolio Decline"
+    },
+    {
+      "url": "https://financecalculator.us/investment/maximum-drawdown-calculator.html",
+      "title": "Maximum Drawdown Calculator - Calculate Peak-to-Trough Decline"
+    },
+    {
+      "url": "https://www.omnicalculator.com/finance/maximum-drawdown",
+      "title": "Maximum Drawdown Calculator"
+    },
+    {
+      "url": "https://totucalculator.com/Finance/maximum-drawdown-calculator",
+      "title": "Maximum Drawdown Calculator - Portfolio Risk Tool"
+    },
+    {
+      "url": "https://www.advancedwealth.com/calc",
+      "title": "Portfolio Drawdown Calculator"
+    }
+  ],
+  "sequence of returns risk simulator": [
+    {
+      "url": "https://codingace.net/finance/sequence_of_returns_risk.html",
+      "title": "Sequence of Returns Risk Simulator Calculator"
+    },
+    {
+      "url": "https://ria.disciplinefunds.com/sequence-of-return-risk-simulator/",
+      "title": "Sequence of Return Risk Simulator \u2013 Discipline Funds"
+    },
+    {
+      "url": "https://secure.retireware.com/csstest/p_sequence.aspx",
+      "title": "Sequence of Returns Calculator"
+    },
+    {
+      "url": "https://retirementplanningedu.org/calculator/",
+      "title": "Sequence of Return Calculator - Retirement Education Foundation"
+    },
+    {
+      "url": "https://www.calculatorultra.com/en/tool/sequence-of-returns-risk-impact-calculator.html",
+      "title": "Sequence of Returns Risk Impact Calculator"
+    }
+  ],
+  "insider ownership screeners free": [
+    {
+      "url": "https://www.insiderscreener.com/en/",
+      "title": "Insider Trading Tracker - Monitor Insider Buying - insider screener"
+    },
+    {
+      "url": "https://www.stockinsider.io/",
+      "title": "Free Insider Trading Tracker | SEC Form 4 Filings & Stock Alerts"
+    },
+    {
+      "url": "http://openinsider.com/screener",
+      "title": "Insider Trading Screener - - OpenInsider"
+    },
+    {
+      "url": "https://www.tikr.com/blog/5-best-free-tools-to-track-insider-trading-in-stocks",
+      "title": "5 Best Free Tools to Track Insider Trading in Stocks"
+    }
+  ],
+  "dual class shares list tsx": [],
+  "governance red flags checklist": [
+    {
+      "url": "https://www.eventbrite.com.au/e/risk-management-identifying-governance-red-flags-sydney-may-2025-registration-1109718551059",
+      "title": "Risk Management: Identifying Governance Red Flags ... | Eventbrite"
+    },
+    {
+      "url": "https://www.darkhackerworld.com/2025/03/corporate-governance-red-flags-you-should-never-ignore.html",
+      "title": "Corporate Governance Red Flags You Should Never Ignore"
+    },
+    {
+      "url": "https://www.bii.co.uk/en/news-insight/insight/articles/governance-red-flags-in-venture-capital-start-ups-interpreting-and-acting-on-warning-signs/",
+      "title": "Governance red - flags in venture capital start-ups \u2013 interpreting and..."
+    }
+  ],
+  "two factor authentication yubikey questrade": [],
+  "back up google authenticator codes": [
+    {
+      "url": "https://www.androidpolice.com/google-authenticator-backup-codes-tutorial/",
+      "title": "Google Authenticator : How to get backup codes"
+    },
+    {
+      "url": "https://support.google.com/accounts/answer/1187538?hl=en&co=GENIE.Platform=Desktop",
+      "title": "Sign in with backup codes - Computer - Google Account Help"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ABWqtU0Yykk",
+      "title": "How to Backup your Google Authenticator codes - YouTube"
+    },
+    {
+      "url": "https://security.stackexchange.com/questions/167563/where-to-find-google-authenticator-backup-codes",
+      "title": "recovery - Where to find Google Authenticator backup codes ?"
+    },
+    {
+      "url": "https://blockspot.io/backup-google-authenticator/",
+      "title": "4 tips - Backup Google Authenticator 2FA or transfer to new phone"
+    }
+  ],
+  "readwise highlights from pdf 10-k": [
+    {
+      "url": "https://docs.readwise.io/readwise/docs/importing-highlights/pdf",
+      "title": "Import from PDF Files - Readwise Docs"
+    },
+    {
+      "url": "https://www.reddit.com/r/readwise/comments/1bu7nat/how_to_get_comments_and_highlights_out_of_a_pdf/",
+      "title": "How to get comments and highlights out of a PDF? : r/readwise"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=oAVRt-YAuPE",
+      "title": "How to extract your PDF highlights using Readwise - YouTube"
+    },
+    {
+      "url": "https://docs.readwise.io/readwise/docs/importing-highlights",
+      "title": "Import Highlights to Readwise - Readwise Docs"
+    }
+  ],
+  "best ipad pdf annotation app for filings": [
+    {
+      "url": "https://www.imore.com/best-pdf-apps-ipad",
+      "title": "Best PDF markup and annotation apps for iPad and Apple Pencil 2025"
+    },
+    {
+      "url": "https://fixthephoto.com/best-pdf-annotation-app-for-ipad.html",
+      "title": "11 Best PDF Annotation Apps for iPad \u2014 Add Notes to PDFs Easily"
+    },
+    {
+      "url": "https://www.swifdoo.com/blog/best-pdf-annotation-app-for-ipad",
+      "title": "6 Best PDF Annotation Apps for iPad 2025 [Free Ones Included]"
+    },
+    {
+      "url": "https://pdf.wondershare.com/mobile-app/ipad-pro-pdf-annotation.html",
+      "title": "12 Best PDF Annotation Apps for iPad in 2025"
+    },
+    {
+      "url": "https://www.reddit.com/r/ipad/comments/1d879ye/what_is_your_goto_note_takingpdf_annotating_app/",
+      "title": "What is your go-to note taking/pdf annotating app on iPad ... - Reddit"
+    }
+  ],
+  "buyback announcements 2025 dataset": [],
+  "dividend aristocrats canada list": [
+    {
+      "url": "https://dividendearner.com/canadian-dividend-aristocrats/",
+      "title": "Canadian Dividend Aristocrats For May 2025"
+    },
+    {
+      "url": "https://www.digrin.com/stocks/list/8-canada/",
+      "title": "Canadian Dividend Aristocrats | Digrin"
+    }
+  ],
+  "howard marks latest memo": [
+    {
+      "url": "https://www.businessinsider.com/howard-marks-memo-perplexity-ai-warren-buffett-tech-investing-wildfires-2025-6",
+      "title": "Howard Marks Says He Used Perplexity AI Tool to Help Write Latest ..."
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/business/markets/howard-marks-latest-memo-why-market-forecasts-often-fail-12771585.html",
+      "title": "Howard Marks explains in latest memo why market forecasts often fail"
+    },
+    {
+      "url": "https://thesharkmonitor.com/howard-marks-latest-memo-is-it-a-bubble/",
+      "title": "Howard Marks ' Latest Memo : Is It a Bubble? - The Shark Monitor"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/matt-wu-a27a7718b_howard-marks-latest-memo-investcons-in-activity-7361851756558893057-gMIT",
+      "title": "Howard Marks ' latest memo | Matt Wu"
+    }
+  ],
+  "fundsmith 2024 annual letter pdf": [
+    {
+      "url": "https://www.fundsmith.co.uk/media/pirmvyly/annual-letter-to-shareholders-2024.pdf",
+      "title": "Fundsmith Equity Fund Annual Letter to Shareholders 2024"
+    }
+  ],
+  "akre focus annual letter 2024": [
+    {
+      "url": "https://www.buysidedigest.com/letters/akre-focus-fund-2024-q4/",
+      "title": "Akre Focus Fund 2024 Q4 Letter - Buyside Digest"
+    },
+    {
+      "url": "https://www.akrefund.com/akre-focus-fund-documents/",
+      "title": "Akre Focus Fund Documents - Akre Focus ETF - akrefund.com"
+    }
+  ],
+  "mark leonard letters compilation download": [
+    {
+      "url": "https://quartr.com/insights/business-philosophy/collection-mark-leonards-shareholder-letters",
+      "title": "Collection: Mark Leonard's Shareholder Letters - Quartr"
+    },
+    {
+      "url": "https://blockchain.news/flashnews/mark-leonard-shareholder-letters-pdf-from-25m-to-80b-complete-compilation-shared-by-qcompounding",
+      "title": "Mark Leonard Shareholder Letters PDF: From $25M to $80B - Complete ..."
+    },
+    {
+      "url": "https://jeremyrosmarin.com/mark-leonards-constellation-software-letters/",
+      "title": "Mark Leonard's Constellation Software Letters"
+    },
+    {
+      "url": "https://blog.spoke.dev/2024/03/30/constellation-software-presidents-letters/",
+      "title": "Constellation Software President's Letters - Spoke.dev"
+    }
+  ],
+  "canada esg disclosure issb adoption timeline": [
+    {
+      "url": "https://www.pwc.com/ca/en/services/sustainability/insights/need-to-know-about-csds.html",
+      "title": "Canada's sustainability disclosure standards | PwC Canada"
+    },
+    {
+      "url": "https://kpmg.com/ca/en/home/services/environmental-social-and-governance/reporting/cssb-sustainability-reporting.html",
+      "title": "CSSB | Sustainability reporting - KPMG Canada"
+    },
+    {
+      "url": "https://www.iss-corporate.com/resources/blog/canada-pushes-forward-with-sustainability-disclosure-standards/",
+      "title": "Canada Sustainability Disclosure Standards - ISS-Corporate"
+    },
+    {
+      "url": "https://www.ey.com/en_ca/insights/assurance/canadas-new-sustainability-standards",
+      "title": "Canada's New Sustainability Standards - EY"
+    },
+    {
+      "url": "https://asuene.com/us/blog/from-issb-to-cssb-how-canada-is-customizing-global-esg-rules",
+      "title": "From ISSB to CSSB: How Canada Is Customizing Global ESG Rules | Blog ..."
+    }
+  ],
+  "osc sedi replacement update": [
+    {
+      "url": "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/55-102/amendments-national-instrument-55-102-system-electronic-disclosure-insiders-sedi",
+      "title": "Amendments to National Instrument 55-102 System for... | OSC"
+    },
+    {
+      "url": "https://www.securities-administrators.ca/national-systems/sedi/",
+      "title": "Insider Reporting ( SEDI ) - Canadian Securities Administrators"
+    },
+    {
+      "url": "https://www.sedi.ca/sedi/SVTWelcome?locale=en_CA",
+      "title": "SEDI"
+    }
+  ],
+  "operating leases capitalization impact ev/ebitda": [
+    {
+      "url": "https://www.pwc.com/gx/en/audit-services/publications/assets/a-study-on-the-impact-of-lease-capitalisation.pdf",
+      "title": "Microsoft Word - A study on the impact of lease capitalisation .docx"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/29813273_The_Impact_of_Constructive_Operating_Lease_Capitalization_on_Key_Accounting_Ratios",
+      "title": "(PDF) The Impact of Constructive Operating Lease Capitalization on..."
+    }
+  ],
+  "roic vs roe when to use which": [
+    {
+      "url": "https://breakingintowallstreet.com/kb/financial-statement-analysis/roic-vs-roe-and-roe-vs-roa/",
+      "title": "ROIC vs ROE and ROE vs ROA: Key Financial Metrics and Ratios"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/brian-stoffel-28509549_roe-vs-roa-vs-roic-vs-roce-whats-the-difference-activity-7225096581203554305-47AM",
+      "title": "What is ROE vs ROIC vs ROCE? | Brian Stoffel posted on... | LinkedIn"
+    },
+    {
+      "url": "https://financestu.com/roic-vs-roe/",
+      "title": "ROIC vs ROE : Difference Explained in 4 Easy Steps"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/71384/calculations-of-return-roa-vs-roe-vs-roic",
+      "title": "Calculations of Return (ROA vs ROE vs ROIC )"
+    }
+  ],
+  "toronto cafe large tables saturday group": [],
+  "short throw projector rental toronto": [
+    {
+      "url": "https://torontoprojectorrentals.com/shop/casio-ultra-short-throw-wxga-real-3100-lumens-2/",
+      "title": "Casio Ultra Short Throw WXGA Real... - Toronto Projector Rentals"
+    }
+  ],
+  "eventbrite alternatives free rsvp": [
+    {
+      "url": "https://alternativeto.net/software/eventbrite/?p=2",
+      "title": "Eventbrite Alternatives - Page 2 | AlternativeTo"
+    },
+    {
+      "url": "https://rsvpify.com/top-five-eventbrite-alternatives/",
+      "title": "Top Five EventBrite Alternatives in 2025 - RSVPify"
+    },
+    {
+      "url": "https://www.jotform.com/blog/eventbrite-alternative/",
+      "title": "10 Eventbrite alternatives for planning great... | The Jotform Blog"
+    },
+    {
+      "url": "https://www.eventbrite.com/l/s/comparison/",
+      "title": "Eventbrite Alternatives : Compare The Best Leading Event Platforms"
+    },
+    {
+      "url": "https://eventx.io/blog/eventbrite-alternatives-competitors",
+      "title": "THE 10 BEST Eventbrite Alternatives & Competitors... | EventX Blog"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Maya Chen",
+  "description": "Maya Chen is a meticulous home improvement planner who turns vague renovation ideas into phased, code-compliant, and budget-anchored roadmaps. With a background in operations analysis, she blends data discipline with a keen design eye to balance inspiration, constraints, and long-term value. She maintains an 18-month rolling project pipeline, aligning scope with cash flow, utility rebates, and seasonality. Maya builds detailed scopes of work, annotated drawings, and RFP packets to secure competitive bids, applying a three-bid policy and evaluating contractors on quality, schedule reliability, and change-order transparency. She models spaces in SketchUp, tracks materials with spreadsheets and price alerts, and plans logistics to minimize disruption, dust, and noise. Risk management is central: she buffers 10\u201315% contingency, anticipates lead times and supply chain shifts, and sets decision deadlines to protect timelines. Energy efficiency, safety, universal design, and low-maintenance durability guide her specs; she also considers embodied carbon and resale impacts. Maya communicates with check-ins, punch lists, and photo documentation, and maintains a digital warranty and permit archive. Calm, collaborative, and evidence-driven, she also loves the storytelling of before/after transformations and often mentors neighbors on practical budgeting and scope control.",
+  "example_behaviours": [
+    "Builds tactile mood boards with paint swatches, tile chips, and lighting mockups to validate color and texture under different bulbs.",
+    "Maintains a live material price index in Sheets with alerts when lumber, tile, or fixtures drop below target thresholds.",
+    "Volunteers at a community tool library teaching \u201cBudgeting a Remodel 101.\u201d",
+    "Creates contractor RFP packets with scope, specs, alternates, and a bid form to ensure apples-to-apples pricing.",
+    "Runs DIY draft-finding tests with incense/smoke and a thermal camera before planning air sealing.",
+    "Models rooms in SketchUp to test sightlines, door swings, and furniture clearances before purchasing.",
+    "Enforces a three-bid minimum and debriefs unsuccessful bidders to refine future scopes and cost assumptions.",
+    "Phases projects with Gantt charts and schedules around seasons and lead times; keeps a 10\u201315% contingency fund.",
+    "Posts weekly progress updates and punch lists in a shared folder for contractors and stakeholders.",
+    "Scavenges architectural salvage yards for solid-core doors, reclaimed flooring, and vintage hardware.",
+    "Negotiates bulk buys and open-box discounts; times purchases around holiday sales and rebate windows.",
+    "Runs lifecycle cost and payback analyses on HVAC upgrades, insulation, and window replacements.",
+    "Hosts neighbor \u201cdemo day\u201d potlucks to trade labor and build community.",
+    "Keeps a QR-coded warranty/permit binder with serial numbers, receipts, and maintenance schedules.",
+    "Uses a PPE checklist and dust containment plan (zip walls, negative air) for any DIY work.",
+    "Attends local code seminars and energy-efficiency meetups to stay current on IRC/NEC changes.",
+    "Tests paint palettes with a colorimeter and photographs under daylight and warm LED to prevent surprises.",
+    "Maintains a vendor scorecard tracking responsiveness, change-order rates, and punch-list closure speed.",
+    "Subscribes to product recall alerts for appliances and fixtures and updates the warranty archive.",
+    "Documents every change order with before/after photos, rationale, and cost/time deltas."
+  ]
+}

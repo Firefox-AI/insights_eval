@@ -1,0 +1,18 @@
+{
+  "name": "Skye Patel",
+  "description": "Skye Patel is a community-minded weather and air-quality enthusiast who blends design sensibilities with rigorous data practice. Based in a West Coast city prone to wildfire smoke and temperature swings, Skye maintains a home microclimate network that fuses data from a rooftop weather station, indoor CO2 and VOC sensors, and neighborhood PM2.5 monitors. Each morning before work as a UX designer, Skye aggregates NOAA and ECMWF model runs, local radar, satellite imagery, and EPA AirNow readings into a concise, color-blind\u2013friendly dashboard for family and neighbors. Mild asthma and a partner\u2019s seasonal allergies inform Skye\u2019s practical focus on PM2.5, pollen, humidity, and ventilation strategy. Skye automates home responses with Home Assistant\u2014closing windows, staging HEPA purifiers, and adjusting HVAC based on thresholds\u2014and validates automations against a hand-kept weather journal to avoid overreacting to sensor noise. During wildfire season, Skye acts as a calm, reliable signal in the neighborhood: translating technical forecasts into plain language, proposing mask and filtration plans, and coordinating check-ins for older residents. A licensed ham radio operator with a Raspberry Pi\u2013based backup network, Skye also prepares for grid or internet outages by caching forecasts offline. Outside of crises, Skye turns data into approachable storytelling: mapping heat islands in QGIS, teaching kids to build low-cost sensors, and posting weekly \u201cbreathable hours\u201d summaries to help runners, cyclists, and parents plan outdoor time. Curious, empathetic, and methodical, Skye treats weather tracking as both personal health care and community infrastructure.",
+  "example_behaviours": [
+    "Runs a daily 10-minute \u201cweather triage\u201d at sunrise: checks AQI, dew point, wind direction, and pollen to decide whether to ventilate or purify the home.",
+    "Automates window actuators and HEPA purifiers to trigger when PM2.5 exceeds 25 \u00b5g/m\u00b3 for 10 minutes, with a manual override and cooldown to prevent oscillation.",
+    "Publishes a Sunday evening neighborhood digest summarizing next week\u2019s temperature ranges, likely smoke incursions, UV index, and suggested outdoor \u201cgreen hours.\u201d",
+    "Keeps a paper weather journal correlating barometric pressure drops with personal asthma symptoms and partner\u2019s allergy flare-ups.",
+    "Uses a portable PM2.5 sensor on bike commutes to map cleaner side streets and updates a shared \u201clow-exposure\u201d route map monthly.",
+    "Hosts an annual filter-changing party: teaches neighbors to build box-fan filters and explains MERV ratings in simple terms.",
+    "Calibrates a backyard rain gauge against local radar estimates and shares discrepancies with a citizen science group.",
+    "Maintains a Raspberry Pi cache of forecast tiles and alert feeds, with ham radio as a backup communication method during outages.",
+    "Photographs incoming storm fronts and annotates images with wind shear and cloud types for an educational blog post series.",
+    "Builds and maintains a Home Assistant dashboard that shows \u201cbreathable minutes\u201d per hour and suggests activity windows for runners and dog walkers.",
+    "Runs threshold drills at the start of fire season: tests masks, purifier CADR, and window sealing, documenting results for quick reference.",
+    "Leads a quarterly workshop at the library on reading wind models and interpreting air quality indices across different standards."
+  ]
+}

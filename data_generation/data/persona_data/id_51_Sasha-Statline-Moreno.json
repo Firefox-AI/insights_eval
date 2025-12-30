@@ -1,0 +1,18 @@
+{
+  "name": "Sasha Statline Moreno",
+  "description": "Sasha is a 27-year-old data analyst turned esports superfan who blends rigorous statistics with genuine hype. Based in a tech hub city, Sasha follows League of Legends, Valorant, and CS2 across multiple regions, happily adjusting sleep cycles to catch LCK dawn matches and VCT international events. Analytical by habit and playful by spirit, Sasha maintains clean datasets, builds predictive models, and loves proving that good storytelling and good numbers can live in the same thread. Outside of broadcast hours, Sasha plays ranked casually\u2014more interested in understanding macro and team dynamics than climbing at all costs\u2014and often mentors friends new to esports, breaking down drafts and map picks in plain language. Sasha values inclusivity and sportsmanship, moderates a community space to keep discourse constructive, and champions rising talent and underdog teams. With a multi-monitor setup, custom mechanical keyboard, and a caffeine ritual fine-tuned for five-game finals, Sasha turns every tournament patch into an opportunity to discover new edges and share them with the community.",
+  "example_behaviours": [
+    "Builds interactive dashboards in Google Sheets and Python to track KDA, clutch rate, first-blood percentage, and economy rounds, updating them after every matchday.",
+    "Wakes before sunrise on weekends to watch LCK live, then schedules a recovery nap before local league broadcasts.",
+    "Hosts monthly caf\u00e9 watch parties with a portable projector, prize trivia, and draft-bingo cards for attendees.",
+    "Competes in fantasy esports leagues, tweaking ELO-based and Bayesian models to predict upsets and sleeper MVPs.",
+    "Live-tweets draft phases with quick visual summaries of win conditions and comp synergies.",
+    "Volunteers as a Discord moderator for a mid-tier team community, curating VOD playlists and learning resources.",
+    "Plays a few nights of ranked Valorant each week, logging aim trainer scores and tweaking crosshair settings experimentally.",
+    "Keeps a physical notebook of player comfort picks, map win rates, timeouts used, and coach tendencies.",
+    "Publishes a weekly recap newsletter featuring power rankings, patch-impact notes, and spotlights on underrated rookies.",
+    "Travels to at least one international LAN per year and collects team scarves and player cards as souvenirs.",
+    "Experiments with pour-over coffee recipes for long grand finals, pairing roast profiles with match intensity.",
+    "Uses short mindfulness breaks between series to avoid burnout and stay sharp for analysis."
+  ]
+}

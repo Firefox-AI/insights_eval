@@ -1,0 +1,1346 @@
+{
+  "4070 Super undervolt curve msiafterburner stable 0.875v": [
+    {
+      "url": "https://rutube.ru/video/754011e2103d53b73e5aa49959551fe9/",
+      "title": "\u0410\u043d\u0434\u0435\u0440\u0432\u043e\u043b\u044c\u0442 GeForce RTX 4070 , 4070 S, 4070 TiS + \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=h5Halugk3d0",
+      "title": "Undervolt your RTX 4070 Super for more FPS and Lower... - YouTube"
+    },
+    {
+      "url": "https://www.computerbase.de/forum/threads/4070-super-sobald-curve-editor-spannung-unter-last-immer-0-925v.2248925/",
+      "title": "4070 SUPER sobald Curve Editor = Spannung... | ComputerBase Forum"
+    }
+  ],
+  "best power limit for 4070 super to keep 144fps 1440p": [
+    {
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-4070-super-review-boosted-clocks-and-core-counts-for-the-same-dollar599-as-the-vanilla-4070/6",
+      "title": "Nvidia RTX 4070 Super: Power, Clocks, Temps, and Noise - Nvidia GeForce ..."
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-4070-super-review-boosted-clocks-and-core-counts-for-the-same-dollar599-as-the-vanilla-4070/2",
+      "title": "Nvidia RTX 4070 Super: 1440p Gaming Performance - Tom's Hardware"
+    }
+  ],
+  "6700 XT undervolt guide adrenalin 2025": [
+    {
+      "url": "https://forums.tomshardware.com/threads/6700-xt-undervolt-using-adrenalin.3780076/",
+      "title": "Question - 6700 XT undervolt using Adrenalin ? | Tom's Hardware..."
+    },
+    {
+      "url": "https://www.amd.com/en/resources/support-articles/faqs/DH3-020.html",
+      "title": "Customize GPU Performance Tuning with AMD Software: Adrenalin ..."
+    },
+    {
+      "url": "https://dzen.ru/a/aJ7VzZIASwadRKvB",
+      "title": "\u0420\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438: \u0410\u043d\u0434\u0435\u0440\u0432\u043e\u043b\u044c\u0442\u0438\u043d\u0433 AMD GPU \u0432 2025 \u0433\u043e\u0434\u0443..."
+    }
+  ],
+  "how to log GPU wattage to csv hwinfo capframex": [
+    {
+      "url": "https://github.com/CXWorld/CapFrameX/blob/master/README.md",
+      "title": "CapFrameX/README.md at master \u00b7 CXWorld/CapFrameX \u00b7 GitHub"
+    },
+    {
+      "url": "https://help.bestware.com/hc/en-gb/articles/18258945610781-Creating-a-HWiNFO64-sensor-log-CSV-file-to-provide-hard-data-for-tech-support",
+      "title": "Creating a HWiNFO64 sensor log (CSV file) to provide hard data for tech ..."
+    },
+    {
+      "url": "https://github.com/CXWorld/CapFrameX",
+      "title": "GitHub - CXWorld/CapFrameX: Frametime capture and analysis tool"
+    },
+    {
+      "url": "https://leo-holanda.github.io/logcharts.io/guide.html",
+      "title": "HWInfo Log Guide - GitHub Pages"
+    }
+  ],
+  "reduce fan ramping hysteresis msi bios": [
+    {
+      "url": "https://forum-en.msi.com/index.php?threads/guide-how-to-set-up-a-fan-curve-in-the-bios.369711/",
+      "title": "Guide: How to set up a fan curve in the BIOS | MSI Global English..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZAvnZ7MtHOg",
+      "title": "MSI BIOS Walkthrough - How can I control Fan RPM... - YouTube"
+    }
+  ],
+  "fancontrol vs argus monitor compare reddit": [
+    {
+      "url": "https://www.reddit.com/r/buildapc/comments/qn88cs/shoutout_and_praise_to_argus_monitor_to_control/",
+      "title": "Shoutout and praise to ARGUS MONITOR to control your fans and ... - Reddit"
+    }
+  ],
+  "thermal pad thickness vram 3080 fe memory temps": [
+    {
+      "url": "https://forums.tomshardware.com/threads/rtx-3080-fe-vram-temps.3800145/",
+      "title": "[SOLVED] - Rtx 3080 FE Vram temps | Tom's Hardware Forum"
+    },
+    {
+      "url": "https://linustechtips.com/topic/1513242-3080fe-repastedrepaded-and-gpu-hotspot-temp-100c/",
+      "title": "3080FE Repasted/repaded and GPU hotspot temp 100C+"
+    },
+    {
+      "url": "https://thermalpad.eu/thermal-pad-sizes/nvidia-geforce-rtx-3080-founders-edition/",
+      "title": "NVIDIA - GeForce RTX 3080 Founders Edition - thermal pad"
+    },
+    {
+      "url": "https://www.reddit.com/r/nvidia/comments/q4u547/3080_fe_owners_what_are_your_temps/",
+      "title": "3080 FE Owners, what are your temps? : r/nvidia - Reddit"
+    },
+    {
+      "url": "https://willmnorris.medium.com/guide-to-nvidia-3080-fe-thermal-pad-mod-cf378339f7ac",
+      "title": "Guide to Nvidia 3080 FE Thermal Pad Mod - Medium"
+    }
+  ],
+  "coil whine fix psu gpu load patterns": [
+    {
+      "url": "https://linustechtips.com/topic/224721-psu-coil-whine-fix/",
+      "title": "PSU coil whine fix - Power Supplies - Linus Tech Tips"
+    },
+    {
+      "url": "https://clevercreations.org/what-is-coil-whine-how-to-fix/",
+      "title": "Fixing Coil Whine : A Clear Explanation & 15... | Clever Creations"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GUzCXF3oMD0",
+      "title": "GPU Coil Whine ? Try This. - YouTube"
+    }
+  ],
+  "case positive vs negative pressure fps temps test": [
+    {
+      "url": "https://www.build-gaming-computers.com/positive-vs-negative-pressure-pc.html",
+      "title": "PC Airflow Guide (Positive vs Negative vs Neutral Pressure)"
+    },
+    {
+      "url": "https://www.tomshardware.com/reviews/cooling-air-pressure-heatsink,3058-5.html",
+      "title": "Case Fans: Should You Worry About Positive Or Negative Pressure? - How ..."
+    },
+    {
+      "url": "https://www.reddit.com/r/Noctua/comments/130zzzl/case_flow_experiments_pt_3_negative_pressure_is/",
+      "title": "Case Flow Experiments pt 3: Negative Pressure is Better Than ... - Reddit"
+    },
+    {
+      "url": "https://www.techpowerup.com/forums/threads/negative-or-positive-pressure-does-it-matter.286794/",
+      "title": "Negative or positive pressure? Does it matter? - TechPowerUp"
+    }
+  ],
+  "stl 3d print gpu support bracket minimalist": [
+    {
+      "url": "https://www.printables.com/tag/gpuholder",
+      "title": "GPUHOLDER models for 3 D printer | Printables.com"
+    },
+    {
+      "url": "https://www.stlfinder.com/3dmodels/gpu-holder/",
+      "title": "gpu holder 3 D Models | Page 1 | STLFinder"
+    },
+    {
+      "url": "https://cults3d.com/en/3d-model/gadget/soporte-nike-para-tarjeta-grafica-logitech-gpu-support",
+      "title": "NIKE graphic card ( GPU ) support (base and screw)."
+    }
+  ],
+  "3d print fan shroud 120 to 140 adapter airflow": [
+    {
+      "url": "https://www.yeggi.com/q/120+to+140mm+fan+adapter/",
+      "title": "\"120 to 140mm fan adapter\" 3D Models to Print - yeggi"
+    },
+    {
+      "url": "https://www.thingiverse.com/thing:7060801",
+      "title": "120/140mm Fan Spacer Optimized for High Airflow (like the ... - Thingiverse"
+    },
+    {
+      "url": "https://www.printables.com/model/368010-fan-adapter-120-mm-to-140-mm-with-offset",
+      "title": "Fan adapter 120 mm to 140 mm with offset - Printables.com"
+    },
+    {
+      "url": "https://makerworld.com/en/models/915031-simple-120mm-and-140mm-pc-fan-duct-shroud",
+      "title": "simple 120mm and 140mm PC fan duct / shroud by matz3e"
+    }
+  ],
+  "quiet 120mm fans under $20 static pressure list": [
+    {
+      "url": "https://www.positioniseverything.net/best-static-pressure-fans-120mm/",
+      "title": "Best Static Pressure Fans 120mm for Optimal Airflow in 2025"
+    },
+    {
+      "url": "https://forums.tomshardware.com/threads/what-are-the-quietest-120mm-static-pressure-fans.2344352/",
+      "title": "What are the quietest 120mm static pressure fans? - Tom's Hardware Forum"
+    },
+    {
+      "url": "https://www.newegg.com/p/pl?d=120mm+static+pressure+fan",
+      "title": "120mm static pressure fan | Newegg.com"
+    }
+  ],
+  "7800X3D curve optimizer negative values safe": [
+    {
+      "url": "https://www.youtube.com/watch?v=lg2xTB6AwSk",
+      "title": "AMD Ryzen 7 7800 X 3 D overclock easy tutorial curve ..."
+    },
+    {
+      "url": "https://vtemah.livejournal.com/1227691.html",
+      "title": "Curve Optimizer AMD Ryzen: \u043f\u043e\u043b\u043d\u044b\u0439 \u0433\u0438\u0434 \u043f\u043e \u0442\u043e\u043d\u043a\u043e\u0439 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0435..."
+    },
+    {
+      "url": "https://www.windowsdigitals.com/auto-oc-ryzen-7000-or-5000-pbo2-curve-optimization/",
+      "title": "Auto OC Ryzen 7000 or 5000 PBO2 ( Curve Optimization )"
+    },
+    {
+      "url": "https://www.fpshub.com/449502/got-my-7800x3d-to-19436-in-cinebench-by-using-curve-optimizer-negative-offset-i-think-ive-pushed-it-as-far-as-itll-go/",
+      "title": "Got my 7800 x 3 D to 19436 in cinebench by using curve optimizer ..."
+    }
+  ],
+  "pbo2 tuner per core vs all core which better gaming": [
+    {
+      "url": "https://www.overclock.net/threads/all-core-vs-pbo-overclock-perfomance-in-real-life.1775220/?sortby=newest",
+      "title": "All - core vs PBO overclock perfomance in real life | Overclock.net"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-l30dYv4KOo",
+      "title": "5800X3D Undervolted with PBO 2 Tuner (Setup Guide and...) - YouTube"
+    },
+    {
+      "url": "https://rutube.ru/video/d871af8fea3ff54c31a2df169f7e8955/",
+      "title": "5800X3D | Undervolting Guide | PBO 2 TUNER | SETUP and GAMES ..."
+    },
+    {
+      "url": "https://www.cybermania.ws/apps/pbo2-tuner/",
+      "title": "PBO 2 Tuner | CyberMania"
+    }
+  ],
+  "y-cruncher stability test settings 30 min": [
+    {
+      "url": "https://winraid.level1techs.com/t/tool-y-cruncher-live-usb-for-stability-testing/107906",
+      "title": "[Tool] y-cruncher live USB for stability testing"
+    },
+    {
+      "url": "https://forums.anandtech.com/threads/y-cruncher-for-stability-test.2588309/",
+      "title": "Question - y-cruncher for stability test - AnandTech Forums"
+    },
+    {
+      "url": "https://www.reddit.com/r/overclocking/comments/iyp1n7/ycruncher_is_a_really_effective_tool_for_testing/",
+      "title": "y-cruncher is a really effective tool for testing RAM stability : r ..."
+    }
+  ],
+  "offset vcore undervolt intel 12700k gaming safe": [
+    {
+      "url": "https://www.overclockers.com/forums/threads/12700k-quick-n-dirty-undervolting-downclocking.801081/",
+      "title": "12700k quick n' dirty undervolting/downclocking - Overclockers"
+    },
+    {
+      "url": "https://www.reddit.com/r/overclocking/comments/v39mot/undervolting_12700k_with_success_can_it_get_better/",
+      "title": "Undervolting 12700k with success - can it get better? - Reddit"
+    },
+    {
+      "url": "https://forum-en.msi.com/index.php?threads/my-12700k-is-a-bit-hot-whats-the-best-guide-on-how-to-undervolt-it-to-keep-the-temps-under-control.401100/",
+      "title": "My 12700K is a bit hot, what's the best guide on how to undervolt it to ..."
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=KNEDapNJXlE",
+      "title": "Undervolt your i7 12700K for more FPS (Even on Locked ... - YouTube"
+    }
+  ],
+  "am5 soc voltage safe range 24/7": [
+    {
+      "url": "https://te4h.ru/nastrojka-soc-voltage-dlya-ryzen",
+      "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 SOC Voltage \u0434\u043b\u044f Ryzen - Te4h"
+    },
+    {
+      "url": "https://maximum-tech.net/safe-voltage-for-ryzen/",
+      "title": "Safe Voltage for Ryzen: Everything You Need to Know | Maximum Tech"
+    }
+  ],
+  "bios update changelog automate scrape manufacturer site": [
+    {
+      "url": "https://www.techpowerup.com/forums/threads/flashmyboard-automated-bios-update-tracking-notification-system.328821/",
+      "title": "FlashMyBoard - Automated BIOS Update Tracking & Notification System"
+    },
+    {
+      "url": "https://linustechtips.com/topic/1589141-i-made-a-tool-that-notifies-you-when-bios-updates-are-released-for-your-motherboard/",
+      "title": "I made a tool that notifies you when BIOS updates are released for your ..."
+    }
+  ],
+  "1440p 240hz monitor input lag database rtings": [
+    {
+      "url": "https://www.rtings.com/monitor/tests/inputs/input-lag",
+      "title": "Our Monitor Input Tests: Input Lag - RTINGS .com"
+    }
+  ],
+  "gsync vs vsync vs null fps cap best practice 2025": [
+    {
+      "url": "https://www.reddit.com/r/nvidia/comments/u4tk87/g_sync_with_a_fps_cap_orvs_vsync/",
+      "title": "G sync with a fps CAP or/vs vsync? : r/nvidia - Reddit"
+    },
+    {
+      "url": "https://www.vlr.gg/456374/g-sync-vsync-2025",
+      "title": "G-sync/vsync 2025 - VLR.gg"
+    },
+    {
+      "url": "https://cyberpost.co/should-you-cap-fps-with-g-sync/",
+      "title": "Should you cap FPS with G Sync? - CyberPost"
+    },
+    {
+      "url": "https://www.gameslearningsociety.org/wiki/is-limiting-fps-better-than-vsync/",
+      "title": "Is limiting FPS better than VSync? - Games Learning Society"
+    },
+    {
+      "url": "https://forums.tomshardware.com/threads/gsync-vsync-and-fps-limits.3721550/",
+      "title": "[SOLVED] - gsync vsync and fps limits | Tom's Hardware Forum"
+    }
+  ],
+  "blurbusters strobing crosstalk tuning 240hz qft": [
+    {
+      "url": "https://dir.md/blurbusters.com/faq/advanced-strobe-crosstalk-faq/",
+      "title": "Strobe Crosstalk : Blur Reduction Double-Images"
+    },
+    {
+      "url": "https://forums.blurbusters.com/viewtopic.php?t=8113&start=670",
+      "title": "ViewSonic XG2431 Discussion Thread [Blur Busters Approved XG2431..."
+    }
+  ],
+  "monitor overdrive for fps no overshoot list": [
+    {
+      "url": "https://forums.blurbusters.com/viewtopic.php?t=9291",
+      "title": "Gigabyte M32Q Review | Forum"
+    }
+  ],
+  "oled vs ips for competitive text clarity fringing": [
+    {
+      "url": "https://www.arzopa.com/blogs/guide/ips-vs-oled-monitors",
+      "title": "IPS vs OLED Monitors: Ultimate Guide for Display Perfectionists"
+    },
+    {
+      "url": "https://linustechtips.com/topic/1579277-165hz-oled-or-240360hz-ips-for-competitive-games/",
+      "title": "165hz OLED or 240/360hz IPS for Competitive ... - Linus Tech Tips"
+    }
+  ],
+  "custom resolution utility CRU quick guide gsync compatible": [
+    {
+      "url": "https://forums.blurbusters.com/viewtopic.php?t=10414",
+      "title": "GSync on custom resolution - Blur Busters Forums"
+    },
+    {
+      "url": "https://www.customresolutionutility.info/2024/10/18/step-by-step-guide-to-using-custom-resolution-utility-cru-for-advanced-display-tweaks/",
+      "title": "Step-by-Step Guide to Using Custom Resolution Utility (CRU) for ..."
+    },
+    {
+      "url": "https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU",
+      "title": "Custom Resolution Utility (CRU) - Monitor Tests"
+    }
+  ],
+  "color profile download ICC sRGB gaming neutral": [
+    {
+      "url": "https://www.color.org/profiles2.xalter",
+      "title": "ICC profiles - COLOR"
+    },
+    {
+      "url": "https://github.com/saucecontrol/Compact-ICC-Profiles",
+      "title": "GitHub - saucecontrol/Compact-ICC-Profiles: Minimal ICC Profiles ..."
+    },
+    {
+      "url": "https://www.adobe.com/support/downloads/iccprofiles/iccprofiles_win.html",
+      "title": "ICC profile downloads - Windows - Adobe"
+    }
+  ],
+  "backlight strobing with adaptive sync possible models": [
+    {
+      "url": "https://rog.asus.com/fi/articles/gaming-monitors/nvidia-and-rog-pave-the-way-for-next-gen-gaming-monitors-with-g-sync-pulsar-tech/",
+      "title": "NVIDIA and ROG combine backlight strobing with VRR in new..."
+    }
+  ],
+  "black smearing fix va panel": [
+    {
+      "url": "https://forums.tomshardware.com/threads/is-there-a-way-to-reduce-black-smearing-on-va-monitors-aoc-cu34g2x.3850117/",
+      "title": "Question - Is there a way to reduce black smearing on VA monitors ?"
+    },
+    {
+      "url": "https://linustechtips.com/topic/1408238-black-smearingghosting-help/",
+      "title": "Black smearing /ghosting help!!! - Displays - Linus Tech Tips"
+    },
+    {
+      "url": "https://www.ping1xx.com/2025/02/monitor-aoc-22b20jhn2-ghosting-black-smearing.html",
+      "title": "Monitor AOC 22B20JHN2: Reduce Ghosting and Black Smearing"
+    },
+    {
+      "url": "https://procamerareviews.com/va-smearing-fix-troubleshooting-guide/",
+      "title": "VA Smearing : What It Is and How to Fix It on Your Monitor"
+    }
+  ],
+  "10 bit vs 8 bit dithering impact latency": [
+    {
+      "url": "https://linustechtips.com/topic/1420702-10-bit-vs-8-bit-w-dithering/",
+      "title": "10 bit vs 8 bit w/ dithering ? - Displays - Linus Tech Tips"
+    },
+    {
+      "url": "https://www.avsforum.com/threads/will-i-see-a-tangible-difference-between-8-bit-dithering-vs-10-bit-hdr-in-windows.3217249/",
+      "title": "Will I see a tangible difference between 8 - bit + dithering vs 10 - bit ..."
+    }
+  ],
+  "8khz mouse polling worth it cpu overhead fps": [
+    {
+      "url": "https://www.youtube.com/watch?v=v0UUJCk_Gl8",
+      "title": "1000Hz VS. 8000Hz Mouse Polling Rate / 7800X3D CPU ... - YouTube"
+    },
+    {
+      "url": "https://mambasnake.com/blogs/news/is-8k-polling-rate-worth-it",
+      "title": "8k Polling Rate Mouse : Your Secret to Pro-Level Aim?"
+    }
+  ],
+  "wooting debounce time latency setting for fps": [
+    {
+      "url": "https://wootabase.com/profile/2833aa31b498f4e1f76ff92e8dd523a1d3ec",
+      "title": "Wooting Profile: LOWEST LATENCY COMPETITIVE FPS - WOOTABASE"
+    },
+    {
+      "url": "https://www.reddit.com/r/WootingKB/comments/14g14sq/what_are_the_optimal_settings_for_competitive_fps/",
+      "title": "what are the optimal settings for competitive fps games like csgo ..."
+    },
+    {
+      "url": "https://wooting.io/post/what-influences-keyboard-speed",
+      "title": "What influences keyboard input speed - Wooting"
+    }
+  ],
+  "qmk vs via latency measurements site:geekhack": [],
+  "disable usb selective suspend windows 11 mouse stutter": [
+    {
+      "url": "https://codinglap.com/how-to-disable-usb-selective-suspend-in-windows-11/",
+      "title": "How to Disable USB Selective Suspend in Windows 11"
+    },
+    {
+      "url": "https://www.techbloat.com/disabling-usb-selective-suspend-on-windows-11-10.html",
+      "title": "Disabling USB Selective Suspend on Windows 11 & 10"
+    },
+    {
+      "url": "https://www.elevenforum.com/t/enable-or-disable-usb-selective-suspend-in-windows-11.10251/",
+      "title": "Enable or Disable USB Selective Suspend in Windows 11"
+    },
+    {
+      "url": "https://www.itechtics.com/usb-selective-suspend/",
+      "title": "5 Ways To Disable USB Selective Suspend In Windows 11 - ITechtics"
+    }
+  ],
+  "best mouse feet ptfe glass pad combo": [
+    {
+      "url": "https://www.amazon.com/FlashBeyond-Mousepad-PTFE-Adjustable-Ultra-Smooth/dp/B0FT3HCQ96",
+      "title": "Amazon.com: FlashBeyond 60 Dot Mouse Skates for Glass Mousepad"
+    },
+    {
+      "url": "https://www.zyleather.net/blog/the-best-ptfe-dots-for-glass-mousepads.html",
+      "title": "The Best PTFE Dots for Glass Mousepads - Wenzhou Gym Rubber..."
+    },
+    {
+      "url": "https://world.taobao.com/lang/en-us/goods/-100108516812.htm",
+      "title": "Tbtl v2 anti-collapse glass pad mat - universal small dot teflon gaming..."
+    }
+  ],
+  "mouse grip tape recommendations for dry hands": [
+    {
+      "url": "https://panamfixtures.com/best-btl-mouse-grip-tape/",
+      "title": "The Best Btl Mouse Grip Tape : I Tested 10+ Brands and Found the..."
+    }
+  ],
+  "keycap profile for gaming cherry vs oem ergonomics": [
+    {
+      "url": "https://goblintechkeys.com/blogs/news/cherry-profile-vs-oem-profile-keycaps-which-is-the-right-choice-for-your-mechanical-keyboard",
+      "title": "Cherry vs OEM Keycaps : Which Reigns Supreme? \u2013 Goblintechkeys"
+    },
+    {
+      "url": "https://akkogear.eu/blogs/news/cherry-vs-oem-profile-keycaps",
+      "title": "Cherry VS OEM Profile Keycaps - Which is Better for You?"
+    },
+    {
+      "url": "https://hirosarts.com/blog/cherry-vs-oem/",
+      "title": "Cherry vs OEM profile : What's The Best For Game , Type, Program?"
+    },
+    {
+      "url": "https://akkogear.de/en/blogs/news-en/cherry-vs-oem-profil-keycaps",
+      "title": "Cherry vs . OEM profile keycaps \u2013 which profile suits you better?"
+    }
+  ],
+  "mouse sensor lens cleaning method safe": [
+    {
+      "url": "https://smallusefultips.com/how-do-you-clean-a-mouse-sensor/",
+      "title": "Sensor Savvy: The Ultimate Guide to Cleaning Your Mouse Sensor"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=9-uuhqjZri8",
+      "title": "What Is The Safest Way To Clean A Mouse Sensor? - YouTube"
+    },
+    {
+      "url": "https://ecofriendlyhow.com/how-to-clean-mouse-sensor/",
+      "title": "How To Clean Mouse Sensor? Read this First! - EcoFriendlyHow"
+    },
+    {
+      "url": "https://www.alibaba.com/product-insights/how-to-safely-clean-your-gaming-mouse-sensor-without-damaging-it.html",
+      "title": "How To Safely Clean Your Gaming Mouse Sensor Without Damaging It"
+    },
+    {
+      "url": "https://joltfly.com/how-to-clean-your-optical-mouse-lens-and-sensor/",
+      "title": "How to Clean Your Optical Mouse Lens and Sensor - Joltfly"
+    }
+  ],
+  "1000hz keyboard polling real latency tests": [
+    {
+      "url": "https://keyboardtest.me/polling-rate-test",
+      "title": "Keyboard Polling Rate (Cadence) Test - Measure Key Press Timing"
+    },
+    {
+      "url": "https://www.typequicker.com/tools/keyboard-polling-rate-test",
+      "title": "Keyboard Polling Rate Test - TypeQuicker"
+    },
+    {
+      "url": "https://aikeyboardtester.com/keyboard-latency-and-polling-rate-test/",
+      "title": "Keyboard Polling Rate & Latency Test By Ai Keyboard Tester"
+    },
+    {
+      "url": "https://clickspeedtester.com/keyboard-latency-test/",
+      "title": "Keyboard Latency Test (Scan Rate, Input Lag, Response) [New]"
+    },
+    {
+      "url": "https://laptopsspecial.com/",
+      "title": "Keyboard Tester Online | Check Keyboard Latency , Polling Rate..."
+    }
+  ],
+  "firmware update logbook template peripherals": [
+    {
+      "url": "https://www.meegle.com/en_us/advanced-templates/audio_quality_testing/test_equipment_firmware_update_log",
+      "title": "Meegle | Free Download Test Equipment Firmware Update Log"
+    },
+    {
+      "url": "https://www.smartsheet.com/content/change-log-templates",
+      "title": "Free Change Log Templates: Excel, Microsoft Word & Google Sheets ..."
+    },
+    {
+      "url": "https://www.template.net/edit-online/417460/software-change-log",
+      "title": "Free Software Change Log Template to Edit Online"
+    },
+    {
+      "url": "https://slidesdocs.com/spreadsheet/software-change-log-keeping-track-of-updates-and-enhancements-template_70112f5ec9",
+      "title": "Software Change Log Keeping Track Of Updates And Enhancements Excel ..."
+    }
+  ],
+  "presentmon vs ocat differences": [
+    {
+      "url": "https://www.xda-developers.com/5-reasons-intel-presentmon-is-the-best-tool-for-checking-exactly-what-your-gaming-pcs-bottleneck-is/",
+      "title": "5 reasons Intel PresentMon is the best tool for checking exactly what..."
+    },
+    {
+      "url": "https://github.com/GameTechDev/PresentMon",
+      "title": "GitHub - GameTechDev/ PresentMon : Capture and analyze the..."
+    },
+    {
+      "url": "https://game.intel.com/us/intel-presentmon/",
+      "title": "Intel\u00ae Arc\u2122 Graphics \u2013 PresentMon \u2013 Intel Gaming Access"
+    }
+  ],
+  "capframex how to group runs and export percentile": [],
+  "rtss frame limiter vs in game limiter frametime": [
+    {
+      "url": "https://forums.blurbusters.com/viewtopic.php?t=12472",
+      "title": "RTSS vs ingame/NVCP frame cap for latency - Blur Busters"
+    },
+    {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3338382838",
+      "title": "Guide to Setting Frametime limit with RTSS - Steam Community"
+    },
+    {
+      "url": "https://www.reddit.com/r/pcgaming/comments/en7f4u/nvidia_fps_limiter_vs_rtss_and_in_game_limiters/",
+      "title": "Nvidia FPS Limiter vs RTSS and In Game Limiters - Reddit"
+    }
+  ],
+  "how to read gpuview queuing spikes tutorial": [
+    {
+      "url": "https://graphics.stanford.edu/~mdfisher/GPUView.html",
+      "title": "Matt's Webcorner - GPUView - Stanford University"
+    },
+    {
+      "url": "https://gpuopen.com/learn/understanding-graphs-in-radeon-gpu-profiler-and-gpuview/",
+      "title": "Understanding Graphs in Radeon GPU Profiler and GPUView"
+    },
+    {
+      "url": "https://www.lopezruiz.net/2023/01/18-gpuview.htm",
+      "title": "GPUView - lopezruiz.net"
+    },
+    {
+      "url": "https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/display/gpuview-main-window.md",
+      "title": "windows-driver-docs/windows-driver-docs-pr/display/gpuview ... - GitHub"
+    }
+  ],
+  "shader cache size windows nvidia stutter fix": [
+    {
+      "url": "https://www.pcgamer.com/hardware/i-fixed-borderlands-4s-stuttering-issue-by-upping-my-shader-cache-size-to-100-gb-which-feels-like-something-i-shouldnt-have-to-do-in-a-well-optimised-game/",
+      "title": "I fixed Borderlands 4's stuttering issue by upping my shader cache ..."
+    },
+    {
+      "url": "https://steamcommunity.com/app/238960/discussions/0/3817417431877517306/",
+      "title": "Possible NVidia fix for graphical stutters - Increase Shader Cache ..."
+    }
+  ],
+  "ddu safe mode checklist driver clean install": [
+    {
+      "url": "https://www.reddit.com/r/buildapc/comments/990b3x/can_i_have_a_step_by_step_on_how_to_use_ddu_to/",
+      "title": "Can I have a step by step on how to use ddu to clean install ... - Reddit"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/answers/questions/5522167/how-to-clean-install-my-gpu-driver-with-ddu",
+      "title": "How to clean install My GPU driver with DDU ? - Microsoft Q&A"
+    },
+    {
+      "url": "https://pcbottleneckchecker.com/how-to-use-ddu-display-driver-uninstaller-complete-step-by-step-guide/",
+      "title": "How to Use DDU (Display Driver Uninstaller): Complete Step-by-Step Guide"
+    },
+    {
+      "url": "https://devresourcehub.com/ddu-display-driver-uninstaller-complete-guide-safe-usage-tutorial-faq.html",
+      "title": "DDU (Display Driver Uninstaller) | Complete Guide + Safe Usage Tutorial ..."
+    },
+    {
+      "url": "https://www.wagnardsoft.com/content/How-use-Display-Driver-Uninstaller-DDU-Guide-Tutorial",
+      "title": "How to use Display Driver Uninstaller (DDU) Guide / Tutorial"
+    }
+  ],
+  "studio driver vs game ready for stability": [
+    {
+      "url": "https://www.nvidia.com/en-us/geforce/forums/creative-apps/26/296943/nvidia-studio-driver-vs-game-ready-driver-which-sh/",
+      "title": "NVIDIA Studio Driver vs . Game Ready | NVIDIA GeForce Forums"
+    },
+    {
+      "url": "https://www.makeuseof.com/nvidia-game-ready-or-studio-driver/",
+      "title": "Game Ready or Studio : Which Nvidia Driver Is Right for You?"
+    },
+    {
+      "url": "https://www.xda-developers.com/nvidia-game-ready-vs-studio-drivers/",
+      "title": "Should you use Nvidia's Game Ready or Studio drivers ?"
+    },
+    {
+      "url": "https://modelo.io/damf/article/2024/07/29/1903/nvidia-studio-driver-vs-game-ready--which-is-right-for-you-?hl=en",
+      "title": "NVIDIA Studio Driver vs Game Ready : Which is Right for You?"
+    }
+  ],
+  "disable overlays to reduce input lag list of apps": [
+    {
+      "url": "https://windowsforum.com/threads/where-winds-meet-performance-guide-fix-fps-stutter-and-input-lag.390054/",
+      "title": "Where Winds Meet Performance Guide: Fix FPS, Stutter, and Input Lag"
+    },
+    {
+      "url": "https://profilerr.net/cs2-mouse-lag-fix-reasons-and-solutions/",
+      "title": "CS2 Mouse Lag Fix [Delay, Stutter & Weird Flicks Solved] | Profilerr"
+    },
+    {
+      "url": "https://www.mrlearningway.com/peak-low-fps-lag-stuttering-pc/",
+      "title": "PEAK Low FPS, Lag & Stuttering Fix (2025)"
+    }
+  ],
+  "frametime vs fps explained for new players": [
+    {
+      "url": "https://deltiasgaming.com/frame-time-vs-fps-why-consistency-beats-high-number/",
+      "title": "Frame Time vs FPS: Why Consistency Beats High Number"
+    },
+    {
+      "url": "https://www.reddit.com/r/gamedev/comments/129te2b/psa_use_frametime_instead_of_framerate_when/",
+      "title": "PSA: Use frametime instead of framerate when comparing performance"
+    },
+    {
+      "url": "https://www.pcworld.com/article/2685112/forget-fps-heres-why-frame-time-is-the-pc-gaming-stat-that-matters-most.html",
+      "title": "Forget FPS. Here's why Frame Time is the PC gaming stat ... - PCWorld"
+    },
+    {
+      "url": "https://brightsideofnews.com/gaming-hardware/frametime-vs-fps-2025-why-p95-wins-for-esports/",
+      "title": "Frametime vs FPS (2025): Why p95 Wins for Esports | BSN"
+    },
+    {
+      "url": "https://digitalmasta.com/frametime-vs-fps/",
+      "title": "Frametime vs FPS: What's the best game performance metric"
+    }
+  ],
+  "log noise levels phone decibel calibration method": [
+    {
+      "url": "https://www.researchgate.net/publication/358667162_The_Effect_of_Utilizing_a_Smart_Phone_Decibel_Reader_Application_The_Effect_of_Utilizing_a_Smart_Phone_Decibel_Reader_Application_by_Unit_Staff_to_Alert_and_Reduce_Noise_Levels_in_an_Open-Design_by_Un",
+      "title": "(PDF) The Effect of Utilizing a Smart Phone Decibel Reader..."
+    },
+    {
+      "url": "https://www.droidsome.com/can-i-measure-sound-decibels-with-my-android-phone/",
+      "title": "Can I measure sound decibels with my Android phone ? - DroidSome"
+    }
+  ],
+  "obs nvenc p7 settings 1440p120 low latency": [
+    {
+      "url": "https://obsproject.com/kb/advanced-nvenc-options",
+      "title": "Advanced NVENC Options (31.0) | OBS"
+    },
+    {
+      "url": "https://www.xaymar.com/guides/obs/high-quality-streaming/nvenc/",
+      "title": "High Quality Streaming with NVIDIA\u00ae NVENC (in OBS Studio)"
+    },
+    {
+      "url": "https://www.nvidia.com/en-us/geforce/guides/broadcasting-guide/",
+      "title": "NVIDIA NVENC Obs Guide | GeForce News | NVIDIA"
+    }
+  ],
+  "replay buffer length vs vram usage nvenc": [
+    {
+      "url": "https://obsproject.com/forum/threads/solved-obs-not-responding-after-setting-replay-buffer-length.42428/",
+      "title": "Question / Help - [SOLVED] OBS not responding after setting Replay ..."
+    },
+    {
+      "url": "https://forums.guru3d.com/threads/guys-does-using-nvenc-encoder-use-alotof-gpu-vram.432912/",
+      "title": "Guys does using NVENC encoder use alotof GPU/ VRAM ?"
+    }
+  ],
+  "obs sidechain ducking voice over game audio": [
+    {
+      "url": "https://obsproject.com/forum/threads/audio-ducking-while-recording.120263/",
+      "title": "Question / Help - Audio Ducking while Recording | OBS Forums"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1Te2JERlInQ",
+      "title": "Keep your Stream Sound BALANCED with OBS Audio Ducking ..."
+    },
+    {
+      "url": "https://rumble.com/v2p31ho-setting-up-audio-ducking-in-obs-sidechain-compression.html",
+      "title": "Setting up \" Audio Ducking \" In OBS ( Sidechain Compression)"
+    }
+  ],
+  "shadowplay vs obs performance reddit 2025": [],
+  "mkv vs mp4 obs recording safest": [
+    {
+      "url": "https://www.youtube.com/watch?v=ERRjYbGJfsM",
+      "title": "OBS Studio 117 - What File Format Should You Record To? - YouTube"
+    },
+    {
+      "url": "https://obsproject.com/forum/threads/creating-videos-for-youtube-is-mp4-or-mkv-recommended.129711/",
+      "title": "Creating videos for YouTube: is MP 4 or MKV recommended? | OBS ..."
+    },
+    {
+      "url": "https://www.gumlet.com/learn/best-obs-recording-settings/",
+      "title": "Best OBS Recording Settings for High-Quality Recordings"
+    }
+  ],
+  "ffmpeg batch remux mkv to mp4 script": [
+    {
+      "url": "https://github.com/Deepcuts/r3mux",
+      "title": "GitHub - Deepcuts/r3mux: Batch remux mkv - mp 4"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6mV3o2GYOrw",
+      "title": "FASTEST MKV to MP 4 REMUX using FFMPEG | Tutorial - YouTube"
+    },
+    {
+      "url": "https://forum.videohelp.com/threads/385471-MKV-to-MP4-remuxer-with-Audio-Passthrough-batch-capability",
+      "title": "MKV to MP 4 remuxer with Audio Passthrough & batch capability?"
+    }
+  ],
+  "auto tag clips with map name apex legends": [],
+  "lossless cut keyboard shortcuts trim quickly": [
+    {
+      "url": "https://github.com/mifi/lossless-cut",
+      "title": "GitHub - mifi/ lossless - cut : The swiss army knife of lossless ..."
+    }
+  ],
+  "discord stream quality 1080p120 nitro settings": [
+    {
+      "url": "https://www.guidingtech.com/top-ways-to-fix-bad-discord-stream-quality/",
+      "title": "Top 6 Ways to Fix Bad Discord Stream Quality - Guiding Tech"
+    },
+    {
+      "url": "https://tinygrab.com/how-to-change-stream-quality-on-discord/",
+      "title": "How to change stream quality on Discord ? - TinyGrab"
+    },
+    {
+      "url": "https://riverside.com/blog/how-to-stream-on-discord",
+      "title": "How to Live Stream on Discord (Quick & Easy) | 2025 Guide..."
+    }
+  ],
+  "nvidia broadcast noise removal vs rnnnoise quality": [
+    {
+      "url": "https://m.youtube.com/watch?v=fIt_PXc6io0",
+      "title": "RTX Voice vs RNNoise: Which is best against MASSIVE fan noise?"
+    },
+    {
+      "url": "https://www.reddit.com/r/obs/comments/1c7v0pa/nvidia_noise_suppression_vs_rn_noise_which_one/",
+      "title": "Nvidia noise suppression VS RN Noise: which one for what usage ... - Reddit"
+    }
+  ],
+  "truenas vs unraid for game captures": [
+    {
+      "url": "https://www.howtogeek.com/why-i-chose-unraid-over-truenas-scale-in-2025/",
+      "title": "Why I Chose Unraid Over TrueNAS Scale in 2025 - How-To Geek"
+    },
+    {
+      "url": "https://www.xda-developers.com/unraid-vs-truenas-scale/",
+      "title": "Unraid vs TrueNAS Scale: Which NAS OS is the best?"
+    },
+    {
+      "url": "https://littletake.com/blog/business/truenas-vs-unraid-in-terms-of-their-pros-cons-for-2025",
+      "title": "TrueNAS vs Unraid in terms of their pros, cons for 2025"
+    },
+    {
+      "url": "https://solatatech.com/article/unraid-vs-truenas-side-by-side-comparison-in-2024",
+      "title": "Unraid vs. TrueNAS: Side-by-Side Comparison in 2024 (2025)"
+    },
+    {
+      "url": "https://www.ms8.com/unraid-vs-truenas-which-nas-solution-fits-your-needs/",
+      "title": "Unraid vs. TrueNAS: Which Home Lab NAS Solution Fits Your Needs?"
+    }
+  ],
+  "zfs vs btrfs snapshot schedule best practices": [
+    {
+      "url": "https://mangohost.net/blog/disaster-recovery-for-vps-snapshot-strategy-with-btrfs-and-zfs/",
+      "title": "Disaster Recovery for VPS: Snapshot Strategy with btrfs and zfs"
+    }
+  ],
+  "rclone encrypt to backblaze b2 tutorial": [
+    {
+      "url": "https://www.backblaze.com/docs/cloud-storage-integrate-rclone-with-backblaze-b2",
+      "title": "How to Use Rclone with Backblaze B2 Cloud Storage"
+    },
+    {
+      "url": "https://www.dchost.com/blog/en/my-friendly-playbook-for-rclone-to-s3-backblaze-b2-encryption-lifecycle-and-glacier-moves-that-cut-backup-costs/",
+      "title": "My Friendly Playbook for rclone to S3/Backblaze B2: Encryption ..."
+    },
+    {
+      "url": "https://rclone.org/b2/",
+      "title": "Backblaze B2 - Rclone"
+    },
+    {
+      "url": "https://litmk.com/posts/2024/11/use-rclone-for-encrypted-backups-to-backblaze-b2/",
+      "title": "Use Rclone For Encrypted Backups to Backblaze B2 :: litmk"
+    }
+  ],
+  "automatic camera upload phone to nas wireguard": [
+    {
+      "url": "https://www.blackvoid.club/wireguard-spk-for-your-synology-nas/",
+      "title": "Wireguard SPK for your Synology NAS"
+    },
+    {
+      "url": "https://recoverit.wondershare.com/nas-recovery/synology-wireguard.html",
+      "title": "Using Wireguard on Synology NAS by Building Your Own SPK"
+    },
+    {
+      "url": "https://github.com/runfalk/synology-wireguard",
+      "title": "GitHub - runfalk/synology- wireguard : WireGuard support for some..."
+    },
+    {
+      "url": "https://drfrankenstein.co.uk/access-your-self-hosted-services-remotely-using-wireguard-vpn-on-a-synology-nas/",
+      "title": "Access your Synology NAS and its services remotely using Wireguard ..."
+    }
+  ],
+  "smart attributes which to watch for nas drives": [
+    {
+      "url": "https://www.xda-developers.com/smart-attributes-that-predict-drive-failure/",
+      "title": "5 S.M.A.R.T. attributes that actually predict HDD and SSD failure"
+    },
+    {
+      "url": "https://www.backblaze.com/blog/what-smart-stats-indicate-hard-drive-failures/",
+      "title": "What SMART Stats Tell Us About Hard Drives - Backblaze"
+    },
+    {
+      "url": "https://www.nasmaster.com/what-is-smart-hdd-ssd/",
+      "title": "How can you use S.M.A.R.T. to check HDD and SSD health? - NAS Master"
+    }
+  ],
+  "2.5gbe cheap switch fanless": [
+    {
+      "url": "https://www.servethehome.com/the-ultimate-cheap-2-5gbe-switch-mega-round-up-buyers-guide-qnap-netgear-hasivo-mokerlink-trendnet-zyxel-tp-link/",
+      "title": "The Ultimate Cheap Fanless 2.5GbE Switch Buyers Guide"
+    },
+    {
+      "url": "https://www.fibermall.com/blog/25-g-switch.htm",
+      "title": "Ultimate Cheap Fanless 2.5GbE Unmanaged Switch for Gaming & Ethernet"
+    },
+    {
+      "url": "https://ascentoptics.com/blog/2-5g-switch/",
+      "title": "Discover the Ultimate Cheap Fanless 2.5GbE Switch: A Comprehensive ..."
+    }
+  ],
+  "smb vs nfs windows gaming performance": [
+    {
+      "url": "https://www.xda-developers.com/nfs-can-be-finicky-but-its-so-much-faster-than-smb/",
+      "title": "NFS vs SMB : Which should you use for local file sharing?"
+    },
+    {
+      "url": "https://windowsforum.com/threads/nfs-vs-smb-why-nfs-often-outperforms-smb-and-how-to-use-both.384146/",
+      "title": "NFS vs SMB : Why NFS Often Outperforms SMB ... | Windows Forum"
+    }
+  ],
+  "file naming convention for vods date map score": [],
+  "valorant competitive settings max clarity 2025": [
+    {
+      "url": "https://mobalytics.gg/blog/valorant/pro-settings-mouse-sensitivity-keybinds-crosshair-graphics/",
+      "title": "Valorant Pro Settings (Mouse Sensitivity, Keybinds...) - Mobalytics"
+    },
+    {
+      "url": "https://prosettings.net/guides/valorant-options/",
+      "title": "VALORANT Best Settings and Options Guide [589 Pro Players, Dec...]"
+    },
+    {
+      "url": "https://www.setup.gg/game/valorant/valorant-pro-settings/",
+      "title": "Valorant Pro Settings : Sensitivity, Specs, Gear & More - Setup .gg"
+    }
+  ],
+  "cs2 launch options actually useful": [
+    {
+      "url": "https://hellagood.marketing/blog/best-cs2-launch-options/",
+      "title": "Best CS 2 Launch Options in 2025: Setting List for FPS"
+    },
+    {
+      "url": "https://totalcsgo.com/launch-options",
+      "title": "Best CS 2 Launch Options Guide & List (2025) (UPDATED) | Total CS"
+    },
+    {
+      "url": "https://key-drop.com/blog/cs2-launch-options/",
+      "title": "Best CS 2 Launch Options : Full List and Guide [2025] | Key-Drop Blog"
+    },
+    {
+      "url": "https://eloboss.net/blog/csgo-launch-options",
+      "title": "Best CS 2 Launch Options 2025 Guide, Setting List for FPS"
+    },
+    {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3383619810&searchtext=Viewmodel+\u0432+CS:GO",
+      "title": "Steam Community :: Guide :: best launch options for cs 2 ??"
+    }
+  ],
+  "apex legends config fps cap adaptive resolution off": [
+    {
+      "url": "https://www.setup.gg/game/apex-legends/best-video-settings/",
+      "title": "Best Video Settings for Apex Legends (2025 Update) - Setup.gg"
+    },
+    {
+      "url": "https://help.ea.com/en/articles/apex-legends/best-settings-pc/",
+      "title": "What are the best settings for Apex Legends \u2122 on PC?"
+    }
+  ],
+  "overwatch 2 reduce input lag reflex + boost": [
+    {
+      "url": "https://us.forums.blizzard.com/en/overwatch/t/2025-reducing-input-lag-guide-simple/977407",
+      "title": "2025 - Reducing Input Lag Guide (SIMPLE) - Technical Support ..."
+    },
+    {
+      "url": "https://cbswatchmagazine.com/optimal-pc-settings-for-overwatch-2/",
+      "title": "Optimal PC Settings for Overwatch 2 - cbswatchmagazine.com"
+    },
+    {
+      "url": "https://www.reddit.com/r/overwatch2/comments/xzpu7a/ow2_tested_settings_for_lower_input_lag_higher/",
+      "title": "OW2 Tested Settings for Lower Input Lag - Reddit"
+    },
+    {
+      "url": "https://hone.gg/blog/overwatch-2-settings/",
+      "title": "Best Overwatch 2 Settings for PC - Maximize FPS - Hone Blog"
+    },
+    {
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3561543472",
+      "title": "Steam Community :: Guide :: Overwatch 2: 2025 Competitive Optimization ..."
+    }
+  ],
+  "kovaaks 10 minute warmup playlist code": [
+    {
+      "url": "https://github.com/4BangerKovaaks/kovaaks-playlist-compendium",
+      "title": "GitHub - 4BangerKovaaks/kovaaks-playlist-compendium"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=FxRYdNFDkF8",
+      "title": "Complete Aim Guide for Valorant: Best Kovaak Playlist & Daily Warm-Up ..."
+    }
+  ],
+  "aim lab to valorant sens converter exact": [
+    {
+      "url": "https://www.mouse-sensitivity.com/n/aimlabs-to-valorant/",
+      "title": "Aimlabs to VALORANT Sens Converter"
+    },
+    {
+      "url": "https://www.sensgod.com/mouse-sensitivity-converter/aim-lab/to/valorant/",
+      "title": "Aim Lab to Valorant Sensitivity Converter | Sensgod"
+    },
+    {
+      "url": "https://psamethodcalculator.com/mouse-sensitivity-converter/aim-lab/valorant/",
+      "title": "Aim Lab to Valorant Mouse Sensitivity Converter"
+    }
+  ],
+  "crosshair placement drills vod review checklist": [
+    {
+      "url": "https://qorgaming.com/blogs/esport-pro-tips/how-to-master-crosshair-placement-like-a-pro",
+      "title": "How to Master Crosshair Placement Like a Pro - Qor Gaming"
+    },
+    {
+      "url": "https://www.reddit.com/r/AgentAcademy/comments/wqlmx2/self_vod_review_frameworkchecklist/",
+      "title": "Self VOD Review Framework/Checklist? : r/AgentAcademy - Reddit"
+    },
+    {
+      "url": "https://ccwai.com/the-vod-review-playbook-2025-how-to-analyze-your-matches-in-30-minutes-and-actually-improve/",
+      "title": "The VOD Review Playbook (2025): How to Analyze Your Matches in 30 ..."
+    },
+    {
+      "url": "https://theguide.gg/improve/lessons/valorant/the-fundamentals-of-crosshair-placement-599",
+      "title": "The Fundamentals Of Crosshair Placement - THE GUIDE"
+    }
+  ],
+  "comms callout templates for scrims": [],
+  "clip review criteria decision making midround": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis",
+      "title": "Multiple- criteria decision analysis - Wikipedia"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/334903060_VIKOR_multi-criteria_decision_making_with_AHP_reliable_weighting_for_article_acceptance_recommendation",
+      "title": "(PDF) VIKOR multi- criteria decision making with AHP reliable..."
+    },
+    {
+      "url": "https://www.slideshare.net/slideshow/topsis-a-multicriteria-decision-making-approach/15905259",
+      "title": "TOPSIS - A multi- criteria decision making approach | PPTX"
+    },
+    {
+      "url": "https://learn.rumie.org/jR/bytes/struggling-to-make-decisions-use-a-decision-matrix/",
+      "title": "Struggling to make decisions ? Use a decision matrix"
+    },
+    {
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110743630/html",
+      "title": "Multiple Criteria Decision - Making Methods"
+    }
+  ],
+  "deafen vs push to talk best practice comms clarity": [],
+  "coach beginners fps curriculum week 1": [
+    {
+      "url": "https://www.fpscoach.com/get-a-free-lesson",
+      "title": "Get a free aiming lesson from FPS Coach"
+    },
+    {
+      "url": "https://aiming.pro/",
+      "title": "Aim Trainer: Train aim mechanics and practice FPS skills | Aiming.Pro"
+    }
+  ],
+  "windows mouse settings mousespeed 6/11 raw input": [
+    {
+      "url": "https://www.wps.com/blog/how-to-disable-mouse-acceleration-in-windows-11-permanent-fix-guide/",
+      "title": "How to Disable Mouse Acceleration in Windows 11 : Permanent Fix..."
+    },
+    {
+      "url": "https://www.teamfortress.tv/18024/raw-input-making-my-mouse-slower",
+      "title": "Raw input making my mouse slower?"
+    },
+    {
+      "url": "https://windowsreport.com/windows-11-mouse-settings/",
+      "title": "Mouse Settings on Windows 11 : Change Speed & Sensitivity"
+    }
+  ],
+  "bufferbloat fix fq_codel cake openwrt guide": [
+    {
+      "url": "https://forum.openwrt.org/t/how-openwrt-vanquishes-bufferbloat/189381",
+      "title": "How OpenWrt Vanquishes Bufferbloat"
+    },
+    {
+      "url": "https://www.bufferbloat.net/projects/bloat/wiki/Getting_SQM_Running_Right/",
+      "title": "Getting SQM Running Right - Bufferbloat.net"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=NVxK1budHBc",
+      "title": "Kill Bufferbloat in OpenWrt with SQM + CAKE - Smooth Internet & Low ..."
+    },
+    {
+      "url": "https://www.reddit.com/r/openwrt/comments/15ezvvg/options_to_help_with_bufferbloat/",
+      "title": "Options to help with Bufferbloat : r/openwrt - Reddit"
+    }
+  ],
+  "netduma vs openwrt qos gaming": [
+    {
+      "url": "https://forum.openwrt.org/t/testing-and-comparing-qos-algorithms/167384",
+      "title": "Testing and comparing QoS algorithms - Hardware... - OpenWrt Forum"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OPtFTcX92lw",
+      "title": "OpenWRT - SQM QoS Setup on LuCI - YouTube"
+    }
+  ],
+  "ethernet adapter advanced settings which to tweak": [
+    {
+      "url": "https://www.digit.in/features/general/tweak-network-adapter-properties-networking-ethernet-wifi-vpn-45243.html",
+      "title": "How to tweak your Network Adapter Settings to get the most out ... - Digit"
+    },
+    {
+      "url": "https://www.how2shout.com/how-to/best-ethernet-adapter-settings-for-windows-11-network-optimization-guide.html",
+      "title": "Best Ethernet Adapter Settings for Windows 11: Network Optimization ..."
+    },
+    {
+      "url": "https://helpdesk.flexradio.com/hc/en-us/articles/202118518-Optimizing-Ethernet-Adapter-Settings-for-Maximum-Performance",
+      "title": "Optimizing Ethernet Adapter Settings for Maximum Performance"
+    },
+    {
+      "url": "https://windowsforum.com/threads/ultimate-windows-11-ethernet-optimization-guide-boost-network-speed-stability.375394/",
+      "title": "Ultimate Windows 11 Ethernet Optimization Guide: Boost Network Speed ..."
+    },
+    {
+      "url": "https://windowsreport.com/best-ethernet-settings-for-gaming/",
+      "title": "Best Ethernet Settings For Gaming: Get Fast Speed and Low Ping"
+    }
+  ],
+  "disable nagles algorithm windows 11 gaming": [
+    {
+      "url": "https://www.pcworld.com/article/2460852/nagles-algorithm-the-obscure-router-setting-that-can-hurt-pc-gamers.html",
+      "title": "Nagle's Algorithm: The obscure router setting that can hurt ... - PCWorld"
+    }
+  ],
+  "ping jitter vs average ping which matters fps": [
+    {
+      "url": "https://www.exitlag.com/blog/what-is-jitter-2/",
+      "title": "Jitter : What It Is, How To Measure It, And How To Reduce It For..."
+    },
+    {
+      "url": "https://www.ghostbroadband.co.uk/ping-vs-latency-vs-jitter/",
+      "title": "Ping vs latency vs jitter - Ghost Broadband"
+    },
+    {
+      "url": "https://myrepublic.net/sg/blog/broadband/lag-ping-and-latency-whats-the-difference-and-what-does-it-mean-for-gaming/",
+      "title": "Lag, Ping , and Latency: What Does It Mean for Gaming?"
+    },
+    {
+      "url": "https://techreviewadvisor.com/jitter-vs-ping/",
+      "title": "Jitter vs . Ping : What's the Difference? - Tech Review Advisor"
+    }
+  ],
+  "discord mic eq noise gate settings numeric": [
+    {
+      "url": "https://joltfly.com/discord-mic-settings-silence-your-loud-mechanical-keyboard/",
+      "title": "Discord Mic Settings : Silence Your Loud Mechanical Keyboard - Joltfly"
+    },
+    {
+      "url": "https://support.steelseries.com/hc/en-us/articles/4412048537869-Setup-Sonar-on-Discord",
+      "title": "Setup Sonar on Discord \u2013 Support"
+    }
+  ],
+  "krisp vs rnnoise vs nvidia broadcast latency": [
+    {
+      "url": "https://krisp.ai/blog/nvidia-rtx-voice-krisp/",
+      "title": "Nvidia RTX Voice vs Krisp Noise Cancellation App in 2024"
+    },
+    {
+      "url": "https://www.streamtechreviews.com/blog/rtx-voice-vs-krisp",
+      "title": "NVIDIA RTX Voice vs Krisp [Review and Comparison] \u2014 Stream Tech..."
+    },
+    {
+      "url": "https://sourceforge.net/software/compare/Krisp-vs-NVIDIA-Broadcast/",
+      "title": "Krisp vs . NVIDIA Broadcast Comparison"
+    },
+    {
+      "url": "https://antlionaudio.com/blogs/news/free-active-noise-suppression-without-rtx-voice",
+      "title": "(Free) Active Noise Suppression Without Nvidia Broadcast !"
+    }
+  ],
+  "schedule scrims discord bot free": [
+    {
+      "url": "https://top.gg/tag/scrims",
+      "title": "Scrims Discord Bots and Apps | The #1 Discord Bot and Discord App List"
+    },
+    {
+      "url": "https://discord.com/discovery/applications/855480683396071484",
+      "title": "Scrims Manager | Discord App Directory"
+    },
+    {
+      "url": "https://www.razhorbot.com/",
+      "title": "RazhorBot - Multiple Scrimmage & Tournament Management on Discord"
+    },
+    {
+      "url": "https://github.com/thmoee/scrim-bot",
+      "title": "GitHub - thmoee/scrim-bot: This is an Discord Bot written in Go to help ..."
+    }
+  ],
+  "steam download server slow change region": [
+    {
+      "url": "https://help.steampowered.com/en/faqs/view/5AC5-8056-E88F-F3FF",
+      "title": "Slow Downloads and Connection to Content Servers - Steam Support"
+    },
+    {
+      "url": "https://www.techworm.net/2024/03/fix-slow-download-speed-steam.html",
+      "title": "[Fixed] - Slow Download Speed On Steam - Techworm"
+    },
+    {
+      "url": "https://www.wikihow.com/Why-Is-Steam-Downloading-So-Slow",
+      "title": "Why Is Steam Downloading So Slow? Here's How to Fix It"
+    },
+    {
+      "url": "https://lightningxvpn.com/blog/en/change-steam-download-region/",
+      "title": "Step-by-Step Guide to Change Steam Download Region Easily"
+    }
+  ],
+  "undervolt vs underclock power savings kwh calc": [
+    {
+      "url": "https://agentcalc.com/cpu-undervolting-battery-savings-calculator",
+      "title": "CPU Undervolting Battery Savings Calculator - agentcalc.com"
+    },
+    {
+      "url": "https://www.reddit.com/r/overclocking/comments/143bs7a/will_underclocking_save_power/",
+      "title": "will underclocking save power? : r/overclocking - Reddit"
+    },
+    {
+      "url": "https://www.xda-developers.com/is-undervolting-still-worth-it-for-performance-and-efficiency/",
+      "title": "Is undervolting still worth it for performance and efficiency?"
+    },
+    {
+      "url": "https://www.techpowerup.com/forums/threads/underclocking-undervolting-for-energy-savings.280717/",
+      "title": "Underclocking/undervolting for energy savings? - TechPowerUp"
+    }
+  ],
+  "measure pc power draw smart plug home assistant": [
+    {
+      "url": "https://www.home-assistant.io/docs/energy/individual-devices/",
+      "title": "Integrating individual device energy usage - Home Assistant"
+    },
+    {
+      "url": "https://www.reddit.com/r/homeassistant/comments/15yxgy0/smartplugs_to_monitor_energy_usage/",
+      "title": "Smartplugs to monitor energy usage? : r/homeassistant - Reddit"
+    },
+    {
+      "url": "https://network-guides.com/visualizing-power-usage-with-shelly-plug-s-and-home-assistant/",
+      "title": "Visualizing power usage with Shelly Plug S and Home Assistant"
+    }
+  ],
+  "fan curve for quiet idle temps target strategy": [
+    {
+      "url": "https://www.propelrc.com/best-cpu-fan-curve/",
+      "title": "Best CPU Fan Curve Settings for Silent & Cool Performance"
+    },
+    {
+      "url": "https://www.ofzenandcomputing.com/best-fan-curve-for-cpu-temp/",
+      "title": "Best Fan Curve For CPU Temp: Complete (December 2025) Guide"
+    },
+    {
+      "url": "https://www.reddit.com/r/pcmasterrace/comments/1ceov3o/whats_the_ideal_fan_curve_percentages_vs_temps/",
+      "title": "What's the ideal fan curve percentages vs Temps? : r/pcmasterrace - Reddit"
+    },
+    {
+      "url": "https://knowledge.computerinfobits.com/hardware/computer-fan-curves-control-how-to-set-and-optimize",
+      "title": "Computer Fan Curves & Control: Optimization Guide"
+    },
+    {
+      "url": "https://umatechnology.org/10-best-fan-curves-for-optimal-cpu-temperature-management/",
+      "title": "10 Best Fan Curves for Optimal CPU Temperature Management"
+    }
+  ],
+  "e-waste recycle drop off near me pc parts": [
+    {
+      "url": "https://therecycleguide.org/locations/",
+      "title": "Locations - The Recycle Guide"
+    },
+    {
+      "url": "https://pages.ebay.com/ad/en-us/rethink/drop_off.html",
+      "title": "Find a Drop Off Location Near Me - eBay"
+    },
+    {
+      "url": "https://www.recyclingcenternear.me/electronics-recycling/",
+      "title": "Electronic Recycling Near Me | Local E-waste Recycle Locations"
+    },
+    {
+      "url": "https://uselectronicsrecycling.com/services/drop-off-locations/",
+      "title": "Drop-Off Locations - US Electronics Recycling"
+    }
+  ],
+  "wrist and shoulder mobility routine for gamers": [
+    {
+      "url": "https://1-hp.org/blog/hpforgamers/injury-prevention-program-for-gamers-wrist-shoulder-neck-more/",
+      "title": "Injury Prevention Program for Gamers | Wrist, Shoulder, Neck & More! - 1-HP"
+    },
+    {
+      "url": "https://www.usacademicesports.com/post/best-stretches-for-gamers-and-esports-players",
+      "title": "Best Stretches and Exercises for Gamers and Esports Players"
+    },
+    {
+      "url": "https://gameplan.com/news/gamer-stretch-free-printable-stretch-routine",
+      "title": "Stay Game-Ready: Free Printable Stretch Routine for Gamers!"
+    }
+  ],
+  "desk stretches 5 minute between matches": [
+    {
+      "url": "https://m.youtube.com/watch?v=kdLSJuzRNUw",
+      "title": "5 Minute Desk Stretches - Without Getting Up! - YouTube"
+    },
+    {
+      "url": "https://gymba-ergonomics.com/2025/07/07/10-easy-desk-exercises-you-can-do-in-5-minutes/",
+      "title": "10 Easy Desk Exercises You Can Do in 5 Minutes - Gymba\u00ae"
+    },
+    {
+      "url": "https://www.nuffieldhealth.com/article/the-5-minute-home-office-workout",
+      "title": "Workplace health | The 5-minute office workout"
+    },
+    {
+      "url": "https://nerdynutrition.ca/stretch-goals-5-minute-moves/",
+      "title": "5-Minute Office Stretches to Beat the 3pm Desk Slump"
+    }
+  ],
+  "cycling route planner low traffic city": [
+    {
+      "url": "https://cycle.travel/map",
+      "title": "Bike map | Cycle route planner | cycle.travel"
+    }
+  ],
+  "caffeine timing for performance gaming studies": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11270538/",
+      "title": "Caffeine improves the shooting performance and reaction time of first ..."
+    },
+    {
+      "url": "https://journals.humankinetics.com/view/journals/jege/3/1/article-jege.2025-0003.xml",
+      "title": "Caffeine Source and Shooting Performance Among Esports Players: Coffee ..."
+    },
+    {
+      "url": "https://www.nature.com/articles/s41598-024-52599-y.pdf",
+      "title": "PDF Caffeine supplementation improves the cognitive abilities and shooting ..."
+    }
+  ],
+  "pour over recipe 1:15 bloom 45s v60": [
+    {
+      "url": "https://calculator.coffee/pour-over-calculator.html",
+      "title": "Pour Over Coffee Calculator - V 60 Ratio & Brewing Guide"
+    }
+  ],
+  "quiet hours windows 11 focus assist auto": [
+    {
+      "url": "https://windowsforum.com/threads/fixing-windows-11-focus-assist-stop-it-from-turning-on-automatically.349131/",
+      "title": "Fixing Windows 11 Focus Assist: Stop It from Turning On Automatically"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/answers/questions/3920661/how-do-i-disable-win11-focus-assist-(aka-quiet-hou",
+      "title": "How do I disable Win11 Focus assist (aka Quiet Hours)?"
+    },
+    {
+      "url": "https://www.elevenforum.com/t/manage-focus-assist-automatic-rules-in-windows-11.1363/",
+      "title": "Manage Focus Assist Automatic Rules in Windows 11"
+    },
+    {
+      "url": "https://www.thewindowsclub.com/how-to-use-focus-assist-automatic-rules-windows-11",
+      "title": "How to use Focus assist Automatic rules in Windows 11"
+    }
+  ],
+  "carbon intensity api my grid now watts carbon": [
+    {
+      "url": "https://carbonintensity.org.uk/",
+      "title": "Carbon Intensity"
+    },
+    {
+      "url": "https://github.com/thegreenwebfoundation/grid-intensity-go",
+      "title": "GitHub - thegreenwebfoundation/ grid - intensity -go: A tool written in go..."
+    },
+    {
+      "url": "https://developers.thegreenwebfoundation.org/grid-intensity-cli/explainer/providers/",
+      "title": "The Grid Intensity CLI allows data to be sourced from several providers."
+    },
+    {
+      "url": "https://nextjournal.com/greenweb/experiments-with-the-free-marginal-carbon-intensity-from-wattime",
+      "title": "Experiments with the free marginal carbon intensity from... - Nextjournal"
+    }
+  ],
+  "mid range gaming pc 1000 budget parts list 2025 reddit": [
+    {
+      "url": "https://www.reddit.com/r/buildmeapc/comments/1be0gzo/best_pc_build_under_1000/",
+      "title": "Best PC build under $1000? : r/buildmeapc - Reddit"
+    },
+    {
+      "url": "https://www.pcbuildhelper.com/article/best-gaming-pc-build-1000",
+      "title": "Best Gaming PC for $1,000 in 2025 - Build Guide & Upgrade Path"
+    },
+    {
+      "url": "https://techbuyersguru.com/guide/the-best-1000-mid-range-gaming-pc-build/",
+      "title": "The Best $1000 Mid-Range Gaming PC Build - December 2025"
+    },
+    {
+      "url": "https://www.propelrc.com/best-1000-mid-range-gaming-pc-build/",
+      "title": "Best $1000 Mid-Range Gaming PC Build 2025: Expert Guide"
+    }
+  ],
+  "neutral rgb theme linked to temps openrgb hwinfo plugin": []
+}

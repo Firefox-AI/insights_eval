@@ -1,0 +1,1612 @@
+{
+  "fastapi official docs tutorial first steps": [
+    {
+      "url": "https://fastapi.tiangolo.com/tutorial/",
+      "title": "Tutorial - User Guide - FastAPI"
+    },
+    {
+      "url": "https://fastapi.tiangolo.com/tutorial/first-steps/",
+      "title": "First Steps - FastAPI"
+    }
+  ],
+  "pydantic v2 migration guide": [
+    {
+      "url": "https://docs.pydantic.dev/latest/migration/",
+      "title": "Migration Guide - Pydantic Validation"
+    },
+    {
+      "url": "https://github.com/pydantic/pydantic/blob/main/docs/migration.md",
+      "title": "pydantic/docs/migration.md at main \u00b7 pydantic/pydantic \u00b7 GitHub"
+    }
+  ],
+  "sqlalchemy 2.0 session pattern example": [
+    {
+      "url": "https://medium.com/@ThinkingLoop/10-sqlalchemy-2-0-patterns-for-clean-async-postgres-af8c4bcd86fe",
+      "title": "10 SQLAlchemy 2 . 0 Patterns for Clean Async Postgres | Medium"
+    },
+    {
+      "url": "https://docs.sqlalchemy.org/en/20/orm/session_basics.html",
+      "title": "Session Basics \u2014 SQLAlchemy 2 . 0 Documentation"
+    },
+    {
+      "url": "https://deepwiki.com/tosmart01/dm-sqlalchemy2.0/5-usage-examples",
+      "title": "Usage Examples | tosmart01/dm- sqlalchemy 2 . 0 | DeepWiki"
+    },
+    {
+      "url": "https://thedmitry.pw/blog/2023/08/fastapi-async-sqlalchemy-pytest-and-alembic/",
+      "title": "Fastapi, async SQLAlchemy , pytest, and Alembic (all using asyncpg)"
+    }
+  ],
+  "python 3.12 whats new release notes": [
+    {
+      "url": "https://docs.python.org/3/whatsnew/3.12.html",
+      "title": "What\u2019s New In Python 3.12 \u2014 Python 3.14.2 documentation"
+    }
+  ],
+  "pytest parameterize fixtures example": [
+    {
+      "url": "https://docs.pytest.org/en/stable/how-to/parametrize.html",
+      "title": "How to parametrize fixtures and test functions - pytest documentation"
+    },
+    {
+      "url": "https://medium.com/@abhayda/mastering-pytest-advanced-fixtures-parameterization-and-mocking-explained-108a7a2ab82d",
+      "title": "Mastering Pytest : Advanced Fixtures , Parameterization, and... | Medium"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/parameterizing-fixtures-pytest-dynamic-setup-tests-venu-vignesh-m-vglwf",
+      "title": "Parameterizing Fixtures in Pytest : Dynamic Setup for Tests"
+    },
+    {
+      "url": "https://engineeringfordatascience.com/posts/pytest_fixtures_with_parameterize/",
+      "title": "Pytest : How to use fixtures as... | Engineering for Data Science"
+    },
+    {
+      "url": "https://www.lambdatest.com/blog/end-to-end-tutorial-for-pytest-fixtures-with-examples/",
+      "title": "pytest Fixtures : A Detailed Guide With Examples | LambdaTest"
+    }
+  ],
+  "httpx vs requests timeout retries": [
+    {
+      "url": "https://blog.mnislam.dev/posts/httpx_vs_requests/",
+      "title": "Python requests vs httpx . A comparison and personal opinion."
+    },
+    {
+      "url": "https://www.proxy-cheap.com/blog/httpx-vs-requests",
+      "title": "HTTPX vs Requests : Which Python HTTP Client Performs Better?"
+    },
+    {
+      "url": "https://netnut.io/httpx-vs-requests/",
+      "title": "Httpx vs Requests : What's the Difference & Benefits - Netnut"
+    }
+  ],
+  "openapi 3.1 spec json schema differences": [
+    {
+      "url": "https://en.wikipedia.org/wiki/OpenAPI_Specification",
+      "title": "OpenAPI Specification - Wikipedia"
+    },
+    {
+      "url": "https://github.com/OAI/OpenAPI-Specification/discussions/4114",
+      "title": "OAD Structure and referencing in OpenAPI 3 . 1 \u00b7 OAI..."
+    },
+    {
+      "url": "https://spec.openapis.org/oas/3.1/schema-base/2025-09-15.html",
+      "title": "JSON Schema for OpenAPI 3 . 1 - with schema validation"
+    }
+  ],
+  "opentelemetry python fastapi tracing setup": [
+    {
+      "url": "https://github.com/blueswen/fastapi-jaeger",
+      "title": "GitHub - blueswen/ fastapi -jaeger: Trace FastAPI with Jaeger through..."
+    },
+    {
+      "url": "https://last9.io/blog/integrating-opentelemetry-with-fastapi/",
+      "title": "A Complete Guide to Integrating OpenTelemetry with FastAPI | Last9"
+    },
+    {
+      "url": "https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/fastapi/fastapi.html",
+      "title": "OpenTelemetry FastAPI Instrumentation \u2014 OpenTelemetry Python ..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m28TTogdcbk",
+      "title": "OpenTelemetry FastAPI Tutorial: Get GREAT App... - YouTube"
+    },
+    {
+      "url": "https://signoz.io/blog/opentelemetry-fastapi/",
+      "title": "Implementing OpenTelemetry in FastAPI - A Practical Guide | SigNoz"
+    }
+  ],
+  "prometheus python client counter example": [
+    {
+      "url": "http://prometheus.github.io/client_python/instrumenting/counter/",
+      "title": "Counter - client python"
+    },
+    {
+      "url": "https://github.com/steve-caron-grafana/prometheus-examples/blob/main/clients/python/README.md",
+      "title": "Simple Prometheus Python Client example - GitHub"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/77683384/python-prometheus-client-how-to-get-counter-from-the-registry",
+      "title": "Python prometheus_client, how to get counter from the registry?"
+    },
+    {
+      "url": "https://betterstack.com/community/guides/monitoring/prometheus-python-metrics/",
+      "title": "Python Monitoring with Prometheus (Beginner's Guide)"
+    }
+  ],
+  "redis eviction policies lru vs volatile": [
+    {
+      "url": "https://dev.to/darkes/all-redis-eviction-policies-cheatsheet-explanation-3cj9",
+      "title": "All Redis Eviction Policies Cheatsheet & Explanation - DEV Community"
+    },
+    {
+      "url": "https://docs.digitalocean.com/products/databases/redis/how-to/choose-eviction-policies/",
+      "title": "How to Choose Eviction Policies on Caching Database Clusters"
+    },
+    {
+      "url": "https://markaicode.com/redis-eviction-policies-memory-management/",
+      "title": "Prevent Redis Memory Bloat: 3 Eviction Policies ... | Markaicode"
+    }
+  ],
+  "postgres create index gin vs btree when": [
+    {
+      "url": "https://dev.to/aws-heroes/postgresql-gin-b-tree-25en",
+      "title": "PostgreSQL GIN + B - Tree - DEV Community"
+    },
+    {
+      "url": "https://www.postgresql.org/docs/current/sql-createindex.html",
+      "title": "PostgreSQL : Documentation: 18: CREATE INDEX"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/40780825/btree-vs-gin-vs-gist-index",
+      "title": "postgresql - BTREE vs GIN vs GIST index - Stack Overflow"
+    },
+    {
+      "url": "https://pganalyze.com/blog/gin-index",
+      "title": "Understanding Postgres GIN Indexes : The Good and the Bad"
+    },
+    {
+      "url": "https://medium.com/geekculture/postgres-jsonb-usage-and-performance-analysis-cdbd1242a018",
+      "title": "Postgres JSONB Usage and performance analysis | Medium"
+    }
+  ],
+  "explain analyze postgres example": [
+    {
+      "url": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
+      "title": "EXPLAIN ANALYZE in PostgreSQL and how to interpret it"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/postgresql/postgresql-explain-statement/",
+      "title": "PostgreSQL EXPLAIN Statement - GeeksforGeeks"
+    },
+    {
+      "url": "https://thoughtbot.com/blog/reading-an-explain-analyze-query-plan",
+      "title": "Reading a Postgres EXPLAIN ANALYZE Query Plan - thoughtbot"
+    },
+    {
+      "url": "https://www.postgresql.org/docs/current/sql-explain.html",
+      "title": "PostgreSQL: Documentation: 18: EXPLAIN"
+    },
+    {
+      "url": "https://www.w3resource.com/PostgreSQL/snippets/postgresql-explain-analyze.php",
+      "title": "Using EXPLAIN ANALYZE in PostgreSQL to Optimize Queries"
+    }
+  ],
+  "transaction isolation levels postgres": [
+    {
+      "url": "https://www.postgresql.org/docs/current/transaction-iso.html",
+      "title": "PostgreSQL : Documentation: 18: 13.2. Transaction Isolation"
+    },
+    {
+      "url": "https://medium.com/@ansujain/postgresql-transactions-and-isolation-levels-explained-618c117c052c",
+      "title": "PostgreSQL Transactions and Isolation Levels Explained | Medium"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/understanding-database-isolation-levels-mysql-arya-pathak-wbj4f",
+      "title": "Database Isolation Levels with MySQL and PostgreSQL"
+    },
+    {
+      "url": "https://www.thenile.dev/blog/transaction-isolation-postgres",
+      "title": "Transaction Isolation in Postgres , explained"
+    },
+    {
+      "url": "https://practicaldev-herokuapp-com.global.ssl.fastly.net/chihebabiza/isolation-levels-in-sql-en3",
+      "title": "Understanding Transaction Isolation Levels in PostgreSQL"
+    }
+  ],
+  "retry on serialization failure postgres python": [
+    {
+      "url": "https://www.postgresql.org/docs/17//mvcc-serialization-failure-handling.html",
+      "title": "PostgreSQL: Documentation: 17: 13.5. Serialization Failure ..."
+    },
+    {
+      "url": "https://postgrespro.com/docs/enterprise/current/mvcc-serialization-failure-handling.html",
+      "title": "Postgres Pro Enterprise : Documentation: 17: 13.5 ..."
+    },
+    {
+      "url": "https://drdroid.io/stack-diagnosis/postgresdb-40001-serialization-failure",
+      "title": "PostgresDB | PostgresDB 40001: Serialization Failure"
+    },
+    {
+      "url": "https://docs.postgresql.tw/the-sql-language/concurrency-control/mvcc-serialization-failure-handling",
+      "title": "13.5. Serialization Failure Handling - PostgreSQL"
+    }
+  ],
+  "celery vs rq vs dramatiq comparison": [
+    {
+      "url": "https://medium.com/@Nexumo_/reliable-python-queues-7-celery-dramatiq-rq-choices-266ac544a4a5",
+      "title": "Reliable Python Queues: 7 Celery/Dramatiq/RQ Choices"
+    },
+    {
+      "url": "https://app.studyraid.com/en/read/15008/518850/celery-vs-other-task-queue-systems",
+      "title": "Understand celery vs. other task queue systems"
+    },
+    {
+      "url": "https://groups.io/g/dramatiq-users/topic/task_queue_feature_comparison/80541067",
+      "title": "Task queue feature comparison (Celery/RQ/Huey/Dramatiq)"
+    },
+    {
+      "url": "https://stackshare.io/stackups/celery-vs-dramatiq",
+      "title": "Celery vs Dramatiq | What are the differences? | StackShare"
+    }
+  ],
+  "kafka vs rabbitmq when to use backend": [
+    {
+      "url": "https://www.datacamp.com/blog/kafka-vs-rabbitmq",
+      "title": "Kafka vs RabbitMQ: Key Differences & When to Use Each"
+    },
+    {
+      "url": "https://medium.com/spring-boot/kafka-vs-rabbitmq-which-one-is-better-for-your-microservices-architecture-78546e52f615",
+      "title": "Kafka vs RabbitMQ: Which One Is Better for Your ... - Medium"
+    },
+    {
+      "url": "https://dev.to/mathsena/when-to-use-kafka-or-rabbitmq-choosing-between-stream-processing-and-message-queues-gel",
+      "title": "When to Use Kafka or RabbitMQ: Choosing Between Stream ..."
+    },
+    {
+      "url": "https://aws.amazon.com/compare/the-difference-between-rabbitmq-and-kafka/",
+      "title": "Kafka vs RabbitMQ? Difference between Kafka and RabbitMQ - AWS Kafka vs. RabbitMQ: Which message broker should you use? Kafka vs RabbitMQ: Key Differences, Benefits, and When to Use ... Kafka vs RabbitMQ : Key Differences & When to Use Each Kafka vs RabbitMQ : Key Differences & When to Use Each Kafka vs RabbitMQ ? Difference between Kafka and RabbitMQ - AWS Kafka Vs RabbitMQ : Differences, Use Cases & Performance Guide Kafka Vs RabbitMQ: Differences, Use Cases & Performance Guide"
+    },
+    {
+      "url": "https://statsig.com/perspectives/kafka-vs-rabbitmq-choice",
+      "title": "Kafka vs. RabbitMQ: Which message broker should you use?"
+    }
+  ],
+  "idempotency keys design rest api": [
+    {
+      "url": "https://zuplo.com/learning-center/implementing-idempotency-keys-in-rest-apis-a-complete-guide",
+      "title": "Implementing Idempotency Keys in REST APIs | Zuplo Learning Center"
+    },
+    {
+      "url": "https://levelup.gitconnected.com/mastering-rest-api-design-idempotency-pagination-security-d37e45b42328",
+      "title": "Mastering REST API Design \u2014 Idempotency ... | Level Up Coding"
+    },
+    {
+      "url": "https://medium.com/@logiqpool/why-your-api-might-be-charging-users-twice-and-how-idempotency-wins-in-a-jpmc-interview-e81fda5b81e9",
+      "title": "Why Your API Might Be Charging Users Twice (and How Idempotency ..."
+    },
+    {
+      "url": "https://javascript.plainenglish.io/build-resilient-rest-apis-with-idempotency-ensuring-safe-retries-in-distributed-systems-5d0437845acc",
+      "title": "Build Resilient REST APIs with Idempotency : Ensuring Safe Retries in..."
+    },
+    {
+      "url": "https://bytegoblin.io/blog/idempotency-keys-in-restful-apis.mdx",
+      "title": "Idempotency Keys in RESTful APIs | ByteGoblin.io"
+    }
+  ],
+  "http status codes cheat sheet printable": [
+    {
+      "url": "https://cheatography.com/kstep/cheat-sheets/http-status-codes/",
+      "title": "HTTP Status Codes Cheat Sheet by kstep - Cheatography.com Images Http Status Codes Cheat Sheet - Kstep Download Printable PDF HTTP Status Codes Cheat Sheet 2025 - Complete Reference HTTP Status Codes - Cheatsheets HTTP Status Codes Cheat Sheet: 2025 Crash Course + PDF ... HTTP Status cheatsheet - Devhints.io cheatsheets HTTP Status Codes Cheat Sheet: A Quick Reference"
+    },
+    {
+      "url": "https://www.templateroller.com/template/2637896/http-status-codes-cheat-sheet.html",
+      "title": "Http Status Codes Cheat Sheet - Kstep Download Printable PDF HTTP Status Codes Cheat Sheet 2025 - Complete Reference HTTP Status Codes - Cheatsheets HTTP Status Codes Cheat Sheet: 2025 Crash Course + PDF ... HTTP Status cheatsheet - Devhints.io cheatsheets HTTP Status Codes Cheat Sheet: A Quick Reference"
+    },
+    {
+      "url": "http://cheatsheetshero.com/user/all/949-http-status-codes-cheatsheet.pdf",
+      "title": "HTTP Status Codes - Cheatsheets"
+    },
+    {
+      "url": "https://serpwatch.io/blog/http-status-codes-cheat-sheet-pdf/",
+      "title": "HTTP Status Codes Cheat Sheet: 2025 Crash Course + PDF ... HTTP Status cheatsheet - Devhints.io cheatsheets HTTP Status Codes Cheat Sheet: A Quick Reference"
+    }
+  ],
+  "rfc 7807 problem details examples": [
+    {
+      "url": "https://datatracker.ietf.org/doc/html/rfc7807",
+      "title": "RFC 7807 - Problem Details for HTTP APIs - IETF Datatracker Problem Details \u2014 One Error Response Type to Rule Them All Using the ProblemDetails Class in ASP.NET Core Web API Problem Details RFC9457 \u2013 Doing API Errors Well | Swagger RFC 9457: Problem Details for HTTP APIs - RFC Editor Standardized Error Messages in .NET REST APIs - DEV Community Charge your APIs Volume 19: Understanding Problem Details for HTTP \u2026 Problem Details \u2014 One Error Response Type to Rule Them All Using the ProblemDetails Class in ASP.NET Core Web API RFC 9457: Problem Details for HTTP APIs Charge your APIs Volume 19: Understanding Problem Details for ..."
+    },
+    {
+      "url": "https://medium.com/@stephen.p.atkinson/problem-details-one-error-response-type-to-rule-them-all-960abf4c4f2b",
+      "title": "Problem Details \u2014 One Error Response Type to Rule Them All"
+    },
+    {
+      "url": "https://code-maze.com/using-the-problemdetails-class-in-asp-net-core-web-api/",
+      "title": "Using the ProblemDetails Class in ASP.NET Core Web API Problem Details RFC9457 \u2013 Doing API Errors Well | Swagger RFC 9457: Problem Details for HTTP APIs - RFC Editor Standardized Error Messages in .NET REST APIs - DEV Community Charge your APIs Volume 19: Understanding Problem Details for HTTP \u2026 Problem Details \u2014 One Error Response Type to Rule Them All Using the ProblemDetails Class in ASP.NET Core Web API RFC 9457: Problem Details for HTTP APIs Charge your APIs Volume 19: Understanding Problem Details for ..."
+    }
+  ],
+  "rfc 9110 http semantics summary": [
+    {
+      "url": "https://www.ietf.org/rfc/rfc9110.html",
+      "title": "RFC 9110 : HTTP Semantics"
+    },
+    {
+      "url": "https://dl.acm.org/doi/abs/10.17487/RFC9110",
+      "title": "RFC 9110 : HTTP Semantics | Guide books"
+    },
+    {
+      "url": "https://archive.org/details/rfc9110",
+      "title": "HTTP Semantics : R. Fielding : Free Download... : Internet Archive"
+    }
+  ],
+  "docker multistage build python slim example": [
+    {
+      "url": "https://github.com/jhh3/multistage-docker-examples",
+      "title": "GitHub - jhh3/ multistage - docker - examples : Examples of how to use..."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/70796983/multistage-docker-build-for-django",
+      "title": "python - Multistage docker build for Django - Stack Overflow"
+    },
+    {
+      "url": "https://thedmitry.pw/blog/2021/08/multistage-docker-python-venv/",
+      "title": "Multistage docker build"
+    }
+  ],
+  "uvicorn vs gunicorn workers fastapi": [
+    {
+      "url": "https://www.geeksforgeeks.org/python/fast-api-gunicorn-vs-uvicorn/",
+      "title": "Fast API - Gunicorn vs Uvicorn - GeeksforGeeks"
+    },
+    {
+      "url": "https://medium.com/@iklobato/mastering-gunicorn-and-uvicorn-the-right-way-to-deploy-fastapi-applications-aaa06849841e",
+      "title": "Mastering Gunicorn and Uvicorn: The Right Way to Deploy ..."
+    },
+    {
+      "url": "https://fastapi.tiangolo.com/deployment/server-workers/",
+      "title": "Server Workers - Uvicorn with Workers - FastAPI - tiangolo Workers and threads | fastapi-performance-optimization python - Does FastAPI still need Gunicorn? - Stack Overflow Production Deployment with Gunicorn/Uvicorn - apxml.com python - Does FastAPI still need Gunicorn ? - Stack Overflow Fast API - Gunicorn vs Uvicorn - GeeksforGeeks Mastering Gunicorn and Uvicorn : The Right Way to Deploy FastAPI python - Does FastAPI still need Gunicorn ? - Stack Overflow Gunicorn vs Uvicorn Workers: The Battle for API Speed"
+    },
+    {
+      "url": "https://kisspeter.github.io/fastapi-performance-optimization/workers_and_threads.html",
+      "title": "Workers and threads | fastapi-performance-optimization"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/79694234/does-fastapi-still-need-gunicorn",
+      "title": "python - Does FastAPI still need Gunicorn? - Stack Overflow"
+    }
+  ],
+  "kubernetes readiness vs liveness vs startup probe": [
+    {
+      "url": "https://kubernetes.io/docs/concepts/configuration/liveness-readiness-startup-probes/",
+      "title": "Liveness, Readiness, and Startup Probes - Kubernetes"
+    },
+    {
+      "url": "https://www.baeldung.com/ops/kubernetes-livenessprobe-readinessprobe",
+      "title": "Understanding livenessProbe and readinessProbe in Kubernetes"
+    },
+    {
+      "url": "https://decodeops.substack.com/p/kubernetes-probes-explained-practical",
+      "title": "Kubernetes probes explained \u2014 practical guide for DevOps"
+    },
+    {
+      "url": "https://hostman.com/tutorials/liveness-readiness-and-startup-probes-in-kubernetes/",
+      "title": "Kubernetes Probes Explained: Liveness, Readiness, and Startup"
+    },
+    {
+      "url": "https://hackernoon.com/kubernetes-liveness-readiness-and-startup-probes-keys-to-container-health-and-resilience",
+      "title": "Kubernetes Liveness, Readiness, and Startup Probes - HackerNoon"
+    }
+  ],
+  "helm chart best practices official": [
+    {
+      "url": "https://helm.sh/docs/chart_best_practices/",
+      "title": "Best Practices | Helm"
+    }
+  ],
+  "github actions cache pip dependencies": [
+    {
+      "url": "https://docs.github.com/en/actions/reference/workflows-and-actions/dependency-caching",
+      "title": "Dependency caching reference - GitHub Docs"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/59127258/how-can-i-use-pip-cache-in-github-actions",
+      "title": "How can I use pip cache in github actions? - Stack Overflow Code sample"
+    },
+    {
+      "url": "https://cicube.io/blog/github-actions-cache/",
+      "title": "GitHub Actions Cache - A Complete Guide with Examples - CICube"
+    },
+    {
+      "url": "https://codevup.com/issues/2025-07-03-github-actions-pip-cache-not-working/",
+      "title": "GitHub Actions pip Cache Not Working for Python Projects"
+    },
+    {
+      "url": "https://github.blog/changelog/2021-11-23-github-actions-setup-python-now-supports-dependency-caching/",
+      "title": "GitHub Actions: setup-python now supports dependency caching"
+    }
+  ],
+  "pre-commit hooks python black ruff mypy config": [
+    {
+      "url": "https://brainxx.site/blog/pre-commit-setup-black-ruff",
+      "title": "Pre - commit Setup: Black , Ruff , And Mypy Configuration"
+    }
+  ],
+  "ruff vs flake8 performance comparison": [
+    {
+      "url": "https://medium.com/@zigtecx/why-you-should-replace-flake8-black-and-isort-with-ruff-the-ultimate-python-code-quality-tool-a9372d1ddc1e",
+      "title": "Why You Should Replace Flake8, Black, and isort with Ruff ..."
+    },
+    {
+      "url": "https://pythonspeed.com/articles/pylint-flake8-ruff/",
+      "title": "Goodbye to Flake8 and PyLint: faster linting with Ruff Replacing black, flake8 and isort with ruff: A Python ... Goodbye to Flake8 and PyLint: faster linting with Ruff Flake8, Ruff, and Black: The Trio That Keeps Your Python Code ... flake8 or ruff - Detects Unused Variables, Bad Patterns, and ... flake8 or ruff - Detects Unused Variables, Bad Patterns, and Syntax flake8 or ruff - Detects Unused Variables, Bad Patterns, and Syntax flake8 or ruff - Detects Unused Variables, Bad Patterns, and Syntax Goodbye to Flake8 and PyLint: faster linting with Ruff ruff vs Flake8 - compare differences and reviews? | LibHunt"
+    },
+    {
+      "url": "https://pragmaticdatadev.substack.com/p/replacing-black-flake8-isort-and",
+      "title": "Replacing black, flake8 and isort with ruff: A Python ..."
+    },
+    {
+      "url": "https://www.reddit.com/r/Python/comments/134zkvd/goodbye_to_flake8_and_pylint_faster_linting_with/",
+      "title": "Goodbye to Flake8 and PyLint: faster linting with Ruff"
+    }
+  ],
+  "mypy strict optional best practices": [
+    {
+      "url": "https://stackoverflow.com/questions/62211237/any-advantages-of-enabled-mypy-strict-optional",
+      "title": "python - Any advantages of enabled mypy ` strict _ optional ?"
+    },
+    {
+      "url": "https://mypy.readthedocs.io/en/stable/config_file.html",
+      "title": "The mypy configuration file - mypy 1.19.1 documentation"
+    },
+    {
+      "url": "https://careers.wolt.com/en/blog/tech/professional-grade-mypy-configuration",
+      "title": "Professional-grade mypy configuration | Wolt Careers"
+    }
+  ],
+  "python dataclasses vs pydantic models when": [
+    {
+      "url": "https://dataakkadian.medium.com/pydantic-vs-dataclasses-what-i-actually-use-in-real-code-b809e4bf33f6",
+      "title": "Pydantic vs Dataclasses : What I Actually Use in Real Code | Medium"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/pydantic-vs-dataclasses-python-in-depth-analysis-utkarsh-singh-g4nxc",
+      "title": "Pydantic vs . Dataclasses in Python : An In-Depth Analysis"
+    },
+    {
+      "url": "https://dev.to/hevalhazalkurt/dataclasses-vs-pydantic-vs-typeddict-vs-namedtuple-in-python-41gg",
+      "title": "Dataclasses vs Pydantic vs TypedDict vs NamedTuple in Python"
+    },
+    {
+      "url": "https://levelup.gitconnected.com/i-benchmarked-pythons-3-data-libraries-the-results-surprised-me-821dbc7c440e",
+      "title": "I Benchmarked Dataclasses , attrs, and Pydantic ... | Level Up Coding"
+    },
+    {
+      "url": "https://docs.pydantic.dev/latest/concepts/dataclasses/",
+      "title": "Dataclasses - Pydantic Validation"
+    }
+  ],
+  "contextlib asynccontextmanager example": [
+    {
+      "url": "https://docs.python.org/3/library/contextlib.html",
+      "title": "contextlib \u2014 Utilities for with-statement contexts \u2014 Python..."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/54204990/python-abstractmethod-with-asynccontextmanager",
+      "title": "Python abstractmethod with asynccontextmanager - Stack Overflow"
+    },
+    {
+      "url": "https://www.basicexamples.com/example/python/contextlib-asynccontextmanager",
+      "title": "Basic example of contextlib . asynccontextmanager () in Python"
+    }
+  ],
+  "asyncio task cancellation best practices": [
+    {
+      "url": "https://superfastpython.com/asyncio-task-cancellation-best-practices/",
+      "title": "Asyncio Task Cancellation Best Practices - Super Fast Python"
+    },
+    {
+      "url": "https://docs.python.org/3/library/asyncio-task.html",
+      "title": "Coroutines and Tasks \u2014 Python 3.14.2 documentation"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/77974525/what-is-the-right-way-to-await-cancelling-an-asyncio-task",
+      "title": "What is the right way to await cancelling an asyncio task?"
+    },
+    {
+      "url": "https://blog.poespas.me/posts/2024/05/30/python-asyncio-cancellation-handling/",
+      "title": "Mastering Cancellation Handling in AsyncIO: Best Practices ..."
+    }
+  ],
+  "python event loop policy gotchas windows wsl": [
+    {
+      "url": "https://docs.python.org/3/library/asyncio-eventloop.html",
+      "title": "Event Loop \u2014 Python 3.14.2 documentation"
+    },
+    {
+      "url": "https://brightqna.com/blog/django-bolt-on-windows-fix",
+      "title": "Django-bolt On Windows : Fix 'uvloop Does Not Support Windows '"
+    },
+    {
+      "url": "https://github.com/zeromq/pyzmq/issues/1830",
+      "title": "Proactor event loop warning opt-out message is, weird? \u00b7 Issue #1830..."
+    }
+  ],
+  "threading vs multiprocessing cpu bound io bound": [
+    {
+      "url": "https://stackoverflow.com/questions/78503549/multithreading-vs-multiprocessing-in-i-o-bound-processes",
+      "title": "Multithreading vs multiprocessing in I/O bound processes"
+    },
+    {
+      "url": "https://softwareengineering.stackexchange.com/questions/454368/can-multi-threading-improve-performance-of-an-io-bound-process",
+      "title": "Can multi-threading improve performance of an IO-bound process?"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/python/difference-between-multithreading-vs-multiprocessing-in-python/",
+      "title": "Difference Between Multithreading vs Multiprocessing in Python"
+    },
+    {
+      "url": "https://sqlpey.com/python/python-threading-vs-multiprocessing-performance/",
+      "title": "Python Threading vs Multiprocessing: Performance and Use"
+    },
+    {
+      "url": "https://medium.com/@shane-zhang/demystifying-python-concurrency-io-bound-vs-cpu-bound-tasks-64016db696c7",
+      "title": "Demystifying Python Concurrency: IO-Bound vs. CPU-Bound Tasks Multithreading in CPU-Bound vs IO-Bound Programs: A Complete ... Differences Between asyncio, Multiprocessing, and Threading ..."
+    }
+  ],
+  "tenacity retry exponential backoff examples": [
+    {
+      "url": "https://medium.com/@bounouh.fedi/enhancing-resilience-in-python-applications-with-tenacity-a-comprehensive-guide-d92fe0e07d89",
+      "title": "Enhancing Resilience in Python Applications with Tenacity ... | Medium"
+    },
+    {
+      "url": "https://python.useinstructor.com/concepts/retrying/",
+      "title": "Python Retry Logic with Tenacity and Instructor | Complete Guide..."
+    },
+    {
+      "url": "https://tenacity.readthedocs.io/en/stable/",
+      "title": "Tenacity \u2014 Tenacity documentation"
+    },
+    {
+      "url": "https://pub.towardsai.net/mastering-retries-in-python-with-the-tenacity-library-873f22ef64b3",
+      "title": "Mastering Retries in Python with the Tenacity Library | Towards AI"
+    }
+  ],
+  "jwt best practices backend python": [
+    {
+      "url": "https://workos.com/blog/how-to-handle-jwt-in-python",
+      "title": "How to handle JWT in Python - WorkOS"
+    },
+    {
+      "url": "https://pytutorial.com/python-jwt-implementation-guide-secure-authentication-made-easy/",
+      "title": "Python JWT Implementation Guide: Secure Authentication Made Easy"
+    },
+    {
+      "url": "https://auth0.com/blog/how-to-handle-jwt-in-python/",
+      "title": "How to Handle JWTs in Python - Auth0 Python JWT: An In - Depth Guide - CodeRivers How would you implement JWT authentication between a Python ... JWT Authentication in Python: FastAPI and Flask ... Python JWT Implementation Guide: Secure Authentication Made Easy How to Handle JWTs in Python - Auth0 Welcome to PyJWT \u2014 PyJWT 2.10.1 documentation Python JWT : An In - Depth Guide - CodeRivers Welcome to PyJWT \u2014 PyJWT 2.10.1 documentation"
+    },
+    {
+      "url": "https://coderivers.org/blog/python-jwt/",
+      "title": "Python JWT: An In - Depth Guide - CodeRivers"
+    },
+    {
+      "url": "https://medium.com/@bhanuloya123/how-would-you-implement-jwt-authentication-between-a-python-backend-and-a-frontend-framework-like-5246fe829f0f",
+      "title": "How would you implement JWT authentication between a Python ..."
+    }
+  ],
+  "fastapi oauth2 password flow example": [
+    {
+      "url": "https://fastapi.tiangolo.com/tutorial/security/simple-oauth2/",
+      "title": "Simple OAuth 2 with Password and Bearer - FastAPI"
+    },
+    {
+      "url": "https://www.compilenrun.com/docs/framework/fastapi/fastapi-security/fastapi-oauth2-password-flow/",
+      "title": "FastAPI OAuth 2 Password Flow | Compile N Run"
+    },
+    {
+      "url": "https://dev.to/behainguyen/python-fastapi-integrating-oauth2-security-with-the-applications-own-authentication-process-335i",
+      "title": "Python FastAPI : Integrating OAuth 2 Security with... - DEV Community"
+    }
+  ],
+  "session vs jwt auth pros cons": [
+    {
+      "url": "https://dev.to/sergey-dudik/session-vs-jwt-the-difference-you-might-not-know-266p",
+      "title": "Session vs. JWT: The Difference You Might Not Know"
+    },
+    {
+      "url": "https://hackernoon.com/session-vs-jwt-authentication-how-they-work-key-differences-and-real-world-examples",
+      "title": "Session vs JWT Authentication \u2014 How They Work, Key ..."
+    },
+    {
+      "url": "https://medium.com/@aysunitai/jwt-vs-session-based-auth-a-developers-complete-guide-9e0a7929afda",
+      "title": "JWT vs Session-Based Auth: A Developer\u2019s Complete Guide"
+    },
+    {
+      "url": "https://verpex.com/blog/website-tips/jwt-vs-session-cookies-which-one-should-you-use-and-when",
+      "title": "JWT vs Session Cookies: Which One Should You Use and When?"
+    },
+    {
+      "url": "https://bugfree.ai/knowledge-hub/jwt-vs-session-based-auth-pros-and-cons",
+      "title": "JWT vs Session-Based Auth: Pros and Cons - bugfree.ai"
+    }
+  ],
+  "password hashing argon2 vs bcrypt python": [
+    {
+      "url": "https://python.plainenglish.io/password-management-in-django-db00aa877164",
+      "title": "Password Management in Django. Effective password management..."
+    },
+    {
+      "url": "https://medium.com/@HeCanThink/bcrypt-safeguarding-users-passwords-in-python-fd8400bdd03",
+      "title": "Bcrypt : Safeguarding Users\u2019 Passwords in Python | Medium"
+    },
+    {
+      "url": "https://stytch.com/blog/argon2-vs-bcrypt-vs-scrypt/",
+      "title": "Argon 2 vs bcrypt vs . scrypt: which hashing algorithm is right for you?"
+    }
+  ],
+  "http caching etag last-modified examples": [
+    {
+      "url": "https://stackoverflow.com/questions/824152/what-takes-precedence-the-etag-or-last-modified-http-header",
+      "title": "caching - What takes precedence: the ETag or Last-Modified ... Code sample"
+    },
+    {
+      "url": "https://accreditly.io/articles/the-practical-guide-to-http-caching-headers-cache-control-etag-and-304s",
+      "title": "The practical guide to HTTP caching headers: Cache-Control ..."
+    },
+    {
+      "url": "https://www.unrepo.com/http/tutorial-etag-and-last-modified-headers-in-http",
+      "title": "Tutorial: ETag and Last-Modified Headers in HTTP - unRepo"
+    },
+    {
+      "url": "https://dohost.us/index.php/2025/08/07/using-etag-and-last-modified-for-conditional-requests/",
+      "title": "Using ETag and Last-Modified for Conditional Requests"
+    },
+    {
+      "url": "https://www.kishorenewton.com/posts/http_headers_deep_dive_boosting_efficiency_with_cache_control_etag_and_last_modified/",
+      "title": "HTTP Headers Deep Dive: Boosting Efficiency with Cache ..."
+    }
+  ],
+  "conditional requests httpx if-none-match": [
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Conditional_requests",
+      "title": "HTTP conditional requests - HTTP | MDN"
+    },
+    {
+      "url": "https://http.dev/if-none-match",
+      "title": "If - None - Match - Expert Guide to HTTP headers"
+    },
+    {
+      "url": "https://www.trafiklab.se/sv/docs/using-trafiklab-data/best-practices/conditional-get-requests/",
+      "title": "Conditional GET requests | Trafiklab"
+    },
+    {
+      "url": "https://ilija.hashnode.dev/conditional-http-get-the-fastest-requests-need-no-response-body",
+      "title": "Conditional HTTP GET: The fastest requests need no response body"
+    }
+  ],
+  "content negotiation fastapi how to": [
+    {
+      "url": "https://medium.com/@denniskoko/implementing-content-negotiation-in-fastapi-371d03c59c02",
+      "title": "Implementing Content Negotiation in FASTAPI - Medium"
+    },
+    {
+      "url": "https://gist.github.com/erny/2569d6555bd9349e2afc110a63ffca1a",
+      "title": "FastAPI Simple content negotiation \u00b7 GitHub"
+    }
+  ],
+  "openapi schema examples for enums": [
+    {
+      "url": "https://stackoverflow.com/questions/79727568/how-to-expose-enum-to-fastapi-openapi-schema",
+      "title": "python - How to expose Enum to FastAPI OpenAPI schema ?"
+    },
+    {
+      "url": "https://www.priestch.com/how-to-show-enum-description-in-openapi-with-litestar/",
+      "title": "How to Show Additional Description for Enum Field in OpenAPI ..."
+    },
+    {
+      "url": "https://docs.apimatic.io/rulesets/openapi-v3-apimatic-linting/same-schema-enum-item-type/",
+      "title": "same- schema - enum -item-type | APIMatic Documentation"
+    }
+  ],
+  "json schema oneOf anyOf examples": [
+    {
+      "url": "https://json-schema.org/understanding-json-schema/reference/combining",
+      "title": "JSON Schema - Boolean JSON Schema combination"
+    },
+    {
+      "url": "https://apidog.com/blog/oneof-anyof-allof/",
+      "title": "OneOf , anyOf , allOf Tutorial"
+    },
+    {
+      "url": "https://ajv.js.org/json-schema.html",
+      "title": "JSON Schema | Ajv JSON schema validator"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/34038183/what-is-the-difference-between-anyof-and-oneof-in-z-schema",
+      "title": "json - What is the difference between \" anyof \" and \" oneof \" in..."
+    }
+  ],
+  "postman vs insomnia vs vscode rest client": [
+    {
+      "url": "https://www.jondjones.com/architecture/frameworks/visual-studio-code/best-vscode-api-client-postman-vs-thunderclient-vs-rest-client/",
+      "title": "Best VsCode API Client? Postman Vs Thunderclient Vs Rest ..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PJlE6UAFd5c",
+      "title": "Postman vs Insomnia vs VS Code REST - YouTube"
+    }
+  ],
+  "curl reproduce http request from har file": [
+    {
+      "url": "https://pypi.org/project/har2requests/",
+      "title": "Generate Python Requests code from HAR file"
+    },
+    {
+      "url": "https://www.c-sharpcorner.com/article/learn-postman-step-by-step-import-via-curl-har/",
+      "title": "Learn Postman Step By Step - Import Via cURL , HAR"
+    },
+    {
+      "url": "https://github.com/httptoolkit/curl-as-har-request/blob/main/README.md",
+      "title": "curl -as- har - request /README.md at main..."
+    }
+  ],
+  "vs code rest client multipart form-data example": [
+    {
+      "url": "https://stackoverflow.com/questions/72463721/how-to-upload-multiple-files-using-rest-client-in-vscode",
+      "title": "How to upload multiple files using rest-client in vscode"
+    },
+    {
+      "url": "https://github.com/Huachao/vscode-restclient",
+      "title": "GitHub - Huachao/vscode-restclient: REST Client Extension for ... Understanding multipart/form-data: The Ultimate Guide for ... How to upload multiple files in 1 call: multipart/form-data REST Client - Visual Studio Marketplace Multipart Form Data: REST API Examples - codopolis.net GitHub - Huachao/vscode-restclient: REST Client Extension for Visual Understanding multipart / form - data : The Ultimate Guide for ... - Medium Understanding multipart / form - data : The Ultimate Guide for ... - Medium Understanding multipart / form - data : The Ultimate Guide for ... - Medium Vscode Rest Client Multiple Images \u2013 COTP"
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client",
+      "title": "REST Client - Visual Studio Marketplace"
+    }
+  ],
+  "python requests stream large response chunks": [
+    {
+      "url": "https://stackoverflow.com/questions/78884650/receiving-streaming-server-response-chunk-by-chunk",
+      "title": "python - Receiving streaming server response chunk by chunk ..."
+    },
+    {
+      "url": "https://medium.com/@harshgolu82/streamline-big-data-requesting-data-in-chunks-with-pythons-requests-library-ddc0796b24ff",
+      "title": "Streamline Big Data : Requesting Data in Chunks with Python ..."
+    },
+    {
+      "url": "https://webscraping.ai/faq/requests/what-is-the-stream-parameter-in-requests-and-when-should-i-use-it",
+      "title": "What is the 'stream' parameter in Requests, and when should I ..."
+    }
+  ],
+  "http2 support in python httpx": [
+    {
+      "url": "https://www.python-httpx.org/",
+      "title": "A next-generation HTTP client for Python ."
+    }
+  ],
+  "grpc python quickstart bidi streaming": [
+    {
+      "url": "https://www.linkedin.com/pulse/grpc-protobuf-python-dhiraj-patra-n8isc",
+      "title": "gRPC and Protobuf with Python"
+    }
+  ],
+  "envoy grpc-web quickstart": [
+    {
+      "url": "https://grpc.io/docs/platforms/web/quickstart/",
+      "title": "Quick start | Web | gRPC"
+    },
+    {
+      "url": "https://medium.com/javarevisited/integrating-grpc-services-to-web-with-grpc-web-and-envoy-cbc43e528f50",
+      "title": "Integrating gRPC Services to Web with gRPC-Web and Envoy"
+    },
+    {
+      "url": "https://github.com/salrashid123/grpc_web_and_transcoding_with_envoy",
+      "title": "gRPC Web and gRPC Transcoding with Envoy - GitHub"
+    }
+  ],
+  "rate limiting token bucket algorithm python": [
+    {
+      "url": "https://python.plainenglish.io/rate-limiting-using-token-bucket-filter-84d34d7ec181",
+      "title": "Mastering Rate Limiting with the Token Bucket Algorithm ..."
+    },
+    {
+      "url": "https://pypi.org/project/netrun-ratelimit/",
+      "title": "Distributed rate limiting with token bucket algorithm and Redis..."
+    },
+    {
+      "url": "https://mlog.uz/en/blog/Python+Rate+Limiting:+Token+Bucket+vs.+Sliding+Window+-+A+Comprehensive+Guide",
+      "title": "Python Rate Limiting : Token Bucket vs. Sliding Window... | MLOG"
+    }
+  ],
+  "backpressure patterns in http servers": [
+    {
+      "url": "https://explain.technical.li/backpressure-on-the-web/",
+      "title": "Backpressure on the Web \u2014 How not to melt your sockets"
+    },
+    {
+      "url": "https://www.baeldung.com/spring-webflux-backpressure",
+      "title": "Backpressure Mechanism in Spring WebFlux - Baeldung"
+    },
+    {
+      "url": "https://www.ietf.org/archive/id/draft-soni-http-dynamic-backpressure-00.html",
+      "title": "Dynamic Backpressure for HTTP-based systems"
+    }
+  ],
+  "circuit breaker python library example": [
+    {
+      "url": "https://medium.com/@abhinav.manoj1503/circuit-breaker-pattern-in-microservices-using-flask-cf19e9ed6147",
+      "title": "Circuit Breaker pattern in microservices using Flask | Medium"
+    },
+    {
+      "url": "https://pypi.org/project/circuitbreaker/",
+      "title": "Python Circuit Breaker pattern implementation"
+    },
+    {
+      "url": "https://mlog.uz/en/blog/Python+Circuit+Breaker:+Fault+Tolerance+Implementation+for+Resilient+Applications",
+      "title": "Python Circuit Breaker : Fault Tolerance Implementation for... | MLOG"
+    },
+    {
+      "url": "https://bytegoblin.io/blog/circuit-breaker-pattern-in-python.mdx",
+      "title": "Circuit Breaker Pattern in Python | ByteGoblin.io"
+    },
+    {
+      "url": "https://everttimberg.io/blog/python-circuit-breaker/",
+      "title": "Circuit Breakers in Python - Evert Timberg"
+    }
+  ],
+  "opentelemetry sampling rate how to choose": [
+    {
+      "url": "https://opentelemetry.io/docs/concepts/sampling/",
+      "title": "Sampling - OpenTelemetry"
+    },
+    {
+      "url": "https://betterstack.com/community/guides/observability/opentelemetry-sampling/",
+      "title": "Sampling in OpenTelemetry: A Beginner's Guide Sampling Best Practices in OpenTelemetry | Is It Observable Advanced OpenTelemetry: Sampling, Filtering, and Enrichment Sampling | OpenTelemetry documentation - Grafana Labs OpenTelemetry Sampling: head-based and tail-based | Uptrace Sampling - OpenTelemetry OpenTelemetry Sampling : head-based and tail-based | Uptrace Sampling in OpenTelemetry : A Beginner's Guide OpenTelemetry Sampling : head-based and tail-based | Uptrace Mastering Adaptive Sampling in OpenTelemetry: Optimize ..."
+    },
+    {
+      "url": "https://isitobservable.io/open-telemetry/traces/trace-sampling-best-practices",
+      "title": "Sampling Best Practices in OpenTelemetry | Is It Observable"
+    },
+    {
+      "url": "https://last9.io/blog/opentelemetry-configurations-filtering-sampling-enrichment/",
+      "title": "Advanced OpenTelemetry: Sampling, Filtering, and Enrichment"
+    },
+    {
+      "url": "https://grafana.com/docs/opentelemetry/collector/sampling/",
+      "title": "Sampling | OpenTelemetry documentation - Grafana Labs"
+    }
+  ],
+  "prometheus histogram vs summary when": [
+    {
+      "url": "https://prometheus.io/docs/practices/histograms/",
+      "title": "Histograms and summaries - Prometheus"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/51146578/what-use-cases-really-make-prometheuss-summary-metrics-type-necessary-unique",
+      "title": "What use cases really make prometheus's summary metrics type ... Code sample"
+    },
+    {
+      "url": "https://victoriametrics.com/blog/prometheus-monitoring-metrics-counters-gauges-histogram-summaries/",
+      "title": "Prometheus Metrics Explained: Counters, Gauges, Histograms ..."
+    },
+    {
+      "url": "https://openobserve.ai/blog/prometheus-metrics-types/",
+      "title": "Prometheus Metric Types (Counters, Gauges, Histograms, Summaries)"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/sonali-patell_prometheus-monitoring-devops-activity-7387250981857804288-0rcD",
+      "title": "Prometheus: Histogram vs Summary for Monitoring - LinkedIn"
+    }
+  ],
+  "grafana alerting for error budget burn": [
+    {
+      "url": "https://grafana.com/blog/2019/11/27/kubecon-recap-how-to-include-latency-in-slo-based-alerting/",
+      "title": "[KubeCon Recap] How to Include Latency in... | Grafana Labs"
+    },
+    {
+      "url": "https://blog.alexewerlof.com/p/slo-elastic-datadog-grafana",
+      "title": "SLO: Elastic vs Datadog vs Grafana - Alex Ewerl\u00f6f Notes"
+    }
+  ],
+  "sli slo error budget examples": [
+    {
+      "url": "https://www.nobl9.com/resources/a-complete-guide-to-error-budgets-setting-up-slos-slis-and-slas-to-maintain-reliability",
+      "title": "A Complete Guide to Error Budgets: Setting up SLOs ... - Nobl9"
+    },
+    {
+      "url": "https://sreschool.com/blog/error-budgets-a-complete-guide/",
+      "title": "Error Budgets \u2013 A Complete Guide - SRE School"
+    },
+    {
+      "url": "https://medium.com/@sajal.devops/the-ultimate-guide-to-sli-slo-sla-error-budgets-c5714fa349ab",
+      "title": "The Ultimate Guide to SLI, SLO, SLA & Error Budgets - Medium"
+    },
+    {
+      "url": "https://www.backendbytes.com/system-design/sre-slos-slis-error-budgets-netflix-model/",
+      "title": "SRE Guide to SLOs, SLIs, and Error Budgets: The Netflix Model"
+    },
+    {
+      "url": "https://f.hubspotusercontent00.net/hubfs/5408306/Collateral+Assets/The+Comprehensive+Guide+on+SLIs,+SLOs,+and+Error+Budgets.pdf",
+      "title": "The Comprehensive Guide on SLIs, SLOs, and Error Budgets"
+    }
+  ],
+  "incident response runbook template": [
+    {
+      "url": "https://rootly.com/incident-response/runbooks",
+      "title": "Incident Responses - Incident Response Runbooks : Templates ..."
+    },
+    {
+      "url": "https://github.com/securitytemplates/sectemplates/blob/main/incident-response/v1/Incident_response_runbook.md",
+      "title": "sectemplates/ incident - response /v1/ Incident _ response _ runbook .md..."
+    },
+    {
+      "url": "https://www.figma.com/community/file/900065550410147322/incident-response-runbook",
+      "title": "Incident Response Runbook | Figma"
+    },
+    {
+      "url": "https://cloudairy.com/template/devops-runbook/",
+      "title": "DevOps Runbook Template for Streamlined Incident Response"
+    }
+  ],
+  "12 factor app config environment variables": [
+    {
+      "url": "https://djangoshelton.medium.com/the-practical-js-12-factor-application-iii-config-e6a5c9826c52",
+      "title": "The practical JS 12 factor application | III. Config | Medium"
+    },
+    {
+      "url": "https://dev.to/lsfernandes92/the-twelve-factor-app-config-18c5",
+      "title": "The Twelve- Factor App : Config - DEV Community"
+    }
+  ],
+  "pydantic settings env file example": [
+    {
+      "url": "https://docs.pydantic.dev/latest/concepts/pydantic_settings/",
+      "title": "Settings Management - Pydantic Validation"
+    },
+    {
+      "url": "https://fastapi.tiangolo.com/advanced/settings/",
+      "title": "Settings and Environment Variables - FastAPI"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/75709741/pydantic-nested-setting-objects-load-env-variables-from-file",
+      "title": "python - Pydantic nested setting objects load env variables from file"
+    },
+    {
+      "url": "https://python3.info/fastapi/pydantic/settings.html",
+      "title": "4.7. Pydantic Settings \u2014 Python - from None to AI"
+    }
+  ],
+  "timezone aware datetime python zoneinfo": [
+    {
+      "url": "https://medium.com/@silverskytechnology/understanding-python-date-and-time-naive-vs-aware-timedelta-timezone-handling-and-formatting-64cfc882be27",
+      "title": "Understanding Python Date and Time \u2014 Naive vs Aware ... | Medium"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/4530069/how-do-i-get-a-value-of-datetime-today-in-python-that-is-timezone-aware",
+      "title": "How do I get a value of datetime .today() in Python that is \" timezone ...&quo..."
+    },
+    {
+      "url": "https://www.learnbyexample.org/working-with-timezones-in-python/",
+      "title": "Working With TimeZones in Python - Learn By Example"
+    },
+    {
+      "url": "https://realpython.com/lessons/dealing-with-time-zones/",
+      "title": "Dealing With Time Zones (Video) \u2013 Real Python"
+    }
+  ],
+  "iso8601 parsing python fromisoformat pitfalls": [
+    {
+      "url": "https://stackoverflow.com/questions/127803/how-do-i-parse-an-iso-8601-formatted-date-and-time",
+      "title": "python - How do I parse an ISO 8601 -formatted date... - Stack Overflow"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/python/fromisoformat-function-of-datetime-date-class-in-python/",
+      "title": "fromisoformat () method - GeeksforGeeks"
+    },
+    {
+      "url": "https://sqlpey.com/python/top-12-methods-to-parse-iso-8601-dates-in-python/",
+      "title": "Top 12 Methods to Parse ISO 8601 Dates in Python - sqlpey"
+    },
+    {
+      "url": "https://www.pythontutorials.net/blog/how-to-require-a-timestamp-to-be-zero-padded-during-validation-in-python/",
+      "title": "How to Enforce Zero-Padded Timestamps in Python : Validating ISO..."
+    }
+  ],
+  "unicode normalization python examples": [
+    {
+      "url": "https://stackoverflow.com/questions/16467479/normalizing-unicode",
+      "title": "python - Normalizing Unicode - Stack Overflow"
+    },
+    {
+      "url": "https://proinsias.github.io/til/Python-Unicodedata-normalize-text/",
+      "title": "Python : Normalize text with unicodedata - Looking for data in all the..."
+    }
+  ],
+  "url encoding unicode idna punycode basics": [
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc3492",
+      "title": "RFC 3492: Punycode: A Bootstring encoding of Unicode for ..."
+    },
+    {
+      "url": "https://www.punycoder.com/punycode/",
+      "title": "Punycode explained"
+    },
+    {
+      "url": "https://dnschecker.org/idn-punycode-converter.php",
+      "title": "Punycode Converter - IDN Converter - Punycode to Unicode"
+    },
+    {
+      "url": "https://www.ionos.com/digitalguide/domains/domain-administration/punycode/",
+      "title": "How to convert domain names with Punycode - IONOS Punycode Converter / IDN Converter - Charset.org: Character ... punycode - Documentation \u2013 Technical Manuals From Unicode to Punycode A Technical Walkthrough - dn.org"
+    },
+    {
+      "url": "https://www.charset.org/punycode",
+      "title": "Punycode Converter / IDN Converter - Charset.org: Character ..."
+    }
+  ],
+  "git bisect how to minimal example": [
+    {
+      "url": "https://git-scm.com/docs/git-bisect",
+      "title": "Git - git-bisect Documentation"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/4713088/how-do-i-use-git-bisect",
+      "title": "How do I use git bisect? - Stack Overflow"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/git/git-bisect/",
+      "title": "Git bisect - GeeksforGeeks"
+    },
+    {
+      "url": "https://commandmasters.com/commands/git-bisect-common/",
+      "title": "How to use the command 'git bisect' (with examples)"
+    },
+    {
+      "url": "https://medium.com/@miguel.paracuellos.inf/git-bisect-3abf4cbbc5d7",
+      "title": "Git Bisect Explained: Find the Commit That Broke ... - Medium"
+    }
+  ],
+  "conventional commits rules cheat sheet": [
+    {
+      "url": "https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13",
+      "title": "Conventional Commits Cheatsheet \u00b7 GitHub"
+    },
+    {
+      "url": "https://ashababnoor.github.io/cheatsheets/cheatsheets/conventional-commits",
+      "title": "Conventional Commits Cheatsheet | Cheatsheets"
+    },
+    {
+      "url": "https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index",
+      "title": "Conventional Commits - Dash Cheat Sheets - Kapeli"
+    },
+    {
+      "url": "https://www.hrekov.com/blog/commits-rules",
+      "title": "Conventional Commits Cheat Sheet 2025 | Backend APIs, Web ..."
+    },
+    {
+      "url": "https://cheatography.com/albelop/cheat-sheets/conventional-commits/pdf/",
+      "title": "Conventional Commits Cheat Sheet by albelop - Cheatography"
+    }
+  ],
+  "generate changelog from conventional commits": [
+    {
+      "url": "https://github.com/conventional-changelog/conventional-changelog",
+      "title": "GitHub - conventional-changelog/conventional-changelog ..."
+    },
+    {
+      "url": "https://git-cliff.org/",
+      "title": "A highly customizable changelog generator \u26f0\ufe0f | git-cliff"
+    },
+    {
+      "url": "https://www.gitgroomer.com/changelog-generator/",
+      "title": "Free Online Changelog Generator from Git Commits | GitGroomer"
+    },
+    {
+      "url": "https://openchangelog.com/docs/getting-started/conventional-commits/",
+      "title": "Conventional Commits | Openchangelog Docs"
+    },
+    {
+      "url": "https://callowayproject.github.io/generate-changelog/howtos/conventional-commits/",
+      "title": "Conventional Commits - Generate Changelog"
+    }
+  ],
+  "tox vs nox choose which": [
+    {
+      "url": "https://www.youtube.com/watch?v=ImBvrDvK-1U",
+      "title": "NOX vs TOX \u2013 What are they for & how do you choose ? - YouTube"
+    },
+    {
+      "url": "https://buttondown.com/hynek/archive/the-endless-quest-for-simpler-workflows-nox-tox/",
+      "title": "The Endless Quest for Simpler Workflows: Nox , tox , and direnv"
+    },
+    {
+      "url": "https://www.tpsearchtool.com/web/tox-vs-nox-testing",
+      "title": "Unit Testing in Python \u2014 tox and nox - P\u2026 - Tox Vs Nox Testing"
+    },
+    {
+      "url": "https://rutube.ru/video/a6c06f57fd77e4c85b0820c6aa8b7245/",
+      "title": "Office Hours 2023-01-05 - Tox vs Nox ; a bit of research"
+    }
+  ],
+  "coverage.py branch coverage measure example": [
+    {
+      "url": "https://coverage.readthedocs.io/en/latest/branch.html",
+      "title": "Branch coverage measurement \u2014 Coverage . py 7.11.2 documentation"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/37304078/how-do-i-interpret-python-coverage-py-branch-coverage-results",
+      "title": "How do I interpret Python coverage . py branch ... - Stack Overflow"
+    }
+  ],
+  "pytest tmp_path factory usage": [
+    {
+      "url": "https://docs.pytest.org/en/7.1.x/how-to/tmp_path.html",
+      "title": "How to use temporary directories and files in tests \u2014 pytest ..."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/68994288/copy-contents-of-tmp-path-tmp-path-factory-for-use-in-the-next-test",
+      "title": "pytest - Copy contents of tmp_path -> tmp_path_factory for ..."
+    },
+    {
+      "url": "https://www.oreilly.com/library/view/python-testing-with/9781680509427/f_0048.xhtml",
+      "title": "Using tmp_path and tmp_path_factory - Python Testing with ..."
+    }
+  ],
+  "hypothesis property based testing tutorial": [
+    {
+      "url": "https://hypothesis.readthedocs.io/",
+      "title": "Hypothesis 6.148.7 documentation"
+    },
+    {
+      "url": "https://pytest-with-eric.com/pytest-advanced/hypothesis-testing-python/",
+      "title": "How to Use Hypothesis and Pytest for Robust Property - Based ..."
+    },
+    {
+      "url": "https://github.com/rsokl/testing-tutorial",
+      "title": "GitHub - rsokl/ testing - tutorial : Property - based testing tutorial"
+    },
+    {
+      "url": "https://www.teach.cs.toronto.edu/~csc110y/fall/notes/04-function-specification-and-correctness/04-testing-functions-2.html",
+      "title": "4.4 Testing Functions II: hypothesis"
+    }
+  ],
+  "responses library mock http requests pytest": [
+    {
+      "url": "https://webscraping.ai/faq/requests/how-do-i-mock-http-requests-for-testing-with-requests",
+      "title": "How do I mock HTTP requests for testing with... | WebScraping.AI"
+    },
+    {
+      "url": "https://deepwiki.com/getsentry/responses/3.1-using-as-a-decorator",
+      "title": "Using as a Decorator | getsentry/ responses | DeepWiki"
+    }
+  ],
+  "httpx mocking with respx example": [
+    {
+      "url": "https://dev.to/keploy/mocking-httpx-requests-with-respx-a-comprehensive-guide-4o7i",
+      "title": "Mocking HTTPX Requests with RESPX: A Comprehensive Guide"
+    },
+    {
+      "url": "https://lundberg.github.io/respx/",
+      "title": "RESPX - GitHub Pages"
+    },
+    {
+      "url": "https://github.com/lundberg/respx",
+      "title": "GitHub - lundberg/respx: Mock HTTPX with awesome request ... Mocking Httpx Requests With Respx: A Comprehensive Guide respx \u00b7 PyPI How to mock with respx when httpx client is wrapped in a class RESPX - Mock HTTPX with awesome request patterns and response ... RESPX - GitHub Pages Mocking Httpx Requests With Respx : A Comprehensive Guide Mocking Httpx Requests With Respx : A Comprehensive Guide User Guide - RESPX - GitHub Pages"
+    },
+    {
+      "url": "https://keploy.io/blog/community/mocking-httpx-requests-with-respx-a-comprehensive-guide",
+      "title": "Mocking Httpx Requests With Respx: A Comprehensive Guide"
+    },
+    {
+      "url": "https://pypi.org/project/respx/",
+      "title": "respx \u00b7 PyPI"
+    }
+  ],
+  "minimal reproducible example template github": [
+    {
+      "url": "https://github.com/capawesome-team/.capacitor-app",
+      "title": "\u26a1\ufe0f Capacitor app template to create a minimal, reproducible ..."
+    }
+  ],
+  "readme template for tiny playground repos": [
+    {
+      "url": "https://www.readme-templates.com/",
+      "title": "GitHub README Templates"
+    },
+    {
+      "url": "https://everhour.com/blog/github-readme-template/",
+      "title": "How to Write a Github README .md That Developers Actually Read"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eVGEea7adDM",
+      "title": "ReadMe Template for Github Repos - YouTube"
+    },
+    {
+      "url": "https://awesomeopensource.com/projects/readme-template",
+      "title": "The Top 23 Readme Template Open Source Projects"
+    }
+  ],
+  "mkdocs material admonitions examples": [
+    {
+      "url": "https://squidfunk.github.io/mkdocs-material/reference/admonitions/",
+      "title": "Admonitions - Material for MkDocs - GitHub Pages"
+    },
+    {
+      "url": "https://github.com/squidfunk/mkdocs-material/blob/master/docs/reference/admonitions.md",
+      "title": "mkdocs-material/docs/reference/admonitions.md at master ..."
+    },
+    {
+      "url": "https://henrywhitaker3.github.io/mkdocs-material-dark-theme/extensions/admonition/",
+      "title": "Admonition - Material for MkDocs - GitHub Pages"
+    },
+    {
+      "url": "https://github.com/squidfunk/mkdocs-material/discussions/4846",
+      "title": "Material admonitions \u00b7 squidfunk mkdocs-material - GitHub"
+    }
+  ],
+  "run sphinx docs locally make html": [
+    {
+      "url": "https://www.sphinx-doc.org/en/master/usage/quickstart.html",
+      "title": "Getting started \u2014 Sphinx documentation"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/46341816/how-to-generate-html-documentation-with-python-sphinx",
+      "title": "How to generate HTML Documentation with Python-Sphinx? Code sample"
+    },
+    {
+      "url": "https://sphinx-intro-tutorial.readthedocs.io/en/latest/sphinx_first_steps.html",
+      "title": "Building a Documentation Project with Sphinx - Intro to ..."
+    },
+    {
+      "url": "https://medium.com/@cissyshu/a-step-by-step-guide-to-automatic-documentation-using-sphinx-a697dbbce0e7",
+      "title": "A step-by-step guide to automatic documentation using Sphinx"
+    },
+    {
+      "url": "https://www.docslikecode.com/learn/01-sphinx-python-rtd/",
+      "title": "Set Up Sphinx with Python - Let\u2019s Treat Docs Like Code Sphinx & Python->Implementing a Code Documentation Generator Building a Documentation Project with Sphinx Getting started \u2014 Sphinx documentation A step-by-step guide to automatic documentation using Sphinx Building a Documentation Project with Sphinx Setting up a Sphinx site \u2014 Home - Writing technically"
+    }
+  ],
+  "fastapi docs contribution guide": [],
+  "zeal docsets python 3.12 download": [
+    {
+      "url": "https://zealdocs.org/",
+      "title": "Zeal - Offline Documentation Browser"
+    },
+    {
+      "url": "https://codeyarns.wordpress.com/2014/07/22/how-to-add-a-docset-to-zeal/",
+      "title": "How to add a docset to Zeal \u2013 Code Yarns"
+    }
+  ],
+  "obsidian dataview tasks query examples": [
+    {
+      "url": "https://publish.obsidian.md/tasks/Other+Plugins/Dataview",
+      "title": "Dataview - Tasks User Guide - Obsidian Publish"
+    },
+    {
+      "url": "https://nattochdag.dev/posts/dataview",
+      "title": "Practical dataview examples for Obsidian"
+    },
+    {
+      "url": "https://s-blu.github.io/obsidian_dataview_example_vault/20+Dataview+Queries/Basic+Task+Queries/",
+      "title": "Basic Task Queries - Dataview Example Vault"
+    }
+  ],
+  "obsidian daily note template frontmatter": [
+    {
+      "url": "https://robdunn.dev/posts/daily-notes/",
+      "title": "Obsidian Daily Note Template | Rob Dunn"
+    },
+    {
+      "url": "https://dannb.org/blog/2022/obsidian-daily-note-template/",
+      "title": "My Obsidian Daily Note Template - Dann B"
+    },
+    {
+      "url": "https://blog.obsibrain.com/other-articles/the-ultimate-guide-to-obsidian-daily-notes-template-proven-strategies-that-drive-better-results",
+      "title": "The Ultimate Guide to Obsidian Daily Notes Template: Proven ..."
+    }
+  ],
+  "spaced repetition cloze deletion tips": [
+    {
+      "url": "https://studyhacks.org/spaced-repetition-6-steps-to-better-memory/",
+      "title": "The Ultimate Guide To Spaced Repetition \u2013 6 Steps To Improve ..."
+    },
+    {
+      "url": "https://www.31memorize.com/post/common-mistakes-in-using-spaced-repetition-and-how-to-fix",
+      "title": "Common Mistakes in Using Spaced Repetition and How to Fix"
+    },
+    {
+      "url": "https://www.savemyexams.com/learning-hub/revision-tips/create-a-spaced-repetition-schedule-to-boost-memory/",
+      "title": "Create a Spaced Repetition Schedule to Boost Memory"
+    }
+  ],
+  "print friendly cheat sheets http status sqlite joins regex": [
+    {
+      "url": "https://github.com/charles-lehman/cheat-sheets/blob/master/sqlite-cheat-sheet.md",
+      "title": "cheat-sheets/sqlite-cheat-sheet.md at master - GitHub"
+    },
+    {
+      "url": "https://www.sqlitetutorial.net/sqlite-cheat-sheet/",
+      "title": "SQLite Cheat Sheet SQLite3 Commands Cheat Sheet \u2013 Quick Reference Guide (2025) How to use regular expressions (regex) in SQLite SQLite cheat sheet v5.1 - Stephen Davies SQLite cheatsheet from opensource.com How to use regular expressions ( regex ) in SQLite How to use regular expressions ( regex ) in SQLite SQLite3 Cheat Sheet - Vicente Hernando SQLite3 Cheat Sheet - Vicente Hernando"
+    },
+    {
+      "url": "https://stephentech.bearblog.dev/sqlite3-commands-cheat-sheet/",
+      "title": "SQLite3 Commands Cheat Sheet \u2013 Quick Reference Guide (2025)"
+    },
+    {
+      "url": "http://stephendavies.org/cpsc350/sqlite3cheatSheet.pdf",
+      "title": "SQLite cheat sheet v5.1 - Stephen Davies"
+    }
+  ],
+  "python release notes rss feed": [
+    {
+      "url": "https://www.python.org/downloads/release/python-3139/",
+      "title": "Python Release Python 3.13.9 | Python .org"
+    }
+  ],
+  "postgres 16 release notes highlights": [
+    {
+      "url": "https://www.postgresql.org/docs/16/release.html",
+      "title": "PostgreSQL: Documentation: 16: Appendix E. Release Notes"
+    },
+    {
+      "url": "https://www.infoworld.com/article/2334819/4-key-new-features-in-postgresql-16.html",
+      "title": "4 key new features in PostgreSQL 16 - InfoWorld"
+    },
+    {
+      "url": "https://pganalyze.com/blog/5mins-postgres-16",
+      "title": "Postgres 16 is released! - pganalyze"
+    },
+    {
+      "url": "https://pgpedia.info/postgresql-versions/postgresql-16.html",
+      "title": "PostgreSQL 16 - pgPedia - a PostgreSQL Encyclopedia Highlights from the PostgreSQL 16 Beta Release - EDB PostgreSQL 16 Released with Notable Improvements - Linuxiac Postgres 16: What\u2019s New - PGConf_2024"
+    },
+    {
+      "url": "https://www.enterprisedb.com/blog/highlights-postgresql-16-beta-release",
+      "title": "Highlights from the PostgreSQL 16 Beta Release - EDB"
+    }
+  ],
+  "redis 7 release notes new features": [
+    {
+      "url": "https://redis.io/docs/latest/operate/rc/changelog/version-release-notes/7-4/",
+      "title": "Redis 7.4 release notes and breaking changes | Docs"
+    },
+    {
+      "url": "https://redis.io/docs/latest/operate/oss_and_stack/stack-with-enterprise/release-notes/redisce/redisce-7.4-release-notes/",
+      "title": "Redis Community Edition 7.4 release notes | Docs"
+    },
+    {
+      "url": "https://redis.io/docs/latest/develop/whats-new/",
+      "title": "What's new? | Docs - Redis"
+    },
+    {
+      "url": "https://github.com/redis/redis/releases",
+      "title": "Releases \u00b7 redis/redis - GitHub"
+    }
+  ],
+  "django 5.1 whats new summary": [
+    {
+      "url": "https://docs.djangoproject.com/en/5.2/releases/5.1/",
+      "title": "Django 5.1 release notes | Django documentation | Django"
+    },
+    {
+      "url": "https://www.vindevs.com/blog/whats-new-in-django-51-a-comprehensive-overview-p58/",
+      "title": "What's New in Django 5.1: A Comprehensive Overview - VinDevs Django 5.1 Release: What\u2019s New and Improved - Medium Upgrade Django v5.1.x | Upgrade Django Django News - Django 5.1 is out! Get ready for Django 5.1 \u2014 coming August 2024 - UnfoldAI Django News - Django 5 . 1 is out! Django News - Django 5 . 1 is out! Django 5 . 1 release notes | Django documentation | Django Django 5 . 1 release notes | Django documentation | Django What's new in Django 5.1 - Jeff Triplett's Micro.blog"
+    },
+    {
+      "url": "https://medium.com/@shadafroughblog/django-5-1-release-whats-new-and-improved-629c6d938408",
+      "title": "Django 5.1 Release: What\u2019s New and Improved - Medium"
+    },
+    {
+      "url": "https://django-news.com/issues/245",
+      "title": "Django News - Django 5.1 is out!"
+    }
+  ],
+  "pytest 8 release notes": [
+    {
+      "url": "https://docs.pytest.org/en/stable/changelog.html",
+      "title": "Changelog - pytest documentation"
+    },
+    {
+      "url": "https://github.com/pytest-dev/pytest/releases",
+      "title": "Releases \u00b7 pytest-dev/pytest - GitHub"
+    }
+  ],
+  "pydantic v2 breaking changes list": [
+    {
+      "url": "https://github.com/pydantic/pydantic",
+      "title": "GitHub - pydantic/pydantic: Data validation using Python type hints"
+    },
+    {
+      "url": "https://pydantic.com.cn/ru/",
+      "title": "\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u0432 Pydantic - \u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f Pydantic"
+    }
+  ],
+  "sql injection prevention parameterized queries python": [
+    {
+      "url": "https://realpython.com/prevent-python-sql-injection/",
+      "title": "Preventing SQL Injection Attacks With Python"
+    },
+    {
+      "url": "https://www.aicodesnippet.com/python/advanced-topics-and-specializations/sql-injection-prevention-with-parameterized-queries.html",
+      "title": "Python : SQL Injection Prevention with Parameterized Queries"
+    },
+    {
+      "url": "https://tech-champion.com/database/prevent-sql-injection-in-python-with-parameterized-queries/",
+      "title": "Prevent SQL Injection in Python with Parameterized Queries"
+    },
+    {
+      "url": "https://labex.io/tutorials/python-how-to-use-parameterized-queries-safely-437628",
+      "title": "How to use parameterized queries safely - LabEx"
+    }
+  ],
+  "sanitize user input fastapi pydantic": [
+    {
+      "url": "https://www.reddit.com/r/FastAPI/comments/172if6e/is_using_pydantic_enough_for_data_sanitization/",
+      "title": "Is using pydantic enough for data sanitization? : r/FastAPI"
+    },
+    {
+      "url": "https://pytutorial.com/fastapi-validation-with-pydantic-models/",
+      "title": "FastAPI Validation with Pydantic Models - PyTutorial"
+    },
+    {
+      "url": "https://medium.com/@mojimich2015/fastapi-custom-validations-using-pydantic-c417d0e99020",
+      "title": "FastAPI Custom Validations Using Pydantic - Medium"
+    },
+    {
+      "url": "https://dev.to/blamsa0mine/-validating-user-input-with-fastapi-an-example-with-custom-validators-24l0",
+      "title": "Validating User Input with FastAPI: An ... - DEV Community"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Wh8EX7bAC2A",
+      "title": "FastAPI Tutorial #5 - Data Validation in FastAPI with ... Pydantic Form Data in FastAPI: A Detailed Tutorial - Orchestra Validating User Input with FastAPI : An Example ... - DEV Community Pydantic Form Data in FastAPI : A Detailed Tutorial - Orchestra Pydantic Form Data in FastAPI : A Detailed Tutorial - Orchestra Pydantic Form Data in FastAPI : A Detailed Tutorial - Orchestra FastAPI - Pydantic - GeeksforGeeks"
+    }
+  ],
+  "cors in fastapi allow origins example": [
+    {
+      "url": "https://fastapi.tiangolo.com/tutorial/cors/",
+      "title": "CORS (Cross-Origin Resource Sharing) - FastAPI"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/python/configuring-cors-in-fastapi/",
+      "title": "Configuring CORS in FastAPI - GeeksforGeeks"
+    },
+    {
+      "url": "https://www.slingacademy.com/article/fixing-fastapi-error-origin-blocked-by-cors-policy/",
+      "title": "Fixing FastAPI Error: Origin Blocked by CORS Policy"
+    },
+    {
+      "url": "https://davidmuraya.com/blog/fastapi-cors-configuration/",
+      "title": "Blocked by CORS in FastAPI? Here\u2019s How to Fix It"
+    },
+    {
+      "url": "https://pytutorial.com/add-cors-middleware-to-fastapi-apps/",
+      "title": "Add CORS Middleware to FastAPI Apps - PyTutorial"
+    }
+  ],
+  "docker compose watch flask fastapi reload": [
+    {
+      "url": "https://stackoverflow.com/questions/69460295/how-to-enable-live-reload-in-a-dockerised-fastapi-application-using-docker-compo",
+      "title": "How to enable live- reload in a dockerised FastAPI ... - Stack Overflow"
+    },
+    {
+      "url": "https://medium.com/@parkpoom.wiss/fast-api-docker-development-reload-while-editing-main-py-274fd32200ee",
+      "title": "Fast API \u2014 Reload server while editing \u201cmain.py\u201d in Docker ... | Medium"
+    },
+    {
+      "url": "https://forums.docker.com/t/docker-compose-watch-keeps-cycling-fastapi-app-on-sync-restart/144559",
+      "title": "Docker compose -- watch keeps cycling FastAPI app on sync+restart"
+    }
+  ],
+  "justfile vs makefile python project": [
+    {
+      "url": "https://glinteco.com/en/post/comparing-makefile-and-just-which-one-should-you-choose/",
+      "title": "Glinteco | Blog | Comparing Makefile and Just : Which One Should You..."
+    },
+    {
+      "url": "https://peterborocz.blog/posts/nano/just_vs_makefiles/",
+      "title": "Just vs Makefiles - Flirting with Neutrality"
+    },
+    {
+      "url": "https://suyog942.medium.com/why-justfile-outshines-makefile-in-modern-devops-workflows-a64d99b2e9f0",
+      "title": "Why Justfile Outshines Makefile in Modern DevOps... | Medium"
+    },
+    {
+      "url": "https://devopstoolkit.live/ci-cd/from-makefile-to-justfile-or-taskfile-recipe-runner-replacement/",
+      "title": "From Makefile to Justfile (or Taskfile): Recipe Runner Replacement"
+    }
+  ],
+  "poetry vs uv vs pip-tools comparison": [
+    {
+      "url": "https://envelope.dev/blog/poetry-vs-uv-vs-pip-choosing-the-right-package-installer",
+      "title": "Poetry vs Uv vs Pip: Choosing the Right Package Installer"
+    },
+    {
+      "url": "https://jinaldesai.com/python-pip-vs-pdm-vs-poetry-vs-uv/",
+      "title": "Python Pip vs PDM vs Poetry vs UV - Jinal Desai"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/choosing-right-python-package-manager-pip-vs-poetry-uv-nipun-david-6aspc",
+      "title": "Choosing the Right Python Package Manager: pip vs poetry vs ..."
+    },
+    {
+      "url": "https://sudhanva.me/conda-vs-poetry-vs-uv-vs-pip/",
+      "title": "conda vs poetry vs uv vs pip - sudhanva.me"
+    }
+  ],
+  "virtualenv vs venv differences": [
+    {
+      "url": "https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe",
+      "title": "python - What is the difference between venv, pyvenv, pyenv ... Usage example"
+    },
+    {
+      "url": "https://mmadeveloper.com/venv-vs-virtualenv/",
+      "title": "Venv vs Virtualenv: A Comprehensive Guide to Python Environments"
+    },
+    {
+      "url": "https://brentter.com/notes/venv-or-virtualenv-whats-the-difference/",
+      "title": "Venv or Virtualenv? A Short Guide To Virtual Environments"
+    },
+    {
+      "url": "https://pythonhow.com/what/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrapper-pipenv/",
+      "title": "What is the difference between venv, pyvenv, pyenv ..."
+    },
+    {
+      "url": "https://www.purfe.com/virtualenv-and-venv-comparison-and-step-by-step-guide-for-virtual-environments-in-python/",
+      "title": "virtualenv and venv: Comparison and Step-by-Step Guide for ..."
+    }
+  ],
+  "node 20 features summary": [],
+  "typescript generics constraints example": [
+    {
+      "url": "https://www.typescriptlang.org/docs/handbook/2/generics.html",
+      "title": "TypeScript: Documentation - Generics"
+    },
+    {
+      "url": "https://www.typescripttutorial.net/typescript-tutorial/typescript-generic-constraints/",
+      "title": "TypeScript Generic Constraints"
+    },
+    {
+      "url": "https://dev.to/dimerbwimba/whats-generics-constraints-in-typescript-with-practical-examples-2pgh",
+      "title": "What are Generics Constraints in TypeScript ? Practical Examples"
+    },
+    {
+      "url": "https://www.slingacademy.com/article/adding-type-constraints-in-typescript-generics/",
+      "title": "Adding Type Constraints in TypeScript Generics - Sling Academy"
+    },
+    {
+      "url": "https://www.xjavascript.com/blog/typescript-generic-constraint/",
+      "title": "Mastering TypeScript Generic Constraints \u2014 xjavascript.com"
+    }
+  ],
+  "express vs fastify performance": [
+    {
+      "url": "https://michaelguay.dev/express-vs-fastify-a-performance-benchmark-comparison/",
+      "title": "Express vs Fastify: A Performance Benchmark Comparison"
+    },
+    {
+      "url": "https://markaicode.com/express-vs-fastify-2025-performance-migration-guide/",
+      "title": "Express.js vs Fastify 2025: API Performance Benchmarks and ..."
+    },
+    {
+      "url": "https://betterstack.com/community/guides/scaling-nodejs/fastify-express/",
+      "title": "Express.js vs Fastify: An In-Depth Framework Comparison"
+    }
+  ],
+  "prisma postgres transaction example": [
+    {
+      "url": "https://medium.com/@yisarasaq2018/database-transaction-in-prisma-with-nestjs-and-postgres-a4bb4bbb6426",
+      "title": "Database Transaction in Prisma With Nestjs and Postgres"
+    },
+    {
+      "url": "https://www.prisma.io/dataguide/postgresql/inserting-and-modifying-data/using-transactions",
+      "title": "Using Transactions | Inserting and modifying data | PostgreSQL - Prisma"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/transactions-rollback-postgresql-using-prisma-azir-uddin-ggvof",
+      "title": "Transactions and rollback in PostgreSQL using Prisma"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/73939849/prisma-how-to-write-transaction-where-results-from-one-query-are-used-by-anothe",
+      "title": "postgresql - Prisma: how to write transaction where results from one ..."
+    }
+  ]
+}

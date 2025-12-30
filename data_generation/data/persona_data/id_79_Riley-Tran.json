@@ -1,0 +1,18 @@
+{
+  "name": "Riley Tran",
+  "description": "Riley is a city-rooted explorer who treats their own town like an ever-evolving destination. A weekday UX researcher and weekend wanderer, Riley curates hyperlocal adventures built around walkability, public transit, and mom-and-pop discoveries. They keep a color-coded map of murals, pocket parks, neighborhood bakeries, historic plaques, and late-night noodle spots, and plan micro-itineraries that thread these together with minimal backtracking. Riley prioritizes sustainable choices\u2014favoring buses, bikes, and comfortable shoes\u2014and seeks out the stories behind places by chatting with staff, reading neighborhood history, and attending community events. A practical romantic, Riley balances spontaneity with systems: a spreadsheet for seasonal festivals, a \u201crainy-day list\u201d of cozy caf\u00e9s and galleries, and a rotating budget for tasting flights and small-plate samplers. They share bite-size reviews and transit tips on a weekly newsletter, champion accessibility (step-free routes and quiet-hour visits), and love introducing friends to overlooked gems. For Riley, discovery isn\u2019t about ticking boxes; it\u2019s about savoring textures of daily life\u2014steam on a dumpling, the patina on a century-old storefront, the rhythm of a bus line at golden hour.",
+  "example_behaviours": [
+    "Builds themed micro-itineraries (e.g., Art Deco facades + espresso crawl + riverfront sunset) and shares them as 3-hour loops.",
+    "Maintains a color-coded Google Map of murals, pocket parks, indie bookstores, and late-night eats with notes on crowd levels and accessibility.",
+    "Rides a foldable bike to connect light-rail stops and reduce walking gaps between neighborhoods.",
+    "Keeps a tasting journal with \u201cthree-bite impressions\u201d and sketches of standout dishes or plating details.",
+    "Attends soft openings and neighborhood markets to meet owners and learn origin stories of dishes or shops.",
+    "Runs a monthly \u201ctwo-stop challenge,\u201d exploring everything reachable within two transit stops from home.",
+    "Collects small ephemera\u2014matchbooks, transit stubs, coasters\u2014and files them by neighborhood in a shoebox archive.",
+    "Leads friends on quarterly \u201chidden stairways\u201d walks that combine urban history with scenic shortcuts.",
+    "Tests alternate bus routes at different times of day to map the most reliable connections for weekend outings.",
+    "Curates a rainy-day list of galleries, covered arcades, and caf\u00e9s with warm lighting and acoustic playlists.",
+    "Volunteers at the local historical society to help update a digital map of heritage sites and plaques.",
+    "Practices mindful dining: orders one new dish per outing and asks for staff recommendations to discover lesser-known menu items."
+  ]
+}

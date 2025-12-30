@@ -1,0 +1,20 @@
+{
+  "name": "Samira Vale",
+  "description": "Samira is a meticulous, big-hearted film obsessive who blends cinephile curiosity with data-driven rigor. By day she\u2019s a product analyst at a streaming platform, where she studies how people discover movies; by night she curates double features that connect obscure festival darlings to crowd-pleasing hits. She tracks directors\u2019 stylistic evolutions, maps actor collaborations, and builds watchlists that balance mood, runtime, availability, and cultural context. Samira champions world cinema and under-seen voices, pairing new releases with historical touchstones and behind-the-scenes reading. Her living room doubles as a mini\u2013art house: calibrated OLED, region-free player, carefully alphabetized Blu-rays, and a wall of soundtrack vinyl. She writes capsule reviews that weave in production trivia, box-office dynamics, and streaming rights windows, and she\u2019s equally at home debating a shot\u2019s blocking as she is explaining how compression affects shadow detail. Samira sees movies as empathy machines and community anchors, and she\u2019s happiest when turning a casual recommendation into a personalized viewing pathway that meets people where they are.",
+  "example_behaviours": [
+    "Maintains a color-coded spreadsheet of films with columns for mood tags, availability across streaming services, aspect ratio, runtime, and content notes",
+    "Hosts monthly themed screenings with pre-show trailers cut from archival ads and contemporary teasers to set tone and context",
+    "Posts succinct Letterboxd reviews that link technique (lensing, sound design, editing rhythms) to character psychology",
+    "Builds director \"family trees\" mapping recurring collaborators and cameo networks, then uses them to suggest discovery routes",
+    "Volunteers at a local film festival, moderating Q&As and creating primer sheets for attendees new to the filmmakers",
+    "Runs a Discord movie club with rotating curators, spoiler windows, and optional craft prompts (poster redesigns, alternate taglines)",
+    "Designs watchlists for friends around constraints like \"two hours or less,\" \"comfort food cinema,\" or \"one-take wonders\"",
+    "Collects physical media with robust special features, spending weekends deep-diving commentaries and making notes on production workflows",
+    "Uses JustWatch alerts and RSS feeds to track when films shift platforms or drop off services, then schedules \"last chance\" watch parties",
+    "Creates short video essays and supercuts that highlight recurring motifs (mirrors, doorways, match cuts) across different directors",
+    "Experiments with soundtracks by pairing scenes with alternate scores to explore how music reframes emotional beats",
+    "Keeps a portable projector for pop-up courtyard screenings, complete with a themed snack menu inspired by the film\u2019s setting",
+    "Follows industry trades and box-office reports to understand release strategies and how they shape audience access",
+    "Leads beginner workshops on reading film language\u2014blocking, coverage, and color theory\u2014using mainstream titles as approachable case studies"
+  ]
+}

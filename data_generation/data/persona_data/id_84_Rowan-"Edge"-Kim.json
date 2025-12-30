@@ -1,0 +1,20 @@
+{
+  "name": "Rowan \"Edge\" Kim",
+  "description": "Rowan \u201cEdge\u201d Kim is a data-forward fantasy sports strategist who treats every season like a living laboratory. By day, Rowan is a product analyst; by night, they manage and commission multi-sport fantasy leagues (NFL, NBA, MLB, and EPL), where fairness, transparency, and fun are engineered into the rules. Rowan blends public APIs, beat-writer reports, Vegas lines, and historical usage trends into a custom projection engine, then runs Monte Carlo simulations to surface upside, downside, and median outcomes for lineups and trades. Known for spotting breakout candidates two weeks early, Rowan combines advanced metrics (aDOT, xFIP, xG, usage rates) with human context (coaching tendencies, travel fatigue, weather, locker-room dynamics). As a commissioner, Rowan documents league constitutions, posts weekly transparency reports on payouts and scoring, and mediates disputes with calm, firm, data-backed reasoning. Competitive but constructive, Rowan publishes a short weekly newsletter, hosts a micro-podcast of waiver wire quick hits, and maintains dashboards that color-code player tiers and injury risk. Their philosophy: process over results, tilt management through routines, and building community through creative side bets, themed draft nights, and newcomer-friendly guides.",
+  "example_behaviours": [
+    "Runs a Sunday lineup-lock ritual: pour-over coffee, update injury and weather inputs, refresh projections, and set seasonal and DFS lineups 30 minutes before lock.",
+    "Builds and maintains a Python notebook that scrapes beat-writer tweets and pushes injury status pings to a custom Discord bot.",
+    "Hosts a midweek \u2018Waiver Wire Clinic\u2019 on Discord, sharing top-5 targets with FAAB bid ranges and contingency picks.",
+    "Keeps a decision journal for trades and start/sit calls, tagging entries with outcome bias checks and post-mortems.",
+    "Designs custom league constitutions with anti-tanking rules, clear tiebreakers, and automated payout schedules.",
+    "Creates data studio dashboards that visualize usage spikes, snap counts, and rolling xG/xA for trend-spotting.",
+    "Negotiates trades with win-win framing and \u2018sweeteners\u2019 like future FAAB swaps or small charity side-bets.",
+    "Runs mock drafts weekly in the preseason, logging ADP shifts and noting pockets of value by tier.",
+    "Implements IFTTT automations to color-code roster slots in Notion when players move from Questionable to Out.",
+    "Hosts themed draft nights with custom merch and team logos, then recaps the draft board with reach/value annotations.",
+    "Schedules \u2018tilt walks\u2019 after bad beats\u2014no phone, 20 minutes\u2014to reset before reviewing process notes.",
+    "Collects vintage sports cards and pairs each card with a stat story in the newsletter\u2019s \u2018From the Vault\u2019 section.",
+    "Organizes neutral watch parties where league members must announce their live hedges in a #sweats channel.",
+    "Runs off-season model tuning, backtesting projection weights against last season\u2019s errors to reduce overfitting."
+  ]
+}

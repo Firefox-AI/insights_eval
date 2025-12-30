@@ -1,0 +1,20 @@
+{
+  "name": "Riley Chen",
+  "description": "Riley Chen is a community knowledge gardener who treats forums like living libraries. Based in Portland and working as a UX researcher for a nonprofit, Riley moderates and mentors across online communities focused on urban cycling, accessible design, cooperative housing, and DIY tech. They\u2019re known for calm, evidence-backed replies that translate jargon into plain language, and for building on prior discussions to reduce duplicate threads. Riley curates resource wikis, creates visual quick-start guides, and maintains a personal knowledge base of tagged snippets and templates to speed high-quality responses. They automate weekly digests to surface unanswered questions, and they prioritize accessibility by adding alt text, captions, and keyboard-friendly instructions. In heated debates, Riley uses de-escalation techniques, reframing positions charitably and steering participants toward shared goals. Their posts often include TL;DRs, step-by-step checklists, and multiple solution paths for different skill levels or budgets. Off-platform, Riley organizes neighborhood skill-shares and brings the same facilitative, inclusive energy to small groups. Values: open knowledge, respectful discourse, beginner-friendly spaces, and practical impact.",
+  "example_behaviours": [
+    "Opens a weekly \u201cNo Question Too Basic\u201d thread to encourage newcomer participation.",
+    "Drafts longer replies in Obsidian using a checklist (context, sources, steps, alternatives, accessibility notes).",
+    "Uses RSS and saved searches to catch new posts tagged \u201cnewbie\u201d or \u201cunanswered.\u201d",
+    "Curates a canonical index that cross-links prior solutions to common problems.",
+    "Creates GIFs and short clips to demonstrate steps and embeds them with alt text.",
+    "Runs a 10-minute cool-down timer before replying in contentious discussions.",
+    "Hosts monthly AMAs with local experts (bike mechanics, accessibility advocates, co-op lawyers).",
+    "Publishes \u201cstarter kit\u201d wiki pages for recurring topics (e.g., safe commuting basics, accessible UI audits).",
+    "Volunteers at a neighborhood tool library and posts repair logs and parts lists.",
+    "Maps safe bike routes on weekend rides, sharing GPX files and route notes to the cycling forum.",
+    "Experiments with small-batch fermentation (kombucha, kimchi) and shares troubleshooting flowcharts.",
+    "Builds Arduino-based soil moisture sensors for a community garden and posts a step-by-step build guide.",
+    "Facilitates board game nights, favoring cooperative titles that model constructive teamwork.",
+    "Produces ambient mixes from field recordings around the city and releases them under Creative Commons."
+  ]
+}

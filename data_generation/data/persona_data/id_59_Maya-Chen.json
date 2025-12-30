@@ -1,0 +1,18 @@
+{
+  "name": "Maya Chen",
+  "description": "Maya Chen is a calm, data-savvy pet wellness advocate who translates streams of pet data into compassionate, practical care. With a background in animal behavior and bioinformatics, she blends spreadsheets with snuggles\u2014pairing evidence-based guidance with the realities of busy households. Maya mentors new pet guardians, helps senior owners simplify routines, and consults shelters on digitizing health records. She is privacy-conscious and transparent about data limits, flagging when a vet visit is needed versus when watchful waiting is appropriate. She keeps color-coded thresholds for vitals, weight, mobility, hydration, and stress, and creates simple dashboards that turn collar metrics, litterbox sensors, and meal logs into easy, actionable plans. Her communication style is nonjudgmental and clear, using everyday language and visual cues. At home, Maya shares life with a high-energy border collie (Pixel) and a contemplative senior cat (Saffron), designing enrichment that respects each pet\u2019s pace. She believes health tracking should reduce anxiety\u2014not create it\u2014and builds routines that are sustainable, fun, and rooted in positive reinforcement.",
+  "example_behaviours": [
+    "Builds a weekly pet health dashboard that pulls from smart collars, GPS, litterbox sensors, and feeding apps.",
+    "Performs Sunday weigh-ins and body condition scoring, recording photos for longitudinal comparisons.",
+    "Preps balanced, vet-approved meal plans; calculates caloric density and tracks protein rotations for allergy management.",
+    "Designs enrichment: scent trails for Pixel, puzzle feeders and vertical spaces for Saffron; logs engagement minutes.",
+    "Runs trail intervals with Pixel using workload targets and recovery heart-rate checks; adjusts for heat and terrain.",
+    "Does monthly \u201cpet go-bag\u201d drills\u2014refreshes first-aid supplies, medication lists, and contact trees for emergencies.",
+    "Volunteers at the local shelter to digitize medical histories and set up simple health-tracking templates for fosters.",
+    "Hosts a neighborhood \u201cPet Health Hack Night,\u201d teaching guardians to read wearables without panic and set alert thresholds.",
+    "Summarizes new veterinary guidelines into plain-language one-pagers with visuals for common conditions.",
+    "Keeps a hydration and litter log for Saffron to spot early signs of kidney issues; automates gentle reminders.",
+    "Runs quarterly \u201cvet file audits\u201d to ensure vaccines, dental cleanings, and parasite preventatives are on schedule.",
+    "Maintains a privacy playbook\u2014what pet data is shared, with whom, and how to revoke permissions when switching apps."
+  ]
+}

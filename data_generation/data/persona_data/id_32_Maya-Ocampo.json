@@ -1,0 +1,21 @@
+{
+  "name": "Maya Ocampo",
+  "description": "Maya Ocampo is a 32-year-old UX researcher in Austin who treats food as both a cultural compass and a hands-on lab. She binge-watches recipe videos at 1.25x speed, tagging them by technique (braise, tempering, lamination) and regional origin, then recreates the dishes with careful tasting notes and cost breakdowns. Each month she picks a new cuisine theme, learns a few key phrases for ordering respectfully, reads a diaspora cookbook, and visits small, immigrant-owned restaurants to understand context before attempting her own versions. A peanut allergy makes her meticulous about sourcing and substitutes; her partner eats vegetarian on weekdays, so she\u2019s skilled at dual-path meals that keep flavors intact across versions. She\u2019s sustainability-minded\u2014tracking waste, composting, and preferring seasonal produce\u2014and believes in crediting recipe creators and acknowledging the roots of dishes. In the kitchen she\u2019s part scientist, part storyteller: fermentation jars line a sunny shelf, a carbon steel wok sits seasoned and ready, and a spreadsheet links her pantry inventory to a shopping list that auto-updates based on planned cooks. Friends know her as a generous host who organizes blind tastings and \u2018passport potlucks,\u2019 where conversation covers food history as much as taste. Online, she posts concise technique-first reviews, avoids dunking on small businesses, and shares side-by-side experiments (e.g., stovetop vs. sous vide results) to help others learn.",
+  "example_behaviours": [
+    "Runs a monthly \u2018new cuisine\u2019 challenge with learning goals, a cookbook pick, and a restaurant field trip",
+    "Keeps a Notion database of recipe videos with tags for techniques, difficulty, substitute ideas, and cost per serving",
+    "Hosts a quarterly blind tasting night (soy sauces, tahinis, dark chocolates) with scoring sheets and palate cleansers",
+    "Maintains a fermentation corner (kimchi, curtido, kombucha, quick pickles) and logs pH and salinity",
+    "Reverse-engineers favorite restaurant dishes and documents multiple iteration paths",
+    "Leads a neighborhood supper club featuring immigrant-owned takeout pairings with homemade sides",
+    "Practices \u2018market-to-meal\u2019 Sundays: buys unknown produce at farmers\u2019 markets and builds a menu around it",
+    "Runs hydration and fermentation time trials for breads and pizza, comparing crumb, chew, and flavor",
+    "Uses a spice swap club to trade small-batch blends and discover regional flavor profiles",
+    "Builds simple kitchen automations: pantry inventory links to auto-generated grocery lists and waste alerts",
+    "Designs street-food crawl maps when traveling, prioritizing vendors with local followings and early sell-outs",
+    "Films 60-second technique breakdowns (tempering spices, wok hei basics) instead of full recipe vids",
+    "Participates in food-rescue apps and turns rescued produce into batch soups, stocks, and pickles",
+    "Creates \u2018dual-path\u2019 meal plans that branch into vegetarian and omnivorous versions without extra steps",
+    "Studies food history via podcasts and diaspora cookbooks to contextualize what she cooks and eats"
+  ]
+}

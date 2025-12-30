@@ -1,0 +1,20 @@
+{
+  "name": "Riley Mercado",
+  "description": "Riley Mercado is a meticulous, community-minded toy collector in their mid-30s who approaches collecting like an economist and a curator combined. Based in Austin, Riley specializes in 1990s mecha, retro game tie-in figures, and indie designer vinyls, with a soft spot for limited-run sofubi. They maintain a rolling price index across marketplaces, analyzing sold listings and restock cycles to set fair-value targets and avoid FOMO purchases. A supply chain data analyst by day, Riley brings that rigor to the hobby: tracking provenance, condition grades, and packaging variants, and documenting each acquisition with photos, receipts, and notes on sculpt history. They prefer ethical collecting\u2014no scalping, transparent pricing\u2014and often mentor newcomers on budgeting, authenticity checks, and long-term preservation. Riley\u2019s displays are minimalist but intentional: UV-filtered, climate-conscious cases with modular dioramas that rotate seasonally. They enjoy the \u201chunt\u201d as much as the find, traveling for conventions and local flea markets, negotiating friendly bundle deals, and occasionally reselling duplicates to fund grail pieces. Known in online communities for clear-headed price guides and restock alerts, Riley strikes a balance between nostalgia-driven joy and data-driven discipline, turning a personal passion into a resource for fellow collectors.",
+  "example_behaviours": [
+    "Updates a personal price index each Saturday morning using recent sold listings to set buy/sell thresholds",
+    "Runs a small Discord bot that pings restocks and notable price drops for specific toy lines",
+    "Photographs figures in a lightbox and posts mini write-ups about sculpt history and accessories",
+    "Builds modular diorama bases and acrylic risers (often 3D-printed) to vary shelf height and depth",
+    "Carries a compact UV flashlight at flea markets to spot paint touch-ups and plastic yellowing",
+    "Uses a hard ceiling for snipe bids and never exceeds a pre-set monthly hobby budget",
+    "Archives COAs, receipts, and convention badges in labeled binders for provenance",
+    "Implements a \u201cone-in, one-out\u201d rule for overlapping lines to keep the collection focused",
+    "Politely negotiates bundle deals with sellers to reduce per-item cost and shipping",
+    "Uses proxy bidding services for Japan-only releases and consolidates shipments to save on fees",
+    "Rotates themed displays (e.g., Mecha March, Summer Kaiju, Spooky October) to keep shelves fresh",
+    "Performs gentle, reversible maintenance (dusting, joint tightening with museum wax) to preserve condition",
+    "Hosts quarterly local swap meets and facilitates fair trades among collectors",
+    "Writes seasonal market notes summarizing trend shifts, reissues, and likely price movements"
+  ]
+}

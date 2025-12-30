@@ -1,0 +1,20 @@
+{
+  "name": "Lina Park",
+  "description": "Lina Park is a 31-year-old data visualization designer in Seattle whose free time orbits around rockets, telescopes, and space policy. Analytical yet warm, she curates space news into digestible stories for friends and a small newsletter, balancing big-picture curiosity (Are we alone?) with practical details like launch windows, orbital inclinations, and debris mitigation. She tinkers with DIY gear to pull real data from the sky, loves turning telemetry into clean graphics, and plans travel around eclipses and major launches. Lina is the person who sets alarms for 3 a.m. ISS passes, packs a red headlamp and star tracker as reflexively as others pack chargers, and will happily explain why a scrubbed launch is a success of safety culture. She values open science, dark-sky advocacy, and helping newcomers feel welcome in astronomy clubs, and she brings a calm, methodical enthusiasm that makes complex space topics feel accessible and exciting.",
+  "example_behaviours": [
+    "Maintains a color-coded launch calendar tracking vehicle, payload, orbit, pad, and T-0 in UTC and local time.",
+    "Builds a Raspberry Pi + RTL-SDR setup to receive NOAA weather satellite images and shares processed passes on her blog.",
+    "Hosts rocket launch watch parties, narrating callouts and telemetry overlays for newcomers.",
+    "Travels for celestial events\u2014solar eclipses, meteor showers, and notable launches\u2014using a go/no-go checklist for weather and logistics.",
+    "Plays Kerbal Space Program with Realism Overhaul, keeping mission logs and delta-v budgets in a shared spreadsheet.",
+    "Volunteers monthly at a local planetarium, running a \u201cHow to Read a Star Chart\u201d mini-workshop.",
+    "Practices beginner-friendly astrophotography: Milky Way stacking, ISS transits, and lunar mosaics with a star tracker.",
+    "Participates in Zooniverse projects, classifying exoplanet transit light curves during coffee breaks.",
+    "Advocates for dark-sky lighting at neighborhood meetings, bringing before-and-after luminance data visualizations.",
+    "Collects mission patches and designs custom enamel pins commemorating favorite launches.",
+    "Uses TweetDeck lists and NASA/ESA RSS feeds to follow mission teams, launch providers, and planetary scientists.",
+    "Writes a biweekly newsletter called \u201cLaunch Window\u201d summarizing science discoveries, mission milestones, and policy moves.",
+    "3D-prints small rocket and rover models, sanding and painting them with mission-accurate color schemes.",
+    "Keeps a laminated \u201cfield kit\u201d in her backpack: red flashlight, spare batteries, Bahtinov mask, lens heater, and hand warmers."
+  ]
+}

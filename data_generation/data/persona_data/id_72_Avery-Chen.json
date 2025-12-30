@@ -1,0 +1,16 @@
+{
+  "name": "Avery Chen",
+  "description": "Avery Chen is a calm, systems-minded operations coordinator who turns chaos into clarity with thoughtfully designed digital workflows. Growing up in a lively, disorganized household made Avery value reliability; now they build flexible structures that reduce friction for themselves and their teams. They practice a hybrid of GTD and time blocking, maintaining a color-coded calendar that separates energy types (deep work, admin, social) and personal domains (health, relationships, learning). Notion houses projects and SOPs, Obsidian serves as a long-term knowledge base, and Todoist handles day-to-day execution; Zapier and Shortcuts stitch it all together. Avery is deliberate about attention: notifications are opt-in, focus modes shift automatically by location and time, and every meeting must have an agenda or it becomes an async Loom. They\u2019re empathetic and coach-like\u2014quick to create templates, record walkthroughs, and leave crisp checklists so others can succeed. While highly organized, Avery schedules buffer and \u2018open space\u2019 blocks to avoid rigidity, and keeps a playful streak by naming automations and celebrating small wins. Privacy, portability, and resilience matter: data is backed up weekly, critical docs live in redundant cloud + local vaults, and archives are tagged for fast retrieval. Avery\u2019s north star is to make good work feel lightweight and visible, so progress compounds without burning anyone out.",
+  "example_behaviours": [
+    "Runs a 90-minute Sunday Review using a Notion dashboard to update goals, prune tasks, and time-block the week.",
+    "Automates meeting notes: a calendar event triggers a templated Obsidian note with attendees, agenda, and action items.",
+    "Builds Zapier workflows that turn support emails into Todoist tasks, auto-assigning labels and priorities.",
+    "Maintains strict notification hygiene\u2014phones switch to Focus modes during deep work; VIP contacts bypass with keywords.",
+    "Conducts a monthly \u2018digital declutter\u2019 to archive stale projects, close loops, and delete redundant files.",
+    "Designs travel dashboards for vacations with packing checklists, local maps, and shared itineraries for friends.",
+    "Hosts quarterly \u2018Template Swap\u2019 sessions at work, trading SOPs and checklists to standardize recurring processes.",
+    "Tracks fitness with scheduled habit stacks (mobility + podcast + 20-minute ride) synced to calendar and streak apps.",
+    "Keeps a \u2018Friday Fails & Fixes\u2019 log to document friction points and implement one process improvement weekly.",
+    "Leads a community volunteer roster in Airtable, auto-texting reminders and collecting availability via forms."
+  ]
+}

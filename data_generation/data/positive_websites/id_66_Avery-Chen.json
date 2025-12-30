@@ -1,0 +1,1381 @@
+{
+  "city council agenda rss feed url": [
+    {
+      "url": "https://www.legigram.com/",
+      "title": "Legigram | City Council Meeting Agendas and Matters"
+    },
+    {
+      "url": "https://agendawatch.org/",
+      "title": "Home Page | Agenda Watch"
+    },
+    {
+      "url": "https://www.bedfordnh.org/219/Town-Council",
+      "title": "Town Council - Bedford, NH"
+    },
+    {
+      "url": "https://cityofgardena.org/agendas-city-council/",
+      "title": "Agendas & Minutes - City Council | City of Gardena"
+    }
+  ],
+  "how to scrape city pdf agenda for motions python": [
+    {
+      "url": "https://civic-scraper.readthedocs.io/en/latest/usage.html",
+      "title": "Usage \u2014 civic-scraper documentation"
+    },
+    {
+      "url": "https://github.com/Data4Democracy/town-council",
+      "title": "Tools to scrape and centralize the text of meeting agendas ... I Built My Own Advanced Python WebScraper to Track Local ... How To Automate PDF Data Extraction - 3 Different Methods To ... Learn to Scrape PDFs for Content with Python: A Step-by-Step ... 3 Ways to Scrape PDF in Python - Proxidize How to Scrape and Extract Data from PDFs Using Python and ..."
+    },
+    {
+      "url": "https://www.theseattledataguy.com/how-to-automate-pdf-data-extraction-3-different-methods-to-parse-pdfs-for-analytics/",
+      "title": "How To Automate PDF Data Extraction - 3 Different Methods To ..."
+    },
+    {
+      "url": "https://pyquesthub.com/scraping-pdfs-for-content-a-comprehensive-guide-using-python",
+      "title": "Learn to Scrape PDFs for Content with Python: A Step-by-Step ..."
+    }
+  ],
+  "pdfminer vs pymupdf extract text lines with page numbers": [
+    {
+      "url": "https://medium.com/social-impact-analytics/comparing-4-methods-for-pdf-text-extraction-in-python-fd34531034f",
+      "title": "Comparing 4 methods for pdf text extraction in python | Medium"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/74857980/extract-text-in-natural-reading-order-using-pymupdf-fitz",
+      "title": "python - Extract Text in Natural reading order using pymupdf (fitz)"
+    },
+    {
+      "url": "https://pymupdf.readthedocs.io/en/latest/recipes-text.html",
+      "title": "Text - PyMuPDF documentation"
+    }
+  ],
+  "detect ordinance and resolution ids in pdf regex examples": [
+    {
+      "url": "https://superuser.com/questions/1886594/how-can-i-use-regex-to-search-a-pdf",
+      "title": "How can I use regex to search a PDF? - Super User"
+    },
+    {
+      "url": "https://docs.apryse.com/web/samples/textsearchtest",
+      "title": "Search PDF - String, RegEx - JavaScript with WebViewer"
+    },
+    {
+      "url": "https://github.com/patogeno/pdf-regex-search",
+      "title": "GitHub - patogeno/pdf-regex-search: PDF Regex Search is a ..."
+    },
+    {
+      "url": "https://unix.stackexchange.com/questions/776585/how-to-search-in-a-pdf-or-text-file-by-a-regex-pattern-and-output-locations-of-m",
+      "title": "How to search in a pdf or text file by a regex pattern and ..."
+    },
+    {
+      "url": "https://medium.com/@huishi1885/extract-structured-test-data-from-pdfs-using-python-regex-and-validate-with-json-schema-d8d0339aa1ea",
+      "title": "Extract Structured Test Data from PDFs Using Python Regex ..."
+    }
+  ],
+  "convert municipal meeting agenda to ics calendar script": [
+    {
+      "url": "https://gist.github.com/mecaneer23/7671fc3e7d230cdfea356b82f6360df0/682b01af822b7715afebb41df44f0fe2eb21ce18",
+      "title": "Script to convert a list of events to an ICS calendar file"
+    },
+    {
+      "url": "https://medium.com/@joris.l/tutorial-create-ics-files-with-a-python-script-0f3b6a8a7535",
+      "title": "[Tutorial] Create ICS files with a Python script - Medium"
+    },
+    {
+      "url": "https://peerpush.net/p/text-2-ics",
+      "title": "TEXT-2-ICS - Automated calendar event creation | PeerPush"
+    }
+  ],
+  "airtable automation parse rss and tag by district": [
+    {
+      "url": "https://howtho.substack.com/p/automate-rss-feed-to-airtable",
+      "title": "Automate RSS Feed to Airtable - by How Tho - How\u2019s Substack"
+    },
+    {
+      "url": "https://4spotconsulting.com/automate-airtable-with-rss-feeds-for-seamless-data-management/",
+      "title": "Automate Airtable with RSS Feeds for Seamless Data Management"
+    },
+    {
+      "url": "https://www.pabbly.com/automate-saving-rss-feeds-to-airtable-with-pabbly-connect/",
+      "title": "Automate Saving RSS Feeds to Airtable with Pabbly Connect"
+    },
+    {
+      "url": "https://www.make.com/en/integrations/airtable/rss",
+      "title": "Airtable and RSS Integration | Workflow Automation | Make"
+    }
+  ],
+  "socrata api query examples select where order by": [
+    {
+      "url": "https://dev.socrata.com/docs/queries/order",
+      "title": "The ORDER BY Clause | Socrata"
+    },
+    {
+      "url": "https://github.com/afeld/sodapy/blob/master/examples/soql_queries.py",
+      "title": "sodapy/examples/soql_queries.py at main \u00b7 afeld/sodapy"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/28923751/socrata-how-do-i-add-the-order-clause-to-a-query",
+      "title": "Socrata: How do I add the $order clause to a query?"
+    },
+    {
+      "url": "https://hexdocs.pm/socrata/Socrata.Query.html",
+      "title": "Socrata.Query \u2013 Socrata v2.0.0 - HexDocs"
+    },
+    {
+      "url": "https://rdrr.io/cran/socratadata/man/soc_query.html",
+      "title": "soc_query: Build a Socrata Query Object in socratadata ..."
+    }
+  ],
+  "arcgis rest api query sidewalks feature layer": [
+    {
+      "url": "https://community.esri.com/t5/arcgis-javascript-maps-sdk-questions/hosted-feature-layer-rest-api-query-error/td-p/1096700",
+      "title": "Solved: hosted feature layer rest api query error - Esri Community"
+    },
+    {
+      "url": "https://developers.arcgis.com/rest/",
+      "title": "Build powerful apps with ArcGIS services | Esri Developer REST APIs ..."
+    }
+  ],
+  "open data portal zoning shapefile download": [
+    {
+      "url": "https://gis-mdc.opendata.arcgis.com/",
+      "title": "Open Data Hub Site"
+    },
+    {
+      "url": "https://gisdata.pgplanning.org/opendata/",
+      "title": "GIS Open Data - Prince George's County Planning Department"
+    },
+    {
+      "url": "https://datahub-miamigis.opendata.arcgis.com/",
+      "title": "City of Miami Open Data GIS"
+    }
+  ],
+  "qgis style accessible color palette wcag contrast": [
+    {
+      "url": "https://geopard.tools/accessible-color-palette-generator/",
+      "title": "Accessible Color Palette Generator, WCAG - Geopard Tools"
+    },
+    {
+      "url": "https://www.accessibility.build/tools/color-palette-generator",
+      "title": "Accessible Color Palette Generator | WCAG Compliant Colors"
+    },
+    {
+      "url": "https://www.section508.gov/create/making-color-usage-accessible/",
+      "title": "Making Color Usage Accessible - Section508.gov"
+    },
+    {
+      "url": "https://venngage.com/tools/accessible-color-palette-generator",
+      "title": "Accessible Color Palette Generator | WCAG Compliant - Venngage"
+    },
+    {
+      "url": "https://tools.mysidewalk.com/palette-generator/index.html",
+      "title": "Accessibility Color Palette Generator - mySidewalk"
+    }
+  ],
+  "merge gtfs shapes and stops in qgis tutorial": [],
+  "sidewalk gaps analysis qgis shortest path plugin": [
+    {
+      "url": "https://mapscaping.com/calculating_shortest_fastest_paths_qgis/",
+      "title": "Calculating Shortest and Fastest Paths using QGIS"
+    },
+    {
+      "url": "https://plugins.qgis.org/plugins/short_path/",
+      "title": "Short Path \u2014 QGIS Python Plugins Repository"
+    },
+    {
+      "url": "https://gis.stackexchange.com/questions/407847/qgis-plugin-for-shortest-path-with-multiple-stops",
+      "title": "QGIS Plugin for Shortest path with multiple Stops"
+    },
+    {
+      "url": "https://github.com/Urvish-17/Sidewalk-Gap-Analysis",
+      "title": "Urvish-17/Sidewalk-Gap-Analysis - GitHub"
+    },
+    {
+      "url": "https://fryktoria.github.io/On-the-Fly-Shortest-Path/",
+      "title": "On-the-Fly Shortest Path QGIS plugin"
+    }
+  ],
+  "ada curb ramp data standard fields": [
+    {
+      "url": "https://www.access-board.gov/ada/guides/chapter-4-ramps-and-curb-ramps/",
+      "title": "Chapter 4: Ramps and Curb Ramps - U.S. Access Board"
+    },
+    {
+      "url": "https://archive.ada.gov/pcatoolkit/ch6_toolkit.pdf",
+      "title": "Chapter 6: Curb Ramps and Pedestrian Crossings ... - ADA.gov"
+    },
+    {
+      "url": "https://dam.assets.ohio.gov/image/upload/transportation.ohio.gov/roadway/ada/Curb-Ramp-Measuring-Guide.pdf",
+      "title": "ADA Compliant: Curb Ramp Measuring Guide"
+    },
+    {
+      "url": "https://www.ada-compliance.com/ada-compliance/406-curb-ramps.html",
+      "title": "406 Curb Ramps - ADA Compliance"
+    }
+  ],
+  "prow ag crosswalk requirements summary": [
+    {
+      "url": "https://www.access-board.gov/prowag/technical.html",
+      "title": "R3: Technical Requirements - United States Access Board"
+    },
+    {
+      "url": "https://polara.com/guide/prowag-accessibility-requirements",
+      "title": "Public Right Of Way Accessibility Guidelines (PROWAG) | Polara"
+    },
+    {
+      "url": "https://www.adainfo.org/wp-content/uploads/2023/11/PROWAG-2023-handout-1-slide-per-page.pdf",
+      "title": "Public Right-of-Way Accessibility Guidelines (PROWAG)"
+    },
+    {
+      "url": "https://www.adainfo.org/wp-content/uploads/2023/11/PROWAG-2023-handout-1-slide-per-page.pdf",
+      "title": "Public Right-of-Way Accessibility Guidelines (PROWAG)"
+    },
+    {
+      "url": "https://highways.dot.gov/safety/pedestrian-bicyclist/safety-tools/r3062-public-right-way-accessibility-guidelines-prowag",
+      "title": "R306.2: Public Right-of-Way Accessibility Guidelines (PROWAG)"
+    }
+  ],
+  "nacto urban street design guide pedestrian crossings pdf": [
+    {
+      "url": "https://www.nyc.gov/html/dot/downloads/pdf/2012-nacto-urban-street-design-guide.pdf",
+      "title": "Urban"
+    },
+    {
+      "url": "https://www.academia.edu/32634885/Urban_Street_Design_Guide",
+      "title": "( PDF ) Urban Street Design Guide"
+    }
+  ],
+  "mutcd 11th edition updates pedestrian treatments": [
+    {
+      "url": "https://mutcd.fhwa.dot.gov/kno_11th_Edition.htm",
+      "title": "MUTCD 11th Edition - FHWA MUTCD - Transportation"
+    },
+    {
+      "url": "https://www.tapconet.com/resource-center/blog/the-5-biggest-changes-in-the-mutcd-11th-edition",
+      "title": "The 5 Biggest Changes in the MUTCD 11th Edition - TAPCO ..."
+    },
+    {
+      "url": "https://www.trafficsafetystore.com/blog/mutcd-11th-edition-key-updates/",
+      "title": "MUTCD 11th Edition \u2013 Key Updates - Traffic Safety Resource Center"
+    },
+    {
+      "url": "https://dallas.texite.org/wp-content/uploads/2024/01/11th-Edition-MUTCD-presentation.pdf",
+      "title": "Overview of Major Changes in the MUTCD 11th Edition"
+    }
+  ],
+  "rrfb installation warrants guidelines": [
+    {
+      "url": "https://highways.dot.gov/sites/fhwa.dot.gov/files/2022-08/techSheet_RRFB_2018.pdf",
+      "title": "Rectangualar Rapid - Flashing Beacon ( RRFB ) Safe Transportation for..."
+    }
+  ],
+  "bus shelter maintenance schedule open data": [
+    {
+      "url": "https://data.cityofnewyork.us/dataset/Bus-Stop-Shelters/qafz-7myz",
+      "title": "Bus Stop Shelters | NYC Open Data"
+    }
+  ],
+  "streetlight outage report api city": [
+    {
+      "url": "https://www.chicago.gov/city/en/dataset/street_lights_out.html",
+      "title": "311 Service Requests - Street Lights All Out - City of Chicago"
+    }
+  ],
+  "eco counter bike count data download csv": [
+    {
+      "url": "https://catalog.data.gov/dataset/eco-counter-data",
+      "title": "Eco-Counter Data - Catalog Bicycle and Pedestrian Count Programs - DVRPC Home | Eco-Counter GitHub - JoshRoll/Counts-Processor-in-R: A set of R scripts ... Eco-Compteur / Eco-Counter Data Catalog Bike and Pedestrian Trip Counts - Virginia Open Data Portal Discover our resources and blog | Eco - Counter Discover our resources and blog | Eco - Counter Home | Eco - Counter Discover our resources and blog | Eco-Counter"
+    },
+    {
+      "url": "https://www.dvrpc.org/traffic/bikepedtravelmonitoring/",
+      "title": "Bicycle and Pedestrian Count Programs - DVRPC Home | Eco-Counter GitHub - JoshRoll/Counts-Processor-in-R: A set of R scripts ... Eco-Compteur / Eco-Counter Data Catalog Bike and Pedestrian Trip Counts - Virginia Open Data Portal Discover our resources and blog | Eco - Counter Discover our resources and blog | Eco - Counter Home | Eco - Counter Discover our resources and blog | Eco-Counter"
+    },
+    {
+      "url": "https://dateno.io/registry/catalog/temp00002423/",
+      "title": "Eco-Compteur / Eco-Counter Data Catalog"
+    }
+  ],
+  "open311 api service codes list": [
+    {
+      "url": "https://www.postman.com/api-evangelist/workspace/open311/api/9536c877-efd9-4a99-be46-76eabdba08a8/request/35240-2f360ab0-919f-42ad-93ca-d9b986f9ce6f",
+      "title": "Service Types | Open311 | Postman API Network"
+    },
+    {
+      "url": "https://www.open311.org/",
+      "title": "Open311"
+    },
+    {
+      "url": "https://github.com/social-torch/open311-api/blob/master/README.md",
+      "title": "open311-api/README.md at master \u00b7 social-torch/open311-api"
+    },
+    {
+      "url": "https://rdrr.io/cran/r311/man/o311_services.html",
+      "title": "o311_services: Get service list in r311: Interface to the ..."
+    }
+  ],
+  "seeclickfix api documentation examples": [
+    {
+      "url": "http://dev.seeclickfix.com/",
+      "title": "SeeClickFix API v2 Overview"
+    },
+    {
+      "url": "https://github.com/SeeClickFix/dev.seeclickfix.com",
+      "title": "SeeClickFix /dev. seeclickfix .com: SeeClickFix API v2 documentation ."
+    },
+    {
+      "url": "https://cran.r-project.org/web/packages/seeclickfixr/seeclickfixr.pdf",
+      "title": "seeclickfixr: Access Data from the SeeClickFix Web API"
+    },
+    {
+      "url": "https://www.civicservice.civicplus.help/hc/en-us/articles/5721579472023-SeeClickFix-API-Information",
+      "title": "SeeClickFix API Information \u2013 SeeClickFix"
+    }
+  ],
+  "build dashboard for 311 requests in metabase": [
+    {
+      "url": "https://www.metabase.com/learn/metabase-basics/querying-and-dashboards/dashboards",
+      "title": "Building dashboards - Metabase Learn"
+    },
+    {
+      "url": "https://github.com/Haonan-100/SF311-Citizen-Service-Requests-Local-Data-Pipeline-and-Analytics",
+      "title": "SF 311 Citizen Service Requests \u2014 Local Analytics Pipeline"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=W-i9E5_Wjmw",
+      "title": "How to create a dashboard | Getting started with Metabase Creating Custom Dashboards with Metabase - Medium Metabase tutorial: how to build a BI dashboard (step-by-step) Building a BI Dashboard with Metabase - Elestio blog Create a dashboard | Metabase Learn"
+    },
+    {
+      "url": "https://medium.com/@techlatest.net/creating-custom-dashboards-with-metabase-a-tutorial-on-how-to-create-custom-dashboards-using-bea78a796bce",
+      "title": "Creating Custom Dashboards with Metabase - Medium"
+    },
+    {
+      "url": "https://www.growthfullstack.com/usecase/building-a-bi-dashboard-in-metabase",
+      "title": "Metabase tutorial: how to build a BI dashboard (step-by-step)"
+    }
+  ],
+  "public records request template municipal budget line items": [],
+  "muckrock fee waiver language sample": [
+    {
+      "url": "https://www.muckrock.com/foi/create/",
+      "title": "MuckRock \u2022 New Request"
+    },
+    {
+      "url": "https://www.nfoic.org/sample-foia-request-letters/",
+      "title": "Sample FOIA Request Letters \u2013 National Freedom of Information..."
+    }
+  ],
+  "public records appeal letter template state sunshine law": [
+    {
+      "url": "https://www.myfloridalegal.com/ag-opinions/sunshine-and-public-records-rural-health-network",
+      "title": "Sunshine and Public Records , rural health network | My Florida Legal"
+    }
+  ],
+  "redact pii from pdf batch open source": [
+    {
+      "url": "https://github.com/manjuraavi/pdf-pii-redaction-tool",
+      "title": "GitHub - manjuraavi/pdf-pii-redaction-tool: Identifies and ..."
+    },
+    {
+      "url": "https://openredaction.com/",
+      "title": "Open Source PII Detection & Redaction | OpenRedaction"
+    }
+  ],
+  "city procurement contracts dataset vendor lookup": [
+    {
+      "url": "https://data.sfgov.org/City-Management-and-Ethics/Supplier-Contracts/cqi5-hm2d",
+      "title": "Supplier Contracts - DataSF"
+    },
+    {
+      "url": "https://data.boston.gov/dataset/city-of-boston-contract-award",
+      "title": "City of Boston Contract Award - Dataset - Analyze Boston"
+    },
+    {
+      "url": "https://www.nyc.gov/site/dcas/reports/procurement-data-sets.page",
+      "title": "Procurement Data Sets - Department of Citywide Administrative ..."
+    }
+  ],
+  "check no-bid contracts threshold local rules": [
+    {
+      "url": "https://citydesk.ai/tools/procurement-method-finder",
+      "title": "Government Procurement Thresholds by State 2025 - All 50 ..."
+    },
+    {
+      "url": "https://law.justia.com/codes/new-jersey/title-40a/section-40a-11-3/",
+      "title": "New Jersey Revised Statutes Section 40A:11-3 (2024) - Bid ..."
+    },
+    {
+      "url": "https://www.nj.gov/dca/dlgs/programs/lpcl_docs/Contracting+Threshold+Tables.pdf",
+      "title": "Public Bidding Thresholds under the Local Public Contracts ..."
+    },
+    {
+      "url": "https://www.nj.gov/dca/divisions/dlgs/programs/lpcl_docs/LPCL-NJAC+Reference+Guide+V2.0.pdf",
+      "title": "40A:11-1"
+    }
+  ],
+  "CIP capital improvement plan dataset api": [
+    {
+      "url": "https://data.seattle.gov/dataset/CIP-Project-Boundaries/uyrj-2jgv/about_data",
+      "title": "CIP Project Boundaries | City of Seattle Open Data portal"
+    }
+  ],
+  "arpa local fiscal recovery fund project list city": [
+    {
+      "url": "https://detroitmi.gov/document/arpa-local-fiscal-recovery-funds-6",
+      "title": "ARPA Local Fiscal Recovery Funds | City of Detroit"
+    },
+    {
+      "url": "https://www.brookings.edu/articles/arpa-investment-tracker/",
+      "title": "Local Government ARPA Investment Tracker | Brookings"
+    }
+  ],
+  "ss4a grant award list spreadsheet": [
+    {
+      "url": "https://www.transportation.gov/grants/ss4a/2024-full-award-list",
+      "title": "2024 SS4A Full Award List | US Department of Transportation"
+    },
+    {
+      "url": "https://experience.arcgis.com/experience/37401a6f69d0463291e92d7fe4444db5",
+      "title": "SS4A Awards - FY22 & FY23 & FY24-1-2 Awards"
+    },
+    {
+      "url": "https://climateprogramportal.org/public/archives/A_24112a.pdf",
+      "title": "SS4A 2022 Full Award List | US Department of Transportation"
+    },
+    {
+      "url": "https://www.transportation.gov/grants/ss4a/2024-awards",
+      "title": "2024 SS4A Awards | US Department of Transportation"
+    }
+  ],
+  "create friendly infographic municipal budget examples": [
+    {
+      "url": "https://github.com/turingschool-examples/municipal-budget",
+      "title": "GitHub - turingschool- examples / municipal - budget"
+    },
+    {
+      "url": "https://www.gardenroute.gov.za/wp-content/uploads/2018/05/Section-72-Dec-2016.pdf",
+      "title": "Microsoft Word - Final Section 72 Mid year budget and Performance..."
+    }
+  ],
+  "readable plain language checklist government": [
+    {
+      "url": "https://www.cdc.gov/health-literacy/php/develop-materials/plain-language.html",
+      "title": "Plain Language Materials & Resources | Health Literacy | CDC"
+    },
+    {
+      "url": "https://digital.gov/guides/plain-language",
+      "title": "Plain Language Guide Series - Digital.gov"
+    },
+    {
+      "url": "https://www.opm.gov/information-management/plain-language/",
+      "title": "Plain Language - U.S. Office of Personnel Management Federal Plain Language Guidelines - ies.ed.gov Plain Language Quick Reference Guide - U.S. Department of Labor Plain Language - U.S. Department of the Interior A Plain-Language Checklist for Reviewing Your Document"
+    },
+    {
+      "url": "https://ies.ed.gov/rel-central/2025/01/federal-plain-language-guidelines",
+      "title": "Federal Plain Language Guidelines - ies.ed.gov"
+    },
+    {
+      "url": "https://www.doi.gov/plainlanguage",
+      "title": "Plain Language - U.S. Department of the Interior"
+    }
+  ],
+  "flesch kincaid online checker paste text": [
+    {
+      "url": "https://wordstats.net/readability-checker/",
+      "title": "Readability Checker | Free Online Flesch - Kincaid ... | wordstats.net"
+    },
+    {
+      "url": "https://sitechecker.pro/readability-checker/",
+      "title": "Free Readability Checker : Get Readability Score of Content"
+    },
+    {
+      "url": "https://www.prepostseo.com/readability-checker",
+      "title": "Readability Checker - Readability score test"
+    },
+    {
+      "url": "https://goodcalculators.com/flesch-kincaid-calculator/",
+      "title": "Flesch Kincaid Calculator | Good Calculators"
+    }
+  ],
+  "figma accessible color contrast plugin": [
+    {
+      "url": "https://www.figma.com/community/accessibility/contrast",
+      "title": "Free Contrast Accessibility Plugins & Tools | Figma"
+    },
+    {
+      "url": "https://www.browserstack.com/guide/best-figma-plugins-for-accessibility",
+      "title": "Best Figma Plugins to Design for Accessibility - BrowserStack"
+    },
+    {
+      "url": "https://thoughtbot.com/blog/keep-track-of-color-contrast-in-figma-with-our-plugin",
+      "title": "Keep track of color contrast in Figma with our plugin"
+    },
+    {
+      "url": "https://figma.pluginsage.com/plugins/748533339900865323",
+      "title": "Contrast - Figma Plugin Hub"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5uvU1-2xq3U",
+      "title": "Checking color contrast for accessibility in Figma - YouTube Figma Plugin Contrast Makes Accessible Design Easier Best Figma Plugins to Design for Accessibility - BrowserStack Best Figma Plugins to Design for Accessibility - BrowserStack Best Figma Plugins to Design for Accessibility - BrowserStack Best Figma Plugins to Design for Accessibility - BrowserStack Contrast - Figma"
+    }
+  ],
+  "illustrator export svg with map line weights": [
+    {
+      "url": "https://graphicdesign.stackexchange.com/questions/80636/explanations-of-svg-export-settings-in-illustrator",
+      "title": "Explanations of SVG Export settings in Illustrator ? - Graphic Design..."
+    },
+    {
+      "url": "https://css-tricks.com/new-improved-illustrator-svg-export-settings/",
+      "title": "New Improved Illustrator SVG Export Settings | CSS-Tricks"
+    }
+  ],
+  "qgis print layout high resolution poster settings": [
+    {
+      "url": "https://gis.stackexchange.com/questions/286167/qgis-gives-different-resolution-basemap-in-print-layout?lq=1",
+      "title": "QGIS gives different resolution basemap in Print Layout"
+    },
+    {
+      "url": "https://lists.osgeo.org/pipermail/qgis-user/2021-May/048868.html",
+      "title": "[ Qgis -user] Fw: How to change Map resolution in QGIS Print Layout"
+    }
+  ],
+  "mapbox studio basemap for civic maps minimal style": [
+    {
+      "url": "https://docs.mapbox.com/help/glossary/basemap/",
+      "title": "Understand the concept of the basemap in Mapbox map styles ."
+    },
+    {
+      "url": "https://gis.stackexchange.com/questions/171451/adding-a-mapbox-studio-basemap-to-leaflet",
+      "title": "tiles - Adding a Mapbox Studio basemap to leaflet - Geographic..."
+    },
+    {
+      "url": "https://forum.maphub.net/t/custom-mapbox-style-as-basemap/2215",
+      "title": "Custom Mapbox style as basemap - MapHub community forum"
+    }
+  ],
+  "openstreetmap building footprints download extract": [
+    {
+      "url": "https://tudelft3d.github.io/3dfier/building_footprints_from_openstreetmap.html",
+      "title": "Building footprints from OpenStreetMap | 3dfier Recreating ..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NUSXsq1BMGU",
+      "title": "How to Extract Building Footprints with Open Street Map in QGIS Data - OSM Buildings Retrieving OpenStreetMap data - pythongis.org Solved: OSM basemap and building footprints - Esri Community Building footprints from OpenStreetMap - GitHub Pages Solved: OSM basemap and building footprints - Esri Community Retrieving OpenStreetMap data - pythongis.org 3D Building Extractor - Transform Building Data Into Interactive 3D GitHub - osgeonepal/obe: Open Buildings Extractor"
+    },
+    {
+      "url": "https://osmbuildings.org/data/",
+      "title": "Data - OSM Buildings"
+    },
+    {
+      "url": "https://pythongis.org/part2/chapter-09/nb/00-retrieving-osm-data.html",
+      "title": "Retrieving OpenStreetMap data - pythongis.org"
+    }
+  ],
+  "nominatim local geocoding setup guide": [
+    {
+      "url": "https://blog.afi.io/blog/run-a-free-geocoder-with-nominatim-docker/",
+      "title": "Run a free geocoder with Nominatim Docker - The Afi Labs Blog"
+    },
+    {
+      "url": "https://nominatim.org/release-docs/latest/admin/Installation/",
+      "title": "Basic Installation - Nominatim 5.2.0 Manual Open\u2011source Geocoding with Nominatim and Geopy Geocoding with Python using Nominatim: A Beginner\u2019s Guide Setting Up OpenStreetMap with Nominatim | Complete Guide for ... Step by step guide to install nominatim server \u00b7 GitHub Nominatim"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QUzk0umfdBk",
+      "title": "Setting Up OpenStreetMap with Nominatim | Complete Guide for ... Step by step guide to install nominatim server \u00b7 GitHub Nominatim"
+    }
+  ],
+  "postgis geocode addresses tiger tutorial": [
+    {
+      "url": "https://blog.rustprooflabs.com/2023/10/geocode-with-postgis-setup",
+      "title": "Setup Geocoder with PostGIS and Tiger /LINE - Blog @ RustProof Labs"
+    },
+    {
+      "url": "https://medium.com/@dnikolayev/setting-up-local-geocoding-in-the-us-with-tiger-census-data-via-postgis-for-postgresql-36bee710c379",
+      "title": "Setting Up Local Geocoding in the US with TIGER ... | Medium"
+    },
+    {
+      "url": "https://dev.to/cincybc/create-your-own-geocoder-with-postgistiger-3anc",
+      "title": "Create Your Own Geocoder with Postgis / TIGER - DEV Community"
+    },
+    {
+      "url": "https://livebook.manning.com/book/postgis-in-action-second-edition/chapter-8",
+      "title": "Chapter 8. PostGIS TIGER geocoder - PostGIS in Action, Second..."
+    },
+    {
+      "url": "https://www.postgis.us/chapter_08_edition_2",
+      "title": "(ed. #2) Chapter 8 - Geocoding with tiger geocoder"
+    }
+  ],
+  "batch geocoder free api rate limits": [
+    {
+      "url": "https://www.geoapify.com/tutorial/batch-geocoding-js-and-rate-limits/",
+      "title": "JavaScript Tutorial: Batch Geocoding and API Rate Limits | Geoapify"
+    },
+    {
+      "url": "https://geocode.xyz/pricing",
+      "title": "geocode .xyz - A geoparser, geocoder and batch geocoder for the..."
+    },
+    {
+      "url": "https://www.geocod.io/free-geocoding/",
+      "title": "Free Geocoding for US and Canadian Addresses - Geocodio"
+    }
+  ],
+  "google calendar import multiple ics merge": [
+    {
+      "url": "https://medium.com/@timppeters/merge-multiple-ics-calendars-into-one-url-for-sharing-20ccb3ae86c1",
+      "title": "Merge Multiple ICS Calendars Into One URL for Sharing | Medium"
+    },
+    {
+      "url": "https://support.google.com/calendar/thread/38299823/how-to-integrate-merge-multiple-ics-url-calenders-into-one-google-calender-share?hl=en",
+      "title": "How to integrate / merge multiple ICS -URL- calenders into one..."
+    }
+  ],
+  "share public calendar of hearings best practices": [
+    {
+      "url": "https://www.fct-cf.ca/en/court-files-and-decisions/hearings-calendar",
+      "title": "Federal Court - Calendar of Hearings"
+    },
+    {
+      "url": "https://www.echr.coe.int/calendar-of-hearings",
+      "title": "Calendar of hearings - ECHR Hearings - ECHR - ECHR / CEDH"
+    },
+    {
+      "url": "https://www.acus.gov/document/agency-use-video-hearings-best-practices-and-possibilities-expansion",
+      "title": "Agency Use Of Video Hearings : Best Practices And Possibilities For..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kqTL7Gr5oFg",
+      "title": "How to Use Google Calendar Effectively | Full Tutorial - YouTube"
+    }
+  ],
+  "remote public comment how to sign up city hall": [
+    {
+      "url": "https://www.seattle.gov/council/meetings/public-comment",
+      "title": "Public Comment - Council | seattle.gov"
+    },
+    {
+      "url": "https://spokanevalleywa.gov/195/Remote-Public-Comment-Signup",
+      "title": "Remote Public Comment Signup | Spokane Valley, WA"
+    },
+    {
+      "url": "https://www.seatacwa.gov/government/city-council/council-meeting-information/registration-council-meeting-public-comment-sign-up",
+      "title": "Registration - Council Meeting Public Comment Sign Up | City ..."
+    },
+    {
+      "url": "https://sheltonwa.gov/government/city_council/remote_public_comment_sign-up.php",
+      "title": "Remote Public Comment Sign-Up - sheltonwa.gov"
+    },
+    {
+      "url": "https://council.nyc.gov/testify/",
+      "title": "Hearing Testimony Registration - New York City Council"
+    }
+  ],
+  "sample 3 minute public comment script transportation safety": [
+    {
+      "url": "https://transportation.ky.gov/PublicInvolvementToolbox/Examples/Formal+Comment+Session.pdf",
+      "title": "PROCEDURES FOR FORMAL COMMENT SESSION.doc - transportation.ky.gov"
+    },
+    {
+      "url": "https://www.fmcsa.dot.gov/sites/fmcsa.dot.gov/files/docs/tact-radio-scripts.pdf",
+      "title": "TACT Sample PSA Radio Scripts - Federal Motor Carrier Safety ..."
+    },
+    {
+      "url": "https://www.wikihow.com/Make-a-Public-Comment-at-a-City-Council-Meeting",
+      "title": "How to Make a Public Comment at a City Council Meeting Public Comment 101: Effective Written and Spoken Testimonies How to Make a Public Comment at a City Council Meeting 50 Guidelines for Public Comment - MRSC Public Comment 101: Effective Written and Spoken Testimonies 50 Guidelines for Public Comment - MRSC How to Write a Great Public Comment - Pittsburghers for ..."
+    }
+  ],
+  "timekeeper app large countdown visible web": [
+    {
+      "url": "https://www.bigtimer.net/",
+      "title": "Big Timer | Fullscreen countdown timer"
+    },
+    {
+      "url": "https://vclock.com/timer/",
+      "title": "Online Timer - Countdown - vClock"
+    }
+  ],
+  "language access at public meetings requirements": [
+    {
+      "url": "https://thelensnola.org/2024/05/17/language-access-in-bulbancha/",
+      "title": "Language Access in Bulbancha | The Lens"
+    },
+    {
+      "url": "https://www.sfpublicpress.org/as-bay-area-cities-adopt-real-time-ai-translation-for-public-meetings-sf-abstains/",
+      "title": "More Cities AI-Translating Public Meetings . Should San Francisco?"
+    }
+  ],
+  "live captioning options for community meetings": [
+    {
+      "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0062000",
+      "title": "Zoom has many options for creating virtual closed captioning in your..."
+    },
+    {
+      "url": "https://www.sqlservercentral.com/blogs/captioning-options-for-your-online-conference",
+      "title": "Captioning Options for Your Online Conference \u2013 SQLServerCentral"
+    },
+    {
+      "url": "https://verbit.ai/solutions-captioning/",
+      "title": "Closed Captioning Services & Video Captioning Software | Verbit"
+    },
+    {
+      "url": "https://www.spf.io/2021/01/17/webex-live-captions-and-translations-tutorial/",
+      "title": "How to enable WebEx live captions and translations - spf.io"
+    },
+    {
+      "url": "https://community.logmein.com/discussions/gotomeeting-discussions/how-do-i-know-the-live-captioning-option-will-be-available-before-the-meeting/321597",
+      "title": "How do I know the live captioning ... | GoTo Community - 321597"
+    }
+  ],
+  "asl interpreter request city process timeline": [
+    {
+      "url": "https://www.stcloudstate.edu/humanresources/policies/interpreter-procedure.aspx",
+      "title": "Approving and Scheduling Sign Language Interpreters | St. Cloud..."
+    },
+    {
+      "url": "https://www.usi.edu/disability-resources/current-student-information/american-sign-language-interpreter-request-procedure",
+      "title": "American Sign Language Interpreter Request Procedure ..."
+    },
+    {
+      "url": "https://www.uvm.edu/myaccess/asl_cart/interpreter_request.html",
+      "title": "ASL Interpreter Scheduling Request"
+    },
+    {
+      "url": "https://www.unf.edu/sac/current-students/interpreting-requests.html",
+      "title": "UNF: ASL Interpreting Requests"
+    }
+  ],
+  "open meetings act training slides nonpartisan": [
+    {
+      "url": "https://www2.texasattorneygeneral.gov/conferences/handouts/2019OpenGovernmentConference/q_12-4_0100PM_OM_TRACK_OPEN_MEETINGS_ACT+BASIC_TRAINING_Hoelscher.pptx",
+      "title": "PowerPoint Presentation Open Meetings Act Basic Training - open-dc.gov Open Meetings Act Basic Training - Texas Workforce Commission Illinois Open Meetings Act Oma TRAINING FOR PUBLIC BODY MEMBERS AND POINTS OF CONTACT - Bega Texas Open Meetings Act Training Open Meetings PowerPoint.ppt [Compatibility Mode]"
+    },
+    {
+      "url": "https://www.twc.texas.gov/sites/default/files/busops/docs/open-meetings-act-basic-training-2025-workforce-conference-accessible.pdf",
+      "title": "Open Meetings Act Basic Training - Texas Workforce Commission"
+    },
+    {
+      "url": "https://illinoisattorneygeneral.gov/Page-Attachments/2024+OMA+Webinar+Slides.pdf",
+      "title": "Illinois Open Meetings Act"
+    },
+    {
+      "url": "https://bega.dc.gov/sites/bega/files/publication/attachments/Open+Meetings+Act+Presentation.pdf",
+      "title": "Oma TRAINING FOR PUBLIC BODY MEMBERS AND POINTS OF CONTACT - Bega"
+    }
+  ],
+  "councilmatic self host install guide": [
+    {
+      "url": "https://github.com/datamade/councilmatic-starter-template",
+      "title": "GitHub - datamade/ councilmatic -starter-template: Starter code..."
+    },
+    {
+      "url": "https://githubissues.com/Metro-Records/la-metro-councilmatic/readme",
+      "title": "Metro-Records/la-metro- councilmatic - Githubissues"
+    }
+  ],
+  "open states municipal coverage alternatives": [
+    {
+      "url": "https://broadbandnow.com/research/open-access-networks",
+      "title": "Open Access Broadband Networks in the United States"
+    },
+    {
+      "url": "https://ilsr.org/article/community-broadband-networks/municipal-broadband-skyrocket-as-alternative-to-private-models/",
+      "title": "New Municipal Broadband Networks Skyrocket in Post-Pandemic ..."
+    },
+    {
+      "url": "https://www.congress.gov/crs_external_products/R/PDF/R47225/R47225.1.pdf",
+      "title": "Expanding Broadband: Potential Role of Municipal Networks to ..."
+    },
+    {
+      "url": "https://www.fiberquotes.com/open-access-municipal-dark-fiber-2025-winners-models-mistakes/",
+      "title": "Open-Access & Municipal Dark Fiber: 2025 Winners, Models ..."
+    },
+    {
+      "url": "https://broadbandbreakfast.com/exclusive-series-municipal-broadband-and-open-access/",
+      "title": "Exclusive Series: Municipal Broadband and Open Access"
+    }
+  ],
+  "legistar api filter by meeting body": [
+    {
+      "url": "https://groups.google.com/g/granicus-developers/c/_B2iNWOCh68",
+      "title": "legistar api"
+    }
+  ],
+  "granicus agenda center rss feed format": [
+    {
+      "url": "https://granicus.com/solution/agenda-meeting-management/",
+      "title": "Agenda & meeting management | Granicus"
+    }
+  ],
+  "pdf table extraction camelot municipal budgets": [
+    {
+      "url": "https://pypi.org/project/camelot-py/",
+      "title": "camelot-py \u00b7 PyPI"
+    },
+    {
+      "url": "https://github.com/camelot-dev/camelot",
+      "title": "GitHub - camelot-dev/camelot: A Python library to extract ..."
+    },
+    {
+      "url": "https://readthedocs.org/projects/camelot-py/downloads/pdf/master/",
+      "title": "Camelot Documentation - Read the Docs"
+    },
+    {
+      "url": "https://medium.com/@priti.mohapatra1989/extracting-and-summarizing-tables-from-pdfs-using-camelot-and-tabulate-e620e7924841",
+      "title": "Extracting and Summarizing Tables from PDFs Using Camelot and ..."
+    },
+    {
+      "url": "https://foggyprogrammer.com/extracting-a-table-from-a-pdf-with-camelot",
+      "title": "Extracting a Table from a PDF with Camelot \u2013 Foggy Programmer"
+    }
+  ],
+  "detect page numbers and section titles python": [
+    {
+      "url": "https://stackoverflow.com/questions/74872895/how-to-extract-proper-page-number-of-a-pdf-using-python",
+      "title": "How to extract proper page number of a pdf using python"
+    },
+    {
+      "url": "https://github.com/zephyrintel/pdf-section-extractor",
+      "title": "GitHub - zephyrintel/pdf-section-extractor"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3uQNwBb0Cqo",
+      "title": "Extract All PDF Figure Titles, Page Numbers & References ... pdftitle \u00b7 PyPI Extract Page Information from PDFs with Python: A ... - Medium Read a Particular Page from a PDF File in Python Python PdfReader.getDocumentInfo: Extract PDF Metadata"
+    }
+  ],
+  "airtable webhook to slack meeting alerts": [
+    {
+      "url": "https://support.airtable.com/docs/airtable-automation-actions-slack",
+      "title": "Airtable automation actions: Slack | Airtable Support"
+    },
+    {
+      "url": "https://www.thena.ai/post/airtable-slack-integration",
+      "title": "How to Integrate Airtable with Slack - Thena"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NJMcNt7UI0g",
+      "title": "How to Integrate Airtable with Slack for Notifications How to integrate Airtable with Slack for notifications? How to Integrate Slack with Airtable: 1-Min Guide - Storylane How to Use Webhook Triggers in Slack Automations Receiving base activity notifications in Slack - Airtable"
+    },
+    {
+      "url": "https://bootstrapped.app/guide/how-to-integrate-airtable-with-slack-for-notifications",
+      "title": "How to integrate Airtable with Slack for notifications?"
+    },
+    {
+      "url": "https://www.storylane.io/tutorials/how-to-integrate-slack-with-airtable",
+      "title": "How to Integrate Slack with Airtable: 1-Min Guide - Storylane"
+    }
+  ],
+  "newsletter civic examples nonpartisan templates": [
+    {
+      "url": "https://moosend.com/blog/nonprofit-newsletter-templates/",
+      "title": "9 Effective Nonprofit Newsletter Templates for Different Needs"
+    },
+    {
+      "url": "https://email.uplers.com/blog/top-newsletter-examples-for-nonprofit-organizations/",
+      "title": "10 Engaging Nonprofit Newsletter Examples to Inspire Your ..."
+    },
+    {
+      "url": "https://www.sender.net/email-templates/nonprofit-newsletters/",
+      "title": "20+ Nonprofit Newsletters Templates | Best Ideas - Sender"
+    }
+  ],
+  "mailchimp rss to email setup": [
+    {
+      "url": "https://www.youtube.com/watch?v=lJ-JZvUjRBQ",
+      "title": "How to setup automated emails in mailchimp | RSS to ..."
+    },
+    {
+      "url": "https://cascadevalleydesigns.com/part-2-setting-up-your-new-rss-feed-to-email-campaign-in-mailchimp/",
+      "title": "PART 2: Setting up your New RSS Feed to Email Campaign in..."
+    },
+    {
+      "url": "https://www.practicalecommerce.com/Create-RSS-to-Email-Campaigns-with-MailChimp",
+      "title": "Create RSS - to - Email Campaigns with MailChimp"
+    },
+    {
+      "url": "https://wpism.com/mailchimp-rss-email-newsletter/",
+      "title": "MailChimp RSS to Email Newsletter - Complete Guide 2025"
+    }
+  ],
+  "substack import rss feed": [
+    {
+      "url": "https://substack.com/signup/import",
+      "title": "Import your publication - Substack"
+    },
+    {
+      "url": "https://medium.com/monster-alley/how-to-import-your-articles-to-substack-in-four-steps-35a715dbb4e3",
+      "title": "How To Import Your Articles To Substack In Four Steps"
+    }
+  ],
+  "nextdoor moderator guidelines source verification": [
+    {
+      "url": "https://www.theverge.com/21283993/nextdoor-app-racism-community-moderation-guidance-protests",
+      "title": "Inside Nextdoor \u2019s \u2018Karen problem\u2019 | The Verge"
+    },
+    {
+      "url": "https://www.theatlantic.com/technology/archive/2023/05/nextdoor-local-election-misinformation-volunteer-moderation/674152/",
+      "title": "Nextdoor Has an Election-Misinformation Problem - The Atlantic"
+    }
+  ],
+  "subreddit automoderator rule examples civility": [
+    {
+      "url": "https://support.reddithelp.com/hc/en-us/articles/15484574206484-Automoderator",
+      "title": "Automoderator \u2013 Reddit Help"
+    },
+    {
+      "url": "https://github.com/KanchiMoe/Reddit-AutoModerator-rules",
+      "title": "GitHub - KanchiMoe/Reddit- AutoModerator - rules : Various..."
+    },
+    {
+      "url": "https://toxigon.com/how-to-use-automoderator-for-effective-subreddit-management",
+      "title": "Mastering AutoModerator for Effective Subreddit Managem - Toxigon"
+    }
+  ],
+  "de escalation techniques online moderation": [
+    {
+      "url": "https://www.verywellmind.com/deescalation-techniques-to-diffuse-conflict-7498049",
+      "title": "6 De-Escalation Techniques to Diffuse Conflict - Verywell Mind What Is De-escalation In Community Moderation? - Everyday ... How to De-Escalate a Situation? 6 Tested and Proved Techniques De-Escalation Skills for Virtual Communication: 6 Steps Effective De Escalation Techniques Training - De-escalation for Leaders De-escalation Programs - De-escalation Training De-Escalation Police Training - Download Course Catalog"
+    }
+  ],
+  "safe doxxing response playbook moderators": [
+    {
+      "url": "https://www.youtube.com/watch?v=Qrp5IUfmC0c",
+      "title": "How Can Community Moderators Handle Doxxing Threats ... 7 Tips to Keep You Safe From Online Doxing - Inside Higher Ed 7 Tips to Keep You Safe From Online Doxing - Inside Higher Ed Managing Your Online Footprint and Protecting from Doxing 7 Tips to Keep You Safe From Online Doxing - Inside Higher Ed Discord Safety & Moderation | Kordu Gaming - Zero Harassment ..."
+    },
+    {
+      "url": "https://kordu.gg/safety",
+      "title": "Discord Safety & Moderation | Kordu Gaming - Zero Harassment ..."
+    }
+  ],
+  "mutual aid resources directory open referral schema": [
+    {
+      "url": "https://docs.openreferral.org/en/latest/hsds/schema_reference.html",
+      "title": "Schema Reference \u2014 Open Referral Data Specifications 3.0.1 ..."
+    },
+    {
+      "url": "https://github.com/openreferral/specification",
+      "title": "GitHub - openreferral/specification: The Human Services Data ... Silos to (Eco)Systems: Open Referral\u2019s Approach to the ... HSDS FAQs \u2014 Open Referral Data Specifications 3.0.1 documentation Mutual Aid Hub Project - Mutual Aid NYC Resource Directory Database Schemas \u2014 Open Referral Data Specifications 3.0.1 ..."
+    },
+    {
+      "url": "https://midwestbigdatahub.org/silos-to-ecosystems-open-referrals-approach-to-the-resource-directory-data-commons/",
+      "title": "Silos to (Eco)Systems: Open Referral\u2019s Approach to the ..."
+    },
+    {
+      "url": "https://docs.openreferral.org/en/latest/hsds/hsds_faqs.html",
+      "title": "HSDS FAQs \u2014 Open Referral Data Specifications 3.0.1 documentation"
+    },
+    {
+      "url": "https://www.mutualaidhub.org/",
+      "title": "Mutual Aid Hub"
+    }
+  ],
+  "open referral hsds examples for city services": [
+    {
+      "url": "https://github.com/openreferral/hsds-transformer",
+      "title": "openreferral/ hsds -transformer: Convert data into valid Human Service ..."
+    },
+    {
+      "url": "https://www.urbaninsight.com/article/implementing-open-referral-drupal-and-wordpress",
+      "title": "Implementing Open Referral with Drupal and WordPress | Urban Insight"
+    },
+    {
+      "url": "https://sahanafoundation.org/sahana-awarded-grant-by-open-referral-for-airtable-powered-homeless-services-directories-in-new-york-city/",
+      "title": "Sahana Awarded Grant by Open Referral for AirTable-Powered..."
+    }
+  ],
+  "referral to city services decision tree template": [
+    {
+      "url": "https://miro.com/diagramming/decision-tree/",
+      "title": "Free Tree Diagram Maker Online | AI-powered Decision Tree | Miro"
+    },
+    {
+      "url": "https://www.template.net/ai-decision-tree-generator",
+      "title": "Free AI Decision Tree Generator, Free Decision Tree Maker Online"
+    },
+    {
+      "url": "https://venngage.com/features/decision-tree-maker",
+      "title": "Online Decision Tree Maker | Generate For Free - Venngage"
+    },
+    {
+      "url": "https://creately.com/lp/decision-tree-maker-online/",
+      "title": "Decision Tree Maker | Decision Tree Generator | Creately"
+    }
+  ],
+  "google forms to airtable integration without zapier": [
+    {
+      "url": "https://www.softr.io/blog/connect-airtable-and-google-forms",
+      "title": "How to connect Airtable with Google Form - Softr"
+    },
+    {
+      "url": "https://albato.com/connect/airtable-with-google_forms",
+      "title": "Connect Airtable to Google Forms with no code - integrate ..."
+    },
+    {
+      "url": "https://stackreaction.com/google-forms/integrations/airtable",
+      "title": "How to connect Google Forms and Airtable - App Integrations ..."
+    }
+  ],
+  "privacy friendly analytics for civic sites plausible": [
+    {
+      "url": "https://plausible.io/",
+      "title": "Plausible Analytics | Simple, privacy - friendly Google Analytics ..."
+    },
+    {
+      "url": "https://10web.io/wordpress-plugin/plausible-analytics/",
+      "title": "Plausible Analytics"
+    },
+    {
+      "url": "https://layeredcraft.com/blog/5-privacy-friendly-analytics-platforms-for-ghost/",
+      "title": "5 Privacy - Friendly Analytics Platforms for Ghost | LayeredCraft"
+    },
+    {
+      "url": "https://p.range.co/privacy-focused-web-analytics",
+      "title": "Plausible : Privacy focused Google Analytics alternative"
+    },
+    {
+      "url": "https://nouance.io/articles/tech-stacks-cookieless-and-privacy-friendly-analytics-solutions",
+      "title": "Cookieless and privacy friendly analytics solutions \u2014 nouance.io"
+    }
+  ],
+  "create qr code for budget infographic print": [
+    {
+      "url": "https://www.bing.com/aclick?ld=e8uSs42kiz78_F67HBuT1bPDVUCUzEwuDI1i3qhvLTK4NO-UIF5bk8KOwidOD-ii6_Cdu7up45lrQ2Ugm1OyQuiZFU-QwgPROruTmbIOS8C7Bvw2y0I5XqggBLe_Z4jc1i-hRxAQWYbv5C32mS6nAxNOIDoo1I-RwI9L8O0e-lGkiYmp1N1uwsAJxrVKq8ICg-FUds7I2Y2dbcLl5uVIkVfISGV-Y&u=aHR0cHMlM2ElMmYlMmZxci1jb2RlLmlvJTJmZW4lMmZjcmVhdGUlM2ZzdGVwJTNkMSUyNnFyX29uYm9hcmRpbmclM2RhY3RpdmVfZHBmJTI2ZnglM2RmcmVlLVFSLWNvZGUtZ2VuZXJhdG9yJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NvbnRlbnQlM2RFTiUyNTIwLSUyNTIwRXhhY3QlMjZ1dG1fY2FtcGFpZ24lM2RVUyUyNTIwLSUyNTIwTVMxJTI1MjAtJTI1MjBFbmdsaXNoJTI1MjAtJTI1MjBDb21wdXRlciUyNnV0bV90ZXJtJTNkZnJlZSUyNTIwcXIlMjUyMGNvZGUlMjUyMGdlbmVyYXRvciUyNmNhbXBhaWduSWQlM2Q1MjEzNDUyOTclMjZhZEdyb3VwSWQlM2QxMzI3MTEyOTMyMDA3NjYxJTI2ZmVlZEl0ZW1JZCUzZCUyNnRhcmdldElkJTNka3dkLTgyOTQ1Njk3NjUzMzgwJTNhbG9jLTE5MCUyNm1hdGNoVHlwZSUzZGIlMjZuZXR3b3JrJTNkbyUyNmRldmljZSUzZGMlMjZkZXZpY2VUeXBlJTNkZGVza3RvcCUyNmNhbXBhaWduVHlwZSUzZHNlYXJjaCUyNmNyZWF0aXZlSWQlM2Q4Mjk0NDc4NzM0ODYzNyUyNmtleXdvcmQlM2RjcmVhdGUlMjUyMHFyJTI1MjBjb2RlJTI1MjBmb3IlMjUyMGJ1ZGdldCUyNTIwaW5mb2dyYXBoaWMlMjUyMHByaW50JTI2dXRtX2lkJTNkNTIxMzQ1Mjk3JTI2Z2FpZCUzZFVTLUVOLUMtRFBGLU1TJTI2bXNjbGtpZCUzZDA0ZmEzYWVjNDllZTE1MDZhZjVjNTNhZDg0MDJhMmU3&rlid=04fa3aec49ee1506af5c53ad8402a2e7",
+      "title": "Free QR Code Maker - Create Your QR Code for Free"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e8LGo-Pk_exARwqGBCivwjSjVUCUw1FwZ9BG0-gLb4_5th2PFUK0-r0Ab6zN4Ox33itwegzrJJipZ3LlNJh235Jpz3T0fzGPph_e41clFdAKZMOXJ6H3_F27C5ALqwebu5CDAOYhBWU4nJvbMYUs5e2eauFbtIA1HOuyiLo6Ze2tCoavXGsxQ5LzYakzr3fmDtafwOmmxesSsX5dk05kO2muATzLM&u=aHR0cHMlM2ElMmYlMmZvbmxpbmUtcXItZ2VuZXJhdG9yLmNvbSUyZmNyZWF0ZSUzZnN0ZXAlM2QxJTI2cXJfb25ib2FyZGluZyUzZGFjdGl2ZV9kcGYlMjZmeCUzZGNyZWF0ZS1hLXFyLWNvZGUlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY29udGVudCUzZEVOJTI1MjAtJTI1MjBCcm9hZCUyNnV0bV9jYW1wYWlnbiUzZFVTJTI1MjAtJTI1MjBNUzElMjUyMC0lMjUyMEVuZ2xpc2glMjUyMC0lMjUyMENvbXB1dGVyJTI1MjAtJTI1MjBEUEYlMjZ1dG1fdGVybSUzZGNyZWF0ZSUyNTIwYSUyNTIwcXIlMjUyMGNvZGUlMjZjYW1wYWlnbklkJTNkNTY4MDU0ODg0JTI2YWRHcm91cElkJTNkMTE4NjM3NDc5MzQ3NTQzNyUyNmZlZWRJdGVtSWQlM2QlMjZ0YXJnZXRJZCUzZGt3ZC03NDE0ODc0MzE2NTMwNyUzYWxvYy0xOTAlMjZtYXRjaFR5cGUlM2RwJTI2bmV0d29yayUzZG8lMjZkZXZpY2UlM2RjJTI2ZGV2aWNlVHlwZSUzZGRlc2t0b3AlMjZjYW1wYWlnblR5cGUlM2RzZWFyY2glMjZjcmVhdGl2ZUlkJTNkNzQxNDg2MjcwODQxNDQlMjZrZXl3b3JkJTNkY3JlYXRlJTI1MjBxciUyNTIwY29kZSUyNTIwZm9yJTI1MjBidWRnZXQlMjUyMGluZm9ncmFwaGljJTI1MjBwcmludCUyNnV0bV9pZCUzZDU2ODA1NDg4NCUyNmdhaWQlM2RVUy1FTi1DLURQRi1NUyUyNm1zY2xraWQlM2RkN2U4MzI2MDJmNTAxNTQ1NjgwNjViMjFlMmJjNWFjYw&rlid=d7e832602f50154568065b21e2bc5acc",
+      "title": "Free Image QR Code Generator - Create a QR Code in 30 Seconds"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e84WzOUs9c-xMAs_WWuZb0kTVUCUwujOHHltN63V7FQbo42cATrahlkQB481NCwrJ7-tFtHcQeJnUD58aREv5qmA2sgK8kRksyNO4uGGrIHR-EyCsjaXpEGRWz3lQToicR0I_Zw-NeudYkUU5bkj7giY7djRW1ptP0kYogYGzy0LG4slHF5D3nMGxuiDoapq_icZDLfwouPS3GgAOrs6Xj3sVGgjw&u=aHR0cHMlM2ElMmYlMmZ3d3cucXJjcmVhdG9yLmNvbSUyZnFyLWVkaXRvciUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDU2NzQ5MjI2NCUyNnV0bV90ZXJtJTNkcXIlMjUyMGNvZGUlMjUyMGdlbmVyYXRvciUyNnV0bV9jb250ZW50JTNkJTI2dXRtX2FkZ3JvdXAlM2QxMTcyMDgxMTIxMjUzOTA0JTI2dXRtX25ldHdvcmslM2RvJTI2dXRtX2RldmljZSUzZGMlMjZ1dG1fZGV2aWNlbW9kZWwlM2QlMjZ1dG1fbWF0Y2h0eXBlJTNkcCUyNnV0bV9sb2NfcGh5c2ljYWxfbXMlM2Q1ODE2MiUyNm1zY2xraWQlM2RmODZlMGE1NDQ1NDExNzA2NjFlMzYzMTU4OGFkNzc1Ng&rlid=f86e0a544541170661e3631588ad7756",
+      "title": "Create a QR Code Is Simple - Fast, Easy, and Customizable"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e81VhSXtWTgfJtHUNoYnRK8jVUCUz0xNyiX08_fl6hZEQb3yBfcjTRJ5Wy26fk5Mtg-Ax_jXE5G1xy5dgyMQxYmEUnOj96Cli6_eMTjH2DfItQFUXl5gPiry-vTliJGy-5q2auTCLHvP9i0ZB0InIy-lTa_WbBAGA0I_m_XF8Kj-lXxxxn73L9n8MPno7UwVpot3iiIB7nrkPvb2zzJT7KZQaO1_c&u=aHR0cHMlM2ElMmYlMmZxcmNvZGVjcmVhdG9yLmNvbSUzZnBsYXRmb3JtJTNkMiUyNmtleXdvcmQlM2RjcmVhdGUlMjUyMHFyJTI2Y2FtcGFpZ25pZCUzZDU2ODE4ODE3NSUyNkFkR3JvdXBJZCUzZDExODA4NzcyMzk3OTM4NDglMjZBZElkJTNkNzM4MDUwMjk3OTc1NTIlMjZnY2xpZCUzZDc4OWIxZTNmZDg0OTE3Y2JlOGE2Nzc3ZTE1YTU4ZGY2JTI2bXNjbGtpZCUzZDc4OWIxZTNmZDg0OTE3Y2JlOGE2Nzc3ZTE1YTU4ZGY2&rlid=789b1e3fd84917cbe8a6777e15a58df6",
+      "title": "Create your QR Code for free - Free QR Creator - create qr"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e80hoPU38Hq4UmDp9HX-0LaTVUCUxpcNc4w896cWZP2NySBqhmCx_qYk0F34InES6GQaOAJgRLW2ldaS8RlqAlzT-_EfDCYNMAhadVp9Fs2DwEQQORnYku6fsxoWXrOBQ_f5OLDI5XrtlxlHgQl2-z7vIwwBR_pbdfrWP_cM9IdTKZK0KSTAaciexPklBFkkNVcsBch4iwvIVjRqZM4lZ1VvNSBRM&u=aHR0cHMlM2ElMmYlMmZnZXRxci5jb20lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ25faWQlM2Q1MjM2MTI5NzIlMjZ1dG1fYWRncm91cF9pZCUzZDEzMTM5MTkxMDcwNjc5MjElMjZ1dG1fYWRfaWQlM2Rrd2QtODIxMjE0NjY3Njg1OTUlM2Fsb2MtMTkwJTI2dXRtX2NhbXBhaWduJTNkVVMtRU4tRGVza3RvcC1TZWFyY2gtR2V0UVIlMjZ1dG1fYWRncm91cCUzZFFSJTI1MjBDb2RlJTI1MjBHZW5lcmFsJTI2dXRtX3Rlcm0lM2RjcmVhdG9yJTI1MjBxciUyNnBhcnRuZXIlM2RXTSUyNmlkJTNkN2tROW1MMm5QNXhSOHdZM3ZaMXQlMjZtc2Nsa2lkJTNkNzg5YzNkZDBmMDk4MWQ0YmRmZjE1NDkxM2Q3NDMyZmM&rlid=789c3dd0f0981d4bdff154913d7432fc",
+      "title": "Fast QR Code Maker Online - Generate QR in Seconds - Creator qr"
+    }
+  ],
+  "small plotter for map art recommendations": [
+    {
+      "url": "https://uunatek.com/blogs/tips-and-tricks/top-10-inkscape-pen-plotters-for-precision-art-and-design",
+      "title": "Top 10 Inkscape Pen Plotters for Precision Art and Design"
+    },
+    {
+      "url": "https://www.maplibrary.org/930/best-map-printers-for-high-quality-output/",
+      "title": "10 Best Map Printers for High-Quality Output That Pro ..."
+    },
+    {
+      "url": "https://www.reddit.com/r/gis/comments/1dfs6i1/plotter_recommendations_for_2024/",
+      "title": "Plotter Recommendations for 2024? : r/gis - Reddit"
+    }
+  ],
+  "watercolor paper cold press for map art": [
+    {
+      "url": "https://www.amazon.com/cold-pressed-watercolor-paper/s?k=cold+pressed+watercolor+paper",
+      "title": "Amazon.com: Cold Pressed Watercolor Paper"
+    },
+    {
+      "url": "https://artsideoflife.com/best-watercolor-paper/",
+      "title": "Best Watercolor Paper for Artists in 2025"
+    },
+    {
+      "url": "https://artprimo.com/catalog/fluid-cold-press-watercolor-paper-9x12-p-6735.html",
+      "title": "Art Primo: Fluid Cold Press Watercolor Paper 9x12 [Craft Primo]"
+    },
+    {
+      "url": "https://www.pinterest.com/pin/global-art-fluid-cold-press-watercolor-paper--413275703286245834/",
+      "title": "GLOBAL ART Fluid Cold Press Watercolor Paper | Watercolor ..."
+    }
+  ],
+  "vector to watercolor workflow tutorial": [
+    {
+      "url": "https://www.youtube.com/watch?v=iCozdvavK6I",
+      "title": "How to create a Watercolor Vector Picture from a simple ... Vectorise Watercolour in Adobe Illustrator Course Create watercolors and other art styles with Generative Fill How to Create Watercolor Effects in Illustrator - AJ Graphics How to Create Watercolor Effects in Adobe Illustrator How to Vectorize Watercolor image in Illustrator - Print Me ... How to Create Watercolor Effects in Illustrator - AJ Graphics How to Create Watercolor Effects in Adobe Illustrator How to Create Watercolor Effects in Adobe Illustrator How to Create Watercolor Effects in Adobe Illustrator How to Create Vector Watercolor Texture and Elements in Adobe ..."
+    },
+    {
+      "url": "https://aj-graphics.org/2025/03/21/how-to-create-watercolor-effects-in-illustrator/",
+      "title": "How to Create Watercolor Effects in Illustrator - AJ Graphics"
+    },
+    {
+      "url": "https://graphicdesignresource.com/how-to-create-watercolor-effects-in-adobe-illustrator/",
+      "title": "How to Create Watercolor Effects in Adobe Illustrator"
+    }
+  ],
+  "local print shop poster color profile tips": [],
+  "sidewalk snow removal ordinance summary": [
+    {
+      "url": "https://www.urbanail.gov/public-works/page/urbana-sidewalk-snow-removal-requirement-effect",
+      "title": "Urbana Sidewalk Snow Removal Requirement in Effect"
+    },
+    {
+      "url": "https://www.wandtv.com/community/urbana-sidewalk-snow-removal-requirement-in-effect/article_c6d634d1-5cd8-431a-880d-e0839af8a00d.html",
+      "title": "Snow must be removed from sidewalks under Urbana ordinance ..."
+    },
+    {
+      "url": "https://newschannel20.com/news/local/urbana-enforces-sidewalk-snow-removal-ordinance-amid-winter-storm",
+      "title": "Urbana enforces sidewalk snow removal ordinance amid winter storm"
+    },
+    {
+      "url": "https://champaignil.gov/2025/12/14/sidewalk-snow-removal-ordinance-activation-december-14-2025/",
+      "title": "Sidewalk Snow Removal Ordinance Activation December 14, 2025"
+    }
+  ],
+  "bike lane sweeping schedule city policy": [
+    {
+      "url": "https://www.chilliwack.com/MAIN/page.cfm?id=2229",
+      "title": "Maintenance - City of Chilliwack"
+    },
+    {
+      "url": "https://www.broomfield.org/3603/Street-Sweeping",
+      "title": "Street Sweeping | City and County of Broomfield - Official Website"
+    }
+  ],
+  "request bike rack form city example": [
+    {
+      "url": "https://portal.311.nyc.gov/article/?kanumber=KA-02576",
+      "title": "Bike Rack Request - NYC311"
+    },
+    {
+      "url": "https://www.charlottesville.gov/DocumentCenter/View/1205/Bike-Rack-Request-Form-PDF",
+      "title": "BIKE RACK REQUEST FORM - Charlottesville"
+    },
+    {
+      "url": "https://www.cityofsacramento.gov/public-works/mobility-and-sustainability/transportation-planning/active_transportation/bike_parking_request",
+      "title": "Bike Parking Requests | City of Sacramento"
+    },
+    {
+      "url": "https://www.srcity.org/FormCenter/Transportation-Public-Works-9/Request-a-Bike-Rack-105",
+      "title": "Form Center \u2022 Request a Bike Rack - srcity.org"
+    },
+    {
+      "url": "https://www.oaklandca.gov/Public-Safety-Streets/Walking-and-Biking-in-Oakland/Bicycle-Parking/Request-a-Bike-Rack",
+      "title": "Request a Bike Rack | City of Oakland, CA"
+    }
+  ],
+  "traffic calming request process speed humps": [
+    {
+      "url": "https://legalclarity.org/residential-traffic-calming-measures-and-request-process/",
+      "title": "Residential Traffic Calming: Measures and Request Process"
+    },
+    {
+      "url": "https://deldot.gov/About/faqs/pdfs/Traffic-Calming-Speed-Humps-FAQ.pdf",
+      "title": "Frequently Asked Questions (FAQ) Speed Humps Fre"
+    }
+  ],
+  "speed study data open data portal search": [
+    {
+      "url": "https://dataportals.org/",
+      "title": "Home - Data Portals"
+    },
+    {
+      "url": "https://opendata.maryland.gov/",
+      "title": "Open Data | opendata .maryland.gov"
+    }
+  ],
+  "crash data vision zero map download shapefile": [
+    {
+      "url": "https://vzv.nyc/",
+      "title": "Vision Zero View"
+    }
+  ],
+  "use streetmix to illustrate road diet": [
+    {
+      "url": "https://streetmix.net/-/260883",
+      "title": "Lake Street: Road Diet , aBRT, Bus Bulbs \u2013 Streetmix"
+    },
+    {
+      "url": "https://app.readthedocs.org/projects/streetmix/downloads/pdf/latest/",
+      "title": "Streetmix"
+    }
+  ],
+  "participatory budgeting toolkit decidim": [
+    {
+      "url": "https://docs.decidim.org/en/develop/admin/components/budgets.html",
+      "title": "Budgets :: Decidim Docs"
+    },
+    {
+      "url": "https://www.participatorybudgeting.org/asset-type/guides-toolkits/",
+      "title": "Guides + Toolkits - Participatory Budgeting Project"
+    },
+    {
+      "url": "https://kk.stlouiscountymo.gov/st-louis-county-departments/public-health/recast/project-reports/participatory-budgeting-toolkit/",
+      "title": "Participatory Budgeting - kk.stlouiscountymo.gov"
+    },
+    {
+      "url": "https://www.peoplepowered.org/resources-content/participatory-budgeting-toolkit-for-voting-events",
+      "title": "Participatory budgeting toolkit for voting events \u2014 People ..."
+    }
+  ],
+  "pol.is for community feedback case studies": [
+    {
+      "url": "https://wtfeconomy.com/creating-a-culture-of-continuous-feedback-1b97523ad11e",
+      "title": "Automating a Culture of Continuous Feedback | by Colin Megill"
+    },
+    {
+      "url": "https://blog.pol.is/uber-responds-to-vtaiwans-coherent-blended-volition-3e9b75102b9b",
+      "title": "Uber responds to vTaiwan\u2019s coherent blended volition | pol . is blog"
+    }
+  ],
+  "online facilitation ground rules printable": [
+    {
+      "url": "https://cdn1.hubspot.net/hubfs/8729452/Online+Session+Ground+Rules.pdf",
+      "title": "Online Session Ground Rules.pdf - cdn1.hubspot.net"
+    },
+    {
+      "url": "https://fellow.ai/blog/ground-rules-for-remote-meetings-free-templates/",
+      "title": "12 Ground Rules for Remote Meetings [+ Free Templates]"
+    }
+  ],
+  "simple one page meeting agenda template civic": [
+    {
+      "url": "https://templatelab.com/meeting-agenda-templates/",
+      "title": "18 Effective Meeting Agenda Templates [Word/PPT/PDF]"
+    },
+    {
+      "url": "https://mgrush.com/blog/meeting-agenda-template/",
+      "title": "Best Meeting Agenda Template -- Use Nouns Not Verbs"
+    }
+  ],
+  "eventbrite vs mobilize for community meetup": [
+    {
+      "url": "https://www.trustradius.com/compare-products/eventbrite-vs-mobilize",
+      "title": "Eventbrite vs Mobilize | TrustRadius"
+    }
+  ],
+  "consent calendar explanation plain language": [],
+  "what is a zoning overlay plain terms": [
+    {
+      "url": "https://www.inquirer.com/real-estate/zoning-overlay-darrell-clarke-councilmanic-prerogative-20230502.html",
+      "title": "What are zoning overlays , and why does Philly have so many?"
+    },
+    {
+      "url": "https://storables.com/diy/planning-engineering/what-is-a-zoning-overlay/",
+      "title": "What Is A Zoning Overlay | Storables"
+    },
+    {
+      "url": "https://cityofpetaluma.org/question/what-is-a-zoning-overlay/",
+      "title": "What is a Zoning Overlay ? - Petaluma"
+    },
+    {
+      "url": "https://planninganddevelopment.columbiasc.gov/districts-overlays/",
+      "title": "Districts & Overlays - Planning & Development - City of Columbia"
+    }
+  ],
+  "how to read zoning map legend FAR setbacks": [],
+  "public notice radius requirements zoning hearings": [
+    {
+      "url": "https://petaluma.municipal.codes/ZoningOrds/24.100",
+      "title": "24.100 Public Notice | Petaluma Implementing Zoning Ordinance"
+    },
+    {
+      "url": "https://library.municode.com/ca/san_marcos/codes/code_of_ordinances?nodeId=TIT20ZO_CH20.505NOPUHE",
+      "title": "CHAPTER 20.505 - NOTICING AND PUBLIC HEARINGS | Code of..."
+    }
+  ],
+  "lot consolidation variance process steps": [
+    {
+      "url": "https://www.larimer.gov/sites/default/files/uploads/2022/lot_consolidation.pdf",
+      "title": "LOT CONSOLIDATION"
+    },
+    {
+      "url": "https://georgialandsurveying.com/residential-surveys/lot-consolidation-plats/",
+      "title": "Lot Consolidation Plats | Georgia Land Surveying"
+    },
+    {
+      "url": "https://www.pointtopointsurvey.com/service/lot-consolidation-plats/",
+      "title": "Lot Consolidation Plats | Top Surveying... | Point to Point Surveyors"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/how-build-single-home-across-two-lots-naples-your-guide-nathan-lorenz-eb2ff",
+      "title": "How to Build a Single Home Across Two Lots in Naples: Your Guide to..."
+    }
+  ],
+  "alternative parking minimums reductions findings": [
+    {
+      "url": "https://www.planning.org/planning/2022/spring/a-business-case-for-dropping-parking-minimums/",
+      "title": "A Business Case for Dropping Parking Minimums"
+    },
+    {
+      "url": "https://www.civilbeat.org/2023/12/want-more-affordable-housing-try-reducing-parking-requirements/",
+      "title": "Want More Affordable Housing? Try Reducing Parking Requirements"
+    },
+    {
+      "url": "https://topostreets.com/parking-minimums-vs-parking-pricing-citywide-impacts-mapped/",
+      "title": "Parking Minimums vs. Parking Pricing: Citywide... - Topo Streets"
+    },
+    {
+      "url": "https://www.passportinc.com/blog/eliminating-parking-minimums-obstacle-or-opportunity/",
+      "title": "Eliminating Parking Minimums : Obstacle or Opportunity? - Passport"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/aaron-lubeck_hb369-activity-7390359978378932224-hwQQ",
+      "title": "How parking minimums affect housing affordability | LinkedIn"
+    }
+  ],
+  "data dictionary template for open data portal": [
+    {
+      "url": "https://catalog.data.gov/dataset/data-dictionary-template-2e170",
+      "title": "Data Dictionary Template - Catalog"
+    },
+    {
+      "url": "https://data.govt.nz/toolkit/data-management/creating-a-data-dictionary/how-do-you-create-a-data-dictionary",
+      "title": "How do you create a data dictionary ? - data .govt.nz"
+    }
+  ],
+  "dcat metadata example for city datasets": [
+    {
+      "url": "https://www.w3.org/TR/vocab-dcat-3/",
+      "title": "Data Catalog Vocabulary (DCAT) - Version 3"
+    },
+    {
+      "url": "https://resources.data.gov/resources/dcat-us/",
+      "title": "DCAT-US Schema v1.1 (Project Open Data Metadata Schema) Appendix A: Sample Dataset Metadata \u00b7 Open Data - Metadata Guide DCAT-US - Version 3.0 - GitHub Pages Data Catalog Vocabulary (DCAT) \u2014 OntoLearner 0.1.0 documentation Using metadata to describe data assets in a data catalogue Data Catalog Vocabulary ( DCAT ) - Version 3 DCAT -US - Version 3.0 - GitHub Pages Data Catalog Vocabulary ( DCAT ) - Version 3 Data Catalog Vocabulary ( DCAT ) - Version 3 GitHub - DOI-DO/dcat-us: Data Catalog Vocabulary (DCAT ..."
+    },
+    {
+      "url": "https://centerforgov.gitbooks.io/open-data-metadata-guide/content/appendix-a.html",
+      "title": "Appendix A: Sample Dataset Metadata \u00b7 Open Data - Metadata Guide"
+    },
+    {
+      "url": "https://doi-do.github.io/dcat-us/",
+      "title": "DCAT-US - Version 3.0 - GitHub Pages"
+    }
+  ],
+  "ckan vs socrata comparison for mid sized city": [
+    {
+      "url": "https://opendata.stackexchange.com/questions/1517/ckan-vs-socrata",
+      "title": "CKAN vs . Socrata - Open Data Stack Exchange"
+    },
+    {
+      "url": "https://medium.com/analytics-vidhya/comprehensive-study-of-open-data-platforms-a63d702ef0d5",
+      "title": "Comprehensive Study of Open Data Platforms | by Digvijay... | Medium"
+    },
+    {
+      "url": "https://www.datopian.com/blog/nasa-from-socrata-to-ckan",
+      "title": "CKAN vs Socrata : Why NASA Chose Open Source for Its Open Data..."
+    }
+  ],
+  "arcgis hub community pages examples": [
+    {
+      "url": "https://doc.arcgis.com/en/hub/gallery/",
+      "title": "ArcGIS Hub Gallery | Examples from the Hub community"
+    },
+    {
+      "url": "https://hub.arcgis.com/pages/gallery",
+      "title": "ArcGIS Hub Gallery page"
+    }
+  ],
+  "automate weekly open data changelog rss": [
+    {
+      "url": "https://groups.google.com/g/jenkinsci-commits/c/bScCTgTKxT8",
+      "title": "[jenkins-infra/jenkins.io] bede1d: Automated changelog for 2.318"
+    }
+  ],
+  "ethics rules gift limits for community board members": [
+    {
+      "url": "https://www.caionline.org/getmedia/2776d2b9-3dd1-48a4-8035-e807c288e0d2/G2G_ModelCodeEthics.pdf",
+      "title": "\u00bb Code of Ethics for Community Association Board Members"
+    }
+  ]
+}

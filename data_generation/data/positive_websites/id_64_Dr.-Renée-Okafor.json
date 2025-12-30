@@ -1,0 +1,1432 @@
+{
+  "systems consolidation vs synaptic consolidation review 2023": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Memory_consolidation",
+      "title": "Memory consolidation - Wikipedia"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30814946/",
+      "title": "Temporal Flexibility of Systems Consolidation and the Synaptic ..."
+    },
+    {
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-062111-150500",
+      "title": "The Restless Engram: Consolidations Never End | Annual Reviews"
+    }
+  ],
+  "hippocampal replay human evidence open data": [
+    {
+      "url": "https://elifesciences.org/articles/85635",
+      "title": "Evaluating hippocampal replay without a ground truth | eLife"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5847173/",
+      "title": "The Role of Hippocampal Replay in Memory and Planning - PMC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hippocampal_replay",
+      "title": "Hippocampal replay - Wikipedia"
+    }
+  ],
+  "sleep spindles memory consolidation dataset OpenNeuro": [],
+  "Ebbinghaus forgetting curve replication modern": [
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644",
+      "title": "Replication and Analysis of Ebbinghaus\u2019 Forgetting Curve"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26148023/",
+      "title": "Replication and Analysis of Ebbinghaus' Forgetting Curve"
+    },
+    {
+      "url": "https://tipsforteachers.co.uk/41-replication-and-analysis-of-ebbinghausforgetting-curve/",
+      "title": "Research: Replication and Analysis of Ebbinghaus\u2019 Forgetting ..."
+    },
+    {
+      "url": "https://www.proquest.com/docview/1694530659/fulltextPDF?pq-origsite=primo",
+      "title": "Replication and Analysis of Ebbinghaus\u2019 - ProQuest"
+    }
+  ],
+  "consolidation interference retroactive proactive meta-analysis": [
+    {
+      "url": "https://www.simplypsychology.org/proactive-and-retroactive-interference.html",
+      "title": "Proactive & Retroactive Interference : Definition & Examples"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10029347/",
+      "title": "Differential Effects of Proactive and Retroactive Interference in..."
+    },
+    {
+      "url": "https://www.savemyexams.com/a-level/psychology/aqa/25/revision-notes/memory/explanations-for-forgetting-/proactive-and-retroactive-interference/",
+      "title": "Proactive & Retroactive Interference AQA A Level Psychology 2025"
+    },
+    {
+      "url": "https://escholarship.org/content/qt9b1306hc/qt9b1306hc_noSplash_99c6d629b577a2dd758247a34b9dbc63.pdf?t=os5ztg",
+      "title": "Proactive and Retroactive Interference Effects in Development"
+    }
+  ],
+  "brms multilevel varying slopes tutorial": [
+    {
+      "url": "https://utrechtuniversity.github.io/BayesianEstimation/content/tuesday/Tutorial_BRMS.html",
+      "title": "Building a Multilevel Model in BRMS Tutorial: Popularity Data"
+    },
+    {
+      "url": "https://cran.r-project.org/web/packages/brms/vignettes/brms_multilevel.pdf",
+      "title": "Advanced Bayesian Multilevel Modeling with the R Package brms Tutorial on varying-intercept, varying-slope multilevel ... 12 Multilevel Models | Statistical Rethinking with brms ... Estimating Phylogenetic Multilevel Models with brms Building a Multilevel Model in BRMS Tutorial: Popularity Data ... Building a Multilevel Model in BRMS Tutorial : Popularity Data Building a Multilevel Model in BRMS Tutorial : Popularity Data - Rens Advanced Bayesian Multilevel Modeling with the R Package brms 12 Multilevel Models | Statistical Rethinking with brms ... - Bookdown Random slope models | Centre for Multilevel Modelling ..."
+    },
+    {
+      "url": "https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/multilevel-models.html",
+      "title": "12 Multilevel Models | Statistical Rethinking with brms ..."
+    }
+  ],
+  "hierarchical Bayesian power analysis simulate brms": [
+    {
+      "url": "https://discourse.mc-stan.org/t/bayesian-power-analysis-for-sample-size-planning/24144",
+      "title": "Bayesian power analysis for sample size planning - brms - The Stan..."
+    },
+    {
+      "url": "https://cran.r-universe.dev/powerbrmsINLA",
+      "title": "powerbrmsINLA: Bayesian Power Analysis Using ' brms ' and 'INLA&apo..."
+    }
+  ],
+  "specification curve analysis R package": [
+    {
+      "url": "https://cran.r-project.org/web//packages//specr/specr.pdf",
+      "title": "specr: Conducting and Visualizing Specification Curve Analyses"
+    },
+    {
+      "url": "https://masurp.github.io/specr/",
+      "title": "Conducting and Visualizing Specification Curve Analyses"
+    },
+    {
+      "url": "https://philippmasur.de/2020/01/02/how-to-do-specification-curve-analyses-in-r-introducing-specr/",
+      "title": "How to do specification curve analyses in R: Introducing ..."
+    },
+    {
+      "url": "https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_spec-curve-analysis.md",
+      "title": "r-course-material/tutorials/R_spec-curve-analysis.md at ..."
+    },
+    {
+      "url": "https://cran.stat.sfu.ca/web/packages/specr/index.html",
+      "title": "CRAN: Package specr"
+    }
+  ],
+  "multiverse analysis preregistration template": [
+    {
+      "url": "https://johnflournoy.science/multiverse-preregistration/",
+      "title": "Prereg the Multiverse - Pre-registration of Multiverse Analyses"
+    },
+    {
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.250800",
+      "title": "The Systematic Multiverse Analysis Registration Tool for ..."
+    },
+    {
+      "url": "https://github.com/cassiesh/InterdisciplinaryTool_MultiversePreregistration",
+      "title": "cassiesh/InterdisciplinaryTool_MultiversePreregistration - GitHub"
+    }
+  ],
+  "registered report stage 1 template psychology": [
+    {
+      "url": "https://www.researchgate.net/publication/373824237_Registered_Report_Stage_1_manuscript_template",
+      "title": "(PDF) Registered Report Stage 1 manuscript template"
+    },
+    {
+      "url": "https://osf.io/nhsy5/",
+      "title": "OSF | Registered Report Stage 1"
+    }
+  ],
+  "journals that accept registered reports neuroscience list": [
+    {
+      "url": "https://authorservices-ppd.wiley.com/author-resources/Journal-Authors/submission-peer-review/registered-reports.html",
+      "title": "Registered Reports | Wiley"
+    }
+  ],
+  "OSF API link prereg to GitHub workflow": [
+    {
+      "url": "https://github.com/aaronpeikert/bayes-prereg/actions",
+      "title": "Workflow runs \u00b7 aaronpeikert/bayes- prereg \u00b7 GitHub"
+    },
+    {
+      "url": "https://pkg.go.dev/github.com/joshuabezaleel/go-osf/osf",
+      "title": "osf package - github .com/joshuabezaleel/go- osf / osf - Go Packages"
+    }
+  ],
+  "open materials badge criteria current guidelines": [
+    {
+      "url": "https://www.psychologicalscience.org/publications/badges",
+      "title": "Open Practice Badges \u2013 Association for Psychological Science \u2013 APS"
+    }
+  ],
+  "z-curve tutorial code R": [],
+  "p-curve vs z-curve comparison paper": [
+    {
+      "url": "https://replicationindex.com/2025/08/08/p-curve-vs-z-curve-replicability-analysis/",
+      "title": "P-Curve vs. Z-Curve: Why Meta-Analysts Are Moving On"
+    },
+    {
+      "url": "https://pdfs.semanticscholar.org/8713/904d2ab21e5bc6e454c650f4bad520c6da3c.pdf",
+      "title": "Z-curve 2.0: Estimating Replication Rates and Discovery Rates"
+    },
+    {
+      "url": "http://datacolada.org/wp-content/uploads/2017/12/5777-Schimmack-Brunner-Z-Curve.pdf",
+      "title": "Running head: Estimating Replicability 1 Z-Curve - Data Colada"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/338522440_Z-Curve20_Estimating_Replication_Rates_and_Discovery_Rates",
+      "title": "Z-Curve.2.0: Estimating Replication Rates and Discovery Rates"
+    }
+  ],
+  "small telescopes Simonsohn explainer": [
+    {
+      "url": "https://www.linkedin.com/posts/ronnyk_abtest-smalltelescope-experimentguide-activity-7352070207630135297-o35I",
+      "title": "Small Telescope Approach \u2013 Is that A/B test too small ? | Ron Kohavi"
+    },
+    {
+      "url": "https://sehailey.blogspot.com/2014/01/in-which-i-attempt-to-use-logic-of.html",
+      "title": "In which I attempt to use the logic of Simonsohn 's \" Small Telescopes ...."
+    }
+  ],
+  "equivalence testing TOST r tutorial": [
+    {
+      "url": "https://cran.rstudio.com/web/packages/TOSTER/vignettes/IntroductionToTOSTER.html",
+      "title": "Introduction to Equivalence Testing with TOSTER"
+    },
+    {
+      "url": "https://www.psychologicalscience.org/observer/equivalence-testing-with-toster",
+      "title": "Equivalence Testing With TOSTER \u2013 Association for Psychological..."
+    },
+    {
+      "url": "https://daniellakens.blogspot.com/2016/12/tost-equivalence-testing-r-package.html",
+      "title": "The 20% Statistician: TOST equivalence testing R package..."
+    },
+    {
+      "url": "https://rdrr.io/cran/TOSTER/f/vignettes/IntroductionToTOSTER.Rmd",
+      "title": "Introduction to Equivalence Testing with TOSTER\""
+    }
+  ],
+  "ROPE decision rule brms example": [
+    {
+      "url": "https://easystats.github.io/bayestestR/articles/region_of_practical_equivalence.html",
+      "title": "Region of Practical Equivalence (ROPE) \u2022 bayestestR"
+    },
+    {
+      "url": "https://rdrr.io/cran/bayestestR/man/equivalence_test.html",
+      "title": "equivalence_test: Test for Practical Equivalence in ... powerbrmsINLA package - RDocumentation BRMS: Best (and worst) Practices and Real World Examples Guide to Business Rules Management System (BRMS) - Cflow What is Business Rules Management? | IBM"
+    }
+  ],
+  "urban dawn chorus identification app offline": [
+    {
+      "url": "https://dawn-chorus.org/faq-en/",
+      "title": "Dawn Chorus - FAQs English - Citizen Science"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.natural_apptitude.dawnchorus&hl=en-US",
+      "title": "Dawn Chorus - Apps on Google Play"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/dawn-chorus/id1557441003",
+      "title": "Dawn Chorus on the App Store Dawn Chorus APK for Android - Free download and software ... Dawn Chorus app launch Spring 2025 - Natural Apptitude News Wake up to a chorus of birds in this alarm clock developed by ... Dawn Chorus - Citizen Science project for birdsong Dawn Chorus on the App Store Dawn Chorus on the App Store Dawn Chorus - Citizen Science project for birdsong"
+    },
+    {
+      "url": "https://download.cnet.com/dawn-chorus/3000-20432_4-78276705.html",
+      "title": "Dawn Chorus APK for Android - Free download and software ... Dawn Chorus app launch Spring 2025 - Natural Apptitude News Wake up to a chorus of birds in this alarm clock developed by ... Dawn Chorus - Citizen Science project for birdsong Dawn Chorus on the App Store Dawn Chorus on the App Store Dawn Chorus - Citizen Science project for birdsong"
+    },
+    {
+      "url": "https://www.natural-apptitude.co.uk/news/dawn-chorus-new-app-and-website-features-enhance-global-birdsong-project",
+      "title": "Dawn Chorus app launch Spring 2025 - Natural Apptitude News"
+    }
+  ],
+  "lme4 convergence troubleshooting check parameters": [
+    {
+      "url": "https://lme4.github.io/lme4/reference/convergence.html",
+      "title": "Assessing Convergence for Fitted Models \u2014 convergence \u2022 lme4"
+    },
+    {
+      "url": "https://stats.stackexchange.com/questions/663253/issues-with-convergence-and-singularity-in-mixed-models-with-interactions",
+      "title": "lme4 nlme - Issues with convergence and singularity in mixed ..."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/79179396/linear-mixed-effect-model-in-r-will-not-converge",
+      "title": "lme4 - Linear Mixed Effect Model in R will not converge ..."
+    },
+    {
+      "url": "https://www.quantargo.com/help/r/latest/packages/lme4/1.1-26/convergence",
+      "title": "lme4: convergence \u2013 R documentation \u2013 Quantargo"
+    },
+    {
+      "url": "https://rdrr.io/cran/lme4/man/troubleshooting.html",
+      "title": "troubleshooting: Troubleshooting in lme4: Linear Mixed ..."
+    }
+  ],
+  "glmmTMB vs lme4 for zero inflation guidance": [
+    {
+      "url": "https://stat.ethz.ch/pipermail/r-sig-mixed-models/2016q2/024847.html",
+      "title": "[R-sig-ME] Question about zero - inflated Poisson glmer"
+    },
+    {
+      "url": "https://orbit.dtu.dk/en/publications/glmmtmb-balances-speed-and-flexibility-among-packages-for-zero-in",
+      "title": "glmmTMB balances speed and flexibility among packages for..."
+    }
+  ],
+  "Satterthwaite vs Kenward-Roger when to use": [
+    {
+      "url": "https://stats.stackexchange.com/questions/108161/satterthwaite-vs-kenward-roger-approximations-for-the-degrees-of-freedom-in-mix",
+      "title": "r - Satterthwaite vs . Kenward - Roger approximations for the degrees..."
+    },
+    {
+      "url": "https://medium.com/@TingyuZou/why-your-type-iii-anova-in-mixed-models-is-slow-kenward-roger-vs-satterthwaite-61477cabfce2",
+      "title": "Why Your Type III ANOVA in Mixed Models Is Slow: Kenward - Roger ..."
+    },
+    {
+      "url": "https://githubissues.com/glmmTMB/glmmTMB/536",
+      "title": "Kenward - Roger , Satterthwaite or LRT in glmmTMB - Githubissues"
+    },
+    {
+      "url": "https://stat.ethz.ch/pipermail/r-sig-mixed-models/2024q4/030690.html",
+      "title": "[R-sig-ME] how to get satterthwaite / Kenward - Roger degrees of..."
+    }
+  ],
+  "type S and type M errors Gelman notes": [
+    {
+      "url": "https://cran.r-project.org/web/packages/retrodesign/vignettes/Intro_To_retrodesign.html",
+      "title": "An Introduction to Type S and M errors in Hypothesis Testing"
+    },
+    {
+      "url": "https://alexanderetz.com/2015/05/21/type-s-and-type-m-errors/",
+      "title": "Type - S and Type - M errors | The Etz-Files"
+    },
+    {
+      "url": "https://medium.com/@r.clin.res/type-m-and-type-s-errors-in-underpowered-studies-175291966f3b",
+      "title": "Type - M and Type - S errors in underpowered studies | Medium"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2020/09/LuQiuDeng-BJMSP2019.pdf",
+      "title": "A note on Type S / M errors in hypothesis testing"
+    },
+    {
+      "url": "https://cran.r-universe.dev/articles/Spower/Spower_TypeSM.html",
+      "title": "Type M and Type S errors"
+    }
+  ],
+  "prior elicitation for cognitive effects workshop": [
+    {
+      "url": "https://arxiv.org/pdf/2112.07090",
+      "title": "Methods for Eliciting Informative Prior Distributions"
+    },
+    {
+      "url": "https://www.numberanalytics.com/blog/ultimate-guide-prior-elicitation",
+      "title": "The Ultimate Guide to Prior Elicitation"
+    },
+    {
+      "url": "https://www.bayesianspectacles.org/preprint-practical-challenges-and-methodological-flexibility-in-prior-elicitation/",
+      "title": "Preprint: Practical Challenges and Methodological Flexibility in Prior ..."
+    },
+    {
+      "url": "https://link.springer.com/article/10.3758/s13423-022-02074-4",
+      "title": "Expert agreement in prior elicitation and its effects on Bayesian..."
+    },
+    {
+      "url": "https://www.nature.com/articles/s41598-024-68090-7?error=cookies_not_supported&code=3fb25e47-525e-4e49-858f-c271f77665e2",
+      "title": "Simulation-based prior knowledge elicitation for parametric Bayesian..."
+    }
+  ],
+  "Bayes factors for null models brms bridgesampling": [
+    {
+      "url": "https://cran.r-project.org/web//packages//bridgesampling/bridgesampling.pdf",
+      "title": "bridgesampling: Bridge Sampling for Marginal Likelihoods and ..."
+    },
+    {
+      "url": "https://paulbuerkner.com/brms/reference/bayes_factor.brmsfit.html",
+      "title": "Bayes Factors from Marginal Likelihoods \u2014 bayes_factor.brmsfit"
+    },
+    {
+      "url": "https://awellis.github.io/learnmultilevelmodels/posts/2021-06-03-bayes-factor-bridgesampling/",
+      "title": "Learn multilevel models: Estimating a Bayes factor using ..."
+    },
+    {
+      "url": "https://rdrr.io/cran/brms/man/bayes_factor.brmsfit.html",
+      "title": "bayes_factor.brmsfit: Bayes Factors from Marginal Likelihoods ..."
+    }
+  ],
+  "pre-registration vs registered report differences": [
+    {
+      "url": "https://www.aje.com/arc/pre-registration-vs-registered-reports",
+      "title": "Pre-registration vs. Registered Reports: What\u2019s the difference?"
+    },
+    {
+      "url": "https://guides.libraries.uc.edu/c.php?g=1404763&p=10491058",
+      "title": "Preregistration and Registered Reports - Open Science ..."
+    },
+    {
+      "url": "https://www.surrey.ac.uk/library/open-research/preregistration-and-registered-reports",
+      "title": "Preregistration and Registered Reports | University of Surrey"
+    },
+    {
+      "url": "https://www.cos.io/communities/stem-education-hub/preregistration-and-registered-reports",
+      "title": "Preregistration and Registered Reports in STEM Education"
+    },
+    {
+      "url": "https://bookdown.org/dorothy_bishop/Evaluating-What-Works/prereg.html",
+      "title": "Chapter 22 Pre-registration and Registered Reports ..."
+    }
+  ],
+  "reproducible R with renv and Docker example": [
+    {
+      "url": "https://medium.com/appsilon-data-science/renv-with-docker-how-to-dockerize-a-shiny-application-with-a-reproducible-environment-b144bd1305e0",
+      "title": "Renv with Docker : How to Dockerize a Shiny Application... | Medium"
+    },
+    {
+      "url": "https://focusonr.org/posts/share_r_code_via_docker_p25/",
+      "title": "Research Compendia for Full Reproducibility in R : A zzrrtools, renv ..."
+    }
+  ],
+  "Quarto reproducible manuscript template with code chunks": [
+    {
+      "url": "https://meridian.allenpress.com/jfwm/article/15/1/251/501496/A-Reproducible-Manuscript-Workflow-With-a-Quarto",
+      "title": "A Reproducible Manuscript Workflow With a Quarto Template"
+    },
+    {
+      "url": "https://www.usgs.gov/publications/a-reproducible-manuscript-workflow-a-quarto-template",
+      "title": "A reproducible manuscript workflow with a Quarto template code-chunks \u2013 Reproducible Manuscripts in R with Quarto Workshop Reproducible Manuscripts with Quarto Adding Code to Quarto Documents \u2013 Introduction to ... Reproducible publishing with Quarto \u2013 Manuscripts Reproducible Manuscripts with Quarto"
+    },
+    {
+      "url": "https://jgeller112.github.io/BC_2025_Repo_Manuscripts/slides/code-chunks.html",
+      "title": "code-chunks \u2013 Reproducible Manuscripts in R with Quarto Workshop"
+    },
+    {
+      "url": "https://mine.quarto.pub/manuscripts-conf23/",
+      "title": "Reproducible Manuscripts with Quarto"
+    },
+    {
+      "url": "https://carpentry.library.ucsb.edu/reproducible-publications-quarto/07-code-qmd/index.html",
+      "title": "Adding Code to Quarto Documents \u2013 Introduction to ..."
+    }
+  ],
+  "GitHub Actions R CMD check setup for package": [
+    {
+      "url": "https://usethis.r-lib.org/reference/github_actions.html",
+      "title": "GitHub Actions setup \u2014 github_actions \u2022 usethis"
+    },
+    {
+      "url": "https://github.com/r-lib/actions",
+      "title": "GitHub - r-lib/actions: GitHub Actions for the R community"
+    },
+    {
+      "url": "https://www.r-bloggers.com/2025/02/checking-your-r-packages-and-practicals-on-a-schedule-using-github-actions/",
+      "title": "Checking your R packages and practicals on a schedule using ..."
+    },
+    {
+      "url": "https://tidyverse.org/blog/2022/06/actions-2-0-0/",
+      "title": "GitHub Actions for R developers, v2 - tidyverse"
+    },
+    {
+      "url": "https://search.r-project.org/CRAN/refmans/rcompendium/html/add_github_actions_check.html",
+      "title": "R: Setup GitHub Actions to check package"
+    }
+  ],
+  "CITATION.cff and Zenodo DOI linking guide": [
+    {
+      "url": "https://help.zenodo.org/docs/github/describe-software/citation-file/",
+      "title": "CITATION.cff file | Zenodo"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HZ6m8oxwvig",
+      "title": "How to publish and cite code using GitHub and Zenodo Zenodo \u2013 CCBR How-Tos Add proper citation via Zenodo archive and update CITATION.cff How to Add a Citation to Your Code \u2014 pyOpenSci Lessons Describe software | Zenodo Creating GitHub releases and Zenodo DOIs for How-to Guides"
+    },
+    {
+      "url": "https://ccbr.github.io/HowTos/docs/zenodo.html",
+      "title": "Zenodo \u2013 CCBR How-Tos"
+    },
+    {
+      "url": "https://www.pyopensci.org/lessons/package-share-code/publish-share-code/cite-code.html",
+      "title": "How to Add a Citation to Your Code \u2014 pyOpenSci Lessons"
+    }
+  ],
+  "data version control DVC tutorial for large datasets": [
+    {
+      "url": "https://www.datacamp.com/tutorial/data-version-control-dvc",
+      "title": "The Complete Guide to Data Version Control With DVC"
+    },
+    {
+      "url": "https://doc.dvc.org/start",
+      "title": "Get Started with DVC - Data Version Control"
+    },
+    {
+      "url": "https://medium.com/@fedihamdi.jr/mastering-data-version-control-with-dvc-47115b41c6ed",
+      "title": "Mastering Data Version Control with DVC - Medium"
+    },
+    {
+      "url": "https://analyticsengineering.com/resource/the-basics-of-data-version-control-dvc/",
+      "title": "The Basics of Data Version Control (DVC): How to Manage Data ..."
+    },
+    {
+      "url": "https://techbuzzonline.com/data-version-control-dvc-guide/",
+      "title": "Data Version Control (DVC) for Beginners: A Practical Guide ..."
+    }
+  ],
+  "Git LFS neuroscience data best practices": [
+    {
+      "url": "https://www.almabetter.com/bytes/tutorials/mlops/managing-data-and-model-artifacts-with-git-lfs",
+      "title": "Managing Data and Model Artifacts with Git LFS - AlmaBetter"
+    },
+    {
+      "url": "https://wellarchitected.github.com/library/architecture/recommendations/scaling-git-repositories/when-to-use-git-lfs/",
+      "title": "When to use Git LFS \u2013 GitHub Well-Architected"
+    },
+    {
+      "url": "https://medium.com/theaiengineer/how-to-storing-large-datasets-in-github-using-git-lfs-34fdfbd8a339",
+      "title": "How to: storing large datasets in Github (using git lfs) - Medium"
+    },
+    {
+      "url": "https://gitprotect.io/blog/best-practices-for-securing-git-lfs-on-github-gitlab-bitbucket-and-azure-devops/",
+      "title": "Best Practices for Securing Git LFS on GitHub, GitLab ..."
+    }
+  ],
+  "FAIR data principles checklist neuroscience": [
+    {
+      "url": "https://guides.library.cmu.edu/researchdatamanagement/FAIR_psychneuro",
+      "title": "FAIR Principles in Neuroscience and Psychology"
+    },
+    {
+      "url": "https://www.frontiersin.org/research-topics/67086/open-and-fair-data-in-neuroscience",
+      "title": "Open and FAIR Data in Neuroscience - Frontiers"
+    }
+  ],
+  "GDPR pseudonymization for EEG shareability": [
+    {
+      "url": "https://secureprivacy.ai/blog/neurodata-consent-eeg-brain-computer-interface-data-gdpr-ccpa",
+      "title": "Neurodata Consent Frameworks: Managing EEG/Brain-Computer ..."
+    },
+    {
+      "url": "https://briefings.brownrudnick.com/post/102l5i0/cjeu-expands-gdpr-scope-and-clarifies-treatment-of-pseudonymized-data-what-busin",
+      "title": "CJEU Expands GDPR Scope and Clarifies Treatment of ..."
+    },
+    {
+      "url": "https://www.censinet.com/perspectives/pseudonymization-gdpr-privacy-standards",
+      "title": "How Pseudonymization Meets GDPR Privacy Standards | Censinet"
+    },
+    {
+      "url": "https://www.fasken.com/en/knowledge/2025/03/new-eu-pseudonymization-guidelines",
+      "title": "New EU Pseudonymization Guidelines \u2013 What You Need to Know"
+    },
+    {
+      "url": "https://www.edpb.europa.eu/system/files/2025-01/edpb_guidelines_202501_pseudonymisation_en.pdf",
+      "title": "Adopted on 16 January 2025 Guidelines - edpb.europa.eu"
+    }
+  ],
+  "consent language for open data human subjects template": [
+    {
+      "url": "https://research.rutgers.edu/faculty-staff/compliance/human-research-protection/toolkit",
+      "title": "Human Research Protection Program Toolkit | Rutgers Research"
+    },
+    {
+      "url": "https://irb.ucdavis.edu/irb-submissions/irb-forms/",
+      "title": "IRB Forms - IRB"
+    },
+    {
+      "url": "https://grants.nih.gov/policy-and-compliance/policy-topics/human-subjects/coc/suggested-consent",
+      "title": "Example Informed Consent Language | Grants & Funding"
+    }
+  ],
+  "CC0 vs CC BY for datasets pros cons": [
+    {
+      "url": "https://seamap.env.duke.edu/content/news/noaa-datasets-cc0",
+      "title": "OBIS-SEAMAP - news/noaa- datasets - cc 0"
+    }
+  ],
+  "OpenNeuro search memory tasks": [
+    {
+      "url": "https://colab.research.google.com/github/gallantlab/cottoncandy/blob/master/cottoncandy/examples/ccexample_openneuro.ipynb",
+      "title": "example_ openneuro .ipynb - Colab"
+    },
+    {
+      "url": "https://handbook.datalad.org/en/latest/usecases/openneuro.html",
+      "title": "OpenNeuro Quickstart Guide: Accessing OpenNeuro datasets via..."
+    }
+  ],
+  "CRCNS hippocampus spike sorting datasets": [
+    {
+      "url": "https://crcns.org/data-sets/hc",
+      "title": "Hippocampus \u2014 CRCNS .org"
+    },
+    {
+      "url": "https://crcns.org/data-sets/hc/hc-16/about-hc-16",
+      "title": "About hc-16 \u2014 CRCNS .org"
+    }
+  ],
+  "spike sorting pipeline comparison Kilosort vs MountainSort": [
+    {
+      "url": "https://jscholarship.library.jhu.edu/bitstreams/596bc539-1fbc-4e02-a273-f21fa9d77f45/download",
+      "title": "OPTIMIZING AND BENCHMARKING SPIKE SORTING PIPELINES FOR HIGH ..."
+    },
+    {
+      "url": "https://github.com/flatironinstitute/mountainsort5",
+      "title": "GitHub - flatironinstitute/mountainsort5: MountainSort spike ... A fully automated approach to spike sorting - PMC Spike sorting with Kilosort4 - Nature Methods Processing pipelines \u2014 MountainSort 1.0.0 documentation mountainsort5 \u00b7 PyPI Processing pipelines \u2014 MountainSort 1.0.0 documentation A fully automated approach to spike sorting - PMC - PubMed Central (P\u2026 Spike sorting with Kilosort4 - Nature Methods Spike sorting with Kilosort4 - Nature Methods A Fully Automated Approach to Spike Sorting - ScienceDirect"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5743236/",
+      "title": "A fully automated approach to spike sorting - PMC"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41592-024-02232-7",
+      "title": "Spike sorting with Kilosort4 - Nature Methods"
+    },
+    {
+      "url": "https://mountainsort.readthedocs.io/en/latest/processing_pipelines.html",
+      "title": "Processing pipelines \u2014 MountainSort 1.0.0 documentation"
+    }
+  ],
+  "calcium imaging analysis open source tools overview": [
+    {
+      "url": "https://porteralab.dgsom.ucla.edu/ezcalcium",
+      "title": "EZcalcium | Portera-Cailliau Research Lab"
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2020.00025/full",
+      "title": "EZcalcium: Open-Source Toolbox for Analysis of Calcium ..."
+    },
+    {
+      "url": "https://caiman.readthedocs.io/en/latest/Overview.html",
+      "title": "Overview \u2014 CaImAn 1.12.2 documentation"
+    },
+    {
+      "url": "https://github.com/porteralab/EZcalcium",
+      "title": "GitHub - porteralab/EZcalcium: Calcium Data Extraction and ... CALIMA: The semi-automated open-source calcium imaging ... FluoAnalysis: An Open-Source MATLAB Toolbox for Analysis of ... CaImAn an open source tool for scalable calcium imaging data ..."
+    }
+  ],
+  "event related potentials memory reconsolidation studies": [],
+  "stress and consolidation cortisol timing meta analysis": [],
+  "contextual binding theory key papers": [
+    {
+      "url": "https://www.nature.com/articles/s41583-019-0191-8.pdf",
+      "title": "Comparing integration and contextual binding accounts of ..."
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30872808/",
+      "title": "A contextual binding theory of episodic memory: systems ..."
+    },
+    {
+      "url": "https://escholarship.org/content/qt90v2b44t/qt90v2b44t.pdf?t=rva7if",
+      "title": "A contextual binding theory of episodic memory: Systems ..."
+    },
+    {
+      "url": "https://www.scribd.com/document/888235257/A-Contextual-Binding-Theory-of-Episodic-Memory-Systems-Systems-Consolidation-Reconsidered",
+      "title": "A Contextual Binding Theory of Episodic Memory Systems ..."
+    }
+  ],
+  "systems consolidation time course humans longitudinal": [],
+  "long term potentiation consolidation link classic datasets": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Long-term_potentiation",
+      "title": "Long - term potentiation - Wikipedia"
+    },
+    {
+      "url": "https://www.jneurosci.org/content/27/39/10445",
+      "title": "Sustained Arc/Arg3.1 Synthesis Controls Long - Term Potentiation ..."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/5946953_Sustained_ArcArg31_Synthesis_Controls_Long-Term_Potentiation_Consolidation_through_Regulation_of_Local_Actin_Polymerization_in_the_Dentate_Gyrus_In_Vivo",
+      "title": "(PDF) Sustained Arc/Arg3.1 Synthesis Controls Long - Term ..."
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2021.767384/full",
+      "title": "Frontiers | Molecular Mechanisms of Memory Consolidation That..."
+    }
+  ],
+  "preregistration templates OSF cognitive experiments": [
+    {
+      "url": "https://osf.io/dmbcy/",
+      "title": "OSF | Templates of OSF Registration Forms Wiki"
+    },
+    {
+      "url": "https://www.overleaf.com/latex/templates/osf-preregistration-template/ycwdkjhjpgfy",
+      "title": "OSF Preregistration Template - Overleaf, Online LaTeX Editor"
+    },
+    {
+      "url": "https://www.cos.io/blog/choosing-preregistration-template-guide-for-researchers",
+      "title": "Choosing the Right Preregistration Template : A Guide for Researchers"
+    }
+  ],
+  "power analysis mixed models simr examples": [
+    {
+      "url": "https://humburg.github.io/Power-Analysis/simr_power_analysis.html",
+      "title": "Power Analysis with simr - Genomic Campfire"
+    },
+    {
+      "url": "https://aaroncaldwell.us/SuperpowerBook/beyond-superpower-i-mixed-models-with-simr.html",
+      "title": "Chapter 14 Beyond Superpower I: Mixed Models with simr ..."
+    },
+    {
+      "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12504",
+      "title": "SIMR: an R package for power analysis of generalized linear ... simr: Power Analysis for Generalised Linear Mixed Models by ... Package 'simr' reference manual simr: vignettes/examples.Rmd - R Package Documentation simr : Power Analysis for Generalised Linear Mixed Models by Simulation SIMR: an R package for power analysis of generalized linear mixed Chapter 14 Beyond Superpower I: Mixed Models with simr Estimating power in (generalized) linear mixed models : An open Estimating power in (generalized) linear mixed models: An ..."
+    },
+    {
+      "url": "https://cran.r-project.org/web/packages/simr/simr.pdf",
+      "title": "simr: Power Analysis for Generalised Linear Mixed Models by ... Package 'simr' reference manual simr: vignettes/examples.Rmd - R Package Documentation simr : Power Analysis for Generalised Linear Mixed Models by Simulation SIMR: an R package for power analysis of generalized linear mixed Chapter 14 Beyond Superpower I: Mixed Models with simr Estimating power in (generalized) linear mixed models : An open Estimating power in (generalized) linear mixed models: An ..."
+    },
+    {
+      "url": "https://cran.r-universe.dev/simr/doc/manual.html",
+      "title": "Package 'simr' reference manual"
+    }
+  ],
+  "optimal sampling cluster sizes multilevel designs": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8172256/",
+      "title": "Optimal two-stage sampling for mean estimation in multilevel ..."
+    },
+    {
+      "url": "https://www.stats.ox.ac.uk/~snijders/PowerSampleSizeMultilevel.pdf",
+      "title": "Power and sample size in multilevel modeling"
+    },
+    {
+      "url": "https://par.nsf.gov/servlets/purl/10440184",
+      "title": "Optimal Sample Allocation for Three-Level Multisite Cluster ..."
+    },
+    {
+      "url": "https://www.numberanalytics.com/blog/advanced-sample-size-multilevel",
+      "title": "Advanced Sample Size Methods for Multilevel"
+    },
+    {
+      "url": "https://link.springer.com/content/pdf/10.1007/978-0-387-73186-5_4.pdf",
+      "title": "4 Optimal Designs for Multilevel Studies - Springer"
+    }
+  ],
+  "missing data in multilevel models Bayesian strategies": [
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S1226319218300176",
+      "title": "Bayesian methods for dealing with missing data problems"
+    },
+    {
+      "url": "https://academic.oup.com/jrsssa/article/177/2/553/7077980",
+      "title": "Fitting Multilevel Multivariate Models with Missing Data in ..."
+    },
+    {
+      "url": "https://link.springer.com/article/10.3758/s13428-020-01530-0",
+      "title": "Multiple imputation of missing data in multilevel models with ..."
+    },
+    {
+      "url": "https://bookdown.org/marklhc/notes_bookdown/missing-data.html",
+      "title": "Chapter 12 Missing Data | Course Handouts for Bayesian Data ..."
+    }
+  ],
+  "measurement error attenuation correction meta research": [
+    {
+      "url": "https://gwern.net/doc/statistics/meta-analysis/2004-hunterschmidt-methodsofmetaanalysis.pdf",
+      "title": "Methods of Meta -Analysis: Correcting Error and Bias in Research ..."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/336369768_Obtaining_unbiased_results_in_meta-analysis_the_importance_of_correcting_for_statistical_artefacts",
+      "title": "Obtaining unbiased results in meta -analysis: the importance of..."
+    },
+    {
+      "url": "https://matthewbjane.quarto.pub/artifact-corrections-for-effect-sizes/13-artifact-correction-meta-analysis/13-artifact-correction-meta-analysis.html",
+      "title": "Artifact Corrections for Effect Sizes - 11 Artifact Correction ..."
+    }
+  ],
+  "questionable research practices prevalence 2022 survey": [
+    {
+      "url": "https://scispace.com/papers/questionable-research-practices-of-medical-and-dental-2g4r70ntn7",
+      "title": "Questionable research practices of medical and dental faculty in..."
+    }
+  ],
+  "reproducibility checklist neuroscience example": [
+    {
+      "url": "https://www.meegle.com/en_us/advanced-templates/cognitive_neuroscience_research/neuroimaging_reproducibility_checklist_template",
+      "title": "Neuroimaging Reproducibility Checklist Template - Meegle"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41386-024-01973-5",
+      "title": "Reporting checklists in neuroimaging: promoting transparency ... Images The NERVE-ML (neural engineering reproducibility and validity ... Enhancing the quality and reproducibility of research ... Best Practices for Reproducible Neuroscience DiamonDiva/comp-neuro-repro-checklist - GitHub Better reporting for better research: a checklist for ..."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11948487/",
+      "title": "The NERVE-ML (neural engineering reproducibility and validity ..."
+    }
+  ],
+  "Lab charter template psychological safety": [
+    {
+      "url": "https://psychsafety.com/psychological-safety-80-team-charters/",
+      "title": "Psychological Safety: Team Charters - Psych Safety"
+    },
+    {
+      "url": "https://www.template.net/edit-online/360073/psychological-safety-team-charter",
+      "title": "Free Psychological Safety Team Charter Template to Edit Online"
+    },
+    {
+      "url": "https://miro.com/templates/psychological-safety-canvas-template/",
+      "title": "Psychological Safety Canvas Template | Miroverse"
+    }
+  ],
+  "authorship contribution CRediT statement generator": [
+    {
+      "url": "https://credit.metabolomics.fgu.cas.cz/",
+      "title": "CRediT Generator"
+    },
+    {
+      "url": "https://casrai.org/resources/tools/generator/",
+      "title": "CRediT Statement Generator Tool: Create CRediT Statements ..."
+    },
+    {
+      "url": "https://www.credit-role-generator.app/",
+      "title": "CRediT Generator - Create Contributor Role Taxonomy Statements"
+    }
+  ],
+  "data and code availability statement examples journal": [
+    {
+      "url": "https://www.aeaweb.org/journals/data/data-code-policy",
+      "title": "Data and Code Availability Policy"
+    },
+    {
+      "url": "https://openscience.icac.cat/data-and-code-availability-statements/",
+      "title": "Data and Code Availability Statements - Open science ICAC-CERCA"
+    },
+    {
+      "url": "https://f1000research.com/for-authors/data-guidelines",
+      "title": "Data Guidelines | F1000Research"
+    }
+  ],
+  "transparent reporting checklist cognitive experiments": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7296848/",
+      "title": "Consensus on the reporting and experimental design of ..."
+    },
+    {
+      "url": "https://online.ucpress.edu/collabra/article/10/1/121243/202929/Assessing-the-Transparency-of-Methods-in",
+      "title": "Assessing the Transparency of Methods in Scientific Reporting"
+    },
+    {
+      "url": "https://forrt.org/educators-corner/002-transparencychecklist-balazsaczel/",
+      "title": "Using the 'Transparency Checklist Guidelines' as an ... - FORRT"
+    }
+  ],
+  "peer review reproducibility criteria editorial policy": [
+    {
+      "url": "https://sigir2025.dei.unipd.it/call-res-repro-papers.html",
+      "title": "SIGIR 2025, Padua, 13-18 July | Call for Resource & Reproducibility ..."
+    },
+    {
+      "url": "https://ieeeaccess.ieee.org/authors/reproducibility/",
+      "title": "IEEE Access | Reproducibility Pilot Program"
+    }
+  ],
+  "desk rejection criteria reproducibility focused journal": [
+    {
+      "url": "https://www.linkedin.com/pulse/journal-desk-rejections-common-reasons-issue-8-issues-dwivedi-vayzf",
+      "title": "Journal Desk Rejections : Common Reasons - Issue..."
+    },
+    {
+      "url": "https://www.editage.com/insights/guide-to-desk-rejection-and-resubmission",
+      "title": "Desk Rejection & Resubmission: Budget-Friendly Journal Submission..."
+    }
+  ],
+  "registered report example decision letter": [
+    {
+      "url": "https://rr.peercommunityin.org/PCIRegisteredReports/help/help_practical",
+      "title": "PCI Registered Reports - Peer Community In"
+    }
+  ],
+  "open peer review platforms PREreview how to": [
+    {
+      "url": "https://content.prereview.org/publish-pre-review-curate/",
+      "title": "Publish, ( PRE ) Review , Curate"
+    },
+    {
+      "url": "https://infrafinder.investinopen.org/solutions/prereview",
+      "title": "PREreview | Infra Finder"
+    }
+  ],
+  "Obsidian Zotero integration Better BibTex workflow": [
+    {
+      "url": "https://l3lab.net/posts/tutorial-zotero-obsidian-annotations/2024-08-12-academic-workflow-obsidian-zotero/",
+      "title": "Annotation Tutorial 2: Integrating Zotero with Obsidian \u2013 Life Long..."
+    },
+    {
+      "url": "https://medium.com/obsidian-observer/research-made-easy-integrating-zotero-into-my-obsidian-workflow-d4fc8069432f",
+      "title": "Research Made Easy: Integrating Zotero into My Obsidian Workflow"
+    },
+    {
+      "url": "https://girlinbluemusic.com/how-to-connect-zotero-and-obsidian-for-the-ultimate-phd-workflow/",
+      "title": "How to Connect Zotero and Obsidian for the Ultimate PhD Workflow"
+    },
+    {
+      "url": "https://gist.ly/youtube-summarizer/connecting-zotero-to-obsidian-better-bibtex-plugin-setup",
+      "title": "Connecting Zotero to Obsidian : Better BibTeX Plugin Setup"
+    },
+    {
+      "url": "https://groundwater.usu.edu/blog/2023/A-Zotero-to-Obsidian-Workflow/",
+      "title": "A Zotero to Obsidian Workflow | Shuai Computational and Integrated ..."
+    }
+  ],
+  "Zotero to Obsidian citation links plugin": [
+    {
+      "url": "https://github.com/cbx812/zotero-obsidian-citations",
+      "title": "cbx812/ zotero - obsidian - citations : A Zotero plugin that links ..."
+    }
+  ],
+  "custom Zotero tags bulk add script": [
+    {
+      "url": "https://forums.zotero.org/discussion/78145/how-can-i-bulk-add-a-tag-to-many-files",
+      "title": "How can I bulk add a tag to many files? - Zotero Forums"
+    },
+    {
+      "url": "https://github.com/thalient-ai/zotero-scripts",
+      "title": "GitHub - thalient-ai/zotero-scripts: A collection of scripts ..."
+    },
+    {
+      "url": "https://www.reddit.com/r/zotero/comments/17i7yat/using_custom_scripts_with_zotero_tag/",
+      "title": "Using custom scripts with Zotero Tag (zotero-actions-tags ..."
+    },
+    {
+      "url": "https://forums.zotero.org/discussion/115265/bulk-editing-in-zotero",
+      "title": "Bulk Editing in Zotero - Zotero Forums"
+    },
+    {
+      "url": "https://github.com/thalient-ai/zotero-scripts/blob/main/README.md",
+      "title": "zotero-scripts/README.md at main \u00b7 thalient-ai/zotero-scripts"
+    }
+  ],
+  "OpenAlex advanced query by concept and year": [
+    {
+      "url": "https://docs.ropensci.org/openalexR/reference/oa_query.html",
+      "title": "Generate an OpenAlex query from a set of parameters"
+    },
+    {
+      "url": "https://ua-libraries-research-data-services.github.io/UALIB_ScholarlyAPI_Cookbook/src/python/openalex.html",
+      "title": "OpenAlex API in Python \u2014 Scholarly API Cookbook"
+    },
+    {
+      "url": "https://docs.openalex.org/quickstart-tutorial",
+      "title": "Quickstart tutorial | OpenAlex technical documentation"
+    }
+  ],
+  "Europe PMC API download abstracts python example": [
+    {
+      "url": "https://github.com/juanjosecas/europepmc-search-script",
+      "title": "GitHub - juanjosecas/ europepmc -search-script"
+    },
+    {
+      "url": "https://pypi.org/project/pyeuropepmc/",
+      "title": "A Python package for working with the Europe PMC API to search..."
+    },
+    {
+      "url": "https://www.kaggle.com/code/chrisfilo/using-europepmc-api-to-download-academic-papers/execution",
+      "title": "Using EuropePMC API to download academic papers"
+    }
+  ],
+  "compact waterproof binoculars 8x32 for city birding": [
+    {
+      "url": "https://www.ebay.com/itm/236283427507",
+      "title": "SV47 Waterproof Binoculars 8 x 32 / 8 x 42 for Bird Watching... | eBay"
+    },
+    {
+      "url": "https://www.night-optics.com/minox-bl-8x32-br-lightweight-waterproof-binoculars-62149.html",
+      "title": "Minox BL 8 x 32 BR Lightweight Waterproof Binoculars 62149 ."
+    },
+    {
+      "url": "https://barrideoptics.en.made-in-china.com/product/ZdPQaprcJmWl/China-8X32-Outdoor-Waterproof-Long-Distance-Binoculars-BM-7221B-.html",
+      "title": "8 X 32 Outdoor Waterproof Long Distance Binoculars ..."
+    }
+  ],
+  "Semantic Scholar API rate limits": [
+    {
+      "url": "https://www.semanticscholar.org/product/api",
+      "title": "Semantic Scholar Academic Graph API | Semantic Scholar"
+    },
+    {
+      "url": "https://www.semanticscholar.org/product/api/tutorial",
+      "title": "Quick guide to get started with Semantic Scholar Academic Graph API ."
+    }
+  ],
+  "VOSviewer import from Scopus vs OpenAlex": [
+    {
+      "url": "https://www.vosviewer.com/",
+      "title": "VOSviewer - Visualizing scientific landscapes"
+    },
+    {
+      "url": "https://www.cwts.nl/blog?article=n-r2v284",
+      "title": "20190117_ VOSviewer supports large number of new data sources"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/79443753/pybliometrics-and-vos-viewer",
+      "title": "scopus - Pybliometrics and Vos Viewer - Stack Overflow"
+    },
+    {
+      "url": "https://www.researchgate.net/post/Does_anyone_have_a_solution_to_to_problems_when_using_Scopus_files_in_VosViwer",
+      "title": "Does anyone have a solution to to problems when using Scopus files..."
+    }
+  ],
+  "Gephi layout for citation networks tips": [
+    {
+      "url": "https://github.com/gephi/gephi/wiki/Gephi:-How-to-convert-Citation-Network-to-co--Citation-Netwrok-In-Gephi",
+      "title": "Gephi: How to convert Citation Network to co Citation Netwrok ..."
+    },
+    {
+      "url": "https://libguides.brown.edu/gephi",
+      "title": "Home - Network Analysis with Gephi - Brown University"
+    },
+    {
+      "url": "https://www.researchgate.net/post/How_to_do_citation_network_analysis_of_Scopus_data_in_Gephi",
+      "title": "How to do citation network analysis of Scopus data in Gephi?"
+    },
+    {
+      "url": "https://medium.com/data-analytics-at-nesta/how-to-create-network-visualisations-with-gephi-a-step-by-step-tutorial-e0743c49ec72",
+      "title": "How to create network visualisations with Gephi: A step by ..."
+    }
+  ],
+  "BERTopic literature clustering tutorial Jupyter": [
+    {
+      "url": "https://maartengr.github.io/BERTopic/getting_started/clustering/clustering.html",
+      "title": "3. Clustering - BERTopic - GitHub Pages"
+    },
+    {
+      "url": "https://medium.com/@sreevatsavthamminana/from-data-chaos-to-clarity-semantic-clustering-and-topic-discovery-using-bertopic-c747c2a2a1ae",
+      "title": "From Data Chaos to Clarity: Semantic Clustering and Topic ..."
+    },
+    {
+      "url": "https://www.mlforseo.com/resource/web-content-clustering-topic-modeling-with-bertopic-notebook/",
+      "title": "Web Content Clustering: Topic Modeling with BERTopic ..."
+    }
+  ],
+  "SPECTER embeddings for papers colab notebook": [
+    {
+      "url": "https://github.com/allenai/specter",
+      "title": "GitHub - allenai/specter: SPECTER: Document-level ..."
+    }
+  ],
+  "topic drift analysis term frequency over decades R": [
+    {
+      "url": "https://bookdown.org/stefanleach/Text_Analysis/topic-models.html",
+      "title": "Chapter 4 Topic Models | Text Analysis in R - Bookdown"
+    },
+    {
+      "url": "https://knowledger.rbind.io/post/topic-modeling-using-r/",
+      "title": "Topic Modeling using R \u00b7 knowledgeR topicmodels: An R Package for Fitting Topic Models 6 Topic modeling | Text Mining with R Automated Content Analysis with R Topic Modeling Example Topic Modeling with R"
+    },
+    {
+      "url": "https://cran.r-project.org/web/packages/topicmodels/vignettes/topicmodels.pdf",
+      "title": "topicmodels: An R Package for Fitting Topic Models"
+    },
+    {
+      "url": "https://www.tidytextmining.com/topicmodeling.html",
+      "title": "6 Topic modeling | Text Mining with R"
+    },
+    {
+      "url": "https://content-analysis-with-r.com/6-topic_models.html",
+      "title": "Automated Content Analysis with R"
+    }
+  ],
+  "sourdough bulk ferment schedule around workday": [
+    {
+      "url": "https://www.weeknighthomemaker.com/post/bake-sourdough-around-a-work-schedule",
+      "title": "Bake Sourdough Around a Work Schedule"
+    },
+    {
+      "url": "https://theyeastwecando.com/sourdough-bread-schedule-for-working-people/",
+      "title": "How to Create a Simple Sourdough Bread Schedule for Working ..."
+    },
+    {
+      "url": "https://www.theperfectloaf.com/simple-weekday-sourdough-bread/",
+      "title": "Simple Weekday Sourdough Bread - The Perfect Loaf Work-From-Home Sourdough: Perfect Fermentation Schedule Sourdough Schedule \u2014 Form And Function with Dr. Ben Sourdough Bulk Fermentation 101 The Ultimate Guide to Sourdough Bulk Fermentation"
+    },
+    {
+      "url": "https://focogenial.com/the-fermentation-schedule-that-fits-any-work-from-home-routine/",
+      "title": "Work-From-Home Sourdough: Perfect Fermentation Schedule"
+    },
+    {
+      "url": "https://www.formandfunctionmd.com/sourdough-pages/blog-post-title-one-wepk5",
+      "title": "Sourdough Schedule \u2014 Form And Function with Dr. Ben"
+    }
+  ],
+  "project structure cookiecutter data science R": [
+    {
+      "url": "https://github.com/tgrrr/cookiecutter-data-science-r",
+      "title": "GitHub - tgrrr/cookiecutter-data-science-r: A logical ..."
+    },
+    {
+      "url": "https://cookiecutter-data-science.drivendata.org/",
+      "title": "Cookiecutter Data Science"
+    },
+    {
+      "url": "https://a-telfer.github.io/cookiecutter-data-science/",
+      "title": "Home - Cookiecutter Data Science"
+    }
+  ],
+  "pre-commit hooks for Jupyter notebooks nbstripout": [
+    {
+      "url": "https://github.com/kynan/nbstripout",
+      "title": "kynan/ nbstripout : strip output from Jupyter and IPython notebooks"
+    },
+    {
+      "url": "https://www.edwinwenink.xyz/posts/71-version_control_on_notebooks_with_precommit_and_jupytext-kopie/",
+      "title": "Version control on notebooks using pre - commit and Jupytext"
+    },
+    {
+      "url": "https://forums.fast.ai/t/fastai-nbstripout-stripping-notebook-outputs-and-metadata-for-git-storage/20355",
+      "title": "Fastai- nbstripout : stripping notebook outputs and metadata for git..."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/57100070/sanitizing-output-and-formatting-jupyter-notebooks-files-during-git-commits",
+      "title": "Sanitizing output and formatting Jupyter notebooks ... - Stack Overflow"
+    }
+  ],
+  "environment.yml vs requirements.txt for reproducibility": [
+    {
+      "url": "https://app.studyraid.com/en/read/15068/521637/conda-environments-vs-requirementstxt",
+      "title": "Understand conda environments vs requirements.txt"
+    },
+    {
+      "url": "https://www.reddit.com/r/learnpython/comments/xvlpdz/why_do_people_provide_a_requirementstxt_or/",
+      "title": "Why do people provide a requirements.txt or environment.yml ..."
+    },
+    {
+      "url": "https://github.com/conda/conda/issues/6411",
+      "title": "conda install: env.yml vs requirements.txt #6411 - GitHub"
+    },
+    {
+      "url": "https://www.sqlpey.com/python/solved-how-to-combine-conda-environment-yml-with-pip-requirements/",
+      "title": "Solved: How to Combine Conda Environment YAML with Pip"
+    }
+  ],
+  "Nix for scientific workflows intro": [
+    {
+      "url": "https://nix4science.github.io/",
+      "title": "Welcome to Nix4Science \u2014 Nix4Science"
+    },
+    {
+      "url": "https://github.com/nix-community/nix-data-science",
+      "title": "GitHub - nix-community/nix-data-science: Standard set of ..."
+    },
+    {
+      "url": "https://nix-tutorial.gitlabpages.inria.fr/nix-tutorial/",
+      "title": "Nix tutorial \u2014 nix-tutorial documentation"
+    },
+    {
+      "url": "https://rap4mads.eu/07-rixpress.html",
+      "title": "6 Building Reproducible Pipelines with Nix and {rixpress}"
+    }
+  ],
+  "lab onboarding checklist template GitHub": [
+    {
+      "url": "https://github.com/WhitakerLab/Onboarding/blob/master/Lab-meetings.md",
+      "title": "Onboarding / Lab -meetings.md at master \u00b7 WhitakerLab/ Onboarding"
+    }
+  ],
+  "code clinic agenda template weekly": [
+    {
+      "url": "https://www.notion.com/templates/weekly-agenda",
+      "title": "Weekly Agenda Template by alex lin | Notion Marketplace"
+    },
+    {
+      "url": "https://notiondemy.com/free-notion-weekly-planner-templates/",
+      "title": "10 Free Notion Weekly Planner Templates (2025)"
+    },
+    {
+      "url": "https://templatelab.com/meeting-agenda-templates/",
+      "title": "18 Effective Meeting Agenda Templates [Word/PPT/PDF]"
+    },
+    {
+      "url": "https://edit.org/week-planners",
+      "title": "Free online weekly planner templates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_Yk4BWfhh6Q",
+      "title": "Create a Weekly Agenda template from scratch in Notion - YouTube"
+    }
+  ],
+  "preprint dry run checklist authors": [
+    {
+      "url": "https://plos.org/open-science/preprint-checklist/",
+      "title": "Preprint Checklist - PLOS"
+    }
+  ],
+  "writing sprint timer pomodoro shared focus tools": [
+    {
+      "url": "https://writingdrill.com/writing-drill-timer/",
+      "title": "Writing Drill - writingdrill"
+    },
+    {
+      "url": "https://zight.com/tools/pomodoro-timer/",
+      "title": "Free Pomodoro Timer | Pomodoro Technique Focus App - Zight"
+    },
+    {
+      "url": "https://github.com/Mezalyth/writeaway",
+      "title": "GitHub - Mezalyth/writeaway: a productivity timer written in svelte"
+    },
+    {
+      "url": "https://flocus.com/minimalist-pomodoro-timer/",
+      "title": "Minimalist Pomodoro Timer | Flocus"
+    }
+  ],
+  "feed aggregator for journal alerts OpenRSS": [
+    {
+      "url": "https://openrss.org/",
+      "title": "Open RSS is a nonprofit organization that provides free RSS feeds for..."
+    },
+    {
+      "url": "https://github.com/FreshRSS/FreshRSS",
+      "title": "GitHub - FreshRSS/FreshRSS: A free, self-hostable news aggregator"
+    },
+    {
+      "url": "https://forum.textpattern.com/viewtopic.php?id=52600",
+      "title": "Anyone know of independent RSS aggregators like OpenRSS ? | Forum"
+    },
+    {
+      "url": "https://medevel.com/10-self-hosted-rss-feed/",
+      "title": "10 Open -source Self-hosted RSS feed Readers"
+    }
+  ],
+  "NIH data sharing policy 2023 summary": [
+    {
+      "url": "https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms/policy-overview",
+      "title": "Data Management & Sharing Policy Overview - grants.nih.gov"
+    },
+    {
+      "url": "https://www.arl.org/wp-content/uploads/2022/05/NIH-2023-Data-Management-and-Sharing-Policy-Briefing-Document.pdf",
+      "title": "Final NIH Policy for Data Management and Sharing"
+    },
+    {
+      "url": "https://guides.lib.ku.edu/nih-2023",
+      "title": "NIH Data Management & Sharing Policy: Policy Summary"
+    },
+    {
+      "url": "https://research.musc.edu/-/sm/research/resources/orsp/f/orsp-page---nih-data-sharing-policy-final.pdf",
+      "title": "NIH Data Management & Sharing Policy - Medical University of ... New NIH Data Sharing Policy Overview - NIH Data Management ... NIH 2023 Data Management and Sharing Policy (DMS Policy) NIH Data Management & Sharing Policy - Research Data ..."
+    },
+    {
+      "url": "https://libguides.library.tmc.edu/data_management/NIH_data_sharing/new_policy",
+      "title": "New NIH Data Sharing Policy Overview - NIH Data Management ..."
+    }
+  ],
+  "NSF Biosketch with SciENcv example": [
+    {
+      "url": "https://osp.gatech.edu/sites/default/files/inline-files/SciENcv+Biosketch+Directions.pdf",
+      "title": "Creating an NSF-approved Biosketch with SciENcv"
+    },
+    {
+      "url": "https://proposal.illinois.edu/files/2023/12/SciENcv-Guide.pdf",
+      "title": "The Ins-and-Outs of SciENcv: NSF Biosketch Resource Guide"
+    },
+    {
+      "url": "https://orsp.umich.edu/sites/default/files/resource-download/nsf_biosketch_and_sciencv_2020_07_02.pdf",
+      "title": "How to create your NSF Biosketch in SciENcv"
+    }
+  ],
+  "ORCID link to Crossref auto update how": [
+    {
+      "url": "https://support.orcid.org/hc/en-us/articles/360006971293-Auto-updates-in-third-party-systems-Crossref",
+      "title": "Auto - updates in third-party systems: Crossref \u2013 ORCID"
+    },
+    {
+      "url": "https://www.crossref.org/community/orcid/",
+      "title": "ORCID auto - update - Crossref"
+    },
+    {
+      "url": "https://www-crossref-org.turing.library.northwestern.edu/blog/crossref-to-auto-update-orcid-records/",
+      "title": "Crossref to Auto - Update ORCID Records - Crossref"
+    },
+    {
+      "url": "https://web.archive.org/web/20151118142713/http://crosstech.crossref.org/2015/10/auto-update-has-arrived-orcid-records-move-to-the-next-level.html",
+      "title": "Auto - Update Has Arrived! ORCID Records Move to the Next Level"
+    }
+  ],
+  "granularity of preregistration for exploratory analyses": [
+    {
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000690",
+      "title": "Preregistration of exploratory research: Learning from the ..."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7725296/",
+      "title": "Ensuring the quality and specificity of preregistrations - PMC"
+    },
+    {
+      "url": "https://jcetron.github.io/EDA_and_prereg/introduction.html",
+      "title": "Preregistration and Exploratory Analysis - Introduction"
+    },
+    {
+      "url": "https://methods.sagepub.com/how-to-guide/how-to-write-a-study-preregistration",
+      "title": "How to Write a Study Preregistration - methods.sagepub.com"
+    }
+  ],
+  "registered replication reports history and outcomes": [
+    {
+      "url": "https://www.psychologicalscience.org/publications/replication",
+      "title": "Registered Replication Reports \u2013 Association for ..."
+    }
+  ],
+  "effect size distributions in cognitive psychology database": [],
+  "converting t to correlation effect size cheat sheet": [
+    {
+      "url": "https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/es-calc.html",
+      "title": "Chapter 17 Effect Size Calculation & Conversion"
+    },
+    {
+      "url": "https://www.uv.es/~friasnav/EffectSizeBecker.pdf",
+      "title": "Effect Size (ES)"
+    },
+    {
+      "url": "https://lbecker.uccs.edu/effect-size",
+      "title": "Effect Size (ES) | Effect Size Calculators"
+    }
+  ],
+  "meta analytic priors for memory tasks": [
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30640498/",
+      "title": "Aging and recognition memory: A meta-analysis - PubMed"
+    },
+    {
+      "url": "https://labs.psychology.illinois.edu/~asbenjam/pubs/Fraundorfetal2019.pdf",
+      "title": "Aging and Recognition Memory: A Meta-Analysis"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.15502",
+      "title": "[2505.15502] Meta-analytic-predictive priors based on a ... A systematic review and Bayesian meta-analysis provide ... Full article: Aging and time-based prospective memory in the ..."
+    },
+    {
+      "url": "https://www.nature.com/articles/s44271-024-00124-2",
+      "title": "A systematic review and Bayesian meta-analysis provide ..."
+    }
+  ],
+  "open review GitHub issues as peer review etiquette": [
+    {
+      "url": "https://mcpress.media-commons.org/open-review/recommendations/recommendations-for-communities-of-practice/",
+      "title": "Recommendations for Communities of Practice | Open Review"
+    },
+    {
+      "url": "https://press.rebus.community/the-rebus-guide-to-publishing-open-textbooks/chapter/review-guide-template/",
+      "title": "5.3: Review Guide Template \u2013 The Rebus Guide to Publishing Open ..."
+    },
+    {
+      "url": "https://journalsrc.org/index.php/jsrc/learning07",
+      "title": "Reviewer Etiquette & Writing Comments | Journal of Student-Run..."
+    }
+  ],
+  "reproduction package examples good practice repositories": [
+    {
+      "url": "https://coar-repositories.org/what-we-do/recommendations-and-best-practices/",
+      "title": "Good Practices in Repositories - COAR"
+    },
+    {
+      "url": "https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories",
+      "title": "Best practices for repositories - GitHub Docs"
+    },
+    {
+      "url": "https://dev.to/pwd9000/github-repository-best-practices-23ck",
+      "title": "GitHub Repository Best Practices - DEV Community"
+    },
+    {
+      "url": "https://www.harness.io/blog/code-repository-best-practices",
+      "title": "Source Code Management Best Practices - harness.io"
+    }
+  ],
+  "R reproducibility with targets pipeline tutorial": [
+    {
+      "url": "https://www.appsilon.com/post/r-targets-reproducible-data-science-pipeline",
+      "title": "R { targets }: How to Make Reproducible Pipelines for Data Science..."
+    },
+    {
+      "url": "https://b-rodrigues.github.io/rap4mads/setting-up-pipelines-with-targets.html",
+      "title": "Chapter 7 Setting up pipelines with { targets } | Reproducible ..."
+    },
+    {
+      "url": "https://blog.djnavarro.net/posts/2025-01-08_using-targets/",
+      "title": "Three short stories about targets \u2013 Notes from a data witch"
+    }
+  ],
+  "python reproducible research cookiecutter science": [
+    {
+      "url": "https://github.com/timtroendle/cookiecutter-reproducible-research",
+      "title": "GitHub - timtroendle/ cookiecutter - reproducible - research ..."
+    },
+    {
+      "url": "https://pypi.org/project/cookiecutter-scientific-research/",
+      "title": "cookiecutter - scientific - research \u00b7 PyPI"
+    },
+    {
+      "url": "https://cookiecutter-data-science.drivendata.org/",
+      "title": "Cookiecutter Data Science"
+    }
+  ],
+  "Dockerfile for RStan and CmdStanR minimal": [
+    {
+      "url": "https://github.com/JBris/stan-cmdstanr-docker",
+      "title": "GitHub - JBris/stan-cmdstanr-docker: A Docker image to run ..."
+    },
+    {
+      "url": "https://github.com/jamesdunham/rstan-docker",
+      "title": "GitHub - jamesdunham/rstan-docker: Dockerfile for a minimal ..."
+    }
+  ],
+  "PyMC vs Stan for hierarchical cognitive models comparison": [
+    {
+      "url": "https://discourse.pymc.io/t/a-detailed-comparison-between-pymc-and-stan-syntax-and-approaches-to-modelling/16430",
+      "title": "A detailed comparison between PyMC and Stan syntax and ..."
+    },
+    {
+      "url": "https://discourse.mc-stan.org/t/how-to-translate-between-pymc-and-stan/38574",
+      "title": "How to translate between PyMC and Stan - General - The Stan ..."
+    },
+    {
+      "url": "https://github.com/jhrcook/pymc3-stan-comparison",
+      "title": "GitHub - jhrcook/pymc3-stan-comparison: Comparing the ... MCMC at Scale: How JAX and GPUs Make Bayesian Inference Fast Implementing Bayesian Hierarchical Modeling rosetta_stone_pymc_stan.ipynb - Colab MCMC for big datasets: faster sampling with JAX and the GPU Implementing Bayesian Hierarchical Modeling Implementing Bayesian Hierarchical Modeling Comparing performance of PyMC3 and Stan - GitHub Big difference between PyMC and Stan results"
+    },
+    {
+      "url": "https://colab.research.google.com/gist/ricardoV94/c421ddacb3ba7a19ac46efa253ea466c/rosetta_stone_pymc_stan.ipynb",
+      "title": "rosetta_stone_pymc_stan.ipynb - Colab"
+    }
+  ],
+  "brms non centered parameterization when and why": [
+    {
+      "url": "https://discourse.mc-stan.org/t/what-does-non-centered-parameterization-actually-do-how-to-interpret-model-brms/22266",
+      "title": "What does non - centered parameterization actually do?"
+    },
+    {
+      "url": "https://discourse.mc-stan.org/t/brms-non-centered-to-centered-parameterization/32932",
+      "title": "Brms : non - centered to centered parameterization - brms - The Stan..."
+    },
+    {
+      "url": "https://github.com/paul-buerkner/brms/issues/211",
+      "title": "How to proceed to non - centered reparametrization with \"brm\" ?"
+    }
+  ],
+  "posterior predictive checks for mixed models examples": [
+    {
+      "url": "https://www.academia.edu/115272212/Use_of_the_Posterior_Predictive_Distribution_as_a_Diagnostic_Tool_for_Mixed_Models",
+      "title": "(PDF) Use of the Posterior Predictive Distribution as a Diagnostic..."
+    },
+    {
+      "url": "https://discourse.pymc.io/t/blog-the-right-way-to-do-predictive-checks-with-observation-level-random-effects/16131",
+      "title": "Blog: The right way to do predictive checks with... - PyMC Discourse"
+    },
+    {
+      "url": "https://stat.ethz.ch/pipermail/r-sig-mixed-models/2014q1/021781.html",
+      "title": "[R-sig-ME] MCMCglmm: predictions for posterior predictive checks"
+    },
+    {
+      "url": "https://doserlab.com/files/spabundance-web/articles/ppcDetails.pdf",
+      "title": "Details on posterior predictive checks in spAbundance"
+    }
+  ],
+  "model criticism for cognitive models tutorial": [
+    {
+      "url": "https://edwardlib.org/tutorials/criticism",
+      "title": "Edward \u2013 Model Criticism"
+    }
+  ],
+  "archival fountain pen ink water resistant for annotations": [
+    {
+      "url": "https://www.bing.com/aclick?ld=e8eKBc9T93gTa-a66_kdA4WjVUCUyxKQ_OPrxSQhgiQtx8Srjfq3us-bvBe3SZY9CKxaUI4xPSR1ZtNMeFGQY58DWTmklcqj0k_brpqwYsti0Hx7i4Du3qFXvWYPvP6dieNMJ-s121QpLUHMBZZOv6Q-ypx256_k96ZCmXHEn1soMDu_EYioyDfAEblBbXBcmlbVzVDOnUWm7VaSD4CYFCIAecR-g&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGFyY2hpdmFsJTJid2F0ZXJwcm9vZiUyYmZvdW50YWluJTJicGVuJTJiaW5rJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfNDRpcmp4dTJpel9lJTI2YWRncnBpZCUzZDEzMzI2MDk4MTY2NjQ4MDIlMjZodmFkaWQlM2Q4MzI4ODM5ODQyMzc3OSUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZGUlMjZodmJtdCUzZGJlJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODMyODkxNjkwNTgzNDclM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDUzNDBfMTA0NzcyMzQlMjZtY2lkJTNkZDI4YWYxMDA2YmEwMzMwMDg2MTUyNzg5MGY5ZWNjMzglMjZtc2Nsa2lkJTNkYTkyMDU0Mzc1NDczMWY3MjAzZTkzZDc2OTkyNjYzMTU&rlid=a920543754731f7203e93d7699266315",
+      "title": "archival waterproof fountain pen ink - Free 2-day Shipping w/ Prime"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e80FAdRDkHj3Fv3N3C7SBSLTVUCUybdexQQbZ8GH2dd3Fhj31MnQ1mf2kVZ3U_J_T4G3q9SB0iganRE--hAd36A1XEImIyXNZxcdJ09tgqDTUGvicXeD1e7F045Arrt3dpBmqN4_b3-BVRFigiWzvrx8bFYjinYtCyCgqB0S3nUsCv1r7PJksdGpX-tpfUrPLOMGy33HfuIXF3cuXcB2E8mo_fDrM&u=aHR0cHMlM2ElMmYlMmZiaXJtaW5naGFtcGVucy5jb20lMmZjb2xsZWN0aW9ucyUyZmZvdW50YWluLXBlbi1pbmslM2Ztc2Nsa2lkJTNkMjQ2YjNiMWU4NWM5MTA2MWI5NGE1MjVmNDg5YzY5Y2IlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RGb3VudGFpbiUyNTIwUGVuJTI1MjBJbmslMjZ1dG1fdGVybSUzZGZvdW50YWluJTI1MjBwZW4lMjUyMGluayUyNnV0bV9jb250ZW50JTNkSW5rJTI1MjBCb3R0bGU&rlid=246b3b1e85c91061b94a525f489c69cb",
+      "title": "Fountain Pen Ink - Archival, Traditional, & More"
+    },
+    {
+      "url": "https://onepenshow.com/ink/archival",
+      "title": "Best Archival Inks for Fountain Pens: Your Notes Will Last"
+    },
+    {
+      "url": "https://www.thepencompany.com/blog/ink/waterproof-fountain-pen-ink-guide/",
+      "title": "Waterproof Fountain Pen Ink Guide | The Pen Company Blog"
+    }
+  ]
+}

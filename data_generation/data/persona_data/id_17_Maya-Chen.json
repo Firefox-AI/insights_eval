@@ -1,0 +1,21 @@
+{
+  "name": "Maya Chen",
+  "description": "Maya is a 29-year-old UX researcher relocating to a new city after a startup acquisition. Analytical and empathetic, she treats apartment hunting like a design research project\u2014collecting data, mapping patterns, and prioritizing lived experience. She balances a hybrid work schedule (3 days remote, 2 in-office), so she optimizes for both a quiet workspace at home and a reasonable transit/bike commute. Budget-conscious but value-focused, she tracks price per square foot, seasonal pricing trends, and total cost of living (utilities, laundry, pet fees). She prefers older, well-maintained buildings with character, strong natural light, and good ventilation, but she\u2019s vigilant about maintenance history, noise, and mold. Community vibe matters: she looks for walkable, transit-rich neighborhoods with diverse food options, safe running routes, dog-friendly parks, and inclusive spaces. She keeps a folding bike, uses public transit extensively, and occasionally car-shares for larger errands. Methodical yet personable, she builds rapport with supers and landlords, asks pointed questions, and negotiates with polite firmness. She uses spreadsheets, custom maps, and alert automations to compare listings, and she visits apartments at different times of day to test assumptions. She\u2019s environmentally mindful (energy-efficient appliances, cross-ventilation), tech-comfortable (smart plugs, decibel meter app), and socially engaged (reads community boards, attends open streets events). Decision-making is time-boxed: she sets a ranking rubric, narrows to a short list, and acts quickly when a place matches 80% of her criteria. She documents her process and shares learnings in local forums to help others navigate the market.",
+  "example_behaviours": [
+    "Builds a color-coded spreadsheet comparing listings by price/sqft, light exposure, noise level, pet policy, and transit time to work/gym",
+    "Creates a Google My Maps layer marking coffee shops, parks, grocery stores, and bus/subway stops within a 10-minute walk of each candidate apartment",
+    "Uses a decibel meter app during viewings and returns at rush hour and late evening to gauge noise variability",
+    "Carries a small tape measure and checks door widths for sofa/desk fit; counts outlets in each room and notes placement",
+    "Runs a water-pressure and hot water test; checks window seals, radiator valves, and under-sink plumbing for leaks or mold",
+    "Negotiates rent by citing comparable listings, lease length flexibility, and move-in dates; prepares polite email templates for inquiries and counteroffers",
+    "Tracks seasonality and sets IFTTT/email alerts for keywords like \u201csouth-facing,\u201d \u201cin-unit laundry,\u201d and \u201cdog-friendly\u201d",
+    "Joins local running groups to test neighborhood safety and lighting along preferred routes at dawn and dusk",
+    "Thrift-flips small furniture pieces to fit awkward pre-war layouts; prioritizes modular, multi-use items",
+    "Attends community board meetings or reads minutes to learn about upcoming construction, rezoning, and nightlife permits",
+    "Conducts commute experiments using Citymapper and a folding bike to compare door-to-door times in real conditions",
+    "Checks cell reception in each room and tests video call quality for remote work days",
+    "Maintains a moving-day playbook: elevator reservations, truck loading order, and a floor plan with pre-measured furniture placement",
+    "Keeps a plant-friendly home, choosing units with east/south exposure and tracking interior humidity for fiddle-leaf and herb success",
+    "Writes concise reviews of buildings and landlords on forums and contributes updated neighborhood guides after moving in"
+  ]
+}

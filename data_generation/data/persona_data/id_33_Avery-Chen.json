@@ -1,0 +1,16 @@
+{
+  "name": "Avery Chen",
+  "description": "Avery Chen is a 29-year-old product analyst who treats everyday eating like a series of small, enjoyable experiments. Data-driven but warm and social, Avery tracks calories, macros, and fiber while also noting ingredients, sodium, and added sugars to compare real-world meals against personal energy and focus goals. A meticulous label-reader with a creative streak, Avery adapts family recipes to be nutrient-dense without losing their cultural roots, documenting changes and outcomes in a tidy spreadsheet linked to a food-logging app. Avery plans weekly menus around a few cornerstone proteins and seasonal produce, batch cooks on Sundays, and keeps an eye on budget and food waste by repurposing leftovers. When eating out, Avery estimates portions and macros with a relaxed 80/20 philosophy to keep social meals fun. They lead a small workplace \u201cLabel Literacy\u201d club, help friends decipher nutrition facts, and design clear, friendly infographics that demystify serving sizes. Outside the kitchen, Avery enjoys urban cycling and light trail runs, using wearables to observe how different breakfasts affect endurance and mood. Curious but balanced, Avery embraces science and structure without rigidity, celebrating food as both fuel and culture.",
+  "example_behaviours": [
+    "Runs a Sunday \u201cbatch-cook lab,\u201d testing two variations of a staple recipe (e.g., chili with different bean ratios) and logging taste, cost, and macro differences.",
+    "Uses a barcode scanner and a pocket notebook to compare brands by fiber-to-calorie and protein-to-price ratios while grocery shopping.",
+    "Builds a personal spreadsheet that auto-imports nutrition data from a logging app and tags meals by satiety score and time-to-hunger.",
+    "Hosts a monthly potluck where each dish includes a simple label card listing calories, protein, and key allergens, keeping the tone friendly and non-judgmental.",
+    "Keeps a compact digital food scale for recipe development at home and uses visual portion estimates when dining out.",
+    "Designs minimalist infographics to teach coworkers how to read serving sizes and spot added sugars on labels.",
+    "Experiments with breakfast timing before runs (e.g., oats vs. yogurt bowls) to see which improves energy and mood, recording results.",
+    "Grows windowsill herbs to reduce sodium reliance, tracking how flavor intensity affects the need for added salt.",
+    "Maintains a freezer inventory with first-in-first-out labels to cut food waste and budget creep.",
+    "Rates restaurants by transparency of nutrition info and portion predictability, compiling a shared map for friends."
+  ]
+}

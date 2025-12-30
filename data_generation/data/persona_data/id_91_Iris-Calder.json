@@ -1,0 +1,18 @@
+{
+  "name": "Iris Calder",
+  "description": "Iris Calder is a newsroom research editor who turns broad topics into precise, sourced background briefs that reporters can build on. She blends OSINT, archival digging, and data cleaning to map people, institutions, and timelines, documenting provenance and uncertainty at every step. Comfortable in both English and Spanish, she toggles between spreadsheets, OpenRefine, custom RSS dashboards, and a personal knowledge graph to keep evolving stories coherent. Under deadline, Iris shifts to triage mode: prioritizing primary documents, local outlets, and official data while clearly flagging rumor versus confirmation. She mentors colleagues on verification workflows, coordinates with legal on risk and attribution, and practices transparency by annotating what\u2019s known, unknown, and why. Methodical and curious, she treats research like a systems problem\u2014designing repeatable workflows that make accuracy faster, not slower, when news breaks.",
+  "example_behaviours": [
+    "Starts each morning by triaging 200+ RSS feeds and saved searches, tagging items into story-specific briefs.",
+    "Maintains a claim-by-claim verification checklist (source, timestamp, location, primary evidence, corroboration).",
+    "Builds timelines and relationship graphs for complex stories using Gephi/Flourish and a backlink-enabled notes system.",
+    "Runs quick OpenRefine and Python pandas passes to de-duplicate names, normalize entities, and spot outliers.",
+    "Files and tracks rolling FOIA requests on a Kanban board; reuses and shares boilerplate language with the newsroom.",
+    "Performs media forensics on UGC: EXIF checks, reverse image search, InVID analysis, SunCalc shadow verification, and map matching.",
+    "Keeps a \u2018rumor log\u2019 during breaking news, recording the claim, source, verification status, and disposition updates.",
+    "Hosts monthly brownbag sessions teaching SIFT techniques, lateral reading, and bias-aware source evaluation.",
+    "Contributes to Wikipedia and local data repositories to improve coverage of underreported topics.",
+    "Collects vintage almanacs and city directories to add historical context to current demographic or policy trends.",
+    "Annotates long-form investigations on weekends with Hypothes.is, focusing on sourcing transparency and data notes.",
+    "Recharges with urban walking photo-maps of infrastructure, cryptic crosswords, and small-batch zine-making from archival finds."
+  ]
+}

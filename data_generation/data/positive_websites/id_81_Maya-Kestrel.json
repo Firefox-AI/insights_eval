@@ -1,0 +1,1192 @@
+{
+  "FAA OIS ground delay program JFK today": [
+    {
+      "url": "https://flightqueue.com/faa-delay-map",
+      "title": "FAA Delay Map - Live US Airport Delays & Ground Stops | FlightQueue"
+    }
+  ],
+  "METAR TAF KORD latest": [
+    {
+      "url": "https://aviationweather.gov/data/metar/?decoded=1&ids=KORD&taf=1",
+      "title": "METAR and TAF Data"
+    },
+    {
+      "url": "https://metar-taf.com/taf/KORD",
+      "title": "TAF of Chicago O'hare International Airport | KORD"
+    },
+    {
+      "url": "https://metarcentral.com/airport/KORD",
+      "title": "Aviation Weather - Chicago O'Hare International Airport ( KORD )"
+    },
+    {
+      "url": "https://www.windy.com/airport/KORD?0.000,45.000,3",
+      "title": "Windy: KORD , METAR , TAF and weather forecast"
+    },
+    {
+      "url": "https://en.allmetsat.com/metar-taf/north-america.php?icao=KORD",
+      "title": "METAR TAF : O'Hare International Airport, Chicago Illinois United States"
+    }
+  ],
+  "ATPCO fare filing schedule UTC": [
+    {
+      "url": "https://faremanager.atpco.net/",
+      "title": "ATPCO FareManager"
+    },
+    {
+      "url": "https://deemadmin.atlassian.net/wiki/spaces/EN/pages/28737545/Submitting+Contracted+Fares+to+Airlines+for+ATPCO+Distribution",
+      "title": "Submitting Contracted Fares to Airlines for ATPCO Distribution..."
+    }
+  ],
+  "decode fare basis code rules stopovers": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Fare_basis_code",
+      "title": "Fare basis code - Wikipedia"
+    },
+    {
+      "url": "https://boltflight.com/demystifying-fare-basis-codes-how-airlines-classify-price-and-control-airfare/",
+      "title": "Demystifying Fare Basis Codes: How Airlines Classify, Price, and ..."
+    },
+    {
+      "url": "http://www.travelterminal.com/glossary.shtml",
+      "title": "Fare Rule Glossary - TravelTerminal.Com"
+    },
+    {
+      "url": "https://www.anjunagsa.com/post/a-guide-to-the-most-important-airline-fare-filing-terminology-and-acronyms",
+      "title": "A Guide to the Most Important Airline Fare Filing Terminology and Acronyms"
+    }
+  ],
+  "United fare classes meaning XN PN RN": [
+    {
+      "url": "https://thepointsguy.com/airline/united-fare-classes/",
+      "title": "What you need to know about United's fare classes - The ..."
+    },
+    {
+      "url": "https://www.cwsi.net/united.htm",
+      "title": "United Fare Class Chart - cwsi.net"
+    },
+    {
+      "url": "https://cruisingreview.com/pdf/CR-topics-united-fare-codes.pdf",
+      "title": "United Airlines Fare Codes - cruisingreview.com"
+    },
+    {
+      "url": "https://frequentlyflying.boardingarea.com/list-and-description-of-all-united-airlines-fare-classes/",
+      "title": "List and Description of All United Airlines Fare Classes"
+    },
+    {
+      "url": "https://www.pointsfeed.com/blog/united-fare-classes/",
+      "title": "United Fare Classes & Upgrade Order [2025] - PointsFeed"
+    }
+  ],
+  "married segment logic how to break availability": [
+    {
+      "url": "https://onemileatatime.com/guides/airline-married-segment/",
+      "title": "What Are Airline Married Segment Itineraries, And Why Should ... Airline Married Segments & How They Benefit Award Travel Married segment logic\u2026 but only FC? - FlyerTalk Forums How I Booked A Cathay Pacific Award By Breaking \u2018Married ... A Primer On Married Segments - Live and Let's Fly What Are Airline Married Segment Itineraries? - One Mile at a Time How To Book Cathay Pacific Flights When There's No Award Availabilit\u2026 How To Book Cathay Pacific Flights When There's No Award Availabilit\u2026 A Primer On Married Segments - Live and Let's Fly What are Married Segments? - Travelling on Points"
+    },
+    {
+      "url": "https://frugalflyer.ca/blog/understanding-airline-married-segments-and-how-they-can-benefit-your-award-travel/",
+      "title": "Airline Married Segments & How They Benefit Award Travel Married segment logic\u2026 but only FC? - FlyerTalk Forums How I Booked A Cathay Pacific Award By Breaking \u2018Married ... A Primer On Married Segments - Live and Let's Fly What Are Airline Married Segment Itineraries? - One Mile at a Time How To Book Cathay Pacific Flights When There's No Award Availabilit\u2026 How To Book Cathay Pacific Flights When There's No Award Availabilit\u2026 A Primer On Married Segments - Live and Let's Fly What are Married Segments? - Travelling on Points"
+    },
+    {
+      "url": "https://pointmetotheplane.boardingarea.com/cathay-pacific-married-segment/",
+      "title": "How I Booked A Cathay Pacific Award By Breaking \u2018Married ... A Primer On Married Segments - Live and Let's Fly What Are Airline Married Segment Itineraries? - One Mile at a Time How To Book Cathay Pacific Flights When There's No Award Availabilit\u2026 How To Book Cathay Pacific Flights When There's No Award Availabilit\u2026 A Primer On Married Segments - Live and Let's Fly What are Married Segments? - Travelling on Points"
+    }
+  ],
+  "ExpertFlyer alert setup fare class opening": [
+    {
+      "url": "https://upgradedpoints.com/travel/expertflyer/",
+      "title": "How To Use ExpertFlyer To Search for Award Space and Upgrades"
+    },
+    {
+      "url": "https://thepointsguy.com/loyalty-programs/beginners-guide-awards-expert-flyer/",
+      "title": "ExpertFlyer guide: How to search award flights and set alerts - The ..."
+    },
+    {
+      "url": "https://awardwallet.com/travel/expertflyer/",
+      "title": "ExpertFlyer: Ultimate Guide to How to Use This Powerful Tool"
+    },
+    {
+      "url": "https://frugalflyer.ca/blog/how-to-use-expertflyer/",
+      "title": "How to Use ExpertFlyer | Frugal Flyer"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=pihyYueUZ8g",
+      "title": "How to Set up Alerts on Expert Flyer - YouTube"
+    }
+  ],
+  "ITA Matrix advanced routing codes guide": [
+    {
+      "url": "https://upgradedpoints.com/travel/matrix-ita-finding-cheap-airfare/",
+      "title": "Matrix ITA Advanced Guide: Tips for Finding Cheap Airfare Using the ITA Routing Codes - Google Help ITA Matrix Advanced Codes & Hacks - The Travel Pointers ITA Matrix Explained - A Guide to the ITA Matrix Codes with ... Mike's ITA Matrix Advanced Routing Codes - GitHub How to use ITA Matrix to search for flights - The Points Guy Matrix ITA Advanced Guide : Tips for Finding Cheap Airfare How to use ITA Matrix to search for flights - VoyageAround Using the ITA Routing Codes - Google Help How to use ITA Matrix to search for flights - VoyageAround"
+    },
+    {
+      "url": "https://support.google.com/faqs/answer/2736497?hl=en",
+      "title": "Using the ITA Routing Codes - Google Help ITA Matrix Advanced Codes & Hacks - The Travel Pointers ITA Matrix Explained - A Guide to the ITA Matrix Codes with ... Mike's ITA Matrix Advanced Routing Codes - GitHub How to use ITA Matrix to search for flights - The Points Guy Matrix ITA Advanced Guide : Tips for Finding Cheap Airfare How to use ITA Matrix to search for flights - VoyageAround Using the ITA Routing Codes - Google Help How to use ITA Matrix to search for flights - VoyageAround"
+    },
+    {
+      "url": "http://www.thetravelpointers.com/ita-matrix-hacks.html",
+      "title": "ITA Matrix Advanced Codes & Hacks - The Travel Pointers"
+    },
+    {
+      "url": "https://nicethis.com/itamatrix.aspx",
+      "title": "ITA Matrix Explained - A Guide to the ITA Matrix Codes with ..."
+    }
+  ],
+  "weekend fare bucket patterns saturday night stay": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saturday-night_stay",
+      "title": "Saturday-night stay - Wikipedia"
+    },
+    {
+      "url": "https://travel-dealz.com/lexicon/saturday-night-stay-rule/",
+      "title": "What is the Saturday-night stay rule? - Travel-Dealz.com"
+    },
+    {
+      "url": "https://www.alibaba.com/product-insights/why-do-flights-cost-more-on-weekends-pricing-algorithms-explained.html",
+      "title": "Why Do Flights Cost More On Weekends Pricing Algorithms Explained"
+    },
+    {
+      "url": "https://www.howdoifindcheapflights.com/flight-pricing/are-flights-cheaper-on-saturday-or-sunday-weekend-fare-wars-explained/",
+      "title": "Are flights cheaper on Saturday or Sunday? Weekend Fare Wars ..."
+    },
+    {
+      "url": "https://ohmyfacts.com/aviation/20-facts-about-airline-fare-structures/",
+      "title": "20 Facts About Airline Fare Structures - OhMyFacts"
+    }
+  ],
+  "mistake fare tracker telegram channels": [
+    {
+      "url": "https://t.me/errorfarealerts",
+      "title": "Telegram: View @errorfarealerts - t.me"
+    }
+  ],
+  "ADS-B Exchange track tail N12345 inbound status": [],
+  "OpenSky API rate limits historical flights": [
+    {
+      "url": "https://opensky-network.org/data/api",
+      "title": "OpenSky API"
+    },
+    {
+      "url": "https://openskynetwork.github.io/opensky-api/rest.html",
+      "title": "OpenSky REST API \u2014 The OpenSky Network API 1.4.0 documentation"
+    },
+    {
+      "url": "https://deepwiki.com/openskynetwork/opensky-api/2-opensky-rest-api",
+      "title": "OpenSky REST API | openskynetwork/opensky-api | DeepWiki"
+    },
+    {
+      "url": "https://github.com/openskynetwork/opensky-api/blob/master/docs/free/rest.rst",
+      "title": "opensky-api/docs/free/rest.rst at master - GitHub"
+    }
+  ],
+  "dump1090-fa setup Raspberry Pi Piaware guide": [
+    {
+      "url": "https://www.flightaware.com/adsb/piaware/install",
+      "title": "PiAware - dump1090 ADS-B integration with FlightAware - FlightAware"
+    },
+    {
+      "url": "https://github.com/on3ure/rpi-dump1090-fa-tar1090",
+      "title": "GitHub - on3ure/rpi-dump1090-fa-tar1090: rpi install of dump1090-fa ..."
+    },
+    {
+      "url": "https://www.qsl.net/g4hbt/dump1090+piaware.htm",
+      "title": "dump1090piaware - qsl.net"
+    },
+    {
+      "url": "https://www.codepaws.com/posts/archive/raspberry_pi_with_dump1090_and_piaware/",
+      "title": "Raspberry PI with dump1090 and PiAware \u2022 Brodie Smith"
+    }
+  ],
+  "DIY VHF airband antenna 118-137 MHz": [
+    {
+      "url": "https://m.youtube.com/watch?v=Nfvfk3o1OZU",
+      "title": "AirBand Antenna Build - YouTube"
+    },
+    {
+      "url": "https://www.edaboard.com/threads/ideas-wanted-for-airband-antenna-118-137-mhz-swr-2-1.231211/",
+      "title": "Ideas wanted for airband antenna 118-137 MHz. SWR < 2:1"
+    },
+    {
+      "url": "https://forums.radioreference.com/threads/vhf-airband-antenna-question.489476/",
+      "title": "VHF Airband Antenna question - RadioReference.com Forums"
+    },
+    {
+      "url": "https://k7mem.com/Misc_Air_Band_Ant.html",
+      "title": "Air Band Antenna Analysis - K7MEM"
+    }
+  ],
+  "ZNY sector frequencies list": [
+    {
+      "url": "https://en.wikipedia.org/wiki/New_York_Air_Route_Traffic_Control_Center",
+      "title": "New York Air Route Traffic Control Center - Wikipedia"
+    },
+    {
+      "url": "https://forums.radioreference.com/threads/new-york-center-zny-sector-names.473987/",
+      "title": "New York Center ( ZNY ) Sector Names | RadioReference.com Forums"
+    },
+    {
+      "url": "https://m.broadcastify.com/listen/feed/40421",
+      "title": "New York ARTCC ( ZNY ) Sector \"JOBOC 65\" - Live Aviation ATC Live..."
+    }
+  ],
+  "FAA NOTAM decoder plain language": [
+    {
+      "url": "https://www.drorpilot.com/English/notam.htm",
+      "title": "Free Online NOTAM Decoder Reader - drorpilot.com"
+    },
+    {
+      "url": "https://www.theairlinepilots.com/flightplanningforairlinepilots/notamdecode.php",
+      "title": "NOTAM Decode - THE AIRLINE PILOTS"
+    },
+    {
+      "url": "https://github.com/AIS-ADSB/Notam_decode",
+      "title": "GitHub - AIS-ADSB/Notam_decode: Notam_decode is a Python ..."
+    },
+    {
+      "url": "https://notamify.com/",
+      "title": "Notamify - NOTAMs Simplified. NOTAM Reader and Briefing Tool"
+    }
+  ],
+  "A4A delay codes reference pdf": [
+    {
+      "url": "https://www.herculesebooks.com/index/A4A.pdf",
+      "title": "A4A-Airlines for America - Hercules Ebooks"
+    }
+  ],
+  "FAR 117 crew duty time calculator": [
+    {
+      "url": "https://calculator.city/far-117-calculator/",
+      "title": "Far 117 Calculator - Calculator City"
+    },
+    {
+      "url": "https://www.oswald.aero/My-Apps/Flight-Duty-Calculator-FAA/",
+      "title": "Flight Duty Calculator (FAA), according to FAR part 117"
+    },
+    {
+      "url": "https://www.amazon.com/FARs-Flight-Duty-Period-Calculator/dp/B00EBUUR6W",
+      "title": "FAR's 117 Flight Duty Period Calculator - amazon.com"
+    }
+  ],
+  "EDCT exemption rules GDP": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ground_delay_program",
+      "title": "Ground delay program - Wikipedia"
+    },
+    {
+      "url": "https://legalclarity.org/what-is-an-edct-in-aviation-faa-rules-and-compliance/",
+      "title": "What Is an EDCT in Aviation? FAA Rules and Compliance"
+    },
+    {
+      "url": "https://nbaa.org/aircraft-operations/airspace/tfm/tools-used-for-traffic-flow-management/ground-delay-program-gdp/",
+      "title": "Ground Delay Program (GDP) - National Business Aviation ... Appendix A The Use of a Ground Delay Program in the U.S ... Ground delay program - Wikipedia What Pilots Should Know About ATC Delays (EDCTs ... - Boldmethod Ground Delay Program ( GDP ) - National Business Aviation Association What Pilots Should Know About ATC Delays (EDCTs, Flow ... - Boldmeth\u2026 Appendix A The Use of a Ground Delay Program in the U.S. National Ground Delay Program ( GDP ) - National Business Aviation Association Navigating EDCTs: Your Guide to Understanding and Adapting"
+    },
+    {
+      "url": "https://www.boldmethod.com/learn-to-fly/regulations/what-every-pilot-should-know-about-atc-delays/",
+      "title": "What Pilots Should Know About ATC Delays (EDCTs ... - Boldmethod"
+    }
+  ],
+  "slot controlled airports list IATA Level 3": [
+    {
+      "url": "https://www.iata.org/en/programs/ops-infra/slots/coordinated-airports/",
+      "title": "IATA - Coordinated Airports"
+    },
+    {
+      "url": "https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/perf_analysis/slot_administration/slot_administration_schedule_facilitation/level-3-airports",
+      "title": "Slot Administration - U.S. Level 3 Airports | Federal Aviation ..."
+    },
+    {
+      "url": "https://fluko.org/en/flughaefen/flughaefen-level-3/",
+      "title": "Level 3 Airports - Fluko"
+    }
+  ],
+  "Heathrow slot 80/20 usage current rule": [
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/65d496e41419100011f452f2/dft-airport-slot-allocation-reform-consultation.pdf",
+      "title": "PDF Airport slot reform - GOV.UK"
+    },
+    {
+      "url": "https://www.headforpoints.com/2023/12/11/should-uk-airport-slot-rules-be-changed/",
+      "title": "Should UK airport slot rules be changed? Here are the options"
+    },
+    {
+      "url": "https://simpleflying.com/uk-slot-reform-a-closer-look-at-key-us-transatlantic-routes-to-heathrow-airport/",
+      "title": "UK Slot Reform: A Closer Look At Key US Transatlantic Routes To ..."
+    }
+  ],
+  "IATA Slot Conference dates 2025": [
+    {
+      "url": "https://www.iata.org/en/events/",
+      "title": "IATA - Events"
+    },
+    {
+      "url": "https://www.breakingtravelnews.com/events/details/iata-slot-conference-nov-2025/",
+      "title": "IATA Slot Conference 2025 | Events | Breaking Travel News"
+    },
+    {
+      "url": "https://www.aerotime.aero/event/156th-iata-slot-conference",
+      "title": "156th IATA Slot Conference - AeroTime"
+    },
+    {
+      "url": "https://www.lhsystems.com/event/156th-iata-slot-conference",
+      "title": "156th IATA Slot Conference | Lufthansa Systems"
+    }
+  ],
+  "EU261 compensation misconnect US to EU": [
+    {
+      "url": "https://travel.stackexchange.com/questions/185535/ec261-compensation-which-national-authority-in-case-of-delayed-multi-leg-connec/185905",
+      "title": "air travel - EC 261 compensation : Which national authority in case of..."
+    }
+  ],
+  "Canada air passenger protection regulations summary": [
+    {
+      "url": "https://otc-cta.gc.ca/eng/air-passenger-protection-regulations",
+      "title": "Air Passenger Protection Regulations | Canadian ..."
+    },
+    {
+      "url": "https://rppa-appr.ca/eng/know-your-rights",
+      "title": "Know your rights | Air Passenger Protection"
+    }
+  ],
+  "DOT tarmac delay rules domestic vs international": [
+    {
+      "url": "https://www.transportation.gov/individuals/aviation-consumer-protection/tarmac-delays",
+      "title": "Tarmac Delays | US Department of Transportation"
+    },
+    {
+      "url": "https://www.federalregister.gov/documents/2021/05/03/2021-08850/tarmac-delay-rule",
+      "title": "Tarmac Delay Rule - Federal Register"
+    },
+    {
+      "url": "https://www.ecfr.gov/current/title-14/chapter-II/subchapter-A/part-259/section-259.4",
+      "title": "14 CFR 259.4 -- Contingency Plan for Lengthy Tarmac Delays."
+    }
+  ],
+  "KATL runway closures schedule construction 2025": [
+    {
+      "url": "https://notamify.com/notams/KATL/5a9b2acd-2e51-4f60-a6c3-9d01cc232749",
+      "title": "Runway closed . - KATL NOTAM | Notamify"
+    }
+  ],
+  "SFO morning marine layer delay statistics": [],
+  "DEN snow removal priority plan": [
+    {
+      "url": "https://www.internationalairportreview.com/article/1405/denver-international-airport-the-december-blizzard-of-06-a-catalyst-for-change/",
+      "title": "Denver International Airport: The... - International Airport Review"
+    }
+  ],
+  "MSP deicing pad closure NOTAMs": [
+    {
+      "url": "https://www.globalair.com/airport/apt.notams.aspx?aptcode=msp",
+      "title": "Minneapolis St Paul International/wold Chamberlain (KMSP) NOTAMS"
+    }
+  ],
+  "holdover time tables type IV 2025": [
+    {
+      "url": "https://www.faa.gov/other_visit/aviation_industry/airline_operators/airline_safety/deicing/24-25_FAA_Holdover_Tables.pdf",
+      "title": "FAA Holdover Time (HOT) Guidelines Winter 2024-2025"
+    },
+    {
+      "url": "https://www.scribd.com/document/904386103/FAA-2025-26-Holdover-Tables",
+      "title": "FAA 2025-26 Holdover Tables | PDF | Precipitation | Snow - Scribd"
+    }
+  ],
+  "SPC convective outlook day 2 Northeast": [
+    {
+      "url": "https://www.pivotalweather.com/maps.php?ds=spc",
+      "title": "SPC Outlooks \u2014 Pivotal Weather"
+    },
+    {
+      "url": "https://origin-west-www-spc.woc.noaa.gov/products/outlook/",
+      "title": "Storm Prediction Center Convective Outlooks"
+    },
+    {
+      "url": "https://www.weather.gov/crh/outlooks",
+      "title": "Current Outlooks - National Weather Service"
+    },
+    {
+      "url": "https://www.weather.gov/zjx/SPC_Convective_Outlooks",
+      "title": "SPC Convective Outlooks - National Weather Service"
+    }
+  ],
+  "GOES satellite imagery CONUS storms rapid scan": [
+    {
+      "url": "https://weather.ndc.nasa.gov/goes/abi/goesEastconusband07.html",
+      "title": "Interactive Weather Satellite Imagery Viewers from NASA SPoRT"
+    },
+    {
+      "url": "https://www.aos.wisc.edu/weather/wx_obs/GOES16.html",
+      "title": "GOES East Loops and Images - Department of Atmospheric and ..."
+    }
+  ],
+  "PIREP icing Midwest map": [
+    {
+      "url": "https://turbli.com/maps/us-pireps-map/",
+      "title": "US Pilot Reports (PIREPs) map - turbli"
+    },
+    {
+      "url": "https://pirepmap.com/",
+      "title": "PIREPMap"
+    }
+  ],
+  "ATC flow program tracker map today": [],
+  "FAA Command Center advisories archive search": [
+    {
+      "url": "https://www.fly.faa.gov/adv/advAdvisoryForm",
+      "title": "Air Traffic Control System Command Center - fly.faa.gov"
+    }
+  ],
+  "AFP vs GDP difference explanation": [],
+  "FCA playbook ATCSCC": [
+    {
+      "url": "https://www.fly.faa.gov/PLAYBOOK/pbindex.html",
+      "title": "PLAYBOOK - Federal Aviation Administration"
+    },
+    {
+      "url": "https://nbaa.org/aircraft-operations/airspace/tfm/resources/national-playbook/",
+      "title": "National Playbook - National Business Aviation Association"
+    },
+    {
+      "url": "https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap18_section_22.html",
+      "title": "National Playbook - Federal Aviation Administration"
+    },
+    {
+      "url": "https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap18_section_8.html",
+      "title": "Flow Evaluation Area (FEA), Flow Constrained Area (FCA), and ..."
+    }
+  ],
+  "CTOT vs EDCT difference": [
+    {
+      "url": "https://www.aviationfile.com/what-is-calculated-take-off-time-ctot/",
+      "title": "What is Calculated Take Off Time (CTOT)? | aviationfile ..."
+    },
+    {
+      "url": "https://aviationinfo.net/calculated-take-off-time-ctot/",
+      "title": "What is Calculated Take Off Time (CTOT) - Aviation Info Calculated Take Off Time (CTOT) - SKYbrary Aviation Safety Air Traffic Flow Management terminology | IVAO Documentation ... Calculated take-off time | IVAO Documentation Library EDCT LOOKUP - Federal Aviation Administration"
+    },
+    {
+      "url": "https://skybrary.aero/articles/calculated-take-time-ctot",
+      "title": "Calculated Take Off Time (CTOT) - SKYbrary Aviation Safety"
+    },
+    {
+      "url": "https://www.fly.faa.gov/edct/jsp/edctLookUp.jsp",
+      "title": "EDCT LOOKUP - Federal Aviation Administration"
+    }
+  ],
+  "NAT tracks today map Shanwick Gander": [
+    {
+      "url": "https://notams.aim.faa.gov/nat.html",
+      "title": "North Atlantic Tracks - Federal Aviation Administration"
+    },
+    {
+      "url": "https://nattrak.vatsim.net/tracks",
+      "title": "Tracks :: natTrak :: VATSIM"
+    }
+  ],
+  "oceanic clearance procedures CPDLC guide": [
+    {
+      "url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_91-70B.pdf",
+      "title": "PDF AC 91-70B - Oceanic and Remote Continental Airspace Operations"
+    },
+    {
+      "url": "https://blog.evoatpl.com/flight-planning-monitoring/new-request-for-clearance-rcl-procedure/",
+      "title": "New Request for Clearance (RCL) Procedure - ATPL Training Blogs UK"
+    },
+    {
+      "url": "https://ops.group/blog/nat-changes-2024-no-more-oceanic-clearances/",
+      "title": "NAT Changes 2024: No More Oceanic Clearances - ops.group"
+    },
+    {
+      "url": "https://aerospace.honeywell.com/us/en/about-us/news/2020/09/arinc-623-oceanic-clearance",
+      "title": "ARINC 623 Oceanic Clearance - Honeywell Aerospace"
+    }
+  ],
+  "crew base repositioning impact on cancellations study": [],
+  "union strike ballot timeline Lufthansa ver.di": [],
+  "Delta pilots contract ratification details": [
+    {
+      "url": "https://onemileatatime.com/news/delta-pilots-contract/",
+      "title": "Delta Pilots Approve New Contract With Huge Pay Raises"
+    },
+    {
+      "url": "https://www.alpa.org/Press-Room/2023/Delta-Pilots-Approve-New-Contract",
+      "title": "Delta Pilots Approve New Contract - alpa.org"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/delta-air-lines-dal-4-133801610.html",
+      "title": "Delta Air Lines' (DAL) 4-Year Contract With Pilots Ratified"
+    }
+  ],
+  "JetBlue flight attendants negotiations update": [
+    {
+      "url": "https://www.wcvb.com/article/jetblue-twu-union-blasts-management-hiring-logistics-boston-massachusetts/39694297",
+      "title": "JetBlue crewmember union blasts management 'incompetence'"
+    }
+  ],
+  "airport construction milestones tracker major hubs": [
+    {
+      "url": "https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/perf_analysis/slot_administration/data/doc/Q1_2025_508_Airport_Construction_Impact_Report.pdf",
+      "title": "Q1-2025 Airport Construction Impact Report"
+    }
+  ],
+  "price drop alerts flight telegram bot example": [
+    {
+      "url": "https://airtrackbot.com/article/how-to-set-price-alerts-to-find-the-cheapest-flights",
+      "title": "How to Set Price Alerts to Find the Cheapest Flights"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Egy_R57BZg4",
+      "title": "Python Flight Price Alerts (Telegram Bot!) - YouTube"
+    },
+    {
+      "url": "https://www.trendingaitools.com/ai-tools/airtrackbot/",
+      "title": "AirTrackBot \u2013 Your Ultimate Flight Price Tracker on Telegram"
+    },
+    {
+      "url": "https://annick-lehene.com/unlock-cheap-flights-with-airtrackbots-flight-price-alerts-on-telegram/",
+      "title": "Unlock Cheap Flights with AirTrackBot's Flight Price Alerts ..."
+    }
+  ],
+  "compute cents per mile CPM python": [
+    {
+      "url": "https://sagecalculator.com/cents-per-mile-calculator/",
+      "title": "Cents Per Mile Calculator - Sage Calculator"
+    },
+    {
+      "url": "https://www.travelmiles101.com/how-to-calculate-cents-per-mile-cpm-on-flight-tickets/",
+      "title": "How to Calculate Cents - Per - Mile ( CPM ) on Flight... - Travel Miles 101"
+    }
+  ],
+  "Grafana dashboard METAR heat map tutorial": [
+    {
+      "url": "https://grafana.com/docs/grafana/latest/visualizations/panels-visualizations/visualizations/heatmap/",
+      "title": "Configure options for Grafana 's heatmap visualization"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kQQF9QzSSS4",
+      "title": "How to Setup a Grafana Dashboard Step-by-Step | Grafana Tutorial ..."
+    },
+    {
+      "url": "https://www.metricfire.com/blog/grafana-dashboards-from-basic-to-advanced/",
+      "title": "Grafana Dashboard Tutorial (Basic Advanced) | MetricFire | MetricFire"
+    }
+  ],
+  "Python parse TAF metar library example": [
+    {
+      "url": "https://stackoverflow.com/questions/7376152/parsing-metar-webpage-in-python",
+      "title": "Parsing METAR webpage in python - Stack Overflow"
+    },
+    {
+      "url": "https://gitfox.ru/aviation/python-metar-taf-parser/blame/tag/1.7.0/README.md",
+      "title": "aviation/ python - metar - taf - parser - python - metar - taf - parser - GitFox"
+    }
+  ],
+  "schedule padding by airline comparison data": [
+    {
+      "url": "https://financebuzz.com/airlines-padding-scheduled-flight-times",
+      "title": "Airlines are Padding Their Scheduled Flight Times by More ..."
+    },
+    {
+      "url": "https://dspace.mit.edu/handle/1721.1/66870",
+      "title": "Analysis of airline schedule padding on U.S. domestic routes"
+    }
+  ],
+  "aircraft swap alerts how to monitor": [
+    {
+      "url": "https://travel-on-points.com/using-expert-flyer-for-aircraft-change-alerts/",
+      "title": "Using Expert Flyer for Aircraft Change Alerts - Travel on Point(s)"
+    },
+    {
+      "url": "https://thepointsguy.com/news/tip-monitor-for-aircraft-swaps/",
+      "title": "Tip: Monitor Your Reservation for Aircraft Swaps - The Points Guy"
+    },
+    {
+      "url": "https://www.flyertalk.com/forum/delta-air-lines-skymiles/2191778-aircraft-swap-where-find-info.html",
+      "title": "Aircraft swap , where to find info - FlyerTalk Forums"
+    }
+  ],
+  "last minute equipment change twitter bots": [
+    {
+      "url": "https://pholder.com/u/waedny/",
+      "title": "1 best u/waedny images on Pholder | Last minute equipment change ."
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/twitter-bots-are-a-major-source-of-climate-disinformation/",
+      "title": "Twitter Bots Are a Major Source of Climate... | Scientific American"
+    }
+  ],
+  "seat maps A321neo vs A321 layout differences": [
+    {
+      "url": "https://johnnyjet.com/the-difference-between-the-american-airlines-a321-and-a321neo-a-surprising-response-from-aa/",
+      "title": "The difference between the American Airlines A321 and A321neo ..."
+    },
+    {
+      "url": "https://www.flyertalk.com/forum/american-airlines-aadvantage/2034104-airbus-a321-seating-guide-a321-a321h-a321neo-a321nx-ia321oan-a321s-a321t.html",
+      "title": "Airbus A321 seating guide (A321, A321H, A321neo / A321NX ..."
+    }
+  ],
+  "737 MAX 9 grounding impact route cancellations analysis": [
+    {
+      "url": "https://www.cntraveler.com/story/how-the-boeing-737-max-9-grounding-is-impacting-flights",
+      "title": "How the Boeing 737 Max 9 Grounding Is Impacting Flights"
+    },
+    {
+      "url": "https://www.aircraftinteriorsinternational.com/industry-opinion/analysis-the-effects-of-the-boeing-737-max-9-grounding.html",
+      "title": "Analysis: The effects of the Boeing 737 MAX 9 grounding"
+    },
+    {
+      "url": "https://thepointsguy.com/news/airlines-operations-affected-737-max-9/",
+      "title": "Cancellations mount after Alaska 737 MAX 9 emergency - The ... Grounding Of Boeing 737 MAX 9 Planes Is A Key Crisis ... Are MAX 9 Still Grounded? FAA Inspections And Travel Updates ... Images Boeing 737 MAX groundings - Wikipedia What does the 737-9 MAX grounding mean for airlines | 15below"
+    }
+  ],
+  "A220 hot and high performance limits": [],
+  "ETOPS diversion airports list North Atlantic": [
+    {
+      "url": "https://www.reddit.com/r/aviation/comments/snsdoo/which_diversion_airports_are_used_on_the_north/",
+      "title": "Which diversion airports are used on the North Atlantic Tracks WXYZ ..."
+    },
+    {
+      "url": "http://bcavirtual.com/levld767/flying_the_atlantic.htm",
+      "title": "Flying the Atlantic using the FMC for Diversion Airports & ETOPS"
+    }
+  ],
+  "great circle mapper multi segment map tool": [
+    {
+      "url": "http://www.gcmap.com/",
+      "title": "Great Circle Mapper"
+    }
+  ],
+  "QGIS create great circle lines shapefile": [],
+  "Leaflet animate flight paths plugin": [
+    {
+      "url": "https://leafletjs.com/plugins.html",
+      "title": "Plugins - Leaflet - a JavaScript library for interactive maps"
+    },
+    {
+      "url": "https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion",
+      "title": "AlejandroRM-DEV/Leaflet.MarkerMotion - GitHub"
+    },
+    {
+      "url": "https://codesandbox.io/examples/package/leaflet.motion",
+      "title": "leaflet.motion examples - CodeSandbox"
+    }
+  ],
+  "airport FIDS API access public": [
+    {
+      "url": "https://developer.flightstats.com/api-docs/fids/v1",
+      "title": "FIDS API"
+    },
+    {
+      "url": "https://www.developer.aero/api-catalog/fids-api-overview",
+      "title": "FIDS API Overview | SITA"
+    },
+    {
+      "url": "https://aerodatabox.com/",
+      "title": "Aviation and Flight Data API \u2014 AeroDataBox"
+    }
+  ],
+  "timetable archive vintage airline schedules online": [
+    {
+      "url": "https://www.timetableimages.com/",
+      "title": "Airline Timetable Images"
+    },
+    {
+      "url": "https://worldtravellib.com/airlines/timetables/",
+      "title": "Aviation Timetables Collection - World Travel Library"
+    },
+    {
+      "url": "https://www.departedflights.com/timetables.html",
+      "title": "Complete Airline Timetables"
+    },
+    {
+      "url": "https://www.airtimes.com/cgat/cgat.htm",
+      "title": "AirTimes - Collector's Guide to Airline Timetables Carrier Index"
+    }
+  ],
+  "recreate historical route networks poster tools": [
+    {
+      "url": "https://www.academia.edu/104022587/Moving_Beyond_the_Roads_New_developments_in_GIS_modelling_of_ancient_route_networks_and_mobility",
+      "title": "(PDF) Moving Beyond the Roads - New developments in GIS modelling..."
+    }
+  ],
+  "mileage run ideas ex ANC low taxes": [],
+  "avoid fuel surcharges YQ carriers list": [
+    {
+      "url": "https://upgradedpoints.com/travel/airlines/airline-fuel-surcharges/",
+      "title": "Ultimate Guide to Airline Fuel Surcharges (14 Airlines To Avoid )"
+    },
+    {
+      "url": "https://canadiantravelhacking.com/complete-list-of-aeroplan-carriers-with-small-or-no-fuel-surcharges/",
+      "title": "Complete list of Aeroplan carriers with small or no fuel surcharges"
+    }
+  ],
+  "United PlusPoints upgrade availability finder": [
+    {
+      "url": "https://seats.aero/pnpz",
+      "title": "United Upgrade/PlusPoints Finder - seats.aero"
+    },
+    {
+      "url": "https://pluspointsupgrades.com/",
+      "title": "PlusPointNow - Make Your United PlusPoints Actually Useful"
+    }
+  ],
+  "AA systemwide upgrade best routes": [
+    {
+      "url": "https://thepointsguy.com/airline/american-airlines-international-upgrades/",
+      "title": "Best international routes for upgrades with American Airlines - The ..."
+    }
+  ],
+  "upgrade list order United tie breakers": [
+    {
+      "url": "https://www.reddit.com/r/unitedairlines/comments/17mmg5z/what_does_the_upgrade_list_ordering_mean/",
+      "title": "What does the upgrade list ordering mean? : r/unitedairlines - Reddit"
+    },
+    {
+      "url": "https://www.flyertalk.com/forum/united-airlines-mileageplus/1550031-understanding-united-upgrade-list-comprehensively.html",
+      "title": "Understanding the United Upgrade List Comprehensively - FlyerTalk"
+    }
+  ],
+  "same day change rules Delta main cabin": [
+    {
+      "url": "https://www.traveldiariesapp.com/en/diary/93a582f0-d660-4e50-bb26-6e9b4808ebf7/chapter/e37c4e55-d65b-4543-9cbf-716cbd61ae34",
+      "title": "How does Delta \u2019s same - day flight change work? | Travel Diaries"
+    },
+    {
+      "url": "https://destinationsunknown.com/shadow-passenger/same-day-flight-changes-using-fly-delta-app/",
+      "title": "Same day ticket change rules and tips on Delta Air Lines flights"
+    },
+    {
+      "url": "https://www.travelcodex.com/the-complete-guide-to-same-day-change-and-standby-rules/",
+      "title": "Complete Guide to Same Day Change and Standby Rules"
+    }
+  ],
+  "standby priority American elites policy": [
+    {
+      "url": "https://www.marketingscoop.com/consumer/standby-american-airlines/",
+      "title": "The Ultimate Guide to Flying Standby on American ... - Marketing Scoop"
+    },
+    {
+      "url": "https://www.flyertalk.com/forum/american-airlines-aadvantage/638789-airport-upgrade-standby-priority-list-ipalln-order-master-thread.html",
+      "title": "Airport Upgrade and Standby Priority List (\u201cPALL\u201d)... - FlyerTalk Forums"
+    }
+  ],
+  "protected connections definition irrops": [
+    {
+      "url": "https://www.flyertalk.com/forum/online-travel-booking-bidding-agencies/1852474-protected-connection-when-booked-ota-printerfriendly.html",
+      "title": "FlyerTalk Forums - \" Protected connection \" when booked on an OTA"
+    },
+    {
+      "url": "https://www.seatlink.com/tools/frequent-flyer-glossary/irrops/",
+      "title": "IRROPS Definition - SeatLink"
+    },
+    {
+      "url": "https://www.theflightexpert.com/glossary/irregular-operations/",
+      "title": "Irregular operations \u2022 The Flight Expert"
+    }
+  ],
+  "misconnect risk by hub morning bank data": [
+    {
+      "url": "https://adept.travel/news/2025-11-03-newark-ground-stop-staffing-shutdown",
+      "title": "Newark Staffing Ground Delays Risk Missed Connections"
+    },
+    {
+      "url": "https://www.airliners.net/forum/viewtopic.php?t=582261",
+      "title": "Rolling Vs. Banked Hubs, Advantages? - Airliners.net"
+    }
+  ],
+  "load factor estimate open seats public sources": [
+    {
+      "url": "https://onlinepubs.trb.org/onlinepubs/circulars/ec079.pdf",
+      "title": "Determine Load and"
+    }
+  ],
+  "OAG schedule bank structure DFW": [
+    {
+      "url": "https://knowledge.oag.com/docs/32-schedules-bank-structure-report",
+      "title": "Schedules Bank Structure Report - knowledge.oag.com"
+    },
+    {
+      "url": "https://www.oag.com/hubfs/Schedules+Analyser+User+Guide.pdf",
+      "title": "SCHEDULES ANALYSER USER GUIDE - OAG"
+    },
+    {
+      "url": "https://knowledge.oag.com/docs/321-report-outputs",
+      "title": "Bank Structure Report Outputs - knowledge.oag.com"
+    },
+    {
+      "url": "https://analytics.oag.com/analyser-client/schedules-analyser/bank-structure-report",
+      "title": "OAG Analyser"
+    }
+  ],
+  "aircraft turn times A320 vs A321 average": [
+    {
+      "url": "https://ijcrt.org/papers/IJCRT2409581.pdf",
+      "title": "PDF Comparative Study Of Airside Transit Turnaround Performance Of Airbus ..."
+    },
+    {
+      "url": "https://simpleflying.com/narrowbody-turnaround-times-time-differences-guide/",
+      "title": "In Reality: How Different Are Narrowbodies' Actual Turnaround Times To ..."
+    },
+    {
+      "url": "https://airinsight.com/newer-aircraft-have-longer-turnaround-times/",
+      "title": "Newer Aircraft Have Longer Turnaround Times"
+    },
+    {
+      "url": "https://www.airliners.net/forum/viewtopic.php?t=371099",
+      "title": "Question: Turn Around Times - Airliners.net"
+    }
+  ],
+  "gate hold program criteria ATC": [
+    {
+      "url": "https://www.fly.faa.gov/flyfaa/flyfaaindex.jsp?ARPT=PHX&p=0",
+      "title": "Phoenix Sky Harbor International Airport"
+    }
+  ],
+  "ground stop criteria thunderstorms microburst": [
+    {
+      "url": "https://cimss.ssec.wisc.edu/satellite-blog/archives/66003",
+      "title": "Severe thunderstorms cause ground stops at Chicago\u2019s Midway and..."
+    }
+  ],
+  "skiplagging legality current cases": [
+    {
+      "url": "https://www.businessinsider.com/airlines-fight-skiplagging-court-lawsuits-thrown-out-settled-2023-7",
+      "title": "Airlines Tried to Fight Skiplagged.com in Court; Suits Tossed ... Skiplagging: How it works and why the airlines can't ... - NPR American Airlines Wins $9.4 Million in Landmark \u2018Skiplagging ... American Airlines Wins $9.4 Million Verdict In Skiplagged Case Skiplagging, Lufthansa loses in court and changes rules. What ... Skiplagging : How it works and why the airlines can't stand it : NPR What Is the American Airlines v. Skiplagged Lawsuit? What Is the American Airlines v. Skiplagged Lawsuit? Skiplagging : How it works and why the airlines can't stand it : NPR American Airlines Wins Lawsuit against Skiplagged, Gets $9.4 ..."
+    },
+    {
+      "url": "https://www.npr.org/2023/08/23/1194998452/skiplagging-airfare-flying-skiplagged-american-airlines",
+      "title": "Skiplagging: How it works and why the airlines can't ... - NPR"
+    },
+    {
+      "url": "https://publiclawlibrary.org/american-airlines-wins-9-4-million-in-landmark-skiplagging-legal-battle/",
+      "title": "American Airlines Wins $9.4 Million in Landmark \u2018Skiplagging ..."
+    },
+    {
+      "url": "https://www.theflightclub.it/en/2025/12/skiplagging-lufthansa-loses-in-court-and-changes-rules-what-it-means-for-passengers/",
+      "title": "Skiplagging, Lufthansa loses in court and changes rules. What ..."
+    },
+    {
+      "url": "https://aviationa2z.com/index.php/2024/10/17/american-airlines-wins-skiplagged-lawsuit/",
+      "title": "American Airlines Wins Lawsuit against Skiplagged, Gets $9.4 ..."
+    }
+  ],
+  "hidden city ticket baggage check rules": [
+    {
+      "url": "https://www.going.com/guides/what-you-need-to-know-about-hidden-city-ticketing",
+      "title": "Hidden City Ticketing : All You Should Now In 2025"
+    },
+    {
+      "url": "https://viewfromthewing.com/can-save-money-airfare-hidden-city-ticketing-tricks-not/",
+      "title": "You Can Save Money on Airfare With Hidden City Ticketing ."
+    }
+  ],
+  "fare rule change penalties nonrefundable": [
+    {
+      "url": "https://airlinepolicies.com/flight-changes-cancellation-fee-policies/",
+      "title": "Flight Changes & Cancellation Fee Policies Compared (2025 Guide)"
+    },
+    {
+      "url": "https://travelpander.com/can-you-change-a-non-refundable-flight/",
+      "title": "Can You Change A Non-Refundable Flight? Options, Fees, And Airline ..."
+    },
+    {
+      "url": "https://upgradedpoints.com/travel/airlines/airline-ticket-change-cancellation-fees-cash-tickets/",
+      "title": "Airline Flight Change and Cancel Fees [2025] - Upgraded Points"
+    },
+    {
+      "url": "https://www.turkishairlines.com/en-int/any-questions/fare-rules/",
+      "title": "Fare Rules and Ticket Conditions Explained | Turkish Airlines"
+    },
+    {
+      "url": "https://www.dailydrop.com/pages/airline-change-and-cancellation-rules",
+      "title": "Complete Guide to Airline Change and Cancellation Rules"
+    }
+  ],
+  "ATPCO RBD mapping across airlines reference": [],
+  "fare filing effective time time zone": [
+    {
+      "url": "https://www.flyertalk.com/forum/united-airlines-mileageplus/2142555-time-zone-sales-restricted-fare-codes.html",
+      "title": "Time zone of sales-restricted fare codes - FlyerTalk Forums"
+    }
+  ],
+  "weekend fare sales monitor airlines list": [
+    {
+      "url": "https://www.airtraveler.club/airline-promos/",
+      "title": "150+ airlines. Sales & promos monitoring. Instant alerts."
+    },
+    {
+      "url": "https://www.airfarewatchdog.com/",
+      "title": "Cheap Flights & Airline Tickets [Compare Flight Deals] | Airfarewatchdog"
+    },
+    {
+      "url": "https://www.skyscanner.com/tips-and-inspiration/always-get-best-airfare-available-skyscanner-price-alerts",
+      "title": "Plan smarter with Skyscanner's Price Alerts & Saved List functions"
+    },
+    {
+      "url": "https://members.jacksflightclub.com/articles/heres-when-airlines-run-sales",
+      "title": "Airline sales explained: who has the best sales and when"
+    }
+  ],
+  "Google Flights price graph how accurate": [
+    {
+      "url": "https://www.going.com/guides/how-to-use-google-flights",
+      "title": "Google Flights : Updated 2025 Hacks for Cheaper Tickets"
+    },
+    {
+      "url": "https://upgradedpoints.com/travel/how-to-use-google-flights/",
+      "title": "How To Use Google Flights To Find Cheap Prices [2025]"
+    },
+    {
+      "url": "https://medium.com/simple-trips/how-to-use-google-flights-to-find-cheap-flights-45f9ebceeede",
+      "title": "How to use Google Flights to find cheap flights | by Simple... | Medium"
+    },
+    {
+      "url": "https://www.businessinsider.com/google-flights-tips-hacks-tricks-save-money-2017-8",
+      "title": "9 Money-Saving Google Flights Tips You Never... - Business Insider"
+    }
+  ],
+  "Hopper price prediction methodology critique": [
+    {
+      "url": "https://www.futureaimind.com/2025/11/hopper-2025-deep-review-of-app-that.html",
+      "title": "Hopper (2025) \u2014 A Deep Review of the App That Predicts Flight Prices"
+    },
+    {
+      "url": "https://smartmoneyreverse.com/does-hopper-really-save-money/",
+      "title": "Does Hopper Really Save Money? A Comprehensive Review of Its Flight ..."
+    },
+    {
+      "url": "https://www.reddit.com/r/Flights/comments/uirb83/are_hoppers_predictions_ever_accurate/",
+      "title": "Are Hopper's predictions ever accurate? : r/Flights - Reddit"
+    },
+    {
+      "url": "https://wootfi.com/how-accurate-is-hopper-price-prediction/",
+      "title": "How Accurate is Hopper Price Prediction - wootfi.com"
+    },
+    {
+      "url": "https://www.solotravellerapp.com/how-accurate-is-hopper/",
+      "title": "How Accurate Are Hopper'S Flight Price Predictions?"
+    }
+  ],
+  "FlightAware API pricing flight status historical": [
+    {
+      "url": "https://www.flightaware.com/commercial/aeroapi/",
+      "title": "AeroAPI | Flight status & tracking data API | FlightAware"
+    },
+    {
+      "url": "https://www.flightaware.com/commercial/data/",
+      "title": "APIs - FlightAware"
+    },
+    {
+      "url": "https://www.apiorb.com/apis/flightaware-aeroapi",
+      "title": "FlightAware AeroAPI - API Details"
+    }
+  ],
+  "variability of ADS-B MLAT latency": [
+    {
+      "url": "https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-mlat/",
+      "title": "How We Track Flights with MLAT | Flightradar24 Blog"
+    },
+    {
+      "url": "http://radarcape.com/",
+      "title": "ADS - B Receiver MLAT , Radarcape, ASTERIX, Dataports JSON, Binary"
+    }
+  ],
+  "ADS-B coverage map for my area": [
+    {
+      "url": "https://www.flightaware.com/adsb/coverage",
+      "title": "FlightAware ADS-B Coverage Map"
+    },
+    {
+      "url": "https://www.adsbexchange.com/coverage-map/",
+      "title": "Coverage Map - ADS-B Exchange"
+    }
+  ],
+  "VHF ATIS streaming online KATL": [
+    {
+      "url": "https://www.liveatc.net/hlisten.php?mount=katl_atis_arr&icao=katl",
+      "title": "Listening to: KATL ATIS (Arrival) - LiveATC.net"
+    },
+    {
+      "url": "https://live-atc.vercel.app/airport/KATL",
+      "title": "KATL | Live ATC"
+    }
+  ],
+  "approach control live audio during weather events": [
+    {
+      "url": "https://www.liveatc.net/",
+      "title": "Listen to Live ATC (Air Traffic Control) Communications | LiveATC.net"
+    },
+    {
+      "url": "https://www.broadcastify.com/listen/coid/1/aviation",
+      "title": "Broadcastify - Listen to Live Aviation ATC"
+    }
+  ],
+  "airport departure board live cameras feed": [
+    {
+      "url": "https://liveairportwebcams.com/index.html",
+      "title": "Live Airport Webcams | Real-Time Airport Terminal Worldwide Stream"
+    },
+    {
+      "url": "https://airportwebcams.net/",
+      "title": "AirportWebcams.net - LIVE Airport Webcams From Around The World ..."
+    },
+    {
+      "url": "https://www.webcamtaxi.com/en/airport.html",
+      "title": "Live Streaming Webcams of Airports around the globe"
+    },
+    {
+      "url": "https://worldcams.tv/airports/",
+      "title": "Airport Live Webcams - World Cams"
+    },
+    {
+      "url": "https://airport-webcam.com/",
+      "title": "Live Airport Webcams - Webcams, Weather, Flying Conditions"
+    }
+  ],
+  "time lapse capture FIDS how to": [
+    {
+      "url": "https://vimeo.com/blog/post/timelapse-tutorial",
+      "title": "How to Make a Timelapse Video with a DSLR or iPhone Camera"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Q1A3riQU-0s",
+      "title": "How to Record a Time-Lapse Video in the iPhone Camera App How to Make a Time Lapse Video: A Step-by-Step Guide How to Create Timelapse Videos: A Complete Guide - SJCAM How to Do a Timelapse Video: A Comprehensive Guide for ... How to make a time lapse video | Adobe How to Create Timelapse Videos: A Complete Guide - SJCAM How to make a time lapse video | Adobe How to Create Timelapse Videos: A Complete Guide - SJCAM How to make a time lapse video | Adobe Time-Lapse Video and Photography Made Easy: Gear, Settings ..."
+    },
+    {
+      "url": "https://www.anker.com/blogs/power-banks/how-to-make-a-time-lapse-video",
+      "title": "How to Make a Time Lapse Video: A Step-by-Step Guide"
+    },
+    {
+      "url": "https://www.sjcam.com/blogs/how-to-create-timelapse-videos-a-complete-guide/",
+      "title": "How to Create Timelapse Videos: A Complete Guide - SJCAM"
+    },
+    {
+      "url": "https://www.insta360.com/blog/tips-how-to-make-a-timelapse-video.html",
+      "title": "How to Do a Timelapse Video: A Comprehensive Guide for ..."
+    }
+  ],
+  "airport delay statistics by cause dataset": [
+    {
+      "url": "https://www.bts.gov/browse-statistical-products-and-data/info-gallery/percent-flight-delay-delay-cause-2010-2023",
+      "title": "Percent of Flight Delay by Delay Cause: 2010-2023"
+    },
+    {
+      "url": "https://github.com/Lizaveta-F/Flight_Delay_Causes",
+      "title": "GitHub - Lizaveta-F/Flight_Delay_Causes: This dataset details U.S ..."
+    },
+    {
+      "url": "https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023",
+      "title": "Flight Delay and Cancellation Dataset (2019-2023) - Kaggle"
+    },
+    {
+      "url": "https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp",
+      "title": "Airline On-Time Statistics and Delay Causes"
+    }
+  ],
+  "FAA ASDI feed access requirements": [
+    {
+      "url": "https://www.federalregister.gov/documents/2011/06/03/2011-13757/access-to-aircraft-situation-display-asdi-and-national-airspace-system-status-information-nassi",
+      "title": "Access to Aircraft Situation Display (ASDI) and National ... Aircraft Situation Display to Industry - Wikipedia com.luciad.format.asdi (LuciadFusion API documentation) FAA Publishes Final Notice On Access To ASDI, NASSI Data Aircraft Situation Display to Industry - Wikipedia Aircraft Situation Display to Industry - Wikipedia Data Management | Federal Aviation Administration Data Management | Federal Aviation Administration Final, Release 3, Revision 1 - Federal Aviation Administration"
+    },
+    {
+      "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=2C147728-847F-4149-B09D-CF835AE3F61C",
+      "title": "FAA Publishes Final Notice On Access To ASDI, NASSI Data"
+    }
+  ],
+  "NOTAM format changes 2025 ICAO": [
+    {
+      "url": "https://www.navcanada.ca/en/briefing+on+the+transition+to+icao+notam+format.pdf",
+      "title": "Briefing on the transition to ICAO notam format"
+    },
+    {
+      "url": "https://www.faa.gov/air_traffic/flight_info/aeronav/notams/media/ICAO_NOTAM_Format_Example.pdf",
+      "title": "NOTAM selected for the immediate attention of aircraft operators"
+    }
+  ],
+  "crew legality impact tool connect time buffer": [
+    {
+      "url": "https://www.preprints.org/manuscript/202508.1347",
+      "title": "Buffering Airline Crew Schedules for Flight Duty Periods to ..."
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/crew-duty-clocks-dispatch-variable-elias-double-a-andrews-ca8vc",
+      "title": "Crew Duty Clocks as a Dispatch Variable - LinkedIn"
+    },
+    {
+      "url": "https://www.fl3xx.com/kb/roster-crew-info-and-legalities",
+      "title": "Roster Crew Info and Legality Checks - FL3XX"
+    }
+  ],
+  "irrops rebooking eu261 pluspoints interaction": [
+    {
+      "url": "https://flyrules.com/blog/how-to-get-priority-rebooking-during-mass-cancellations/",
+      "title": "You said: How to get priority rebooking during mass cancellations?"
+    },
+    {
+      "url": "https://www.flyertalk.com/forum/aegean-airlines-miles-bonus/1814355-eu-261-skg-irrops-printerfriendly.html",
+      "title": "FlyerTalk Forums - EU 261 and SKG irrops"
+    },
+    {
+      "url": "https://www.australianfrequentflyer.com.au/community/threads/irrops-on-etihad-with-aadvantage-ff-booking.90167/",
+      "title": "IRROPS on Etihad with AAdvantage FF booking | Australian Frequent..."
+    }
+  ],
+  "elite qualifying credit on reroute rules United": [
+    {
+      "url": "https://www.united.com/en/us/fly/mileageplus/premier/qualify.html",
+      "title": "How to Earn Premier Status | United Airlines"
+    },
+    {
+      "url": "https://thepointsguy.com/news/united-airlines-premier-status-pluspoints-changes/",
+      "title": "United Airlines unveils Premier status requirements, changes ..."
+    },
+    {
+      "url": "https://upgradedpoints.com/news/united-mileageplus-elite-status-changes-2025/",
+      "title": "New United MileagePlus Elite Status Changes Coming in 2025 United Airlines: Here's what's changing for elite status - CNBC United Airlines changes upgrade rules for 2026 travelers United Airlines MileagePlus: Guide to earning and redeeming ... United Reveals Changes to MileagePlus Elite Status ..."
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/08/united-airlines-mileage-plus-frequent-flyer-changes.html",
+      "title": "United Airlines: Here's what's changing for elite status - CNBC"
+    }
+  ],
+  "alliance partner operating carrier fare class mapping": [
+    {
+      "url": "https://thepointsguy.com/loyalty-programs/earn-delta-mqds-flying-partner-airlines/",
+      "title": "Earn (Lots of) Delta MQDs by Flying with Partner ... - The Points Guy"
+    },
+    {
+      "url": "https://www.mightytravels.com/2024/06/maximize-your-mileage-earnings-a-breakdown-of-fare-classes-across-carriers/",
+      "title": "Maximize Your Mileage Earnings A Breakdown of Fare Classes ..."
+    }
+  ],
+  "OTA vs direct fare differences married segment": [
+    {
+      "url": "https://frugalflyer.ca/blog/understanding-airline-married-segments-and-how-they-can-benefit-your-award-travel/",
+      "title": "Airline Married Segments & How They Benefit Award Travel"
+    },
+    {
+      "url": "https://flightips.com/airline-direct-vs-online-travel-agency-ota-which-is-right-for-you/",
+      "title": "Airline Direct vs. Online Travel Agency (OTA) - flight tips"
+    },
+    {
+      "url": "https://travellingonpoints.com/article/tips-tricks/terminology-corner/what-are-married-segments/",
+      "title": "What are Married Segments? - Travelling on Points"
+    },
+    {
+      "url": "https://blog.awardfares.com/married-segments/",
+      "title": "Married Segments: Working Out Your Perfect Award Trip (Guide)"
+    },
+    {
+      "url": "https://www.kayak.com/news/booking-flights-direct-ota-metasearch/",
+      "title": "OTAs, metasearch or booking flights direct? Differences explained - KAYAK"
+    }
+  ],
+  "best channels to post early delay warnings traveler forums": [
+    {
+      "url": "https://www.reddit.com/r/travel/comments/1516wkj/best_travel_forums_besides_this_one/",
+      "title": "Best travel forums ( besides this one) : r/travel - Reddit"
+    },
+    {
+      "url": "https://forums.feedspot.com/travel_forums/",
+      "title": "Top 80 Travel Forums in 2025"
+    }
+  ]
+}

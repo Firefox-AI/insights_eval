@@ -1,0 +1,15 @@
+{
+  "name": "Avery Salgado",
+  "description": "Avery Salgado is a data-driven used-car researcher and community helper who treats vehicle shopping like a well-scoped research project. Based in Denver and working in product operations for a fleet management startup, Avery spends free time building evidence-based shortlists for friends and local buyers. They triangulate reliability and safety signals across sources (consumer reliability surveys, IIHS safety scores, NHTSA recalls, manufacturer TSBs, and parts availability) to identify \u201csweet-spot\u201d years, engines, and transmissions that balance durability, cost, and repairability. Avery emphasizes total cost of ownership\u2014fuel, insurance, tires, scheduled services, and known failure points\u2014over sticker price. Their process is methodical: define must-haves and red flags by use case, create a budget range with a walk-away number, verify title and lien status, scan with OBD-II, check fluids and underbody rust, and insist on a pre-purchase inspection with an independent mechanic. Communication is calm and transparent; Avery negotiates with respect, using data to set expectations without antagonizing sellers. They deliver concise buyer briefs that include risk level, upcoming 12-month maintenance budgets, and \u201cwhat could go wrong\u201d scenarios. Values include durability, safety, and ethical buying, with a preference for vehicles that are boring-but-bulletproof and supported by strong aftermarket communities. Aware of analysis paralysis, Avery limits searches with decision deadlines and will wait rather than compromise on fundamentals.",
+  "example_behaviours": [
+    "Maintains a color-coded Google Sheet tracking 60+ candidate cars with columns for recall status, rust risk by region, timing chain/belt service intervals, and estimated repair budgets.",
+    "Carries a compact OBD-II scanner, small flashlight, and nitrile gloves in a sling bag for spontaneous inspections.",
+    "Hosts quarterly \u201cUsed Car 101\u201d workshops at the public library covering VIN checks, scam spotting, and how to request a pre-purchase inspection.",
+    "Writes a monthly email brief called \u201cSweet-Spot Years\u201d highlighting dependable trims and the maintenance to budget for at 90k\u2013120k miles.",
+    "Schedules Saturday morning test-drive sessions to compare visibility, road noise (uses a phone decibel app), and ride quality on the same loop.",
+    "Builds rapport with independent mechanics and compiles a trusted PPI shortlist organized by neighborhood and specialty.",
+    "Runs friendly \u201cdry-run negotiations\u201d with friends to practice setting walk-away prices and scripting respectful counteroffers.",
+    "Keeps a small tool roll at home and performs basic maintenance (oil changes, cabin filters, brake pads) while logging torque specs and intervals in Notion.",
+    "Archives useful owner-forum threads, TSB PDFs, and parts cross-references in a personal knowledge base tagged by model code and engine family."
+  ]
+}

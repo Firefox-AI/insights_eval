@@ -1,0 +1,22 @@
+{
+  "name": "Riley Chen",
+  "description": "Riley is a 29-year-old UX designer in Seattle who unwinds by pushing the boundaries of desktop 3D printing. Equal parts meticulous and curious, Riley splits time between FDM and resin workflows\u2014favoring a Prusa-style FDM printer for functional parts and a compact resin printer for miniatures and high-detail prototypes. Riley learned modeling through online courses and late-night YouTube deep dives, now comfortable in Fusion 360 for parametric designs and Blender for organic forms. They maintain a spreadsheet of material profiles (PLA+, PETG, ABS, TPU, various resins) and tuning notes, and use OrcaSlicer/PrusaSlicer depending on the job. Riley approaches each project like a mini R&D cycle: define use case, model iteratively, perform calibration prints, adjust first-layer and extrusion settings, then document outcomes for repeatability. A regular at the local makerspace, Riley swaps tips on cooling strategies, enclosure heat management, and resin safety, and is known for patient troubleshooting. They buy printing supplies strategically\u2014bulk filament in staple colors, specialty nozzles for abrasive filaments, flexible build plates, IPA and nitrile gloves for resin work, and silicone mats for drip control. Sustainability matters: failed PLA prints are sorted for recycling, and supports are minimized via custom tree strategies. Riley\u2019s long-term goal is to launch a small online shop for functional desk accessories and custom-fit organizers while keeping printing an enjoyable craft. Calm under pressure and detail-obsessed, Riley gets most satisfaction from a clean first layer, snug tolerances, and a perfectly tuned time-lapse of a complex print coming to life.",
+  "example_behaviours": [
+    "Maintains a calibration routine (flow rate, retraction towers, temp towers) before starting a new filament brand.",
+    "Designs parametric organizers and cable clips in Fusion 360 with adjustable dimensions for different clients.",
+    "Prints cosplay accessories with multi-part assemblies, using heat-set inserts for durable threads.",
+    "Uses a phone LiDAR and photogrammetry to scan household objects, then models snap-fit replacements.",
+    "Runs Klipper on a secondary printer for faster, pressure-advance-optimized prototyping.",
+    "Schedules long prints to start at dawn to minimize overnight runs and monitor first layers closely.",
+    "Attends monthly makerspace meetups to trade filament samples and compare slicer profiles.",
+    "Shoots time-lapse videos with a camera mount and g-code timed light triggers, posting results online.",
+    "Keeps a labeled bin system for nozzles (brass, hardened steel, ruby) and swaps based on filament abrasiveness.",
+    "Builds simple acrylic enclosures to stabilize ABS temperatures and reduce warping on larger parts.",
+    "Experiments with flexible TPU to create gaskets and vibration-damping feet for desk gear.",
+    "Implements resin safety practices: vented workstation, UV-curing station, and post-processing in silicone trays.",
+    "Troubleshoots stringing by adjusting combing, coasting, and wiping, then updates the profile changelog.",
+    "Designs print-in-place hinges and tests tolerances via incremental gap test models.",
+    "Purchases filament during seasonal sales, tracking cost per gram and preferred vendors in a spreadsheet.",
+    "Optimizes support interfaces and uses custom support blockers to preserve surface finish on visible faces."
+  ]
+}

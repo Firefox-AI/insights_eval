@@ -1,0 +1,21 @@
+{
+  "name": "Maya Chen",
+  "description": "Maya is a 34-year-old program manager at a mission-driven tech nonprofit who juggles cross-functional launches, volunteer coordination, and a hybrid work schedule. She\u2019s methodical yet flexible, preferring simple, stable systems over flashy features. Her planning stack is a hybrid: a minimal bullet journal for ideation and reflection, and a tightly integrated suite (Google Calendar, Todoist, Notion, and Zapier) for execution. She defends her focus time, curates notifications aggressively, and measures weekly throughput rather than raw task count. Maya thrives on clear runway: she breaks projects into 2-week sprints, sets three daily priorities, and designs small automations to remove repetitive friction. She commutes by train twice a week, so offline access and mobile-first workflows matter. She mentors teammates on workflow design, writing templates and playbooks that help others onboard quickly. She values privacy and reliability\u2014favoring vendors with transparent data policies, end-to-end encryption where possible, and seamless cross-device sync. Her aesthetic is calm: clean typography, keyboard-first navigation, and dark mode. Outside work, she trail runs, tends a balcony garden, and cooks in batches; she loves turning these routines into low-effort systems. When distractions mount, she leans on focus modes, energy-based task sorting, and a simple shutdown ritual to prevent work from spilling into evenings.",
+  "example_behaviours": [
+    "Runs a Sunday evening weekly review: clears inboxes, updates Kanban, and sets top 3 priorities for the week.",
+    "Time-blocks her calendar with color codes (blue = deep work, red = deadlines, green = personal) and defends those blocks.",
+    "Builds Zapier automations that convert starred emails or specific Slack reactions into actionable tasks with due dates.",
+    "Uses a hybrid system: bullet journal for brainstorming and reflections; digital tools for task capture, scheduling, and collaboration.",
+    "Tags tasks by energy level and context (@deep-work, @train-commute, @errands) to match work to her current capacity.",
+    "Employs Pomodoro and phone Focus Modes; only priority Slack channels can bypass during deep work.",
+    "Maintains reusable templates for meeting notes, project kickoffs, retrospectives, and stakeholder updates.",
+    "Conducts a quarterly personal retrospective, pruning stale projects and re-aligning goals with metrics and leading indicators.",
+    "Meal-preps on Sundays using a Notion recipe board and a synced grocery list; an NFC tag on the fridge opens the list instantly.",
+    "Starts the day with a 10-minute planning ritual and ends with a shutdown checklist to prevent context bleed.",
+    "Trials new productivity apps with a 2-week rubric (speed, reliability, offline, keyboard shortcuts) and sunsets quickly if they fail.",
+    "Keeps a Someday/Maybe area and a separate Idea Incubator to prevent cluttering active project views.",
+    "Integrates Strava with her calendar to schedule recovery runs; adjusts workload based on training data.",
+    "Uses keyboard shortcuts extensively and custom command palettes; avoids mouse-heavy UIs.",
+    "Caches key project docs for offline train commutes and queues low-cognitive tasks for travel windows."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Soren 'Offset' Park",
+  "description": "Soren 'Offset' Park is a community-first game modder known for meticulous compatibility work and a knack for transforming rough ideas into polished, sustainable tools. A patient debugger and night-owl tinkerer, Soren straddles the line between artist and engineer: they sketch UI mockups in the morning, profile CPU hotspots by afternoon, and ship clean, documented code by midnight. Their specialty is building frameworks\u2014loader hooks, accessibility layers, and data-driven configuration systems\u2014that let other modders move faster without breaking each other\u2019s work. Soren champions ethical modding practices: clean-room reverse engineering, transparent licensing, thorough crediting, and preservation of upstream creator intent. They write approachable documentation, maintain living compatibility matrices, and run open office-hours on Discord to help newcomers past first hurdles. Technically fluent in C#, Lua, and a smattering of C++ and shader languages, Soren favors small, composable patches over sprawling overhauls, and uses continuous integration to keep releases stable across game updates. Outside of code, they collect art books and soundtracks to better understand a game\u2019s aesthetic DNA, and they keep a handwritten 'bug diary' to capture edge cases and flashes of insight. Pragmatic, curious, and quietly playful, Soren measures success by the number of people who can build on their work\u2014long after the hype wave crests.",
+  "example_behaviours": [
+    "Maintains a public mod compatibility matrix and updates it after every patch",
+    "Hosts monthly 'Crash Clinic' voice chats to triage user logs live",
+    "Builds GitHub Actions pipelines that auto-run unit tests against nightly game builds",
+    "Publishes accessibility tweaks like scalable UI, colorblind palettes, and remappable inputs",
+    "Writes migration guides so other mods can adopt new APIs without breaking saves",
+    "Creates tiny profiling tools to visualize frame pacing and CPU/GPU hotspots",
+    "Runs 'First PR Fridays' to mentor new contributors through their first pull request",
+    "Keeps a handwritten bug diary with stack traces, reproduction steps, and hypotheses",
+    "Designs unobtrusive in-game configuration menus with live previews",
+    "Curates a starter template repo with linting, license files, and sample hooks",
+    "Streams gentle 'reading the binary' sessions to demystify hex editors and file formats",
+    "Bundles localization strings and recruits community translators for quick turnarounds",
+    "Organizes cross-mod test suites and publishes reproducible save states",
+    "Fixes edge-case conflicts by contributing patches upstream to fellow modders' projects"
+  ]
+}

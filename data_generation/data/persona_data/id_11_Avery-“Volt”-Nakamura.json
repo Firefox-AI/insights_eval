@@ -1,0 +1,18 @@
+{
+  "name": "Avery \u201cVolt\u201d Nakamura",
+  "description": "Avery is a methodical PC gamer in their late 20s who treats tinkering and competition as two sides of the same pursuit: extracting signal from noise. By day, they work as a systems analyst, which feeds their love for structured problem\u2011solving; by night, they\u2019re the go\u2011to optimizer in their Discord, known for turning mid\u2011range parts into top\u2011tier performers through careful tuning. Avery is budget\u2011savvy but willing to splurge where it counts\u2014low\u2011latency peripherals, a high\u2011refresh monitor, and a GPU that undervolts gracefully. They build with a clean aesthetic (tidy cable management, neutral palettes, subtle RGB tied to system telemetry) and document everything in spreadsheets: prices, firmware versions, stability notes, and benchmark deltas across driver updates. In competitive games (primarily FPS and squad\u2011based titles), Avery is a disciplined shot\u2011caller who values comms clarity and post\u2011match VOD reviews over trash talk. They warm up with aim trainers, track performance trends, and keep tilt at bay with short reset rituals. Outside the lobby, Avery is active on forums and subreddits, writing practical guides for newcomers and mediating debates with data rather than hot takes. They also dabble in light content creation\u2014build logs, settings breakdowns, and occasional coaching sessions\u2014preferring depth and transparency to hype. To balance screen time, Avery bikes around the city and practices short mobility routines to offset long sessions. They care about sustainability\u2014repurposing parts into hand\u2011me\u2011down builds, running efficient fan curves, and maintaining a small home server for clips and backups. Reliable, analytical, and community\u2011minded, Avery turns personal curiosity into shared resources, lifting the performance of everyone around them.",
+  "example_behaviours": [
+    "Maintains a versioned spreadsheet logging benchmarks, temps, driver changes, BIOS updates, and stability notes for each build.",
+    "Undervolts the GPU and tunes fan curves for a cool, quiet rig; tracks noise levels and frametime consistency instead of just average FPS.",
+    "Hosts weekly scrim nights on Discord and leads brief VOD reviews focusing on crosshair placement, comms, and win\u2011condition planning.",
+    "Posts monthly \u201cbang\u2011for\u2011buck\u201d parts lists on forums with clear reasoning, alternatives by price tier, and upgrade paths.",
+    "Runs a small NAS for game captures and uses automated backups; tags clips with map, match result, and notable moments.",
+    "3D\u2011prints simple airflow shrouds and cable combs; shares STL files and build photos with part lists and costs.",
+    "Uses aim trainers for 10\u2011minute warmups; logs sensitivity changes and maintains a single DPI across games for muscle memory.",
+    "Prefers practical settings (higher visibility, reduced clutter) over eye\u2011candy; disables unnecessary overlays to minimize input latency.",
+    "Coaches beginners in a weekly open lobby, focusing on fundamentals, mindset resets, and keybind ergonomics.",
+    "Repairs and repurposes older components into entry\u2011level builds for friends or local community centers.",
+    "Brews a precise pour\u2011over before ranked sessions and uses that time to set intentions and review goals.",
+    "Cycles around the neighborhood after long queues to reset focus and reduce desk fatigue."
+  ]
+}

@@ -1,0 +1,1245 @@
+{
+  "NEVI 97% uptime definition": [
+    {
+      "url": "https://tealcom.io/post/reliability-redefined-inside-nevis-97-uptime-mandate-for-ev-chargers/",
+      "title": "Reliability Redefined: Inside NEVI's 97% Uptime Mandate ... - Teal Com"
+    },
+    {
+      "url": "https://www.lawinsider.com/dictionary/nevi-federal-uptime-requirement",
+      "title": "NEVI Federal Uptime Requirement definition - Law Insider"
+    }
+  ],
+  "OCPP 2.0.1 smart charging profile example JSON": [
+    {
+      "url": "https://www.ampcontrol.io/post/how-to-send-ev-charging-profiles-to-your-open-charge-point-protocol-ocpp-charging-station",
+      "title": "How to Send EV Charging Profiles to Your OCPP Charging Station - Ampcontrol"
+    },
+    {
+      "url": "https://developer.jedlix.com/docs/receive-ocpp-charging-profiles",
+      "title": "Receive OCPP Charging Profiles - Jedlix"
+    },
+    {
+      "url": "https://github.com/mobilityhouse/ocpp",
+      "title": "Python implementation of the Open Charge Point Protocol (OCPP)."
+    },
+    {
+      "url": "https://docs.edrv.io/docs/set-charging-profiles",
+      "title": "Set Charging Profiles - eDRV"
+    }
+  ],
+  "ISO 15118-20 plug and charge certificate provisioning guide": [
+    {
+      "url": "https://www.charin.global/media/pages/technology/knowledge-base/6703d3c686-1649175438/pnc_implementation_guide_v1_2.pdf",
+      "title": "PDF CharIN Implemetation Guide to Plug and Charge"
+    },
+    {
+      "url": "https://support.hubject.com/hc/en-us/articles/9205932782621-1-3-Plug-Charge-Ecosystem",
+      "title": "1.3 Plug&Charge Ecosystem - Hubject"
+    }
+  ],
+  "open source OCPP 2.0.1 backend github": [
+    {
+      "url": "https://github.com/c-jimenez/open-ocpp",
+      "title": "GitHub - c-jimenez/ open - ocpp : Open Source C++ implementation of..."
+    },
+    {
+      "url": "https://socket.dev/go/package/github.com/ysaakpr/ocpp-go",
+      "title": "github .com/ysaakpr/ ocpp -go - go Package Security Analysis - Socket"
+    },
+    {
+      "url": "https://www.libhunt.com/topic/ocpp",
+      "title": "Top 12 ocpp Open - Source Projects | LibHunt"
+    }
+  ],
+  "WattTime marginal emissions API docs": [
+    {
+      "url": "https://legacy-docs.watttime.org/",
+      "title": "API Reference"
+    },
+    {
+      "url": "https://docs.watttime.org/",
+      "title": "WattTime Data API"
+    }
+  ],
+  "ElectricityMaps real-time marginal emissions API": [
+    {
+      "url": "https://app.electricitymaps.com/developer-hub/api/getting-started",
+      "title": "API Documentation | Electricity Maps"
+    }
+  ],
+  "OpenDSS EV loadshape example": [
+    {
+      "url": "https://github.com/tshort/OpenDSS/blob/master/Distrib/Examples/Loadshapes/LoadShape_How_To.DSS",
+      "title": "OpenDSS/Distrib/Examples/Loadshapes/LoadShape_How_To.DSS at master ..."
+    },
+    {
+      "url": "https://opendss.epri.com/LoadShape.html",
+      "title": "LoadShape - OpenDSS Documentation"
+    },
+    {
+      "url": "https://sourceforge.net/p/electricdss/discussion/861976/thread/ab46bbef/",
+      "title": "OpenDSS / Discussion / Open Discussion: Loadshapes"
+    },
+    {
+      "url": "https://dss-extensions.org/dss-format/LoadShape.html",
+      "title": "LoadShape \u2014 DSS-Extensions"
+    },
+    {
+      "url": "https://opendss.epri.com/LoadShapes1.html",
+      "title": "LoadShapes - OpenDSS Documentation"
+    }
+  ],
+  "pandapower timeseries tutorial with EV charging": [
+    {
+      "url": "https://colab.research.google.com/github/caltech-netlab/acnportal-experiments/blob/master/examples/3-Grid-Impacts/3.1-Simple-Feeder-with-EV-and-Solar-PandaPower/3.1-simple-feeder-with-ev-and-solar-pandapower.ipynb",
+      "title": "simple_pandapower_cosim.ipynb - Colab"
+    }
+  ],
+  "PLECS Vienna rectifier example SiC": [
+    {
+      "url": "https://www.plexim.com/support/application-examples/293",
+      "title": "Vienna Rectifier with Hysteresis Current Controller | Plexim"
+    },
+    {
+      "url": "https://www.plexim.com/support/examples",
+      "title": "Application Examples | Plexim"
+    }
+  ],
+  "SiC MOSFET gate driver isolation recommendations": [
+    {
+      "url": "https://www.onsemi.com/pub/Collateral/TND6237-D.PDF",
+      "title": "TND6237 - SiC MOSFETs : Gate Drive Optimization"
+    },
+    {
+      "url": "https://my.avnet.com/wcm/connect/985a0485-e09b-4796-b087-fd70d4aa4ef4/and90103-onsemi-m1-1200v-sic-mosfets-modules-characteristics-and-driving-recommendations.pdf?MOD=AJPERES&CVID=oDVZK8O",
+      "title": "AND90103 - onsemi M 1 1200 V SiC MOSFETs & Modules..."
+    },
+    {
+      "url": "https://www.st.com/resource/en/application_note/an4671-how-to-fine-tune-your-sic-mosfet-gate-driver-to-minimize-losses-stmicroelectronics.pdf",
+      "title": "How to fine tune your SiC MOSFET gate driver to minimize losses"
+    }
+  ],
+  "thermal camera emissivity setting for rubber cables": [
+    {
+      "url": "https://www.flir.com/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/",
+      "title": "How Does Emissivity Affect Thermal Imaging? | Flir"
+    },
+    {
+      "url": "https://www.purepower.com/blog/2-important-settings-thermal-cameras",
+      "title": "2 Important settings for Thermal (IR) Cameras"
+    }
+  ],
+  "liquid cooled HPC cable 500A specs": [
+    {
+      "url": "https://www.midapower.com/ccs-type-2-500a-hpc-500kw-ccs2-dc-charging-cable-liquid-cooled-hpc-plug-product/",
+      "title": "China CCS 2 Gun 500 A HPC 500kW CCS2 DC Charging Cable ..."
+    },
+    {
+      "url": "https://www.phoenixcontact.com/en-us/products/charging-technology-for-e-mobility/dc-charging-cables",
+      "title": "DC charging cables | Phoenix Contact"
+    },
+    {
+      "url": "https://www.chinaevcharger.com/ev-charging-solution/high-power-charging-hpc-ev-charging-connector.html",
+      "title": "High Power Charging ( HPC ) Manufacturers Suppliers Factory - Buy..."
+    },
+    {
+      "url": "https://ru.Made-in-China.com/co_midapower/product_500A-CCS1-Charging-Cable-Liquid-Cooled-Hpc-Plug-500kw-EV-Charging-Station_uonureiyeu.html",
+      "title": "500 A CCS1 \u0417\u0430\u0440\u044f\u0434\u043d\u044b\u0439 \u043a\u0430\u0431\u0435\u043b\u044c \u0441 \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u043d\u044b\u043c \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u0435\u043c Hpc Plug..."
+    }
+  ],
+  "CCS vs NACS connector temperature limits": [
+    {
+      "url": "https://docs.nrel.gov/docs/fy25osti/94107.pdf",
+      "title": "PDF Thermal Evaluation of CCS and NACS Reference Devices and Adapters"
+    }
+  ],
+  "NACS SAE J3400 standard pdf": [
+    {
+      "url": "https://webstore.ansi.org/standards/sae/sae34002024",
+      "title": "SAE J 3400-2024 - North American Charging System (NACS) for ..."
+    },
+    {
+      "url": "https://saemobilus.sae.org/standards/j3400_202409-north-american-charging-system-nacs-electric-vehicles",
+      "title": "J3400_202409: North American Charging System (NACS) for ..."
+    }
+  ],
+  "ISO 15118-20 DC V2G message sequence": [
+    {
+      "url": "https://typhoon-hil.com/documentation/typhoon-hil-software-manual/References/iso_15118_20_protocol.html",
+      "title": "ISO 15118-20 Protocol - Typhoon HIL"
+    },
+    {
+      "url": "https://cdn.standards.iteh.ai/samples/23481/6e9eacaab49d4f4dbcf57f83d118dc66/ISO-15118-20-2022.pdf",
+      "title": "PDF International Iso Standard 15118-20"
+    },
+    {
+      "url": "https://deepwiki.com/dspace-group/dsV2Gshark/7.2.3-iso-15118-20-decoders",
+      "title": "ISO 15118-20 Decoders | dspace-group/dsV2Gshark | DeepWiki"
+    }
+  ],
+  "school bus V2G case study California": [
+    {
+      "url": "https://electrek.co/2025/08/11/california-v2g-electric-school-bus-fleets-fremont/",
+      "title": "One of California's top V2G electric school bus fleets just ..."
+    },
+    {
+      "url": "https://theclimatecenter.org/wp-content/uploads/2025/06/Anna-Bella-Korbatov.pdf",
+      "title": "School Buses That Do More: California Case Studies in V2G and ..."
+    },
+    {
+      "url": "https://electricschoolbusinitiative.org/powering-grid-cajon-valley-union-school-district",
+      "title": "Powering the Grid with Cajon Valley Union School District"
+    }
+  ],
+  "IEEE 1547-2018 requirements for V2G interconnection": [
+    {
+      "url": "https://v2gforum.com/PDFs/Hawk_Asgeirsson_Grid_edge_IEEE_1547-SAE_V2G_Standards_Oct_2023.pdf",
+      "title": "Electric Vehicle V2G Draft Standard Update"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/8332112",
+      "title": "1547-2018 - IEEE Standard for Interconnection and ..."
+    },
+    {
+      "url": "https://assets.website-files.com/612e28aaabd9b394c14ef12c/615f59e20c559e2e9c2cee8b_IEEE-1547-2018-SPI-Draft-rev-i-20180924-Final-Additions.pdf",
+      "title": "IEEE 1547 - 2018 - Major Revision of Interconnection Standard"
+    }
+  ],
+  "UL 1741 SA certified bidirectional inverter list": [],
+  "Rule 21 export limited interconnection school buses": [
+    {
+      "url": "https://www.sce.com/sites/default/files/custom-files/Web+files/Rule21_FAQ.pdf",
+      "title": "PDF Frequently Asked Questions for SCE's Rule 21 Tari"
+    },
+    {
+      "url": "https://www.cpuc.ca.gov/rule21/",
+      "title": "Electric Rule 21: Generating Facility Interconnections"
+    },
+    {
+      "url": "https://www.sdge.com/more-information/customer-generation/electric-rule-21",
+      "title": "Electric Rule 21 | San Diego Gas & Electric"
+    },
+    {
+      "url": "https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/infrastructure/rule-21-interconnection/rulemaking-and-regulatory-history",
+      "title": "Electric Rule 21: Rulemaking and Regulatory History"
+    }
+  ],
+  "OCPP 2.0.1 security profile TLS settings": [
+    {
+      "url": "https://www.edrv.io/blog/understanding-ocpp-security-profiles",
+      "title": "Understanding OCPP Security Profiles - edrv.io"
+    },
+    {
+      "url": "https://github.com/Suprawii/ocpp-secure-simulation",
+      "title": "OCPP 2.0.1 Secure Communication Simulation - GitHub"
+    },
+    {
+      "url": "https://wevo.energy/white-papers/open-charge-point-protocol-ocpp-security-explained/",
+      "title": "Open Charge Point Protocol (OCPP) Security Explained - WEVO OCPP - Activation and Setup Guide - Wallbox Help Center OCPP 2.0.1 Feature Guide | Joulepoint Documentation OCPP 2.0.1: Part 2 - Specification - Regulations.gov Understanding OCPP Security Profiles - edrv.io Open Charge Point Protocol ( OCPP ) Security Explained - WEVO Open Charge Point Protocol ( OCPP ) Security Explained - WEVO Understanding OCPP Security Profiles - edrv.io OCPP 2.Lite - openchargealliance.org"
+    }
+  ],
+  "ocpp websocket heartbeat timeout troubleshooting": [
+    {
+      "url": "https://gist.github.com/rohittiwari-dev/1bed980b1ca21e5a0a09c20bdfd7f9fa",
+      "title": "Complete OCPP 1.6 WebSocket Communication Developer Guide"
+    },
+    {
+      "url": "https://www.bender.de/docs/charge-controller/OCPP/ocpp-in-depth-guide",
+      "title": "OCPP In-Depth Guide | Bender Controller Software Docs"
+    },
+    {
+      "url": "https://www.ampcontrol.io/ocpp-guide/understanding-ocpp-a-guide-to-setting-up-and-troubleshooting-ocpp-chargers",
+      "title": "Understanding OCPP: Setting Up and Troubleshooting OCPP Chargers"
+    },
+    {
+      "url": "https://openchargealliance.org/wp-content/uploads/2024/04/improving_uptime_with_ocpp_v1_1.pdf",
+      "title": "PDF Improving Uptime Monitoring with OCPP - Open Charge Alliance"
+    }
+  ],
+  "charge station contactor failure modes DCFC": [
+    {
+      "url": "https://www.durakool.com/information/technology/installation/hvdc-contactors-failure-modes/",
+      "title": "HVDC Contactors and Failure Modes - Durakool"
+    },
+    {
+      "url": "https://asbeam.com/news/536-cn.html",
+      "title": "DC Charger Contactor Fault Causes and Remedial Measures"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/why-does-main-contact-dc-contactor-failure-close-mode-devin-chen-da6bf",
+      "title": "Why Does Main Contact of DC Contactor Failure to Close? - LinkedIn"
+    }
+  ],
+  "NIST Handbook 44 EVSE kWh pricing requirements": [
+    {
+      "url": "https://www.nist.gov/document/nist-hb-44-2024-section-340-electric-vehicle-fueling-systems",
+      "title": "NIST HB 44 2024 Section 3.40. Electric Vehicle Fueling Systems"
+    },
+    {
+      "url": "https://www.tescometering.com/wp-content/uploads/2025/06/TESCOOL-2025-EVSE-HB-44-Track-6-EVSE-7-21-25-1030-PAL.pdf",
+      "title": "NIST HANDBOOK"
+    },
+    {
+      "url": "https://www.scribd.com/document/895570193/NIST-HB44-2024-Section-3-40-Electric-Fuel-Fueling-Systems",
+      "title": "NIST HB44 2024 Section 3-40 Electric Fuel Fueling Systems"
+    },
+    {
+      "url": "https://www.cdfa.ca.gov/dms/pdfs/CA_EVSE_Regulation_Reference_Document.pdf",
+      "title": "Specifications, Tolerances, and Other Technical Requirements ..."
+    }
+  ],
+  "ANSI C12.20 DC meter accuracy class for EVSE": [
+    {
+      "url": "https://en.wikipedia.org/wiki/ANSI_C12.20",
+      "title": "ANSI C12.20 - Wikipedia"
+    },
+    {
+      "url": "https://blog.ansi.org/ansi/ansi-c12-20-2015-electric-meters-accuracy-classes/",
+      "title": "ANSI C12.20-2015 - Electricity Meters - 0.1, 0.2, and 0.5 Accuracy Classes"
+    },
+    {
+      "url": "https://www.nema.org/docs/default-source/standards-document-library/ansi-c12-20-2015-contents-and-scope.pdf?sfvrsn=b93d1147_2",
+      "title": "PDF C12.20 Rev 1.10 - NEMA"
+    },
+    {
+      "url": "http://www.electrical.eaton.com/us/en-us/products/low-voltage-power-distribution-control-systems/power-and-energy-monitoring-equipment-and-software/metering-accuracy-faq.html",
+      "title": "ANSI metering accuracy FAQ - electrical.eaton.com"
+    },
+    {
+      "url": "https://www.testinglab.net/ansi-c1220-accuracy-testing-of-ev-power-metering-equipment",
+      "title": "ANSI C12.20 - Accuracy Testing of EV Power Metering Equipment"
+    }
+  ],
+  "OIML R 46 EV charging meters": [
+    {
+      "url": "https://consult.industry.gov.au/electricity-meters-comment-on-oiml-r-46",
+      "title": "Electricity meters : comment on OIML R 46 - Department of Industry..."
+    },
+    {
+      "url": "https://www.oiml.org/en/files/pdf_r/r046-1-2-e12.pdf",
+      "title": "oiml .org/en/files/pdf_ r / r 046-1-2-e12.pdf"
+    },
+    {
+      "url": "https://storage.googleapis.com/converlens-au-industry/industry/p/prj1a39a7ed0c323a9202918/public_assets/Consultation-paper-on-electricity-meters-OIML-R-46.docx",
+      "title": "Consultation on international requirements for electricity meters 3 rd..."
+    },
+    {
+      "url": "https://www.intertekinform.com/en-gb/standards/oiml-r-46-1-2-2012-886154_saig_oiml_oiml_2104833/",
+      "title": "Oiml r 46 -1 & 2 : 2012 active electrical energy meters - part 1: metr"
+    },
+    {
+      "url": "https://nmi.nl/wp-content/uploads/2019/07/Flyer-R46-2019.pdf",
+      "title": "OIML R 46 : opening doors worldwide"
+    }
+  ],
+  "ISO 17025 calibration DC energy meter lab": [
+    {
+      "url": "https://constellationpowerlabs.com/calibration-services/high-voltage-calibrations/dc-voltage-calibrations",
+      "title": "ISO 17025 DC Voltage Calibrations Services | Get Quote"
+    },
+    {
+      "url": "https://acscalibration.com/calibration-services/energy-meter-calibration/",
+      "title": "Energy Meter Calibration Service"
+    },
+    {
+      "url": "https://www.transcat.com/electrical-calibration-labs",
+      "title": "Electrical Calibration Laboratory Services - ISO Accredited | Transcat"
+    },
+    {
+      "url": "https://www.tescometering.com/product/testing-and-support/calibration-laboratory/",
+      "title": "Calibration Laboratory for Accurate Meter Equipment Services - TESCO ..."
+    }
+  ],
+  "queueing model M/M/c for charging plaza": [
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352146525001413",
+      "title": "Dynamics of an EV Charging Station considering Queuing Theory"
+    },
+    {
+      "url": "https://prezi.com/p/1dy4y9eno2jn/exploring-queueing-theory-in-ev-charging-stations/",
+      "title": "Exploring Queueing Theory in EV Charging Stations by Skanda C ..."
+    }
+  ],
+  "SimPy queue simulation EV charging": [
+    {
+      "url": "https://github.com/selge8/Electric-Vehicle-Charging-Station-Simulator",
+      "title": "GitHub - selge8/Electric-Vehicle- Charging -Station- Simulator : This..."
+    },
+    {
+      "url": "https://simpy.readthedocs.io/_/downloads/en/4.0.0/pdf/",
+      "title": "SimPy Documentation"
+    },
+    {
+      "url": "https://medium.com/swlh/simulating-a-parallel-queueing-system-with-simpy-6b7fcb6b1ca1",
+      "title": "Simulating a Parallel Queueing System With SimPy | Medium"
+    }
+  ],
+  "Erlang C calculator peak holiday corridor charging": [
+    {
+      "url": "https://www.callcentretools.com/tools/erlang-calculator/",
+      "title": "Erlang Calculator for Call Centre Staffing"
+    },
+    {
+      "url": "https://www.ccmath.com/erlang-calculators/",
+      "title": "Online Erlang C and Erlang X calculators for WFM - CCmath"
+    },
+    {
+      "url": "https://firstcontactservice.com/erlang-calculator.php",
+      "title": "Erlang Calculator - FCS - First Contact Service"
+    },
+    {
+      "url": "https://www.callcentrehelper.com/erlang-c-calculator-2473.htm",
+      "title": "Excel Based Erlang Calculator for Contact Centres \u2013 with ... Erlang C calculator - Free tools from Westbay Engineers Erlang Call Center Traffic Calculator - pesystemsllc.com Calculator | weWFM Erlang C calculator - Free tools from Westbay Engineers Erlang Calculator for Call Centre Staffing Excel Based Erlang Calculator for Contact Centres \u2013 with Maximum O\u2026 Erlang C calculator - Free tools from Westbay Engineers"
+    },
+    {
+      "url": "https://www.erlang.com/calculator/erlc/",
+      "title": "Erlang C calculator - Free tools from Westbay Engineers"
+    }
+  ],
+  "Open dataset EV charger uptime": [
+    {
+      "url": "https://github.com/sathwikkes/electric-charging-analysis",
+      "title": "EV Charging Station Analysis and Uptime Prediction - GitHub"
+    },
+    {
+      "url": "https://opendata.kilowattcharging.com/",
+      "title": "Home - Open EV Data"
+    }
+  ],
+  "EV user experience survey dataset public": [],
+  "Open Charge Map API docs": [
+    {
+      "url": "https://www.openchargemap.org/develop/api",
+      "title": "Open Charge Map - API Documentation"
+    },
+    {
+      "url": "https://github.com/openchargemap/ocm-docs/blob/master/System/DeveloperGuide.md",
+      "title": "ocm-docs/System/DeveloperGuide.md at master - GitHub"
+    }
+  ],
+  "PlugShare scraping terms of service": [
+    {
+      "url": "https://company.plugshare.com/terms.html",
+      "title": "Terms of Use | PlugShare"
+    }
+  ],
+  "OCPI 2.2.1 vs OCPP differences": [
+    {
+      "url": "https://evnity.com/blog/ocpi-vs-ocpp",
+      "title": "Comparing OCPI And OCPP: A Comprehensive Guide - Evnity"
+    },
+    {
+      "url": "https://chargelab.co/blog/ocpi-vs-ocpp",
+      "title": "OCPI vs OCPP: Everything you need to know about charge point ... OCPI vs OCPP: Understanding Key Protocol Differences What is Difference Between OCPP and OCPI? - earthtronev.com OCPI vs. OCPP: EV Charging Protocols Explained | Winline News OCPI Protocol Guide: From 2.1.1 to 2.3.0 Updates - Solidstudio OCPI 2.2.1-d2: Open Charge Point Interface - EVRoaming Foundation"
+    },
+    {
+      "url": "https://evcharger.news/ocpi-vs-ocpp-understanding-key-protocol-differences/",
+      "title": "OCPI vs OCPP: Understanding Key Protocol Differences"
+    },
+    {
+      "url": "https://www.earthtronev.com/what-is-difference-between-ocpp-and-ocpi/",
+      "title": "What is Difference Between OCPP and OCPI? - earthtronev.com"
+    },
+    {
+      "url": "https://en.szwinline.com/company-news/ocpi-vs-ocpp-ev-charging-protocols-explained/",
+      "title": "OCPI vs. OCPP: EV Charging Protocols Explained | Winline News"
+    }
+  ],
+  "NEVI minimum station specs 2024 update": [
+    {
+      "url": "https://www.edrv.io/guide/nevi-minimum-standards-for-ev-charging-infrastructure",
+      "title": "Nevi formula program"
+    },
+    {
+      "url": "https://iowadot.gov/iowaevplan/docs/Iowa-NEVI-NOFO-draft.pdf",
+      "title": "National electric vehicle"
+    }
+  ],
+  "ADA requirements for curbside EV charging": [
+    {
+      "url": "https://www.access-board.gov/tad/ev/",
+      "title": "Design Recommendations for Accessible Electric Vehicle Charging Stations"
+    },
+    {
+      "url": "https://afdc.energy.gov/fuels/electricity-ada-compliance",
+      "title": "ADA Compliance for Electric Vehicle Charging Infrastructure"
+    },
+    {
+      "url": "https://www.transportation.gov/grants/dot-navigator/design-recommendations-accessible-electric-vehicle-charging-stations",
+      "title": "Design Recommendations for Accessible Electric Vehicle Charging ..."
+    },
+    {
+      "url": "https://linkpowercharging.com/industry-knowledge/a-guide-to-ada-compliant-ev-charging-stations-2025-requirements/",
+      "title": "A Guide to ADA Compliant EV Charging Stations (2025 Requirements)"
+    },
+    {
+      "url": "https://www.dgs.ca.gov/-/media/Divisions/DSA/Publications/access/EVCS_FAQ_09-20-17p.pdf",
+      "title": "PDF Electric Vehicle Charging Stations, Accessibility: FAQs"
+    }
+  ],
+  "NEC 625 2023 changes summary": [
+    {
+      "url": "https://www.nssltd.com/nec-information/2023-Code-Year-NEC-625",
+      "title": "nssltd.com/ nec -information/ 2023 - Code -Year- NEC - 625"
+    }
+  ],
+  "transformer sizing for 4x350kW chargers": [
+    {
+      "url": "https://electrical-world.com/posts/transformer-sizing-complete-guide-with-calculations",
+      "title": "Transformer Sizing & kVA Calculator | Load Calculation Guide"
+    },
+    {
+      "url": "https://www.omnicalculator.com/physics/transformer-sizing",
+      "title": "Transformer Sizing Calculator"
+    },
+    {
+      "url": "https://electriciancalc.com/transformer-sizing",
+      "title": "Transformer Sizing Calculator | KVA Rating & Load Analysis"
+    },
+    {
+      "url": "https://www.alfatransformer.com/transformer_calculator.php",
+      "title": "Transformer Calculator KVA Calculator Full Load Amps Calculator"
+    },
+    {
+      "url": "https://www.calculatorsconversion.com/en/transformer-sizing-based-on-load-calculator-nec-ieee/",
+      "title": "Transformer Sizing Based on Load Calculator - NEC, IEEE"
+    }
+  ],
+  "feeder hosting capacity with DC fast chargers OpenDSS": [
+    {
+      "url": "https://sparklab.engr.uky.edu/sites/spark/files/2024+UK+SPARK+T&D+Impact+of+EV+Fast+DC+Charging+on+Large+Electric+Power+Distribution+Systems-compressed.pdf",
+      "title": "Impact of EV Fast DC Charging on Large Electric Power ..."
+    },
+    {
+      "url": "https://sourceforge.net/p/electricdss/discussion/beginners/thread/39cceb367f/",
+      "title": "OpenDSS / Discussion / Beginners: Hosting Capacity"
+    },
+    {
+      "url": "https://www.stet-review.org/articles/stet/abs/2025/01/stet20240134/stet20240134.html",
+      "title": "Hosting capacity in smart distribution systems using OpenDSS ..."
+    }
+  ],
+  "single phase L2 unbalance limits ANSI C84.1": [
+    {
+      "url": "https://voltage-disturbance.com/voltage-quality/voltage-tolerance-standard-ansi-c84-1/",
+      "title": "Voltage Tolerance Standard \u2013 ANSI C84.1 \u2013 Voltage Disturbance"
+    },
+    {
+      "url": "https://restservice.epri.com/publicdownload/000000000001000092/0/Product",
+      "title": "Voltage Unbalance: Power Quality Issues, Related Standards ..."
+    },
+    {
+      "url": "https://durastudio.com/sites/default/files/ansi_c84-1-20xx_2016_revision_draft_2019-02-15.pdf",
+      "title": "ANSI C84.1-1995 - Durastudio"
+    },
+    {
+      "url": "https://blog.ansi.org/ansi/ansi-c84-1-2020-electric-voltage-ratings-60-hz/",
+      "title": "ANSI C84.1-2020: Electric Power Systems Voltage Ratings (60 Hz)"
+    }
+  ],
+  "thermal derating curve for CCS couplers in heat wave": [
+    {
+      "url": "https://www.we-online.com/files/pdf1/wuerth-elektronik_digital-days-2022_connector-temperature-rise-and-derating.pdf",
+      "title": "CONNECTOR TEMPERATURERISE AND DERATING"
+    }
+  ],
+  "-20C fast charging power limit studies": [
+    {
+      "url": "https://interestingengineering.com/energy/faster-ev-battery-charging-at-extreme-cold",
+      "title": "500% faster EV battery charging achieved at freezing temperature"
+    }
+  ],
+  "battery SOC estimation PyTorch LSTM example": [
+    {
+      "url": "https://github.com/ArpanBiswas99/Battery-State-of-Charge-Estimation",
+      "title": "ArpanBiswas99/Battery-State-of-Charge-Estimation - GitHub"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0360544222022575",
+      "title": "SOC estimation for lithium-ion battery using the LSTM-RNN with extended ..."
+    },
+    {
+      "url": "https://www.mdpi.com/2032-6653/14/7/197",
+      "title": "Creating a Robust SoC Estimation Algorithm Based on LSTM Units and ..."
+    },
+    {
+      "url": "https://www.nature.com/articles/s41598-025-15597-2",
+      "title": "CNN-LSTM optimized with SWATS for accurate state-of-charge estimation ..."
+    }
+  ],
+  "battery SOH prediction with uncertainty PyTorch": [
+    {
+      "url": "https://ideas.repec.org/a/eee/energy/v335y2025ics0360544225036692.html",
+      "title": "Interpretable deep learning with uncertainty quantification for..."
+    }
+  ],
+  "heteroscedastic regression loss PyTorch code": [
+    {
+      "url": "https://github.com/tuantle/regression-losses-pytorch",
+      "title": "GitHub - tuantle/regression-losses-pytorch: Experimenting with ..."
+    },
+    {
+      "url": "https://github.com/aleximmer/heteroscedastic-nn",
+      "title": "GitHub - aleximmer/heteroscedastic-nn: Code for \"Effective Bayesian ..."
+    }
+  ],
+  "conformal prediction time series tutorial": [
+    {
+      "url": "https://towardsdatascience.com/time-series-forecasting-with-conformal-prediction-intervals-scikit-learn-is-all-you-need-4b68143a027a/",
+      "title": "Time Series Forecasting with Conformal Prediction Intervals ..."
+    },
+    {
+      "url": "https://nixtlaverse.nixtla.io/statsforecast/docs/tutorials/conformalprediction.html",
+      "title": "Conformal Prediction - Nixtla"
+    }
+  ],
+  "Kalman filter for SOC python implementation": [
+    {
+      "url": "https://github.com/Om-Prakash08/Extended-kalman-filter-SOC-estimation",
+      "title": "Om-Prakash08/Extended-kalman-filter-SOC-estimation - GitHub"
+    },
+    {
+      "url": "https://pierreh.eu/battery-soc-estimation-kalman/",
+      "title": "Battery State of Charge estimation with Kalman filter ..."
+    },
+    {
+      "url": "https://codepal.ai/code-generator/query/7Q2fWcd7/python-extended-kalman-filter-battery-soc-estimation",
+      "title": "Python Battery SOC Estimation using Extended Kalman Filter ..."
+    },
+    {
+      "url": "https://filterpy.readthedocs.io/en/latest/kalman/KalmanFilter.html",
+      "title": "KalmanFilter \u2014 FilterPy 1.4.4 documentation"
+    }
+  ],
+  "particle filter SOC estimation tutorial": [
+    {
+      "url": "https://www.mathworks.com/matlabcentral/answers/538707-particle-filter-for-soc-estimation",
+      "title": "Particle Filter for SoC estimation - MATLAB Answers - MATLAB ..."
+    }
+  ],
+  "OpenBMS open source project": [
+    {
+      "url": "https://github.com/kayoumdjedidi/OpenBMS-advanced-battery-management-system",
+      "title": "OpenBMS: Open Source advanced Battery Management System - GitHub"
+    },
+    {
+      "url": "https://scienceenvy.com/open-bms/",
+      "title": "The Open BMS Project \u2013 Li-Ion Battery ... - Science Envy"
+    },
+    {
+      "url": "https://github.com/rickygu/openBMS",
+      "title": "GitHub - rickygu/openBMS: Lithium ion Battery Management ..."
+    },
+    {
+      "url": "https://github.com/Teslafly/Dead-OpenBMS-dead",
+      "title": "GitHub - Teslafly/Dead-OpenBMS-dead: A scalable, open source ..."
+    }
+  ],
+  "Raspberry Pi CAN HAT isolated 3.3V": [
+    {
+      "url": "https://www.waveshare.com/2-ch-can-hat.htm",
+      "title": "2-Channel Isolated CAN Bus Expansion HAT for Raspberry Pi ..."
+    },
+    {
+      "url": "https://thepihut.com/products/2-channel-isolated-can-hat-for-raspberry-pi",
+      "title": "2-Channel Isolated CAN HAT for Raspberry Pi - The Pi Hut"
+    },
+    {
+      "url": "https://www.amazon.com/XICOOLEE-Isolated-Raspberry-SN65HVD230-Protection/dp/B0C4NG9K8R",
+      "title": "Isolated RS485 CAN HAT for Raspberry Pi Ardui STM32 2-Ch CAN ... Dual Isolated CAN Bus HAT for Raspberry Pi - Copperhill Waveshare 2-Channel Isolated CAN HAT - Sailor Hat for ... Coolwell CAN Bus Expansion HAT Review: Reliable & Versatile 2-Channel Isolated CAN Expansion HAT for Raspberry Pi, Dual ..."
+    },
+    {
+      "url": "https://copperhilltech.com/dual-isolated-can-bus-hat-for-raspberry-pi/",
+      "title": "Dual Isolated CAN Bus HAT for Raspberry Pi - Copperhill"
+    }
+  ],
+  "CAN DBC for Nissan Leaf battery pack": [
+    {
+      "url": "https://github.com/dalathegreat/leaf_can_bus_messages",
+      "title": "Nissan LEAF CAN bus messages (in .DBC format!) - GitHub"
+    }
+  ],
+  "DIN 70121 message set overview": [
+    {
+      "url": "https://www.typhoon-hil.com/documentation/typhoon-hil-software-manual/References/din70121_protocol.html",
+      "title": "DIN 70121 Protocol - typhoon-hil.com"
+    }
+  ],
+  "1980s hatchback EV conversion guide": [
+    {
+      "url": "https://www.youtube.com/watch?v=zmzCy1Rz8BM",
+      "title": "EV Conversion Guide Part 1- Original Car With... - YouTube"
+    },
+    {
+      "url": "https://www.ultimatesubaru.org/forum/topic/175272-gladysteins-monster-nissan-leaf-powered-gl-hatchback-ev-conversion/",
+      "title": "GLadystein's Monster: Nissan Leaf-Powered GL Hatchback EV ..."
+    },
+    {
+      "url": "http://cbelectriccar.com/blog/ac-electric-motor/ev-conversion-guide-should-we-use-ac-electric-motor/",
+      "title": "EV Conversion Guide - Should We Use AC Electric Motor?"
+    }
+  ],
+  "DC contactor selection for 400V pack": [
+    {
+      "url": "https://www.littelfuse.com/products/relays-contactors-transformers/high-voltage-dc-contactor-relays/dcnevt400",
+      "title": "DCNEVT400 Series High Voltage DC Contactor Relays | Littelfuse"
+    },
+    {
+      "url": "https://www.altranmagnetics.com/media/2025/09/HVDC-Contactor-Selection-Chart-2025.pdf",
+      "title": "DC Contactors"
+    },
+    {
+      "url": "https://www.bossgoo.com/product-detail/evq400-high-voltage-dc-contactor-dc1000v-63013596.html",
+      "title": "Evq400 High Voltage Dc Contactor Dc 1000v 400a Relay, High Quality..."
+    }
+  ],
+  "precharge resistor sizing calculator": [
+    {
+      "url": "https://www.sensata.com/calculator/precharge",
+      "title": "Precharge Calculator | Sensata Technologies"
+    },
+    {
+      "url": "https://www.telpod.eu/en/strefa-wiedzy/pre-charge-calculator",
+      "title": "Telpod | Guides - Pre-charge battery resistor calculator"
+    }
+  ],
+  "SiC based DC/DC for 800V battery design notes": [
+    {
+      "url": "https://navitassemi.com/wp-content/uploads/2024/03/GaN-and-SiC-Based-500kHz-Resonant-Bi-directional-DCDC-Design-for-800V-OBCM-Application-paper.pdf",
+      "title": "GaN and SiC Based 500kHz Resonant Bidirectional DC/DC Design ..."
+    },
+    {
+      "url": "https://www.onsemi.com/pub/collateral/tnd6401-d.pdf",
+      "title": "Developing a 25 kW SiC-Based DC Fast Charger (DCFC)"
+    }
+  ],
+  "T-Type NPC three-level converter control PLECS": [
+    {
+      "url": "https://www.plexim.com/sites/default/files/plecsmanual.pdf",
+      "title": "PLECS - User Manual"
+    },
+    {
+      "url": "https://www.koreascience.kr/article/JAKO201920061453266.page",
+      "title": "SVPWM Strategies for Three - level T - type ... | Korea Science"
+    },
+    {
+      "url": "https://www.bohrium.com/paper-details/a-zero-current-transition-soft-switching-technique-for-t-type-npc-three-level-inverter/817353861994905603-4245",
+      "title": "A zero\u2010current\u2010transition soft\u2010switching technique for T \u2010 type NPC ..."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/382770466_Comparative_Study_of_Multilevel_Converters_using_DQ_Current_Control",
+      "title": "(PDF) Comparative Study of Multilevel Converters using DQ Current..."
+    }
+  ],
+  "Jetson Nano PyTorch inference on edge": [
+    {
+      "url": "https://github.com/stonepreston/jetson-nano-pytorch-inferencing",
+      "title": "GitHub - stonepreston/ jetson - nano - pytorch -inferencing"
+    },
+    {
+      "url": "https://pytorch.org/blog/running-pytorch-models-on-jetson-nano/",
+      "title": "Running PyTorch Models on Jetson Nano \u2013 PyTorch"
+    },
+    {
+      "url": "https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048",
+      "title": "PyTorch for Jetson - Announcements - NVIDIA Developer Forums"
+    },
+    {
+      "url": "https://www.codegenes.net/blog/jetson-nano-pytorch-tensorrt/",
+      "title": "Jetson Nano , PyTorch , and TensorRT... \u2014 codegenes.net"
+    }
+  ],
+  "real-time marginal emissions scheduling paper": [
+    {
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13684/1368413/Real-time-optimization-and-resource-scheduling-system-for-carbon-emission/10.1117/12.3075663.full",
+      "title": "Real-time optimization and resource scheduling system for ..."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/388137305_A_low-carbon_economic_scheduling_of_power_systems_considering_marginal_carbon_emission_factor",
+      "title": "(PDF) A low-carbon economic scheduling of power systems ..."
+    }
+  ],
+  "carbon aware charging algorithm open source": [
+    {
+      "url": "https://github.com/kaicheng0824/carbon_aware_ev_charging",
+      "title": "Carbon Aware EV Charging - GitHub"
+    }
+  ],
+  "e-bike grade vs power model spreadsheet": [
+    {
+      "url": "https://www.throttlefans.com/ebike/comparison-spreadsheet",
+      "title": "Electric Bike Comparison Spreadsheet - ThrottleFans"
+    },
+    {
+      "url": "https://forums.electricbikereview.com/threads/a-fun-ebike-matrix-compare-tool.2332/",
+      "title": "A Fun eBike Matrix Compare Tool - Electric Bike Forums"
+    },
+    {
+      "url": "https://www.mathbikes.com/comparisons/",
+      "title": "Compare Electric Bike Models - MathBikes In-Depth Model ..."
+    }
+  ],
+  "Garmin Connect export power and grade CSV": [
+    {
+      "url": "https://support.garmin.com/en-US/?faq=W1TvTPW8JZ6LfJSfK512Q8",
+      "title": "How Do I Export Data Out of Garmin Connect?"
+    },
+    {
+      "url": "https://sourcetable.com/export-csv/garmin-connect",
+      "title": "How To Export Data from Garmin Connect to CSV - Sourcetable"
+    },
+    {
+      "url": "https://github.com/pe-st/garmin-connect-export",
+      "title": "GitHub - pe-st/garmin-connect-export: Download a copy of your Garmin ..."
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=jFPdAUFoNtk",
+      "title": "How to Export & Backup Your Garmin Connect Data Easily"
+    },
+    {
+      "url": "https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/421060/exporting-individual-activity-raw-data",
+      "title": "Exporting individual activity raw data - Garmin Connect Web - Mobile ..."
+    }
+  ],
+  "bike battery pack thermal monitoring DIY": [
+    {
+      "url": "https://electricbike.com/forum/forum/main-forum/general-discussions/171320-diy-ebike-battery-management-best-way-to-monitor-voltage-and-temp",
+      "title": "DIY eBike battery management, best way to monitor voltage and temp?"
+    }
+  ],
+  "FLIR One Pro accuracy calibration": [
+    {
+      "url": "https://trutechtools.com/content/brands/flir/documents/flir-one-pro-manual.pdf",
+      "title": "PDF User's manual FLIR ONE series - trutechtools.com"
+    },
+    {
+      "url": "https://www.manualslib.com/products/Flir-One-Pro-8742109.html",
+      "title": "FLIR One Pro Thermal Imaging Camera Manuals"
+    },
+    {
+      "url": "https://www.flir.com/discover/professional-tools/how-do-you-calibrate-a-thermal-imaging-camera/",
+      "title": "How Do You Calibrate a Thermal Imaging Camera? | Flir"
+    }
+  ],
+  "Grafana dashboard for OCPP metrics": [
+    {
+      "url": "https://grafana.com/grafana/dashboards/",
+      "title": "Grafana dashboards | Grafana Labs"
+    }
+  ],
+  "InfluxDB schema for charging sessions": [
+    {
+      "url": "https://www.youtube.com/watch?v=d99oCnOyA4k",
+      "title": "[Training] InfluxDB Performance Tuning and Schema Design - YouTube"
+    },
+    {
+      "url": "https://docs.influxdata.com/influxdb/v1/query_language/explore-schema/",
+      "title": "Explore your schema using InfluxQL | InfluxDB OSS v1 Documentation"
+    },
+    {
+      "url": "https://web.archive.org/web/20240524125427/https://www.influxdata.com/blog/data-layout-and-schema-design-best-practices-for-influxdb/",
+      "title": "Data Layout and Schema Design Best Practices for InfluxDB"
+    }
+  ],
+  "Kafka vs MQTT for EV telemetry": [
+    {
+      "url": "https://stackoverflow.com/questions/37391827/what-is-the-difference-between-mqtt-broker-and-apache-kafka",
+      "title": "What is the difference between MQTT broker and Apache Kafka"
+    },
+    {
+      "url": "https://cedalo.com/blog/mqtt-vs-kafka-comparative-guide/",
+      "title": "Deciphering MQTT vs . Kafka : Full Comparative Guide | Cedalo"
+    },
+    {
+      "url": "https://dev.to/connectivecode/mqtt-vs-kafka-http-https-and-coap-udp-optimizing-iot-device-communication-ioi",
+      "title": "MQTT vs Kafka , HTTP, HTTPS, and CoAP UDP... - DEV Community"
+    },
+    {
+      "url": "https://medium.com/data-motion/mqtt-vs-kafka-http-https-and-coap-udp-optimizing-iot-device-communication-aad3120c98b2",
+      "title": "MQTT vs Kafka , HTTP, HTTPS, and CoAP UDP: Optimizing... | Medium"
+    },
+    {
+      "url": "https://www.influxdata.com/blog/mqtt-vs-kafka-iot-advocates-perspective-part-1/",
+      "title": "MQTT vs Kafka : An IoT Advocate's Perspective... | InfluxData"
+    }
+  ],
+  "opendssdirect python examples": [
+    {
+      "url": "https://dss-extensions.org/OpenDSSDirect.py/notebooks/GettingStarted.html",
+      "title": "Getting Started \u2014 OpenDSSDirect.py 0.9.1 documentation"
+    },
+    {
+      "url": "https://github.com/dss-extensions/OpenDSSDirect.py",
+      "title": "dss-extensions/OpenDSSDirect.py - GitHub"
+    },
+    {
+      "url": "https://deepwiki.com/dss-extensions/OpenDSSDirect.py/4.4-example-applications",
+      "title": "Example Applications | dss-extensions/OpenDSSDirect.py | DeepWiki"
+    }
+  ],
+  "pandapower load flow with time-varying profiles": [
+    {
+      "url": "https://pandapower.readthedocs.io/en/v2.0.1/powerflow/ac.html",
+      "title": "Power Flow \u2014 pandapower 2.0.1 documentation"
+    }
+  ],
+  "GIS charging deserts methodology": [],
+  "Justice40 EV infrastructure guidance": [
+    {
+      "url": "https://barragan.house.gov/2021/07/20/barragan-statement-on-white-houses-implementation-guidance-on-justice40/",
+      "title": "Barrag\u00e1n Statement on White House\u2019s Implementation Guidance on..."
+    }
+  ],
+  "FHWA NEVI Q&A site": [
+    {
+      "url": "https://www.fhwa.dot.gov/environment/nevi/",
+      "title": "FHWA West Virginia Division"
+    }
+  ],
+  "DOE V2G funding FOA 2025": [],
+  "CPUC EVSE uptime reporting requirements": [],
+  "NEVI data reporting schema JSON": [
+    {
+      "url": "https://evchargingspec.org/wp-content/uploads/2023/09/Using-the-EV-Charging-Use-Data-Specification-for-NEVI-Programs.pdf",
+      "title": "PDF Using the EV Charging Use Data Specification for NEVI Programs"
+    }
+  ],
+  "school bus fleet duty cycle dataset": [
+    {
+      "url": "https://www.nrel.gov/transportation/fleettest-fleet-dna",
+      "title": "Fleet DNA: Commercial Fleet Vehicle Operating Data"
+    }
+  ],
+  "Thomas Built Jouley V2G specs": [
+    {
+      "url": "https://thomasbuiltbuses.com/content/uploads/2024/04/brochure-c2_jouley_and_proterra-spring-2024.pdf",
+      "title": "Partners in possibility. - Thomas Built Buses"
+    },
+    {
+      "url": "https://www.schoolbusfleet.com/10233945/first-look-at-thomas-built-buses-second-gen-jouley-electric-school-bus",
+      "title": "First Look at Thomas Built Buses' Second-Gen Jouley Electric ..."
+    },
+    {
+      "url": "https://californiahvip.org/wp-content/uploads/2023/07/Jouley-Spec-Sheet2_New-230713.pdf",
+      "title": "SAF-T-LINER\u00ae C2 JOULEY ELECTRIC SCHOOL BUS"
+    }
+  ],
+  "Blue Bird electric school bus V2G": [
+    {
+      "url": "https://www.blue-bird.com/electric/",
+      "title": "Electric - Blue Bird Bus Corporation"
+    },
+    {
+      "url": "https://www.energy.gov/sites/default/files/2021-06/elt095_moore_2021_o_5-14_416pm_LR_TM.pdf",
+      "title": "Blue Bird V2G School Bus Commercialization Project"
+    },
+    {
+      "url": "https://www.v2g-hub.com/projects/bluebird-school-bus-v2g/",
+      "title": "BlueBird School Bus V2G : V2G Hub | V2G Around the world"
+    }
+  ],
+  "CCS to NACS adapter roadmap": [
+    {
+      "url": "https://teslaunch.net/blogs/news/ccs-to-nacs-adapter-benefits-limitations-future-outlook",
+      "title": "CCS to NACS Adapter: Benefits, Limitations, and Future Outlook"
+    },
+    {
+      "url": "https://arstechnica.com/cars/2025/08/gm-announces-new-nacs-and-ccs1-adapters-coming-next-week/",
+      "title": "As GM prepares to switch its EVs to NACS, it has some new adapters"
+    },
+    {
+      "url": "https://www.evmechanica.com/gm-launches-ev-adapters-to-support-nacs-transition/",
+      "title": "GM Launches EV Adapters to Support NACS Transition"
+    }
+  ],
+  "ISO 15118-20 test tool open source": [
+    {
+      "url": "https://gitee.com/charging-system/libiso15118",
+      "title": "libiso15118: ISO 15118 library suite"
+    }
+  ],
+  "15118 PnC PKI providers list": [
+    {
+      "url": "https://doc.nexusgroup.com/pub/identities-for-vehicle-to-grid-v2g-pki",
+      "title": "Identities for Plug and Charge/vehicle-to-grid - V2G PKI"
+    }
+  ],
+  "secure firmware signing for EVSE best practices": [
+    {
+      "url": "https://ocp-all.groups.io/g/OCP-Security/attachment/5/0/Best+Practices+for+Firmware+Code+Signing.pdf",
+      "title": "Best Practices for Firmware Code Signing - ocp-all.groups.io"
+    },
+    {
+      "url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.01262018.pdf",
+      "title": "Security Considerations for Code Signing - NIST"
+    },
+    {
+      "url": "https://energy.sandia.gov/download/80387/",
+      "title": "Recommended Cybersecurity Practices for EV Charging Systems"
+    },
+    {
+      "url": "https://codesigncert.com/blog/firmware-signing-best-practices-secure-updates",
+      "title": "Firmware Signing Explained: Best Practices for Secure ..."
+    },
+    {
+      "url": "https://github.com/opencomputeproject/Security/blob/master/SecureFirmwareDevelopmentBestPractices.md",
+      "title": "Secure Firmware Development Best Practices"
+    }
+  ],
+  "OCPP firmware management 2.0.1 example": [
+    {
+      "url": "https://github.com/matth-x/MicroOcpp",
+      "title": "GitHub - matth-x/MicroOcpp: OCPP 1.6 / 2.0.1 client for ... Introducing OpenOCPP: An open-source embedded software for EV ... 5.3.20. OCPP 2.1 and 2.0.1 Module \u2014 EVerest documentation The Complete Guide to OCPP 2.0.1 | S44 GitHub - ChargeLab/OpenOCPP: Multi-platform OCPP 1.6/2.0.1 ... Guide to OCPP 2 . 0 . 1 - eDRV GitHub - matth-x/ MicroOcpp : OCPP 1.6 / 2.0.1 client for microcontrol\u2026 Guide to OCPP 2 . 0 . 1 - eDRV Introducing OpenOCPP: An open-source embedded software for EV c\u2026 Guide to OCPP 2.0.1 - eDRV"
+    },
+    {
+      "url": "https://everest.github.io/nightly/_included/modules_doc/OCPP201.html",
+      "title": "5.3.20. OCPP 2.1 and 2.0.1 Module \u2014 EVerest documentation"
+    },
+    {
+      "url": "https://www.s44.team/resources/the-complete-guide-to-ocpp-201-yMS5iompvA7AaI",
+      "title": "The Complete Guide to OCPP 2.0.1 | S44"
+    }
+  ],
+  "thermal runaway detection BMS algorithms": [
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S1364032124006087",
+      "title": "A review on thermal runaway warning technology for lithium ..."
+    },
+    {
+      "url": "https://www.infineon.com/event/webinar/2025/bms-sensor-solution-thermal-runaway-detection-mitigation",
+      "title": "BMS and Sensor Solution for Thermal Runaway Detection and ..."
+    },
+    {
+      "url": "https://metisengineering.com/bms-thermal-runaway-detection-limitations/",
+      "title": "Why Traditional BMS Can\u2019t Detect Thermal Runaway Fast Enough"
+    },
+    {
+      "url": "https://www.vervetronics.com/predictive-analytics-in-bms-thermal-runaways/",
+      "title": "Predictive Analytics in BMS Thermal Runaways - VerveTronics"
+    }
+  ],
+  "uncertainty quantification battery degradation gaussian process": [
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352152X2300840X",
+      "title": "Chained Gaussian processes to estimate battery health ..."
+    },
+    {
+      "url": "https://www.robots.ox.ac.uk/~mosb/public/pdf/4463/Richardson+et+al.+-+2019+-+Battery+health+prediction+under+generalized+condit.pdf",
+      "title": "Battery health prediction under generalized conditions using ..."
+    }
+  ],
+  "PyTorch Lightning time series forecasting battery": [
+    {
+      "url": "https://lightning.ai/docs/examples/train-models-full-code/time-series-forecasting",
+      "title": "Timeseries forecasting \u26a1\ufe0f Lightning AI"
+    },
+    {
+      "url": "https://github.com/sktime/pytorch-forecasting",
+      "title": "GitHub - sktime/pytorch-forecasting: Time series forecasting ..."
+    },
+    {
+      "url": "https://www.codegenes.net/blog/pytorch-lightning-time-series/",
+      "title": "PyTorch Lightning for Time Series Analysis - codegenes.net"
+    },
+    {
+      "url": "https://www.kaggle.com/code/steffenhaeussler/time-series-forecasts-pytorch-lightning",
+      "title": "Time series forecasts - pytorch lightning - Kaggle"
+    }
+  ],
+  "feeder voltage drop with clustered L2 chargers": [
+    {
+      "url": "https://www.yescalculator.com/en/tool/feeder-voltage-drop-calculator.html",
+      "title": "Feeder Voltage Drop Calculator - Yes! Calculator"
+    },
+    {
+      "url": "https://www.reddit.com/r/evcharging/comments/xgy0rd/how_common_is_l2_voltage_drop_monitoring_in_ev/",
+      "title": "How common is L2 voltage drop monitoring in EV? : r/evcharging - Reddit"
+    },
+    {
+      "url": "https://electricvehiclegeek.com/ev-charger-voltage-drop/",
+      "title": "Understanding EV Charger Voltage Drop: Causes, Effects, and Solutions"
+    }
+  ],
+  "curbside pedestal mounting detail drawing": [
+    {
+      "url": "https://www.columbus.gov/files/sharedassets/city/v/1/building-and-zoning/standard-drawings/4163_07012021.pdf",
+      "title": "4163-2 Pedestal Foundation - City of Columbus"
+    },
+    {
+      "url": "https://pedestalpro.com/public-file?disk=products&path=72-3-12-ss/Pedestal+PRO+Install+Guide.pdf",
+      "title": "Pedestal Installation Overview"
+    }
+  ],
+  "multi-unit dwelling charging management best practices": [
+    {
+      "url": "https://new.naseo.org/Data/Sites/1/documents/publications/Multi-Unit+Dwelling+Toolkit_10102022.pdf",
+      "title": "Multi-Unit"
+    },
+    {
+      "url": "https://afdc.energy.gov/fuels/electricity-charging-multi",
+      "title": "Alternative Fuels Data Center: Electric Vehicle Charging for ..."
+    },
+    {
+      "url": "https://driveelectric.gov/files/webinar-2023-04-25-community-charging-market-scan.pdf",
+      "title": "Electric Vehicle Charging Solutions for Multifamily Housing"
+    },
+    {
+      "url": "https://forthmobility.org/storage/app/media/Reports/Best+Practices+for+Model+Multifamily+Housing+Charging+White+Paper+May+2023.pdf",
+      "title": "BEST PRACTICES FOR MODEL MULTIFAMILY CHARGING PROGRAMS"
+    },
+    {
+      "url": "https://energyinnovation.org/wp-content/uploads/The-State-of-Electric-Vehicle-Charging-for-Multifamily-Housing.pdf",
+      "title": "THE STATE OF ELECTRIC VEHICLE CHARGING FOR MULTIFAMILY HOUSING"
+    }
+  ],
+  "meter placement EVSE revenue grade": [
+    {
+      "url": "https://jointutilitiesofny.org/sites/default/files/2023-05+Joint+Utilities+of+NY+EV+Metering+Accuracy+RFI.pdf",
+      "title": "EV and EVSE Metering Accuracy Testing - Joint Utilities of NY"
+    },
+    {
+      "url": "https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A045BF87-0000-C538-9E0E-446FB0BCE2DA}",
+      "title": "EVSE Embedded Metering: Accuracy and Testing"
+    }
+  ],
+  "NFPA 70E arc flash boundaries DC systems": [
+    {
+      "url": "https://www.bing.com/aclick?ld=e8ORTaE8hjTVKLDXf12XrndjVUCUzE-0dHotsJxrM29qBQ3g5x_jGRHtPB0kCEWFjLB_M0zOJXfzxP1ukT8WArqrMdVJowLmn2urQdCqFHG5rel4EZBlG_0Sk_vX3jNX8nsUiAVkLDZ1Zbr4OWXcA1czJwojTbAmy9eCOkLkJWNQ-xUaxZlV5aYVMoAxze6m4-91KnUWhVGvj-vgO8v27QUzIdaSc&u=aHR0cHMlM2ElMmYlMmZscC5kdXJhbGFiZWwuY29tJTJmYXJjLWZsYXNoLWd1aWRlJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkYXJjLWZsYXNoJTI2X2J0JTNkJTI2X2JrJTNkYXJjJTI1MjBmbGFzaCUyNTIwcnVsZXMlMjZfYm0lM2RwJTI2X2JuJTNkbyUyNl9iZyUzZDEyNDkwNDY1NTU5ODc4OTQlMjZ1dG1fdGVybSUzZGFyYyUyNTIwZmxhc2glMjUyMHJ1bGVzJTI2dXRtX2NhbXBhaWduJTNkJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkcHBjJTI2aHNhX2FjYyUzZDQ5NjYyMTExNzAlMjZoc2FfY2FtJTNkNjk4MjQ3ODUwJTI2aHNhX2dycCUzZDEyNDkwNDY1NTU5ODc4OTQlMjZoc2FfYWQlM2QlMjZoc2Ffc3JjJTNkbyUyNmhzYV90Z3QlM2Rrd2QtNzgwNjU3OTA0MTkzMzklM2Fsb2MtMTkwJTI2aHNhX2t3JTNkYXJjJTI1MjBmbGFzaCUyNTIwcnVsZXMlMjZoc2FfbXQlM2RwJTI2aHNhX25ldCUzZGFkd29yZHMlMjZoc2FfdmVyJTNkMyUyNm1zY2xraWQlM2RhMGEzYTIyMWZjZTkxNDAwMmZhM2NiNjAxOGQyMDU2OCUyNnV0bV9jb250ZW50JTNkQXJjJTI1MjBGbGFzaCUyNTIwUnVsZXM&rlid=a0a3a221fce914002fa3cb6018d20568",
+      "title": "Free NFPA Compliance Guide - Arc Flash Reference Guide"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e8Tk0W0hzmmNRlA4sNfMyBIDVUCUyoK9h69aJT8a0pWOvTcgTiFxh8JvAEEp2GPrsM_UESKG-C-WesT1g-tsGYvh8g2wB32mHhuEzqrk2mhy7a1VeSOFcXK20Qgi9qaDaCzKtfBiEM1NSUhBk0DqGCv2fp0sM9HVe0w-DcvXinRGumw3GJR-TKDxbq-BDels6H9mgJkhBv3RnUZMTkrMHKnkup6FA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYnJhZHlpZC5jb20lMmZhcHBsaWNhdGlvbnMlMmZhcmMtZmxhc2gtbGFiZWxpbmctcmVxdWlyZW1lbnRzJTNmc19rd2NpZCUzZEFMITEwNzIwITEwITc3MDM0NzI4Nzk3OTMwITc3MDM0ODI0NDIxOTAwJTI2Y2lkJTNkcHBjJTI2Y2FtcCUzZHBwYy11cy1ub25icmFuZC1iaW5nLmNvbS1zZWFyY2gtcHJpbnRlcnMlMjUyMGNvbnRlbnRfYm1tLWFyY19mbGFzaF9sYWJlbGluZ19yZXF1aXJlbWVudHNfY29udGVudC1vc2hhJTI1MjBhcmMlMjUyMGZsYXNoJTI1MjByZXF1aXJlbWVudHMlMjZzX2t3Y2lkJTNkQUwhMTA3MjAlMjUyMDMhIXAhIW8hIW9zaGElMjUyMGFyYyUyNTIwZmxhc2glMjUyMHJlcXVpcmVtZW50cyUyNm1zY2xraWQlM2RiZDc2YTBkMDEzODMxMTA5MDk1MWM5OTFmN2I4YjE5ZSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCTkIlMjU1RCUyNTIwLSUyNTIwQk5HJTI1MjAtJTI1MjBVUyUyNTIwLSUyNTIwUHJpbnRlcnMlMjUyMENvbnRlbnQlMjUyMC0lMjUyMEJNTSUyNnV0bV90ZXJtJTNkb3NoYSUyNTIwYXJjJTI1MjBmbGFzaCUyNTIwcmVxdWlyZW1lbnRzJTI2dXRtX2NvbnRlbnQlM2RBcmMlMjUyMEZsYXNoJTI1MjBMYWJlbGluZyUyNTIwUmVxdWlyZW1lbnRzJTI1MjBDb250ZW50&rlid=bd76a0d0138311090951c991f7b8b19e",
+      "title": "NFPA 70E Arc Flash Standards - OSHA Compliant Arc Flash"
+    },
+    {
+      "url": "https://www.bing.com/aclick?ld=e8Gk9ppIWazpvOyNDRiU3uCzVUCUz9LU7Jr4npykxeRXNeiGQZtxFd98l8hkP_0D8oR4TJmKqJ3Vf5akW9NvZbbzFS3tpbtJ8sYeZ_5otXMJxS1p8BAI37-ee7SHNVPVMt1VYGs9E4M78i6YesV_aA7NeLa_DwaCjSfq3Oh46CynOfHR62EydrlWg_gGfFrnztIss7sOhpjv9BjcorBh6izQdT8e0&u=aHR0cHMlM2ElMmYlMmZleHBsb3JlLm50dGluYy5jb20lMmZlbGVjdHJpY2FsLXNhZmV0eS1hcmMtZmxhc2glMmZpbmRleC5waHAlM2ZTZWFyY2hFbmdpbmUlM2RCaW5nJTI2U2VhcmNoS2V5d29yZCUzZGFyYyUyNTIwZmxhc2glMjUyMGJvdW5kYXJ5JTI1MjAyMDIxJTI2Q2FtcGFpZ24lM2RORlBBNzBFQXJjRmxhc2glMjZtc2Nsa2lkJTNkZDE4MTUwNGQxMTQ4MTA3MDVlOWUzOTBjZjU3MzgxYTAlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RFbGVjdHJpY2FsJTI1M0ElMjUyMFNhZmV0eSUyNTIwLSUyNTIwTkZQQSUyNTIwNzBFJTI1MjBBcmMlMjUyMEZsYXNoJTI2dXRtX3Rlcm0lM2RhcmMlMjUyMGZsYXNoJTI1MjBib3VuZGFyeSUyNTIwMjAyMSUyNnV0bV9jb250ZW50JTNkRWxlY3RyaWNhbCUyNTIwU2FmZXR5JTI1M0ElMjUyMEFyYyUyNTIwRmxhc2glMjUyMC0lMjUyMEZsYXNoJTI1MjBCb3VuZGFyeQ&rlid=d181504d114810705e9e390cf57381a0",
+      "title": "NFPA 70E Training - Arc Flash Boundary Training - NTTinc.com"
+    }
+  ],
+  "lockout tagout procedure for DC fast charger": [
+    {
+      "url": "https://www.electricallicenserenewal.com/Electrical-Continuing-Education-Courses/NEC-Content.php?sectionID=478.0",
+      "title": "NFPA 70E 120.4(A)(5) Complex Lockout / Tagout ."
+    },
+    {
+      "url": "https://www.getmaintainx.com/procedures/d/urESqQ5UGec/lockout-tagout-procedures-10-steps-to-follow",
+      "title": "Lockout / Tagout Procedures : 10 Steps to Follow"
+    }
+  ],
+  "LoRa vs APRS for remote site telemetry": [
+    {
+      "url": "https://vectorradio.ca/post/2022/loratest/",
+      "title": "APRS and Messaging with LoRa - VECTOR"
+    }
+  ],
+  "low-power solar gateway for rural charger monitoring": [
+    {
+      "url": "https://www.milesight.com/iot/product/lorawan-gateway/sg50",
+      "title": "Ultra Low Power Solar LoRaWAN\u00ae Gateway | Milesight"
+    },
+    {
+      "url": "https://voltaicsystems.com/gateways-and-routers/",
+      "title": "Solar Powered Gateways and Routers - Voltaic Systems"
+    },
+    {
+      "url": "https://tyrrellproducts.com/product/ultra-low-power-solar-lorawan-gateway/",
+      "title": "Ultra Low Power Solar LoRaWAN Gateway - Tyrrell Products"
+    },
+    {
+      "url": "https://store.mcci.com/products/ultra-low-power-solar-lorawan-gateway-sg50",
+      "title": "Milesight Ultra Low Power Solar LoRaWAN Gateway SG50 - MCCI"
+    },
+    {
+      "url": "https://embeddedworks.net/product/sens1108/",
+      "title": "Milesight SG50 Ultra Low Power Solar Gateway | LoRaWAN | 4G LTE | 45 W ..."
+    }
+  ],
+  "Tamil glossary energy and EV terms": [
+    {
+      "url": "https://www.tamillexicon.com/glossary/",
+      "title": "Tamil Glossary | \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b95\u0bb2\u0bc8\u0b9a\u0bcd\u0b9a\u0bca\u0bb1\u0bcd\u0b95\u0bb3\u0bcd"
+    },
+    {
+      "url": "https://www.tamilsurangam.in/glossary/physics.html",
+      "title": "\u0b87\u0baf\u0bb1\u0bcd\u0baa\u0bbf\u0baf\u0bb2\u0bcd (Physics) - Technical Glossary - \u0b95\u0bb2\u0bc8\u0b9a\u0bcd \u0b9a\u0bca\u0bb1\u0bcd\u0b95\u0bb3\u0bcd"
+    },
+    {
+      "url": "https://www.valaitamil.com/glossary-tamil-technical-glossary-T/c55.htm",
+      "title": "\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0b9a\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0b95\u0bb0\u0bbe\u0ba4\u0bbf (TECHNICAL GLOSSARY), glossary-tamil-technical ..."
+    },
+    {
+      "url": "http://www.tamildictionary.50webs.com/physics/",
+      "title": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b87\u0baf\u0bb1\u0bcd\u0baa\u0bbf\u0baf\u0bb2\u0bcd \u0b85\u0bb0\u0bc1\u0b9e\u0bcd\u0b9a\u0bca\u0bb1\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd/Tamil Physics Glossary"
+    }
+  ],
+  "city council presentation template charging equity": [
+    {
+      "url": "https://www.TemplateMonster.com/category/city-council-presentation-templates/",
+      "title": "City Council Presentation Templates - Download Best..."
+    },
+    {
+      "url": "https://www.decktopus.com/templates/proposal-to-city-council-template",
+      "title": "Proposal to City Council Template | Presentation Template"
+    },
+    {
+      "url": "https://theevreport.com/ev-charging-equity-act-unveiled",
+      "title": "EV Charging Equity Act Unveiled - The EV Report"
+    }
+  ],
+  "open source queue estimator for EV corridors": [
+    {
+      "url": "https://github.com/rl-institut/spice_ev",
+      "title": "GitHub - rl-institut/spice_ev: Simulation Program for ..."
+    }
+  ],
+  "charger uptime scraper GitHub": [
+    {
+      "url": "https://github.com/aannapureddy/coding-challenge-charger-uptime",
+      "title": "Fork of Electric Era coding challenge: charger uptime - GitHub"
+    },
+    {
+      "url": "https://github.com/orangatun/charger-uptime-rs",
+      "title": "Charger Uptime Coding Challenge - GitHub"
+    }
+  ],
+  "SAE J3068 three-phase AC charging North America": [
+    {
+      "url": "https://en.wikipedia.org/wiki/SAE_J3068",
+      "title": "SAE J3068 - Wikipedia"
+    },
+    {
+      "url": "https://teslamotorsclub.com/tmc/threads/j3068-3-phase-a-c-charging-for-north-america.98815/",
+      "title": "J3068 - 3 Phase A/C Charging for North America | Tesla Motors Club"
+    },
+    {
+      "url": "https://saemobilus.sae.org/standards/j3068_202207-electric-vehicle-power-transfer-system-using-a-three-phase-capable-coupler",
+      "title": "J3068_202207 Electric Vehicle Power Transfer System Using a Three-Phase ..."
+    },
+    {
+      "url": "https://nfpadata.engineer/sae/SAE+j3068_202409.pdf",
+      "title": "PDF SURFACE VEHICLE J3068\u2122 RECOMMENDED PRACTICE SAENORM.COM : Click to view ..."
+    }
+  ],
+  "connector pin temperature sensor integration NTC placement": [
+    {
+      "url": "https://www.exsense.com/technical_support/detailed-explanation-of-ntc-temperature-sensor-wiring-methods/",
+      "title": "Detailed explanation of NTC Temperature Sensor Wiring Methods"
+    },
+    {
+      "url": "https://www.ti.com/lit/pdf/sboa323",
+      "title": "Temperature sensing with NTC circuit (Rev. A) - Texas Instruments"
+    },
+    {
+      "url": "https://www.powerswitchcn.com/wiring-of-ntc-thermistor-temperature-sensor/",
+      "title": "Wiring of NTC Thermistor Temperature Sensor - Temperature sensor ..."
+    },
+    {
+      "url": "https://electronics.stackexchange.com/questions/685385/ntc-layout-for-mosfet-temperature-sensing",
+      "title": "sensor - NTC layout for MOSFET temperature sensing - Electrical ..."
+    },
+    {
+      "url": "https://ww1.microchip.com/downloads/en/AppNotes/21895d.pdf",
+      "title": "PDF Temperature Sensor Design Guide - Microchip Technology"
+    }
+  ]
+}

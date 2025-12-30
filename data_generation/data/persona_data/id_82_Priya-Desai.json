@@ -1,0 +1,16 @@
+{
+  "name": "Priya Desai",
+  "description": "Priya Desai is a 34-year-old Austin-based product manager and the de facto trip architect for her family and friends\u2019 theme park vacations. Detail-oriented and value-driven, she starts planning 6\u201310 weeks in advance, building clear side-by-side comparisons of ticket tiers (single-park, park-hopper, multi-day), add-ons (line-skipping, photo packages, dining), blackout dates, and refund policies across the park\u2019s official site and authorized resellers. Priya optimizes for cost-per-hour of fun and minimal time in lines, balancing kids\u2019 height requirements and stamina with budget, weather, and crowd forecasts. Tech-comfortable, she relies on Google Sheets, price alerts, crowd calendars, wait-time apps, and cash-back portals; she\u2019ll use points and promo codes but avoids anything that risks flexibility. On the day, she follows a rope-drop to midday-break cadence, adapts via real-time apps, and ensures everyone\u2019s priorities are met. Pain points include hidden fees, confusing fast-pass rules, and inconsistent dining/reservation systems. Motivated by making memorable, low-stress trips, Priya acts as a calm, data-savvy coordinator who communicates clearly and keeps options open.",
+  "example_behaviours": [
+    "Builds a color-coded spreadsheet comparing ticket prices by date, park-hopper add-ons, and skip-the-line packages with per-person, per-hour cost estimates",
+    "Checks crowd calendars and historical wait-time charts to choose off-peak dates and decide whether line-skipping is worth it",
+    "Tracks promo codes and reseller sales; sets weekly price alerts and screenshots offers to avoid bait-and-switch",
+    "Calculates break-even points for multi-day tickets or annual passes versus planned visit frequency",
+    "Creates a short survey for the group to rank must-do rides and shows, then maps them to a time-boxed itinerary",
+    "Uses credit card points, cash-back portals, and gift-card stacking to shave 5\u201310% off total costs without sacrificing refundability",
+    "Preloads the park app, links tickets, and tests mobile wallet entries for every traveler before departure",
+    "Plans a rope-drop start with midday hotel/pool downtime and evening return to catch lower waits and nighttime shows",
+    "Packs a \u2018queue survival kit\u2019 (portable chargers, snacks, ponchos, mini-games) and notes quiet areas for decompression",
+    "After the trip, writes a recap with spend breakdown, what worked, and tips for next time; updates her template for future planning"
+  ]
+}

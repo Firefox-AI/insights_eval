@@ -1,0 +1,18 @@
+{
+  "name": "Riley Chen",
+  "description": "Riley is a 34-year-old product designer in Portland who channels a data-driven, iterative mindset into homebrewing. They\u2019ve progressed from extract kits to a compact all-grain eBIAB setup with stainless gear, a temperature-controlled fermentation chamber, and a small kegging system. Riley keeps meticulous brew logs, tracking mash pH, OG/FG, fermentation temperature, and sensory notes, and uses brewing software to model recipes and water profiles. Curiosity fuels frequent split-batch experiments\u2014comparing yeast strains, hop schedules, and pressure fermentation\u2014to balance repeatability with innovation. They prize sanitation and process control, run triangle tests with friends for unbiased feedback, and refine recipes until they\u2019re competition-ready. Sustainability matters: Riley repitches yeast, reuses water where possible, and turns spent grain into bread and dog treats. Community is central; they\u2019re active in a local homebrew club, share tasting flights at casual gatherings, and mentor newcomers. Long-term, Riley aims to earn BJCP certification and possibly launch a small-scale nano project, all while carefully researching and budgeting gear upgrades to fit a small garage workspace.",
+  "example_behaviours": [
+    "Runs split-batch brew days to compare two yeasts on the same wort and logs attenuation, flocculation, and flavor differences.",
+    "Builds water profiles (e.g., soft Pilsner vs. sulfate-forward IPA) using RO water and measured mineral additions.",
+    "Maintains a fermentation chamber with precise temp control and occasionally experiments with pressure fermentation for fast, clean lagers.",
+    "Uses a refractometer and digital hydrometer to monitor gravity in real time and adjust dry-hop timing.",
+    "Creates a pre-brew and post-brew checklist for milling, mash pH checks, CIP cleaning with PBW, and Star San sanitation.",
+    "Designs and prints simple waterproof labels and dates each keg for rotation and freshness tracking.",
+    "Grows a few hop bines (Cascade/Chinook) for seasonal wet-hop ales.",
+    "Hosts blind triangle tastings with friends, collects feedback via a quick survey, and iterates recipes based on consensus.",
+    "Repitches harvested yeast after proper washing and cell count estimation with a stir-plate starter.",
+    "Bakes spent-grain crackers and dog treats; composts remaining grain to reduce waste.",
+    "Leads a homebrew club mini-session on yeast propagation, starter steps, and oxygenation best practices.",
+    "Keeps a compact 4-tap keezer with balanced draft lines and tracks keg volumes to plan brew schedules."
+  ]
+}

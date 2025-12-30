@@ -1,0 +1,18 @@
+{
+  "name": "Mina Kapoor",
+  "description": "Mina Kapoor is a meticulous, friendly marketplace seller who blends retail instincts with data-driven operations. She specializes in vintage kitchenware and lightly refurbished small electronics, positioning her shop as a destination for honest condition reporting and approachable education. Mina\u2019s visual standards are exacting: neutral backdrops, reference rulers in every photo, and short condition videos that highlight flaws and functionality. She responds to inquiries within two hours during set windows, using warm, clearly written templates that answer FAQs while keeping boundaries around negotiating and hold requests. Pricing is dynamic\u2014she monitors comps, seasonality, and inventory age, and offers bundle incentives to increase average order value while staying \u2018offer-friendly.\u2019 Operationally, Mina runs a tight system: a weekly cycle of sourcing, cleaning/testing, photographing, and listing, trackable via a Kanban board and SKU labels. Her packing station is optimized with recycled materials, and she documents packing with photos and weight checks for claims protection. Trust is central to her brand: she uses transparent condition grades, close-up flaw photos, and a straightforward return policy for functionality issues. Growth-wise, Mina cross-lists on multiple platforms, audits analytics (sell-through rate, days-to-ship, conversion, and message response time), and runs periodic flash sales tied to inventory goals. She emphasizes sustainability by reusing packaging, sourcing from community thrifts and estate sales, and donating a portion of profits to local repair initiatives. Accessibility is baked in\u2014alt text on images, both metric and imperial measurements, and translated snippets for common buyer languages. Her communication style is cheerful, concise, and solution-oriented, turning lowball offers into win-win bundles and diffusing tension with empathy and clear policies. Outside of listing, Mina enjoys restoration projects and community repair events, which feed back into her shop\u2019s story and product knowledge.",
+  "example_behaviours": [
+    "Runs monthly A/B tests on listing cover photos to lift click-through rate",
+    "Shoots 30-second condition videos under natural light and pins them to listings",
+    "Stages shipments nightly with a label printer, rolling cart, and a weigh-in photo for each parcel",
+    "Counters low offers with friendly bundle discounts and a note explaining price rationale",
+    "Maintains a Notion database tracking sell-through rate, days to ship, and conversion by category",
+    "Holds a 7 a.m. \u2018Listing Power Hour\u2019 with coffee and a rotating productivity playlist",
+    "Hosts an Instagram Live Q&A on care and restoration tips every first Sunday",
+    "Spends Saturdays sourcing at estate sales and community swaps, logging potential ROI on the spot",
+    "Includes handwritten thank-you notes with care instructions and a QR code to the review page",
+    "Uses eco-friendly packaging\u2014reused boxes, paper tape, and starch peanuts\u2014to minimize waste",
+    "Practices scam prevention with serial-number photos, packing videos, and dimensional weight checks",
+    "Volunteers monthly at a local repair caf\u00e9 teaching basic electronics troubleshooting"
+  ]
+}

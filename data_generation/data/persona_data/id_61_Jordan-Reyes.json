@@ -1,0 +1,18 @@
+{
+  "name": "Jordan Reyes",
+  "description": "Jordan Reyes is a data-driven dog guardian and gear enthusiast who treats chew-toy shopping like product research. Based in Austin, they live with Moose, a 70-lb pit-mix power chewer, and a smaller heeler mix, Juniper, giving Jordan a spectrum of chewing styles to test. By day, Jordan works in product analytics; off-hours, they apply the same rigor to toys\u2014tracking materials (natural rubber, ballistic nylon, TPE), Shore A durometer, seam types, and failure modes (seam blowout, nub shear, delamination). Safety and value anchor their decisions: non-toxic materials, size-up for safety, and warranty policies matter as much as price-per-hour-of-play. Jordan rotates toys to prevent boredom chewing, pairs chews with training (settle mats, decompression walks), and avoids unsupervised rope or brittle plastics. They prefer ethical, durable brands and small makers, but will stress-test everything from budget buys to premium rings. Jordan documents results in a quarterly \u201cDurability Index,\u201d balancing enrichment with longevity, and shares findings with local shelters and online communities. They are approachable, methodical, and curious\u2014equally happy dissecting a squeaker to understand its failure point or coaching a friend on choosing the right toy for a soft-mouthed pup.",
+  "example_behaviours": [
+    "Maintains a color-coded spreadsheet of 150+ toys tracking material, size, cost, durometer, and hours survived.",
+    "Runs controlled A/B chew sessions with Moose and Juniper, timing failure-to-first-tear.",
+    "Performs simple stress tests using a luggage scale to measure tug-force before stitching fails.",
+    "Emails manufacturers for material composition details and warranty fine print; tracks recall notices.",
+    "Repairs plush toys with Kevlar patches and upholstery thread to log \u2018post-repair lifespan\u2019.",
+    "3D-prints custom puzzle-feeder inserts to vary difficulty and reduce destructive boredom.",
+    "Posts slow-motion bite footage and teardown photos to an Instagram mini-review series.",
+    "Hosts neighborhood \u201cChew Lab Night,\u201d swapping toys and collecting multi-dog feedback.",
+    "Volunteers at a local shelter to trial indestructible toys across different breeds and chew styles.",
+    "Schedules a toy rotation every 3\u20134 days, pairing new chews with calm-enrichment training.",
+    "Calculates price-per-hour-of-play and ranks toys by durability-to-enrichment ratio.",
+    "Attends online materials-science talks and reads standards on pet-safe polymers."
+  ]
+}

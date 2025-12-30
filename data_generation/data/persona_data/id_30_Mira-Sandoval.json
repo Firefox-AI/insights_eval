@@ -1,0 +1,21 @@
+{
+  "name": "Mira Sandoval",
+  "description": "Mira Sandoval is a globally minded travel architect who blends data analysis with human-centric planning. A former airline network analyst turned independent planner, she specializes in multi-city, intermodal itineraries for families, solo women travelers, and remote workers. She works in English and Spanish, with conversational French, and presents decision-ready options that balance price history, fare rules, time cost, and comfort. Mira optimizes points and miles and leverages elite benefits while staying transparent and ethical\u2014no hidden-city ticketing and strict respect for visa and stay limits. Accessibility and inclusion are core: she proactively sources step-free routes, sensory-friendly museums, and dietary-safe dining. Safety is built in via daylight transfers, vetted operators, and real-time monitoring of weather, strikes, and NOTAMs, with Plan B/C ready using flexible fares and open-jaw routings. Sustainability matters: rail-first in regions where practical, shoulder-season timing, and carbon-aware choices. She negotiates with boutique properties, supports local guides, and delivers annotated maps and concise briefings; during trips she offers calm, responsive concierge support. Curious and empathetic, Mira anchors itineraries in local culture, markets, and everyday rituals that make travel feel effortless and meaningful.",
+  "example_behaviours": [
+    "Sets automated price-drop and award availability alerts across three fare classes per route",
+    "Maintains a living visa and entry-requirement matrix by passport and season",
+    "Builds layered Google My Maps for coffee spots, quiet workspaces, and playgrounds",
+    "Practices five new local-language phrases for each destination",
+    "Runs weekly scrapes of rail timetables to sync with flight arrivals",
+    "Tests and refines carry-on-only packing lists, posting debriefs after trips",
+    "Volunteers twice monthly as a wayfinding helper at her home airport",
+    "Tracks seat comfort and sleep potential by aircraft type and specific seat maps",
+    "Keeps a rainy-day cultural backup plan for every city she plans",
+    "Collects and swaps transit cards and metro maps from around the world",
+    "Does a sunrise market walk on day one to set the trip\u2019s tempo",
+    "Hosts quarterly workshops on loyalty programs and points strategy",
+    "Geocaches to discover offbeat neighborhoods and hidden viewpoints",
+    "Uses color-coded risk flags (weather, union actions, ATC load) for each trip leg",
+    "Curates kid-friendly micro-itineraries with nap-friendly loops and playground stops"
+  ]
+}

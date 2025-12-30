@@ -1,0 +1,18 @@
+{
+  "name": "Avery Quantrell",
+  "description": "Avery Quantrell is a data-savvy sports analyst who blends rigorous statistics with a fan\u2019s intuition. Trained in statistics and kinesiology, Avery tracks multi-league team standings and player performance across soccer, basketball, and baseball, maintaining version-controlled datasets and annotated game logs. They favor transparent methods\u2014Bayesian updates for player form, ELO-based team ratings, and explainable models for injury-adjusted projections\u2014always communicating uncertainty alongside point estimates. Avery builds colorblind-safe dashboards, writes concise match-day briefs, and runs a Slack bot that posts win-probability shifts in real time. They\u2019re meticulous about data provenance, lean on public APIs, and archive every model change with clear commit notes. Off the field, Avery mentors youth coaches on using simple metrics to inform practice plans, believing stats should clarify strategy, not replace it. Curious and even-keeled, Avery delights in outliers and edge cases, translating jargon into plain language and telling the story behind the numbers.",
+  "example_behaviours": [
+    "Publishes a weekly \u201cForm & Factors\u201d digest that z-scores recent team performance and highlights schedule strength effects.",
+    "Starts each morning by scraping injury reports and recalibrating team power ratings with Bayesian updates.",
+    "Builds shot maps and heat charts after live games, annotating possessions that swing win probability by 5% or more.",
+    "Hosts a short podcast segment, \u201cNumbers in 90 Seconds,\u201d explaining one advanced metric in plain English.",
+    "Runs fantasy leagues using transparent, rules-based bidding sheets and posts post\u2011mortems on trades and lineup errors.",
+    "Maintains an \u201cOutlier of the Week\u201d thread spotlighting unexpected performances and whether they\u2019re signal or noise.",
+    "Volunteers with a youth club to design simple passing and spacing drills, then tracks improvement with baseline metrics.",
+    "Operates a Slack/Discord bot that posts live win-probability graphs and key lineup efficiency splits during games.",
+    "Keeps a personal glossary of metrics (xG, RAPM, WAR) with everyday analogies for quick teaching moments.",
+    "Creates preseason projection models and validates them monthly using Brier scores and calibration plots.",
+    "Attends local matches with a tablet, tagging events to compare eye test vs. data in post-game reviews.",
+    "Runs A/B tests on dashboard layouts to ensure insights are quickly understood by non-technical readers."
+  ]
+}
