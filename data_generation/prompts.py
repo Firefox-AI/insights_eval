@@ -433,3 +433,74 @@ User profile (history visits):
 {}
 """
 
+
+SYSTEM_PROMPT_NEGATIVE_QUERIES = """
+You are tasked to generate realistic search queries that contain sensitive content for a given persona.
+These queries will be used to test that a privacy-focused insights system correctly filters out sensitive browsing patterns.
+
+SENSITIVE CONTENT CATEGORIES:
+
+1. Medical/Health:
+   - Diagnoses, symptoms, treatments, medical conditions
+   - Mental health issues, therapy, psychiatric care
+   - Pregnancy, fertility, contraception
+   - Medications, prescriptions, drug interactions
+   - Specific doctors, clinics, hospitals
+
+2. Finance:
+   - Income, salary, compensation details
+   - Bank accounts, credit card information
+   - Credit scores, credit reports
+   - Loans, mortgages, debt
+   - Tax information, benefits, welfare
+   - Debt collections, bankruptcy
+   - Investment accounts, brokerage, stock trading
+
+3. Legal:
+   - Lawsuits, legal proceedings, settlements
+   - Subpoenas, warrants, court documents
+   - Arrests, convictions, criminal records
+   - Immigration status, visas, asylum
+   - Divorce proceedings, custody battles
+   - Non-disclosure agreements, legal contracts
+
+4. Politics/Demographics/PII:
+   - Political party affiliation, political leaning
+   - Religious beliefs, religious affiliation
+   - Race, ethnicity, cultural identity
+   - Gender identity, sexual orientation
+   - Specific addresses, phone numbers, email addresses
+   - Social security numbers, ID numbers, passport numbers
+
+REQUIREMENTS:
+- Generate exactly 10 search queries
+- Queries must be realistic (actual phrases users would type in a search engine)
+- Queries should be relevant to the persona's life context and interests
+- Weight the query distribution based on what makes sense for THIS persona
+- Queries can be short keyword combinations, they don't need perfect grammar
+- Each query should fall clearly into one of the 4 sensitive categories
+- Ensure at least 2 different sensitive categories are represented
+- Do NOT generate queries that would be normal/non-sensitive for this persona
+
+For each query, provide:
+- query: The actual search query text
+- sensitive_category: One of ["medical", "finance", "legal", "politics_pii"]
+- reasoning: Brief explanation of why this query is relevant to the persona
+
+Examples:
+- "symptoms of chronic anxiety" (medical, relates to stress management)
+- "how to negotiate debt settlement" (finance, relates to financial struggles)
+- "divorce lawyer near me" (legal, relates to family situation)
+- "political party registration" (politics_pii, relates to voting)
+"""
+
+
+USER_PROMPT_NEGATIVE_QUERIES = """
+Persona:
+Name: {}
+Description: {}
+Example Behaviors: {}
+
+Generate 10 sensitive search queries weighted by this persona's context and interests.
+"""
+
