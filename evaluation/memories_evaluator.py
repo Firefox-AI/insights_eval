@@ -3,6 +3,7 @@ import re
 import glob
 import json
 import yaml
+import shutil
 import logging
 import numpy as np
 import pandas as pd
@@ -44,8 +45,7 @@ class MetricsComputationConfig(BaseModel):
     max_threads: int
 
 class OutputConfig(BaseModel):
-    metrics: str
-    results: str
+    outdir_prefix: str
 
 class MemoryEvaluatorConfig(BaseModel):
     data: DataConfig
@@ -128,6 +128,11 @@ SEARCH_ENGINE_REGEX = re.compile(
 # Markdown JSON extraction regex
 JSON_REGEX = re.compile(r"(?:```json)?([\[\{].*[\}\]])(?:```)?", re.DOTALL)
 
+# Output directories
+OUTDIR_SUFFIX = "memories_eval_results"
+MEMORIES_GENERATION = "1.memories_generation"
+METRICS_ARTIFACTS = "2.metrics_artifacts"
+
 
 class MemoryEvaluator:
     """
@@ -140,9 +145,20 @@ class MemoryEvaluator:
     ):
 
         self.config = config
+        self.outdir = MemoryEvaluator.setup_output_dir(config.output.outdir_prefix)
         self.aiwindow_prefs = MemoryEvaluator.set_aiwindow_prefs(config.lite_llm)
         self.firefox_bin = MemoryEvaluator.get_firefox_bin_path(config.firefox_repo_path)
         self.openai_client = OpenAI(api_key=config.openai.api_key)
+
+    @staticmethod
+    def setup_output_dir(outdir_prefix: str) -> str:
+        outdir = f"{outdir_prefix.strip('_')}_{OUTDIR_SUFFIX}"
+        if os.path.isdir(outdir):
+            shutil.rmtree(outdir)
+        os.mkdir(outdir)
+        for subdir in [MEMORIES_GENERATION, METRICS_ARTIFACTS]:
+            os.mkdir(f"{outdir}/{subdir}")
+        return outdir
 
     @staticmethod
     def set_aiwindow_prefs(lite_llm_config: LiteLLMConfig) -> Dict[str, str]:
@@ -184,11 +200,14 @@ class MemoryEvaluator:
             profile_name = profile_file.split("/")[-1].replace(".csv", "")
             profile_log_header = log_header + f"[{profile_id+1}/{total_profiles}]"
             print(f"{profile_log_header} Generating memories for profile \"{profile_name}\"")
+            profile_dir = f"{self.outdir}/{MEMORIES_GENERATION}/{profile_name}"
+            os.mkdir(profile_dir)
 
             profile_data = pd.read_csv(profile_file)
             profile_data = profile_data.drop(["category", "intent"], axis=1)
             profile_data.columns = ["url", "domain", "title", "visitDateMicros", "frequencyPct", "domainFrequencyPct"]
             profile_data["source"] = profile_data["url"].map(lambda url: MemoryEvaluator.is_search_engine_url(url))
+            profile_data.to_csv(f"{profile_dir}/memories_generation_input.csv")
 
             # Render eval JS script with data injected
             eval_js_script = EVAL_JS_SCRIPT_HEADER + profile_data.to_json(orient="records") + EVAL_JS_SCRIPT_FOOTER
@@ -203,9 +222,11 @@ class MemoryEvaluator:
             firefox.driver.set_script_timeout(180)
 
             results = []
-            for _ in range(self.config.memories_generation.n_passes):
+            for i in range(self.config.memories_generation.n_passes):
                 memories = firefox.driver.execute_async_script(eval_js_script)
                 results.append(memories)
+                with open(f"{profile_dir}/pass_{i}_generated_memories.json", "w") as _o:
+                    json.dump(memories, _o, indent=2)
 
             firefox.quit()
             all_results[profile_name] = results
@@ -333,7 +354,7 @@ If you do not identify any groups of such statements, simply return an empty lis
 
         return dup_json_out
 
-    def compute_metrics(self, results_df: pd.DataFrame, used_queries: List[str]):
+    def compute_metrics(self, results_df: pd.DataFrame, used_queries: List[str], profile_dir: str):
         """
         Computes evaluation metrics for a profile's generated memories
         """
@@ -362,6 +383,8 @@ If you do not identify any groups of such statements, simply return an empty lis
             # Duplicates -> memories mapped to the same query
             generated_memories = run_df["insight_summary"].tolist()
             duplicates_out = self.find_duplicates(generated_memories)
+            with open(f"{profile_dir}/pass_{run_id}_duplicates_results.json", "w") as _o:
+                json.dump(duplicates_out, _o, indent=2)
             duplicate_memories = set()
             for similar_statement_group in duplicates_out["similar_statement_groups"]:
                 duplicate_memories |= set([similar_memory for similar_memory in similar_statement_group if similar_memory in generated_memories])
@@ -400,10 +423,14 @@ If you do not identify any groups of such statements, simply return an empty lis
             persona_source_data = pd.read_csv(f"{self.config.data.records_path}/{persona}.csv")
             with open(f"{self.config.data.websites_path}/{persona}.json", "r") as _j:
                 persona_metadata = json.load(_j)
+            profile_dir = f"{self.outdir}/{METRICS_ARTIFACTS}/{persona}"
+            os.mkdir(profile_dir)
 
             persona_used_queries = [
                 query for query, pages in persona_metadata.items() if len(set([page["url"] for page in pages]).intersection(set(persona_source_data["url"].tolist()))) > 0
             ]
+            with open(f"{profile_dir}/queries.json", "w") as _o:
+                json.dump(persona_used_queries, _o, indent=2)
 
             persona_results_list = []
             for run_idx, batch in enumerate(generated_memories[persona]):
@@ -417,7 +444,7 @@ If you do not identify any groups of such statements, simply return an empty lis
                 lambda memory_summary: self.compare_memory_to_queries(memory_summary, persona_used_queries)
             )
             persona_results_df["count_related_queries"] = persona_results_df["related_queries"].map(lambda related_queries: len(related_queries))
-            persona_metrics_df = self.compute_metrics(persona_results_df, persona_used_queries)
+            persona_metrics_df = self.compute_metrics(persona_results_df, persona_used_queries, profile_dir)
 
             persona_metrics_df.insert(0, "persona_id", [persona] * len(persona_metrics_df))
             persona_results_df.insert(0, "persona_id", [persona] * len(persona_results_df))
@@ -461,7 +488,9 @@ If you do not identify any groups of such statements, simply return an empty lis
         """
 
         generated_memories = self.batch_generate_memories()
-        return self.batch_aggregate_metrics(generated_memories)
+        metrics_df, results_df =  self.batch_aggregate_metrics(generated_memories)
+        metrics_df.to_csv(f"{self.outdir}/memories_eval_metrics.csv")
+        results_df.to_csv(f"{self.outdir}/memories_eval_results.csv")
 
 def get_args():
     parser = ArgumentParser()
@@ -474,9 +503,7 @@ def main():
         config = MemoryEvaluatorConfig(**yaml.safe_load(_y))
     print(config)
     memories_evalutor = MemoryEvaluator(config)
-    metrics_df, results_df = memories_evalutor.run()
-    metrics_df.to_csv(config.output.metrics)
-    results_df.to_csv(config.output.results)
+    memories_evalutor.run()
 
 
 if __name__ == "__main__":
