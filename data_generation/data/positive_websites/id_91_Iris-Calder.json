@@ -1,1008 +1,2160 @@
 {
   "site:foia.gov fee waiver journalist": [
     {
-      "url": "https://www.foia.gov/developer/agency-api/",
-      "title": "FOIA.gov - Freedom of Information Act"
+      "title": "FOIA.gov - Freedom of Information Act",
+      "url": "https://www.foia.gov/?foia/Services/feewaiverWaiver.jsp?agencyName=VA&requestYear=2019"
     },
     {
-      "url": "https://www.foia.gov/how-to.html",
-      "title": "FOIA.gov - Freedom of Information Act: How to Make a FOIA Request"
+      "title": "FOIA.gov - Freedom of Information Act",
+      "url": "https://www.foia.gov/?os=rokufno_journeysdtrue&ref=app"
     },
     {
-      "url": "https://www.foia.gov/faq.html",
-      "title": "FOIA.gov - Freedom of Information Act: Frequently Asked Questions..."
+      "title": "FOIA.gov - Freedom of Information Act",
+      "url": "https://www.foia.gov/developer/agency-api/"
+    },
+    {
+      "title": "FOIA.gov - Freedom of Information Act: How to Make a FOIA Request",
+      "url": "https://www.foia.gov/how-to.html"
+    },
+    {
+      "title": "FOIA.gov - Freedom of Information Act: Frequently Asked Questions...",
+      "url": "https://www.foia.gov/faq.html"
     }
   ],
   "FOIA template rolling request example": [
     {
-      "url": "https://www.nfoic.org/sample-foia-request-letters/",
-      "title": "Sample FOIA Request Letters \u2013 National Freedom of Information ..."
+      "title": "Sample FOIA Request Letters \u2013 National Freedom of Information ...",
+      "url": "https://www.nfoic.org/sample-foia-request-letters/"
     },
     {
-      "url": "https://www.ed.gov/about/ed-overview/required-notices/foia/foia-templates--making-a-request--freedom-of-information-act-foia",
-      "title": "FOIA Templates | U.S. Department of Education"
+      "title": "Public Records Act or FOIA Requests \u2013 Berkeley Advanced Media...",
+      "url": "https://multimedia.journalism.berkeley.edu/tutorials/public-records-act-requests/"
     },
     {
-      "url": "https://donotpay.com/learn/foia-request-template/",
-      "title": "Does a FOIA Request Template Exist? [Explained]"
+      "title": "FOIA Templates | U.S. Department of Education",
+      "url": "https://www.ed.gov/about/ed-overview/required-notices/foia/foia-templates--making-a-request--freedom-of-information-act-foia"
+    },
+    {
+      "title": "Does a FOIA Request Template Exist? [Explained]",
+      "url": "https://donotpay.com/learn/foia-request-template/"
+    },
+    {
+      "title": "FOIA Document Review Template | FOIA Basics for Activists",
+      "url": "https://www.foiabasics.org/foia-document-review-template"
     }
   ],
   "PACER alternative free docket search": [
     {
-      "url": "https://brndle.com/alternatives-to-pacermonitor-for-tracking-u-s-federal-court-records/",
-      "title": "Top 10 Free Alternatives to PacerMonitor for Tracking... - brndle.com"
+      "title": "Top 10 Free Alternatives to PacerMonitor for Tracking... - brndle.com",
+      "url": "https://brndle.com/alternatives-to-pacermonitor-for-tracking-u-s-federal-court-records/"
     },
     {
-      "url": "https://pacer.uscourts.gov/my-account-billing/billing/options-access-records-if-you-cannot-afford-pacer-fees",
-      "title": "Options to Access Records if you Cannot Afford PACER Fees"
+      "title": "PACER Alternative | Epiq",
+      "url": "https://www.epiqglobal.com/en-us/services/bankruptcy-and-trustee-services/bankruptcy-services/pacer-alternative"
     },
     {
-      "url": "https://hogonext.com/how-to-get-docket-info-for-free/",
-      "title": "How to Get Docket Info for Free - HogoNext"
+      "title": "Options to Access Records if you Cannot Afford PACER Fees",
+      "url": "https://pacer.uscourts.gov/my-account-billing/billing/options-access-records-if-you-cannot-afford-pacer-fees"
+    },
+    {
+      "title": "How to Get Docket Info for Free - HogoNext",
+      "url": "https://hogonext.com/how-to-get-docket-info-for-free/"
+    },
+    {
+      "title": "Will PACER \u2019s records removal motivate use of software alternatives ?",
+      "url": "https://ibraryguy.blog/2014/08/28/will-pacers-records-removal-motivate-use-of-software-alternatives/"
     }
   ],
   "CourtListener RECAP how to upload": [
     {
-      "url": "https://www.theverge.com/22559021/recap-courtlistener-free-law-project-find-legal-filings-how-to",
-      "title": "How to find the documents behind big legal cases | The Verge"
+      "title": "Free Law Project - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Free_Law_Project"
+    },
+    {
+      "title": "Advanced RECAP Archive Search for PACER \u2013 CourtListener .com",
+      "url": "https://www.courtlistener.com/recap/"
+    },
+    {
+      "title": "How to find the documents behind big legal cases | The Verge",
+      "url": "https://www.theverge.com/22559021/recap-courtlistener-free-law-project-find-legal-filings-how-to"
+    },
+    {
+      "title": "How to Find Steam Replay 2025 | Beebom",
+      "url": "https://beebom.com/how-to-get-steam-replay-2025/"
+    },
+    {
+      "title": "How to Fix Can\u2019t Post Photo on TikTok Slideshow [Not Working]",
+      "url": "https://mobilewirelesstrends.com/apps/how-to-fix-cant-post-photo-on-tiktok-slideshow/"
     }
   ],
   "SEC EDGAR company filings full-text search tips": [
     {
-      "url": "https://www.sec.gov/search-filings",
-      "title": "SEC .gov | Search Filings"
+      "title": "SEC .gov | Search Filings",
+      "url": "https://www.sec.gov/search-filings"
+    },
+    {
+      "title": "alions7000/ SEC - EDGAR - text : Text information from US companies ...",
+      "url": "https://github.com/alions7000/SEC-EDGAR-text"
+    },
+    {
+      "title": "Top Websites for Finding a Company 's Financial Stats",
+      "url": "https://www.investopedia.com/financial-edge/0911/top-6-websites-for-finding-financial-stats.aspx"
+    },
+    {
+      "title": "SEC EDGAR Filing Scraper \u00b7 Apify",
+      "url": "https://apify.com/scraped/edgar-filing-data-scraper-sec-company-filings"
+    },
+    {
+      "title": "The Laws That Govern the Securities Industry | Investor.gov",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/role-sec/laws-govern-securities-industry"
     }
   ],
   "FEC bulk data download filings 2025": [
     {
-      "url": "https://github.com/ethan-homan/fec-gov-postgres",
-      "title": "GitHub - ethan-homan/ fec -gov-postgres: Scripts to load bulk Federal ..."
+      "title": "The FEC 2023-2024 Republican and Democrat Campaign... | Row Zero",
+      "url": "https://rowzero.com/blog/campaign-expenditures"
+    },
+    {
+      "title": "Is there a public database of US senators and foreign ..",
+      "url": "https://factually.co/fact-checks/politics/us-senators-foreign-campaign-contributions-database-7a811d"
+    },
+    {
+      "title": "GitHub - ethan-homan/ fec -gov-postgres: Scripts to load bulk Federal ...",
+      "url": "https://github.com/ethan-homan/fec-gov-postgres"
+    },
+    {
+      "title": "Safety Index by Country 2025",
+      "url": "https://www.numbeo.com/crime/rankings_by_country.jsp?title=2025&displayColumn=1"
+    },
+    {
+      "title": "What Charles G. Koch can teach us about campaign finance data",
+      "url": "https://sunlightfoundation.com/2013/06/05/koch_donations/"
     }
   ],
   "OpenCorporates advanced search operators": [
     {
-      "url": "https://opencorporates.com/advanced-search/",
-      "title": "Advanced search \u2013 OpenCorporates"
+      "title": "Advanced search \u2013 OpenCorporates",
+      "url": "https://opencorporates.com/advanced-search/"
+    },
+    {
+      "title": "Google Search Operators : 50+ Advanced Search Commands",
+      "url": "https://www.spyfu.com/blog/google-search-operators/"
+    },
+    {
+      "title": "Google Search Operators : In-Depth List of 40 Commands to Know in...",
+      "url": "https://kinsta.com/blog/google-search-operators/"
+    },
+    {
+      "title": "How to Use Google Advanced Search Operators",
+      "url": "https://fr.semrush.com/kb/831-how-to-use-google-advanced-search-operators"
+    },
+    {
+      "title": "Advanced Google Searching Using Search Operators",
+      "url": "https://umatechnology.org/advanced-google-searching-using-search-operators/"
     }
   ],
   "IRS 990 search nonprofit board members": [
     {
-      "url": "https://projects.propublica.org/nonprofits/",
-      "title": "Nonprofit Explorer - ProPublica"
+      "title": "Nonprofit Explorer - ProPublica",
+      "url": "https://projects.propublica.org/nonprofits/"
     },
     {
-      "url": "https://opengrants.io/how-to-conduct-a-form-990-nonprofit-search-a-step-by-step-guide/",
-      "title": "How to Conduct a Form 990 Nonprofit Search ... - OpenGrants"
+      "title": "Your 990 Made Simple: 5 Tips for Nonprofit Tax Filing - Donorbox",
+      "url": "https://donorbox.org/nonprofit-blog/your-990-made-simple"
+    },
+    {
+      "title": "How to Conduct a Form 990 Nonprofit Search ... - OpenGrants",
+      "url": "https://opengrants.io/how-to-conduct-a-form-990-nonprofit-search-a-step-by-step-guide/"
+    },
+    {
+      "title": "Modern Grantseeking 101: Practical Steps to Find... - Nonprofit Hub",
+      "url": "https://nonprofithub.org/webinar/modern-grantseeking-101-practical-steps-to-find-match-manage-grants/"
+    },
+    {
+      "title": "Download NPQ's Free Nonprofit Guide to 990 Forms | Nonprofit ...",
+      "url": "https://nonprofitquarterly.org/nonprofit-guide-990-forms-irs/"
     }
   ],
   "USAspending API tutorial newsroom": [
     {
-      "url": "https://api.usaspending.gov/docs/intro-tutorial",
-      "title": "USAspending API"
+      "title": "USAspending API",
+      "url": "https://api.usaspending.gov/docs/intro-tutorial"
     },
     {
-      "url": "https://www.youtube.com/watch?v=AEKL2LOkRZY",
-      "title": "TUTORIAL : How to Use USAspending API Endpoints - YouTube"
+      "title": "TUTORIAL : How to Use USAspending API Endpoints - YouTube",
+      "url": "https://www.youtube.com/watch?v=AEKL2LOkRZY"
+    },
+    {
+      "title": "usaspending - api /README.md at master...",
+      "url": "https://github.com/fedspendingtransparency/usaspending-api/blob/master/README.md"
+    },
+    {
+      "title": "USAspending (@ usaspending ) / Twitter",
+      "url": "https://twitter.com/usaspending/"
+    },
+    {
+      "title": "fedspendingtransparency/ usaspending - api - Libraries.io",
+      "url": "https://libraries.io/github/fedspendingtransparency/usaspending-api"
     }
   ],
   "state business registry API list": [
     {
-      "url": "https://apievangelist.com/2019/11/21/the-missed-revenue-opportunities-for-the-state-of-california-because-they-do-not-have-a-business-registry-api/",
-      "title": "The Missed Revenue Opportunities For The State Of California..."
+      "title": "The Missed Revenue Opportunities For The State Of California...",
+      "url": "https://apievangelist.com/2019/11/21/the-missed-revenue-opportunities-for-the-state-of-california-because-they-do-not-have-a-business-registry-api/"
     },
     {
-      "url": "https://www.sos.ri.gov/divisions/business-services",
-      "title": "Business Services - Rhode Island - Gregg M. Amore"
+      "title": "State Registries",
+      "url": "https://tapas.org.ua/wp-content/uploads/2021/07/Report_State-Registries-and-Corruption-Risks_EN.pdf"
+    },
+    {
+      "title": "Business Services - Rhode Island - Gregg M. Amore",
+      "url": "https://www.sos.ri.gov/divisions/business-services"
+    },
+    {
+      "title": "Registry API | shadcn-ui/ui | DeepWiki",
+      "url": "https://deepwiki.com/shadcn-ui/ui/4.3-registry-api"
+    },
+    {
+      "title": "Registry API | Obot Docs",
+      "url": "https://docs.obot.ai/concepts/mcp-gateway/registry-api/"
     }
   ],
   "claim verification checklist template newsroom": [
     {
-      "url": "https://www.sampletemplates.com/business-templates/checklist/verification-checklist.html",
-      "title": "FREE 33+ Verification Checklist Samples in PDF | MS Word"
+      "title": "FREE 33+ Verification Checklist Samples in PDF | MS Word",
+      "url": "https://www.sampletemplates.com/business-templates/checklist/verification-checklist.html"
     },
     {
-      "url": "https://sitemate.com/templates/quality/forms/verification-checklist-blank/",
-      "title": "Verification Checklist Blank template : Use this VC checklist ..."
+      "title": "Verification Checklist Blank template : Use this VC checklist ...",
+      "url": "https://sitemate.com/templates/quality/forms/verification-checklist-blank/"
     },
     {
-      "url": "https://www.template.net/editable/286227/verification-checklist-template",
-      "title": "Verification Checklist Template in Word, PDF... | Template .net"
+      "title": "Verification Checklist Template in Word, PDF... | Template .net",
+      "url": "https://www.template.net/editable/286227/verification-checklist-template"
+    },
+    {
+      "title": "Employee Background Verification Checklist - Venngage",
+      "url": "https://venngage.com/templates/checklist/employee-background-verification-checklist-8f1300f5-84b0-4759-9132-a2feefb9b731"
+    },
+    {
+      "title": "Sports Photo Metadata Mastery: Verification ... | Windows Forum",
+      "url": "https://windowsforum.com/threads/sports-photo-metadata-mastery-verification-attribution-and-local-coverage.378205/"
     }
   ],
-  "SIFT method examples for journalists": [],
+  "SIFT method examples for journalists": [
+    {
+      "title": "From data to story: Data journalism definition & examples - Infogram",
+      "url": "https://infogram.com/blog/data-journalism-definition-examples/"
+    },
+    {
+      "title": "Find and save ideas about sift method poetry on Pinterest.",
+      "url": "https://www.pinterest.com/ideas/sift-method-poetry/907608531870/"
+    },
+    {
+      "title": "(PDF) KS- SIFT : A keyframe extraction method based on local features",
+      "url": "https://www.researchgate.net/publication/282375513_KS-SIFT_A_keyframe_extraction_method_based_on_local_features"
+    },
+    {
+      "title": "Journalistic Report Examples to Download",
+      "url": "https://www.examples.com/docs/journalistic-report.html"
+    },
+    {
+      "title": "Sift : Understanding Its Definition, Meaning, and Uses",
+      "url": "https://cteec.org/sift/"
+    }
+  ],
   "lateral reading Spanish gu\u00eda": [
     {
-      "url": "https://cor.inquirygroup.org/curriculum/lessons/lateral-reading-poster/",
-      "title": "Lateral Reading Poster | Civic Online Reasoning"
+      "title": "Lateral Reading Poster | Civic Online Reasoning",
+      "url": "https://cor.inquirygroup.org/curriculum/lessons/lateral-reading-poster/"
     },
     {
-      "url": "https://www.teachhub.com/professional-development/2020/10/lateral-reading-vs-vertical-reading-differences-and-benefits/",
-      "title": "Lateral Reading vs. Vertical Reading : Differences and... - TeachHUB"
+      "title": "Lateral Reading vs. Vertical Reading : Differences and... - TeachHUB",
+      "url": "https://www.teachhub.com/professional-development/2020/10/lateral-reading-vs-vertical-reading-differences-and-benefits/"
     },
     {
-      "url": "https://pressbooks.pub/rowanccii/chapter/going-upstream-and-lateral-reading/",
-      "title": "Going Upstream and Lateral Reading \u2013 College Comp II"
+      "title": "What is lateral reading ?",
+      "url": "https://www.scribbr.com/frequently-asked-questions/what-is-lateral-reading/"
+    },
+    {
+      "title": "Reading /Book Area Signs English/ Spanish - Gu\u00eda de trabajo",
+      "url": "https://www.twinkl.co.uk/resource/sa-t-m-115-reading-or-book-area-display-sign-south-american-spanish-translation-us-english-spanish-latin-ingles-eeuu"
+    },
+    {
+      "title": "Going Upstream and Lateral Reading \u2013 College Comp II",
+      "url": "https://pressbooks.pub/rowanccii/chapter/going-upstream-and-lateral-reading/"
     }
   ],
   "media forensics exiftool basic commands": [
     {
-      "url": "https://www.osintteam.com/using-exiftool-to-extract-metadata-from-image-files/",
-      "title": "Using Exiftool to Extract Metadata from Image Files"
+      "title": "Using Exiftool to Extract Metadata from Image Files",
+      "url": "https://www.osintteam.com/using-exiftool-to-extract-metadata-from-image-files/"
     },
     {
-      "url": "https://ninedegreesbelow.com/photography/exiftool-commands.html",
-      "title": "ExifTool example commands"
+      "title": "ExifTool example commands",
+      "url": "https://ninedegreesbelow.com/photography/exiftool-commands.html"
     },
     {
-      "url": "https://exiftool.org/exiftool_pod.html",
-      "title": "exiftool Application Documentation"
+      "title": "exiftool Application Documentation",
+      "url": "https://exiftool.org/exiftool_pod.html"
     },
     {
-      "url": "https://ostechnix.com/manage-image-metadata-using-exiftool/",
-      "title": "How To Manage Image Metadata Using ExifTool In Linux - OSTechNix"
+      "title": "How To Manage Image Metadata Using ExifTool In Linux - OSTechNix",
+      "url": "https://ostechnix.com/manage-image-metadata-using-exiftool/"
+    },
+    {
+      "title": "Digital Image Forensics : Ways to Investigate Images... | Medium",
+      "url": "https://christovitohidajat.medium.com/digital-image-forensics-ways-to-investigate-images-reliability-47430bf90e9a"
     }
   ],
   "InVID plugin download Chrome 2025": [
     {
-      "url": "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/",
-      "title": "InVID Verification Plugin - InVID project"
+      "title": "InVID Verification Plugin - InVID project",
+      "url": "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/"
     },
     {
-      "url": "https://weverify.eu/verification-plugin/",
-      "title": "Verification plugin - WeVerify"
+      "title": "How to install and use InVID , a plugin to debunk fake... - TechRepublic",
+      "url": "https://www.techrepublic.com/article/how-to-install-and-use-invid-a-plugin-to-debunk-fake-news-and-verify-videos-and-images/"
+    },
+    {
+      "title": "Verification plugin - WeVerify",
+      "url": "https://weverify.eu/verification-plugin/"
+    },
+    {
+      "title": "25+1 \u043b\u0443\u0447\u0448\u0438\u0445 OSINT \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u0434\u043b\u044f Google Chrome / \u0425\u0430\u0431\u0440",
+      "url": "https://habr.com/ru/companies/tomhunter/articles/664482/"
+    },
+    {
+      "title": "The InVID Plug - in : Web Video Verification on the Browser | PDF",
+      "url": "https://www.slideshare.net/slideshow/the-invid-plugin-web-video-verification-on-the-browser/81698201?nway-content_model=D"
     }
   ],
   "SunCalc shadow verification how to": [
     {
-      "url": "https://www.suncalc.org/",
-      "title": "SunCalc - sunrise, sunset, shadow length, solar eclipse, sun position..."
+      "title": "SunCalc - sunrise, sunset, shadow length, solar eclipse, sun position...",
+      "url": "https://www.suncalc.org/"
     },
     {
-      "url": "https://suncalc.net/",
-      "title": "SunCalc - sun position, sunlight phases, sunrise, sunset, dusk and..."
+      "title": "SunCalc - sun position, sunlight phases, sunrise, sunset, dusk and...",
+      "url": "https://suncalc.net/"
     },
     {
-      "url": "https://bellingcat.gitbook.io/toolkit/more/all-tools/suncalc",
-      "title": "Suncalc | Bellingcat's Online Investigation Toolkit"
+      "title": "Suncalc | Bellingcat's Online Investigation Toolkit",
+      "url": "https://bellingcat.gitbook.io/toolkit/more/all-tools/suncalc"
+    },
+    {
+      "title": "ShadeMap - Simulate sun shadows for any time and place on Earth",
+      "url": "https://shademap.app/"
+    },
+    {
+      "title": "Shadowmap | The Sun for Everyone \u2013 Sunlight & Shadow Analysis in 3D",
+      "url": "https://shadowmap.org/"
     }
   ],
   "reverse image search alternatives TinEye Yandex": [
     {
-      "url": "https://alternativeto.net/software/yandex-images/",
-      "title": "Yandex . Images Alternatives : Top 12 Image Search ... | AlternativeTo"
+      "title": "Yandex . Images Alternatives : Top 12 Image Search ... | AlternativeTo",
+      "url": "https://alternativeto.net/software/yandex-images/"
     },
     {
-      "url": "https://www.searchenginejournal.com/best-image-search-engines/299963/",
-      "title": "The 11 Best Image Search Engines"
+      "title": "The 11 Best Image Search Engines",
+      "url": "https://www.searchenginejournal.com/best-image-search-engines/299963/"
     },
     {
-      "url": "https://rigorousthemes.com/blog/best-yandex-image-search-alternatives/",
-      "title": "15 Best Yandex Image Search Alternatives"
+      "title": "Yandex Reverse Image Search : Free Face Recognition & Lookup",
+      "url": "https://reverseimagesearcher.com/tools/yandex"
     },
     {
-      "url": "https://www.linkedin.com/pulse/20-most-used-reverse-image-search-engines-websites-apps-modley-essex",
-      "title": "20 Most Used Reverse Image Search Engines Websites and Apps for..."
+      "title": "15 Best Yandex Image Search Alternatives",
+      "url": "https://rigorousthemes.com/blog/best-yandex-image-search-alternatives/"
+    },
+    {
+      "title": "20 Most Used Reverse Image Search Engines Websites and Apps for...",
+      "url": "https://www.linkedin.com/pulse/20-most-used-reverse-image-search-engines-websites-apps-modley-essex"
     }
   ],
   "YouTube exact upload time UTC query": [
     {
-      "url": "https://www.wikihow.com/Find-the-Exact-Time-a-Video-Was-Uploaded",
-      "title": "How to Find the Exact Time a Video Was Uploaded on YouTube"
+      "title": "How to Find the Exact Time a Video Was Uploaded on YouTube",
+      "url": "https://www.wikihow.com/Find-the-Exact-Time-a-Video-Was-Uploaded"
     },
     {
-      "url": "https://medium.com/@oyolloo/unveiling-the-secrets-of-youtube-upload-time-why-it-matters-and-how-to-find-it-aacde63438d9",
-      "title": "Unveiling the Secrets of YouTube Upload Time : Why It... | Medium"
+      "title": "Unveiling the Secrets of YouTube Upload Time : Why It... | Medium",
+      "url": "https://medium.com/@oyolloo/unveiling-the-secrets-of-youtube-upload-time-why-it-matters-and-how-to-find-it-aacde63438d9"
     },
     {
-      "url": "https://citizenevidence.org/2014/04/01/how-to/",
-      "title": "How To: Determine The Exact (Local) Upload Time Of A YouTube ..."
+      "title": "How To: Determine The Exact (Local) Upload Time Of A YouTube ...",
+      "url": "https://citizenevidence.org/2014/04/01/how-to/"
     },
     {
-      "url": "https://knowlesys.com/en/articles/social_websites/youtube/how_to_verify_the_exact_upload_time_of_social_media_videos_and_images.html",
-      "title": "How to verify the exact upload time of social media videos and images?"
+      "title": "How to verify the exact upload time of social media videos and images?",
+      "url": "https://knowlesys.com/en/articles/social_websites/youtube/how_to_verify_the_exact_upload_time_of_social_media_videos_and_images.html"
     },
     {
-      "url": "https://youtubedownload.minitool.com/news/how-to-find-the-exact-time-a-video-was-uploaded.html",
-      "title": "How to Find the Exact Time A Video Was Uploaded ? | 3 Ways"
+      "title": "How to Find the Exact Time A Video Was Uploaded ? | 3 Ways",
+      "url": "https://youtubedownload.minitool.com/news/how-to-find-the-exact-time-a-video-was-uploaded.html"
     }
   ],
   "verify TikTok upload time timezone": [
     {
-      "url": "https://trevorfox.com/tiktok-video-date-extractor.html",
-      "title": "TikTok Video Date Extractor: How to See the Exact Date of a TikTok ..."
+      "title": "How to See When A Video Was Posted | TikTok",
+      "url": "https://www.tiktok.com/discover/how-to-see-when-a-video-was-posted"
+    },
+    {
+      "title": "TikTok Video Date Extractor: How to See the Exact Date of a TikTok ...",
+      "url": "https://trevorfox.com/tiktok-video-date-extractor.html"
+    },
+    {
+      "title": "When to Post on TikTok : Best Times to Go Viral in 2025",
+      "url": "https://www.socialboosting.com/blog/when-to-post-on-tiktok"
+    },
+    {
+      "title": "How to get verified on TikTok : 8 tips for 2025",
+      "url": "https://blog.hootsuite.com/how-to-get-verified-on-tiktok/"
+    },
+    {
+      "title": "How to Verify a TikTok Account: Guide to Success 2025",
+      "url": "https://megadigital.ai/en/blog/verify-tiktok-account/"
     }
   ],
   "Telegram OSINT tools directory": [
     {
-      "url": "https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT",
-      "title": "GitHub - ItIsMeCall911/Awesome- Telegram - OSINT : A Curated List..."
-    }
-  ],
-  "X advanced search operators 2025 cheatsheet": [],
-  "Reddit search Pushshift replacement": [
-    {
-      "url": "https://github.com/HenryBalassiano/reddit-search-tool/issues/29",
-      "title": "PullPush - PushShift replacement . \u00b7 Issue #29..."
+      "title": "GitHub - ItIsMeCall911/Awesome- Telegram - OSINT : A Curated List...",
+      "url": "https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT"
     },
     {
-      "url": "https://www.libhunt.com/compare-reddit-search-vs-pushshift--api",
-      "title": "reddit - search vs Pushshift API - compare differences and... | LibHunt"
+      "title": "\u0420\u0430\u0437\u0432\u0435\u0434\u043a\u0430 \u043f\u043e Telegram \u0431\u043e\u0442\u0430\u043c \u2014 OSINT \u0432 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c / \u0425\u0430\u0431\u0440",
+      "url": "https://habr.com/ru/articles/863802/"
+    },
+    {
+      "title": "Best Open Source OSINT Tools 2025",
+      "url": "https://sourceforge.net/directory/osint/"
+    },
+    {
+      "title": "GitHub - Alb-310/Geogramint: An OSINT Geolocalization tool for...",
+      "url": "https://web.archive.org/web/20230322094030/https://github.com/Alb-310/Geogramint"
+    },
+    {
+      "title": "OSINT Industries | Powerful Tools For Online Investigations",
+      "url": "https://www.osint.industries/"
+    }
+  ],
+  "X advanced search operators 2025 cheatsheet": [
+    {
+      "title": "Google Search Operators : In-Depth List of 40 Commands to Know in...",
+      "url": "https://kinsta.com/blog/google-search-operators/"
+    },
+    {
+      "title": "Google Search Operators 2025 : The Ultimate... \u2014 The Web Pundit",
+      "url": "https://www.thewebpundit.com/blog/google-search-operators-2025-the-ultimate-guide-for-smarter-marketers"
+    },
+    {
+      "title": "Google Search Operators : 50+ Advanced Search Commands",
+      "url": "https://www.spyfu.com/blog/google-search-operators/"
+    },
+    {
+      "title": "Google Search Operators cheat sheet | cheatsheets .one",
+      "url": "https://cheatsheets.one/tech/google-search-operators"
+    },
+    {
+      "title": "25+ Yandex Search Operators - SEOSLY - Olga Zarr",
+      "url": "https://seosly.com/blog/yandex-search-operators/"
+    }
+  ],
+  "Reddit search Pushshift replacement": [
+    {
+      "title": "PullPush - PushShift replacement . \u00b7 Issue #29...",
+      "url": "https://github.com/HenryBalassiano/reddit-search-tool/issues/29"
+    },
+    {
+      "title": "Search Reddit Comments with Pushshift Reddit Search ... - Pipedream",
+      "url": "https://pipedream.com/apps/supersaas/integrations/pushshift-reddit-search/search-reddit-comments-with-pushshift-reddit-search-api-on-new-or-changed-appointments-from-supersaas-api-int_z3sVLog"
+    },
+    {
+      "title": "How to search on Reddit in the most efficient way",
+      "url": "https://www.thewindowsclub.com/how-to-search-reddit"
+    },
+    {
+      "title": "reddit - search vs Pushshift API - compare differences and... | LibHunt",
+      "url": "https://www.libhunt.com/compare-reddit-search-vs-pushshift--api"
+    },
+    {
+      "title": "Search - Socket",
+      "url": "https://socket.dev/search?q=pushshift"
     }
   ],
   "mapillary street-level imagery search tips": [
     {
-      "url": "https://github.com/enricofer/go2mapillary",
-      "title": "GitHub - enricofer/go2 mapillary : a plugin for displaying and extracting..."
+      "title": "Mapillary | OsmAnd",
+      "url": "https://osmand.net/docs/user/plugins/mapillary/"
     },
     {
-      "url": "https://gisgeography.com/mapillary/",
-      "title": "Mapillary : The Crowdsourced Street View Platform - GIS Geography"
+      "title": "Citizen science street level imagery and mapping w... - Esri Community",
+      "url": "https://community.esri.com/t5/education-blog/citizen-science-street-level-imagery-and-mapping/ba-p/883603"
+    },
+    {
+      "title": "GitHub - enricofer/go2 mapillary : a plugin for displaying and extracting...",
+      "url": "https://github.com/enricofer/go2mapillary"
+    },
+    {
+      "title": "Mapillary : The Crowdsourced Street View Platform - GIS Geography",
+      "url": "https://gisgeography.com/mapillary/"
+    },
+    {
+      "title": "(PDF) Geo-Tagged Image Retrieval from Mapillary Street Images for...",
+      "url": "https://www.researchgate.net/publication/346394313_Geo-Tagged_Image_Retrieval_from_Mapillary_Street_Images_for_a_Target_Building"
     }
   ],
   "Google Street View timeline slider desktop": [
     {
-      "url": "https://blog.google/products/maps/go-back-in-time-with-street-view/",
-      "title": "Go back in time with Street View"
+      "title": "A hidden Google Earth slider lets you travel up to 80 years... | ZDNET",
+      "url": "https://www.zdnet.com/article/a-hidden-google-earth-slider-lets-you-travel-up-to-80-years-back-in-time-heres-how-to-try-it/"
     },
     {
-      "url": "https://heresthethingblog.com/2014/05/05/google-maps-tip-time-travelling/",
-      "title": "Google Maps tip: How to go time travelling with Street View"
+      "title": "Go back in time with Street View",
+      "url": "https://blog.google/products/maps/go-back-in-time-with-street-view/"
+    },
+    {
+      "title": "Google Maps tip: How to go time travelling with Street View",
+      "url": "https://heresthethingblog.com/2014/05/05/google-maps-tip-time-travelling/"
+    },
+    {
+      "title": "How to see Street View on Google Maps - Android Authority",
+      "url": "https://www.androidauthority.com/google-maps-street-view-3101067/"
+    },
+    {
+      "title": "Use Street View in Google Earth | Google for Developers",
+      "url": "https://developers.google.com/maps/documentation/earth/use-street-view"
     }
   ],
-  "geolocate by skyline method tutorial": [],
+  "geolocate by skyline method tutorial": [
+    {
+      "title": "Skyline plots",
+      "url": "https://taming-the-beast.org/tutorials/Skyline-plots/"
+    },
+    {
+      "title": "New re-ordering algorithm for skyline method - Okayama University",
+      "url": "https://okayama.elsevierpure.com/en/publications/new-re-ordering-algorithm-for-skyline-method"
+    },
+    {
+      "title": "Geolocate an IP address to a location using latency \u2014 LowEndTalk",
+      "url": "https://lowendtalk.com/discussion/212885/geolocate-an-ip-address-to-a-location-using-latency"
+    },
+    {
+      "title": "Method not found: 'TreeInstance.RenderInstance'. :: Cities: Skylines .....",
+      "url": "https://steamcommunity.com/app/255710/discussions/0/5219148750788342381/"
+    },
+    {
+      "title": "4 Easy Methods To Remove an APT Repository in... - LinuxForDevices",
+      "url": "https://www.linuxfordevices.com/tutorials/ubuntu/remove-an-apt-repository-ubuntu"
+    }
+  ],
   "what3words to coordinates converter": [
     {
-      "url": "https://www.dcode.fr/what3words-coordinates",
-      "title": "What 3 Words Coordinates Converter - Online GPS Word Location..."
+      "title": "What 3 Words Coordinates Converter - Online GPS Word Location...",
+      "url": "https://www.dcode.fr/what3words-coordinates"
+    },
+    {
+      "title": "GPS Coordinates --> Latitude and Longitude Finder",
+      "url": "https://www.itilog.com/"
+    },
+    {
+      "title": "Convert Coordinates (GPS, UTM, RD, GeoHash...) - BenHup.com",
+      "url": "https://www.benhup.com/tools/convert-coordinates"
+    },
+    {
+      "title": "Convert coordinates to what 3 words addresses easily... - YouTube",
+      "url": "https://www.youtube.com/watch?v=3hh6ulGHFJc"
+    },
+    {
+      "title": "Online converter to all coordinate systems | UTM, WGS.. | with map",
+      "url": "https://coordinates-converter.com/en/decimal/51.000000,10.000000?karte=OpenStreetMap&zoom=8"
     }
   ],
   "EXIF GPS to map online tool": [
     {
-      "url": "https://tool.geoimgr.com/",
-      "title": "Geotag Photos Online"
+      "title": "Geotag Photos Online",
+      "url": "https://tool.geoimgr.com/"
     },
     {
-      "url": "https://linangdata.com/exif-reader/",
-      "title": "EXIF Data Viewer Online - Photo location viewer"
+      "title": "EXIF Data Viewer Online - Photo location viewer",
+      "url": "https://linangdata.com/exif-reader/"
     },
     {
-      "url": "https://www.pic2map.com/",
-      "title": "Photo Location & Online EXIF Data Viewer - Pic 2 Map"
+      "title": "Photo Location & Online EXIF Data Viewer - Pic 2 Map",
+      "url": "https://www.pic2map.com/"
     },
     {
-      "url": "https://www.photo-location.net/",
-      "title": "set, change, remove and reveal photo geo location info online"
+      "title": "Online EXIF metadata viewer for photos (UPDATED) | Jimpl",
+      "url": "https://jimpl.com/"
+    },
+    {
+      "title": "set, change, remove and reveal photo geo location info online",
+      "url": "https://www.photo-location.net/"
     }
   ],
   "airport METAR archive lookup by date": [
     {
-      "url": "https://www.ogimet.com/metars.phtml.en",
-      "title": "ogimet.com/ metars .phtml.en"
+      "title": "METAR and TAF Data",
+      "url": "https://aviationweather.gov/data/metar/"
     },
     {
-      "url": "https://mesonet.agron.iastate.edu/request/download.phtml",
-      "title": "IEM :: Download ASOS/AWOS/ METAR Data"
+      "title": "Archived Metar Observations",
+      "url": "https://www.weather.gov/tsa/obs"
     },
     {
-      "url": "https://www.weather.gov/tsa/obs",
-      "title": "Archived Metar Observations"
+      "title": "ogimet.com/ metars .phtml.en",
+      "url": "https://www.ogimet.com/metars.phtml.en"
+    },
+    {
+      "title": "METAR and TAF decoder for all 70,535 airports",
+      "url": "https://metar-taf.com/"
+    },
+    {
+      "title": "IEM :: Download ASOS/AWOS/ METAR Data",
+      "url": "https://mesonet.agron.iastate.edu/request/download.phtml"
     }
   ],
   "NOAA storm reports map by date": [
     {
-      "url": "https://services9.arcgis.com/RHVPKKiFTONKtxq3/ArcGIS/rest/services/NOAA_storm_reports_v1/FeatureServer/4",
-      "title": "Layer: NOAA ALL Storm Reports (past week) (ID:4)"
+      "title": "nhc. noaa .gov",
+      "url": "https://www.nhc.noaa.gov/"
+    },
+    {
+      "title": "Zoom Earth | Weather Map & Hurricane Tracker",
+      "url": "https://zoom.earth/"
+    },
+    {
+      "title": "Layer: NOAA ALL Storm Reports (past week) (ID:4)",
+      "url": "https://services9.arcgis.com/RHVPKKiFTONKtxq3/ArcGIS/rest/services/NOAA_storm_reports_v1/FeatureServer/4"
+    },
+    {
+      "title": "Maps show Erin's path off East Coast as it remains... - CBS News",
+      "url": "https://www.cbsnews.com/news/hurricane-erin-track-path/"
+    },
+    {
+      "title": "Live Tornado Tracker Map | Real-Time Tornado Warning Alerts",
+      "url": "https://www.tornadopath.com/"
     }
   ],
   "USGS earthquake feed parameters": [
     {
-      "url": "https://earthquake.usgs.gov/earthquakes/feed/",
-      "title": "Real-time Notifications, Feeds , and Web Services"
+      "title": "Real-time Notifications, Feeds , and Web Services",
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/"
+    },
+    {
+      "title": "U . S . Geological Survey Earthquake Hazards ( USGS ) - Home Assistant",
+      "url": "https://www.home-assistant.io/integrations/usgs_earthquakes_feed/"
+    },
+    {
+      "title": "Data Layer: Earthquakes | Maps JavaScript API | Google for Developers",
+      "url": "https://developers.google.com/maps/documentation/javascript/examples/layer-data-quakes"
+    },
+    {
+      "title": "Extracting Earthquake Depth from the USGS GeoJson Earthquake ...",
+      "url": "https://gis.stackexchange.com/questions/74863/extracting-earthquake-depth-from-the-usgs-geojson-earthquake-feed-for-use-with-o"
+    },
+    {
+      "title": "Responding to an earthquake off",
+      "url": "https://www.esri.com/content/dam/esrisites/en-us/media/pdf/teach-with-gis/responding-to-an-earthquake-off-the-western-coast-of-mexico.pdf"
     }
   ],
   "Flightradar24 historical playback limits": [
     {
-      "url": "https://support.fr24.com/support/solutions/articles/3000115499-is-it-possible-to-see-playback-of-past-flights-",
-      "title": "Is it possible to see playback of past flights? : Flightradar 24 Support..."
+      "title": "Is it possible to see playback of past flights? : Flightradar 24 Support...",
+      "url": "https://support.fr24.com/support/solutions/articles/3000115499-is-it-possible-to-see-playback-of-past-flights-"
+    },
+    {
+      "title": "Malaysia Airlines MH370 Missing Playback Flightradar 24 [14/03/08]",
+      "url": "https://vk.com/video-170107_167746926"
+    },
+    {
+      "title": "Flightradar 24 database - Advanced search - Flightradar 24",
+      "url": "https://www.flightradar24.com/data"
+    },
+    {
+      "title": "Ads warning on Flightradar 24 .com \u00b7 Issue #1147 \u00b7 uBlockOrigin/uAssets",
+      "url": "https://github.com/uBlockOrigin/uAssets/issues/1147"
+    },
+    {
+      "title": "\u041a\u0430\u043a \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c, \u0433\u0434\u0435 \u043b\u0435\u0442\u0438\u0442 \u0441\u0430\u043c\u043e\u043b\u0435\u0442 \u0432 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442",
+      "url": "https://www.tourister.ru/tips/7835"
     }
   ],
   "MarineTraffic AIS historical access options": [
     {
-      "url": "https://servicedocs-sm.kpler.com/historical-vessel-points-tracks-hvp-t-ingestion-via-python/",
-      "title": "How to Access Historical AIS Data with Python for Vessel Tracking..."
+      "title": "MarineTraffic : Global Gemi Takip \u0130stihbarat\u0131 | AIS Deniz Trafi\u011fi",
+      "url": "https://www.marinetraffic.com/tr/ais/home/centerx:-12.1/centery:31.3/zoom:8"
+    },
+    {
+      "title": "How to Access Historical AIS Data with Python for Vessel Tracking...",
+      "url": "https://servicedocs-sm.kpler.com/historical-vessel-points-tracks-hvp-t-ingestion-via-python/"
+    },
+    {
+      "title": "Marine Traffic - AIS ship tracking",
+      "url": "https://www.marinetraffic.org/marine-traffic"
+    },
+    {
+      "title": "MarineTraffic | Worldwide Ship Tracking In Real-time",
+      "url": "https://ship-tracker.org/marinetraffic/"
+    },
+    {
+      "title": "Unveiling MarineTraffic : Your Guide To Vessel Tracking",
+      "url": "https://iwow.com.kz/blog/unveiling-marinetraffic-your-guide-to"
     }
   ],
   "open data portal crime incidents CSV": [
     {
-      "url": "https://catalog.data.gov/dataset/baton-rouge-crime-incidents-e00e4",
-      "title": "Baton Rouge Police Crime Incidents - Catalog"
+      "title": "Search | Open Government Data (OGD) Platform India",
+      "url": "https://www.data.gov.in/search?title=crime&type=resources&sortby=_score"
     },
     {
-      "url": "https://data.montgomerycountymd.gov/Public-Safety/NIBRS-Crime-Incidents-before-7-1-2016/msdf-b6nr/data",
-      "title": "NIBRS Crime Incidents before 7/1/2016 | Open Data Portal"
+      "title": "DangerZone/db/Map__ Crime _ Incidents ...",
+      "url": "https://github.com/csmalin/DangerZone/blob/master/db/Map__Crime_Incidents_-_Previous_Three_Months.csv"
+    },
+    {
+      "title": "Baton Rouge Police Crime Incidents - Catalog",
+      "url": "https://catalog.data.gov/dataset/baton-rouge-crime-incidents-e00e4"
+    },
+    {
+      "title": "Open Data Viz: LAPD Crime Incidents by Division... - InterWorks",
+      "url": "https://interworks.com/blog/sdorfman/2018/04/17/open-data-viz-lapd-crime-incidents-by-division-2010-2017/"
+    },
+    {
+      "title": "NIBRS Crime Incidents before 7/1/2016 | Open Data Portal",
+      "url": "https://data.montgomerycountymd.gov/Public-Safety/NIBRS-Crime-Incidents-before-7-1-2016/msdf-b6nr/data"
     }
   ],
   "election precinct shapefiles download": [
     {
-      "url": "https://github.com/21MetcalfJ/2024Precincts",
-      "title": "GitHub - 21MetcalfJ/2024 Precincts : 2024 Precinct shapefiles and..."
+      "title": "GitHub - nytimes/presidential- precinct -map-2024: Precinct -level...",
+      "url": "https://github.com/nytimes/presidential-precinct-map-2024"
     },
     {
-      "url": "https://ocvote.gov/bin/maps/shapefiles/",
-      "title": "OC ROV SHapefile Downloads"
+      "title": "GitHub - 21MetcalfJ/2024 Precincts : 2024 Precinct shapefiles and...",
+      "url": "https://github.com/21MetcalfJ/2024Precincts"
     },
     {
-      "url": "https://votemadera.com/gis-precinct-shapefiles/",
-      "title": "GIS/ Precinct Shapefiles - Vote Madera"
+      "title": "OC ROV SHapefile Downloads",
+      "url": "https://ocvote.gov/bin/maps/shapefiles/"
+    },
+    {
+      "title": "GIS/ Precinct Shapefiles - Vote Madera",
+      "url": "https://votemadera.com/gis-precinct-shapefiles/"
+    },
+    {
+      "title": "Compares a Precinct -Level Election Shapefile with expected...",
+      "url": "https://pypi.org/project/op-verification/"
     }
   ],
   "Census ACS table finder how to": [
     {
-      "url": "https://www.census.gov/programs-surveys/acs/data/data-tables.html",
-      "title": "census .gov/programs-surveys/ acs /data/data- tables .html"
+      "title": "census .gov/programs-surveys/ acs /data/data- tables .html",
+      "url": "https://www.census.gov/programs-surveys/acs/data/data-tables.html"
     },
     {
-      "url": "https://assets.nhgis.org/original-data/acs/acs_table_based_summary_file_handbook_2023.pdf",
-      "title": "Using the American Community Survey Table -Based Summary File"
+      "title": "Using the American Community Survey Table -Based Summary File",
+      "url": "https://assets.nhgis.org/original-data/acs/acs_table_based_summary_file_handbook_2023.pdf"
+    },
+    {
+      "title": "GitHub - censusreporter/ acs - table -hierarchy: Machine readable table ...",
+      "url": "https://github.com/censusreporter/acs-table-hierarchy"
+    },
+    {
+      "title": "IPUMS USA vs Census ACS Tables Outside Margin... - IPUMS Forum",
+      "url": "https://forum.ipums.org/t/ipums-usa-vs-census-acs-tables-outside-margin-of-error/6688"
+    },
+    {
+      "title": "The Market Demographics Report Generator: Custom ACS Analysis Tool",
+      "url": "https://www.businessinitiative.org/statistics/acs/the-market-demographics-report-generator-custom-acs-analysis-tool/"
     }
   ],
   "TIGER Line shapefiles county boundaries": [
     {
-      "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html",
-      "title": "census.gov/geographies/mapping- files /time-series/geo/ tiger - line - file ...."
+      "title": "census.gov/geographies/mapping- files /time-series/geo/ tiger - line - file ....",
+      "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+    },
+    {
+      "title": "US County Boundaries \u2014 Huwise",
+      "url": "https://hub.huwise.com/explore/assets/us-county-boundaries/"
+    },
+    {
+      "title": "County Boundaries - Washington | Data Basin",
+      "url": "https://databasin.org/datasets/07566aeec69d4a04a00a08a38eaaec04/"
+    },
+    {
+      "title": "TIGER / Line Shapefile , 2023, County , Philadelphia County ... - Catalog",
+      "url": "https://catalog.data.gov/dataset/tiger-line-shapefile-2023-county-philadelphia-county-pa-topological-faces-polygons-with-all-geo"
+    },
+    {
+      "title": "2008 TIGER / Line Shapefiles Technical Documentation",
+      "url": "https://assets.nhgis.org/original-data/gis/TIGER_2008_TechDoc.pdf"
     }
   ],
   "OpenRefine reconcile with Wikidata tutorial": [
     {
-      "url": "https://openrefine.org/docs/manual/reconciling",
-      "title": "Reconciling | OpenRefine"
+      "title": "Wikidata :Tools/ OpenRefine /Editing/ Tutorials /Third-party... - Wikidata",
+      "url": "https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine/Editing/Tutorials/Third-party_reconciliation"
     },
     {
-      "url": "https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine/Editing/Tutorials/Third-party_reconciliation",
-      "title": "Wikidata :Tools/ OpenRefine /Editing/ Tutorials /Third-party... - Wikidata"
+      "title": "Reconciling | OpenRefine",
+      "url": "https://openrefine.org/docs/manual/reconciling"
+    },
+    {
+      "title": "OpenRefine Augmenting Activity 2: Using Reconciliation Services",
+      "url": "https://mdl.library.utoronto.ca/technology/tutorials/openrefine-augmenting-activity-2-using-reconciliation-services"
+    },
+    {
+      "title": "Commons: OpenRefine /Adding structured data with OpenRefine ...",
+      "url": "https://commons.wikimedia.org/wiki/Commons:OpenRefine/Adding_structured_data_with_OpenRefine"
+    },
+    {
+      "title": "OpenRefine Beginners Tutorial - how to process and reconcile ...",
+      "url": "https://media.ed.ac.uk/media/OpenRefine+Beginners+Tutorial+-+how+to+process+and+reconcile+datasets+by+Emma+Carroll/1_ujc73yrb"
     }
   ],
   "OpenRefine cluster methods compare": [
     {
-      "url": "https://openrefine.org/docs/technical-reference/clustering-in-depth",
-      "title": "Methods and theory behind the clustering functionality in OpenRefine ."
+      "title": "Methods and theory behind the clustering functionality in OpenRefine .",
+      "url": "https://openrefine.org/docs/technical-reference/clustering-in-depth"
     },
     {
-      "url": "http://www.padjo.org/tutorials/open-refine/clustering/",
-      "title": "Clustering text facets in OpenRefine | Public Affairs Data Journalism..."
+      "title": "Clustering text facets in OpenRefine | Public Affairs Data Journalism...",
+      "url": "http://www.padjo.org/tutorials/open-refine/clustering/"
     },
     {
-      "url": "https://www.researchgate.net/publication/356666333_String_matching_algorithms_in_OpenRefine_clustering_and_reconciliation_functions_-_a_case_study_of_person_name_matching",
-      "title": "(PDF) String matching algorithms in OpenRefine clustering and..."
+      "title": "(PDF) String matching algorithms in OpenRefine clustering and...",
+      "url": "https://www.researchgate.net/publication/356666333_String_matching_algorithms_in_OpenRefine_clustering_and_reconciliation_functions_-_a_case_study_of_person_name_matching"
+    },
+    {
+      "title": "GitHub - ChrisMuir/refinr: Cluster and merge similar string values: an...",
+      "url": "https://github.com/ChrisMuir/refinr"
+    },
+    {
+      "title": "Working with OpenRefine \u2013 Open Refine for Humanities",
+      "url": "https://carpentries-incubator.github.io/OpenRefine-humanities-lesson/01-working-with-openrefine/"
     }
   ],
   "pandas fuzzy match names deduplicate": [
     {
-      "url": "https://stackoverflow.com/questions/19964546/pandas-fuzzy-merge-match-name-column-with-duplicates",
-      "title": "python - Pandas fuzzy merge/ match name column... - Stack Overflow"
+      "title": "python - Pandas fuzzy merge/ match name column... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/19964546/pandas-fuzzy-merge-match-name-column-with-duplicates"
     },
     {
-      "url": "https://github.com/jsoma/fuzzy_pandas",
-      "title": "GitHub - jsoma/ fuzzy _ pandas : Fuzzy matches and merging of..."
+      "title": "GitHub - jsoma/ fuzzy _ pandas : Fuzzy matches and merging of...",
+      "url": "https://github.com/jsoma/fuzzy_pandas"
     },
     {
-      "url": "https://readmedium.com/how-to-use-fuzzy-matching-for-deduplication-7f2ce9eb5e92",
-      "title": "How to use fuzzy matching for deduplication"
+      "title": "How To Find Duplicates In Python Pandas",
+      "url": "https://pythonguides.com/how-to-find-duplicates-in-python-dataframe/"
     },
     {
-      "url": "https://ai.plainenglish.io/how-to-use-fuzzy-matching-for-deduplication-7f2ce9eb5e92",
-      "title": "How to use fuzzy matching for deduplication | by Maryam Bahrami"
+      "title": "How to use fuzzy matching for deduplication",
+      "url": "https://readmedium.com/how-to-use-fuzzy-matching-for-deduplication-7f2ce9eb5e92"
+    },
+    {
+      "title": "How to use fuzzy matching for deduplication | by Maryam Bahrami",
+      "url": "https://ai.plainenglish.io/how-to-use-fuzzy-matching-for-deduplication-7f2ce9eb5e92"
     }
   ],
   "entity resolution python best practices newsroom": [
     {
-      "url": "https://github.com/bintu27/entity-resolution-engine",
-      "title": "GitHub - bintu27/ entity - resolution -engine: A modular Python -based..."
+      "title": "GitHub - bintu27/ entity - resolution -engine: A modular Python -based...",
+      "url": "https://github.com/bintu27/entity-resolution-engine"
     },
     {
-      "url": "https://www.nlpsummit.org/scalable-entity-resolution-with-python-and-ml/",
-      "title": "Scalable Entity Resolution With Python and ML - NLP Summit"
+      "title": "Scalable Entity Resolution With Python and ML - NLP Summit",
+      "url": "https://www.nlpsummit.org/scalable-entity-resolution-with-python-and-ml/"
     },
     {
-      "url": "https://www.zingg.ai/post/lessons-learnt-while-integrating-zinggs-open-source-entity-resolution-python-apis-with-microsoft-fabric",
-      "title": "Zingg: Entity Resolution for the Modern Data Stack"
+      "title": "Gurpinder Dhillon on Entity Resolution for Wealth, Risk & AI",
+      "url": "https://senzing.com/entity-resolution-wealth-risk-ai/"
+    },
+    {
+      "title": "Zingg: Entity Resolution for the Modern Data Stack",
+      "url": "https://www.zingg.ai/post/lessons-learnt-while-integrating-zinggs-open-source-entity-resolution-python-apis-with-microsoft-fabric"
+    },
+    {
+      "title": "Method resolution order in Python Inheritance - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/python/method-resolution-order-in-python-inheritance/"
     }
   ],
   "RapidFuzz vs FuzzyWuzzy performance": [
     {
-      "url": "https://plainenglish.io/blog/rapidfuzz-versus-fuzzywuzzy",
-      "title": "RapidFuzz versus FuzzyWuzzy"
+      "title": "RapidFuzz versus FuzzyWuzzy",
+      "url": "https://plainenglish.io/blog/rapidfuzz-versus-fuzzywuzzy"
     },
     {
-      "url": "https://readmedium.com/rapid-fuzz-is-in-another-league-for-fuzzy-logic-matching-d949098f4d89",
-      "title": "A comparison of RapidFuzz vs FuzzyWuzzy ."
+      "title": "GitHub - rapidfuzz / RapidFuzz : Rapid fuzzy string matching in Python...",
+      "url": "https://github.com/rapidfuzz/RapidFuzz"
     },
     {
-      "url": "https://freedium.cfd/d949098f4d89",
-      "title": "RapidFuzz is in Another League for Fuzzy Logic Matching - Freedium"
+      "title": "A comparison of RapidFuzz vs FuzzyWuzzy .",
+      "url": "https://readmedium.com/rapid-fuzz-is-in-another-league-for-fuzzy-logic-matching-d949098f4d89"
+    },
+    {
+      "title": "python - Vectorizing or Speeding up Fuzzywuzzy ... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/52631291/vectorizing-or-speeding-up-fuzzywuzzy-string-matching-on-pandas-column"
+    },
+    {
+      "title": "RapidFuzz is in Another League for Fuzzy Logic Matching - Freedium",
+      "url": "https://freedium.cfd/d949098f4d89"
     }
   ],
   "Gephi dynamic graphs timeline how-to": [
     {
-      "url": "https://subscription.packtpub.com/book/web-development/9781783987405/8/ch08lvl1sec91/building-dynamictemporal-graphs-in-gephi",
-      "title": "Building dynamic /temporal graphs in Gephi | Gephi Cookbook"
+      "title": "Building dynamic /temporal graphs in Gephi | Gephi Cookbook",
+      "url": "https://subscription.packtpub.com/book/web-development/9781783987405/8/ch08lvl1sec91/building-dynamictemporal-graphs-in-gephi"
     },
     {
-      "url": "https://www.slideshare.net/slideshow/gephi-dynamic-features/16082594",
-      "title": "Gephi : dynamic features | PDF"
+      "title": "Gephi : dynamic features | PDF",
+      "url": "https://www.slideshare.net/slideshow/gephi-dynamic-features/16082594"
     },
     {
-      "url": "https://freedium.cfd/d6bd9faf5aec",
-      "title": "Animate Dynamic Graphs with Gephi | by Haaya Naushan - Freedium"
+      "title": "Making dynamic graphs in python's Networkx - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/34646956/making-dynamic-graphs-in-pythons-networkx"
     },
     {
-      "url": "https://gephi.wordpress.com/tag/dynamics/",
-      "title": "Posts about dynamics written by Mathieu Bastian and gephi"
+      "title": "Animate Dynamic Graphs with Gephi | by Haaya Naushan - Freedium",
+      "url": "https://freedium.cfd/d6bd9faf5aec"
+    },
+    {
+      "title": "Posts about dynamics written by Mathieu Bastian and gephi",
+      "url": "https://gephi.wordpress.com/tag/dynamics/"
     }
   ],
   "Flourish timeline template import CSV": [
     {
-      "url": "https://flourish.studio/blog/responsive-interactive-timeline/",
-      "title": "It\u2019s about time : bring history to life with interactive timelines ... | Flourish"
+      "title": "It\u2019s about time : bring history to life with interactive timelines ... | Flourish",
+      "url": "https://flourish.studio/blog/responsive-interactive-timeline/"
     },
     {
-      "url": "https://bookdown.org/profrobwells/bookdown-demo/flourish.html",
-      "title": "Chapter 3 Flourish | Data Journalism - A Quick & Practical Guide"
+      "title": "Chapter 3 Flourish | Data Journalism - A Quick & Practical Guide",
+      "url": "https://bookdown.org/profrobwells/bookdown-demo/flourish.html"
+    },
+    {
+      "title": "Scheduled CSV Importer Demo | Creating an Import Template Record",
+      "url": "https://www.youtube.com/watch?v=MpWOMOFRPFQ"
+    },
+    {
+      "title": "How to Create an Effective Project Timeline (Incl. 5 Templates )",
+      "url": "https://medium.com/@filestage/how-to-create-an-effective-project-timeline-incl-5-templates-9137ec9d4895"
+    },
+    {
+      "title": "How to Import from a CSV \u2013 RoboForm Help Center",
+      "url": "https://help.roboform.com/hc/en-us/articles/4423305900685-How-to-Import-from-a-CSV"
     }
   ],
   "personal knowledge graph tools comparison 2025": [
     {
-      "url": "https://alternativeto.net/software/obsidian/",
-      "title": "Best Obsidian Alternatives: Top Note-taking Tools in 2025"
+      "title": "Knowledge graph - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Knowledge_graph"
     },
     {
-      "url": "https://openalternative.co/alternatives/obsidian",
-      "title": "10+ Best Open Source Obsidian Alternatives ( 2025 )"
+      "title": "Best Obsidian Alternatives: Top Note-taking Tools in 2025",
+      "url": "https://alternativeto.net/software/obsidian/"
+    },
+    {
+      "title": "Knowledge Graph Tools : The Ultimate Guide",
+      "url": "https://www.puppygraph.com/blog/knowledge-graph-tools"
+    },
+    {
+      "title": "10+ Best Open Source Obsidian Alternatives ( 2025 )",
+      "url": "https://openalternative.co/alternatives/obsidian"
+    },
+    {
+      "title": "How to Use Knowledge Graph Tools to Enhance AI Development",
+      "url": "https://www.falkordb.com/blog/how-to-use-knowledge-graph-tools-for-ai/"
     }
   ],
   "Obsidian backlinks journalism workflow": [
     {
-      "url": "https://www.youtube.com/watch?v=nDjlMBu-HSk",
-      "title": "Enhance Your Backlinks in Obsidian MD using the... - YouTube"
+      "title": "Enhance Your Backlinks in Obsidian MD using the... - YouTube",
+      "url": "https://www.youtube.com/watch?v=nDjlMBu-HSk"
     },
     {
-      "url": "https://medium.com/obsidian-observer/five-tips-more-useful-backlinks-e7408e7de99a",
-      "title": "Five tips make Obsidian backlinks easier to work with | Obsidian ..."
+      "title": "Backlinks Section - Further Functionality... - Obsidian Forum",
+      "url": "https://forum.obsidian.md/t/backlinks-section-further-functionality-interactivity/281"
     },
     {
-      "url": "https://www.jordanrobison.net/p/unleash-power-backlinks-obsidian-knowledge-graph",
-      "title": "Unleash the Power of Backlinks : Supercharge Your Obsidian ..."
+      "title": "Five tips make Obsidian backlinks easier to work with | Obsidian ...",
+      "url": "https://medium.com/obsidian-observer/five-tips-more-useful-backlinks-e7408e7de99a"
+    },
+    {
+      "title": "Unleash the Power of Backlinks : Supercharge Your Obsidian ...",
+      "url": "https://www.jordanrobison.net/p/unleash-power-backlinks-obsidian-knowledge-graph"
+    },
+    {
+      "title": "GitHub - mnaoumov/ obsidian - backlink -cache: Obsidian plugin that...",
+      "url": "https://github.com/mnaoumov/obsidian-backlink-cache"
     }
   ],
   "Hypothes.is private groups newsroom setup": [
     {
-      "url": "https://web.hypothes.is/creating-groups/",
-      "title": "Guide to Creating Groups on Hypothesis"
+      "title": "Guide to Creating Groups on Hypothesis",
+      "url": "https://web.hypothes.is/creating-groups/"
     },
     {
-      "url": "https://helpwiki.evergreen.edu/wiki/index.php/Life_Writes_:_Group_Annotation_using_Hypothes.is",
-      "title": "Life Writes : Group Annotation using Hypothes . is - Help Wiki"
+      "title": "Installation and Setup | weichenw/obsidian-hypothesis-plugin | Zread",
+      "url": "https://zread.ai/weichenw/obsidian-hypothesis-plugin/3-installation-and-setup"
+    },
+    {
+      "title": "Life Writes : Group Annotation using Hypothes . is - Help Wiki",
+      "url": "https://helpwiki.evergreen.edu/wiki/index.php/Life_Writes_:_Group_Annotation_using_Hypothes.is"
+    },
+    {
+      "title": "Hypothes . is : Annotate the Web \u2013 Psych Matters",
+      "url": "https://suefrantz.com/2018/07/02/hypothes-is-annotate-the-web/"
+    },
+    {
+      "title": "Hypothes . is : An Open Annotations Platform | Hacker News",
+      "url": "https://news.ycombinator.com/item?id=23573852"
     }
   ],
   "Zotero translators for news sites": [
     {
-      "url": "https://www.zotero.org/support/translators",
-      "title": "translators [ Zotero Documentation]"
+      "title": "translators [ Zotero Documentation]",
+      "url": "https://www.zotero.org/support/translators"
     },
     {
-      "url": "https://www.mediawiki.org/wiki/Citoid/Creating_Zotero_translators",
-      "title": "Citoid/Creating Zotero translators - MediaWiki"
+      "title": "GitHub - plantaest/ zotero - translators : Zotero translators for ...",
+      "url": "https://github.com/plantaest/zotero-translators"
     },
     {
-      "url": "https://niche-canada.org/member-projects/zotero-guide/chapter1.html",
-      "title": "How to Write a Zotero Translator - Chapter 1"
+      "title": "New Zotero translators for PROV and Queensland... - Tim Sherratt",
+      "url": "https://updates.timsherratt.org/2024/08/22/new-zotero-translators.html"
+    },
+    {
+      "title": "Citoid/Creating Zotero translators - MediaWiki",
+      "url": "https://www.mediawiki.org/wiki/Citoid/Creating_Zotero_translators"
+    },
+    {
+      "title": "How to Write a Zotero Translator - Chapter 1",
+      "url": "https://niche-canada.org/member-projects/zotero-guide/chapter1.html"
     }
   ],
   "saving web pages provenance best practices": [
     {
-      "url": "https://www.linkedin.com/advice/1/how-do-you-use-data-acquisition-metadata-provenance",
-      "title": "Data Acquisition Metadata and Provenance : A Guide"
+      "title": "Save a complete page into a single HTML file - Chrome Web Store",
+      "url": "https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle"
     },
     {
-      "url": "https://www.researchgate.net/publication/307853207_Identifying_Extension-Based_Ad_Injection_via_Fine-Grained_Web_Content_Provenance",
-      "title": "(PDF) Identifying Extension-Based Ad Injection via Fine-Grained Web ..."
+      "title": "How to Save a Webpage as a PDF without Ads",
+      "url": "https://www.screenshotapi.net/blog/how-to-save-a-webpage-as-a-pdf-without-ads"
+    },
+    {
+      "title": "Data Acquisition Metadata and Provenance : A Guide",
+      "url": "https://www.linkedin.com/advice/1/how-do-you-use-data-acquisition-metadata-provenance"
+    },
+    {
+      "title": "(PDF) Identifying Extension-Based Ad Injection via Fine-Grained Web ...",
+      "url": "https://www.researchgate.net/publication/307853207_Identifying_Extension-Based_Ad_Injection_via_Fine-Grained_Web_Content_Provenance"
+    },
+    {
+      "title": "How to Save Webpages as PDF On Your iPhone/iPad - TechBloat",
+      "url": "https://www.techbloat.com/how-to-save-webpages-as-pdf-on-your-iphone-ipad.html"
     }
   ],
-  "Wayback Machine diff compare captures": [],
+  "Wayback Machine diff compare captures": [
+    {
+      "title": "Parsoid: How Wikipedia catches up with the web \u2013 Diff",
+      "url": "https://web.archive.org/web/20250813174616/https://diff.wikimedia.org/2013/03/04/parsoid-how-wikipedia-catches-up-with-the-web/"
+    },
+    {
+      "title": "The SEO Diff tool allows you to automate the diff comparison process.",
+      "url": "https://www.linkedin.com/posts/chris-long-marketing_the-seo-diff-tool-allows-you-to-automate-activity-7150124269195182080-yzn6"
+    },
+    {
+      "title": "15 Best Wayback Machine Alternatives 2025",
+      "url": "https://rigorousthemes.com/blog/best-wayback-machine-alternative-sites/"
+    },
+    {
+      "title": "Top 9 Wayback Machine Alternative Sites (Web Archive Sites)",
+      "url": "https://www.softwaretestinghelp.com/top-wayback-machine-alternatives/"
+    },
+    {
+      "title": "What is Wayback Machine ? | Definition from TechTarget",
+      "url": "https://www.techtarget.com/whatis/definition/Wayback-Machine"
+    }
+  ],
   "build RSS from webpage without feed": [
     {
-      "url": "https://createfeed.fivefilters.org/",
-      "title": "Web to RSS Generator \u2014 Transform webpages into custom RSS feeds ."
+      "title": "RSS - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RSS"
     },
     {
-      "url": "https://rss.app/",
-      "title": "RSS Feed Generator, Create RSS feeds from URL"
+      "title": "Web to RSS Generator \u2014 Transform webpages into custom RSS feeds .",
+      "url": "https://createfeed.fivefilters.org/"
     },
     {
-      "url": "https://fetchrss.com/",
-      "title": "RSS Generator - FetchRSS"
+      "title": "RSS Feed Generator, Create RSS feeds from URL",
+      "url": "https://rss.app/"
     },
     {
-      "url": "https://github.com/wezm/rsspls",
-      "title": "GitHub - wezm/rsspls: Generate RSS feeds from websites"
+      "title": "RSS Generator - FetchRSS",
+      "url": "https://fetchrss.com/"
+    },
+    {
+      "title": "GitHub - wezm/rsspls: Generate RSS feeds from websites",
+      "url": "https://github.com/wezm/rsspls"
     }
   ],
   "Feedbin vs Inoreader for teams": [
     {
-      "url": "https://www.inoreader.com/alternative-to-feedbin",
-      "title": "Inoreader vs . Feedbin : Feature comparison | Inoreader"
+      "title": "Inoreader vs . Feedbin : Feature comparison | Inoreader",
+      "url": "https://www.inoreader.com/alternative-to-feedbin"
     },
     {
-      "url": "https://slashdot.org/software/comparison/Feedbin-vs-Inoreader/",
-      "title": "Compare Feedbin vs . Inoreader in 2025"
+      "title": "Compare Feedbin vs . Inoreader in 2025",
+      "url": "https://slashdot.org/software/comparison/Feedbin-vs-Inoreader/"
     },
     {
-      "url": "https://sourceforge.net/software/compare/Feedbin-vs-Inoreader/",
-      "title": "Feedbin vs . Inoreader Comparison"
+      "title": "Feedbin vs . Inoreader Comparison",
+      "url": "https://sourceforge.net/software/compare/Feedbin-vs-Inoreader/"
     },
     {
-      "url": "https://sugggest.com/compare/inoreader-vs-feedbin",
-      "title": "Inoreader vs Feedbin - Professional Software Comparison | Sugggest"
+      "title": "Inoreader vs Feedbin - Professional Software Comparison | Sugggest",
+      "url": "https://sugggest.com/compare/inoreader-vs-feedbin"
     },
     {
-      "url": "https://appmus.com/vs/feedbin-vs-inoreader",
-      "title": "Feedbin vs Inoreader Comparison (2025) | Feature by Feature"
+      "title": "Feedbin vs Inoreader Comparison (2025) | Feature by Feature",
+      "url": "https://appmus.com/vs/feedbin-vs-inoreader"
     }
   ],
   "custom RSS dashboard Google Sheets importfeed alternative": [
     {
-      "url": "https://www.thebricks.com/resources/guide-how-to-add-live-news-to-google-sheets",
-      "title": "How to Add Live News to Google Sheets"
+      "title": "How to Use IMPORTFEED in Google Sheets",
+      "url": "https://coefficient.io/how-to-use-importfeed-in-google-sheets"
     },
     {
-      "url": "https://www.fivefilters.org/2024/rss-to-google-sheets/",
-      "title": "RSS feed to Google Sheets - FiveFilters.org"
+      "title": "How to Use the IMPORTFEED Function in Google Sheets",
+      "url": "https://infoinspired.com/google-docs/spreadsheet/how-to-use-importfeed-function-in-google-sheets/"
+    },
+    {
+      "title": "How to Use ImportFEED in Google Sheets",
+      "url": "https://www.owox.com/blog/articles/importfeed-function-google-sheets"
+    },
+    {
+      "title": "How to Add Live News to Google Sheets",
+      "url": "https://www.thebricks.com/resources/guide-how-to-add-live-news-to-google-sheets"
+    },
+    {
+      "title": "RSS feed to Google Sheets - FiveFilters.org",
+      "url": "https://www.fivefilters.org/2024/rss-to-google-sheets/"
     }
   ],
   "Google Alerts operators list 2025": [
     {
-      "url": "https://www.gtricks.com/google/7-google-alerts-tips-simply-cant-miss/",
-      "title": "7 Google Alerts Tips You Simply Can't Miss"
+      "title": "Google Search Operators : In-Depth List of 40 Commands to Know in...",
+      "url": "https://kinsta.com/blog/google-search-operators/"
     },
     {
-      "url": "https://kinsta.com/blog/google-search-operators/",
-      "title": "Google Search Operators : In-Depth List of 40 Commands to Know in..."
+      "title": "Google Search Operators : 50+ Advanced Search Commands",
+      "url": "https://www.spyfu.com/blog/google-search-operators/"
     },
     {
-      "url": "https://www.spyfu.com/blog/google-search-operators/",
-      "title": "Google Search Operators : 50+ Advanced Search Commands"
+      "title": "What are the Google News search operators ? - Feedly Documentation",
+      "url": "https://docs.feedly.com/article/71-what-are-the-keyword-alerts-operators"
+    },
+    {
+      "title": "7 Google Alerts Tips You Simply Can't Miss",
+      "url": "https://www.gtricks.com/google/7-google-alerts-tips-simply-cant-miss/"
+    },
+    {
+      "title": "Media monitoring on a shoestring using Google Alerts - Magnia",
+      "url": "https://magniapartners.com/thought/media-monitoring-on-a-shoestring-using-google-alerts/"
     }
   ],
   "Talkwalker Alerts vs Mention pricing": [
     {
-      "url": "https://www.talkwalker.com/alerts",
-      "title": "Talkwalker Alerts : The Best Free Alternative to Google Alerts"
+      "title": "Google Alerts VS Mention VS Talkwalker - Moz",
+      "url": "https://moz.com/blog/google-alerts-vs-mention-vs-talkwalker"
     },
     {
-      "url": "https://comparisons.financesonline.com/mention-vs-talkwalker",
-      "title": "Mention vs Talkwalker 2025 Comparison | FinancesOnline"
+      "title": "Mention vs Talkwalker 2025 Comparison | FinancesOnline",
+      "url": "https://comparisons.financesonline.com/mention-vs-talkwalker"
     },
     {
-      "url": "https://moz.com/blog/google-alerts-vs-mention-vs-talkwalker",
-      "title": "Google Alerts VS Mention VS Talkwalker - Moz"
+      "title": "Talkwalker Alerts : The Best Free Alternative to Google Alerts",
+      "url": "https://www.talkwalker.com/alerts"
+    },
+    {
+      "title": "Mention vs Talkwalker (AI Analysis from 33 Review Data)...",
+      "url": "https://competitors.app/competitors/social-listening-tools/mention-vs-talkwalker-analysis/"
+    },
+    {
+      "title": "Mentionlytics vs Talkwalker | A cost-effective solution",
+      "url": "https://www.mentionlytics.com/compare/mentionlytics-vs-talkwalker/"
     }
   ],
   "PDF table to CSV open source tools": [
     {
-      "url": "https://tabula.technology/",
-      "title": "Tabula is a free tool for extracting data from PDF files into CSV and..."
+      "title": "Tabula is a free tool for extracting data from PDF files into CSV and...",
+      "url": "https://tabula.technology/"
+    },
+    {
+      "title": "CSV Viewer - Chrome Web Store",
+      "url": "https://chromewebstore.google.com/detail/csv-viewer/jpcebfaobfpjabiedigejoanbpgepelm"
+    },
+    {
+      "title": "CSV Viewer and Editor",
+      "url": "https://www.convertcsv.com/csv-viewer-editor.htm"
+    },
+    {
+      "title": "CSV File Viewer Online",
+      "url": "https://exctoolz.com/tools/csv-viewer"
+    },
+    {
+      "title": "Best Open Source Linux CSV Software 2025",
+      "url": "https://sourceforge.net/directory/csv/linux/"
     }
   ],
   "OCR newspapers tesseract settings columns": [
     {
-      "url": "https://stackoverflow.com/questions/31651071/how-to-ocr-multiple-column-in-a-document-using-tesseract",
-      "title": "c++ - How to OCR multiple column in a document using tesseract"
+      "title": "c++ - How to OCR multiple column in a document using tesseract",
+      "url": "https://stackoverflow.com/questions/31651071/how-to-ocr-multiple-column-in-a-document-using-tesseract"
     },
     {
-      "url": "https://tesseract-ocr.narkive.com/cd3KLmUw/improve-the-tesseract-output-from-an-old-newspapers",
-      "title": "Improve the tesseract output from an old newspapers"
+      "title": "C# Tesseract OCR Configuration | IronOCR",
+      "url": "https://ironsoftware.com/csharp/ocr/how-to/iron-tesseract/"
+    },
+    {
+      "title": "GitHub - PapaKaffey/ Newspaper - OCR -V3: GPU-enhanced OCR ...",
+      "url": "https://github.com/PapaKaffey/Newspaper-OCR-V3"
+    },
+    {
+      "title": "Improve the tesseract output from an old newspapers",
+      "url": "https://tesseract-ocr.narkive.com/cd3KLmUw/improve-the-tesseract-output-from-an-old-newspapers"
+    },
+    {
+      "title": "How to Install and Use Tesseract OCR on Windows... - YouTube",
+      "url": "https://www.youtube.com/watch?v=2kWvk4C1pMo"
     }
   ],
   "extract text from scanned meeting minutes pdf": [
     {
-      "url": "https://www.maxai.co/pdf-tools/pdf-ocr/",
-      "title": "PDF OCR - Fast & Local PDF Text Recognition for Free | MaxAI"
+      "title": "PDF OCR - Fast & Local PDF Text Recognition for Free | MaxAI",
+      "url": "https://www.maxai.co/pdf-tools/pdf-ocr/"
     },
     {
-      "url": "https://www.sejda.com/ocr-pdf",
-      "title": "OCR Recognize Text in PDF Online"
+      "title": "OCR Recognize Text in PDF Online",
+      "url": "https://www.sejda.com/ocr-pdf"
     },
     {
-      "url": "https://smallpdf.com/pdf-ocr",
-      "title": "PDF OCR Converter | Make PDF Text Searchable with OCR Online"
+      "title": "PDF OCR Converter | Make PDF Text Searchable with OCR Online",
+      "url": "https://smallpdf.com/pdf-ocr"
     },
     {
-      "url": "https://xodo.com/ocr",
-      "title": "PDF OCR - Free OCR Online"
+      "title": "PDF OCR - Free OCR Online",
+      "url": "https://xodo.com/ocr"
+    },
+    {
+      "title": "Convert PDF to Text - Convert your PDF to text online",
+      "url": "https://www.pdf2go.com/pdf-to-text"
     }
   ],
   "site:city.gov council agenda PDF": [],
   "site:county.gov press release archive": [],
   "sheriff booking blotter CSV download": [
     {
-      "url": "https://www.palmbeachcounty.com/palm-beach-county-booking-blotter/",
-      "title": "Palm Beach County Booking Blotter - Free Palm Beach Booking ..."
+      "title": "Palm Beach County Booking Blotter - Free Palm Beach Booking ...",
+      "url": "https://www.palmbeachcounty.com/palm-beach-county-booking-blotter/"
     },
     {
-      "url": "https://thetgtube.com/pbso-booking-blotter/",
-      "title": "PBSO Booking Blotter : A Complete Guide - TGTube"
+      "title": "PBSO Booking Blotter : A Complete Guide - TGTube",
+      "url": "https://thetgtube.com/pbso-booking-blotter/"
     },
     {
-      "url": "https://www.tecdud.com/pbso-booking-blotter/",
-      "title": "pbso booking blotter - Tecdud"
+      "title": "pbso booking blotter - Tecdud",
+      "url": "https://www.tecdud.com/pbso-booking-blotter/"
     },
     {
-      "url": "https://www.tpsearchtool.com/web/palm-beach-sheriffs-booking-blotter",
-      "title": "Palm Beach Sheriffs Booking Blotter"
+      "title": "Sample CSV Files Download - Get Examples Instantly",
+      "url": "https://filesamples.com/formats/csv"
+    },
+    {
+      "title": "Palm Beach Sheriffs Booking Blotter",
+      "url": "https://www.tpsearchtool.com/web/palm-beach-sheriffs-booking-blotter"
     }
   ],
-  "state court docket search access policies": [],
+  "state court docket search access policies": [
+    {
+      "title": "Iowa Courts Online Search",
+      "url": "https://www.iowacourts.state.ia.us/"
+    },
+    {
+      "title": "How to Look Up a Docket Number (with Pictures) - wikiHow",
+      "url": "https://www.wikihow.com/Look-Up-a-Docket-Number"
+    },
+    {
+      "title": "How to Read a State Court Docket - HogoNext",
+      "url": "https://hogonext.com/how-to-read-a-state-court-docket/"
+    },
+    {
+      "title": "Pennsylvania Court Records Search | Public Records",
+      "url": "https://www.publicrecords.com/pennsylvania/criminal-records/court-records/"
+    },
+    {
+      "title": "The U.S. Court System, Explained - Democracy Docket",
+      "url": "https://www.democracydocket.com/analysis/the-u-s-court-system-explained/"
+    }
+  ],
   "libel checklist for newsroom pre-publication": [
     {
-      "url": "https://ogc.yale.edu/sites/default/files/libel_checklist.pdf",
-      "title": "Libel Checklist"
+      "title": "Libel Checklist",
+      "url": "https://ogc.yale.edu/sites/default/files/libel_checklist.pdf"
+    },
+    {
+      "title": "defamation | Wex | US Law | LII / Legal Information Institute",
+      "url": "https://www.law.cornell.edu/wex/defamation"
+    },
+    {
+      "title": "Company Newsroom Checklist",
+      "url": "https://www.williammills.com/blog/company-newsroom-checklist"
+    },
+    {
+      "title": "Critical diversity checklist for newsroom managers - Columbia...",
+      "url": "https://www.cjr.org/analysis/diversity_newsrooms_jobs_college_mentorship.php"
+    },
+    {
+      "title": "Pre - publication fact- checking project by AFCN",
+      "url": "https://arabfcn.net/en/events/2024/08/11/a-fact-checker-in-an-independent-arabic-newsroom-pre-publication-fact-checking-project-by-afcn/"
     }
   ],
   "fair use news excerpts guidelines": [
     {
-      "url": "https://www.eff.org/deeplinks/2012/03/court-declares-newspaper-excerpt-online-forum-non-infringing-fair-use",
-      "title": "Court Declares Newspaper Excerpt on Online Forum is..."
+      "title": "Court Declares Newspaper Excerpt on Online Forum is...",
+      "url": "https://www.eff.org/deeplinks/2012/03/court-declares-newspaper-excerpt-online-forum-non-infringing-fair-use"
+    },
+    {
+      "title": "Susie Wiles, JD Vance, and the \u201cJunkyard Dogs\u201d: The... | Vanity Fair",
+      "url": "https://www.vanityfair.com/news/story/trump-susie-wiles-interview-exclusive-part-1"
+    },
+    {
+      "title": "Belgian Court Tells Google to Drop Newspaper Excerpts - The New...",
+      "url": "https://www.nytimes.com/2006/09/19/technology/belgian-court-tells-google-to-drop-newspaper-excerpts.html"
+    },
+    {
+      "title": "Tapping into the News Stream: Exploring Alternatives to the... | Medium",
+      "url": "https://mayurashinde.medium.com/tapping-into-the-news-stream-exploring-alternatives-to-the-google-news-developer-api-7588a0991028"
+    },
+    {
+      "title": "Excerpts guide - Prelude a l'apres-midi d'un faune - FLUTEinWIEN",
+      "url": "https://www.fluteinwien.com/excerpts-guide-prelude-a-lapres-midi-dun-faune/"
     }
   ],
   "copyright screenshots of social media legal": [
     {
-      "url": "https://en.wikipedia.org/wiki/Screenshot",
-      "title": "Screenshot - Wikipedia"
+      "title": "Screenshot - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Screenshot"
     },
     {
-      "url": "https://bytescare.com/blog/are-screenshots-copyright-infringement",
-      "title": "Are Screenshots Copyright Infringement? // Bytescare"
+      "title": "Are Screenshots Copyright Infringement? // Bytescare",
+      "url": "https://bytescare.com/blog/are-screenshots-copyright-infringement"
+    },
+    {
+      "title": "How to Report Online Lending Scams on Social Media : Legal ...",
+      "url": "https://www.lawyer-philippines.com/articles/how-to-report-online-lending-scams-on-social-media-legal-remedies-for-fraud-victims-in-the-philippines"
+    },
+    {
+      "title": "How Adobe Stock Handles Image Copyright Violations \u2013 HD Stock...",
+      "url": "https://hdstockimages.com/blog/how-adobe-stock-handles-image-copyright-violations/"
+    },
+    {
+      "title": "Social Media Screening - TrionAid Associates",
+      "url": "https://trionaidassociates.com/social-media-screening/"
     }
   ],
   "scraping ethics robots.txt newsroom policy": [
     {
-      "url": "https://blog.froxy.com/en/ethical-web-scraping",
-      "title": "Ethical Web Scraping : Robots . txt , TOS & Privacy Regulations"
+      "title": "Ethical Web Scraping : Robots . txt , TOS & Privacy Regulations",
+      "url": "https://blog.froxy.com/en/ethical-web-scraping"
     },
     {
-      "url": "https://www.webpronews.com/robots-txt-evolution-from-bot-control-to-ai-scraping-ethics/",
-      "title": "Robots . txt Evolution: From Bot Control to AI Scraping Ethics"
+      "title": "6 Web Scraping Challenges & Practical Solutions",
+      "url": "https://research.aimultiple.com/web-scraping-challenges/"
     },
     {
-      "url": "https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/",
-      "title": "The Guide To Ethical Scraping Of Dynamic... \u2014 Smashing Magazine"
+      "title": "Robots . txt Evolution: From Bot Control to AI Scraping Ethics",
+      "url": "https://www.webpronews.com/robots-txt-evolution-from-bot-control-to-ai-scraping-ethics/"
+    },
+    {
+      "title": "[Inside the Newsroom ] Confronting journalism's Oppenheimer moment",
+      "url": "https://www.rappler.com/voices/newsletters/inside-the-newsroom-oppenheimer-moment-journalism-ai/"
+    },
+    {
+      "title": "The Guide To Ethical Scraping Of Dynamic... \u2014 Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/"
     }
   ],
   "background vs off the record difference": [
     {
-      "url": "https://www.liveabout.com/off-the-record-on-background-and-not-for-attribution-2295934",
-      "title": "Learn What \" off the Record \" and \"on Background \" Mean"
+      "title": "Learn What \" off the Record \" and \"on Background \" Mean",
+      "url": "https://www.liveabout.com/off-the-record-on-background-and-not-for-attribution-2295934"
     },
     {
-      "url": "https://www.writersdigest.com/online-exclusives/journo-jargon-on-the-record-vs-off-the-record-vs-on-background",
-      "title": "Journo Jargon: \"On the Record \" vs . \" Off the Record \" vs ...."
+      "title": "Journo Jargon: \"On the Record \" vs . \" Off the Record \" vs ....",
+      "url": "https://www.writersdigest.com/online-exclusives/journo-jargon-on-the-record-vs-off-the-record-vs-on-background"
     },
     {
-      "url": "https://joshsternberg.com/2010/04/28/off-the-record-vs-on-background-vs-privacy/",
-      "title": "Off the Record vs . On Background vs . Privacy | The Sternberg Effect"
+      "title": "Off the Record vs . On Background vs . Privacy | The Sternberg Effect",
+      "url": "https://joshsternberg.com/2010/04/28/off-the-record-vs-on-background-vs-privacy/"
+    },
+    {
+      "title": "Off the Record : Part One - Devine + Partners",
+      "url": "https://devinepartners.com/blog/off-the-record-part-one/"
+    },
+    {
+      "title": "What Does 'On/ Off The Record ' Really Mean? A Guide To Talking...",
+      "url": "https://www.linkedin.com/pulse/what-does-onoff-record-really-mean-guide-talking-steph-spyro-teaie"
     }
   ],
-  "corrections policy example major newspapers": [],
-  "UN press releases search by date": [],
+  "corrections policy example major newspapers": [
+    {
+      "title": "Political correctness - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Political_correctness"
+    },
+    {
+      "title": "Washington Post, NY Times issue major corrections over story that...",
+      "url": "https://www.theblaze.com/news/washington-post-new-york-times-issue-major-correction-rudy-giuliani-fbi-warning"
+    },
+    {
+      "title": "Russia Signals Willingness to Give Ukraine Major ... | IBTimes",
+      "url": "https://www.ibtimes.com/russia-signals-willingness-give-ukraine-major-concession-finally-end-war-3792667"
+    },
+    {
+      "title": "Men who correct women over any disagreement... | Daily Mail Online",
+      "url": "https://www.dailymail.co.uk/news/article-15380601/Men-correct-women-disagreement-face-disciplinary-action-new-Green-party-rules.html"
+    },
+    {
+      "title": "Green groups decry EU \u2018betrayal\u2019 after vote to reduce... | The Guardian",
+      "url": "https://www.theguardian.com/world/2025/dec/16/green-groups-eu-betrayal-vote-reduce-oversight-firms"
+    }
+  ],
+  "UN press releases search by date": [
+    {
+      "title": "Press Release Search | AMD",
+      "url": "https://www.amd.com/en/newsroom/press-release-search.html"
+    },
+    {
+      "title": "Humanitarian Situation Update #344 | Gaza Strip... | ReliefWeb",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/humanitarian-situation-update-344-gaza-strip"
+    },
+    {
+      "title": "Press release on Russian-Chinese consultations on the CIS agenda...",
+      "url": "https://www.mid.ru/en/foreign_policy/rso/2065734/"
+    },
+    {
+      "title": "Counter Terrorism Designation Update | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20251216"
+    },
+    {
+      "title": "The Associated Press | Video, Photo, Text, Audio & Data News Agency",
+      "url": "https://www.ap.org/"
+    }
+  ],
   "EU sanctions database API query": [
     {
-      "url": "https://deepwiki.com/opensanctions/opensanctions/4.5-eu-sanctions-and-fsf-processing",
-      "title": "EU Sanctions and FSF Processing | DeepWiki"
+      "title": "GlobalScreen API - Production-Ready UN Sanctions & PEP Screening...",
+      "url": "https://dev.to/mayu2008/globalscreen-api-production-ready-sanctions-pep-screening-service-5gk1"
     },
     {
-      "url": "https://www.sanctions.io/data/sanctions-lists",
-      "title": "Sanctions Lists"
+      "title": "Dataset of EU -Level Politically Exposed Persons | Global Sanctions ...",
+      "url": "https://datarade.ai/data-products/hithorizons-austria-invoice-data-api-336-289-companies-hithorizons"
     },
     {
-      "url": "https://www.sanctionsmap.eu/",
-      "title": "EU Sanctions Map"
+      "title": "EU Sanctions and FSF Processing | DeepWiki",
+      "url": "https://deepwiki.com/opensanctions/opensanctions/4.5-eu-sanctions-and-fsf-processing"
+    },
+    {
+      "title": "Sanctions Lists",
+      "url": "https://www.sanctions.io/data/sanctions-lists"
+    },
+    {
+      "title": "EU Sanctions Map",
+      "url": "https://www.sanctionsmap.eu/"
     }
   ],
   "OFAC SDN list download CSV 2025": [
     {
-      "url": "https://sanctionslist.ofac.treas.gov/Home/SdnList",
-      "title": "OFAC - Sanctions List Site"
+      "title": "Specially Designated Nationals and Blocked Persons List - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Specially_Designated_Nationals_and_Blocked_Persons_List"
     },
     {
-      "url": "https://ofac.treasury.gov/sanctions-list-service",
-      "title": "Sanctions List Service | Office of Foreign Assets Control"
+      "title": "OFAC - Sanctions List Site",
+      "url": "https://sanctionslist.ofac.treas.gov/Home/SdnList"
+    },
+    {
+      "title": "Sanctions List Service | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/sanctions-list-service"
+    },
+    {
+      "title": "List of Sanctioned Countries by OFAC , UN, and EU ( 2025 )",
+      "url": "https://www.sanctionscanner.com/blog/list-of-sanctioned-countries-by-ofac-un-and-eu-2025-1103"
+    },
+    {
+      "title": "OFAC SDN Search: A Guide for Employers [ 2025 ]",
+      "url": "https://iprospectcheck.com/ofac-sdn-check/"
     }
   ],
   "Companies House bulk data download": [
     {
-      "url": "https://github.com/RyMaDe/Companies-House-Bulk-Downloader",
-      "title": "GitHub - RyMaDe/ Companies - House - Bulk -Downloader: View..."
+      "title": "GitHub - RyMaDe/ Companies - House - Bulk -Downloader: View...",
+      "url": "https://github.com/RyMaDe/Companies-House-Bulk-Downloader"
+    },
+    {
+      "title": "Discussion forum for developers using the Companies House API",
+      "url": "https://forum.companieshouse.gov.uk/"
+    },
+    {
+      "title": "Verified Indonesia Business Data | Indonesia Companies Registry...",
+      "url": "https://companieshouse.id/"
+    },
+    {
+      "title": "Companies In The UK - accounts, finances, directors and marketing...",
+      "url": "https://www.companiesintheuk.co.uk/"
+    },
+    {
+      "title": "Unofficial Companies House developer guide",
+      "url": "https://chguide.co.uk/"
     }
   ],
   "beneficial ownership registry status by country": [
     {
-      "url": "https://www.athennian.com/post/snapshot-of-beneficial-ownership-registries-in-g7-countries",
-      "title": "Snapshot of Beneficial Ownership Registries in G7 Countries"
+      "title": "Snapshot of Beneficial Ownership Registries in G7 Countries",
+      "url": "https://www.athennian.com/post/snapshot-of-beneficial-ownership-registries-in-g7-countries"
     },
     {
-      "url": "https://www.fincen.gov/boi",
-      "title": "Beneficial Ownership Information Reporting | FinCEN.gov"
+      "title": "Beneficial Ownership Information Reporting | FinCEN.gov",
+      "url": "https://www.fincen.gov/boi"
     },
     {
-      "url": "https://pheiti.dof.gov.ph/boregistry/",
-      "title": "Beneficial Ownership Registry \u2013 PH-EITI"
+      "title": "Tracing beneficial ownership with OSINT for financial crime",
+      "url": "https://spotlight.ebu.ch/p/tracing-beneficial-ownership-with"
+    },
+    {
+      "title": "Beneficial Ownership Registry \u2013 PH-EITI",
+      "url": "https://pheiti.dof.gov.ph/boregistry/"
+    },
+    {
+      "title": "Guidance on Beneficial Ownership of Legal Persons",
+      "url": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Guidance-Beneficial-Ownership-Legal-Persons.html"
     }
   ],
-  "lobbying disclosures database federal search": [],
+  "lobbying disclosures database federal search": [
+    {
+      "title": "Honest Leadership and Open Government Act - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Honest_Leadership_and_Open_Government_Act"
+    },
+    {
+      "title": "Healthcare Lobbying on Upstream Social Determinants of Health in...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8694571/"
+    },
+    {
+      "title": "Influence Abroad: The state of global lobbying disclosure",
+      "url": "https://sunlightfoundation.com/2016/11/30/influence-abroad-the-state-of-global-lobbying-disclosure/"
+    },
+    {
+      "title": "While spending on lobbying continues to",
+      "url": "https://campaignlegal.org/sites/default/files/LDA+Fact+Sheet+FINAL+7-28-15.pdf"
+    },
+    {
+      "title": "Federal Lobbying Disclosure | Office of Government Relations - The...",
+      "url": "https://govrel.uiowa.edu/federal-relations/federal-lobbying-disclosure"
+    }
+  ],
   "campaign finance state portal list": [
     {
-      "url": "https://www.sos.ca.gov/",
-      "title": "Home :: California Secretary of State"
+      "title": "Campaign Finance - Washington County Election Commission",
+      "url": "https://www.wcecoffice.com/campaign-finance/"
+    },
+    {
+      "title": "SFE - Student Finance England",
+      "url": "https://studentfinance.campaign.gov.uk/"
+    },
+    {
+      "title": "Trump's campaign crowdfunded millions online in an untraditional...",
+      "url": "https://www.aol.com/trumps-campaign-crowdfunded-millions-online-130357942.html"
+    },
+    {
+      "title": "Home :: California Secretary of State",
+      "url": "https://www.sos.ca.gov/"
+    },
+    {
+      "title": "Sarkozy enters jail over campaign financing - France's first...",
+      "url": "https://www.bbc.com/news/articles/cvgkm2j0xelo"
     }
   ],
   "MuckRock FOIA templates examples": [
     {
-      "url": "https://www.muckrock.com/news/archives/2025/apr/02/using-foia-for-emails/",
-      "title": "Using FOIA for emails \u2022 MuckRock"
+      "title": "Using FOIA for emails \u2022 MuckRock",
+      "url": "https://www.muckrock.com/news/archives/2025/apr/02/using-foia-for-emails/"
     },
     {
-      "url": "https://www.nfoic.org/sample-foia-request-letters/",
-      "title": "Sample FOIA Request Letters \u2013 National Freedom of Information ..."
+      "title": "Public Records Act or FOIA Requests \u2013 Berkeley Advanced Media...",
+      "url": "https://multimedia.journalism.berkeley.edu/tutorials/public-records-act-requests/"
     },
     {
-      "url": "https://multimedia.journalism.berkeley.edu/tutorials/public-records-act-requests/",
-      "title": "Public Records Act or FOIA Requests \u2013 Berkeley Advanced Media..."
+      "title": "Sample FOIA Request Letters \u2013 National Freedom of Information ...",
+      "url": "https://www.nfoic.org/sample-foia-request-letters/"
+    },
+    {
+      "title": "3 How to Frame a FOIA Request | Oakland Privacy How to Frame...",
+      "url": "https://oaklandprivacy.org/3-how-to-frame-a-foia-request/"
+    },
+    {
+      "title": "Fun with FOIA : How MuckRock Is Making Public Records Requests...",
+      "url": "https://gijn.org/stories/fun-with-foia-how-muckrock-is-making-public-records-requests-cool/"
     }
   ],
   "FOIA exemptions quick guide PDF": [
     {
-      "url": "https://www.fincen.gov/foia-exemptions-and-exclusions",
-      "title": "FOIA Exemptions and Exclusions | FinCEN.gov"
+      "title": "FOIA Exemptions and Exclusions | FinCEN.gov",
+      "url": "https://www.fincen.gov/foia-exemptions-and-exclusions"
     },
     {
-      "url": "https://www.dol.gov/general/foia/exemptions",
-      "title": "Freedom of Information Act Exemptions | U.S. Department of Labor"
+      "title": "Freedom of Information Act Exemptions | U.S. Department of Labor",
+      "url": "https://www.dol.gov/general/foia/exemptions"
     },
     {
-      "url": "https://foia.state.gov/\\request\\Exemptions.aspx",
-      "title": "FOIA Exemptions"
+      "title": "Coping with rejection: a guide to federal FOIA exemptions \u2022 MuckRock",
+      "url": "https://www.muckrock.com/news/archives/2016/jul/15/coping-rejection-guide-federal-foia-exemptions/"
     },
     {
-      "url": "https://foia.state.gov/\\request\\Exemptions.aspx",
-      "title": "FOIA Exemptions"
+      "title": "FOIA Exemptions",
+      "url": "https://www.dea.gov/foia/foia-exemptions"
+    },
+    {
+      "title": "FOIA Exemptions",
+      "url": "https://foia.state.gov/\\request\\Exemptions.aspx"
     }
   ],
-  "eFOIA portal DHS status tracker": [],
-  "newsroom risk assessment template legal review": [
+  "eFOIA portal DHS status tracker": [
     {
-      "url": "https://templatelab.com/risk-matrix/",
-      "title": "42 Handy Risk Matrix Templates (Excel / Word) \u1405 TemplateLab"
+      "title": "Case Status Online",
+      "url": "https://egov.uscis.gov/"
     },
     {
-      "url": "https://www.slideshare.net/slideshow/risk-assessment-template-71906976/71906976",
-      "title": "Risk assessment template | DOC"
+      "title": "Three Steps Forward, Two Steps Back as FBI Launches \u201c eFOIA \u201d",
+      "url": "https://www.pogo.org/analyses/three-steps-forward-two-steps-back-as-fbi-launches-efoia"
+    },
+    {
+      "title": "Executive Office for Immigration Review | DHS Portal Overview",
+      "url": "https://www.justice.gov/eoir/video/dhs-portal-overview"
+    },
+    {
+      "title": "Contract between Master Marine, Inc and DHS \u2022 MuckRock",
+      "url": "https://www.muckrock.com/foi/united-states-of-america-10/contract-between-master-marine-inc-and-dhs-170017/"
+    },
+    {
+      "title": "USCIS Case Status Tracker - Daily Updates",
+      "url": "https://www.casestatusext.com/"
+    }
+  ],
+  "newsroom risk assessment template legal review": [
+    {
+      "title": "Risk Assessment : Process, Tools, & Techniques | SafetyCulture",
+      "url": "https://safetyculture.com/topics/risk-assessment"
+    },
+    {
+      "title": "42 Handy Risk Matrix Templates (Excel / Word) \u1405 TemplateLab",
+      "url": "https://templatelab.com/risk-matrix/"
+    },
+    {
+      "title": "Risk assessment template | DOC",
+      "url": "https://www.slideshare.net/slideshow/risk-assessment-template-71906976/71906976"
+    },
+    {
+      "title": "Find and save ideas about risk assessment table template on Pinterest.",
+      "url": "https://www.pinterest.com/ideas/risk-assessment-table-template/945543474159/"
+    },
+    {
+      "title": "What is Risk Mitigation? Project Management Strategies",
+      "url": "https://www.atlassian.com/work-management/project-management/risk-mitigation"
     }
   ],
   "rumor log template breaking news": [
     {
-      "url": "https://www.tiktok.com/discover/breaking-news-templates-for-capcut",
-      "title": "Breaking News Templates for Capcut | TikTok"
+      "title": "Breaking News Templates for Capcut | TikTok",
+      "url": "https://www.tiktok.com/discover/breaking-news-templates-for-capcut"
     },
     {
-      "url": "https://www.pinterest.com/ideas/breaking-news-template-rp/938204373711/",
-      "title": "Find and save ideas about breaking news template rp on Pinterest."
+      "title": "Find and save ideas about breaking news template rp on Pinterest.",
+      "url": "https://www.pinterest.com/ideas/breaking-news-template-rp/938204373711/"
     },
     {
-      "url": "https://www.breakyourownnews.com/",
-      "title": "Break Your Own News - Breaking News Generator"
+      "title": "Break Your Own News - Breaking News Generator",
+      "url": "https://www.breakyourownnews.com/"
+    },
+    {
+      "title": "3,217 Breaking News Retro Royalty-Free Images, Stock... | Shutterstock",
+      "url": "https://www.shutterstock.com/search/breaking-news-retro"
+    },
+    {
+      "title": "Breaking News Meme Template - Free Printable Word Search...",
+      "url": "https://template.wordsearchmaker.net/breaking-news-meme-template"
     }
   ],
   "confirm location with shadow length calculator": [
     {
-      "url": "https://dqydj.com/shadow-length-calculator/",
-      "title": "Shadow Length Calculator - Interactive Shadow Projection Tool"
+      "title": "Shadow Length Calculator - Interactive Shadow Projection Tool",
+      "url": "https://dqydj.com/shadow-length-calculator/"
     },
     {
-      "url": "https://www.suncalc.org/",
-      "title": "SunCalc - sunrise, sunset, shadow length , solar eclipse, sun position..."
+      "title": "SunCalc - sunrise, sunset, shadow length , solar eclipse, sun position...",
+      "url": "https://www.suncalc.org/"
     },
     {
-      "url": "https://planetcalc.com/1875/",
-      "title": "Online calculator : Shadow length"
+      "title": "Online calculator : Shadow length",
+      "url": "https://planetcalc.com/1875/"
     },
     {
-      "url": "https://bravecalculator.com/shadow-length-calculator/",
-      "title": "Shadow Length Calculator"
+      "title": "Shadow Length Calculator",
+      "url": "https://bravecalculator.com/shadow-length-calculator/"
     },
     {
-      "url": "https://rechneronline.de/sehwinkel/shadow-length.php",
-      "title": "Calculate Shadow Length and Direction"
+      "title": "Calculate Shadow Length and Direction",
+      "url": "https://rechneronline.de/sehwinkel/shadow-length.php"
     }
   ],
   "Sun position calculator by date and location": [
     {
-      "url": "https://gml.noaa.gov/grad/solcalc/",
-      "title": "Solar Calculator - NOAA Global Monitoring Laboratory"
+      "title": "Solar Calculator - NOAA Global Monitoring Laboratory",
+      "url": "https://gml.noaa.gov/grad/solcalc/"
     },
     {
-      "url": "https://www.suncalc.org/",
-      "title": "SunCalc - sunrise, sunset, shadow length, solar eclipse, sun position ..."
+      "title": "SunCalc - sunrise, sunset, shadow length, solar eclipse, sun position ...",
+      "url": "https://www.suncalc.org/"
     },
     {
-      "url": "https://www.sunearthtools.com/dp/tools/pos_sun.php",
-      "title": "Calculation of sun \u2019s position in the sky for each location on the earth..."
+      "title": "Calculation of sun \u2019s position in the sky for each location on the earth...",
+      "url": "https://www.sunearthtools.com/dp/tools/pos_sun.php"
     },
     {
-      "url": "https://www.timeanddate.com/sun/",
-      "title": "Sunrise and Sunset Calculator"
+      "title": "Sunrise and Sunset Calculator",
+      "url": "https://www.timeanddate.com/sun/"
     },
     {
-      "url": "https://dqydj.com/sun-position-calculator/",
-      "title": "Sun Position Calculator - See Solar Coordinates and a Sky Dome..."
+      "title": "Sun Position Calculator - See Solar Coordinates and a Sky Dome...",
+      "url": "https://dqydj.com/sun-position-calculator/"
     }
   ],
   "map matching GPS trace to OSM tool": [
     {
-      "url": "https://github.com/sabman/aicasts.com/blob/main/008-map-matching-with-barefoot.md",
-      "title": "aicasts.com/008- map - matching -with-barefoot.md at main..."
+      "title": "Matching GPS to a road. I bet you never thought about it, as | Medium",
+      "url": "https://medium.com/plotwise/matching-gps-to-a-road-8710438b23d5?responsesOpen=true&sortBy=REVERSE_CHRON"
     },
     {
-      "url": "https://blog.mapbox.com/matching-gps-traces-to-a-map-73730197d0e2",
-      "title": "Matching GPS traces to a map | by Mapbox | maps for developers"
+      "title": "Google Summer of Code/2010/Student Applications - OpenStreetMap...",
+      "url": "https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2010/Student_Applications"
+    },
+    {
+      "title": "aicasts.com/008- map - matching -with-barefoot.md at main...",
+      "url": "https://github.com/sabman/aicasts.com/blob/main/008-map-matching-with-barefoot.md"
+    },
+    {
+      "title": "Matching GPS traces to a map | by Mapbox | maps for developers",
+      "url": "https://blog.mapbox.com/matching-gps-traces-to-a-map-73730197d0e2"
+    },
+    {
+      "title": "GPS Trace Modality Classification",
+      "url": "https://cs229.stanford.edu/proj2016/report/JuarezKosecCao-GPSTraceModalityClassification-report.pdf"
     }
   ],
   "street names changes historical directory search": [
     {
-      "url": "https://archive.org/stream/RutlandDirectory1965/RutlandDirectory1965_djvu.txt",
-      "title": "Full text of \"Rutland Directory 1965\""
+      "title": "437+ Street Names [All Categories] \u2013 Tag Vault",
+      "url": "https://tagvault.org/blog/street-names/"
+    },
+    {
+      "title": "What Are the Streets in Lexington TX? (2025 Complete List)",
+      "url": "https://eathealthy365.com/lexington-tx-street-names-the-definitive-guide-map/"
+    },
+    {
+      "title": "Full text of \"Rutland Directory 1965\"",
+      "url": "https://archive.org/stream/RutlandDirectory1965/RutlandDirectory1965_djvu.txt"
+    },
+    {
+      "title": "1 - Instant Google Street View",
+      "url": "https://www.instantstreetview.com/s/1"
+    },
+    {
+      "title": "Google NotebookLM | AI Research Tool & Thinking Partner",
+      "url": "https://notebooklm.google/"
     }
   ],
   "city directories digitized online": [
     {
-      "url": "https://www.dmpl.org/research/local-history-genealogy/historic-city-directories",
-      "title": "Historic City Directories | Des Moines Public Library"
+      "title": "City Directories \u2013 City of Toronto",
+      "url": "https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-in-the-archives/city-directories/"
     },
     {
-      "url": "https://www.nypl.org/blog/2016/09/21/new-york-city-directories-free-online",
-      "title": "New York Public Library Digitizes 137 Years of New York City ..."
+      "title": "How MyHeritage Digitized 25K Print Directories | Medium",
+      "url": "https://medium.com/@maksymchernopolskiy/how-myheritage-turned-25k-printed-directories-into-fully-searchable-digital-records-ebfc3fb555f9"
+    },
+    {
+      "title": "How to: Use City Directories - City Archives & Special Collections",
+      "url": "https://nolacityarchives.org/2025/11/05/how-to-use-city-directories/"
+    },
+    {
+      "title": "Historic City Directories | Des Moines Public Library",
+      "url": "https://www.dmpl.org/research/local-history-genealogy/historic-city-directories"
+    },
+    {
+      "title": "New York Public Library Digitizes 137 Years of New York City ...",
+      "url": "https://www.nypl.org/blog/2016/09/21/new-york-city-directories-free-online"
     }
   ],
   "Chronicling America advanced search tips": [
     {
-      "url": "https://primarysourcenexus.org/2013/03/advanced-search-tips-chronicling-america-historic-newspapers/",
-      "title": "Finding Resources: Chronicling America Historic Newspapers..."
+      "title": "Finding Resources: Chronicling America Historic Newspapers...",
+      "url": "https://primarysourcenexus.org/2013/03/advanced-search-tips-chronicling-america-historic-newspapers/"
     },
     {
-      "url": "https://theancestorhunt.com/blog/how-to-use-the-new-chronicling-america-advanced-search-feature/",
-      "title": "How to Use The New Chronicling America Advanced Search Feature"
+      "title": "About Chronicling America \u2013 South Carolina Digital Newspaper...",
+      "url": "https://digital.library.sc.edu/blogs/newspaper/about-scdnp/about-chronicling-america/"
+    },
+    {
+      "title": "How to Use The New Chronicling America Advanced Search Feature",
+      "url": "https://theancestorhunt.com/blog/how-to-use-the-new-chronicling-america-advanced-search-feature/"
+    },
+    {
+      "title": "Searching Tips Tutorials | NEVADA DIGITAL NEWSPAPER PROJECT",
+      "url": "https://nvdnp.wordpress.com/resources/videos/searching-tips-videos/"
+    },
+    {
+      "title": "Is there a way to search two words, in Content, by defining their...",
+      "url": "https://discourse.devontechnologies.com/t/is-there-a-way-to-search-two-words-in-content-by-defining-their-proximity-to-one-another/59449"
     }
   ],
-  "WorldCat newspaper archives near me": [],
-  "vintage almanacs digitized PDF": [
+  "WorldCat newspaper archives near me": [
     {
-      "url": "https://archive.org/details/bim_early-english-books-1641-1700_woodhouse-1654_almanacs-woodhouse-joh_1654",
-      "title": "Woodhouse, 1654. 1654 : ALMANACS . Woodhouse... : Internet Archive"
+      "title": "newspapers .com/ papers /?sort=updated",
+      "url": "https://www.newspapers.com/papers/?sort=updated"
     },
     {
-      "url": "https://slwa.wordpress.com/2015/12/10/early-almanacs-digitised/",
-      "title": "Early Almanacs Digitised | State Library of Western Australia Blog"
+      "title": "Newspaperarchive Login",
+      "url": "https://kapsamedical.com/newspaperarchive-login"
+    },
+    {
+      "title": "The women's Torah commentary : new insights from... : Internet Archive",
+      "url": "https://archive.org/details/womenstorahcomme00gold"
+    },
+    {
+      "title": "UK Home | Daily Mail Online",
+      "url": "https://www.dailymail.co.uk/"
+    },
+    {
+      "title": "Jeltoqsan 1986: Timeline of the December Protests in... \u2014 Qalam",
+      "url": "https://qalam.global/en/jeltoqsan"
+    }
+  ],
+  "vintage almanacs digitized PDF": [
+    {
+      "title": "Vintage Almanac - Etsy",
+      "url": "https://www.etsy.com/market/vintage_almanac"
+    },
+    {
+      "title": "Woodhouse, 1654. 1654 : ALMANACS . Woodhouse... : Internet Archive",
+      "url": "https://archive.org/details/bim_early-english-books-1641-1700_woodhouse-1654_almanacs-woodhouse-joh_1654"
+    },
+    {
+      "title": "Find and save ideas about 1968 farmers almanac pdf on Pinterest.",
+      "url": "https://ru.pinterest.com/ideas/1968-farmers-almanac-pdf/929995747344/"
+    },
+    {
+      "title": "Digitized Books for Website as on 10th Aug 2023.xlsx",
+      "url": "https://www.icwa.in/pdfs/DigitizedRareBooks.pdf"
+    },
+    {
+      "title": "Early Almanacs Digitised | State Library of Western Australia Blog",
+      "url": "https://slwa.wordpress.com/2015/12/10/early-almanacs-digitised/"
     }
   ],
   "hemeroteca digital b\u00fasqueda avanzada": [
     {
-      "url": "https://hemerotecadigital.bne.es/hd/es/advanced",
-      "title": "hemerotecadigital .bne.es/hd/es/advanced"
+      "title": "hemerotecadigital .bne.es/hd/es/advanced",
+      "url": "https://hemerotecadigital.bne.es/hd/es/advanced"
+    },
+    {
+      "title": "Hemeroteca digital",
+      "url": "https://ahcbdigital.bcn.cat/es/hemeroteca/titulo/10+de+marzo+el+ferrol"
+    },
+    {
+      "title": "Cole\u00e7\u00e3o Digital de Jornais e Revistas da Biblioteca Nacional",
+      "url": "https://memoria.bn.gov.br/"
+    },
+    {
+      "title": "La Hemeroteca Digital de la BNE crece con nuevos... \u2014 inQnable",
+      "url": "https://www.inqnable.es/noticias-1/la-hemeroteca-digital-de-la-bne-crece-con-nuevos-titulos-de-prensa-historica"
+    },
+    {
+      "title": "Hemerotecas Digitales sobre M\u00e9xico \u2013 Cl\u00edotropos",
+      "url": "https://cliotropos.wordpress.com/2008/10/18/hemerotecas-digitales-sobre-mexico/"
     }
   ],
   "bolet\u00edn oficial municipal comunicados": [
     {
-      "url": "https://municipiob.montevideo.gub.uy/bolet\u00edn-de-noticias-37",
-      "title": "BOLET\u00cdN DE NOTICIAS | Municipio B"
+      "title": "BORA - Bolet\u00edn Oficial de la Rep\u00fablica Argentina",
+      "url": "https://www.boletinoficial.gob.ar/"
     },
     {
-      "url": "https://dosp.com.br/exibe_do.php?i=Mjk0MTQx",
-      "title": "Di\u00e1rio Oficial do Munic\u00edpio - Ocau\u00e7u - Edi\u00e7\u00e3o 618"
+      "title": "BOE.es - Agencia Estatal Bolet\u00edn Oficial del Estado",
+      "url": "https://www.boe.es/"
+    },
+    {
+      "title": "BOLET\u00cdN DE NOTICIAS | Municipio B",
+      "url": "https://municipiob.montevideo.gub.uy/bolet\u00edn-de-noticias-37"
+    },
+    {
+      "title": "Bolet\u00edn No. 24 - H\u00e9roes afroperuanos an\u00f3nimos - Cimarrones - Foro...",
+      "url": "http://www.cimarrones-peru.org/boletin24.htm"
+    },
+    {
+      "title": "Di\u00e1rio Oficial do Munic\u00edpio - Ocau\u00e7u - Edi\u00e7\u00e3o 618",
+      "url": "https://dosp.com.br/exibe_do.php?i=Mjk0MTQx"
     }
   ],
   "portal de transparencia solicitud modelo": [
     {
-      "url": "https://transparencia.utem.cl/solicitud-de-informacion-ley-de-transparencia/formatos-de-presentacion-y-requisitos-de-las-solicitudes-de-acceso-a-la-informacion/",
-      "title": "Transparencia Activa - Universidad Tecnol\u00f3gica Metropolitana - UTEM"
+      "title": "Encuentras barreras? Trasladamos tu solicitud de informaci\u00f3n... | Civio",
+      "url": "https://civio.es/transparencia/2015/02/18/encuentras-barreras-trasladamos-tu-solicitud-de-informacion-al-portal-de-transparencia/"
+    },
+    {
+      "title": "Transparencia Activa de Organismos - Portal de Transparencia del...",
+      "url": "https://www.portaltransparencia.cl/PortalPdT/pdtta/-/ta/MU012/AR/AREST"
+    },
+    {
+      "title": "Transparencia Activa - Universidad Tecnol\u00f3gica Metropolitana - UTEM",
+      "url": "https://transparencia.utem.cl/solicitud-de-informacion-ley-de-transparencia/formatos-de-presentacion-y-requisitos-de-las-solicitudes-de-acceso-a-la-informacion/"
+    },
+    {
+      "title": "Portal de transparencia | Emaus Gizarte Fundazioa",
+      "url": "https://www.emaus.com/es/conocenos/portal-transparencia"
+    },
+    {
+      "title": "Portal de Transparencia",
+      "url": "https://socialnest.org/es/portal-de-transparencia/"
     }
   ],
   "c\u00f3mo verificar videos con InVID": [
     {
-      "url": "https://www.invid-project.eu/invid-verification-application/",
-      "title": "The InVID Verification Application, an integrated tool for video ..."
+      "title": "The InVID Verification Application, an integrated tool for video ...",
+      "url": "https://www.invid-project.eu/invid-verification-application/"
     },
     {
-      "url": "https://www.tiktok.com/@hondurasverifica/video/7305573950090661125",
-      "title": "Tutorial para utilizar Invid y verificar videos | TikTok"
+      "title": "Trabajar con Inteligencia de C\u00f3digo Abierto (Parte 2): Extraer...",
+      "url": "https://safety.rsf.org/es/work-with-open-source-intelligence-part-2-extracting-information-from-online-videos/"
     },
     {
-      "url": "https://es.digitaltrends.com/sociales/como-usar-invid-para-verificar-videos-y-fotografias-enganosas/",
-      "title": "C\u00f3mo usar InVID para verificar videos y fotograf\u00edas enga\u00f1osas"
+      "title": "Tutorial para utilizar Invid y verificar videos | TikTok",
+      "url": "https://www.tiktok.com/@hondurasverifica/video/7305573950090661125"
     },
     {
-      "url": "https://ciberpatrulla.com/invid/",
-      "title": "[ INVID ] >> C\u00f3mo descubrir si un v\u00eddeo es fake + Tutorial"
+      "title": "C\u00f3mo usar InVID para verificar videos y fotograf\u00edas enga\u00f1osas",
+      "url": "https://es.digitaltrends.com/sociales/como-usar-invid-para-verificar-videos-y-fotografias-enganosas/"
+    },
+    {
+      "title": "[ INVID ] >> C\u00f3mo descubrir si un v\u00eddeo es fake + Tutorial",
+      "url": "https://ciberpatrulla.com/invid/"
     }
   ],
   "archivo hist\u00f3rico municipal actas digitalizadas": [
     {
-      "url": "https://archivo.dostorres.es/",
-      "title": "Archivo Municipal de Dos Torres (C\u00f3rdoba)"
+      "title": "Archivo Municipal de Dos Torres (C\u00f3rdoba)",
+      "url": "https://archivo.dostorres.es/"
     },
     {
-      "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=en&uid=u721bcfc_1357a52d91b__7ff4",
-      "title": "Website of the Vitoria-Gasteiz City Council - Secci\u00f3n hist\u00f3rica - Archivo"
+      "title": "Entregan documentos hist\u00f3ricos digitalizados al Municipio Aut\u00f3nomo...",
+      "url": "https://www.lasemanapr.com/post/entregan-documentos-hist\u00f3ricos-digitalizados-al-municipio-aut\u00f3nomo-de-caguas"
+    },
+    {
+      "title": "Bariloche tendr\u00e1 su Archivo Hist\u00f3rico Digital | ANBariloche",
+      "url": "https://www.anbariloche.com.ar/noticias/2011/12/06/25174-bariloche-tendra-su-archivo-historico-digital"
+    },
+    {
+      "title": "Website of the Vitoria-Gasteiz City Council - Secci\u00f3n hist\u00f3rica - Archivo",
+      "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=en&uid=u721bcfc_1357a52d91b__7ff4"
+    },
+    {
+      "title": "La Nuc\u00eda invierte 2.178 \u20ac en la digitalizaci\u00f3n de documentos hist\u00f3ricos ...",
+      "url": "https://culturalanucia.com/la-nucia-invierte-2-178-e-en-la-digitalizacion-de-documentos-historicos-municipales/"
     }
   ],
   "registro mercantil consulta gratis en l\u00ednea": [
     {
-      "url": "https://www.vue.gov.co/tramites-y-consultas/consulta-de-estado-del-registro-mercantil",
-      "title": "Consulta de estado del Registro mercantil - ..QRE-Default Web Site"
+      "title": "Consulta de estado del Registro mercantil - ..QRE-Default Web Site",
+      "url": "https://www.vue.gov.co/tramites-y-consultas/consulta-de-estado-del-registro-mercantil"
+    },
+    {
+      "title": "Mercantil en L\u00ednea Personas",
+      "url": "https://www30.mercantilbanco.com/login?KeepThis=true"
+    },
+    {
+      "title": "Consulta el Registro Mercantil Online | Informa - Informa D&B",
+      "url": "https://www.informa.es/servicios-registro/mercantil"
+    },
+    {
+      "title": "Registro mercantil",
+      "url": "https://www.registradores.org/el-colegio/registro-mercantil"
+    },
+    {
+      "title": "Registro Mercantil (RM): Renovaci\u00f3n y consulta 2025",
+      "url": "https://leegales.dianhoy.com/registro-mercantil/"
     }
   ],
   "INE datos poblaci\u00f3n series hist\u00f3ricas": [
     {
-      "url": "https://ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981",
-      "title": "INEbase / Demograf\u00eda y poblaci\u00f3n /Cifras de poblaci\u00f3n y Censos..."
+      "title": "Instituto Nacional de Estad\u00edstica (Espa\u00f1a) - Wikipedia, la enciclopedia...",
+      "url": "https://es.wikipedia.org/wiki/Instituto_Nacional_de_Estad\u00edstica_(Espa\u00f1a)"
+    },
+    {
+      "title": "Poblaci\u00f3n y Hechos Vitales - INE",
+      "url": "https://www.ine.gob.bo/index.php/censos-y-proyecciones-de-poblacion-sociales/"
+    },
+    {
+      "title": "INEbase / Demograf\u00eda y poblaci\u00f3n /Cifras de poblaci\u00f3n y Censos...",
+      "url": "https://ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981"
+    },
+    {
+      "title": "Cambios en la estructura y localizaci\u00f3n de la poblaci\u00f3n : series ...",
+      "url": "https://www.fbbva.es/bd/cambios-la-estructura-localizacion-la-poblacion-series-homogeneas-1900-2011/"
+    },
+    {
+      "title": "Los datos del INE confirman el boom del mercado de la vivienda de...",
+      "url": "https://www.larazon.es/murcia/datos-ine-confirman-boom-mercado-vivienda-segunda-mano-region-murcia_2025022067b6f368b1a8db0001ce61ac.html"
     }
   ],
   "BOE buscador por palabras exactas": [
     {
-      "url": "https://www.boe.es/buscar/ayudas/boe_ayuda.php",
-      "title": "BOE .es - Buscar en todo el BOE : Ayuda y contenido"
+      "title": "BOE .es - Buscar en todo el BOE : Ayuda y contenido",
+      "url": "https://www.boe.es/buscar/ayudas/boe_ayuda.php"
+    },
+    {
+      "title": "T\u00e9cnicas y consejos para buscar en el buscador Google",
+      "url": "https://geekland.eu/tecnicas-consejos-buscar-en-google/"
+    },
+    {
+      "title": "Buscador BOE Beta-Free Spanish Gazette Search Tool",
+      "url": "https://www.yeschat.ai/gpts-9t557fhqvjy-Buscador-BOE-Beta"
+    },
+    {
+      "title": "Diccionario ilustrado BOE -espa\u00f1ol: traducir el lenguaje de los pol\u00edticos...",
+      "url": "https://theobjective.com/further/cultura/2021-06-25/diccionario-ilustrado-boe-espanol-traducir-el-lenguaje-de-los-politicos-para-que-no-nos-la-cuelen/"
+    },
+    {
+      "title": "Buscador BOE GPTs features and functions, examples... | GPT Store",
+      "url": "https://gptstore.ai/gpts/93XBn_mQgP-buscador-boe-beta"
     }
   ],
   "AEMET datos hist\u00f3ricos descarga CSV": [
     {
-      "url": "https://github.com/kikocorreoso/datos_aemet",
-      "title": "GitHub - kikocorreoso/ datos _ aemet : Dataset from the Aemet ..."
+      "title": "GitHub - kikocorreoso/ datos _ aemet : Dataset from the Aemet ...",
+      "url": "https://github.com/kikocorreoso/datos_aemet"
     },
     {
-      "url": "https://www.aemet.es/es/datos_abiertos",
-      "title": "Datos abiertos - Agencia Estatal de... - AEMET . Gobierno de Espa\u00f1a"
+      "title": "Datos abiertos - Agencia Estatal de... - AEMET . Gobierno de Espa\u00f1a",
+      "url": "https://www.aemet.es/es/datos_abiertos"
     },
     {
-      "url": "https://datosclima.es/Aemet2013/Datosporestacion.html",
-      "title": "Base de datos Meteorol\u00f3gica. Descarga Datos AEMET desde..."
+      "title": "Base de datos Meteorol\u00f3gica. Descarga Datos AEMET desde...",
+      "url": "https://datosclima.es/Aemet2013/Datosporestacion.html"
+    },
+    {
+      "title": "D\u00f3nde conseguir datos de estaciones meteorol\u00f3gicas y climatol\u00f3gicos?",
+      "url": "https://estaciondemeteorologia.com/donde-conseguir-datos-estaciones-meteorologicas-climatologicos/"
+    },
+    {
+      "title": "Datos hist\u00f3ricos de Bitcoin (BTC) y descarga de datos ... | Bitget",
+      "url": "https://www.bitget.com/es/price/bitcoin/historical-data"
     }
   ],
   "\u00e9tica period\u00edstica atribuci\u00f3n de fuentes": [
     {
-      "url": "https://revistas.ucm.es/index.php/ESMP/article/view/ESMP0505110113A/12449",
-      "title": "Vista de Enfermedad del Papa y credibilidad period\u00edstica . Atribuci\u00f3n ..."
+      "title": "Vista de Enfermedad del Papa y credibilidad period\u00edstica . Atribuci\u00f3n ...",
+      "url": "https://revistas.ucm.es/index.php/ESMP/article/view/ESMP0505110113A/12449"
     },
     {
-      "url": "https://www.wikiliteratura.net/fundamentos-esenciales-del-periodismo-atribucion-fuentes-titulares-y-entrevista/",
-      "title": "Fundamentos Esenciales del Periodismo: Atribuci\u00f3n , Fuentes ..."
+      "title": "Fundamentos Esenciales del Periodismo: Atribuci\u00f3n , Fuentes ...",
+      "url": "https://www.wikiliteratura.net/fundamentos-esenciales-del-periodismo-atribucion-fuentes-titulares-y-entrevista/"
     },
     {
-      "url": "https://www.ku.de/periodismo-online/la-prensa/tema-6-produccion-rutinas-y-fuentes-periodisticas",
-      "title": "Tema 6: Producci\u00f3n, rutinas y fuentes period\u00edsticas \u2013 KU"
+      "title": "Herramientas de la Redacci\u00f3n Period\u00edstica by Damiano Shepherd on...",
+      "url": "https://prezi.com/fzc2_kttac3j/herramientas-de-la-redaccion-periodistica/"
+    },
+    {
+      "title": "Tema 6: Producci\u00f3n, rutinas y fuentes period\u00edsticas \u2013 KU",
+      "url": "https://www.ku.de/periodismo-online/la-prensa/tema-6-produccion-rutinas-y-fuentes-periodisticas"
+    },
+    {
+      "title": "Microsoft Word - 007. Redacci\u00f3n period\u00edstica .docx",
+      "url": "https://ciespal.org/wp-content/uploads/2019/03/008.-Redaccio\u0301n-periodi\u0301stica.pdf"
     }
   ],
-  "crear mapa con fotos y EXIF tutorial": [],
+  "crear mapa con fotos y EXIF tutorial": [
+    {
+      "title": "Online EXIF Viewer and Editor | EXIFEditor.io",
+      "url": "https://exifeditor.io/"
+    },
+    {
+      "title": "Qu\u00e9 son los datos Exif de una foto , c\u00f3mo leerlos y editarlos?",
+      "url": "https://ayudaleyprotecciondatos.es/metadatos/fotos-exif/"
+    },
+    {
+      "title": "Editar, borrar o a\u00f1adir metadatos EXIF imagen Windows 10 - Solvetic",
+      "url": "https://www.solvetic.com/tutoriales/article/3451-editar-borrar-anadir-metadatos-imagen-windows-10/"
+    },
+    {
+      "title": "4. Organizar_ fotos _fecha_creaci\u00f3n \u00b7 GitHub",
+      "url": "https://gist.github.com/Sampuers/4f253f2e109e8b27feacf1fc5306ecdc"
+    },
+    {
+      "title": "Exif Data Explained | TikTok",
+      "url": "https://www.tiktok.com/discover/exif-data-explained"
+    }
+  ],
   "risograph printing studio near me": [
     {
-      "url": "https://perfectly-acceptable.com/",
-      "title": "Perfectly Acceptable Press - Risograph Printing"
+      "title": "Perfectly Acceptable Press - Risograph Printing",
+      "url": "https://perfectly-acceptable.com/"
     },
     {
-      "url": "https://risottostudio.com/pages/what-is-risograph-printing",
-      "title": "What is Risograph Printing ? | RISOTTO Studio"
+      "title": "RisoLAB | The only Risograph educational printing facility!",
+      "url": "https://risolab.sva.edu/"
     },
     {
-      "url": "https://peopleofprint.com/general/top-15-risograph-printing-studios/",
-      "title": "Top 15 Risograph (RISO) Printing Studios | People of Print"
+      "title": "What is Risograph Printing ? | RISOTTO Studio",
+      "url": "https://risottostudio.com/pages/what-is-risograph-printing"
+    },
+    {
+      "title": "Create a photo risograph print - Airbnb",
+      "url": "https://www.airbnb.ca/experiences/5729282"
+    },
+    {
+      "title": "Top 15 Risograph (RISO) Printing Studios | People of Print",
+      "url": "https://peopleofprint.com/general/top-15-risograph-printing-studios/"
     }
   ],
-  "cryptic crossword guide American vs British clues": []
+  "cryptic crossword guide American vs British clues": [
+    {
+      "title": "Crossword Solver: Get Crossword Help and Solve Word Games",
+      "url": "https://www.crosswordsolver.com/"
+    },
+    {
+      "title": "Cryptically Cross Words . I was looking for a new book of... | Medium",
+      "url": "https://medium.com/@david.ahughes/cryptically-cross-words-6ba0cda61c7e"
+    },
+    {
+      "title": "DT 31108 \u2013 Big Dave's Crossword Blog",
+      "url": "https://bigdave44.com/2025/12/12/dt-31108/"
+    },
+    {
+      "title": "Times Cryptic 29411 \u2013 Times for The Times",
+      "url": "https://timesforthetimes.co.uk/times-cryptic-29411"
+    },
+    {
+      "title": "Clued In #350 | Cryptic clues aren\u2019t boring, they\u2019re boring deep",
+      "url": "https://crossword.thehindu.com/clued-in/clued-in-350-cryptic-clues-arent-boring-theyre-boring-deep/article61439883.ece"
+    }
+  ]
 }

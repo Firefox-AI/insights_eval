@@ -1,1347 +1,2269 @@
 {
   "harmony patching tutorial c#": [
     {
-      "url": "https://harmony.pardeike.net/articles/patching.html",
-      "title": "Patching"
+      "title": "Patching",
+      "url": "https://harmony.pardeike.net/articles/patching.html"
     },
     {
-      "url": "https://github.com/pardeike/Harmony/wiki/Patching",
-      "title": "Patching \u00b7 pardeike/ Harmony Wiki \u00b7 GitHub"
+      "title": "Patching \u00b7 pardeike/ Harmony Wiki \u00b7 GitHub",
+      "url": "https://github.com/pardeike/Harmony/wiki/Patching"
     },
     {
-      "url": "https://stackoverflow.com/questions/63110324/how-to-patch-methods-using-harmony",
-      "title": "c# - How to patch methods using harmony - Stack Overflow"
+      "title": "c# - How to patch methods using harmony - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/63110324/how-to-patch-methods-using-harmony"
     },
     {
-      "url": "https://stardewmodding.wiki.gg/wiki/Tutorial:_Harmony_Patching",
-      "title": "Tutorial : Harmony Patching - Stardew Modding Wiki"
+      "title": "Tutorial : Harmony Patching - Stardew Modding Wiki",
+      "url": "https://stardewmodding.wiki.gg/wiki/Tutorial:_Harmony_Patching"
     },
     {
-      "url": "https://api.raftmodding.com/modding-tutorials/harmony-basics",
-      "title": "This tutorial is intended to guide you through using Harmony to patch ..."
+      "title": "This tutorial is intended to guide you through using Harmony to patch ...",
+      "url": "https://api.raftmodding.com/modding-tutorials/harmony-basics"
     }
   ],
   "bepinex chainloader docs": [
     {
-      "url": "https://docs.bepinex.dev/api/BepInEx.Bootstrap.Chainloader.html",
-      "title": "Class Chainloader | BepInEx Docs"
+      "title": "ALTDEUS: Beyond Chronos - IL2CPP chainloader fails to execute...",
+      "url": "https://github.com/BepInEx/BepInEx/issues/287"
     },
     {
-      "url": "https://deepwiki.com/BepInEx/BepInEx/3.2-chainloader-and-bootstrap",
-      "title": "Chainloader and Bootstrap | BepInEx / BepInEx | DeepWiki"
+      "title": "Class Chainloader | BepInEx Docs",
+      "url": "https://docs.bepinex.dev/api/BepInEx.Bootstrap.Chainloader.html"
+    },
+    {
+      "title": "BepInExPack | Thunderstore - The Risk of Rain 2 Mod Database",
+      "url": "https://thunderstore.io/c/riskofrain2/p/bbepis/BepInExPack/v/5.3.1/"
+    },
+    {
+      "title": "Chainloader and Bootstrap | BepInEx / BepInEx | DeepWiki",
+      "url": "https://deepwiki.com/BepInEx/BepInEx/3.2-chainloader-and-bootstrap"
+    },
+    {
+      "title": "Metaplugins and general API for interacting with BepInEx ... - HackMD",
+      "url": "https://hackmd.io/65arJ190RPODoJirAXOS4w"
     }
   ],
   "melongloader vs bepinex comparison": [
     {
-      "url": "https://www.unknowncheats.me/forum/general-programming-and-reversing/475928-bepinex-vs-melonloader.html",
-      "title": "[Question] BepInEx vs MelonLoader | Forum"
+      "title": "[Question] BepInEx vs MelonLoader | Forum",
+      "url": "https://www.unknowncheats.me/forum/general-programming-and-reversing/475928-bepinex-vs-melonloader.html"
     },
     {
-      "url": "https://bepis.io/unity.html",
-      "title": "Comparison of Unity plugin framework implementations"
+      "title": "BepInEx vs BepInEx .MelonLoader.Loader - compare ... | LibHunt",
+      "url": "https://www.libhunt.com/compare-BepInEx-vs-BepInEx.MelonLoader.Loader"
+    },
+    {
+      "title": "Comparison of Unity plugin framework implementations",
+      "url": "https://bepis.io/unity.html"
+    },
+    {
+      "title": "Bepinex .subnautica Alternatives",
+      "url": "https://awesomeopensource.com/project/toebeann/BepInEx.Subnautica"
+    },
+    {
+      "title": "Releases \u00b7 BepInEx / BepInEx",
+      "url": "https://github.com/BepInEx/BepInEx/releases"
     }
   ],
   "smapi mod framework guidelines": [
     {
-      "url": "https://stardewvalleywiki.com/Modding:Modder_Guide/Get_Started",
-      "title": "Modding :Modder Guide /Get Started - Stardew Valley Wiki"
+      "title": "Modding :IDE reference - Stardew Valley Wiki",
+      "url": "https://stardewvalleywiki.com/Modding:IDE_reference"
     },
     {
-      "url": "https://gist.github.com/purrplingcat/cf2ead2e35cf2520e29e5f737bb740c2",
-      "title": "SMAPI Framework mod list \u00b7 GitHub"
+      "title": "Modding :Modder Guide /Get Started - Stardew Valley Wiki",
+      "url": "https://stardewvalleywiki.com/Modding:Modder_Guide/Get_Started"
+    },
+    {
+      "title": "SMAPI - Stardew Modding API at Stardew Valley Nexus - Mods and...",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/2400"
+    },
+    {
+      "title": "SMAPI Framework mod list \u00b7 GitHub",
+      "url": "https://gist.github.com/purrplingcat/cf2ead2e35cf2520e29e5f737bb740c2"
+    },
+    {
+      "title": "Mod compatibility - SMAPI .io",
+      "url": "https://smapi.io/mods"
     }
   ],
   "fabric vs forge mod loader differences": [
     {
-      "url": "https://ggservers.com/blog/fabric-vs-forge-minecraft/",
-      "title": "Fabric vs Forge for Minecraft: Why Fabric is the... | GGServers Blog"
+      "title": "Fabric vs Forge for Minecraft: Why Fabric is the... | GGServers Blog",
+      "url": "https://ggservers.com/blog/fabric-vs-forge-minecraft/"
     },
     {
-      "url": "https://www.hostinger.com/tutorials/fabric-vs-forge",
-      "title": "hostinger.com/tutorials/ fabric - vs - forge"
+      "title": "hostinger.com/tutorials/ fabric - vs - forge",
+      "url": "https://www.hostinger.com/tutorials/fabric-vs-forge"
     },
     {
-      "url": "https://whatifgaming.com/minecraft-fabric-vs-forge-whats-the-difference/",
-      "title": "Minecraft Fabric vs Forge - What\u2019s the Difference ? - WhatIfGaming"
+      "title": "Minecraft Fabric vs Forge - What\u2019s the Difference ? - WhatIfGaming",
+      "url": "https://whatifgaming.com/minecraft-fabric-vs-forge-whats-the-difference/"
     },
     {
-      "url": "https://madelinemiller.dev/blog/forge-vs-fabric/",
-      "title": "Forge , NeoForge, and Fabric . Which should you use? | Minecraft"
+      "title": "Forge , NeoForge, and Fabric . Which should you use? | Minecraft",
+      "url": "https://madelinemiller.dev/blog/forge-vs-fabric/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=E55dDJb8GN4",
-      "title": "Fabric vs Forge vs NeoForge - Fabric Modding Minecraft... - YouTube"
+      "title": "Fabric vs Forge vs NeoForge - Fabric Modding Minecraft... - YouTube",
+      "url": "https://www.youtube.com/watch?v=E55dDJb8GN4"
     }
   ],
   "tmodloader api docs": [
     {
-      "url": "https://docs.tmodloader.net/",
-      "title": "tModLoader : Class List"
+      "title": "tModLoader : Class List",
+      "url": "https://docs.tmodloader.net/"
     },
     {
-      "url": "https://tmodloader.org/docs/api-reference.html",
-      "title": "tModLoader API Reference - Complete C# API Documentation"
+      "title": "tModLoader API Reference - Complete C# API Documentation",
+      "url": "https://tmodloader.org/docs/api-reference.html"
     },
     {
-      "url": "https://tmodloader.app/docs/modtile.html",
-      "title": "ModTile - tModLoader API Reference"
+      "title": "ModTile - tModLoader API Reference",
+      "url": "https://tmodloader.app/docs/modtile.html"
+    },
+    {
+      "title": "GitHub - tModLoader / tModLoader : A mod to make and play Terraria...",
+      "url": "https://github.com/tModLoader/tModLoader"
+    },
+    {
+      "title": "tModLoader - Tutorial: [1] Getting started with tModLoader",
+      "url": "https://forums.terraria.org/index.php?threads/tutorial-1-getting-started-with-tmodloader.44817/"
     }
   ],
   "unity doorstop il2cpp modding": [
     {
-      "url": "https://github.com/NeighTools/UnityDoorstop",
-      "title": "GitHub - NeighTools/UnityDoorstop: Doorstop -- run C# before Unity does!"
+      "title": "GitHub - NeighTools/UnityDoorstop: Doorstop -- run C# before Unity does!",
+      "url": "https://github.com/NeighTools/UnityDoorstop"
     },
     {
-      "url": "https://jf.id.au/blog/modding-unity-il2cpp-games",
-      "title": "Modding Unity IL2CPP Games - jakzo's blog"
+      "title": "Modding Unity IL2CPP Games - jakzo's blog",
+      "url": "https://jf.id.au/blog/modding-unity-il2cpp-games"
     },
     {
-      "url": "https://obenseuermodding.github.io/Information/www/Guides/Configuring-Doorstop.html",
-      "title": "Configuring Doorstop | Obenseuer Modding"
+      "title": "Configuring Doorstop | Obenseuer Modding",
+      "url": "https://obenseuermodding.github.io/Information/www/Guides/Configuring-Doorstop.html"
     },
     {
-      "url": "https://github.com/NeighTools/UnityDoorstop/blob/master/README.md",
-      "title": "UnityDoorstop/README.md at master - GitHub"
+      "title": "UnityDoorstop/README.md at master - GitHub",
+      "url": "https://github.com/NeighTools/UnityDoorstop/blob/master/README.md"
     },
     {
-      "url": "https://github.com/topics/il2cpp-modding",
-      "title": "il2cpp-modding \u00b7 GitHub Topics \u00b7 GitHub"
+      "title": "il2cpp-modding \u00b7 GitHub Topics \u00b7 GitHub",
+      "url": "https://github.com/topics/il2cpp-modding"
     }
   ],
-  "il2cpp inspector alternatives": [],
+  "il2cpp inspector alternatives": [
+    {
+      "title": "Il 2 CppInspector Tutorial: How to create, use and debug IL 2 CPP DLL...",
+      "url": "https://katyscode.wordpress.com/2020/11/27/il2cppinspector-tutorial-how-to-create-use-and-debug-il2cpp-dll-injection-projects/"
+    },
+    {
+      "title": "Odin Inspector and Serializer | Utilities Tools | Unity Asset Store",
+      "url": "https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041"
+    },
+    {
+      "title": "Top 10 Inspector Alternatives & Competitors in 2025 | G2",
+      "url": "https://www.g2.com/products/inspector/competitors/alternatives"
+    },
+    {
+      "title": "GitHub - djkaty/ Il 2 CppInspector: Powerful automated tool for reverse...",
+      "url": "https://github.com/djkaty/Il2CppInspector"
+    },
+    {
+      "title": "[Tutorial] How to hack any Il 2 Cpp unity game easily | Forum",
+      "url": "https://www.unknowncheats.me/forum/unity/477927-hack-il2cpp-unity-game-easily.html"
+    }
+  ],
   "dnspy vs ilspy which decompiler": [
     {
-      "url": "https://www.hanselman.com/blog/whats-better-than-ildasm-ilspy-and-dnspy-are-tools-to-decompile-net-code",
-      "title": "What's better than ILDasm? ILSpy and dnSpy are tools to Decompile .NET ..."
+      "title": "What's better than ILDasm? ILSpy and dnSpy are tools to Decompile .NET ...",
+      "url": "https://www.hanselman.com/blog/whats-better-than-ildasm-ilspy-and-dnspy-are-tools-to-decompile-net-code"
     },
     {
-      "url": "https://blog.ndepend.com/in-the-jungle-of-net-decompilers/",
-      "title": ".NET - 7 Decompiler Compared (2025) - NDepend Blog"
+      "title": ".NET - 7 Decompiler Compared (2025) - NDepend Blog",
+      "url": "https://blog.ndepend.com/in-the-jungle-of-net-decompilers/"
     },
     {
-      "url": "https://www.bytehide.com/blog/best-dotnet-decompilers",
-      "title": "The Best .NET Decompiler Comparison Guide (Free and Paid)"
+      "title": "The Best .NET Decompiler Comparison Guide (Free and Paid)",
+      "url": "https://www.bytehide.com/blog/best-dotnet-decompilers"
+    },
+    {
+      "title": "GitHub - icsharpcode/ILSpy: .NET Decompiler with support for PDB ...",
+      "url": "https://github.com/icsharpcode/ILSpy"
+    },
+    {
+      "title": "Decompile .NET DLLs/EXEs using ILSpy : r/ReverseEngineering",
+      "url": "https://www.reddit.com/r/ReverseEngineering/comments/105ruas/decompile_net_dllsexes_using_ilspy/"
     }
   ],
   "ghidra unity il2cpp workflow": [
     {
-      "url": "https://gist.github.com/toasterparty/57a50eddc2203fc6ca24cf96789f5dd2",
-      "title": "unity - il 2 cpp -reverse-engineering.md \u00b7 GitHub"
+      "title": "unity - il 2 cpp -reverse-engineering.md \u00b7 GitHub",
+      "url": "https://gist.github.com/toasterparty/57a50eddc2203fc6ca24cf96789f5dd2"
     },
     {
-      "url": "https://noob3xploiter.medium.com/hacking-and-reverse-engineering-il2cpp-games-with-ghidra-5cee894024f2",
-      "title": "Hacking and reverse engineering il 2 cpp games with ghidra | Medium"
+      "title": "Hacking and reverse engineering il 2 cpp games with ghidra | Medium",
+      "url": "https://noob3xploiter.medium.com/hacking-and-reverse-engineering-il2cpp-games-with-ghidra-5cee894024f2"
     },
     {
-      "url": "https://jf.id.au/blog/modding-unity-il2cpp-games",
-      "title": "Modding Unity IL 2 CPP Games | jakzo's blog"
+      "title": "Modding Unity IL 2 CPP Games | jakzo's blog",
+      "url": "https://jf.id.au/blog/modding-unity-il2cpp-games"
+    },
+    {
+      "title": "Reverse engineering a Unity -based Android game | Almost Secure",
+      "url": "https://palant.info/2021/02/18/reverse-engineering-a-unity-based-android-game/"
+    },
+    {
+      "title": "Download Ghidra 11.4.2 \u2013 Free Reverse Engineering Platform",
+      "url": "https://reboottools.com/programs/ghidra/"
     }
   ],
   "ida free ghidra export map file": [
     {
-      "url": "https://github.com/antoniovazquezblanco/GhidraSystemmap",
-      "title": "GitHub - antoniovazquezblanco/GhidraSystemmap: Export Ghidra ..."
+      "title": "Ghidra : Bytes View (to patch binary and export to a working PE file )",
+      "url": "https://www.youtube.com/watch?v=utUqAbfURko"
+    },
+    {
+      "title": "GitHub - antoniovazquezblanco/GhidraSystemmap: Export Ghidra ...",
+      "url": "https://github.com/antoniovazquezblanco/GhidraSystemmap"
+    },
+    {
+      "title": "Download Ghidra 11.4.2 \u2013 Free Reverse Engineering Platform",
+      "url": "https://reboottools.com/programs/ghidra/"
+    },
+    {
+      "title": "How to export a working elf binary from Ghidra ? - Reverse...",
+      "url": "https://reverseengineering.stackexchange.com/questions/20877/how-to-export-a-working-elf-binary-from-ghidra"
+    },
+    {
+      "title": "bindiff Bindiff unable to process statically linked binaries exported with...",
+      "url": "https://gitmemories.com/google/bindiff/issues/34"
     }
   ],
   "x64dbg attach to game without pausing tips": [
     {
-      "url": "https://github.com/x64dbg/x64dbg/issues/2840",
-      "title": "Keeps going to \"paused\" - how to make a process keep running without ..."
+      "title": "Keeps going to \"paused\" - how to make a process keep running without ...",
+      "url": "https://github.com/x64dbg/x64dbg/issues/2840"
     },
     {
-      "url": "https://reverseengineering.stackexchange.com/questions/33337/attach-with-x32dbg-behaves-strange",
-      "title": "x64dbg - Attach with X32Dbg behaves strange - Reverse Engineering Stack ..."
+      "title": "x64dbg - Attach with X32Dbg behaves strange - Reverse Engineering Stack ...",
+      "url": "https://reverseengineering.stackexchange.com/questions/33337/attach-with-x32dbg-behaves-strange"
     },
     {
-      "url": "https://help.x64dbg.com/en/latest/commands/debug-control/AttachDebugger.html",
-      "title": "AttachDebugger/attach \u2014 x64dbg documentation"
+      "title": "AttachDebugger/attach \u2014 x64dbg documentation",
+      "url": "https://help.x64dbg.com/en/latest/commands/debug-control/AttachDebugger.html"
     },
     {
-      "url": "https://www.unknowncheats.me/forum/general-programming-and-reversing/684485-attach-x64dbg-exception.html",
-      "title": "[Help] Attach x64dbg and exception - UnknownCheats"
+      "title": "[Help] Attach x64dbg and exception - UnknownCheats",
+      "url": "https://www.unknowncheats.me/forum/general-programming-and-reversing/684485-attach-x64dbg-exception.html"
+    },
+    {
+      "title": "How do I debug software that detaches as soon as I attach the ... - Reddit",
+      "url": "https://www.reddit.com/r/AskReverseEngineering/comments/11q1hty/how_do_i_debug_software_that_detaches_as_soon_as/"
     }
   ],
   "pattern scan aob c# library": [
     {
-      "url": "https://www.nuget.org/packages/AOBScan.CheatEngine.Memory/",
-      "title": "NuGet Gallery | AOBScan.CheatEngine.Memory 1.0.3"
+      "title": "GitHub - aghontpi/MemoryPatternScanner: AOB Scanner (Array of bytes ...",
+      "url": "https://github.com/aghontpi/MemoryPatternScanner"
     },
     {
-      "url": "https://github.com/GH-Rake/PatternScan",
-      "title": "PatternScan library for internal and external pattern scan"
+      "title": "NuGet Gallery | AOBScan.CheatEngine.Memory 1.0.3",
+      "url": "https://www.nuget.org/packages/AOBScan.CheatEngine.Memory/"
+    },
+    {
+      "title": "GitHub - uberhalit/PatternScanBench: A small and simple benchmark for ...",
+      "url": "https://github.com/uberhalit/PatternScanBench"
+    },
+    {
+      "title": "PatternScan library for internal and external pattern scan",
+      "url": "https://github.com/GH-Rake/PatternScan"
+    },
+    {
+      "title": "AOBscan is a library for multi-threaded AOB memory scanning",
+      "url": "https://github.com/sonodima/aobscan"
     }
   ],
   "minhook example x64 detour": [
     {
-      "url": "https://github.com/TsudaKageyu/minhook",
-      "title": "GitHub - TsudaKageyu/minhook: The Minimalistic x86/x64 API Hooking ..."
+      "title": "GitHub - TsudaKageyu/minhook: The Minimalistic x86/x64 API Hooking ...",
+      "url": "https://github.com/TsudaKageyu/minhook"
     },
     {
-      "url": "https://kylehalladay.com/blog/2020/11/13/Hooking-By-Example.html",
-      "title": "X64 Function Hooking by Example - Kyle Halladay"
+      "title": "X64 Function Hooking by Example - Kyle Halladay",
+      "url": "https://kylehalladay.com/blog/2020/11/13/Hooking-By-Example.html"
     },
     {
-      "url": "https://m.youtube.com/watch?v=qEbPCIFtyOs",
-      "title": "How to hook functions (MinHook, x86 and x64) - YouTube"
+      "title": "How to hook functions (MinHook, x86 and x64) - YouTube",
+      "url": "https://m.youtube.com/watch?v=qEbPCIFtyOs"
     },
     {
-      "url": "https://www.scribd.com/document/787868282/MinHook-The-Minimalistic-x86-x64-API-Hooking-Library-CodeProject",
-      "title": "MinHook - The Minimalistic x86 - x64 API Hooking Library - CodeProject"
+      "title": "Function Hooking: Trampolines & Detours (2/7) \u00ab RCE Endeavors",
+      "url": "https://www.codereversing.com/archives/593"
+    },
+    {
+      "title": "MinHook - The Minimalistic x86 - x64 API Hooking Library - CodeProject",
+      "url": "https://www.scribd.com/document/787868282/MinHook-The-Minimalistic-x86-x64-API-Hooking-Library-CodeProject"
     }
   ],
   "polyhook2 documentation": [
     {
-      "url": "https://stevemk14ebr.github.io/PolyHook_2_0/",
-      "title": "PolyHook2 Documentation | PolyHook_2_0"
+      "title": "PolyHook2 Documentation | PolyHook_2_0",
+      "url": "https://stevemk14ebr.github.io/PolyHook_2_0/"
     },
     {
-      "url": "https://github.com/stevemk14ebr/PolyHook_2_0/blob/master/docs/index.md",
-      "title": "PolyHook2 Documentation"
+      "title": "PolyHook2 Documentation",
+      "url": "https://github.com/stevemk14ebr/PolyHook_2_0/blob/master/docs/index.md"
+    },
+    {
+      "title": "polyhook2 | vcpkg.link: Vcpkg Ports and Packages Explorer",
+      "url": "https://vcpkg.link/ports/polyhook2"
+    },
+    {
+      "title": "PolyHook2 \u00b7 Topics \u00b7 GitLab",
+      "url": "https://gitlab.com/explore/projects/topics/PolyHook2"
+    },
+    {
+      "title": "polyhook2 v2025-06-21 - Vcpkg Ports",
+      "url": "https://vcpkg.roundtrip.dev/ports/polyhook2"
     }
   ],
   "signature scanning stable across updates": [
     {
-      "url": "https://learn.microsoft.com/en-us/defender-endpoint/manage-protection-updates-microsoft-defender-antivirus",
-      "title": "Manage how and where Microsoft Defender Antivirus receives updates ..."
+      "title": "How to manually Update Virus Definition Signature via RepCLI",
+      "url": "https://knowledge.broadcom.com/external/article/291481/how-to-manually-update-virus-definition.html"
     },
     {
-      "url": "https://sc1.checkpoint.com/documents/R80.40/SmartEndpoint_OLH/EN/Topics-EPSG/SignaturesUpdate.html",
-      "title": "Malware Signature Updates - Check Point Software"
+      "title": "Manage how and where Microsoft Defender Antivirus receives updates ...",
+      "url": "https://learn.microsoft.com/en-us/defender-endpoint/manage-protection-updates-microsoft-defender-antivirus"
     },
     {
-      "url": "https://4sysops.com/archives/microsoft-defender-control-updates-for-malware-signatures-using-group-policy-or-powershell/",
-      "title": "Microsoft Defender: Control updates for malware signatures ... - 4sysops"
+      "title": "Malware Signature Updates - Check Point Software",
+      "url": "https://sc1.checkpoint.com/documents/R80.40/SmartEndpoint_OLH/EN/Topics-EPSG/SignaturesUpdate.html"
+    },
+    {
+      "title": "Signature Update Group Policies Ignored : r/DefenderATP - Reddit",
+      "url": "https://www.reddit.com/r/DefenderATP/comments/190esz9/signature_update_group_policies_ignored/"
+    },
+    {
+      "title": "Microsoft Defender: Control updates for malware signatures ... - 4sysops",
+      "url": "https://4sysops.com/archives/microsoft-defender-control-updates-for-malware-signatures-using-group-policy-or-powershell/"
     }
   ],
   "vtables hook safety guide": [
     {
-      "url": "https://www.tiktok.com/@guided_hacking/video/7559324414521707806",
-      "title": "Understanding vTables and VMT Hooking in C++ | TikTok"
+      "title": "Understanding vTables and VMT Hooking in C++ | TikTok",
+      "url": "https://www.tiktok.com/@guided_hacking/video/7559324414521707806"
     },
     {
-      "url": "https://www.unknowncheats.me/forum/c-and-c-/137268-vtables-hooking.html",
-      "title": "[Information] VTables and Hooking them | Forum"
+      "title": "[Information] VTables and Hooking them | Forum",
+      "url": "https://www.unknowncheats.me/forum/c-and-c-/137268-vtables-hooking.html"
     },
     {
-      "url": "https://plugify.net/plugins/polyhook/guide/",
-      "title": "Guide - plugify"
+      "title": "Guide - plugify",
+      "url": "https://plugify.net/plugins/polyhook/guide/"
     },
     {
-      "url": "https://github.com/DucaRii/vtable_hook",
-      "title": "GitHub - DucaRii/ vtable _ hook : easy to use vtable hook with RTTI..."
+      "title": "GitHub - DucaRii/ vtable _ hook : easy to use vtable hook with RTTI...",
+      "url": "https://github.com/DucaRii/vtable_hook"
     },
     {
-      "url": "https://stackoverflow.com/questions/67491465/c-hooking-vtables-and-their-virtual-functions",
-      "title": "reverse engineering - c++ hooking vtables and their... - Stack Overflow"
+      "title": "reverse engineering - c++ hooking vtables and their... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/67491465/c-hooking-vtables-and-their-virtual-functions"
     }
   ],
   "clean room reverse engineering guidelines games": [
     {
-      "url": "https://law.stackexchange.com/questions/74954/are-my-assumptions-about-clean-room-reverse-engineering-and-copyright-of-compute",
-      "title": "dmca - Are my assumptions about clean - room reverse engineering ..."
+      "title": "dmca - Are my assumptions about clean - room reverse engineering ...",
+      "url": "https://law.stackexchange.com/questions/74954/are-my-assumptions-about-clean-room-reverse-engineering-and-copyright-of-compute"
     },
     {
-      "url": "https://www.retroreversing.com/clean-room-reversing",
-      "title": "Legality of Reverse Engineering & Clean Room Reversing - Retro..."
+      "title": "Legality of Reverse Engineering & Clean Room Reversing - Retro...",
+      "url": "https://www.retroreversing.com/clean-room-reversing"
     },
     {
-      "url": "https://asahilinux.org/copyright/",
-      "title": "Copyright & Reverse Engineering - Asahi Linux"
+      "title": "Github reverses takedown of reverse - engineered GTA source code",
+      "url": "https://arstechnica.com/civis/threads/github-reverses-takedown-of-reverse-engineered-gta-source-code.1476694/page-2"
+    },
+    {
+      "title": "Reverse Engineering An LCD Display | Hackaday",
+      "url": "https://hackaday.com/2013/12/14/reverse-engineering-an-lcd-display/"
+    },
+    {
+      "title": "Copyright & Reverse Engineering - Asahi Linux",
+      "url": "https://asahilinux.org/copyright/"
     }
   ],
   "dmca 1201 exemption video game preservation": [
     {
-      "url": "https://library.osu.edu/site/copyright/2019/03/20/2018-dmca-section-1201-exemptions-announced/",
-      "title": "2018 DMCA Section 1201 Exemptions Announced | Copyright Corner"
+      "title": "2018 DMCA Section 1201 Exemptions Announced | Copyright Corner",
+      "url": "https://library.osu.edu/site/copyright/2019/03/20/2018-dmca-section-1201-exemptions-announced/"
     },
     {
-      "url": "https://www.eff.org/pt-br/deeplinks/2015/11/new-dmca-ss1201-exemption-video-games-closer-look",
-      "title": "The New DMCA \u00a7 1201 Exemption for Video Games : A Closer Look"
+      "title": "The New DMCA \u00a7 1201 Exemption for Video Games : A Closer Look",
+      "url": "https://www.eff.org/pt-br/deeplinks/2015/11/new-dmca-ss1201-exemption-video-games-closer-look"
     },
     {
-      "url": "https://www.copyright.gov/1201/2024/2024_NTIA_DMCA_Letter.pdf",
-      "title": "Ninth Triennial Section 1201 Rulemaking"
+      "title": "Ninth Triennial Section 1201 Rulemaking",
+      "url": "https://www.copyright.gov/1201/2024/2024_NTIA_DMCA_Letter.pdf"
     },
     {
-      "url": "https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access",
-      "title": "Video game preservationists have lost a legal fight to... | The Verge"
+      "title": "The DMCA Section 1201 : A Poison Pill | NxEmu - Switch Emulator",
+      "url": "https://www.nxemu.com/dmca-section-1201"
+    },
+    {
+      "title": "Video game preservationists have lost a legal fight to... | The Verge",
+      "url": "https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access"
     }
   ],
   "mod license mit vs gpl implications": [
     {
-      "url": "https://en.wikipedia.org/wiki/MIT_License",
-      "title": "MIT License - Wikipedia"
+      "title": "MIT License - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MIT_License"
     },
     {
-      "url": "https://github.com/sytac/gulp-commonjs-tasks/issues/6",
-      "title": "GPL versus MIT license \u00b7 Issue #6 \u00b7 sytac/gulp-commonjs-tasks"
+      "title": "GPL versus MIT license \u00b7 Issue #6 \u00b7 sytac/gulp-commonjs-tasks",
+      "url": "https://github.com/sytac/gulp-commonjs-tasks/issues/6"
     },
     {
-      "url": "https://tajdini.net/blog/notes/comparative-analysis-of-open-source-licenses-and-their-impact-on-proprietary-software-development/",
-      "title": "Comparative Analysis of Open-Source Licenses and Their Impact on..."
+      "title": "Comparative Analysis of Open-Source Licenses and Their Impact on...",
+      "url": "https://tajdini.net/blog/notes/comparative-analysis-of-open-source-licenses-and-their-impact-on-proprietary-software-development/"
     },
     {
-      "url": "https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/",
-      "title": "How open source licenses work and how to add them to your projects"
+      "title": "MIT License vs . Creative Commons for images and other assets",
+      "url": "https://softwareengineering.stackexchange.com/questions/318777/mit-license-vs-creative-commons-for-images-and-other-assets"
+    },
+    {
+      "title": "How open source licenses work and how to add them to your projects",
+      "url": "https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/"
     }
   ],
   "using cc by nc assets in mods legal": [
     {
-      "url": "https://en.wikipedia.org/wiki/Creative_Commons_license",
-      "title": "Creative Commons license - Wikipedia"
+      "title": "Creative Commons license - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Creative_Commons_license"
     },
     {
-      "url": "https://devforum.roblox.com/t/using-cc-by-nc-meshes-in-roblox-games/3000720",
-      "title": "Using CC BY - NC meshes in roblox games - Art Design... | Roblox"
+      "title": "Using CC BY - NC meshes in roblox games - Art Design... | Roblox",
+      "url": "https://devforum.roblox.com/t/using-cc-by-nc-meshes-in-roblox-games/3000720"
     },
     {
-      "url": "https://plangaminghacks.com/modding-legalities-explained-what-you-can-cant-do/",
-      "title": "Modding Legalities Explained: What You Can... - plangaminghacks.com"
+      "title": "Modding Assets .net | Xblah Modding Tool",
+      "url": "https://modding-assets.net/items/source/tools/modding/xblah-modding-tool"
+    },
+    {
+      "title": "Cleanzor Mountains Hills and Waves \u2013 CartographyAssets",
+      "url": "https://cartographyassets.com/assets/4910/cleanzor-mountains-hills-and-waves/"
+    },
+    {
+      "title": "Modding Legalities Explained: What You Can... - plangaminghacks.com",
+      "url": "https://plangaminghacks.com/modding-legalities-explained-what-you-can-cant-do/"
     }
   ],
   "open source license for game mods best practice": [
     {
-      "url": "https://choosealicense.com/",
-      "title": "Choose an open source license | Choose a License"
+      "title": "Open - source license - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Open-source_license"
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Open-source_license",
-      "title": "Open - source license - Wikipedia"
+      "title": "Choose an open source license | Choose a License",
+      "url": "https://choosealicense.com/"
     },
     {
-      "url": "https://dev.to/polliog/open-source-licenses-explained-the-good-the-bad-and-the-wait-can-i-actually-use-this-2nih",
-      "title": "Open Source Licenses Explained: The Good , The... - DEV Community"
+      "title": "Open Source Licenses Explained: The Good , The... - DEV Community",
+      "url": "https://dev.to/polliog/open-source-licenses-explained-the-good-the-bad-and-the-wait-can-i-actually-use-this-2nih"
+    },
+    {
+      "title": "The 3-Clause BSD License \u2013 Open Source Initiative",
+      "url": "https://opensource.org/license/bsd-3-clause"
+    },
+    {
+      "title": "Guide to Modding Your Bannerlord. For game version 1.3.x + War Sails.",
+      "url": "https://www.nexusmods.com/mountandblade2bannerlord/mods/9230"
     }
   ],
-  "crediting upstream assets template": [],
+  "crediting upstream assets template": [
+    {
+      "title": "Framing Capital Asset Development Projects in O&G: Upstream vs....",
+      "url": "https://www.linkedin.com/pulse/framing-capital-asset-development-projects-og-vs-wilson-guilherme-yr9re/"
+    },
+    {
+      "title": "Aethon to acquire upstream assets from Tellurian for $260m",
+      "url": "https://www.offshore-technology.com/news/aethon-upstream-tellurian-260m/"
+    },
+    {
+      "title": "Eni and Petronas to Merge Upstream Assets in Southeast... - oftrb.com",
+      "url": "https://www.oftrb.com/archives/33617"
+    },
+    {
+      "title": "Tellurian sells upstream assets and signs LNG purchase agreement...",
+      "url": "https://inspenet.com/en/noticias/tellurian-sells-assets-upstream/"
+    },
+    {
+      "title": "Harbour Energy Acquires Wintershall Dea\u2019s Upstream Assets for...",
+      "url": "https://bsmac.org/2024/06/06/harbour-energy-acquires-wintershall-deas-upstream-assets-for-9-9-billion-expands-global-reach-in-major-strategic-move/"
+    }
+  ],
   "nexus mods api upload release": [
     {
-      "url": "https://github.com/drbirbdev/UnofficialNexusAPI",
-      "title": "GitHub - drbirbdev/UnofficialNexusAPI: Uploads mods to NexusMods"
+      "title": "GitHub - drbirbdev/UnofficialNexusAPI: Uploads mods to NexusMods",
+      "url": "https://github.com/drbirbdev/UnofficialNexusAPI"
     },
     {
-      "url": "https://www.nexusmods.com/news/13921",
-      "title": "Nexus Mods API released at Nexus mods and community"
+      "title": "Nexus Mods API released at Nexus mods and community",
+      "url": "https://www.nexusmods.com/news/13921"
     },
     {
-      "url": "https://www.nuget.org/packages/Digitalroot.ModUploader",
-      "title": "NuGet Gallery | Uploads mods to NexusMods or Thunderstore"
+      "title": "NuGet Gallery | Uploads mods to NexusMods or Thunderstore",
+      "url": "https://www.nuget.org/packages/Digitalroot.ModUploader"
     },
     {
-      "url": "https://pkg.go.dev/github.com/ernierasta/windpeak/nexusapi",
-      "title": "Package nexusapi implements NexusMods api in go."
+      "title": "Package nexusapi implements NexusMods api in go.",
+      "url": "https://pkg.go.dev/github.com/ernierasta/windpeak/nexusapi"
+    },
+    {
+      "title": "nexusmods / nexus - api - npm Package Health Analysis | Snyk",
+      "url": "https://snyk.io/advisor/npm-package/@nexusmods/nexus-api"
     }
   ],
   "thunderstore publish cli how to": [
     {
-      "url": "https://github.com/Thunderstore-io",
-      "title": "Thunderstore \u00b7 GitHub"
+      "title": "How To FIX \"Failed To Start Modded\" & \"Game Directory... - Yo...",
+      "url": "https://www.youtube.com/watch?v=K-75nvVcASs"
+    },
+    {
+      "title": "Thunderstore \u00b7 GitHub",
+      "url": "https://github.com/Thunderstore-io"
+    },
+    {
+      "title": "Thunderstore Linux: A Comprehensive Guide \u2014 linuxvox.com",
+      "url": "https://linuxvox.com/blog/thunderstore-linux/"
+    },
+    {
+      "title": "Valheim: How to use Thunderstore Mod Manager for Modding...",
+      "url": "https://help.dathost.net/article/97-valheim-how-to-use-thunderstore-mod-manager-for-modding"
+    },
+    {
+      "title": "Thunderstore Mod Manager - Desktop App on Overwolf",
+      "url": "https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager"
     }
   ],
   "modrinth publish from github actions": [
     {
-      "url": "https://wiki.fabricmc.net/tutorial:publishing_mods_using_github_actions",
-      "title": "Publishing mods on CurseForge, Modrinth & GitHub with..."
+      "title": "Publishing mods on CurseForge, Modrinth & GitHub with...",
+      "url": "https://wiki.fabricmc.net/tutorial:publishing_mods_using_github_actions"
     },
     {
-      "url": "https://github.com/marketplace/actions/modrinth-publish",
-      "title": "Modrinth Publish \u00b7 Actions \u00b7 GitHub Marketplace \u00b7 GitHub"
+      "title": "Modrinth Publish \u00b7 Actions \u00b7 GitHub Marketplace \u00b7 GitHub",
+      "url": "https://github.com/marketplace/actions/modrinth-publish"
+    },
+    {
+      "title": "cloudnode-pro/ modrinth - publish - Giters",
+      "url": "https://giters.com/cloudnode-pro/modrinth-publish"
+    },
+    {
+      "title": "Modrinth",
+      "url": "https://modrinth.com/"
+    },
+    {
+      "title": "Gradle - Plugin: net.galacticraft. publish . modrinth",
+      "url": "https://plugins.gradle.org/plugin/net.galacticraft.publish.modrinth"
     }
   ],
   "steam workshop eula mods": [],
   "semantic versioning for mods recommendations": [
     {
-      "url": "https://fractalsoftworks.com/forum/index.php?topic=19277.0",
-      "title": "[TUTORIAL] Semantic Versioning for mods | Forum"
+      "title": "[TUTORIAL] Semantic Versioning for mods | Forum",
+      "url": "https://fractalsoftworks.com/forum/index.php?topic=19277.0"
     },
     {
-      "url": "https://docs.neoforged.net/docs/1.20.4/gettingstarted/versioning/",
-      "title": "Versioning | NeoForged docs"
+      "title": "Versioning | NeoForged docs",
+      "url": "https://docs.neoforged.net/docs/1.20.4/gettingstarted/versioning/"
+    },
+    {
+      "title": "Semantic Version Tags in go. mod File | by Shivam Rathore | Medium",
+      "url": "https://medium.com/swlh/semantic-version-tags-in-go-mod-file-f6ad903a972d"
+    },
+    {
+      "title": "About semantic versioning | npm Docs",
+      "url": "https://docs.npmjs.com/about-semantic-versioning/"
+    },
+    {
+      "title": "Semantic Versioning vs. Romantic Versioning | DaFoster",
+      "url": "https://dafoster.net/articles/2015/03/14/semantic-versioning-vs-romantic-versioning/"
     }
   ],
   "mod manifest schema example json": [
     {
-      "url": "https://owml.outerwildsmods.com/schemas/manifest_schema.html",
-      "title": "Manifest Schema - Outer Wilds Mod Loader"
+      "title": "GitHub - alice-magic/alice-magic-launcher-schemas: JSON schemas...",
+      "url": "https://github.com/alice-magic/alice-magic-launcher-schemas"
     },
     {
-      "url": "https://gitlab.com/fvtt-modules-lab/manifest-schema",
-      "title": "Sunspots FVTT Modules Lab / manifest - schema \u00b7 GitLab"
+      "title": "Manifest Schema - Outer Wilds Mod Loader",
+      "url": "https://owml.outerwildsmods.com/schemas/manifest_schema.html"
     },
     {
-      "url": "https://www.neosmodloader.com/schema.html",
-      "title": "Manifest Schema | Neos Modding Group"
+      "title": "Sunspots FVTT Modules Lab / manifest - schema \u00b7 GitLab",
+      "url": "https://gitlab.com/fvtt-modules-lab/manifest-schema"
     },
     {
-      "url": "https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Manifest",
-      "title": "Modding :Modder Guide/APIs/ Manifest - Stardew Valley Wiki"
+      "title": "Manifest Schema | Neos Modding Group",
+      "url": "https://www.neosmodloader.com/schema.html"
+    },
+    {
+      "title": "Modding :Modder Guide/APIs/ Manifest - Stardew Valley Wiki",
+      "url": "https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Manifest"
     }
   ],
   "dependency graph solver for mods": [
     {
-      "url": "https://acrogenesis.com/or-tools/documentation/reference_manual/or-tools/src/constraint_solver/dependency__graph_8cc-source.html",
-      "title": "or-tools/src/constraint_ solver / dependency _ graph .cc Source File - Doxy"
+      "title": "gpp- solver \u2014 Rust implementation // Lib.rs",
+      "url": "https://lib.rs/crates/gpp-solver"
+    },
+    {
+      "title": "Dependency Management in Go: Modules... - DEV Community",
+      "url": "https://dev.to/syawqy/dependency-management-in-go-modules-vendoring-and-the-end-of-nuget-4oa7"
+    },
+    {
+      "title": "GitHub - tawesoft/golib: A monorepo for small Go modules maintained...",
+      "url": "https://github.com/tawesoft/golib"
+    },
+    {
+      "title": "or-tools/src/constraint_ solver / dependency _ graph .cc Source File - Doxy",
+      "url": "https://acrogenesis.com/or-tools/documentation/reference_manual/or-tools/src/constraint_solver/dependency__graph_8cc-source.html"
+    },
+    {
+      "title": "history - Build automation tools before make? - Retrocomputing Stack...",
+      "url": "https://retrocomputing.stackexchange.com/questions/9712/build-automation-tools-before-make"
     }
   ],
   "json patch rfc6902 example c#": [
     {
-      "url": "https://blog.nashtechglobal.com/patching-objects-with-json-patch-in-c/",
-      "title": "Patching Objects with JSON Patch in C# - NashTech Blog"
+      "title": "Patching Objects with JSON Patch in C# - NashTech Blog",
+      "url": "https://blog.nashtechglobal.com/patching-objects-with-json-patch-in-c/"
     },
     {
-      "url": "https://gist.github.com/bymyslf/4d8bd7327fc09570835814f5f885fde8",
-      "title": "Creates a JsonPatchDocument ( JSON Patch - RFC 6902 ) from..."
+      "title": "Creates a JsonPatchDocument ( JSON Patch - RFC 6902 ) from...",
+      "url": "https://gist.github.com/bymyslf/4d8bd7327fc09570835814f5f885fde8"
     },
     {
-      "url": "https://datatracker.ietf.org/doc/html/rfc6902",
-      "title": "RFC 6902 - JavaScript Object Notation ( JSON ) Patch"
+      "title": "RFC 6902 - JavaScript Object Notation ( JSON ) Patch",
+      "url": "https://datatracker.ietf.org/doc/html/rfc6902"
+    },
+    {
+      "title": "JsonDiffPatch | Ecosystem Directory | market.dev",
+      "url": "https://explore.market.dev/ecosystems/csharp/projects/jsondiffpatch"
+    },
+    {
+      "title": "JSON Merge Patch in .NET Core - DEV Community",
+      "url": "https://dev.to/onlyann/json-merge-patch-in-net-core-2g7e"
     }
   ],
   "toml vs yaml for config in games": [
     {
-      "url": "https://stackoverflow.com/questions/65283208/toml-vs-yaml-vs-strictyaml",
-      "title": "python - TOML vs YAML vs StrictYAML - Stack Overflow"
+      "title": "python - TOML vs YAML vs StrictYAML - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/65283208/toml-vs-yaml-vs-strictyaml"
     },
     {
-      "url": "https://dev.to/leapcell/json-vs-yaml-vs-toml-vs-xml-best-data-format-in-2025-5444",
-      "title": "JSON vs YAML vs TOML vs XML: Best Data... - DEV Community"
+      "title": "JSON vs YAML vs TOML vs XML: Best Data... - DEV Community",
+      "url": "https://dev.to/leapcell/json-vs-yaml-vs-toml-vs-xml-best-data-format-in-2025-5444"
     },
     {
-      "url": "https://toxigon.com/yaml-vs-toml-for-config-files",
-      "title": "YAML vs TOML for Config Files: The Ultimate Showdown - Toxigon"
+      "title": "TOML vs . INI: Comparing configuration file formats | TechTarget",
+      "url": "https://www.techtarget.com/searchdatacenter/tip/TOML-vs-INI-Comparing-configuration-file-formats"
     },
     {
-      "url": "https://www.datafmt.com/de/blog/en-yaml-json-toml-comparison",
-      "title": "YAML vs JSON vs TOML : Complete Configuration Format Comparison"
+      "title": "YAML vs TOML for Config Files: The Ultimate Showdown - Toxigon",
+      "url": "https://toxigon.com/yaml-vs-toml-for-config-files"
+    },
+    {
+      "title": "YAML vs JSON vs TOML : Complete Configuration Format Comparison",
+      "url": "https://www.datafmt.com/de/blog/en-yaml-json-toml-comparison"
     }
   ],
   "hot reload config file watcher c#": [
     {
-      "url": "https://stackoverflow.com/questions/49129880/c-sharp-filewatcher-filter",
-      "title": "string - C# FileWatcher filter - Stack Overflow"
+      "title": "Configuration | Hot Reload for Unity",
+      "url": "https://hotreload.net/documentation/configuration"
+    },
+    {
+      "title": "Auto re - load Rails initializers (and other files ) in development",
+      "url": "https://avohq.io/blog/auto-reload-rails-initializers-and-other-files-in-development"
+    },
+    {
+      "title": "Clean and simple hot - reloading on uninterrupted go... | ITNEXT",
+      "url": "https://itnext.io/clean-and-simple-hot-reloading-on-uninterrupted-go-applications-5974230ab4c5?source=post_internal_links---------6-------------------------------"
+    },
+    {
+      "title": "Using shared_ptr for reloadable config | Dmitry Danilov",
+      "url": "https://ddanilov.me/usage-of-shared_ptr"
+    },
+    {
+      "title": "string - C# FileWatcher filter - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/49129880/c-sharp-filewatcher-filter"
     }
   ],
   "filesystemwatcher reliability windows": [
     {
-      "url": "https://www.experts-exchange.com/questions/24538971/FileSystemWatcher-reliability-and-huuuuuge-implementation.html",
-      "title": "Solved: FileSystemWatcher - reliability and... | Experts Exchange"
+      "title": "Solved: FileSystemWatcher - reliability and... | Experts Exchange",
+      "url": "https://www.experts-exchange.com/questions/24538971/FileSystemWatcher-reliability-and-huuuuuge-implementation.html"
     },
     {
-      "url": "https://www.vbforums.com/showthread.php?630088-FileSystemWatcher-and-Windows-Service-behaving-not-as-intended",
-      "title": "VS 2008 FileSystemWatcher and Windows Service behaving not as..."
+      "title": "GitHub - sanastasiou/ FileSystemWatcher : A CLI wrapper for a C++...",
+      "url": "https://github.com/sanastasiou/FileSystemWatcher"
     },
     {
-      "url": "https://techcommunity.microsoft.com/discussions/msix-discussions/filesystemwatcher-not-working-in-desktop-bridge-app/3783172",
-      "title": "FileSystemWatcher not working in Desktop Bridge app | Microsoft..."
+      "title": "VS 2008 FileSystemWatcher and Windows Service behaving not as...",
+      "url": "https://www.vbforums.com/showthread.php?630088-FileSystemWatcher-and-Windows-Service-behaving-not-as-intended"
     },
     {
-      "url": "https://www.pcreview.co.uk/threads/iv-had-it-with-filesystemwatcher.1381012/",
-      "title": "Iv had it with filesystemwatcher | PC Review"
+      "title": "FileSystemWatcher not working in Desktop Bridge app | Microsoft...",
+      "url": "https://techcommunity.microsoft.com/discussions/msix-discussions/filesystemwatcher-not-working-in-desktop-bridge-app/3783172"
+    },
+    {
+      "title": "Iv had it with filesystemwatcher | PC Review",
+      "url": "https://www.pcreview.co.uk/threads/iv-had-it-with-filesystemwatcher.1381012/"
     }
   ],
   "inotify file watch cross platform .net": [
     {
-      "url": "https://stackoverflow.com/questions/40990885/cross-platform-api-to-monitor-file-system-in-c",
-      "title": "filesystems - Cross - Platform API to monitor file ... - Stack Overflow"
+      "title": "filesystems - Cross - Platform API to monitor file ... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/40990885/cross-platform-api-to-monitor-file-system-in-c"
+    },
+    {
+      "title": "GitHub - lspitzner/ inotify - watch : little script for executing a command...",
+      "url": "https://github.com/lspitzner/inotify-watch"
+    },
+    {
+      "title": "file watch - npm search",
+      "url": "https://www.npmjs.com/search?q=file+watch"
+    },
+    {
+      "title": "linux - How to execute a command whenever a file ... - Super User",
+      "url": "https://superuser.com/questions/181517/how-to-execute-a-command-whenever-a-file-changes/965625"
+    },
+    {
+      "title": "inotify (7) - Linux manual page",
+      "url": "https://man7.org/linux/man-pages/man7/inotify.7.html"
     }
   ],
   "fsevents dotnet macos": [
     {
-      "url": "https://github.com/fsevents/fsevents",
-      "title": "GitHub - fsevents / fsevents : Native access to MacOS FSEvents in..."
+      "title": "node.js - How to solve npm install throwing fsevents ... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/46929196/how-to-solve-npm-install-throwing-fsevents-warning-on-non-mac-os"
     },
     {
-      "url": "https://formulae.brew.sh/formula/dotnet",
-      "title": "dotnet \u2014 Homebrew Formulae"
+      "title": "GitHub - fsevents / fsevents : Native access to MacOS FSEvents in...",
+      "url": "https://github.com/fsevents/fsevents"
     },
     {
-      "url": "https://dev.to/rusydy/setting-up-net-on-macos-a-step-by-step-guide-14db",
-      "title": "Setting Up . NET on macOS : A Step-by-Step Guide - DEV Community"
+      "title": "dotnet \u2014 Homebrew Formulae",
+      "url": "https://formulae.brew.sh/formula/dotnet"
+    },
+    {
+      "title": "watchman: MacOS : Packing rn's bundle always stuck with Recrawled",
+      "url": "https://errorism.dev/issues/facebook-watchman-macos-packing-rns-bundle-always-stuck-with-recrawled"
+    },
+    {
+      "title": "Setting Up . NET on macOS : A Step-by-Step Guide - DEV Community",
+      "url": "https://dev.to/rusydy/setting-up-net-on-macos-a-step-by-step-guide-14db"
     }
   ],
   "serilog unity setup rolling logs": [
     {
-      "url": "https://www.youtube.com/watch?v=9r1eareGU2I",
-      "title": "Integrating Serilog into Unity 3D for Advanced Debugging - YouTube"
+      "title": "Integrating Serilog into Unity 3D for Advanced Debugging - YouTube",
+      "url": "https://www.youtube.com/watch?v=9r1eareGU2I"
     },
     {
-      "url": "https://github.com/KuraiAndras/Serilog.Sinks.Unity3D",
-      "title": "GitHub - KuraiAndras/ Serilog .Sinks. Unity 3D: Serilog Sink for Unity ..."
+      "title": "GitHub - KuraiAndras/ Serilog .Sinks. Unity 3D: Serilog Sink for Unity ...",
+      "url": "https://github.com/KuraiAndras/Serilog.Sinks.Unity3D"
     },
     {
-      "url": "https://stackoverflow.com/questions/30543689/how-to-use-serilog-with-unity",
-      "title": "c# - How to use Serilog with Unity ? - Stack Overflow"
+      "title": "c# - How to use Serilog with Unity ? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/30543689/how-to-use-serilog-with-unity"
     },
     {
-      "url": "https://openupm.com/packages/com.serilog.sinks.unity3d/",
-      "title": "Serilog Sink for unity 3D Debug log | OpenUPM"
+      "title": "Serilog Sink for unity 3D Debug log | OpenUPM",
+      "url": "https://openupm.com/packages/com.serilog.sinks.unity3d/"
+    },
+    {
+      "title": "Mastering Serilog in .NET: The Complete Guide (2025 Edition) | Medium",
+      "url": "https://elanchezhiyan-p.medium.com/mastering-serilog-in-net-the-complete-guide-2025-edition-fb9b0be855cb"
     }
   ],
   "structured logging for mods best practices": [
     {
-      "url": "https://www.sumologic.com/glossary/structured-logging",
-      "title": "Structured logging - definition & overiew"
+      "title": "Structured logging - definition & overiew",
+      "url": "https://www.sumologic.com/glossary/structured-logging"
     },
     {
-      "url": "https://www.dash0.com/guides/structured-logging-for-modern-applications",
-      "title": "Practical Structured Logging for Modern Applications \u00b7 Dash0"
+      "title": "Complete Guide to Logging in Golang with slog | SigNoz",
+      "url": "https://signoz.io/guides/golang-slog/"
+    },
+    {
+      "title": "Practical Structured Logging for Modern Applications \u00b7 Dash0",
+      "url": "https://www.dash0.com/guides/structured-logging-for-modern-applications"
+    },
+    {
+      "title": "Best Practices of Building Web Apps with Gin & Golang",
+      "url": "https://www.squash.io/optimizing-gin-in-golang-project-structuring-error-handling-and-testing/"
+    },
+    {
+      "title": "A Complete Guide to Pino Logging in Node.js | Better Stack Community",
+      "url": "https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-pino-to-log-node-js-applications/"
     }
   ],
   "crash dump analyze windbg quick start": [
     {
-      "url": "https://www.windowscentral.com/how-open-and-analyze-dump-error-files-windows-10",
-      "title": "How to open and analyze crash dump files on... | Windows Central"
+      "title": "How to open and analyze crash dump files on... | Windows Central",
+      "url": "https://www.windowscentral.com/how-open-and-analyze-dump-error-files-windows-10"
     },
     {
-      "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/analyzing-a-user-mode-dump-file",
-      "title": "Analyzing a User-Mode Dump File - Windows drivers | Microsoft Learn"
+      "title": "Analyzing a User-Mode Dump File - Windows drivers | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/analyzing-a-user-mode-dump-file"
     },
     {
-      "url": "https://www.wikihow.com/Read-Dump-Files",
-      "title": "How to Open and Analyze Windows Crash Dump (.DMP) Files"
+      "title": "How to Open and Analyze Windows Crash Dump (.DMP) Files",
+      "url": "https://www.wikihow.com/Read-Dump-Files"
     },
     {
-      "url": "https://www.itechtics.com/open-analyze-dump-files/",
-      "title": "How To Open And Analyze Crash Memory Dump Files In Windows"
+      "title": "How To Open And Analyze Crash Memory Dump Files In Windows",
+      "url": "https://www.itechtics.com/open-analyze-dump-files/"
     },
     {
-      "url": "https://gist.github.com/MangaD/3bbeae1b326351b2728d856fb5cd651c",
-      "title": "Comprehensive Guide to Using WinDbg (Windows Debugger) \u00b7 GitHub"
+      "title": "Comprehensive Guide to Using WinDbg (Windows Debugger) \u00b7 GitHub",
+      "url": "https://gist.github.com/MangaD/3bbeae1b326351b2728d856fb5cd651c"
     }
   ],
   "minidumpwrite dump of current process c#": [
     {
-      "url": "https://github.com/goldshtn/minidumper",
-      "title": "GitHub - goldshtn/minidumper: Write minidumps of .NET processes ..."
+      "title": "GitHub - goldshtn/minidumper: Write minidumps of .NET processes ...",
+      "url": "https://github.com/goldshtn/minidumper"
     },
     {
-      "url": "https://learn.microsoft.com/en-us/windows/win32/api/minidumpapiset/nf-minidumpapiset-minidumpwritedump",
-      "title": "MiniDumpWriteDump function... | Microsoft Learn"
+      "title": "MiniDumpWriteDump function... | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/windows/win32/api/minidumpapiset/nf-minidumpapiset-minidumpwritedump"
     },
     {
-      "url": "http://blog.kalmbach-software.de/2008/12/13/writing-minidumps-in-c/",
-      "title": "Writing MiniDumps in C# | Jochen Kalmbach's Blog"
+      "title": "Writing MiniDumps in C# | Jochen Kalmbach's Blog",
+      "url": "http://blog.kalmbach-software.de/2008/12/13/writing-minidumps-in-c/"
     },
     {
-      "url": "https://www.devowl.net/2017/05/minidump-minidumpwritedump-c.html",
-      "title": "C# \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430: MiniDumpWriteDump. \u0421\u043e\u0437\u0434\u0430\u0451\u043c minidump \u043d\u0430 C# ."
+      "title": "c# - Does it makes sense to write minidump on... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/27151970/does-it-makes-sense-to-write-minidump-on-unhandled-exception-in-net"
+    },
+    {
+      "title": "C# \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430: MiniDumpWriteDump. \u0421\u043e\u0437\u0434\u0430\u0451\u043c minidump \u043d\u0430 C# .",
+      "url": "https://www.devowl.net/2017/05/minidump-minidumpwritedump-c.html"
     }
   ],
   "pdb load from symbol server in windbg": [
     {
-      "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/symbol-path",
-      "title": "Configure Symbol Path: Windows Debuggers... | Microsoft Learn"
+      "title": "Configure Symbol Path: Windows Debuggers... | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/symbol-path"
     },
     {
-      "url": "https://www.technlg.net/windows/symbol-server-path-windbg-debugging/",
-      "title": "Debugging using Windbg : Symbols loading"
+      "title": "debug symbols - Get . pdb file path from windbg - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/18756009/get-pdb-file-path-from-windbg"
     },
     {
-      "url": "https://medium.com/achindra/fixing-symbols-in-windbg-68fc9b50e032",
-      "title": "Fixing Symbols in WinDbg | by Achindra Bhatnagar | Achindra | Medium"
+      "title": "Debugging using Windbg : Symbols loading",
+      "url": "https://www.technlg.net/windows/symbol-server-path-windbg-debugging/"
     },
     {
-      "url": "https://codemachine.com/articles/windbg_quickstart.html",
-      "title": "CodeMachine - WinDBG quick start tutorial"
+      "title": "Fixing Symbols in WinDbg | by Achindra Bhatnagar | Achindra | Medium",
+      "url": "https://medium.com/achindra/fixing-symbols-in-windbg-68fc9b50e032"
+    },
+    {
+      "title": "CodeMachine - WinDBG quick start tutorial",
+      "url": "https://codemachine.com/articles/windbg_quickstart.html"
     }
   ],
   "read stack traces regex examples": [
     {
-      "url": "https://stackoverflow.com/questions/56598853/java-stack-trace-regex",
-      "title": "Java stack trace regex - Stack Overflow"
+      "title": "Java stack trace regex - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/56598853/java-stack-trace-regex"
     },
     {
-      "url": "https://coderanch.com/t/621454/java/Parse-Stacktrace-regex",
-      "title": "Parse Stacktrace only regex (Java in General forum at Coderanch)"
+      "title": "How to read stack traces in JavaScript | by Hora\u021biu Halmaghi | Medium",
+      "url": "https://medium.com/@horacodementor/how-to-read-stacktraces-in-javascript-4632b6023f03"
     },
     {
-      "url": "https://sematext.com/blog/handling-stack-traces-with-logstash/",
-      "title": "Logstash Multiline Events: How to Handle Stack Traces - Sematext"
+      "title": "Reading stacktraces | PaperMC Docs",
+      "url": "https://docs.papermc.io/paper/dev/reading-stacktraces/"
+    },
+    {
+      "title": "Parse Stacktrace only regex (Java in General forum at Coderanch)",
+      "url": "https://coderanch.com/t/621454/java/Parse-Stacktrace-regex"
+    },
+    {
+      "title": "Logstash Multiline Events: How to Handle Stack Traces - Sematext",
+      "url": "https://sematext.com/blog/handling-stack-traces-with-logstash/"
     }
   ],
   "perfview .net allocations tutorial": [
     {
-      "url": "https://github.com/microsoft/perfview",
-      "title": "GitHub - microsoft/ perfview : PerfView is a CPU and memory..."
+      "title": "GitHub - microsoft/ perfview : PerfView is a CPU and memory...",
+      "url": "https://github.com/microsoft/perfview"
+    },
+    {
+      "title": "Visual Studio vs dotTrace vs PerfView \u2014 . NET Profiling... | Medium",
+      "url": "https://medium.com/c-sharp-programming/visual-studio-vs-dottrace-vs-perfview-net-profiling-tools-breakdown-4dc325f06de4"
+    },
+    {
+      "title": "Newest ' perfview ' Questions - Stack Overflow",
+      "url": "https://stackoverflow.com/tags/perfview/"
+    },
+    {
+      "title": "6 Essential Tools to Detect and Fix Performance Issues in . NET",
+      "url": "https://michaelscodingspot.com/performance-tools-dotnet/"
+    },
+    {
+      "title": "NET Memory Allocation Profiling with Visual Studio 2012 - \u4e1c\u98ce125...",
+      "url": "https://www.cnblogs.com/itelite/p/4573580.html"
     }
   ],
   "benchmarkdotnet unity compatible": [
     {
-      "url": "https://github.com/dotnet/BenchmarkDotNet/issues/759",
-      "title": "Using BenchmarkDotNet with Unity \u00b7 Issue #759..."
+      "title": "JohannesDeml/NetworkBenchmarkDotNet: Low-level dotnet network...",
+      "url": "https://gitmemories.com/JohannesDeml/NetworkBenchmarkDotNet"
+    },
+    {
+      "title": "Using BenchmarkDotNet with Unity \u00b7 Issue #759...",
+      "url": "https://github.com/dotnet/BenchmarkDotNet/issues/759"
+    },
+    {
+      "title": "NuGet Gallery | BenchmarkDotNet 0.15.8",
+      "url": "https://www.nuget.org/packages/benchmarkdotnet/"
+    },
+    {
+      "title": "The Unsafe Illusion: Benchmarking C# Pointers vs. Safe Arrays in Unity",
+      "url": "https://dev.to/furkankirat/the-unsafe-illusion-benchmarking-c-pointers-vs-safe-arrays-in-unity-549f"
+    },
+    {
+      "title": "Home | BenchmarkDotNet",
+      "url": "https://benchmarkdotnet.org/"
     }
   ],
   "etw eventpipe dotnet trace basics": [
     {
-      "url": "https://web.archive.org/web/20210920190117/https://github.com/dotnet/diagnostics/blob/main/documentation/dotnet-trace-instructions.md",
-      "title": "diagnostics/ dotnet - trace -instructions.md at main \u00b7 dotnet /diagnostics"
+      "title": "diagnostics/ dotnet - trace -instructions.md at main \u00b7 dotnet /diagnostics",
+      "url": "https://web.archive.org/web/20210920190117/https://github.com/dotnet/diagnostics/blob/main/documentation/dotnet-trace-instructions.md"
     },
     {
-      "url": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/eventpipe",
-      "title": "EventPipe Overview - . NET | Microsoft Learn"
+      "title": "EventPipe Overview - . NET | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/eventpipe"
     },
     {
-      "url": "https://deepwiki.com/dotnet/corert/4.3-tracing-and-event-infrastructure",
-      "title": "Tracing and Event Infrastructure | dotnet /corert | DeepWiki"
+      "title": "Tracing and Event Infrastructure | dotnet /corert | DeepWiki",
+      "url": "https://deepwiki.com/dotnet/corert/4.3-tracing-and-event-infrastructure"
     },
     {
-      "url": "https://wtrace.net/guides/diagnosing-dotnet-apps/",
-      "title": "Diagnosing . NET applications | wtrace. net"
+      "title": "Use EventPipe to detect allocation-heavy flow in . NET Production...",
+      "url": "https://www.linkedin.com/pulse/use-eventpipe-detect-allocation-heavy-flow-net-duc-thang-nguyen-50dkc"
+    },
+    {
+      "title": "Diagnosing . NET applications | wtrace. net",
+      "url": "https://wtrace.net/guides/diagnosing-dotnet-apps/"
     }
   ],
   "unity profiler api custom markers": [
     {
-      "url": "https://support.unity.com/hc/en-us/articles/210223933-How-can-I-profile-a-specific-part-of-my-code",
-      "title": "How can I profile a specific part of my code? \u2013 Unity Support Help..."
+      "title": "How can I profile a specific part of my code? \u2013 Unity Support Help...",
+      "url": "https://support.unity.com/hc/en-us/articles/210223933-How-can-I-profile-a-specific-part-of-my-code"
     },
     {
-      "url": "https://docs.unity3d.com/es/2020.1/Manual/LowLevelNativePluginProfiler.html",
-      "title": "Low-level native plug-in Profiler API - Unity Manual"
+      "title": "Low-level native plug-in Profiler API - Unity Manual",
+      "url": "https://docs.unity3d.com/es/2020.1/Manual/LowLevelNativePluginProfiler.html"
     },
     {
-      "url": "https://www.youtube.com/watch?v=ixEk6EWrL6Y",
-      "title": "How to customize performance metrics in the Unity Profiler - YouTube"
+      "title": "How to customize performance metrics in the Unity Profiler - YouTube",
+      "url": "https://www.youtube.com/watch?v=ixEk6EWrL6Y"
+    },
+    {
+      "title": "GitHub - needle-mirror/com. unity .performance. profile -analyzer: The...",
+      "url": "https://github.com/needle-mirror/com.unity.performance.profile-analyzer"
+    },
+    {
+      "title": "Mastering Unity Profiling Tools in 2025 - Toxigon",
+      "url": "https://toxigon.com/top-unity-profiling-tools"
     }
   ],
   "renderdoc capture dx11 game overlay": [
     {
-      "url": "https://github.com/baldurk/renderdoc/issues/114",
-      "title": "Capturing game that use the steam overlay causes the overlay to..."
+      "title": "Capturing game that use the steam overlay causes the overlay to...",
+      "url": "https://github.com/baldurk/renderdoc/issues/114"
+    },
+    {
+      "title": "RenderDoc",
+      "url": "https://renderdoc.org/"
+    },
+    {
+      "title": "linux - How to get RenderDoc capture on Steam Deck? - Game ...",
+      "url": "https://gamedev.stackexchange.com/questions/212997/how-to-get-renderdoc-capture-on-steam-deck"
+    },
+    {
+      "title": "Graphics Debugging using RenderDoc \u2013 Matias' Programming Blog",
+      "url": "https://matiaslavik.wordpress.com/2020/01/17/graphics-debugging-using-renderdoc/"
+    },
+    {
+      "title": "Unity Issue Tracker - RenderDoc Capture Frame can't be...",
+      "url": "https://issuetracker.unity3d.com/issues/renderdoc-capture-frame-cant-be-completed-after-particle-system-is-simulated"
     }
   ],
   "nsight graphics shader debugging": [
     {
-      "url": "https://docs.nvidia.com/nsight-graphics/2025.5/UserGuide/shader-debugger-overview.html",
-      "title": "Overview \u2014 NsightGraphics"
+      "title": "Overview \u2014 NsightGraphics",
+      "url": "https://docs.nvidia.com/nsight-graphics/2025.5/UserGuide/shader-debugger-overview.html"
     },
     {
-      "url": "https://docs.nvidia.com/nsight-graphics/UserGuide/shader-debugger-setup.html",
-      "title": "Shader Debugger Setup \u2014 NsightGraphics"
+      "title": "Shader Debugger Setup \u2014 NsightGraphics",
+      "url": "https://docs.nvidia.com/nsight-graphics/UserGuide/shader-debugger-setup.html"
     },
     {
-      "url": "https://stackoverflow.com/questions/39522520/how-to-debug-glsl-shaders-using-nsight",
-      "title": "c++ - How to debug (GLSL) shaders using Nsight ? - Stack Overflow"
+      "title": "c++ - How to debug (GLSL) shaders using Nsight ? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/39522520/how-to-debug-glsl-shaders-using-nsight"
     },
     {
-      "url": "https://www.linkedin.com/posts/nvidia-game-developer_shader-debugging-made-easy-with-nvidia-nsight-activity-7224458851926863873-RH8M",
-      "title": "NVIDIA Game Developer on LinkedIn: Shader Debugging Made Easy..."
+      "title": "Debugging Shaders : Mastering Tools and Methods... - DEV Community",
+      "url": "https://dev.to/hayyanstudio/debugging-shaders-mastering-tools-and-methods-for-effective-shader-debugging-3en8"
+    },
+    {
+      "title": "NVIDIA Game Developer on LinkedIn: Shader Debugging Made Easy...",
+      "url": "https://www.linkedin.com/posts/nvidia-game-developer_shader-debugging-made-easy-with-nvidia-nsight-activity-7224458851926863873-RH8M"
     }
   ],
   "pix for windows download": [
     {
-      "url": "https://devblogs.microsoft.com/pix/download/",
-      "title": "Download - PIX on Windows"
+      "title": "Pix download for Windows",
+      "url": "https://www.onworks.net/software/windows/app-pix"
     },
     {
-      "url": "https://www.onworks.net/software/windows/app-pix",
-      "title": "Pix download for Windows"
+      "title": "Download - PIX on Windows",
+      "url": "https://devblogs.microsoft.com/pix/download/"
+    },
+    {
+      "title": "Mister PiX for Windows - Free download and... - CNET Download",
+      "url": "https://download.cnet.com/mister-pix/3000-2379_4-10026435.html"
+    },
+    {
+      "title": "Welcome to the PIX for Windows Help Section",
+      "url": "https://help.autodesk.com/cloudhelp/ENU/PIX-Help/files/welcome-pix-windows-help-section.html"
+    },
+    {
+      "title": "Kid Pix 3D Deluxe - Download for PC Free",
+      "url": "https://www.malavida.com/en/soft/kid-pix-3d/"
     }
   ],
   "frame pacing microstutters analysis": [
     {
-      "url": "https://forums.anandtech.com/threads/amd-framepacing-driver-13-8-review.2334206/page-8",
-      "title": "AMD Framepacing Driver 13.8 review | Page 8 | AnandTech Forums..."
+      "title": "Fix for stuttering/ frame pacing problems despite good framerate...",
+      "url": "https://forum.giants-software.com/viewtopic.php?t=183410"
     },
     {
-      "url": "https://www.neogaf.com/threads/demonstration-of-microstuttering-bad-framepacing.1396654/",
-      "title": "Demonstration of microstuttering (bad framepacing) | NeoGAF"
+      "title": "AMD Framepacing Driver 13.8 review | Page 8 | AnandTech Forums...",
+      "url": "https://forums.anandtech.com/threads/amd-framepacing-driver-13-8-review.2334206/page-8"
+    },
+    {
+      "title": "Microstutters after patch 4 [pc, steam] | Forum - Tomb Raider Forums",
+      "url": "https://www.tombraiderforums.com/showthread.php?t=229931&page=2"
+    },
+    {
+      "title": "Everyone who was able to fix frame pacing issues/ microstutter : Post...",
+      "url": "https://steamcommunity.com/app/403640/discussions/0/152390648086140178/?l=finnish&ctp=6"
+    },
+    {
+      "title": "Demonstration of microstuttering (bad framepacing) | NeoGAF",
+      "url": "https://www.neogaf.com/threads/demonstration-of-microstuttering-bad-framepacing.1396654/"
     }
   ],
   "gpu cpu frame time overlay tools": [
     {
-      "url": "https://forum.dcs.world/topic/321664-best-way-to-measure-gpu-and-cpu-frametime-with-openxr/",
-      "title": "Best way to measure GPU and CPU frametime with... - ED Forums"
+      "title": "Best way to measure GPU and CPU frametime with... - ED Forums",
+      "url": "https://forum.dcs.world/topic/321664-best-way-to-measure-gpu-and-cpu-frametime-with-openxr/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=7hkA8fWrGRA",
-      "title": "Show Frametime , FPS, GPU & CPU Usage in any Game... - YouTube"
+      "title": "Show Frametime , FPS, GPU & CPU Usage in any Game... - YouTube",
+      "url": "https://www.youtube.com/watch?v=7hkA8fWrGRA"
     },
     {
-      "url": "https://nwgat.ninja/quick-easy-turn-on-frametime-graph-on-msi-afterburner-rtss/",
-      "title": "Quick & Easy: Turn on Frametime Graph Overlay on MSI..."
+      "title": "Quick & Easy: Turn on Frametime Graph Overlay on MSI...",
+      "url": "https://nwgat.ninja/quick-easy-turn-on-frametime-graph-on-msi-afterburner-rtss/"
     },
     {
-      "url": "https://www.nvidia.com/en-eu/geforce/technologies/frameview/",
-      "title": "Download FrameView App | NVIDIA"
+      "title": "Download FrameView App | NVIDIA",
+      "url": "https://www.nvidia.com/en-eu/geforce/technologies/frameview/"
+    },
+    {
+      "title": "Timer Resolution - Download",
+      "url": "https://timerresolution.com/"
     }
   ],
   "dear imgui docking branch download": [
     {
-      "url": "https://github.com/hangocdinhnew/imgui-docking",
-      "title": "GitHub - hangocdinhnew/ imgui - docking : The ImGui docking branch ..."
+      "title": "dear - imgui -rs \u2014 Rust GUI library // Lib.rs",
+      "url": "https://lib.rs/crates/dear-imgui-rs"
     },
     {
-      "url": "https://cppget.org/libimgui-platform-win32-docking/1.90.8+2?f=full",
-      "title": "libimgui-platform-win32- docking 1.90.8+2"
+      "title": "GitHub - hangocdinhnew/ imgui - docking : The ImGui docking branch ...",
+      "url": "https://github.com/hangocdinhnew/imgui-docking"
+    },
+    {
+      "title": "C++ desktop application with Dear Imgui \u2013 Ruurds DevLog",
+      "url": "https://ruurdsdevlog.wordpress.com/2020/03/07/c-desktop-application-with-dear-imgui/"
+    },
+    {
+      "title": "libimgui-platform-win32- docking 1.90.8+2",
+      "url": "https://cppget.org/libimgui-platform-win32-docking/1.90.8+2?f=full"
+    },
+    {
+      "title": "martin-fieber.de | GUI Development with C++, SDL2, and Dear ImGui",
+      "url": "https://martin-fieber.de/blog/gui-development-with-cpp-sdl2-and-dear-imgui/"
     }
   ],
   "imgui colorblind friendly theme": [
     {
-      "url": "https://www.unknowncheats.me/forum/general-programming-and-reversing/269953-imgui-theme-color.html",
-      "title": "[Tutorial] ImGui theme color | Forum"
+      "title": "[Tutorial] ImGui theme color | Forum",
+      "url": "https://www.unknowncheats.me/forum/general-programming-and-reversing/269953-imgui-theme-color.html"
     },
     {
-      "url": "https://www.blast.hk/threads/25442/page-4",
-      "title": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f - \u0421\u0442\u0438\u043b\u0438/\u0422\u0435\u043c\u044b \u0434\u043b\u044f ImGUI | \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 4 | BLASTHACK..."
+      "title": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f - \u0421\u0442\u0438\u043b\u0438/\u0422\u0435\u043c\u044b \u0434\u043b\u044f ImGUI | \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 4 | BLASTHACK...",
+      "url": "https://www.blast.hk/threads/25442/page-4"
     },
     {
-      "url": "https://deepwiki.com/ocornut/imgui/6.2-styling-and-theming",
-      "title": "Styling and Theming | ocornut/ imgui | DeepWiki"
+      "title": "Styling and Theming | ocornut/ imgui | DeepWiki",
+      "url": "https://deepwiki.com/ocornut/imgui/6.2-styling-and-theming"
     },
     {
-      "url": "https://venngage.com/blog/color-blind-friendly-palette/",
-      "title": "Colorblind - Friendly Palettes: Why & How to Use in Design - Venngage"
+      "title": "Colorblind - Friendly web: Reddit & Google links | Userstyles.org",
+      "url": "https://userstyles.org/styles/99284/colorblind-friendly-web-reddit-google-links"
+    },
+    {
+      "title": "Colorblind - Friendly Palettes: Why & How to Use in Design - Venngage",
+      "url": "https://venngage.com/blog/color-blind-friendly-palette/"
     }
   ],
   "sdf text rendering in game ui": [
     {
-      "url": "https://github.com/axmolengine/axmol/wiki/SDF-text-rendering",
-      "title": "SDF text rendering \u00b7 axmolengine/axmol Wiki \u00b7 GitHub"
+      "title": "SDF text rendering \u00b7 axmolengine/axmol Wiki \u00b7 GitHub",
+      "url": "https://github.com/axmolengine/axmol/wiki/SDF-text-rendering"
     },
     {
-      "url": "https://forum.flaxengine.com/t/how-about-supporting-sdf-based-text-rendering-decals-in-world-space-textrender-etc/1474",
-      "title": "How about supporting SDF -based Text rendering ... - Flax Forum"
+      "title": "How about supporting SDF -based Text rendering ... - Flax Forum",
+      "url": "https://forum.flaxengine.com/t/how-about-supporting-sdf-based-text-rendering-decals-in-world-space-textrender-etc/1474"
     },
     {
-      "url": "https://www.dfworkshop.net/creating-sdf-fonts-for-daggerfall-unity/",
-      "title": "Creating SDF Fonts For Daggerfall Unity \u2013 Daggerfall Workshop"
+      "title": "Text Rendering | facebookarchive/react-360 | DeepWiki",
+      "url": "https://deepwiki.com/facebookarchive/react-360/4.2-text-rendering"
+    },
+    {
+      "title": "Lightning 3.0 Font Rendering Engine | Lightningjs",
+      "url": "https://lightningjs.io/blogs/lng3FontRendering.html"
+    },
+    {
+      "title": "Creating SDF Fonts For Daggerfall Unity \u2013 Daggerfall Workshop",
+      "url": "https://www.dfworkshop.net/creating-sdf-fonts-for-daggerfall-unity/"
     }
   ],
   "font fallback unicode c#": [
     {
-      "url": "https://learn.microsoft.com/tr-tr/windows/win32/api/dwrite_2/nf-dwrite_2-idwritefactory2-createfontfallbackbuilder",
-      "title": "IDWriteFactory2::CreateFontFallbackBuilder... | Microsoft Learn"
+      "title": "IDWriteFactory2::CreateFontFallbackBuilder... | Microsoft Learn",
+      "url": "https://learn.microsoft.com/tr-tr/windows/win32/api/dwrite_2/nf-dwrite_2-idwritefactory2-createfontfallbackbuilder"
     },
     {
-      "url": "https://www.wikiwand.com/en/articles/Fallback_font",
-      "title": "Fallback font - Wikiwand"
+      "title": "net - Convert to UNICODE in C# - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/35427826/convert-to-unicode-in-c-sharp"
+    },
+    {
+      "title": "Fallback font - Wikiwand",
+      "url": "https://www.wikiwand.com/en/articles/Fallback_font"
+    },
+    {
+      "title": "GitHub - kiwi0fruit/open- fonts : A collection of beautiful free and open...",
+      "url": "https://github.com/kiwi0fruit/open-fonts"
+    },
+    {
+      "title": "Command/definefontfallback - Wiki",
+      "url": "https://wiki.contextgarden.net/Command/definefontfallback"
     }
   ],
   "wcag contrast checker tool": [
     {
-      "url": "https://contrast-ratio.org/",
-      "title": "Contrast Ratio: WCAG Color Contrast Checker"
+      "title": "Contrast Ratio: WCAG Color Contrast Checker",
+      "url": "https://contrast-ratio.org/"
     },
     {
-      "url": "https://webaim.org/resources/contrastchecker/",
-      "title": "WebAIM: Contrast Checker"
+      "title": "WebAIM: Contrast Checker",
+      "url": "https://webaim.org/resources/contrastchecker/"
     },
     {
-      "url": "https://contrastchecker.com/",
-      "title": "WCAG - Contrast Checker"
+      "title": "WCAG - Contrast Checker",
+      "url": "https://contrastchecker.com/"
     },
     {
-      "url": "https://convertico.com/color-contrast-checker/",
-      "title": "Color Contrast Checker | WCAG Accessibility Testing | ConvertICO"
+      "title": "Color Contrast Checker | WCAG Accessibility Testing | ConvertICO",
+      "url": "https://convertico.com/color-contrast-checker/"
     },
     {
-      "url": "https://tabnav.com/contrast-checker/image",
-      "title": "Free Image Accessibility Checker | tabnav"
+      "title": "Free Image Accessibility Checker | tabnav",
+      "url": "https://tabnav.com/contrast-checker/image"
     }
   ],
   "colorblind palette generator protanopia": [
     {
-      "url": "https://davidmathlogic.com/colorblind/",
-      "title": "Coloring for Colorblindness"
+      "title": "Colorblind -Friendly Palettes : Why & How to Use in Design - Venngage",
+      "url": "https://venngage.com/blog/color-blind-friendly-palette/"
     },
     {
-      "url": "https://coolors.co/",
-      "title": "Coolors - The super fast color palettes generator !"
+      "title": "Coloring for Colorblindness",
+      "url": "https://davidmathlogic.com/colorblind/"
+    },
+    {
+      "title": "How I Designed a Colorblind -Friendly Palette | by Swedel... | Medium",
+      "url": "https://medium.com/swlh/how-i-designed-a-colorblind-friendly-palette-8a91a49f1220"
+    },
+    {
+      "title": "Palette List",
+      "url": "https://lospec.com/palette-list/tag/colorblind"
+    },
+    {
+      "title": "Coolors - The super fast color palettes generator !",
+      "url": "https://coolors.co/"
     }
   ],
   "remappable input system unity examples": [
     {
-      "url": "https://www.youtube.com/watch?v=lclDl-NGUMg",
-      "title": "Unity 's New INPUT SYSTEM | Unity Beginner Tutorial 2024 - YouTube"
+      "title": "Unity 's New INPUT SYSTEM | Unity Beginner Tutorial 2024 - YouTube",
+      "url": "https://www.youtube.com/watch?v=lclDl-NGUMg"
     },
     {
-      "url": "https://pentatonicgames.wordpress.com/2017/01/10/a-custom-unity-input-system-for-controller-keyboard-and-mouse/",
-      "title": "A Custom Unity Input System for Controller, Keyboard, and Mouse"
+      "title": "A Custom Unity Input System for Controller, Keyboard, and Mouse",
+      "url": "https://pentatonicgames.wordpress.com/2017/01/10/a-custom-unity-input-system-for-controller-keyboard-and-mouse/"
     },
     {
-      "url": "https://blog.yarsalabs.com/new-input-system-in-unity/",
-      "title": "Using Unity 's New Input System - Yarsa DevBlog"
+      "title": "c# - Rocket controller for a Unity game - Code Review Stack Exchange",
+      "url": "https://codereview.stackexchange.com/questions/85319/rocket-controller-for-a-unity-game"
+    },
+    {
+      "title": "Input Challenges - Blog | Hedberg Games",
+      "url": "https://www.hedberggames.com/blog/input-challenges"
+    },
+    {
+      "title": "Using Unity 's New Input System - Yarsa DevBlog",
+      "url": "https://blog.yarsalabs.com/new-input-system-in-unity/"
     }
   ],
   "gamepad remapping windows xinput c#": [
     {
-      "url": "https://learn.microsoft.com/en-us/windows/win32/api/xinput/ns-xinput-xinput_gamepad",
-      "title": "XINPUT _ GAMEPAD ( xinput .h) - Win32 apps | Microsoft Learn"
+      "title": "XINPUT _ GAMEPAD ( xinput .h) - Win32 apps | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/windows/win32/api/xinput/ns-xinput-xinput_gamepad"
+    },
+    {
+      "title": "Remapping gamepad input - script constantly returning \"no key\" | Forum",
+      "url": "https://forum.gamemaker.io/index.php?threads/remapping-gamepad-input-script-constantly-returning-no-key.77889/"
+    },
+    {
+      "title": "Gamepad mapping questions - General Help - jMonkeyEngine Hub",
+      "url": "https://hub.jmonkeyengine.org/t/gamepad-mapping-questions/38465"
+    },
+    {
+      "title": "calibration - How to customize gamepad controller... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/67442029/how-to-customize-gamepad-controller-joystick-output-sensitivity-in-windows-10"
+    },
+    {
+      "title": "How To Use A Game Pad Or Joystick Controller In C++ On Windows",
+      "url": "https://d-data.ro/how-to-use-a-game-pad-or-joystick-controller-in-c-on-windows/"
     }
   ],
   "localization plural rules icu cldr": [
     {
-      "url": "https://simplelocalize.io/blog/posts/what-is-icu/",
-      "title": "ICU message format: Guide to plurals , dates & localization syntax"
+      "title": "ICU message format: Guide to plurals , dates & localization syntax",
+      "url": "https://simplelocalize.io/blog/posts/what-is-icu/"
     },
     {
-      "url": "https://phrase.com/blog/posts/guide-to-the-icu-message-format/",
-      "title": "A Practical Guide to the ICU Message Format | Phrase"
+      "title": "A Practical Guide to the ICU Message Format | Phrase",
+      "url": "https://phrase.com/blog/posts/guide-to-the-icu-message-format/"
     },
     {
-      "url": "https://devdoc.net/linux/icu4j-64_2-docs/index.html?com/ibm/icu/text/PluralRules.html",
-      "title": "PluralRules ( ICU 4J 64.2)"
+      "title": "PluralRules ( ICU 4J 64.2)",
+      "url": "https://devdoc.net/linux/icu4j-64_2-docs/index.html?com/ibm/icu/text/PluralRules.html"
     },
     {
-      "url": "https://github.com/elixir-cldr/cldr_messages",
-      "title": "GitHub - elixir- cldr / cldr _messages: Elixir implementation of the ICU ..."
+      "title": "GitHub - elixir- cldr / cldr _messages: Elixir implementation of the ICU ...",
+      "url": "https://github.com/elixir-cldr/cldr_messages"
+    },
+    {
+      "title": "Pluralization (p11n) - the many of plurals",
+      "url": "https://lingohub.com/blog/pluralization"
     }
   ],
   "gettext po files for c#": [
     {
-      "url": "https://github.com/adams85/po",
-      "title": "adams85/ po : A .NET library for reading and writing Gettext PO files ."
-    }
-  ],
-  "resx vs gettext tradeoffs": [],
-  "crowdin github integration docs": [
-    {
-      "url": "https://support.crowdin.com/github-integration/",
-      "title": "GitHub Integration | Crowdin Docs"
+      "title": "gettext - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gettext"
     },
     {
-      "url": "https://github.com/crowdin/github-action",
-      "title": "GitHub - crowdin / github -action: A GitHub action to manage and..."
+      "title": "Edit PO files ( gettext )",
+      "url": "https://www.codeandweb.com/babeledit/documentation/frameworks/po-files"
+    },
+    {
+      "title": "adams85/ po : A .NET library for reading and writing Gettext PO files .",
+      "url": "https://github.com/adams85/po"
+    },
+    {
+      "title": "Extension for Visual Studio Code - Gettext PO files language support...",
+      "url": "https://marketplace.visualstudio.com/items?itemName=mrorz.language-gettext"
+    },
+    {
+      "title": "PO - gettext files (Strings) \u2013 Phrase",
+      "url": "https://support.phrase.com/hc/en-us/articles/6111343649820--PO-gettext-files-Strings"
+    }
+  ],
+  "resx vs gettext tradeoffs": [
+    {
+      "title": "RESX Synchronizer - CodeProject",
+      "url": "https://www.codeproject.com/articles/RESX-Synchronizer"
+    },
+    {
+      "title": "asp.net - . resx vs database vs custom solution for... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/7783112/resx-vs-database-vs-custom-solution-for-providing-localization-globalization"
+    },
+    {
+      "title": "GitHub - pmahend1/resxpress: ResXpress is visual studio code...",
+      "url": "https://github.com/pmahend1/resxpress"
+    },
+    {
+      "title": "XML versus RESX files for localization #283 | Support Center",
+      "url": "https://support.aspnetzero.com/QA/Questions/283/XML-versus-RESX-files-for-localization"
+    },
+    {
+      "title": "resx vs database vs custom solution for providing...",
+      "url": "https://errorhandle.ai/resx-vs-database-vs-custom-solution-for-providing-localization-globalization"
+    }
+  ],
+  "crowdin github integration docs": [
+    {
+      "title": "GitHub - crowdin / github -action: A GitHub action to manage and...",
+      "url": "https://github.com/crowdin/github-action"
+    },
+    {
+      "title": "GitHub Integration | Crowdin Docs",
+      "url": "https://support.crowdin.com/github-integration/"
+    },
+    {
+      "title": "Localization management with Crowdin \u2013 Internationalization...",
+      "url": "https://next-intl.dev/docs/workflows/localization-management"
+    },
+    {
+      "title": "Localization management with Crowdin \u2013 Internationalization...",
+      "url": "https://next-intl-docs-git-docs-server-actions-example-next-intl.vercel.app/docs/workflows/localization-management"
+    },
+    {
+      "title": "Integrate Crowdin in your extension \u2014 TYPO3 Explained main...",
+      "url": "https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Localization/TranslationServer/Crowdin/ExtensionIntegration.html"
     }
   ],
   "poeditor cli upload strings": [
     {
-      "url": "https://github.com/TerenYeung/poeditor-cli",
-      "title": "GitHub - TerenYeung/ poeditor - cli : POEditor cli is the Standard..."
+      "title": "poeditor CDN by jsDelivr - A CDN for npm and GitHub",
+      "url": "https://www.jsdelivr.com/package/npm/poeditor"
     },
     {
-      "url": "https://www.rubydoc.info/gems/poeditor-cli/",
-      "title": "RubyDoc.info: File: README \u2013 Documentation for poeditor - cli ..."
+      "title": "GitHub - TerenYeung/ poeditor - cli : POEditor cli is the Standard...",
+      "url": "https://github.com/TerenYeung/poeditor-cli"
+    },
+    {
+      "title": "RubyDoc.info: File: README \u2013 Documentation for poeditor - cli ...",
+      "url": "https://www.rubydoc.info/gems/poeditor-cli/"
+    },
+    {
+      "title": "Log in to your POEditor account using one of the available login options.",
+      "url": "https://poeditor.com/login/"
+    },
+    {
+      "title": "poeditor _ cli API docs, for the Dart programming language.",
+      "url": "https://pub.dev/documentation/poeditor_cli/latest/"
     }
   ],
   "extract strings from source roslyn analyzer": [
     {
-      "url": "https://www.thinktecture.com/en/net/roslyn-source-generators-analyzers-code-fixes-testing/",
-      "title": "Incremental Roslyn Source Generators In .NET... - Thinktecture AG"
+      "title": "Incremental Roslyn Source Generators In .NET... - Thinktecture AG",
+      "url": "https://www.thinktecture.com/en/net/roslyn-source-generators-analyzers-code-fixes-testing/"
     },
     {
-      "url": "https://riptutorial.com/roslyn/example/16548/parse-source-code-from-text-in-csharp",
-      "title": "roslyn Tutorial => Parse source code from text in C#"
+      "title": "roslyn Tutorial => Parse source code from text in C#",
+      "url": "https://riptutorial.com/roslyn/example/16548/parse-source-code-from-text-in-csharp"
+    },
+    {
+      "title": "Unit testing a Roslyn Analyzer . I\u2019ve been writing here many... | Medium",
+      "url": "https://antao-almada.medium.com/unit-testing-a-roslyn-analyzer-b3da666f0252"
+    },
+    {
+      "title": "c# - Unable to parse code snippet in roslyn - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/39154062/unable-to-parse-code-snippet-in-roslyn"
+    },
+    {
+      "title": "Roslyn analyzer : \"does not have accessible to set from the same dll. It...",
+      "url": "https://github.com/hadashiA/VContainer/issues/730"
     }
   ],
   "docfx generate api docs xml comments": [
     {
-      "url": "https://code-maze.com/docfx-generating-source-code-documentation/",
-      "title": "Generating Source Code Documentation With DocFx - Code Maze"
+      "title": "Generating Source Code Documentation With DocFx - Code Maze",
+      "url": "https://code-maze.com/docfx-generating-source-code-documentation/"
     },
     {
-      "url": "https://dotnet.github.io/docfx/docs/dotnet-api-docs.html",
-      "title": "NET API Docs | docfx"
+      "title": "NET API Docs | docfx",
+      "url": "https://dotnet.github.io/docfx/docs/dotnet-api-docs.html"
     },
     {
-      "url": "https://stackoverflow.com/questions/40936498/docfx-generate-api-documentation-for-multiple-projects",
-      "title": "DocFX : Generate API documentation for multiple... - Stack Overflow"
+      "title": "DocFX : Generate API documentation for multiple... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/40936498/docfx-generate-api-documentation-for-multiple-projects"
     },
     {
-      "url": "https://howto.im/q/how-to-add-api-documentation-from-xml-comments-in-docfx",
-      "title": "how to add api documentation from xml comments in docfx | HowTo.IM"
+      "title": "how to add api documentation from xml comments in docfx | HowTo.IM",
+      "url": "https://howto.im/q/how-to-add-api-documentation-from-xml-comments-in-docfx"
+    },
+    {
+      "title": "Top 15 Free Tools for API Documentation",
+      "url": "https://apidog.com/blog/api-documentation-free-tools/"
     }
   ],
   "mkdocs material search setup": [
     {
-      "url": "https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/",
-      "title": "Setting up site search - Material for MkDocs"
+      "title": "Setting up site search - Material for MkDocs",
+      "url": "https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/"
+    },
+    {
+      "title": "GitHub - squidfunk/ mkdocs - material : Documentation that simply works",
+      "url": "https://github.com/squidfunk/mkdocs-material"
+    },
+    {
+      "title": "Level Up Your Project Documentation with MkDocs | Medium",
+      "url": "https://medium.com/@pablo.lopez.santori/level-up-your-project-documentation-with-mkdocs-d04c2f92a2ff"
+    },
+    {
+      "title": "Blog - Material for MkDocs",
+      "url": "https://web.archive.org/web/20230308234644/https://squidfunk.github.io/mkdocs-material/blog/"
+    },
+    {
+      "title": "Getting Started with Material for MkDocs - jameswillett.dev",
+      "url": "https://jameswillett.dev/getting-started-with-material-for-mkdocs/"
     }
   ],
   "docusaurus versioned docs mods": [
     {
-      "url": "https://docusaurus.io/docs/versioning",
-      "title": "Versioning | Docusaurus"
+      "title": "Versioning | Docusaurus",
+      "url": "https://docusaurus.io/docs/versioning"
     },
     {
-      "url": "https://www.docusaurus.cn/docs/versioning",
-      "title": "Versioning | Docusaurus \u4e2d\u6587\u6587\u6863 | Docusaurus \u4e2d\u6587\u7f51"
+      "title": "Versioning | Docusaurus \u4e2d\u6587\u6587\u6863 | Docusaurus \u4e2d\u6587\u7f51",
+      "url": "https://www.docusaurus.cn/docs/versioning"
     },
     {
-      "url": "https://tw-docs.com/docs/static-site-generators/docs-versioning/",
-      "title": "Docs versioning: Docusaurus and MkDocs | Documentation Portal"
+      "title": "Manage Docs Versions | Red Dead Redemption 2 Modding Wiki",
+      "url": "https://wiki.ragemodding.org/tutorial-extras/manage-docs-versions/"
+    },
+    {
+      "title": "Docs versioning: Docusaurus and MkDocs | Documentation Portal",
+      "url": "https://tw-docs.com/docs/static-site-generators/docs-versioning/"
+    },
+    {
+      "title": "docusaurus -plugin-openapi- docs - npm",
+      "url": "https://www.npmjs.com/package/docusaurus-plugin-openapi-docs"
     }
   ],
   "conventional commits types list": [
     {
-      "url": "https://github.com/pvdlg/conventional-commit-types",
-      "title": "GitHub - pvdlg/ conventional - commit - types : List of conventional ..."
+      "title": "Conventional Git Commit Messages and Linting | Medium",
+      "url": "https://medium.com/rupesh-tiwari/conventional-git-commit-messages-and-linting-76e1fbb9e14a"
     },
     {
-      "url": "https://www.bavaga.com/blog/2025/01/27/my-ultimate-conventional-commit-types-cheatsheet/",
-      "title": "My Ultimate Cheatsheet for Conventional Commit Types ... | BAVAGA"
+      "title": "Conventional Commits",
+      "url": "https://www.conventionalcommits.org/"
     },
     {
-      "url": "https://www.conventionalcommits.org/",
-      "title": "Conventional Commits"
+      "title": "GitHub - pvdlg/ conventional - commit - types : List of conventional ...",
+      "url": "https://github.com/pvdlg/conventional-commit-types"
+    },
+    {
+      "title": "My Ultimate Cheatsheet for Conventional Commit Types ... | BAVAGA",
+      "url": "https://www.bavaga.com/blog/2025/01/27/my-ultimate-conventional-commit-types-cheatsheet/"
+    },
+    {
+      "title": "Conventional Commits Pattern - DEV Community",
+      "url": "https://dev.to/mspilari/conventional-commits-pattern-4i20"
     }
   ],
   "semantic release github actions .net": [
     {
-      "url": "https://github.com/semantic-release/semantic-release/blob/master/docs/recipes/ci-configurations/github-actions.md",
-      "title": "semantic - release /docs/recipes/ci-configurations/ github - actions .md at..."
+      "title": "semantic - release /docs/recipes/ci-configurations/ github - actions .md at...",
+      "url": "https://github.com/semantic-release/semantic-release/blob/master/docs/recipes/ci-configurations/github-actions.md"
     },
     {
-      "url": "https://medium.com/@viniciusteixeiradias/semantic-release-github-actions-61762c6a86c4",
-      "title": "Semantic Release + Github Actions | by Vinicius Dias | Medium"
+      "title": "Semantic Release + Github Actions | by Vinicius Dias | Medium",
+      "url": "https://medium.com/@viniciusteixeiradias/semantic-release-github-actions-61762c6a86c4"
     },
     {
-      "url": "https://dev.to/sahanonp/how-to-setup-semantic-release-with-github-actions-31f3",
-      "title": "How to setup Semantic Release with GitHub Actions ."
+      "title": "How to setup Semantic Release with GitHub Actions .",
+      "url": "https://dev.to/sahanonp/how-to-setup-semantic-release-with-github-actions-31f3"
     },
     {
-      "url": "https://levelup.gitconnected.com/using-semantic-release-with-github-actions-c30d197829f1",
-      "title": "Using Semantic Release with Github Actions | Level Up Coding"
+      "title": "Using Semantic Release with Github Actions | Level Up Coding",
+      "url": "https://levelup.gitconnected.com/using-semantic-release-with-github-actions-c30d197829f1"
+    },
+    {
+      "title": "Generate semantic - release notes with GitHub Actions",
+      "url": "https://practicaldev-herokuapp-com.global.ssl.fastly.net/github/generate-semantic-release-with-github-actions-2lll"
     }
   ],
   "github actions cache nuget across matrix": [
     {
-      "url": "https://cicube.io/blog/github-actions-cache/",
-      "title": "GitHub Actions Cache - A Complete Guide with Examples | CICube"
+      "title": "Tutorial: Set up a vcpkg binary cache using GitHub Actions Cache",
+      "url": "https://learn.microsoft.com/et-ee/vcpkg/consume/binary-caching-github-actions-cache"
     },
     {
-      "url": "https://github.com/marketplace/actions/cache",
-      "title": "Cache \u00b7 Actions \u00b7 GitHub Marketplace \u00b7 GitHub"
+      "title": "GitHub Actions Cache - A Complete Guide with Examples | CICube",
+      "url": "https://cicube.io/blog/github-actions-cache/"
     },
     {
-      "url": "https://runs-on.com/caching/magic-cache/",
-      "title": "Magic Cache for GitHub Actions - RunsOn"
+      "title": "Optimize cache usage in builds | Docker Docs",
+      "url": "https://docs.docker.com/build/cache/optimize/"
+    },
+    {
+      "title": "Cache \u00b7 Actions \u00b7 GitHub Marketplace \u00b7 GitHub",
+      "url": "https://github.com/marketplace/actions/cache"
+    },
+    {
+      "title": "Magic Cache for GitHub Actions - RunsOn",
+      "url": "https://runs-on.com/caching/magic-cache/"
     }
   ],
   "self hosted windows runner game builds": [
     {
-      "url": "https://github.com/game-ci/unity-builder/issues/637",
-      "title": "Is a self - hosted Windows runner even possible? \u00b7 Issue #637..."
+      "title": "Setting up self hosted runner - Build Environment - CircleCI Discuss",
+      "url": "https://discuss.circleci.com/t/setting-up-self-hosted-runner/47736"
+    },
+    {
+      "title": "Is a self - hosted Windows runner even possible? \u00b7 Issue #637...",
+      "url": "https://github.com/game-ci/unity-builder/issues/637"
+    },
+    {
+      "title": "Self - hosted Windows Runner builds intermittently get stuck during...",
+      "url": "https://confluence.atlassian.com/bbkb/self-hosted-windows-runner-builds-intermittently-get-stuck-during-the-repository-clone-on-the-build-setup-1488599152.html"
+    },
+    {
+      "title": "Learning GitHub Runner Self - Hosting with Windows Desktop...",
+      "url": "https://dev.to/shutoosawa/learning-github-runner-self-hosting-with-windows-desktop-application-3964"
+    },
+    {
+      "title": "Windows self - hosted runners - RunsOn",
+      "url": "https://runs-on.com/runners/windows/"
     }
   ],
   "windows code signing certificate cheap": [
     {
-      "url": "https://codesigncert.com/codesigning/window-codesigning",
-      "title": "Window Code Signing Certificate at Cheap Prices $226.10"
+      "title": "Window Code Signing Certificate at Cheap Prices $226.10",
+      "url": "https://codesigncert.com/codesigning/window-codesigning"
     },
     {
-      "url": "https://signmycode.com/windows-code-signing",
-      "title": "Windows Code Signing Certificate at Just $215.99/Yr | SignMyCode"
+      "title": "Windows Code Signing Certificate at Just $215.99/Yr | SignMyCode",
+      "url": "https://signmycode.com/windows-code-signing"
     },
     {
-      "url": "https://comparecheapssl.com/windows-code-signing-certificate/",
-      "title": "Cheap Windows Code Signing Certificate at Just $64/Year"
+      "title": "Cheap Windows Code Signing Certificate at Just $64/Year",
+      "url": "https://comparecheapssl.com/windows-code-signing-certificate/"
     },
     {
-      "url": "https://codesigningstore.com/windows-code-signing",
-      "title": "Windows Code Signing Certificate Only for Windws 8 and 10 at $211"
+      "title": "Windows Code Signing Certificate Only for Windws 8 and 10 at $211",
+      "url": "https://codesigningstore.com/windows-code-signing"
     },
     {
-      "url": "https://comodosslstore.com/code-signing",
-      "title": "Comodo Code Signing Certificates - Buy cheap code signing certs..."
+      "title": "Comodo Code Signing Certificates - Buy cheap code signing certs...",
+      "url": "https://comodosslstore.com/code-signing"
     }
   ],
   "deterministic builds .net reproducible": [
     {
-      "url": "https://stackoverflow.com/questions/71725944/deterministic-build-is-not-really-deterministic-in-net-6/79443728",
-      "title": "c# - Deterministic build is not really deterministic in . NET 6"
+      "title": "Hardened Container Build Chains with Nix: Reproducible ... | Medium",
+      "url": "https://medium.com/@sachinrajakaruna95/hardened-container-build-chains-with-nix-reproducible-builds-for-compliance-critical-environments-b42025c4b70e"
+    },
+    {
+      "title": "Deterministic Builds Part Two: Technical Details | The Tor Project",
+      "url": "https://blog.torproject.org/deterministic-builds-part-two-technical-details/"
+    },
+    {
+      "title": "c# - Deterministic build is not really deterministic in . NET 6",
+      "url": "https://stackoverflow.com/questions/71725944/deterministic-build-is-not-really-deterministic-in-net-6/79443728"
+    },
+    {
+      "title": "deterministic - builds",
+      "url": "https://baserock.org/projects/deterministic-builds/"
+    },
+    {
+      "title": "The Science of Deterministic Builds",
+      "url": "https://www.nullpointerclub.com/p/the-science-of-deterministic-builds"
     }
   ],
   "ilrepack merge assemblies tutorial": [
     {
-      "url": "https://www.meziantou.net/merging-assemblies-using-ilrepack.htm",
-      "title": "Merging assemblies using ILRepack - Meziantou's blog"
+      "title": "Merging SpAgent Runtime Assemblies \u2013 Software Potential",
+      "url": "https://support.softwarepotential.com/hc/en-us/articles/360002968494-Merging-SpAgent-Runtime-Assemblies"
     },
     {
-      "url": "https://github.com/gluck/il-repack",
-      "title": "GitHub - gluck/ il - repack : Open-source alternative to ILMerge"
+      "title": "Merging assemblies using ILRepack - Meziantou's blog",
+      "url": "https://www.meziantou.net/merging-assemblies-using-ilrepack.htm"
     },
     {
-      "url": "https://peteris.rocks/blog/merging-net-assemblies-with-msbuild/",
-      "title": "Merging .NET Assemblies with MSBuild | peteris.rocks"
+      "title": "Dynamics Crm Merge Assemblies \u2013 Temmy Wahyu Raharjo",
+      "url": "https://temmyraharjo.wordpress.com/2018/05/30/dynamic-crm-merge-assemblies/"
+    },
+    {
+      "title": "GitHub - gluck/ il - repack : Open-source alternative to ILMerge",
+      "url": "https://github.com/gluck/il-repack"
+    },
+    {
+      "title": "Merging .NET Assemblies with MSBuild | peteris.rocks",
+      "url": "https://peteris.rocks/blog/merging-net-assemblies-with-msbuild/"
     }
   ],
   "strong name signed assemblies mod conflict": [
     {
-      "url": "https://stackoverflow.com/questions/35735835/akka-dll-strong-name-signed-assemblies-must-specify-a-public-key-in-their-intern",
-      "title": "Akka.dll Strong - name signed assemblies must... - Stack Overflow"
+      "title": "Akka.dll Strong - name signed assemblies must... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/35735835/akka-dll-strong-name-signed-assemblies-must-specify-a-public-key-in-their-intern"
     },
     {
-      "url": "https://github.com/brutaldev/StrongNameSigner",
-      "title": "GitHub - brutaldev/StrongNameSigner: Strong - name sign third party ...."
+      "title": "GitHub - brutaldev/StrongNameSigner: Strong - name sign third party ....",
+      "url": "https://github.com/brutaldev/StrongNameSigner"
     },
     {
-      "url": "https://forum.ncrunch.net/yaf_postst3113_Strong-name-validation-failed.aspx",
-      "title": "Strong name validation failed - Build/Test Issues - NCrunch Forum"
+      "title": "Strong name validation failed - Build/Test Issues - NCrunch Forum",
+      "url": "https://forum.ncrunch.net/yaf_postst3113_Strong-name-validation-failed.aspx"
     },
     {
-      "url": "https://xatom.dev/2013/10/08/signing-a-dll-strong-name",
-      "title": "Signing a DLL ( Strong Name ) / Xatom\u2019s Documentation"
+      "title": "Obfuscating signed assemblies | Aldaray",
+      "url": "https://www.aldaray.com/Rummage/Doc/Signed-assemblies"
+    },
+    {
+      "title": "Signing a DLL ( Strong Name ) / Xatom\u2019s Documentation",
+      "url": "https://xatom.dev/2013/10/08/signing-a-dll-strong-name"
     }
   ],
   "roslyn source generator config binding": [
     {
-      "url": "https://www.thinktecture.com/en/net/roslyn-source-generators-configuration/",
-      "title": "Roslyn Source Generators : Configuration \u2013 Part 10 - Thinktecture AG"
+      "title": "Roslyn Source Generators : Configuration \u2013 Part 10 - Thinktecture AG",
+      "url": "https://www.thinktecture.com/en/net/roslyn-source-generators-configuration/"
     },
     {
-      "url": "https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.cookbook.md",
-      "title": "roslyn /docs/features/ source - generators .cookbook.md at main..."
+      "title": "roslyn /docs/features/ source - generators .cookbook.md at main...",
+      "url": "https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.cookbook.md"
     },
     {
-      "url": "https://stackoverflow.com/questions/79374419/how-to-build-roslyn-source-generator-pipeline-that-depends-on-config-options-pas",
-      "title": "c# - How to build Roslyn Source Generator pipeline... - Stack Overflow"
+      "title": "C# in the Age of AI: Build Smart, Self-Writing Code with Source ...",
+      "url": "https://towardsdev.com/c-in-the-age-of-ai-build-smart-self-writing-code-with-source-generators-8e686c84889c"
+    },
+    {
+      "title": "c# - How to build Roslyn Source Generator pipeline... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/79374419/how-to-build-roslyn-source-generator-pipeline-that-depends-on-config-options-pas"
+    },
+    {
+      "title": "[Update] Creating Nostalgic AOP Using Source Generator",
+      "url": "https://dev.to/tsuyoshiushio/update-creating-nostalgic-aop-using-source-generator-3i75"
     }
   ],
   "unity main thread dispatcher pattern": [
     {
-      "url": "https://stackoverflow.com/questions/58469468/what-does-unitymainthreaddispatcher-do",
-      "title": "c# - What does UnityMainThreadDispatcher do? - Stack Overflow"
+      "title": "c# - What does UnityMainThreadDispatcher do? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/58469468/what-does-unitymainthreaddispatcher-do"
     },
     {
-      "url": "https://github.com/PimDeWitte/UnityMainThreadDispatcher",
-      "title": "PimDeWitte/UnityMainThreadDispatcher: A simple, thread -safe way of..."
+      "title": "PimDeWitte/UnityMainThreadDispatcher: A simple, thread -safe way of...",
+      "url": "https://github.com/PimDeWitte/UnityMainThreadDispatcher"
     },
     {
-      "url": "https://openillumi.com/en/en-unity-main-thread-error-dispatch-pattern/",
-      "title": "Unity Main Thread Errors Solved: Safe UI Access & Dispatcher ..."
+      "title": "The Dispatcher Pattern",
+      "url": "https://www.codecapers.com.au/the-dispatcher-pattern/"
     },
     {
-      "url": "https://openupm.com/packages/com.mainthreaddispatcher.unity/",
-      "title": "Unity Main Thread Dispatcher | OpenUPM"
+      "title": "Unity Main Thread Errors Solved: Safe UI Access & Dispatcher ...",
+      "url": "https://openillumi.com/en/en-unity-main-thread-error-dispatch-pattern/"
+    },
+    {
+      "title": "Unity Main Thread Dispatcher | OpenUPM",
+      "url": "https://openupm.com/packages/com.mainthreaddispatcher.unity/"
     }
   ],
   "threading in mods avoid deadlocks": [
     {
-      "url": "https://stackoverflow.com/questions/1043928/avoid-deadlocks-in-a-multithreaded-process",
-      "title": "multithreading - Avoid deadlocks in a multithreaded... - Stack Overflow"
+      "title": "multithreading - Avoid deadlocks in a multithreaded... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/1043928/avoid-deadlocks-in-a-multithreaded-process"
     },
     {
-      "url": "https://stackoverflow.com/questions/1057054/how-to-avoid-deadlocks",
-      "title": "multithreading - How to avoid deadlocks ? - Stack Overflow"
+      "title": "multithreading - How to avoid deadlocks ? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/1057054/how-to-avoid-deadlocks"
     },
     {
-      "url": "https://app.studyraid.com/en/read/15139/524433/avoiding-deadlocks-with-careful-lock-ordering",
-      "title": "Avoiding deadlocks with careful lock ordering - C++ Threading ..."
+      "title": "Avoiding deadlocks with careful lock ordering - C++ Threading ...",
+      "url": "https://app.studyraid.com/en/read/15139/524433/avoiding-deadlocks-with-careful-lock-ordering"
     },
     {
-      "url": "https://codegym.cc/quests/lectures/questmultithreading.level07.lecture05",
-      "title": "Course Java Multithreading - Lecture: Strategies to avoid deadLock"
+      "title": "Course Java Multithreading - Lecture: Strategies to avoid deadLock",
+      "url": "https://codegym.cc/quests/lectures/questmultithreading.level07.lecture05"
     },
     {
-      "url": "https://medium.techkoalainsights.com/8-java-threading-tricks-to-avoid-deadlocks-java-threading-mastery-3f67ffbbb8c4",
-      "title": "8 Java Threading Tricks to Avoid Deadlocks : Java Threading Mastery"
+      "title": "8 Java Threading Tricks to Avoid Deadlocks : Java Threading Mastery",
+      "url": "https://medium.techkoalainsights.com/8-java-threading-tricks-to-avoid-deadlocks-java-threading-mastery-3f67ffbbb8c4"
     }
   ],
   "unit tests for mod logic without game": [
     {
-      "url": "https://hackernoon.com/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce",
-      "title": "Redux Testing Step by Step: A Simple Methodology for... | HackerNoon"
+      "title": "GitHub - pmgl/starblast- modding : Starblast Modding tools and API...",
+      "url": "https://github.com/pmgl/starblast-modding"
     },
     {
-      "url": "https://www.html5gamedevs.com/topic/11107-integartion-test-and-game-testing/",
-      "title": "HTML5 Game Devs Forum - HTML5GameDevs.com"
+      "title": "Redux Testing Step by Step: A Simple Methodology for... | HackerNoon",
+      "url": "https://hackernoon.com/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce"
+    },
+    {
+      "title": "Block Puzzle \u2014 Base Game Logic . In the previous article on... | Medium",
+      "url": "https://medium.com/@nuno.mt.sousa/block-puzzle-base-game-logic-8280139e9528"
+    },
+    {
+      "title": "HTML5 Game Devs Forum - HTML5GameDevs.com",
+      "url": "https://www.html5gamedevs.com/topic/11107-integartion-test-and-game-testing/"
+    },
+    {
+      "title": "In Controller unit tests , should you unit test the HTML?",
+      "url": "https://discuss.hotwired.dev/t/in-controller-unit-tests-should-you-unit-test-the-html/285"
     }
   ],
   "headless unity for ci tests": [
     {
-      "url": "https://partiallydisassembled.net/posts/unity-headless-script.html",
-      "title": "Tips for running headless Unity from a script"
+      "title": "Tips for running headless Unity from a script",
+      "url": "https://partiallydisassembled.net/posts/unity-headless-script.html"
     },
     {
-      "url": "https://docs.unity3d.com/2023.2/Documentation/Manual/desktop-headless-mode.html",
-      "title": "Unity - Manual: Desktop headless mode"
+      "title": "Unity - Manual: Desktop headless mode",
+      "url": "https://docs.unity3d.com/2023.2/Documentation/Manual/desktop-headless-mode.html"
     },
     {
-      "url": "https://circleci.com/developer/ja/orbs/orb/game-ci/unity",
-      "title": "CircleCI Developer Hub - game- ci / unity"
+      "title": "Docker GPU Support? \u00b7 Issue #102 \u00b7 game- ci / unity - test -runner",
+      "url": "https://github.com/game-ci/unity-test-runner/issues/102"
     },
     {
-      "url": "https://prographers.com/blog/how-to-run-unity-in-headless-mode)",
-      "title": "How to run Unity in headless mode | Prographers"
+      "title": "CircleCI Developer Hub - game- ci / unity",
+      "url": "https://circleci.com/developer/ja/orbs/orb/game-ci/unity"
+    },
+    {
+      "title": "How to run Unity in headless mode | Prographers",
+      "url": "https://prographers.com/blog/how-to-run-unity-in-headless-mode)"
     }
   ],
   "replay system deterministic inputs research": [
     {
-      "url": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/102374/dongyoon_1.pdf?sequence=1",
-      "title": "Holistic System Design for Deterministic Replay"
+      "title": "Holistic System Design for Deterministic Replay",
+      "url": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/102374/dongyoon_1.pdf?sequence=1"
     },
     {
-      "url": "https://fenix.tecnico.ulisboa.pt/downloadFile/395144739404/MEIC-A-62505-JOAO-SILVA-thesis.pdf",
-      "title": "Ditto \u2026 Deterministic Execution Replay for the Java Virtual Machine..."
+      "title": "Ditto \u2026 Deterministic Execution Replay for the Java Virtual Machine...",
+      "url": "https://fenix.tecnico.ulisboa.pt/downloadFile/395144739404/MEIC-A-62505-JOAO-SILVA-thesis.pdf"
     },
     {
-      "url": "https://www.researchgate.net/publication/282351631_Deterministic_Replay",
-      "title": "Deterministic Replay | Request PDF"
+      "title": "Deterministic Replay | Request PDF",
+      "url": "https://www.researchgate.net/publication/282351631_Deterministic_Replay"
     },
     {
-      "url": "https://eecs.pku.edu.cn/en/info/1041/1089.htm",
-      "title": "Major Research Breakthrough on Deterministic Replay by Professor..."
+      "title": "Major Research Breakthrough on Deterministic Replay by Professor...",
+      "url": "https://eecs.pku.edu.cn/en/info/1041/1089.htm"
+    },
+    {
+      "title": "Replay",
+      "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-216.pdf"
     }
   ],
   "reproducible save state test harness": [
     {
-      "url": "https://jp.mathworks.com/help/sltest/ug/test-harness-and-model-relationship.html",
-      "title": "Test Harness and Model Relationship - MATLAB & Simulink"
+      "title": "Firmware & Embedded Software Testing",
+      "url": "https://3point1.design/services/firmware-embedded-software-testing/"
     },
     {
-      "url": "https://book.servo.org/design-documentation/servodriver.html",
-      "title": "servodriver test harness - The Servo Book"
+      "title": "Test Harness and Model Relationship - MATLAB & Simulink",
+      "url": "https://jp.mathworks.com/help/sltest/ug/test-harness-and-model-relationship.html"
     },
     {
-      "url": "https://github.com/MassTransit/MassTransit/discussions/5492",
-      "title": "ITestHarness issues on CI pipeline when reusing test harness across..."
+      "title": "servodriver test harness - The Servo Book",
+      "url": "https://book.servo.org/design-documentation/servodriver.html"
+    },
+    {
+      "title": "Test harness causes device to go into Fastboot mode... - Issue Tracker",
+      "url": "https://issuetracker.google.com/issues/301136522"
+    },
+    {
+      "title": "ITestHarness issues on CI pipeline when reusing test harness across...",
+      "url": "https://github.com/MassTransit/MassTransit/discussions/5492"
     }
   ],
   "google sheets api update compatibility matrix": [
     {
-      "url": "https://stackoverflow.com/questions/72562988/how-to-update-multiple-distant-rows-in-google-sheets-using-api",
-      "title": "How to update multiple distant rows in google sheets using API"
+      "title": "How to update multiple distant rows in google sheets using API",
+      "url": "https://stackoverflow.com/questions/72562988/how-to-update-multiple-distant-rows-in-google-sheets-using-api"
     },
     {
-      "url": "https://developers.google.com/workspace/sheets/api/guides/concepts",
-      "title": "Google Sheets API Overview | Google for Developers"
+      "title": "Google Sheets API Overview | Google for Developers",
+      "url": "https://developers.google.com/workspace/sheets/api/guides/concepts"
+    },
+    {
+      "title": "Update Column Values with monday.com API on New... - Pipedream",
+      "url": "https://pipedream.com/apps/google-sheets/integrations/monday/update-column-values-with-monday-com-api-on-new-row-added-instant-from-google-sheets-api-int_0GsXoQvQ"
+    },
+    {
+      "title": "google -spreadsheet - npm",
+      "url": "https://www.npmjs.com/package/google-spreadsheet"
+    },
+    {
+      "title": "Update row in google sheet (ERROR) - Questions - Make Community",
+      "url": "https://community.make.com/t/update-row-in-google-sheet-error/20955"
     }
   ],
-  "compatibility matrix template spreadsheet": [],
+  "compatibility matrix template spreadsheet": [
+    {
+      "title": "50 Beautiful Excel Spreadsheet Templates \u00b7 Polymer",
+      "url": "https://www.polymersearch.com/blog/50-beautiful-excel-spreadsheet-templates"
+    },
+    {
+      "title": "Eisenhower Matrix Spreadsheet Template . Excel Google Sheets .",
+      "url": "https://ru.pinterest.com/pin/211176670126192144/"
+    },
+    {
+      "title": "Download a free Eisenhower Matrix Template to analyze and prioritize...",
+      "url": "https://www.vertex42.com/ExcelTemplates/eisenhower-matrix.html"
+    },
+    {
+      "title": "9 Free Escalation Matrix Templates : All Types & Formats",
+      "url": "https://www.smartsheet.com/content/escalation-matrix-templates"
+    },
+    {
+      "title": "Numerology calculation by Matrix of Destiny. : Matrix destiny",
+      "url": "https://matrix-destiny.com/"
+    }
+  ],
   "discord schedule events how to": [
     {
-      "url": "https://beebom.com/how-create-discord-events/",
-      "title": "How to Create Discord Events in 2022 (Desktop & Mobile) | Beebom"
+      "title": "Schedule Discord Events , Customize RSVPs, and Send Reminders",
+      "url": "https://www.groupflows.com/discord"
     },
     {
-      "url": "https://www.youtube.com/watch?v=aOswTGWrNAw",
-      "title": "How To \uff5c Schedule Discord Events using Sesh bot... - YouTube"
+      "title": "How to Create Discord Events in 2022 (Desktop & Mobile) | Beebom",
+      "url": "https://beebom.com/how-create-discord-events/"
     },
     {
-      "url": "https://www.remote.tools/discord/discord-events",
-      "title": "How Can You Schedule Discord Events for Your Community?"
+      "title": "How To \uff5c Schedule Discord Events using Sesh bot... - YouTube",
+      "url": "https://www.youtube.com/watch?v=aOswTGWrNAw"
+    },
+    {
+      "title": "How Can You Schedule Discord Events for Your Community?",
+      "url": "https://www.remote.tools/discord/discord-events"
+    },
+    {
+      "title": "Apollo Discord Bot: The best calendar and event bot on Discord",
+      "url": "https://apollo.fyi/"
     }
   ],
   "discord bot collect logs zip upload": [
     {
-      "url": "https://stackoverflow.com/questions/70763962/discord-bot-collect-data-from-dm",
-      "title": "discord .js - Discord bot - Collect data from Dm - Stack Overflow"
+      "title": "discord .js - Discord bot - Collect data from Dm - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/70763962/discord-bot-collect-data-from-dm"
+    },
+    {
+      "title": "BotGhost | Make your own Discord bot for free with no coding required.",
+      "url": "https://botghost.com/"
+    },
+    {
+      "title": "Discord Bots and Discord Apps | The #1 Discord Bot and Discord ...",
+      "url": "https://top.gg/"
+    },
+    {
+      "title": "Multi Selfbots \u00b7 Issue #92 \u00b7 aiko-chan-ai/ discord .js-selfbot-v13 \u00b7 GitHub",
+      "url": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/92"
+    },
+    {
+      "title": "Add recorder - ia. Discord Bot | Invite Link",
+      "url": "https://discordbotlist.com/bots/recorder-ia"
     }
   ],
   "moderation guidelines contributor covenant": [
     {
-      "url": "https://www.biodynamo.org/developer-guide/contributor-covenant",
-      "title": "BioDynaMo.org - Contributor covenant"
+      "title": "BioDynaMo.org - Contributor covenant",
+      "url": "https://www.biodynamo.org/developer-guide/contributor-covenant"
     },
     {
-      "url": "https://www.contributor-covenant.org/",
-      "title": "Contributor Covenant | A Code of Conduct for Digital Communities"
+      "title": "Contributor Covenant | A Code of Conduct for Digital Communities",
+      "url": "https://www.contributor-covenant.org/"
     },
     {
-      "url": "https://docs.friggframework.org/0.2/contributing/contributing/code_of_conduct",
-      "title": "Contributor Covenant Code of Conduct | FRIGG"
+      "title": "Contributor Covenant Code of Conduct | FRIGG",
+      "url": "https://docs.friggframework.org/0.2/contributing/contributing/code_of_conduct"
     },
     {
-      "url": "https://infoask.org/blog/github-and-contributor-covenant-handling",
-      "title": "GitHub & Contributor Covenant : Handling Private Communication"
+      "title": "GitHub & Contributor Covenant : Handling Private Communication",
+      "url": "https://infoask.org/blog/github-and-contributor-covenant-handling"
+    },
+    {
+      "title": "6 content moderation guidelines to consider",
+      "url": "https://www.techtarget.com/whatis/feature/Content-moderation-guidelines-to-consider"
     }
   ],
   "issue template bug report with logs": [
     {
-      "url": "https://testlio.com/blog/the-ideal-bug-report/",
-      "title": "Bug Report : How to Write One That Devs Love [+ Template ]"
+      "title": "Bug Report : How to Write One That Devs Love [+ Template ]",
+      "url": "https://testlio.com/blog/the-ideal-bug-report/"
     },
     {
-      "url": "https://dev.to/drsavvina/how-to-write-an-effective-bug-report-incl-template-1da2",
-      "title": "How to Write an Effective Bug Report (incl. template ) - DEV Community"
+      "title": "Bug Reporting Template for Tracking Product Bugs | Slack",
+      "url": "https://slack.com/intl/en-ie/templates/bug-intake-triage"
     },
     {
-      "url": "https://usersnap.com/blog/bug-report-template/",
-      "title": "15 Bug Report Templates & Examples To Improve Your QA Process"
+      "title": "How to Write an Effective Bug Report (incl. template ) - DEV Community",
+      "url": "https://dev.to/drsavvina/how-to-write-an-effective-bug-report-incl-template-1da2"
     },
     {
-      "url": "https://www.smartsheet.com/bug-report-form-templates",
-      "title": "Free Bug Report Templates and Forms | Smartsheet"
+      "title": "15 Bug Report Templates & Examples To Improve Your QA Process",
+      "url": "https://usersnap.com/blog/bug-report-template/"
+    },
+    {
+      "title": "Free Bug Report Templates and Forms | Smartsheet",
+      "url": "https://www.smartsheet.com/bug-report-form-templates"
     }
   ],
   "github actions create release notes changelog": [
     {
-      "url": "https://dev.to/renehernandez/automate-changelog-and-releases-creation-in-github-3ajm",
-      "title": "Automate changelog and releases creation in GitHub"
+      "title": "Automate changelog and releases creation in GitHub",
+      "url": "https://dev.to/renehernandez/automate-changelog-and-releases-creation-in-github-3ajm"
     },
     {
-      "url": "https://github.com/kuvaus/changelog-releasenotes-action",
-      "title": "GitHub - kuvaus/ changelog - releasenotes - action : Generate release ..."
+      "title": "GitHub - kuvaus/ changelog - releasenotes - action : Generate release ...",
+      "url": "https://github.com/kuvaus/changelog-releasenotes-action"
     },
     {
-      "url": "https://www.thisdot.co/blog/tag-and-release-your-project-with-github-actions-workflows",
-      "title": "Tag and Release Your Project with GitHub Actions ... - This Dot Labs"
+      "title": "Tag and Release Your Project with GitHub Actions ... - This Dot Labs",
+      "url": "https://www.thisdot.co/blog/tag-and-release-your-project-with-github-actions-workflows"
+    },
+    {
+      "title": "Release Process | home-assistant/android | DeepWiki",
+      "url": "https://deepwiki.com/home-assistant/android/9.2-release-process"
+    },
+    {
+      "title": "Coming soon: Simpler pricing and a better... - GitHub Changelog",
+      "url": "https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/"
     }
   ],
   "keep a changelog format example": [
     {
-      "url": "https://openchangelog.com/docs/getting-started/keep-a-changelog/",
-      "title": "Keep A Changelog Format | Openchangelog Docs"
+      "title": "GitHub - phly/ keep - a - changelog : Tools for manipulating...",
+      "url": "https://github.com/phly/keep-a-changelog"
     },
     {
-      "url": "https://dev.to/marcoieni/keep-a-changelog-hf0",
-      "title": "Keep a changelog ! - DEV Community"
+      "title": "Keep a changelog ! - DEV Community",
+      "url": "https://dev.to/marcoieni/keep-a-changelog-hf0"
     },
     {
-      "url": "https://announcekit.app/blog/keep-a-changelog/",
-      "title": "How To Keep A Changelog : Writing Changelogs For Humans"
+      "title": "Keep A Changelog Format | Openchangelog Docs",
+      "url": "https://openchangelog.com/docs/getting-started/keep-a-changelog/"
+    },
+    {
+      "title": "slavkojos/ keep - a - changelog - npm",
+      "url": "https://www.npmjs.com/package/@slavkojos/keep-a-changelog"
+    },
+    {
+      "title": "How To Keep A Changelog : Writing Changelogs For Humans",
+      "url": "https://announcekit.app/blog/keep-a-changelog/"
     }
   ],
   "7zip cli solid vs zip performance": [
     {
-      "url": "https://documentation.help/7-Zip/performance.htm",
-      "title": "Performance - 7 - Zip Documentation"
+      "title": "7 - Zip - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/7-Zip"
     },
     {
-      "url": "https://wiki.archlinux.org/title/7-Zip",
-      "title": "7 - Zip - ArchWiki"
+      "title": "ZIP vs RAR vs 7z Best Compressor ! WinRAR vs 7z - YouTube",
+      "url": "https://www.youtube.com/watch?v=11zRG4tyHJo"
+    },
+    {
+      "title": "compression - Compressing with RAR vs ZIP - Super User",
+      "url": "https://superuser.com/questions/5886/compressing-with-rar-vs-zip"
+    },
+    {
+      "title": "Performance - 7 - Zip Documentation",
+      "url": "https://documentation.help/7-Zip/performance.htm"
+    },
+    {
+      "title": "7 - Zip - ArchWiki",
+      "url": "https://wiki.archlinux.org/title/7-Zip"
     }
   ],
-  "zip archive comment programmatically c#": [],
+  "zip archive comment programmatically c#": [
+    {
+      "title": "How to use ZipFile in .NET 8.0 for File Archiving \u2013 andrewhalil.com",
+      "url": "https://andrewhalil.com/2025/09/25/how-to-use-zipfile-in-net-8-0-for-file-archiving/"
+    },
+    {
+      "title": "Extracting files from a Zip archive programmatically using C# and...",
+      "url": "https://stackoverflow.com/questions/507751/extracting-files-from-a-zip-archive-programmatically-using-c-sharp-and-system-io"
+    },
+    {
+      "title": "Add Comments in Excel using C# .NET | Format Comments in Excel",
+      "url": "https://blog.aspose.com/cells/add-comments-in-excel-using-csharp/"
+    },
+    {
+      "title": "Programmatically get Summary comments at runtime in C#",
+      "url": "https://www.iditect.com/faq/csharp/programmatically-get-summary-comments-at-runtime-in-c.html"
+    },
+    {
+      "title": "c# - Programmatically creating new tags in Unity - Game...",
+      "url": "https://gamedev.stackexchange.com/questions/135649/programmatically-creating-new-tags-in-unity"
+    }
+  ],
   "git lfs for large audio assets": [
     {
-      "url": "https://www.atlassian.com/git/tutorials/git-lfs",
-      "title": "Git LFS - large file storage | Atlassian Git Tutorial"
+      "title": "Git LFS - large file storage | Atlassian Git Tutorial",
+      "url": "https://www.atlassian.com/git/tutorials/git-lfs"
     },
     {
-      "url": "https://git-lfs.com/",
-      "title": "Git Large File Storage | Git Large File Storage ( LFS ) replaces large ..."
+      "title": "Git Large File Storage | Git Large File Storage ( LFS ) replaces large ...",
+      "url": "https://git-lfs.com/"
     },
     {
-      "url": "https://blog.logrocket.com/efficiently-manage-large-files-git-with-git-lfs/",
-      "title": "Efficiently manage large files in Git with Git LFS - LogRocket Blog"
+      "title": "Efficiently manage large files in Git with Git LFS - LogRocket Blog",
+      "url": "https://blog.logrocket.com/efficiently-manage-large-files-git-with-git-lfs/"
     },
     {
-      "url": "https://ayunascode.medium.com/how-to-push-large-files-to-github-253d05cc6a09",
-      "title": "How to push large files to GitHub | by Ayuna Vogel | Medium"
+      "title": "How to push large files to GitHub | by Ayuna Vogel | Medium",
+      "url": "https://ayunascode.medium.com/how-to-push-large-files-to-github-253d05cc6a09"
+    },
+    {
+      "title": "Audio and Media | lewisgoing/lewisgo.ing | DeepWiki",
+      "url": "https://deepwiki.com/lewisgoing/lewisgo.ing/5.2-audio-and-media"
     }
   ],
   "gitattributes normalize line endings": [
     {
-      "url": "https://docs.github.com/en/get-started/git-basics/configuring-git-to-handle-line-endings",
-      "title": "Configuring Git to handle line endings - GitHub Docs"
+      "title": "Configuring Git to handle line endings - GitHub Docs",
+      "url": "https://docs.github.com/en/get-started/git-basics/configuring-git-to-handle-line-endings"
     },
     {
-      "url": "https://git-scm.com/docs/gitattributes",
-      "title": "Git - gitattributes Documentation"
+      "title": "Git - gitattributes Documentation",
+      "url": "https://git-scm.com/docs/gitattributes"
     },
     {
-      "url": "https://stackoverflow.com/questions/15641259/how-to-normalize-working-tree-line-endings-in-git",
-      "title": "How to normalize working tree line endings in Git? - Stack Overflow"
+      "title": "How to normalize working tree line endings in Git? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/15641259/how-to-normalize-working-tree-line-endings-in-git"
     },
     {
-      "url": "https://dev.to/kevinshu/git-and-normalization-of-line-endings-228j",
-      "title": "Git and normalization of line - endings - DEV Community"
+      "title": "Git and normalization of line - endings - DEV Community",
+      "url": "https://dev.to/kevinshu/git-and-normalization-of-line-endings-228j"
     },
     {
-      "url": "https://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git/",
-      "title": "CRLF vs. LF: Normalizing Line Endings in... | Aleksandr Hovhannisyan"
+      "title": "CRLF vs. LF: Normalizing Line Endings in... | Aleksandr Hovhannisyan",
+      "url": "https://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git/"
     }
   ],
   "steam proton game log location": [
     {
-      "url": "https://github.com/ValveSoftware/Proton",
-      "title": "GitHub - ValveSoftware/ Proton : Compatibility tool for Steam Play..."
+      "title": "GitHub - ValveSoftware/ Proton : Compatibility tool for Steam Play...",
+      "url": "https://github.com/ValveSoftware/Proton"
     },
     {
-      "url": "https://steamcommunity.com/app/221410/discussions/8/3081016749012526794/",
-      "title": "View logs for game crashing :: Steam for Linux Steam Play"
+      "title": "View logs for game crashing :: Steam for Linux Steam Play",
+      "url": "https://steamcommunity.com/app/221410/discussions/8/3081016749012526794/"
     },
     {
-      "url": "https://www.protondb.com/help/troubleshooting-faq",
-      "title": "protondb.com/help/troubleshooting-faq"
+      "title": "protondb.com/help/troubleshooting-faq",
+      "url": "https://www.protondb.com/help/troubleshooting-faq"
     },
     {
-      "url": "https://matiargs.com/garden/linux/how-to-see-steam-proton-log/",
-      "title": "How to see steam proton log ? | Matiargs"
+      "title": "Can't start TU using Steam / Proton . Begins running in background for...",
+      "url": "https://forums.pixeltailgames.com/t/cant-start-tu-using-steam-proton-begins-running-in-background-for-a-fraction-of-a-second-then-closes-without-visible-window-or-error-message/34531"
+    },
+    {
+      "title": "How to see steam proton log ? | Matiargs",
+      "url": "https://matiargs.com/garden/linux/how-to-see-steam-proton-log/"
     }
   ],
   "protontricks dxvk debug hud": [
     {
-      "url": "https://github.com/doitsujin/dxvk",
-      "title": "GitHub - doitsujin/ dxvk : Vulkan-based implementation of D3D8, 9, 10..."
+      "title": "GitHub - doitsujin/ dxvk : Vulkan-based implementation of D3D8, 9, 10...",
+      "url": "https://github.com/doitsujin/dxvk"
     },
     {
-      "url": "https://dxvk.org/how-to-check-if-dxvk-is-working/",
-      "title": "DXVK is active on your system using logs, HUD overlays, and..."
+      "title": "DXVK is active on your system using logs, HUD overlays, and...",
+      "url": "https://dxvk.org/how-to-check-if-dxvk-is-working/"
     },
     {
-      "url": "https://wiki.geekcom.org/ru/guides/protontricks",
-      "title": "ProtonTricks \u2014 \u043f\u043e\u043b\u043d\u044b\u0439 \u0433\u0438\u0434: \u0447\u0442\u043e \u043d\u0430\u0436\u0438\u043c\u0430\u0442\u044c \u0438 \u0437\u0430\u0447\u0435\u043c | Wiki.js"
+      "title": "ProtonTricks \u2014 \u043f\u043e\u043b\u043d\u044b\u0439 \u0433\u0438\u0434: \u0447\u0442\u043e \u043d\u0430\u0436\u0438\u043c\u0430\u0442\u044c \u0438 \u0437\u0430\u0447\u0435\u043c | Wiki.js",
+      "url": "https://wiki.geekcom.org/ru/guides/protontricks"
+    },
+    {
+      "title": "The Ultimate Guide: How to Set Up DXVK in Wine on Linux for...",
+      "url": "https://www.huuphan.com/2025/10/how-to-set-up-dxvk-in-wine-on-linux.html"
+    },
+    {
+      "title": "DXVK 2.0 (A Vulkan-based translation layer for DX...) | guru3D Forums",
+      "url": "https://forums.guru3d.com/threads/dxvk-2-0-a-vulkan-based-translation-layer-for-dx-9-10-11.433720/page-11"
     }
   ],
   "shader cross compile hlsl to spirv dxc": [
     {
-      "url": "https://discourse.libsdl.org/t/sdl-gpu-shadercross-optional-dxc-usage-56/55505",
-      "title": "SDL_gpu_shadercross: Optional DXC usage (#56) - SDL Commits..."
+      "title": "SDL_gpu_shadercross: Optional DXC usage (#56) - SDL Commits...",
+      "url": "https://discourse.libsdl.org/t/sdl-gpu-shadercross-optional-dxc-usage-56/55505"
     },
     {
-      "url": "https://www.khronos.org/assets/uploads/developers/presentations/BG3_Shaders_Larian.pdf",
-      "title": "HLSL shaders compilation pipeline in"
+      "title": "HLSL shaders compilation pipeline in",
+      "url": "https://www.khronos.org/assets/uploads/developers/presentations/BG3_Shaders_Larian.pdf"
     },
     {
-      "url": "https://stackoverflow.com/questions/77034286/why-is-my-hlsl-shader-unable-to-compile-to-spirv",
-      "title": "c++ - Why is my HLSL shader unable to compile to SPIRV ?"
+      "title": "GitHub - KhronosGroup/ SPIRV - Cross : SPIRV - Cross is a practical tool...",
+      "url": "https://github.com/KhronosGroup/SPIRV-Cross"
     },
     {
-      "url": "https://medium.com/@coderfromnineteen/vulkan-hlsl-shader-language-binding-1344856a9f60",
-      "title": "Vulkan HLSL shader language binding | by coderfromnineteen | Medium"
+      "title": "c++ - Why is my HLSL shader unable to compile to SPIRV ?",
+      "url": "https://stackoverflow.com/questions/77034286/why-is-my-hlsl-shader-unable-to-compile-to-spirv"
+    },
+    {
+      "title": "Vulkan HLSL shader language binding | by coderfromnineteen | Medium",
+      "url": "https://medium.com/@coderfromnineteen/vulkan-hlsl-shader-language-binding-1344856a9f60"
     }
   ],
   "glslang validator hlsl tips": [
     {
-      "url": "https://github.com/KhronosGroup/glslang",
-      "title": "GitHub - KhronosGroup/ glslang : Khronos-reference front end for..."
+      "title": "GitHub - KhronosGroup/ glslang : Khronos-reference front end for...",
+      "url": "https://github.com/KhronosGroup/glslang"
     },
     {
-      "url": "https://gitmemories.com/KhronosGroup/glslang/issues/2754",
-      "title": "glslang HLSL validation error when a Texture2D is inside a cbuffer"
+      "title": "Shader validator - Visual Studio Marketplace",
+      "url": "https://marketplace.visualstudio.com/items?itemName=antaalt.shader-validator"
+    },
+    {
+      "title": "visual studio code - Set GLSLValidatorPath in VsCode - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/54853442/set-glslvalidatorpath-in-vscode"
+    },
+    {
+      "title": "glslang HLSL validation error when a Texture2D is inside a cbuffer",
+      "url": "https://gitmemories.com/KhronosGroup/glslang/issues/2754"
+    },
+    {
+      "title": "glslang - validator -prebuilt CDN by jsDelivr - A CDN for npm and GitHub",
+      "url": "https://www.jsdelivr.com/package/npm/glslang-validator-prebuilt"
     }
   ],
   "pso shader cache stutter explanation": [
     {
-      "url": "https://www.unrealengine.com/en-US/tech-blog/game-engines-and-shader-stuttering-unreal-engines-solution-to-the-problem",
-      "title": "Game engines and shader stuttering : Unreal... - Unreal Engine"
+      "title": "Shader Stutter Fix - Enable UE Shader Cache Defaults",
+      "url": "https://www.nexusmods.com/oblivionremastered/mods/3726?tab=posts"
     },
     {
-      "url": "https://blog.rime.red/pso-caching-in-unreal-engine/",
-      "title": "PSO Caching in Unreal Engine"
+      "title": "Game engines and shader stuttering : Unreal... - Unreal Engine",
+      "url": "https://www.unrealengine.com/en-US/tech-blog/game-engines-and-shader-stuttering-unreal-engines-solution-to-the-problem"
     },
     {
-      "url": "https://www.tomlooman.com/psocaching-unreal-engine/",
-      "title": "Setting up PSO Precaching & Bundled PSOs for Unreal... - Tom Looman"
+      "title": "PSO Caching in Unreal Engine",
+      "url": "https://blog.rime.red/pso-caching-in-unreal-engine/"
     },
     {
-      "url": "https://discussions.unity.com/t/prevent-shader-compilation-stutters-with-pso-tracing-in-unity-6/951031",
-      "title": "discussions.unity.com/t/prevent- shader -compilation- stutters -with- pso ..."
+      "title": "Setting up PSO Precaching & Bundled PSOs for Unreal... - Tom Looman",
+      "url": "https://www.tomlooman.com/psocaching-unreal-engine/"
+    },
+    {
+      "title": "discussions.unity.com/t/prevent- shader -compilation- stutters -with- pso ...",
+      "url": "https://discussions.unity.com/t/prevent-shader-compilation-stutters-with-pso-tracing-in-unity-6/951031"
     }
   ],
   "official art book store capcom": [
     {
-      "url": "https://www.capcom.com/",
-      "title": "Capcom"
+      "title": "Capcom",
+      "url": "https://www.capcom.com/"
+    },
+    {
+      "title": "Capcom USA > Catalog",
+      "url": "https://games.capcomusa.com/"
+    },
+    {
+      "title": "Capcom Store POPUP opens at Tokyo Dome City... | Saiga NAK",
+      "url": "https://saiganak.com/event/capcom-store-domcity-sep2025/"
+    },
+    {
+      "title": "Okami Art Book",
+      "url": "https://kr.pinterest.com/ideas/okami-art-book/921465551998/"
+    },
+    {
+      "title": "Capcom Store Capcorom - Meccha Japan",
+      "url": "https://meccha-japan.com/es/1478-capcom-store-capcorom"
     }
   ],
   "video game ost lossless bandcamp": [
     {
-      "url": "https://tobyfox.bandcamp.com/",
-      "title": "DELTARUNE Chapters 3+4 OST | Toby Fox"
+      "title": "Video Game Music Downloads - Free MP3 OST downloads - Game ...",
+      "url": "https://downloads.khinsider.com/"
+    },
+    {
+      "title": "DELTARUNE Chapters 3+4 OST | Toby Fox",
+      "url": "https://tobyfox.bandcamp.com/"
+    },
+    {
+      "title": "Complete Lossless OST of deltarune chapter 1 : Internet Archive",
+      "url": "https://archive.org/details/DELTARUNE_Chapter_1_OST"
+    },
+    {
+      "title": "OMORI OST : Part 2 LIVE | Guitar Coach Reacts to OMORI Video ...",
+      "url": "https://www.youtube.com/watch?v=MPUcubGdmKM"
+    },
+    {
+      "title": "Spaceman Sparkles 3D - OST - LOSSLESS | Steambase",
+      "url": "https://steambase.io/apps/spaceman-sparkles-3d-ost-lossless-dlc"
     }
   ],
-  "field recording ambience cc0 library": [],
+  "field recording ambience cc0 library": [
+    {
+      "title": "Field Recording / Ambience / Eerie - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLe1GkHLP1UAIzQgJjeiq7RFkd-YmyZi4C"
+    },
+    {
+      "title": "field recording - Getting ambience when it is really quiet.",
+      "url": "https://sound.stackexchange.com/questions/2259/getting-ambience-when-it-is-really-quiet"
+    },
+    {
+      "title": "Recording ambience ( field - recording ) - thoughts - SOS Forum",
+      "url": "https://www.soundonsound.com/forum/viewtopic.php?f=15&t=69097&p=636089&hilit="
+    },
+    {
+      "title": "Daytime Natural Ambience - Trees In The Wind... : Internet Archive",
+      "url": "https://archive.org/details/daytime-natural-ambience-trees-in-the-wind-birds-flies"
+    },
+    {
+      "title": "Strange Game Ambient Loops 2 - Horror Game Ambience ... | Splice",
+      "url": "https://splice.com/sounds/packs/epic-stock-media/strange-game-ambient-loops-2-horror-game-ambience-loop-library/samples"
+    }
+  ],
   "handwritten dot grid notebook durable": [
     {
-      "url": "https://www.jetpens.com/Midori-MD-Notebook-Journal-A5-Dot-Grid/pd/26421",
-      "title": "Midori MD Notebook Journal - A5 - Dot Grid | JetPens"
+      "title": "Midori MD Notebook Journal - A5 - Dot Grid | JetPens",
+      "url": "https://www.jetpens.com/Midori-MD-Notebook-Journal-A5-Dot-Grid/pd/26421"
     },
     {
-      "url": "https://www.amazon.com/Maruman-MNEMOSYNE-Notebook-Inches-N109/dp/B07YQMBTSD",
-      "title": "Amazon.com : Maruman Mnemosyne Dot Grid Notebook - A4, 11.69..."
+      "title": "Amazon.com : Maruman Mnemosyne Dot Grid Notebook - A4, 11.69...",
+      "url": "https://www.amazon.com/Maruman-MNEMOSYNE-Notebook-Inches-N109/dp/B07YQMBTSD"
     },
     {
-      "url": "https://www.architecturelab.net/best-dot-grid-notebook/",
-      "title": "7 Best Dot Grid Notebooks For Bullet Journaling"
+      "title": "7 Best Dot Grid Notebooks For Bullet Journaling",
+      "url": "https://www.architecturelab.net/best-dot-grid-notebook/"
     },
     {
-      "url": "https://thestationeryselection.com/products/midori-md-notebook-a7-blank-page-copy",
-      "title": "MD Notebook - Dot Grid A5 \u2013 The Stationery Selection"
+      "title": "a5 grid notebook sold on Temu United States",
+      "url": "https://www.temu.com/a5-grid-notebook-5030193648076-s.html"
+    },
+    {
+      "title": "MD Notebook - Dot Grid A5 \u2013 The Stationery Selection",
+      "url": "https://thestationeryselection.com/products/midori-md-notebook-a7-blank-page-copy"
     }
   ]
 }

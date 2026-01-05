@@ -1,1234 +1,2202 @@
 {
   "justwatch rss feed leaving soon": [
     {
-      "url": "https://gadgeteer.co.za/where-to-get-rss-feed-alerts-for-netflix-content-leaving-soon/",
-      "title": "Where to get RSS feed alerts for Netflix content leaving soon"
+      "title": "RSS Feeds - Open RSS",
+      "url": "https://openrss.org/feeds"
+    },
+    {
+      "title": "Why does a Watch RSS feed trigger have... - Make Community",
+      "url": "https://community.make.com/t/why-does-a-watch-rss-feed-trigger-have-a-scheduleding/21894"
+    },
+    {
+      "title": "Where to get RSS feed alerts for Netflix content leaving soon",
+      "url": "https://gadgeteer.co.za/where-to-get-rss-feed-alerts-for-netflix-content-leaving-soon/"
+    },
+    {
+      "title": "7 RSS Feeds for the Movies Addict",
+      "url": "https://www.makeuseof.com/tag/4-rss-feeds-for-the-movies-addict/"
+    },
+    {
+      "title": "App of the week: JustWatch review | Stuff",
+      "url": "https://www.stuff.tv/review/app-of-the-week-justwatch-review/"
     }
   ],
   "letterboxd export to csv how to": [
     {
-      "url": "https://listy.is/import/letterboxd/",
-      "title": "How to export account data from Letterboxd \u2013 Listy"
+      "title": "How to export account data from Letterboxd \u2013 Listy",
+      "url": "https://listy.is/import/letterboxd/"
     },
     {
-      "url": "https://git.aaronmanning.net/aaronmanning/letterboxd-export",
-      "title": "aaronmanning/ letterboxd - export : A program to get a CSV export of..."
+      "title": "TheBirdsAreSpies/LetterboxdToPlex: Simple application to export ...",
+      "url": "https://github.com/TheBirdsAreSpies/LetterboxdToPlex"
     },
     {
-      "url": "https://fresh-catalog.com/export-letterboxd-list/",
-      "title": "Export Letterboxd List"
+      "title": "aaronmanning/ letterboxd - export : A program to get a CSV export of...",
+      "url": "https://git.aaronmanning.net/aaronmanning/letterboxd-export"
+    },
+    {
+      "title": "Import Letterboxd and IMDb lists and create movie... - Obsidian Forum",
+      "url": "https://forum.obsidian.md/t/import-letterboxd-and-imdb-lists-and-create-movie-database-as-markdown-table/58569"
+    },
+    {
+      "title": "Export Letterboxd List",
+      "url": "https://fresh-catalog.com/export-letterboxd-list/"
     }
   ],
   "build gephi network from tmdb credits": [
     {
-      "url": "https://github.com/gephi/gephi-toolkit",
-      "title": "GitHub - gephi / gephi -toolkit: Gephi Toolkit - All Gephi in a Library"
+      "title": "GitHub - gephi / gephi -toolkit: Gephi Toolkit - All Gephi in a Library",
+      "url": "https://github.com/gephi/gephi-toolkit"
     },
     {
-      "url": "https://gephi.org/",
-      "title": "Gephi - The Open Graph Viz Platform"
+      "title": "Gephi - The Open Graph Viz Platform",
+      "url": "https://gephi.org/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=GXtbL8avpik",
-      "title": "GEPHI - Introduction to Network Analysis and Visualization... - YouTube"
+      "title": "GEPHI - Introduction to Network Analysis and Visualization... - YouTube",
+      "url": "https://www.youtube.com/watch?v=GXtbL8avpik"
     },
     {
-      "url": "https://stackoverflow.com/questions/35936991/how-to-create-gephi-network-graphs-from-python",
-      "title": "How to create Gephi network graphs from Python? - Stack Overflow"
+      "title": "How to create Gephi network graphs from Python? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/35936991/how-to-create-gephi-network-graphs-from-python"
     },
     {
-      "url": "https://medium.com/data-analytics-at-nesta/how-to-create-network-visualisations-with-gephi-a-step-by-step-tutorial-e0743c49ec72",
-      "title": "How to create network visualisations with Gephi : A step by... | Medium"
+      "title": "How to create network visualisations with Gephi : A step by... | Medium",
+      "url": "https://medium.com/data-analytics-at-nesta/how-to-create-network-visualisations-with-gephi-a-step-by-step-tutorial-e0743c49ec72"
     }
   ],
   "actor director collaboration graph tutorial": [
     {
-      "url": "https://en.wikipedia.org/wiki/Collaboration_graph",
-      "title": "Collaboration graph - Wikipedia"
+      "title": "Collaboration graph - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Collaboration_graph"
     },
     {
-      "url": "https://medium.com/@eversbrendan/tragedy-or-farce-learning-pytorch-geometric-by-classifying-actor-collaboration-graphs-as-action-or-e5210936399a",
-      "title": "Tragedy or Farce: Learning PyTorch Geometric by Classifying Actor ..."
+      "title": "Tragedy or Farce: Learning PyTorch Geometric by Classifying Actor ...",
+      "url": "https://medium.com/@eversbrendan/tragedy-or-farce-learning-pytorch-geometric-by-classifying-actor-collaboration-graphs-as-action-or-e5210936399a"
     },
     {
-      "url": "https://www.ai.codersarts.com/projects/actor-network-visualization-using-the-movie-database-(tmdb)-api",
-      "title": "Actor Network Visualization using The Movie Database (TMDb) API"
+      "title": "Collaboration Between Actors and Directors in Performing Arts",
+      "url": "https://datacalculus.com/en/blog/performing-arts-and-spectator-sports/actor/collaboration-between-actors-and-directors-in-performing-arts"
+    },
+    {
+      "title": "Actor Network Visualization using The Movie Database (TMDb) API",
+      "url": "https://www.ai.codersarts.com/projects/actor-network-visualization-using-the-movie-database-(tmdb)-api"
+    },
+    {
+      "title": "Analyzing Social Networks of Actors in Movies and TV Shows",
+      "url": "https://arxiv.org/html/2411.00975v1"
     }
   ],
   "double feature ideas world cinema + crowd pleaser": [
     {
-      "url": "https://www.yardbarker.com/entertainment/articles/two_for_the_money_25_great_film_double_features/s1__38909107",
-      "title": "Two for the money: 25 great film double features - Yardbarker"
+      "title": "Two for the money: 25 great film double features - Yardbarker",
+      "url": "https://www.yardbarker.com/entertainment/articles/two_for_the_money_25_great_film_double_features/s1__38909107"
     },
     {
-      "url": "https://movieweb.com/movies-that-make-great-double-features/",
-      "title": "21 Movie Pairings That Make Great Double Features Essential Movie Pairings: Create the Ultimate Double Feature 15 Great 'Double Features' That Are Worth Your Time 23 Movie Pairings I Recommend Watching As Double Features Themed Double Feature Movie Ideas : r/flicks - Reddit 21 Movie Pairings That Make Great Double Features 21 Movie Pairings That Make Great Double Features 23 Movie Pairings I Recommend Watching As Double Features - BuzzF\u2026 We Picked Double-Feature Pairings for All the Best Picture ..."
+      "title": "21 Movie Pairings That Make Great Double Features Essential Movie Pairings: Create the Ultimate Double Feature 15 Great 'Double Features' That Are Worth Your Time 23 Movie Pairings I Recommend Watching As Double Features Themed Double Feature Movie Ideas : r/flicks - Reddit 21 Movie Pairings That Make Great Double Features 21 Movie Pairings That Make Great Double Features 23 Movie Pairings I Recommend Watching As Double Features - BuzzF\u2026 We Picked Double-Feature Pairings for All the Best Picture ...",
+      "url": "https://movieweb.com/movies-that-make-great-double-features/"
     },
     {
-      "url": "https://pauldbwatkins.com/2024/10/09/essential-movie-pairings-create-the-ultimate-double-feature/",
-      "title": "Essential Movie Pairings: Create the Ultimate Double Feature"
+      "title": "Essential Movie Pairings: Create the Ultimate Double Feature",
+      "url": "https://pauldbwatkins.com/2024/10/09/essential-movie-pairings-create-the-ultimate-double-feature/"
     },
     {
-      "url": "https://www.listchallenges.com/15-great-double-features-that-are-worth-your-time",
-      "title": "15 Great 'Double Features' That Are Worth Your Time"
+      "title": "15 Great 'Double Features' That Are Worth Your Time",
+      "url": "https://www.listchallenges.com/15-great-double-features-that-are-worth-your-time"
     },
     {
-      "url": "https://www.buzzfeed.com/racheldunkel/movie-pairings-that-make-perfect-double-features",
-      "title": "23 Movie Pairings I Recommend Watching As Double Features Themed Double Feature Movie Ideas : r/flicks - Reddit 21 Movie Pairings That Make Great Double Features 21 Movie Pairings That Make Great Double Features 23 Movie Pairings I Recommend Watching As Double Features - BuzzF\u2026 We Picked Double-Feature Pairings for All the Best Picture ..."
+      "title": "23 Movie Pairings I Recommend Watching As Double Features Themed Double Feature Movie Ideas : r/flicks - Reddit 21 Movie Pairings That Make Great Double Features 21 Movie Pairings That Make Great Double Features 23 Movie Pairings I Recommend Watching As Double Features - BuzzF\u2026 We Picked Double-Feature Pairings for All the Best Picture ...",
+      "url": "https://www.buzzfeed.com/racheldunkel/movie-pairings-that-make-perfect-double-features"
     }
   ],
-  "movies under 100 minutes list 2020s": [],
+  "movies under 100 minutes list 2020s": [
+    {
+      "title": "Best Movies under 100 Minutes - IMDb",
+      "url": "https://www.imdb.com/list/ls063089197/"
+    },
+    {
+      "title": "Movies under 100 minutes to watch, a list of films by ...",
+      "url": "https://letterboxd.com/dellaudre/list/movies-under-100-minutes-to-watch/"
+    },
+    {
+      "title": "100 best movies under 100 minutes - thesouthern.com",
+      "url": "https://thesouthern.com/life-entertainment/100-best-movies-under-100-minutes/collection_8ca5af8f-37a9-559b-acf0-d85329b344a3.html"
+    },
+    {
+      "title": "Best Movies Under 100 Minutes Long - Ranker",
+      "url": "https://www.ranker.com/list/best-movies-under-100-minutes/alexandra-plesa"
+    },
+    {
+      "title": "10 Greatest Movies Under 100 Minutes, Ranked - Collider",
+      "url": "https://collider.com/greatest-movies-under-100-minutes-ranked/"
+    }
+  ],
   "criterion flash sale 50 off dates 2025": [
     {
-      "url": "https://www.reddit.com/r/criterion/comments/pxiuvq/whens_the_next_criterion_sale_a_guide_for_the/",
-      "title": "When's the next Criterion sale? A guide for the perplexed."
+      "title": "The Criterion Collection - December 2025 - Up To 50% Off",
+      "url": "https://www.bing.com/aclick?ld=e8Dz6KMlfIHtVBTsMoLYaywTVUCUxiMZ1dLjsh-X8IRP1ZcTdiRO4XTX0IE-rYL22aoB2R6asScxv8LEcwXDZoR0Z6DA3s20ux4zfZyhwJwfkVxkag5pRVJaXzqzFLorPs1rDS36cKXeFbGb5l8S1raVGjX4HINVORKJcr-mCCvhiktBf6vWNG1ZFkaD9AqXeqSycKgO8bwKsq7mldWf0tZ-n6JHE&u=aHR0cHMlM2ElMmYlMmZjb3Vwb25zLmdlZWtzb3JiaXQuY29tJTJmY291cG9uLWRldGFpbCUyZmNyaXRlcmlvbi5jb20lMmYlM2Z1dG1fc291cmNlJTNkYmluZyUyNmN1aWQlM2QwNjRlYTRiOTAxZGIxMGI1YmRmMmNkZjhkMzJmNTgzNCUyNm1zY2xraWQlM2QwNjRlYTRiOTAxZGIxMGI1YmRmMmNkZjhkMzJmNTgzNA&rlid=064ea4b901db10b5bdf2cdf8d32f5834"
     },
     {
-      "url": "https://forum.dvdtalk.com/blu-ray-bargains/660600-next-criterion-flash-sale.html",
-      "title": "Next Criterion flash sale? - DVD Talk Forum"
+      "title": "When's the next Criterion sale? A guide for the perplexed.",
+      "url": "https://www.reddit.com/r/criterion/comments/pxiuvq/whens_the_next_criterion_sale_a_guide_for_the/"
     },
     {
-      "url": "https://slickdeals.net/f/18722800-criterion-collection-50-flash-sale-one-day-only-in-stock-items",
-      "title": "Criterion Collection 50% Flash Sale - One day only - In stock ..."
+      "title": "Next Criterion flash sale? - DVD Talk Forum",
+      "url": "https://forum.dvdtalk.com/blu-ray-bargains/660600-next-criterion-flash-sale.html"
     },
     {
-      "url": "https://timetobuying.com/when-is-next-criterion-sale/",
-      "title": "When is Next Criterion sale 2025? (Film Buffs, HURRY!)"
+      "title": "Criterion Collection 50% Flash Sale - One day only - In stock ...",
+      "url": "https://slickdeals.net/f/18722800-criterion-collection-50-flash-sale-one-day-only-in-stock-items"
+    },
+    {
+      "title": "When is Next Criterion sale 2025? (Film Buffs, HURRY!)",
+      "url": "https://timetobuying.com/when-is-next-criterion-sale/"
     }
   ],
   "barnes and noble criterion sale schedule": [
     {
-      "url": "https://collider.com/criterion-sale-barnes-and-noble/",
-      "title": "50% Off Criterion Sale Is Happening at Barnes and Noble"
+      "title": "Best Barnes & Noble Deals & Sales for December 2025",
+      "url": "https://www.dealnews.com/s286/Barnes-Noble/"
     },
     {
-      "url": "https://www.polygon.com/deals/23196726/criterion-sale-recommendations-details-dates-barnes-noble/",
-      "title": "Barnes and Noble Criterion sale July 2022: 6 box sets worth buying"
+      "title": "50% Off Criterion Sale Is Happening at Barnes and Noble",
+      "url": "https://collider.com/criterion-sale-barnes-and-noble/"
     },
     {
-      "url": "https://www.indiewire.com/gallery/indiewires-barnes-and-noble-criterion-sale-guide/",
-      "title": "IndieWire's Barnes and Noble Criterion Sale Guide"
+      "title": "Criterion Sale 2025 November | TikTok",
+      "url": "https://www.tiktok.com/discover/criterion-sale-2025-november"
+    },
+    {
+      "title": "Barnes and Noble Criterion sale July 2022: 6 box sets worth buying",
+      "url": "https://www.polygon.com/deals/23196726/criterion-sale-recommendations-details-dates-barnes-noble/"
+    },
+    {
+      "title": "IndieWire's Barnes and Noble Criterion Sale Guide",
+      "url": "https://www.indiewire.com/gallery/indiewires-barnes-and-noble-criterion-sale-guide/"
     }
   ],
-  "arrow video sale region b shipping to us": [],
+  "arrow video sale region b shipping to us": [
+    {
+      "title": "Arrow Video - Fast Shipping w/ Prime",
+      "url": "https://www.bing.com/aclick?ld=e8gLCl72dWZ4xvhgTBzurNRDVUCUy97kd5Qk-rlQC3SNOcwi_LcoCkKiWax4HpvZ101gUuM0B-RxR-wsQwXNROQYq7Bgr2zCxW9sCHT8dO-Kr0NwIZvpgf17iTZEaY0gWzGCiZSEpxU-Pw9XsPXG5Tu25zLggCfH59ZnNhl2eR_Vk2eKd2wejbITEgfvCtNtSU5gd2wDruNOTcHfxeDDDVHAL_i74&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGFycm93JTJidmlkZW8lMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF82N3NkeW51d294X3AlMjZhZGdycGlkJTNkMTMzMDQwOTY0NDc4NjQ4MCUyNmh2YWRpZCUzZDgzMTUwOTg5MzczMTcwJTI2aHZuZXR3JTNkbyUyNmh2cW10JTNkcCUyNmh2Ym10JTNkYnAlMjZodmRldiUzZGMlMjZodmxvY2ludCUzZDE5MCUyNmh2bG9jcGh5JTNkNTgxNjIlMjZodnRhcmdpZCUzZGt3ZC04MzE1MDk2OTg4NTY2OCUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkMjQ2NjRfMTM3Njk3ODAlMjZtY2lkJTNkMGIzMjgxMGZhYjBkMzU4OThjZjZjNWFjOTY5NzYzNzAlMjZtc2Nsa2lkJTNkZDU0NDdjZmQzOTg1MTFlZTU2MTgxNWJjZWI3MGE2Yjg&rlid=d5447cfd398511ee561815bceb70a6b8"
+    },
+    {
+      "title": "Arrow Video US - Cult, Classic & Horror Movies | Arrow Video US",
+      "url": "https://www.arrowvideo.com/"
+    },
+    {
+      "title": "Arrow Video \u2013 The Atomic Movie Store",
+      "url": "https://www.atomicmoviestore.com/collections/arrow-video"
+    },
+    {
+      "title": "ARROW - Grindhouse Video",
+      "url": "https://grindhousevideo.com/collections/arrow-video"
+    },
+    {
+      "title": "Up to 30% Off Arrow Video Titles - Barnes & Noble",
+      "url": "https://www.barnesandnoble.com/b/up-to-30-off-arrow-video-titles/_/N-2wa4"
+    }
+  ],
   "region free blu ray player recommendation 4k": [
     {
-      "url": "https://www.youtube.com/watch?v=1dVzoEUUDcs",
-      "title": "SONY UBP-X800M2 4 K Blu - ray Player Review & Setup - YouTube"
+      "title": "Leawo Free Blu - ray Player | Best Free Blu - ray Player Software for...",
+      "url": "https://www.leawo.com/blu-ray-player/"
+    },
+    {
+      "title": "Best 8 Free 4 k UHD Video Player Software for Windows PC&Mac",
+      "url": "https://filmora.wondershare.com/video-player/best-8-free-4k-uhd-video-player-software.html"
+    },
+    {
+      "title": "SONY UBP-X800M2 4 K Blu - ray Player Review & Setup - YouTube",
+      "url": "https://www.youtube.com/watch?v=1dVzoEUUDcs"
+    },
+    {
+      "title": "\u0422\u043e\u043f-4 \u043b\u0443\u0447\u0448\u0438\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f Blu - ray \u0434\u043b\u044f... | BlurayVid",
+      "url": "https://www.blurayvid.com/ru/blu-ray/best-blu-ray-player-for-windows/"
+    },
+    {
+      "title": "[\u0412\u044b\u0431\u043e\u0440 2025] 7 \u043b\u0443\u0447\u0448\u0438\u0445 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0445 Blu - ray -\u043f\u043b\u0435\u0435\u0440\u043e\u0432 \u0434\u043b\u044f \u041f\u041a \u0438 Mac",
+      "url": "https://ru.aiseesoft.com/resource/free-blu-ray-player.html"
     }
   ],
   "oppo udp 203 alternatives 2025": [
     {
-      "url": "https://forums.stevehoffman.tv/threads/oppo-udp-203-205-replacement-available-now.1218313/",
-      "title": "Oppo UDP 203/205 Replacement Available Now? | Steve Hoffman ..."
+      "title": "Oppo UDP 203/205 Replacement Available Now? | Steve Hoffman ...",
+      "url": "https://forums.stevehoffman.tv/threads/oppo-udp-203-205-replacement-available-now.1218313/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=bqgbrEWjOPY",
-      "title": "Magnetar UDP800: Can It Dethrone Oppo In 2025? - YouTube Alternatives to Oppo UDP 203? : r/hometheater - Reddit Best Universal Player For You? | AVS Forum Best 4K bluray player? Alternative to Oppo 203 - AVForums Images Oppo UDP-203 - Home Theater Forum Now that Oppo is dead, which universal player is a good one?"
+      "title": "Magnetar UDP800: Can It Dethrone Oppo In 2025? - YouTube Alternatives to Oppo UDP 203? : r/hometheater - Reddit Best Universal Player For You? | AVS Forum Best 4K bluray player? Alternative to Oppo 203 - AVForums Images Oppo UDP-203 - Home Theater Forum Now that Oppo is dead, which universal player is a good one?",
+      "url": "https://www.youtube.com/watch?v=bqgbrEWjOPY"
     },
     {
-      "url": "https://www.reddit.com/r/hometheater/comments/15qy81u/alternatives_to_oppo_udp_203/",
-      "title": "Alternatives to Oppo UDP 203? : r/hometheater - Reddit"
+      "title": "Alternatives to Oppo UDP 203? : r/hometheater - Reddit",
+      "url": "https://www.reddit.com/r/hometheater/comments/15qy81u/alternatives_to_oppo_udp_203/"
     },
     {
-      "url": "https://www.avforums.com/threads/best-4k-bluray-player-alternative-to-oppo-203.2174576/",
-      "title": "Best 4K bluray player? Alternative to Oppo 203 - AVForums"
+      "title": "Best 4K bluray player? Alternative to Oppo 203 - AVForums",
+      "url": "https://www.avforums.com/threads/best-4k-bluray-player-alternative-to-oppo-203.2174576/"
+    },
+    {
+      "title": "Oppo UDP-203 - Home Theater Forum",
+      "url": "https://www.hometheaterforum.com/community/threads/oppo-udp-203.386739/"
     }
   ],
   "spears & munsil uhd test patterns where to buy": [
     {
-      "url": "https://valueelectronics.com/product/spears-munsil-hdr-benchmark-test-disc-set/",
-      "title": "Spears & Munsil 4K Benchmark 3 disc set - Value Electronics"
+      "title": "Spears & Munsil 4K Benchmark 3 disc set - Value Electronics",
+      "url": "https://valueelectronics.com/product/spears-munsil-hdr-benchmark-test-disc-set/"
     },
     {
-      "url": "https://spearsandmunsil.com/dealers/",
-      "title": "Where to buy - Spears & Munsil"
+      "title": "Where to buy - Spears & Munsil",
+      "url": "https://spearsandmunsil.com/dealers/"
     },
     {
-      "url": "https://www.biaslighting.com/products/spears-munsil-ultra-hd-benchmark-2023",
-      "title": "Spears & Munsil Ultra HD Benchmark (2023) - MediaLight Bias Lighting"
+      "title": "Spears & Munsil Ultra HD Benchmark (2023) - MediaLight Bias Lighting",
+      "url": "https://www.biaslighting.com/products/spears-munsil-ultra-hd-benchmark-2023"
     },
     {
-      "url": "https://avscience.com/product/spears-munsil-uhd-hdr-benchmark/",
-      "title": "Spears & Munsil UHD HDR Benchmark - AV Science"
+      "title": "Spears & Munsil HD Benchmark and Calibration Disc 2nd Edition",
+      "url": "https://www.amazon.com/Spears-Munsil-Benchmark-Calibration-Disc/dp/B00CKWI13O"
+    },
+    {
+      "title": "Spears & Munsil UHD HDR Benchmark - AV Science",
+      "url": "https://avscience.com/product/spears-munsil-uhd-hdr-benchmark/"
     }
   ],
   "oled near black calibration 5% gray pattern": [
     {
-      "url": "https://www.youtube.com/watch?v=fv6T7aHsd54",
-      "title": "[8K] Black Level Screen Monitor TV Test Pattern - Calibrate Contrast..."
+      "title": "[8K] Black Level Screen Monitor TV Test Pattern - Calibrate Contrast...",
+      "url": "https://www.youtube.com/watch?v=fv6T7aHsd54"
     },
     {
-      "url": "https://www.rtings.com/tv/tests/picture-quality/gray-uniformity-dirty-screen-effect-dse",
-      "title": "Our TV Picture Quality Tests: Gray Uniformity - RTINGS.com"
+      "title": "LG 55EF9500 and 65EF9500 OLED Owners Thread | AVS Forum",
+      "url": "https://www.avsforum.com/threads/lg-55ef9500-and-65ef9500-oled-owners-thread.2132034/page-245"
     },
     {
-      "url": "http://www.lagom.nl/lcd-test/black.php",
-      "title": "Black level - Lagom LCD test"
+      "title": "Our TV Picture Quality Tests: Gray Uniformity - RTINGS.com",
+      "url": "https://www.rtings.com/tv/tests/picture-quality/gray-uniformity-dirty-screen-effect-dse"
+    },
+    {
+      "title": "Black level - Lagom LCD test",
+      "url": "http://www.lagom.nl/lcd-test/black.php"
+    },
+    {
+      "title": "Is Mini Led Or Oled Better For Content Creators - TechSyncrhon",
+      "url": "https://techsynchron.com/is-mini-led-or-oled-better-for-content-creators/"
     }
   ],
   "dolby vision vs hdr10 for shadow detail": [
     {
-      "url": "https://www.rtings.com/tv/learn/hdr10-vs-dolby-vision",
-      "title": "HDR10 vs HDR10+ vs Dolby Vision: What's The Difference?"
+      "title": "HDR10 vs HDR10+ vs Dolby Vision: What's The Difference?",
+      "url": "https://www.rtings.com/tv/learn/hdr10-vs-dolby-vision"
     },
     {
-      "url": "https://www.dolby.com/en-in/experience/home-entertainment/articles/the-difference-between-hdr10-and-dolby-vision/",
-      "title": "HDR10 vs Dolby Vision: What is the difference and why?"
+      "title": "HDR10 vs Dolby Vision: What is the difference and why?",
+      "url": "https://www.dolby.com/en-in/experience/home-entertainment/articles/the-difference-between-hdr10-and-dolby-vision/"
     },
     {
-      "url": "https://smallusefultips.com/which-is-better-dolby-vision-or-hdr10/",
-      "title": "The Battle of the HDRs: Dolby Vision vs HDR10 - Which is Better?"
+      "title": "HDR10+ vs Dolby Vision: Which HDR format is best? - TechRadar",
+      "url": "https://www.techradar.com/televisions/hdr10-vs-dolby-vision-which-hdr-format-is-best"
+    },
+    {
+      "title": "There's an obvious answer to the HDR10+ vs. Dolby Vision debate",
+      "url": "https://www.pocket-lint.com/hdr10-versus-dolby-vision/"
+    },
+    {
+      "title": "The Battle of the HDRs: Dolby Vision vs HDR10 - Which is Better?",
+      "url": "https://smallusefultips.com/which-is-better-dolby-vision-or-hdr10/"
     }
   ],
   "uhd blu ray bitrate vs netflix comparison": [
     {
-      "url": "https://www.techradar.com/televisions/home-theater/i-tested-blu-ray-vs-netflix-and-disney-plus-on-the-same-movies-and-the-biggest-difference-surprised-me",
-      "title": "I tested Blu-ray vs Netflix and Disney Plus on the same ..."
+      "title": "I tested Blu-ray vs Netflix and Disney Plus on the same ...",
+      "url": "https://www.techradar.com/televisions/home-theater/i-tested-blu-ray-vs-netflix-and-disney-plus-on-the-same-movies-and-the-biggest-difference-surprised-me"
     },
     {
-      "url": "https://shortfoodblog.com/is-blu-ray-higher-quality-than-netflix/",
-      "title": "Is Blu-ray Higher Quality than Netflix? Unpacking the Truth ..."
+      "title": "Is Blu-ray Higher Quality than Netflix? Unpacking the Truth ...",
+      "url": "https://shortfoodblog.com/is-blu-ray-higher-quality-than-netflix/"
     },
     {
-      "url": "https://www.reddit.com/r/Bluray/comments/18tzajt/how_much_better_is_bluray_from_streaming_on_a_4k/",
-      "title": "How much better is Blu-ray from streaming on a 4K tv, if at all."
+      "title": "How much better is Blu-ray from streaming on a 4K tv, if at all.",
+      "url": "https://www.reddit.com/r/Bluray/comments/18tzajt/how_much_better_is_bluray_from_streaming_on_a_4k/"
     },
     {
-      "url": "https://thetechylife.com/is-streaming-quality-as-good-as-blu-ray/",
-      "title": "Streaming Quality vs Blu-ray: The Ultimate Showdown"
+      "title": "Streaming Quality vs Blu-ray: The Ultimate Showdown",
+      "url": "https://thetechylife.com/is-streaming-quality-as-good-as-blu-ray/"
     },
     {
-      "url": "https://wolfcrow.com/ultra-hd-blu-ray-vs-streaming-the-ultimate-showdown-for-best-picture-and-sound/",
-      "title": "Ultra HD Blu-ray vs. Streaming: The Ultimate Showdown for ..."
+      "title": "Ultra HD Blu-ray vs. Streaming: The Ultimate Showdown for ...",
+      "url": "https://wolfcrow.com/ultra-hd-blu-ray-vs-streaming-the-ultimate-showdown-for-best-picture-and-sound/"
     }
   ],
   "compression artifacts in dark scenes fix": [
     {
-      "url": "https://www.aiarty.com/knowledge-base/video-compression-artifacts.htm",
-      "title": "What Are Video Compression Artifacts? How to Fix & Avoid Them"
+      "title": "What Are Video Compression Artifacts? How to Fix & Avoid Them",
+      "url": "https://www.aiarty.com/knowledge-base/video-compression-artifacts.htm"
     },
     {
-      "url": "https://forums.tomshardware.com/threads/i-dont-know-whats-with-dark-areas-being-so-blocky-on-vides-anything-i-can-do.3731706/",
-      "title": "[SOLVED] - I dont know whats with dark areas being so blocky ..."
+      "title": "[SOLVED] - I dont know whats with dark areas being so blocky ...",
+      "url": "https://forums.tomshardware.com/threads/i-dont-know-whats-with-dark-areas-being-so-blocky-on-vides-anything-i-can-do.3731706/"
     },
     {
-      "url": "https://forum.blackmagicdesign.com/viewtopic.php?f=21&t=108007",
-      "title": "How to handle compression artifacts dark areas on YT - BRAW"
+      "title": "How to handle compression artifacts dark areas on YT - BRAW",
+      "url": "https://forum.blackmagicdesign.com/viewtopic.php?f=21&t=108007"
     },
     {
-      "url": "https://community.adobe.com/t5/after-effects-discussions/minimize-compression-artifacts-in-dark-areas/td-p/9153101",
-      "title": "Minimize Compression Artifacts in Dark Areas?"
+      "title": "Minimize Compression Artifacts in Dark Areas?",
+      "url": "https://community.adobe.com/t5/after-effects-discussions/minimize-compression-artifacts-in-dark-areas/td-p/9153101"
+    },
+    {
+      "title": "Black Compression artifacts on new Q27G3XMN - Linus Tech Tips",
+      "url": "https://linustechtips.com/topic/1626830-black-compression-artifacts-on-new-q27g3xmn"
     }
   ],
   "caps-a-holic 4k vs blu-ray comparisons": [
     {
-      "url": "https://caps-a-holic.com/",
-      "title": "caps-a-holic.com"
+      "title": "What is the best place to find 4K vs Blu-ray comparisons? : r ...",
+      "url": "https://www.reddit.com/r/dvdcollection/comments/ajhmyq/what_is_the_best_place_to_find_4k_vs_bluray/"
     },
     {
-      "url": "https://caps-a-holic.com/c.php?d1=11006&d2=14490",
-      "title": "The Thing \u2022 UK Blu-ray vs. US 4K Remaster Blu-ray"
+      "title": "The Thing \u2022 UK Blu-ray vs. US 4K Remaster Blu-ray",
+      "url": "https://caps-a-holic.com/c.php?d1=11006&d2=14490"
+    },
+    {
+      "title": "Back to the Future - 4k/Blu-ray Comparison - YouTube",
+      "url": "https://www.youtube.com/watch?v=krjY54DAH9k"
+    },
+    {
+      "title": "Avatar 4K Ultra HD Blu-ray vs. 2019 Blu-ray screen capture ...",
+      "url": "https://www.reddit.com/r/4kbluray/comments/14lfrps/avatar_4k_ultra_hd_bluray_vs_2019_bluray_screen/"
+    },
+    {
+      "title": "caps-a-holic.com",
+      "url": "https://caps-a-holic.com/"
     }
   ],
-  "where to stream locarno winners": [],
-  "cannes directors fortnight 2024 streaming availability": [],
-  "nyff 2024 schedule q&a moderators": [],
+  "where to stream locarno winners": [
+    {
+      "title": "Golden Leopard - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Golden_Leopard"
+    },
+    {
+      "title": "Locarno Film Festival \u00b7 Latest videos",
+      "url": "https://www.locarnofestival.ch/media/latest-videos.html"
+    },
+    {
+      "title": "Locarno Takeaways, From Emma Thompson\u2019s Savoir Faire to Why...",
+      "url": "https://www.aol.com/locarno-takeaways-emma-thompson-savoir-192840114.html"
+    },
+    {
+      "title": "Locarno Winner Raam Reddy Lines Up Gen-Z Mumbai Drama...",
+      "url": "https://www.yahoo.com/entertainment/movies/articles/locarno-winner-raam-reddy-lines-013652239.html"
+    },
+    {
+      "title": "Box office success not guaranteed for Locarno winner",
+      "url": "https://www.swissinfo.ch/eng/business/box-office-success-not-guaranteed-for-locarno-winner/41605418"
+    }
+  ],
+  "cannes directors fortnight 2024 streaming availability": [
+    {
+      "title": "Cannes 2024 line-up guide: Directors\u2019 Fortnight titles",
+      "url": "https://www.screendaily.com/features/cannes-2024-line-up-guide-directors-fortnight-titles/5193157.article"
+    },
+    {
+      "title": "Cannes Directors' Fortnight 2024 Lineup Unveiled",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/cannes-directors-fortnight-2024-lineup-1235865723/"
+    },
+    {
+      "title": "Cannes 2024 Directors\u2019 Fortnight line-up unveiled - IMDb",
+      "url": "https://www.imdb.com/news/ni64538787/"
+    },
+    {
+      "title": "The 2024 Cannes Film Festival Directors\u2019 Fortnight & Critics ... Cannes Directors\u2019 Fortnight Unveils 2024 Line-Up - Deadline Cannes Directors ' Fortnight 2024 Lineup Unveiled - The Hollywood Repo\u2026 Cannes Directors \u2019 Fortnight Unveils 2024 Line-Up - Deadline 2024 Cannes Film Festival Directors ' Fortnight Selection List Cannes Directors ' Fortnight 2024 Lineup Unveiled - The Hollywood Repo\u2026 2024 Cannes Film Festival Directors' Fortnight Selection List",
+      "url": "https://nextbestpicture.com/the-2024-cannes-film-festival-directors-fortnight-critics-week-lineups/"
+    },
+    {
+      "title": "Cannes Directors\u2019 Fortnight Unveils 2024 Line-Up - Deadline",
+      "url": "https://deadline.com/2024/04/cannes-directors-fortnight-unveils-2024-line-up-1235886773/"
+    }
+  ],
+  "nyff 2024 schedule q&a moderators": [
+    {
+      "title": "2024 New York Film Festival - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2024_New_York_Film_Festival"
+    },
+    {
+      "title": "NYFF 2024 Adds 'Emila Perez,' 'Little, Big, And Far,''A...",
+      "url": "https://theplaylist.net/nyff-2024-adds-emila-perez-a-little-big-and-far-a-real-pain-more-20240815/"
+    },
+    {
+      "title": "NYFF 2024 : Dispatches from the 62nd New York Film... | Screen Slate",
+      "url": "https://www.screenslate.com/articles/nyff-2024-dispatches-62nd-new-york-film-festival"
+    },
+    {
+      "title": "NYFF Live Releases Full Schedule , Including Talks With Michel...",
+      "url": "https://www.indiewire.com/news/general-news/nyff-live-releases-full-schedule-including-talks-with-michel-gondry-laura-poitras-and-son-of-saul-director-laszlo-nemes-57585/"
+    },
+    {
+      "title": "NYFF 2024 \u2014 Dispatch 2: Sc\u00e9narios, April, Caught... | In Review Online",
+      "url": "https://inreviewonline.com/2024/10/07/nyff-2024-2/"
+    }
+  ],
   "volunteer film festival q&a tips": [
     {
-      "url": "https://raindance.org/film-festival-volunteer-tips/",
-      "title": "Essential Things I Learned As A Serial Film Festival Volunteer"
+      "title": "Essential Things I Learned As A Serial Film Festival Volunteer",
+      "url": "https://raindance.org/film-festival-volunteer-tips/"
     },
     {
-      "url": "https://www.yellowbrick.co/blog/film/how-to-launch-your-film-festival-volunteer-journey-for-career-success",
-      "title": "How to Launch Your Film Festival Volunteer Journey for Success"
+      "title": "Volunteer - sundance.org",
+      "url": "https://www.sundance.org/festivals/sundance-film-festival/volunteer/"
     },
     {
-      "url": "https://www.theodysseyonline.com/10-truths-film-festival-volunteer",
-      "title": "10 Truths About Being A Film Festival Volunteer"
+      "title": "How to Launch Your Film Festival Volunteer Journey for Success",
+      "url": "https://www.yellowbrick.co/blog/film/how-to-launch-your-film-festival-volunteer-journey-for-career-success"
+    },
+    {
+      "title": "10 Truths About Being A Film Festival Volunteer",
+      "url": "https://www.theodysseyonline.com/10-truths-film-festival-volunteer"
+    },
+    {
+      "title": "How to Go Austin Film Festival | TikTok",
+      "url": "https://www.tiktok.com/discover/how-to-go-austin-film-festival"
     }
   ],
-  "public performance rights backyard screening legal": [],
+  "public performance rights backyard screening legal": [
+    {
+      "title": "Top 50 Backyard Screening Ideas",
+      "url": "https://civiljungles.com/top-50-backyard-screening-ideas/"
+    },
+    {
+      "title": "How to Choose the Best Crypto Sanctions Screening Software for...",
+      "url": "https://www.trmlabs.com/resources/blog/how-to-choose-the-best-crypto-sanctions-screening-software-for-regulatory-compliance"
+    },
+    {
+      "title": "Backyard Deep-Sky Astrophotography: A Practical Guide",
+      "url": "https://www.opticalmechanics.com/backyard-deep-sky-astrophotography-a-practical-guide/"
+    },
+    {
+      "title": "I'll Sleep When I'm Dead: The Ignored Epidemic in the Legal Profession",
+      "url": "https://fiveminutelaw.com/2017/07/31/the-ignored-epidemic-in-the-legal-profession/"
+    },
+    {
+      "title": "41 Best Backyard Screening Options With Cheap Cost | All Home...",
+      "url": "https://allmix.github.io/backyard-screening-options/"
+    }
+  ],
   "drive-in intermission reels download public domain": [
     {
-      "url": "https://archive.org/details/Drive-InTheaterMovieIntermissions",
-      "title": "Drive-In Theater Movie Intermissions : Free Download, Borrow, and ..."
+      "title": "Drive-In Theater Movie Intermissions : Free Download, Borrow, and ...",
+      "url": "https://archive.org/details/Drive-InTheaterMovieIntermissions"
     },
     {
-      "url": "https://archive.org/details/Intermission1",
-      "title": "Intermission 1 (from Drive-In Movie Ads) : Free Download, Borrow, and ..."
+      "title": "Intermission Commercials Public Domain Movies | RetroFilm Vault",
+      "url": "https://www.retrofilmvault.com/intermission-commercials-public-domain-movies.html"
     },
     {
-      "url": "https://www.retrofilmvault.com/intermission-commercials-public-domain-movies.html",
-      "title": "Intermission Commercials Public Domain Movies | RetroFilm Vault"
+      "title": "Drive-In Theatre Intermission Clips - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLokYOyfXVgiGGpxTgeXkrMqYX2ltIob3U"
+    },
+    {
+      "title": "Intermission 1 (from Drive-In Movie Ads) : Free Download, Borrow, and ...",
+      "url": "https://archive.org/details/Intermission1"
+    },
+    {
+      "title": "Old Intermission Drive In Commercials - AOSA",
+      "url": "https://sandiegomacncheese.com/old-intermission-drive-in-commercials/"
     }
   ],
-  "archival cinema ads pre-show pack": [],
+  "archival cinema ads pre-show pack": [
+    {
+      "title": "BeforeTheMovie\u00ae - Engaging Ads for Engaged Audiences",
+      "url": "https://beforethemovie.com/"
+    },
+    {
+      "title": "Cinema Advertising in 2025 - Captivate on the Big Screen",
+      "url": "https://dashtwo.com/outdoor-advertising/cinema-advertising/"
+    },
+    {
+      "title": "The Pre-Show Gauntlet: Navigating the Maze of Movie Theater Ads",
+      "url": "https://darkskiesfilm.com/how-many-minutes-of-ads-before-a-movie/"
+    },
+    {
+      "title": "Cinema Advertising | Screenvision Media",
+      "url": "https://screenvisionmedia.com/"
+    },
+    {
+      "title": "Vintage Movie Ads | Movie Release Print Ads | Adirondack Retro",
+      "url": "https://adirondackretro.com/collections/vintage-movie-ads"
+    }
+  ],
   "making supercut fair use guidelines": [
     {
-      "url": "https://en.wikipedia.org/wiki/Supercut",
-      "title": "Supercut - Wikipedia"
+      "title": "Supercut - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Supercut"
     },
     {
-      "url": "https://www.fastcompany.com/1682740/a-modern-genre-how-to-make-a-supercut",
-      "title": "A Modern Genre: How To Make A Supercut - Fast Company"
+      "title": "A Modern Genre: How To Make A Supercut - Fast Company",
+      "url": "https://www.fastcompany.com/1682740/a-modern-genre-how-to-make-a-supercut"
     },
     {
-      "url": "https://rhizome.org/editorial/2011/may/16/andy-baio-making-supercutorg/",
-      "title": "Rhizome > blog > Andy Baio on Making Supercut .org"
+      "title": "Rhizome > blog > Andy Baio on Making Supercut .org",
+      "url": "https://rhizome.org/editorial/2011/may/16/andy-baio-making-supercutorg/"
+    },
+    {
+      "title": "Fair use Guidelines",
+      "url": "https://vercel.com/docs/limits/fair-use-guidelines"
+    },
+    {
+      "title": "Automatic Supercuts With Open Source Python Script - Make",
+      "url": "https://makezine.com/article/craft/photography-video/automatic-supercuts-with-open-source-python-script/"
     }
   ],
   "mirror motif supercut examples": [
     {
-      "url": "https://scalar.usc.edu/works/film-studies-in-motion/supercuts",
-      "title": "Supercuts - University of Southern California"
+      "title": "Mirror Work Motif - Pinterest",
+      "url": "https://www.pinterest.com/ideas/mirror-work-motif/902877458588/"
     },
     {
-      "url": "https://theplaylist.net/watch-reflect-on-martin-scorseses-use-of-mirrors-with-this-supercut-20150122/",
-      "title": "Watch: Reflect On Martin Scorsese's Use Of Mirrors With This Supercut"
+      "title": "Supercuts - University of Southern California",
+      "url": "https://scalar.usc.edu/works/film-studies-in-motion/supercuts"
     },
     {
-      "url": "https://www.whatsafterthemovie.com/wiki/term/supercut",
-      "title": "Supercut - Definition, Examples & Meaning in Film | The Movie Wiki"
+      "title": "Watch: Reflect On Martin Scorsese's Use Of Mirrors With This Supercut",
+      "url": "https://theplaylist.net/watch-reflect-on-martin-scorseses-use-of-mirrors-with-this-supercut-20150122/"
+    },
+    {
+      "title": "Tips for Success with Mirror-Image Fabrics - Jinny Beyer",
+      "url": "https://jinnybeyer.com/tips-for-success-with-mirror-image-fabrics/"
+    },
+    {
+      "title": "Supercut - Definition, Examples & Meaning in Film | The Movie Wiki",
+      "url": "https://www.whatsafterthemovie.com/wiki/term/supercut"
     }
   ],
   "doorway motif in ozu essay": [
     {
-      "url": "https://warwick.ac.uk/fac/arts/scapvc/film/movie/contents/movie_issue9_ozusframes.pdf",
-      "title": "PDF Ozu's frames: Form and narrative Late Spring Oz"
+      "title": "PDF Ozu's frames: Form and narrative Late Spring Oz",
+      "url": "https://warwick.ac.uk/fac/arts/scapvc/film/movie/contents/movie_issue9_ozusframes.pdf"
     },
     {
-      "url": "https://docslib.org/doc/7419037/ozus-frames-form-and-narrative-in-late-spring-issue-9-movie-a-journal-of-film-criticism-39",
-      "title": "Ozu's Frames: Form and Narrative in Late Spring Issue 9 | Movie: a ..."
+      "title": "Analysis of Atami scene in Ozu's Tokyo Story (1953) : r/TrueFilm - Reddit",
+      "url": "https://www.reddit.com/r/TrueFilm/comments/bc7uhh/analysis_of_atami_scene_in_ozus_tokyo_story_1953/"
     },
     {
-      "url": "https://www.gradesaver.com/tokyo-story/study-guide/symbols-allegory-motifs",
-      "title": "Tokyo Story Symbols, Allegory and Motifs - GradeSaver"
+      "title": "Tokyo Story Symbols, Allegory and Motifs - GradeSaver",
+      "url": "https://www.gradesaver.com/tokyo-story/study-guide/symbols-allegory-motifs"
+    },
+    {
+      "title": "Ozu: A Closer Look, Geist - The University of Chicago Press",
+      "url": "https://press.uchicago.edu/ucp/books/book/distributed/O/bo185844022.html"
+    },
+    {
+      "title": "Ozu's Frames: Form and Narrative in Late Spring Issue 9 | Movie: a ...",
+      "url": "https://docslib.org/doc/7419037/ozus-frames-form-and-narrative-in-late-spring-issue-9-movie-a-journal-of-film-criticism-39"
     }
   ],
   "match cuts supercut resources": [
     {
-      "url": "https://www.studiobinder.com/blog/match-cuts-creative-transitions-examples/",
-      "title": "Best Match Cuts and Creative Transitions in Cinema"
+      "title": "Best Match Cuts and Creative Transitions in Cinema",
+      "url": "https://www.studiobinder.com/blog/match-cuts-creative-transitions-examples/"
     },
     {
-      "url": "https://www.vegascreativesoftware.com/us/video-editing/types-of-match-cuts-examples-and-how-to-use-them/",
-      "title": "Creative Match Cut Examples for Better Storytelling"
+      "title": "Creative Match Cut Examples for Better Storytelling",
+      "url": "https://www.vegascreativesoftware.com/us/video-editing/types-of-match-cuts-examples-and-how-to-use-them/"
     },
     {
-      "url": "https://www.cined.com/mastering-match-cuts-a-deep-dive-into-seamless-storytelling/",
-      "title": "Mastering Match Cuts - A Deep-Dive Into Seamless Storytelling"
+      "title": "Mastering Match Cuts - A Deep-Dive Into Seamless Storytelling",
+      "url": "https://www.cined.com/mastering-match-cuts-a-deep-dive-into-seamless-storytelling/"
     },
     {
-      "url": "https://www.freelancevideocollective.com/match-cuts-in-film-creative-editing-techniques/",
-      "title": "Match Cuts in Film & Creative Editing Techniques"
+      "title": "Match Cuts in Film & Creative Editing Techniques",
+      "url": "https://www.freelancevideocollective.com/match-cuts-in-film-creative-editing-techniques/"
+    },
+    {
+      "title": "Master Match Cut Editing with CapCut: A Step-by-Step Guide",
+      "url": "https://tool-hunt.com/en/ultimate-guide-to-match-cut-editing/"
     }
   ],
   "blocking breakdown parasite": [
     {
-      "url": "https://www.youtube.com/watch?v=NlSWZdAqGV4",
-      "title": "PARASITE (2019) Breakdown : Hidden Details, Things You... - YouTube"
+      "title": "Designing antimalarials that break into cells to lock down parasites ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8255955/"
     },
     {
-      "url": "https://thescriptlab.com/screenplay/five-plot-point-breakdowns/14340-5-plot-point-breakdown-parasite-2019/",
-      "title": "5 Plot Point Breakdown : Parasite (2019) - The Script Lab"
+      "title": "PARASITE (2019) Breakdown : Hidden Details, Things You... - YouTube",
+      "url": "https://www.youtube.com/watch?v=NlSWZdAqGV4"
+    },
+    {
+      "title": "Parasite Screenplay PDF Download: Plot, Characters and Ending",
+      "url": "https://www.studiobinder.com/blog/parasite-screenplay-script-pdf-download/"
+    },
+    {
+      "title": "5 Plot Point Breakdown : Parasite (2019) - The Script Lab",
+      "url": "https://thescriptlab.com/screenplay/five-plot-point-breakdowns/14340-5-plot-point-breakdown-parasite-2019/"
+    },
+    {
+      "title": "Breaking down parasite resistance | Ag Proud",
+      "url": "https://www.agproud.com/articles/56981-breaking-down-parasite-resistance"
     }
   ],
   "anamorphic vs spherical look explained": [
     {
-      "url": "https://www.youtube.com/watch?v=iiiwihwJH5Y",
-      "title": "What is an Anamorphic Lens \u2014 Anamorphic vs Spherical Lens..."
+      "title": "What is an Anamorphic Lens \u2014 Anamorphic vs Spherical Lens...",
+      "url": "https://www.youtube.com/watch?v=iiiwihwJH5Y"
     },
     {
-      "url": "https://www.studiobinder.com/blog/what-is-an-anamorphic-lens-definition/",
-      "title": "What is an Anamorphic Lens? How to Get that Cinematic Look"
+      "title": "What is an Anamorphic Lens? How to Get that Cinematic Look",
+      "url": "https://www.studiobinder.com/blog/what-is-an-anamorphic-lens-definition/"
     },
     {
-      "url": "https://www.linkedin.com/pulse/its-all-lens-anamorphic-vs-spherical-cffmedia",
-      "title": "IT's all in the lens: anamorphic vs . spherical"
+      "title": "IT's all in the lens: anamorphic vs . spherical",
+      "url": "https://www.linkedin.com/pulse/its-all-lens-anamorphic-vs-spherical-cffmedia"
     },
     {
-      "url": "https://nofilmschool.com/anamorphic-vs-spherical",
-      "title": "The Difference Between Anamorphic and Spherical ... | No Film School"
+      "title": "The Difference Between Anamorphic and Spherical ... | No Film School",
+      "url": "https://nofilmschool.com/anamorphic-vs-spherical"
     },
     {
-      "url": "https://www.capcut.com/resource/anamorphic-vs-spherical-lens",
-      "title": "Anamorphic vs Spherical Lens: How to Choose the Right One"
+      "title": "Anamorphic vs Spherical Lens: How to Choose the Right One",
+      "url": "https://www.capcut.com/resource/anamorphic-vs-spherical-lens"
     }
   ],
   "lenses used in in the mood for love": [
     {
-      "url": "https://www.reddit.com/r/cinematography/comments/kchqbj/lenses_used_in_wong_karwais_happy_together_and_in/",
-      "title": "Lenses used in Wong Kar-wai's Happy Together and In The Mood For Love ..."
+      "title": "Cinematography Analysis Of In The Mood For Love (In-Depth)",
+      "url": "https://colorculture.org/cinematography-analysis-of-in-the-mood-for-love/"
     },
     {
-      "url": "https://shotonwhat.com/in-the-mood-for-love-2000",
-      "title": "In the Mood for Love (2000) - ShotOnWhat?"
+      "title": "Lenses used in Wong Kar-wai's Happy Together and In The Mood For Love ...",
+      "url": "https://www.reddit.com/r/cinematography/comments/kchqbj/lenses_used_in_wong_karwais_happy_together_and_in/"
+    },
+    {
+      "title": "In the Mood for Love (2000) - ShotOnWhat?",
+      "url": "https://shotonwhat.com/in-the-mood-for-love-2000"
+    },
+    {
+      "title": "An Analysis on Screen Aesthetics: In the Mood for Love",
+      "url": "https://jollyrogerskullsandbones.wordpress.com/2013/05/06/an-analysis-on-screen-aesthetics-in-the-mood-for-love/"
+    },
+    {
+      "title": "In the Mood for Love (2000) - Technical specifications - IMDb",
+      "url": "https://m.imdb.com/title/tt0118694/technical/"
     }
   ],
-  "colorist interview moonlight grading": [],
+  "colorist interview moonlight grading": [
+    {
+      "title": "Interview Questions for Understanding of color grading and ...",
+      "url": "https://interviewgemini.com/interviews/interview-questions-for-understanding-of-color-grading-and-color-correction-techniques/"
+    },
+    {
+      "title": "Top 30 Colorist Interview Questions and Answers [Updated 2025]",
+      "url": "https://www.mockinterviewpro.com/interview-questions/colorist"
+    },
+    {
+      "title": "Top 20 Colorist Interview Questions and Answers \u2014 CVBLADE Interview Questions for Experience with color correction and ... The Complete Guide to Acing Your Colorist Interview Top 10 Questions for Colorist Interview - ResumeGemini ...",
+      "url": "https://cvblade.com/interview/colorist/"
+    },
+    {
+      "title": "Interview Questions for Experience with color correction and ...",
+      "url": "https://techskills.interviewgemini.com/interviews/interview-questions-for-experience-with-color-correction-and-grading/"
+    },
+    {
+      "title": "The Complete Guide to Acing Your Colorist Interview",
+      "url": "https://carreersupport.com/colorist-interview-questions/"
+    }
+  ],
   "editing rhythms influence character psychology articles": [
     {
-      "url": "https://www.researchgate.net/publication/379598550_Film_Editing_and_Emotional_Resonance_The_Psychology_of_Cut",
-      "title": "Film Editing and Emotional Resonance: The Psychology of Cut"
+      "title": "Film Editing and Emotional Resonance: The Psychology of Cut",
+      "url": "https://www.researchgate.net/publication/379598550_Film_Editing_and_Emotional_Resonance_The_Psychology_of_Cut"
     },
     {
-      "url": "https://www.tandfonline.com/doi/full/10.1080/25741136.2023.2172655",
-      "title": "Creating character in editing: Media Practice and Education: Vol 24 ..."
+      "title": "Movie editing influences spectators' time perception",
+      "url": "https://www.nature.com/articles/s41598-022-23992-2"
     },
     {
-      "url": "https://www.skillmanvideogroup.com/rhythmic-editing/",
-      "title": "Rhythmic Editing: Using Pacing and Timing to Influence Viewer Emotions"
+      "title": "Creating character in editing: Media Practice and Education: Vol 24 ...",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/25741136.2023.2172655"
+    },
+    {
+      "title": "Rhythmic Editing: Using Pacing and Timing to Influence Viewer Emotions",
+      "url": "https://www.skillmanvideogroup.com/rhythmic-editing/"
+    },
+    {
+      "title": "Beyond Cuts and Splices: How Editing Shapes Your Movie Experience ...",
+      "url": "https://filmustage.com/blog/how-editing-shapes-your-movie-experience/"
     }
   ],
   "soundtrack vinyl best pressings blade runner": [
     {
-      "url": "https://www.discogs.com/es/release/4611015-Vangelis-Blade-Runner",
-      "title": "Vangelis \u2013 Blade Runner (2013, Red Translucent...) - Discogs"
+      "title": "Blade Runner - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blade_Runner"
+    },
+    {
+      "title": "Vangelis \u2013 Blade Runner (2013, Red Translucent...) - Discogs",
+      "url": "https://www.discogs.com/es/release/4611015-Vangelis-Blade-Runner"
+    },
+    {
+      "title": "Ost 2049 Blade Runner \u0441\u043b\u0443\u0448\u0430\u0442\u044c \u0438 \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u043c\u0443\u0437\u044b\u043a\u0443, \u0442\u0440\u0435\u043a\u0438...",
+      "url": "https://lightaudio.ru/mp3/ost+2049+blade+runner"
+    },
+    {
+      "title": "What's your latest vinyl purchase? | Page 304 | Steve Hoffman Music...",
+      "url": "https://forums.stevehoffman.tv/threads/whats-your-latest-vinyl-purchase.682346/page-304"
+    },
+    {
+      "title": "GOTHBOY - NEON MEMORIES | Blade Runner 2049 - YouTube",
+      "url": "https://www.youtube.com/watch?v=dSMyy_wSgYo"
     }
   ],
   "mondo vs waxwork pressing quality": [
     {
-      "url": "https://www.reddit.com/r/vinyl/comments/twtt9v/who_has_the_best_quality_pressingspackaging/",
-      "title": "Who has the best quality pressings/packaging? : r/vinyl - Reddit"
+      "title": "Who has the best quality pressings/packaging? : r/vinyl - Reddit",
+      "url": "https://www.reddit.com/r/vinyl/comments/twtt9v/who_has_the_best_quality_pressingspackaging/"
+    },
+    {
+      "title": "Vinyl sound quality & pressing plants? - Steve Hoffman Music Forums",
+      "url": "https://forums.stevehoffman.tv/threads/vinyl-sound-quality-pressing-plants.1226476/"
+    },
+    {
+      "title": "Who makes the best vinyl pressing? - All For Turntables",
+      "url": "https://allforturntables.com/2023/09/13/who-makes-the-best-vinyl-pressing/"
+    },
+    {
+      "title": "What are the Best Record Pressings? - soundon.global",
+      "url": "https://www.soundon.global/forum/best-record-pressings-guide"
+    },
+    {
+      "title": "The Impact of Vinyl Pressing Quality on Sound: How to Identify High ...",
+      "url": "https://www.classical33.co.uk/the-impact-of-vinyl-pressing-quality-on-sound-how-to-identify-high-quality-pressings-in-used-records/"
     }
   ],
   "build discord bot rss to channel": [
     {
-      "url": "https://github.com/ursineasylum/discord_rss_bot",
-      "title": "GitHub - ursineasylum/ discord _ rss _ bot : A Discord bot that reads..."
+      "title": "GitHub - ursineasylum/ discord _ rss _ bot : A Discord bot that reads...",
+      "url": "https://github.com/ursineasylum/discord_rss_bot"
     },
     {
-      "url": "https://gitlab.com/discord_feedbot/discord_feedbot",
-      "title": "discord _feedbot / discord _feedbot \u00b7 GitLab"
+      "title": "discord _feedbot / discord _feedbot \u00b7 GitLab",
+      "url": "https://gitlab.com/discord_feedbot/discord_feedbot"
     },
     {
-      "url": "https://ifttt.com/explore/discord-bot-rss-feeds",
-      "title": "How to Create Free Discord Bots - IFTTT"
+      "title": "How to Create Free Discord Bots - IFTTT",
+      "url": "https://ifttt.com/explore/discord-bot-rss-feeds"
     },
     {
-      "url": "https://rss.app/bots/rssfeeds-discord-bot",
-      "title": "RSS Feeds Discord Bot"
+      "title": "RSS Feeds Discord Bot",
+      "url": "https://rss.app/bots/rssfeeds-discord-bot"
+    },
+    {
+      "title": "Merge RSS Feeds with RSS API on New Message in Channel from...",
+      "url": "https://pipedream.com/apps/discord-bot/integrations/rss/merge-rss-feeds-with-rss-api-on-new-message-in-channel-from-discord-bot-api-int_0GsX8N"
     }
   ],
   "discord movie club rules template": [
     {
-      "url": "https://github.com/nadeko1995/discord-rules-template",
-      "title": "GitHub - nadeko1995/ discord - rules - template : A generic template of..."
+      "title": "GitHub - nadeko1995/ discord - rules - template : A generic template of...",
+      "url": "https://github.com/nadeko1995/discord-rules-template"
     },
     {
-      "url": "https://dotnotify.io/discord-server-rules-template-you-can-copy-and-paste-for-your-server/",
-      "title": "Discord Server Rules Template You Can Copy & Paste!"
+      "title": "Discord Server Rules Template You Can Copy & Paste!",
+      "url": "https://dotnotify.io/discord-server-rules-template-you-can-copy-and-paste-for-your-server/"
+    },
+    {
+      "title": "Discord Server Templates | Discord Template List | Discords .com",
+      "url": "https://discords.com/templates/"
+    },
+    {
+      "title": "Discord Templates - Discover a huge variety of Discord server...",
+      "url": "https://discordtemplates.me/"
+    },
+    {
+      "title": "Discord Templates | Xenon Bot",
+      "url": "https://xenon.bot/templates"
     }
   ],
   "spoiler window policy examples film club": [
     {
-      "url": "https://www.iheart.com/podcast/269-the-av-club-presents-film-70983810/episode/spoiler-alert-film-club-is-diving-76895316/",
-      "title": "Spoiler Alert! Film Club is diving into spoiler culture - iHeart"
+      "title": "225 Film Club Official Selection, 2025 - reviews and award winners",
+      "url": "https://www.cautionspoilers.com/film-festivals/225-film-club-official-selection-2025-reviews-and-award-winners/"
     },
     {
-      "url": "https://www.avclub.com/spoiler-alert-this-week-film-club-is-diving-into-spoil-1846155582",
-      "title": "Spoiler Alert! This week Film Club is diving into spoiler culture"
+      "title": "Spoiler Alert! Film Club is diving into spoiler culture - iHeart",
+      "url": "https://www.iheart.com/podcast/269-the-av-club-presents-film-70983810/episode/spoiler-alert-film-club-is-diving-76895316/"
+    },
+    {
+      "title": "Starting A School Film Club - Teaching Ideas",
+      "url": "https://www.teachingideas.co.uk/computing/starting-a-school-film-club/"
+    },
+    {
+      "title": "Spoiler Alert! This week Film Club is diving into spoiler culture",
+      "url": "https://www.avclub.com/spoiler-alert-this-week-film-club-is-diving-into-spoil-1846155582"
+    },
+    {
+      "title": "Setting the Scene: A Comprehensive Guide to Launching a Thriving Film ...",
+      "url": "https://darkskiesfilm.com/how-to-set-up-a-film-club-in-school/"
     }
   ],
   "watchlist spreadsheet template mood tags": [
     {
-      "url": "https://other-levels.com/blogs/excel-dashboard-tips-tricks/create-mood-tracker-in-microsoft-excel-step-by-step-guide",
-      "title": "Excel Dashboard Mood Tracker - Build an Interactive Log"
+      "title": "Excel Dashboard Mood Tracker - Build an Interactive Log",
+      "url": "https://other-levels.com/blogs/excel-dashboard-tips-tricks/create-mood-tracker-in-microsoft-excel-step-by-step-guide"
     },
     {
-      "url": "https://xlstemplate.com/health/mental-health-mood-tracker-excel-template",
-      "title": "Free Mental Health Mood Tracker Excel Template: Easily Monitor Your ..."
+      "title": "Free Mental Health Mood Tracker Excel Template: Easily Monitor Your ...",
+      "url": "https://xlstemplate.com/health/mental-health-mood-tracker-excel-template"
+    },
+    {
+      "title": "PDF MOOD MONITORING SHEETS - McGill University",
+      "url": "https://www.mcgill.ca/cansmart/files/cansmart/mood_sheet_online.pdf"
+    },
+    {
+      "title": "Mood Trackers - 16 Free Printable Templates - World of Printables",
+      "url": "https://worldofprintables.com/mood-trackers/"
+    },
+    {
+      "title": "FREE Printable Mood Tracker Bullet Journal + 20 Templates",
+      "url": "https://www.101planners.com/mood-tracker/"
     }
   ],
   "film taxonomy mood ontology research": [
     {
-      "url": "https://research.aalto.fi/en/publications/film-mood-and-its-quantitative-determinants-in-different-types-of",
-      "title": "Film Mood and Its Quantitative Determinants in Different Types of ..."
+      "title": "Film Mood and Its Quantitative Determinants in Different Types of ...",
+      "url": "https://research.aalto.fi/en/publications/film-mood-and-its-quantitative-determinants-in-different-types-of"
     },
     {
-      "url": "https://www.researchgate.net/publication/322350688_Film_Mood_and_Its_Quantitative_Determinants_in_Different_Types_of_Scenes",
-      "title": "(PDF) Film Mood and Its Quantitative Determinants in ... - ResearchGate"
+      "title": "(PDF) Film Mood and Its Quantitative Determinants in ... - ResearchGate",
+      "url": "https://www.researchgate.net/publication/322350688_Film_Mood_and_Its_Quantitative_Determinants_in_Different_Types_of_Scenes"
     },
     {
-      "url": "https://link.springer.com/chapter/10.1007/978-3-030-19601-1_1",
-      "title": "Film Ontology: Extension, Criteria and Candidates"
+      "title": "Film Ontology: Extension, Criteria and Candidates",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-030-19601-1_1"
     },
     {
-      "url": "https://psycnet.apa.org/record/2020-64841-011",
-      "title": "Film mood and its quantitative determinants in different types of scenes."
+      "title": "Decoding Film through Ontology - numberanalytics.com",
+      "url": "https://www.numberanalytics.com/blog/ultimate-guide-to-ontology-of-film"
+    },
+    {
+      "title": "Film mood and its quantitative determinants in different types of scenes.",
+      "url": "https://psycnet.apa.org/record/2020-64841-011"
     }
   ],
   "tmdb api credits endpoint example": [
     {
-      "url": "https://developer.themoviedb.org/reference/movie-credits",
-      "title": "Credits - The Movie Database (TMDB)"
+      "title": "Credits - The Movie Database (TMDB)",
+      "url": "https://developer.themoviedb.org/reference/movie-credits"
     },
     {
-      "url": "https://documenter.getpostman.com/view/28279354/2s9YsNeWJj",
-      "title": "The Movie Database API Documentation - TMDB API"
+      "title": "TMDb API - PublicAPI",
+      "url": "https://publicapi.dev/tm-db-api"
+    },
+    {
+      "title": "GitHub - hosmanoglu/movie-database-api: simple movie API",
+      "url": "https://github.com/hosmanoglu/movie-database-api"
+    },
+    {
+      "title": "pull directors from TMDB API ? : r/api_connector - Reddit",
+      "url": "https://www.reddit.com/r/api_connector/comments/158mhog/pull_directors_from_tmdb_api/"
+    },
+    {
+      "title": "The Movie Database API Documentation - TMDB API",
+      "url": "https://documenter.getpostman.com/view/28279354/2s9YsNeWJj"
     }
   ],
   "imdb datasets title principals download": [
     {
-      "url": "https://www.imdb.com/interfaces",
-      "title": "IMDb Non-Commercial Datasets"
+      "title": "IMDb Non-Commercial Datasets",
+      "url": "https://www.imdb.com/interfaces"
     },
     {
-      "url": "https://imdb-json-datasets.github.io/",
-      "title": "IMDb JSON Datasets"
+      "title": "IMDb JSON Datasets",
+      "url": "https://imdb-json-datasets.github.io/"
     },
     {
-      "url": "https://github.com/IMDb-JSON-Datasets/title.principals",
-      "title": "IMDb-JSON-Datasets/title.principals - GitHub"
+      "title": "IMDb-JSON-Datasets/title.principals - GitHub",
+      "url": "https://github.com/IMDb-JSON-Datasets/title.principals"
+    },
+    {
+      "title": "IMDb_Data_250809 - Kaggle",
+      "url": "https://www.kaggle.com/datasets/mrlsitan/imdb-data-250809"
+    },
+    {
+      "title": "IMDB Datasets : Types, Usages, and Application - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/data-science/imdb-datasets-types-usages-and-application/"
     }
   ],
   "neo4j movie graph tutorial": [
     {
-      "url": "https://github.com/neo4j-graph-examples/movies",
-      "title": "GitHub - neo4j-graph-examples/movies: Built-in Movie Graph Example"
+      "title": "Tutorials - Getting Started - Neo4j Graph Data Platform",
+      "url": "https://neo4j.com/docs/getting-started/appendix/tutorials/tutorials-overview/"
     },
     {
-      "url": "https://dev.to/blamsa0mine/building-a-rich-movie-social-knowledge-graph-with-neo4j-and-python-5ajp",
-      "title": "Building a Rich Movie & Social Knowledge Graph with Neo4j and Python"
+      "title": "GitHub - neo4j-graph-examples/movies: Built-in Movie Graph Example",
+      "url": "https://github.com/neo4j-graph-examples/movies"
     },
     {
-      "url": "https://medium.com/@manavisrani07/building-a-graph-based-movie-recommendation-system-using-neo4j-and-python-d823b54213b2",
-      "title": "Building a Graph-Based Movie Recommendation System Using Neo4j ... - Medium"
+      "title": "Building a Rich Movie & Social Knowledge Graph with Neo4j and Python",
+      "url": "https://dev.to/blamsa0mine/building-a-rich-movie-social-knowledge-graph-with-neo4j-and-python-5ajp"
     },
     {
-      "url": "https://towardsdatascience.com/movie-recommendations-with-neo4j-adaad7c9bf2b/",
-      "title": "Movie recommendations with Neo4j - Towards Data Science"
+      "title": "Building a Graph-Based Movie Recommendation System Using Neo4j ... - Medium",
+      "url": "https://medium.com/@manavisrani07/building-a-graph-based-movie-recommendation-system-using-neo4j-and-python-d823b54213b2"
+    },
+    {
+      "title": "Movie recommendations with Neo4j - Towards Data Science",
+      "url": "https://towardsdatascience.com/movie-recommendations-with-neo4j-adaad7c9bf2b/"
     }
   ],
   "kaggle movie metadata with crew": [
     {
-      "url": "https://www.kaggle.com/datasets/stinnelyodagooc/movie-metadata",
-      "title": "movie_metadata - Kaggle"
+      "title": "movie_metadata - Kaggle",
+      "url": "https://www.kaggle.com/datasets/stinnelyodagooc/movie-metadata"
+    },
+    {
+      "title": "Kaggle movie data set: movies_metadata.csv - Programmer Sought",
+      "url": "https://www.programmersought.com/article/517411729879/"
+    },
+    {
+      "title": "Open source kaggle dataset to see if you can predict movies ...",
+      "url": "https://github.com/geoffkip/Kaggle_Movies"
+    },
+    {
+      "title": "Imdb Dataset Kaggle _ Imdb Datasets \u2013 UMMLR",
+      "url": "https://dangerouswomanvip.com/imdb-dataset-kaggle-imdb-datasets/"
+    },
+    {
+      "title": "13 Best Movie Data Collections for Your Next ML Project - iMerit",
+      "url": "https://imerit.net/resources/blog/13-best-movie-data-sets-for-machine-learning-projects-all-pbm/"
     }
   ],
   "discovery cold start recommender movies paper": [
     {
-      "url": "https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation",
-      "title": "YuanchenBei/Awesome-Cold-Start-Recommendation - GitHub An In-Depth Strategy using Deep Generative Adversarial ... An enhanced framework for solving cold start problem in movie ... Movie Recommendation System for Cold-Start Problem Using User ... Handling Cold-Start Collaborative Filtering with ... - arXiv.org An enhanced framework for solving cold start problem in movie Awesome- Cold-Start - Recommendation - GitHub Awesome- Cold-Start - Recommendation - GitHub An enhanced framework for solving cold start problem in movie A novel approach to movie recommendation systems: overcoming ..."
+      "title": "In-context Learning for Addressing User Cold-start in ...",
+      "url": "https://dl.acm.org/doi/full/10.1145/3705328.3748109"
     },
     {
-      "url": "https://link.springer.com/chapter/10.1007/978-3-031-66965-1_14",
-      "title": "An In-Depth Strategy using Deep Generative Adversarial ... An enhanced framework for solving cold start problem in movie ... Movie Recommendation System for Cold-Start Problem Using User ... Handling Cold-Start Collaborative Filtering with ... - arXiv.org An enhanced framework for solving cold start problem in movie Awesome- Cold-Start - Recommendation - GitHub Awesome- Cold-Start - Recommendation - GitHub An enhanced framework for solving cold start problem in movie A novel approach to movie recommendation systems: overcoming ..."
+      "title": "YuanchenBei/Awesome-Cold-Start-Recommendation - GitHub An In-Depth Strategy using Deep Generative Adversarial ... An enhanced framework for solving cold start problem in movie ... Movie Recommendation System for Cold-Start Problem Using User ... Handling Cold-Start Collaborative Filtering with ... - arXiv.org An enhanced framework for solving cold start problem in movie Awesome- Cold-Start - Recommendation - GitHub Awesome- Cold-Start - Recommendation - GitHub An enhanced framework for solving cold start problem in movie A novel approach to movie recommendation systems: overcoming ...",
+      "url": "https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"
     },
     {
-      "url": "https://www.researchgate.net/publication/356895310_An_enhanced_framework_for_solving_cold_start_problem_in_movie_recommendation_systems",
-      "title": "An enhanced framework for solving cold start problem in movie ..."
+      "title": "An In-Depth Strategy using Deep Generative Adversarial ... An enhanced framework for solving cold start problem in movie ... Movie Recommendation System for Cold-Start Problem Using User ... Handling Cold-Start Collaborative Filtering with ... - arXiv.org An enhanced framework for solving cold start problem in movie Awesome- Cold-Start - Recommendation - GitHub Awesome- Cold-Start - Recommendation - GitHub An enhanced framework for solving cold start problem in movie A novel approach to movie recommendation systems: overcoming ...",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-66965-1_14"
     },
     {
-      "url": "https://ieeexplore.ieee.org/document/10389506",
-      "title": "Movie Recommendation System for Cold-Start Problem Using User ..."
+      "title": "An enhanced framework for solving cold start problem in movie ...",
+      "url": "https://www.researchgate.net/publication/356895310_An_enhanced_framework_for_solving_cold_start_problem_in_movie_recommendation_systems"
+    },
+    {
+      "title": "Movie Recommendation System for Cold-Start Problem Using User ...",
+      "url": "https://ieeexplore.ieee.org/document/10389506"
     }
   ],
   "a/b test artwork thumbnails streaming case study": [
     {
-      "url": "https://thumbnailtest.com/features/thumbnail-ab-testing/",
-      "title": "Thumbnail A / B Testing - Thumbnail Test"
+      "title": "Thumbnail A / B Testing - Thumbnail Test",
+      "url": "https://thumbnailtest.com/features/thumbnail-ab-testing/"
     },
     {
-      "url": "https://mediaonemarketing.com.sg/how-youtube-thumbnails-influence-viewer-behaviour/",
-      "title": "How YouTube Thumbnails Influence Viewer Behaviour..."
+      "title": "YouTube Thumbnail Tester & Previewer",
+      "url": "https://www.testmythumbnails.com/"
+    },
+    {
+      "title": "ASOS Marketing Case Study & A / B Testing | PDF",
+      "url": "https://www.slideshare.net/slideshow/asos-marketing-case-study-ab-testing/235557717"
+    },
+    {
+      "title": "From A / B Testing to Bayesian Decision-Making... - ASQRRD",
+      "url": "https://asqrrd.org/from-a-b-testing-to-bayesian-decision-making-part-3-3-when-and-how-to-use-them-a-real-world-engineering-case-study/"
+    },
+    {
+      "title": "How YouTube Thumbnails Influence Viewer Behaviour...",
+      "url": "https://mediaonemarketing.com.sg/how-youtube-thumbnails-influence-viewer-behaviour/"
     }
   ],
   "row ordering algorithms home screen research": [
     {
-      "url": "https://www.researchgate.net/publication/373945823_Leveling_Up_the_Peloton_Homescreen_A_System_and_Algorithm_for_Dynamic_Row_Ranking",
-      "title": "Leveling Up the Peloton Homescreen: A System and Algorithm ..."
+      "title": "Adaptive iterated local search for the parallel row ordering ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0957417422012477"
+    },
+    {
+      "title": "An improved model for the parallel row ordering problem",
+      "url": "https://www.eng.auburn.edu/~aesmith/files/an-improved-model-for-the-parallel-row-ordering-problem.pdf"
+    },
+    {
+      "title": "Leveling Up the Peloton Homescreen: A System and Algorithm ...",
+      "url": "https://www.researchgate.net/publication/373945823_Leveling_Up_the_Peloton_Homescreen_A_System_and_Algorithm_for_Dynamic_Row_Ranking"
+    },
+    {
+      "title": "A Scatter Search Approach for the Parallel Row Ordering ...",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-26504-4_40"
+    },
+    {
+      "title": "Faster sorting algorithms discovered using deep ... - Nature",
+      "url": "https://www.nature.com/articles/s41586-023-06004-9"
     }
   ],
   "editorial collections vs algorithm performance": [
     {
-      "url": "https://lyricassistant.com/playlisting-editorial-vs-algorithmic-vs-user-lists/",
-      "title": "Playlisting: Editorial vs Algorithmic vs User Lists - Lyric Assistant"
+      "title": "Playlisting: Editorial vs Algorithmic vs User Lists - Lyric Assistant",
+      "url": "https://lyricassistant.com/playlisting-editorial-vs-algorithmic-vs-user-lists/"
     },
     {
-      "url": "https://blog.sonicbids.com/spotify-algorithmic-editorial",
-      "title": "How to Get on Spotify Playlists: Algorithmic vs Editorial"
+      "title": "Memory data layout vs algorithm performance - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/28164626/memory-data-layout-vs-algorithm-performance"
+    },
+    {
+      "title": "Understanding the Spotify Algorithm : Streaming Hacks for Musicians...",
+      "url": "https://amgmusic.org/understanding-the-spotify-algorithm-streaming-hacks-for-musicians/"
+    },
+    {
+      "title": "How to Get on Spotify Playlists: Algorithmic vs Editorial",
+      "url": "https://blog.sonicbids.com/spotify-algorithmic-editorial"
+    },
+    {
+      "title": "Algorithm Performance vs . Faster Hardware: Which Makes...",
+      "url": "https://postindustria.com/algorithm-performance-vs-faster-hardware-which-makes-a-successful-ml-project-machine-learning/"
     }
   ],
   "leaving netflix this month master list": [
     {
-      "url": "https://www.netflix.com/tudum/articles/whats-leaving-netflix",
-      "title": "What's Leaving Netflix in December 2025: Movies and Shows ... What's Leaving Streaming December 2025 | WhatIsLeaving.com Top Stories Every Show That Is Leaving Netflix in December - FandomWire Leaving Netflix - (December 2025 - UPDATED MONTHLY), a list ... What's Leaving Netflix in December 2025: Shows and Movies List These Beloved TV Shows Are Leaving Netflix In December ... What\u2019s Leaving Netflix in December 2025: Movies, TV Shows"
+      "title": "What's Leaving Netflix in December 2025: Movies and Shows ... What's Leaving Streaming December 2025 | WhatIsLeaving.com Top Stories Every Show That Is Leaving Netflix in December - FandomWire Leaving Netflix - (December 2025 - UPDATED MONTHLY), a list ... What's Leaving Netflix in December 2025: Shows and Movies List These Beloved TV Shows Are Leaving Netflix In December ... What\u2019s Leaving Netflix in December 2025: Movies, TV Shows",
+      "url": "https://www.netflix.com/tudum/articles/whats-leaving-netflix"
     },
     {
-      "url": "https://fandomwire.com/every-show-that-is-leaving-netflix-in-december/",
-      "title": "Every Show That Is Leaving Netflix in December - FandomWire"
+      "title": "What's Leaving Streaming December 2025 | WhatIsLeaving.com",
+      "url": "https://whatisleaving.com/"
     },
     {
-      "url": "https://letterboxd.com/brendanlittle/list/leaving-netflix-december-2025-updated-monthly/",
-      "title": "Leaving Netflix - (December 2025 - UPDATED MONTHLY), a list ..."
+      "title": "Every Show That Is Leaving Netflix in December - FandomWire",
+      "url": "https://fandomwire.com/every-show-that-is-leaving-netflix-in-december/"
     },
     {
-      "url": "https://decider.com/article/shows-movies-leaving-netflix-soon/",
-      "title": "What's Leaving Netflix in December 2025: Shows and Movies List"
+      "title": "Leaving Netflix - (December 2025 - UPDATED MONTHLY), a list ...",
+      "url": "https://letterboxd.com/brendanlittle/list/leaving-netflix-december-2025-updated-monthly/"
+    },
+    {
+      "title": "What's Leaving Netflix in December 2025: Shows and Movies List",
+      "url": "https://decider.com/article/shows-movies-leaving-netflix-soon/"
     }
   ],
-  "new to streaming this week rss": [],
+  "new to streaming this week rss": [
+    {
+      "title": "New movies streaming on Netflix, Hulu, Disney+, HBO Max, Prime",
+      "url": "https://www.usatoday.com/story/entertainment/movies/2025/12/12/new-movies-streaming-netflix-hulu-disney-hbo-max-amazon/87627562007/"
+    },
+    {
+      "title": "7 new movies and TV shows to stream on Netflix, Prime Video ...",
+      "url": "https://www.techradar.com/streaming/7-new-movies-and-tv-shows-to-stream-on-netflix-prime-video-hbo-max-and-more-this-weekend-december-12"
+    },
+    {
+      "title": "What To Watch This Weekend: New Shows And Movies To Stream On ...",
+      "url": "https://www.forbes.com/sites/erikkain/2025/12/06/new-tv-shows-movies-streaming-this-weekend-netflix-hulu-apple-amazon-prime-video-disney-paramount/"
+    },
+    {
+      "title": "New TV shows to watch this week: Tune into \u2018Stumble\u2019 on NBC ...",
+      "url": "https://www.yahoo.com/entertainment/tv/article/new-tv-shows-to-watch-this-week-tune-into-stumble-on-nbc-stream-little-disasters-on-paramount-and-catch-dash--lily-on-netflix-130035774.html?fr=sycsrp_catchall"
+    },
+    {
+      "title": "What to watch: new movies and TV shows to stream this week",
+      "url": "https://www.shortlist.com/news/new-on-streaming-tv-show-movies-402461"
+    }
+  ],
   "streaming rights windows explained": [
     {
-      "url": "https://boxofficewala.com/news/christy-ott-rights-streaming-deal-value-budget-box-office-release-window-explained/",
-      "title": "Christy OTT Rights : Streaming Deal Value, Budget, Box Office..."
+      "title": "Christy OTT Rights : Streaming Deal Value, Budget, Box Office...",
+      "url": "https://boxofficewala.com/news/christy-ott-rights-streaming-deal-value-budget-box-office-release-window-explained/"
+    },
+    {
+      "title": "How I Easily Control App Permissions in Windows Settings",
+      "url": "https://www.makeuseof.com/control-app-permissions-in-windows/"
+    },
+    {
+      "title": "How to Split Screen in Windows 10 and 11",
+      "url": "https://www.howtogeek.com/824707/how-to-split-screen-on-windows/"
+    },
+    {
+      "title": "How to Set Environment Variables in Windows",
+      "url": "https://phoenixnap.com/kb/windows-set-environment-variable"
+    },
+    {
+      "title": "Free Windows Utilities: 12 Useful Tools Every Windows 10/11 User...",
+      "url": "https://memstechtips.com/12-free-windows-utilities-every-user-should-know/"
     }
   ],
   "windowing strategy case studies netflix vs hbo": [
     {
-      "url": "https://www.cnbc.com/2023/04/23/hbo-netflix-have-evolved-away-from-each-other.html",
-      "title": "How HBO and Netflix have evolved away from each other - CNBC"
+      "title": "Warner Bros. Acquisition Fuels Debate Over HBO\u2019s Legacy ...",
+      "url": "https://www.archyde.com/warner-bros-acquisition-fuels-debate-over-hbos-legacy-versus-netflixs-production-model/"
     },
     {
-      "url": "https://www.parksassociates.com/bento/shop/whitepapers/files/Parks+Assoc+Content+Strategies+Whitepaper+FINAL.pdf",
-      "title": "Content Distribution Strategies: Changes in Movie Windowing"
+      "title": "How HBO and Netflix have evolved away from each other - CNBC",
+      "url": "https://www.cnbc.com/2023/04/23/hbo-netflix-have-evolved-away-from-each-other.html"
     },
     {
-      "url": "https://www.tvtechnology.com/opinion/the-changing-world-of-movie-windowing-in-the-us-and-europe",
-      "title": "The Changing World of Movie Windowing in the US and Europe"
+      "title": "The Ultimate Guide For The Netflix-Warner Bros. Discovery ...",
+      "url": "https://seekingalpha.com/article/4853122-the-ultimate-guide-for-the-netflix-wbd-merger-strategic-rationale-regulatory-hurdles-bidding-war"
+    },
+    {
+      "title": "Content Distribution Strategies: Changes in Movie Windowing",
+      "url": "https://www.parksassociates.com/bento/shop/whitepapers/files/Parks+Assoc+Content+Strategies+Whitepaper+FINAL.pdf"
+    },
+    {
+      "title": "The Changing World of Movie Windowing in the US and Europe",
+      "url": "https://www.tvtechnology.com/opinion/the-changing-world-of-movie-windowing-in-the-us-and-europe"
     }
   ],
-  "top world cinema 2020s underseen": [],
+  "top world cinema 2020s underseen": [
+    {
+      "title": "13 Offbeat, Unappreciated, and Underseen Holiday Movies to Watch...",
+      "url": "https://www.indiewire.com/lists/offbeat-unappreciated-underseen-holiday-movies/"
+    },
+    {
+      "title": "K. Austin Collins' Top 20 Movies of 2020",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/k-austin-collins-best-movies-2020-1106930/merawi-gerima-residue-1106947"
+    },
+    {
+      "title": "13 Offbeat, Unappreciated, and Underseen Holiday Movies",
+      "url": "https://www.listchallenges.com/13-offbeat-unappreciated-and-underseen-holiday"
+    },
+    {
+      "title": "\u0420\u043e\u0433\u0430\u0442\u043a\u0430 / K\u00e5disbellan 1993 \u0433 \u2014 \u0412\u0438\u0434\u0435\u043e \u043e\u0442 World Cinema | \u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435",
+      "url": "https://vk.com/video-216093368_456246483"
+    },
+    {
+      "title": "Entries in CINEMA the 2020 s category - \u3008 It / Es \u3009 thinks, in the...",
+      "url": "https://mythink.hatenablog.com/archive/category/\u25b6\u3000CINEMA\u3000the+2020s"
+    }
+  ],
   "fespaco winners where to watch": [
     {
-      "url": "https://en.wikipedia.org/wiki/List_of_FESPACO_award_winners",
-      "title": "List of FESPACO award winners - Wikipedia"
+      "title": "List of FESPACO award winners - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_FESPACO_award_winners"
     },
     {
-      "url": "https://www.cinema.indiana.edu/upcoming-films/series/the-best-of-fespaco",
-      "title": "The Best of FESPACO - cinema.indiana.edu"
+      "title": "Welcome to Fespaco - FESPACO",
+      "url": "https://fespaco.bf/en/welcome-to-fespaco/"
     },
     {
-      "url": "https://akoroko.com/fespaco-2025-etalon-dor/",
-      "title": "FESPACO 2025: Burkina Faso Wins First \u00c9talon d\u2019Or in 28 Years"
+      "title": "FESPACO 2025: Burkina Faso Wins First \u00c9talon d\u2019Or in 28 Years",
+      "url": "https://akoroko.com/fespaco-2025-etalon-dor/"
+    },
+    {
+      "title": "The Best of FESPACO - cinema.indiana.edu",
+      "url": "https://www.cinema.indiana.edu/upcoming-films/series/the-best-of-fespaco"
+    },
+    {
+      "title": "FESPACO \u2013 African Heritage",
+      "url": "https://afrolegends.com/tag/fespaco/"
     }
   ],
   "iranian cinema primer streaming list": [
     {
-      "url": "https://thevore.com/iranianpersian-movies/",
-      "title": "Best new Iranian/Persian Movies in 2025 & 2024 (Netflix ..."
+      "title": "Best new Iranian/Persian Movies in 2025 & 2024 (Netflix ...",
+      "url": "https://thevore.com/iranianpersian-movies/"
     },
     {
-      "url": "https://reelgood.com/movies/origin/iran/on-amazon",
-      "title": "Full List of Iranian Movies on Prime Video - Top 50 | Reelgood"
+      "title": "Full List of Iranian Movies on Prime Video - Top 50 | Reelgood",
+      "url": "https://reelgood.com/movies/origin/iran/on-amazon"
     },
     {
-      "url": "https://www.vulture.com/article/best-iranian-movies-streaming.html",
-      "title": "The Best Iranian Movies to Stream - Vulture 7 critically acclaimed Iranian movies to watch on Amazon ... Iranian Cinema: Best Movies & Series to Watch | SeriesOnEarth 25 Iranian Movies That Changed My Perspective on Cinema"
+      "title": "The Best Iranian Movies to Stream - Vulture 7 critically acclaimed Iranian movies to watch on Amazon ... Iranian Cinema: Best Movies & Series to Watch | SeriesOnEarth 25 Iranian Movies That Changed My Perspective on Cinema",
+      "url": "https://www.vulture.com/article/best-iranian-movies-streaming.html"
     },
     {
-      "url": "https://www.gqindia.com/binge-watch/collection/7-critically-acclaimed-iranian-movies-watch-amazon-prime-video-youtube-eclectic-mix-popular-genres",
-      "title": "7 critically acclaimed Iranian movies to watch on Amazon ..."
+      "title": "7 critically acclaimed Iranian movies to watch on Amazon ...",
+      "url": "https://www.gqindia.com/binge-watch/collection/7-critically-acclaimed-iranian-movies-watch-amazon-prime-video-youtube-eclectic-mix-popular-genres"
     },
     {
-      "url": "https://www.serieson.earth/iran",
-      "title": "Iranian Cinema: Best Movies & Series to Watch | SeriesOnEarth"
+      "title": "Iranian Cinema: Best Movies & Series to Watch | SeriesOnEarth",
+      "url": "https://www.serieson.earth/iran"
     }
   ],
   "kenyan film new wave articles": [
     {
-      "url": "https://innairobi.com/kenyan-cinema-celebrating-the-new-wave-of-local-filmmakers/",
-      "title": "Kenyan Cinema: Celebrating the New Wave of Local Filmmakers"
+      "title": "Kenyan films gain international recognition \u2013 Kenya News Agency",
+      "url": "https://www.kenyanews.go.ke/kenyan-films-gain-international-recognition/"
     },
     {
-      "url": "https://www.teaspace.digital/movies/makosa-ni-yangu-and-the-future-of-kenyan-film-how-abel-mutua-and-phil-karanja-are-catalyzing-a-cinematic-revolution",
-      "title": "Makosa Ni Yangu and the Future of Kenyan Film: How Abel Mutua ..."
+      "title": "Kenyan Cinema: Celebrating the New Wave of Local Filmmakers",
+      "url": "https://innairobi.com/kenyan-cinema-celebrating-the-new-wave-of-local-filmmakers/"
+    },
+    {
+      "title": "2024 Year in Review: 9 Big Moments That Defined Kenya\u2019s Film ...",
+      "url": "https://www.sinemafocus.com/2024-year-in-review-9-big-moments-that-defined-kenyas-film-television-and-theatre-industry/"
+    },
+    {
+      "title": "Makosa Ni Yangu and the Future of Kenyan Film: How Abel Mutua ...",
+      "url": "https://www.teaspace.digital/movies/makosa-ni-yangu-and-the-future-of-kenyan-film-how-abel-mutua-and-phil-karanja-are-catalyzing-a-cinematic-revolution"
+    },
+    {
+      "title": "Kenyan filmmakers making big moves on global stage",
+      "url": "https://www.standardmedia.co.ke/entertainment/arts-and-culture/article/2001489544/kenyan-filmmakers-making-big-moves-on-global-stage"
     }
   ],
   "brazilian cinema retomada guide": [
     {
-      "url": "https://en.wikipedia.org/wiki/Resumption_Cinema",
-      "title": "Resumption Cinema - Wikipedia"
+      "title": "Resumption Cinema - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Resumption_Cinema"
     },
     {
-      "url": "https://www.jstor.org/stable/48735358",
-      "title": "BRAZILIAN WOMEN\u2019S CINEMA FROM THE RETOMADA TO ... - JSTOR"
+      "title": "25 Essential Films for an Introduction to New Brazilian Cinema",
+      "url": "https://www.listchallenges.com/25-essential-films-for-an-introduction-to-new"
     },
     {
-      "url": "https://www.wikiwand.com/en/articles/Resumption+Cinema",
-      "title": "Resumption Cinema - Wikiwand"
+      "title": "BRAZILIAN WOMEN\u2019S CINEMA FROM THE RETOMADA TO ... - JSTOR",
+      "url": "https://www.jstor.org/stable/48735358"
     },
     {
-      "url": "https://researchguides.dartmouth.edu/nationalcinemas/brazil",
-      "title": "Research Guides: Film Studies: National Cinemas: Brazil"
+      "title": "Resumption Cinema - Wikiwand",
+      "url": "https://www.wikiwand.com/en/articles/Resumption+Cinema"
+    },
+    {
+      "title": "Research Guides: Film Studies: National Cinemas: Brazil",
+      "url": "https://researchguides.dartmouth.edu/nationalcinemas/brazil"
     }
   ],
   "women directors 1970s international list": [
     {
-      "url": "https://www.bbc.com/culture/article/20191125-the-100-greatest-films-directed-by-women-poll",
-      "title": "The 100 greatest films directed by women"
+      "title": "Isabelle Huppert - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isabelle_Huppert"
+    },
+    {
+      "title": "The 100 greatest films directed by women",
+      "url": "https://www.bbc.com/culture/article/20191125-the-100-greatest-films-directed-by-women-poll"
+    },
+    {
+      "title": "Watch Now: 10 great films from Irish female directors - Scannain",
+      "url": "https://www.scannain.com/irish/10-irish-female-directed-films/"
+    },
+    {
+      "title": "Pioneer on the International FIlm Festival Scene: An... | 5Harfliler.com",
+      "url": "https://www.5harfliler.com/pioneer-on-the-international-film-festival-scene-an-interview-with-hulya-ucansu/"
+    },
+    {
+      "title": "Women and the Global 1970 s | Hopkins Press",
+      "url": "https://www.press.jhu.edu/newsroom/women-and-global-1970s"
     }
   ],
   "queer cinema asia curated list": [
     {
-      "url": "https://medium.com/the-asian-rainbow/the-top-10-emotional-gay-movies-from-asia-you-cant-afford-to-miss-94905cc7d7ec",
-      "title": "The Top 10 Emotional Gay Movies from Asia You... | Medium"
+      "title": "The Top 10 Emotional Gay Movies from Asia You... | Medium",
+      "url": "https://medium.com/the-asian-rainbow/the-top-10-emotional-gay-movies-from-asia-you-cant-afford-to-miss-94905cc7d7ec"
+    },
+    {
+      "title": "Current Queer Cinema - FFI.SK",
+      "url": "https://www.ffi.sk/en/ffi-2025-en/current-queer-cinema/"
+    },
+    {
+      "title": "We Dream in Fragments: On Sinophone Queer Cinema and Futures...",
+      "url": "https://mulanfestival.com/2025/we-dream-in-fragments-on-sinophone-queer-cinema-and-futures-mulaniff2025/"
+    },
+    {
+      "title": "How Shanghai Queer Film Festival Depolarizes Cinema",
+      "url": "http://posturemag.com/online/shanghai-queer-film-festival/"
+    },
+    {
+      "title": "Queer Cin\u00e9",
+      "url": "https://www.imdb.com/list/ls045069322/"
     }
   ],
   "short films online curated channels": [
     {
-      "url": "https://vimeo.com/channels/shortoftheweek",
-      "title": "Short of the Week on Vimeo"
+      "title": "Short of the Week on Vimeo",
+      "url": "https://vimeo.com/channels/shortoftheweek"
     },
     {
-      "url": "https://klipist.com/",
-      "title": "Klipist \u2013 Watch the best short films online"
+      "title": "Klipist \u2013 Watch the best short films online",
+      "url": "https://klipist.com/"
+    },
+    {
+      "title": "5 Short Film Streaming Platforms You Should Know",
+      "url": "https://journotalk.com/5-short-film-streaming-platforms-you-should-know/"
+    },
+    {
+      "title": "SotW Arrives on Facebook | Watch the Best Online Short Films",
+      "url": "https://www.shortoftheweek.com/news/sotw-arrives-on-facebook"
+    },
+    {
+      "title": "Along the Rise \u2013 curated by Darlene Naponse | BIRRARANGGA Film ...",
+      "url": "https://www.acmi.net.au/whats-on/birrarangga-film-festival-bff-2021/along-the-rise-short-films-curated-by-darlene-naponse/"
     }
   ],
   "vimeo staff picks world cinema": [
     {
-      "url": "https://staffpicksevents.com/vimeo-staff-picks",
-      "title": "Vimeo Staff Picks \u2014 Vimeo Staff Picks 2024 Screening Series"
+      "title": "How Vimeo Staff Picks Actually Work | No Film School",
+      "url": "https://nofilmschool.com/how-vimeo-staff-picks-actually-work"
     },
     {
-      "url": "https://do512.com/events/2025/12/9/vimeo-staff-picks-screening-tickets",
-      "title": "Vimeo Staff Picks Screening in Austin at AFS Cinema"
+      "title": "Vimeo Staff Picks \u2014 Vimeo Staff Picks 2024 Screening Series",
+      "url": "https://staffpicksevents.com/vimeo-staff-picks"
     },
     {
-      "url": "https://vimeo.com/68054365",
-      "title": "Staff Picks Cinema - Vimeo Vimeo Staff Picks History and Future - Video Namic Vimeo Staff Picks History and Future - Video Namic How Vimeo Staff Picks Actually Work | No Film School Vimeo Staff Picks: Best of the Year Awards & Screening"
+      "title": "Vimeo Staff Picks History and Future - Video Namic",
+      "url": "https://videonamic.com/vimeo-staff-picks-history-and-future/"
+    },
+    {
+      "title": "Vimeo Staff Picks Screening in Austin at AFS Cinema",
+      "url": "https://do512.com/events/2025/12/9/vimeo-staff-picks-screening-tickets"
+    },
+    {
+      "title": "Staff Picks Cinema - Vimeo Vimeo Staff Picks History and Future - Video Namic Vimeo Staff Picks History and Future - Video Namic How Vimeo Staff Picks Actually Work | No Film School Vimeo Staff Picks: Best of the Year Awards & Screening",
+      "url": "https://vimeo.com/68054365"
     }
   ],
   "bfi sight and sound top 100 printable": [
     {
-      "url": "https://www.bfi.org.uk/sight-and-sound/directors-100-greatest-films-all-time",
-      "title": "Directors\u2019 100 Greatest Films of All Time | BFI"
+      "title": "Directors\u2019 100 Greatest Films of All Time | BFI",
+      "url": "https://www.bfi.org.uk/sight-and-sound/directors-100-greatest-films-all-time"
     },
     {
-      "url": "https://letterboxd.com/simplymason/list/bfi-sight-and-sound-top-100/",
-      "title": "BFI Sight and Sound Top 100 , a list of films by Mason Hathcock..."
+      "title": "BFI Sight and Sound Top 100 , a list of films by Mason Hathcock...",
+      "url": "https://letterboxd.com/simplymason/list/bfi-sight-and-sound-top-100/"
     },
     {
-      "url": "https://www.imdb.com/list/ls088875074/",
-      "title": "BFI Sight and Sound Top 100"
+      "title": "Sight and Sound - YouTube",
+      "url": "https://www.youtube.com/channel/UCZjFXfEd9esBg3lObeTyIYw"
     },
     {
-      "url": "https://decider.com/2022/12/02/2022-sight-and-sound-greatest-films-of-all-time-poll/",
-      "title": "2022 Sight And Sound Poll (COMPLETE LIST): 'Jeanne Dielman..."
+      "title": "BFI Sight and Sound Top 100",
+      "url": "https://www.imdb.com/list/ls088875074/"
+    },
+    {
+      "title": "2022 Sight And Sound Poll (COMPLETE LIST): 'Jeanne Dielman...",
+      "url": "https://decider.com/2022/12/02/2022-sight-and-sound-greatest-films-of-all-time-poll/"
     }
   ],
   "best audio commentaries blu ray ranked": [
     {
-      "url": "https://screenrant.com/10-dvd-commentaries-you-must-hear/",
-      "title": "10 DVD/Blu-ray Audio Commentaries You Have To Hear - Screen Rant Best DVD/BluRay audio commentaries : r/movies - Reddit Mr. Coat: The Top 10 Best DVD/Blu-Ray Audio Commentaries Blu-ray Audio Commentaries I\u2019ve done, a list of films by ... Disc Commentary Which movie\u2019s audio commentary is worth listening to?"
+      "title": "10 DVD/Blu-ray Audio Commentaries You Have To Hear - Screen Rant Best DVD/BluRay audio commentaries : r/movies - Reddit Mr. Coat: The Top 10 Best DVD/Blu-Ray Audio Commentaries Blu-ray Audio Commentaries I\u2019ve done, a list of films by ... Disc Commentary Which movie\u2019s audio commentary is worth listening to?",
+      "url": "https://screenrant.com/10-dvd-commentaries-you-must-hear/"
     },
     {
-      "url": "https://thatfellowinthecoat.com/coatcommentaries.php",
-      "title": "Mr. Coat: The Top 10 Best DVD/Blu-Ray Audio Commentaries"
+      "title": "Best DVD/BluRay audio commentaries : r/movies - Reddit",
+      "url": "https://www.reddit.com/r/movies/comments/179jt12/best_dvdbluray_audio_commentaries/"
+    },
+    {
+      "title": "Mr. Coat: The Top 10 Best DVD/Blu-Ray Audio Commentaries",
+      "url": "https://thatfellowinthecoat.com/coatcommentaries.php"
+    },
+    {
+      "title": "Which movie\u2019s audio commentary is worth listening to?",
+      "url": "https://www.redditmedia.com/r/4kbluray/comments/1jm6w6k/which_movies_audio_commentary_is_worth_listening/"
+    },
+    {
+      "title": "Best audio commentaries you've heard on 4K UHD - Blu-ray Forum",
+      "url": "https://forum.blu-ray.com/showthread.php?t=366178"
     }
   ],
   "blu ray special features database": [
     {
-      "url": "https://dvd-video.fandom.com/wiki/DVD_Database_Revamped",
-      "title": "DVD/BD/UHD Database Wiki | Fandom"
+      "title": "DVD/BD/UHD Database Wiki | Fandom",
+      "url": "https://dvd-video.fandom.com/wiki/DVD_Database_Revamped"
     },
     {
-      "url": "https://www.dvdcompare.net/",
-      "title": "rewind @ dvdcompare.net - the home of dvd & blu-ray comparisons"
+      "title": "rewind @ dvdcompare.net - the home of dvd & blu-ray comparisons",
+      "url": "https://www.dvdcompare.net/"
+    },
+    {
+      "title": "Question: Is there a database of DVD/Blu-Ray versions that ...",
+      "url": "https://www.reddit.com/r/dvdcollection/comments/4439z6/question_is_there_a_database_of_dvdbluray/"
+    },
+    {
+      "title": "The Best DVD and Blu-ray Special Features - screencrush.com",
+      "url": "https://screencrush.com/best-dvd-blu-ray-special-features/"
+    },
+    {
+      "title": "Best Blu-ray Special Features: Top Picks for 2024 That You ...",
+      "url": "https://hishecozy.com/best-blu-ray-special-features/"
     }
   ],
   "how to rip commentary track legally": [
     {
-      "url": "https://aaronhall.com/rights-to-bonus-content-commentary-tracks/",
-      "title": "Rights to Bonus Content & Commentary Tracks - Attorney Aaron Hall"
+      "title": "Rights to Bonus Content & Commentary Tracks - Attorney Aaron Hall",
+      "url": "https://aaronhall.com/rights-to-bonus-content-commentary-tracks/"
     },
     {
-      "url": "https://www.reddit.com/r/4kbluray/comments/1aib9u8/ripping_audio_commentaries/",
-      "title": "Ripping audio commentaries : r/4kbluray - Reddit"
+      "title": "Is It Illegal to Rip Music from YouTube? The Complete Guide",
+      "url": "https://softhandtech.com/is-it-illegal-to-rip-music-from-youtube/"
     },
     {
-      "url": "https://www.avvo.com/legal-answers/is-it-legal-for-me-to-screen-record-or-rip-film-cl-5558556.html",
-      "title": "Is it legal for me to screen record or RIP film clips I ..."
+      "title": "Can You Use Movie Clips In Your YouTube Videos? Yes! (Here\u2019s How)",
+      "url": "https://geekvibesnation.com/can-you-use-movie-clips-in-your-youtube-videos-yes-heres-how/"
+    },
+    {
+      "title": "Ripping audio commentaries : r/4kbluray - Reddit",
+      "url": "https://www.reddit.com/r/4kbluray/comments/1aib9u8/ripping_audio_commentaries/"
+    },
+    {
+      "title": "Is it legal for me to screen record or RIP film clips I ...",
+      "url": "https://www.avvo.com/legal-answers/is-it-legal-for-me-to-screen-record-or-rip-film-cl-5558556.html"
     }
   ],
   "alternate scores experiment how to rescore scene": [
     {
-      "url": "https://www.reddit.com/r/filmscoring/comments/1c4jz0t/some_quick_guidance_for_those_starting_out_doing/",
-      "title": "Some quick guidance for those starting out doing rescores"
+      "title": "Some quick guidance for those starting out doing rescores",
+      "url": "https://www.reddit.com/r/filmscoring/comments/1c4jz0t/some_quick_guidance_for_those_starting_out_doing/"
     },
     {
-      "url": "https://itsjonathanthompson.com/blog/posts/rescoring-a-scene/",
-      "title": "Rescoring A Scene - itsjonathanthompson.com"
+      "title": "Rescoring A Scene - itsjonathanthompson.com",
+      "url": "https://itsjonathanthompson.com/blog/posts/rescoring-a-scene/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=qfMmktWzpnI",
-      "title": "Interstellar | Docking Scene | Alternate Music Score - YouTube The Cue Tube - The Cue Tube Rescore a scene - Alive With Ideas Film Scoring \u2014 Unstoppable Musician - Eileen Sauer Suggestions for a scene to rescore - Vi-Control"
+      "title": "Interstellar | Docking Scene | Alternate Music Score - YouTube The Cue Tube - The Cue Tube Rescore a scene - Alive With Ideas Film Scoring \u2014 Unstoppable Musician - Eileen Sauer Suggestions for a scene to rescore - Vi-Control",
+      "url": "https://www.youtube.com/watch?v=qfMmktWzpnI"
     },
     {
-      "url": "https://www.alivewithideas.com/activity/rescore/",
-      "title": "Rescore a scene - Alive With Ideas"
+      "title": "Rescore a scene - Alive With Ideas",
+      "url": "https://www.alivewithideas.com/activity/rescore/"
     },
     {
-      "url": "https://vi-control.net/community/threads/suggestions-for-a-scene-to-rescore.155230/",
-      "title": "Suggestions for a scene to rescore - Vi-Control"
+      "title": "Suggestions for a scene to rescore - Vi-Control",
+      "url": "https://vi-control.net/community/threads/suggestions-for-a-scene-to-rescore.155230/"
     }
   ],
   "premiere pro match cut technique tutorial": [
     {
-      "url": "https://www.youtube.com/watch?v=bOjjLmAgKkk",
-      "title": "How to Match Cut in Premiere Pro (Step-by-Step) - YouTube"
+      "title": "How to Match Cut in Premiere Pro (Step-by-Step) - YouTube",
+      "url": "https://www.youtube.com/watch?v=bOjjLmAgKkk"
     },
     {
-      "url": "https://www.wwwebmasters.net/2024/05/how-to-do-match-cut-transition-in.html",
-      "title": "How to do the Match Cut Transition in Premiere Pro"
+      "title": "Match cut: What is a match cut in film and how to ... - Adobe",
+      "url": "https://www.adobe.com/creativecloud/video/post-production/cuts-in-film/match-cut.html"
     },
     {
-      "url": "https://www.linkedin.com/learning/creative-video-editing-techniques/match-cut",
-      "title": "Match cut - Premiere Pro Video Tutorial | LinkedIn Learning ..."
+      "title": "How to do the Match Cut Transition in Premiere Pro",
+      "url": "https://www.wwwebmasters.net/2024/05/how-to-do-match-cut-transition-in.html"
     },
     {
-      "url": "https://www.msn.com/en-us/technology/software/seamless-timelapse-match-cut-effect-premiere-pro-tutorial/vi-AA1IcIut",
-      "title": "Seamless Timelapse Match Cut Effect \u2013 Premiere Pro Tutorial How to Create Match Cut Effect in Adobe Premiere Pro | TikTok Match cut : What is a match cut in film and how to create one | Adobe Adobe Premiere : Working with Transitions | UniversalClass Match cut : What is a match cut in film and how to create one | Adobe Match cut : What is a match cut in film and how to create one | Adobe Kunal | Graphic Designer & Video Editor | Match Cut Effect ..."
+      "title": "Match cut - Premiere Pro Video Tutorial | LinkedIn Learning ...",
+      "url": "https://www.linkedin.com/learning/creative-video-editing-techniques/match-cut"
+    },
+    {
+      "title": "Seamless Timelapse Match Cut Effect \u2013 Premiere Pro Tutorial How to Create Match Cut Effect in Adobe Premiere Pro | TikTok Match cut : What is a match cut in film and how to create one | Adobe Adobe Premiere : Working with Transitions | UniversalClass Match cut : What is a match cut in film and how to create one | Adobe Match cut : What is a match cut in film and how to create one | Adobe Kunal | Graphic Designer & Video Editor | Match Cut Effect ...",
+      "url": "https://www.msn.com/en-us/technology/software/seamless-timelapse-match-cut-effect-premiere-pro-tutorial/vi-AA1IcIut"
     }
   ],
   "davinci resolve color management hdr workflow": [
     {
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/color",
-      "title": "DaVinci Resolve \u2013 Color | Blackmagic Design"
+      "title": "Amit Ginni Patpatia - DaVinci Resolve Color Grading for Visual Artist...",
+      "url": "https://amitginni.artstation.com/store/JpD3q/davinci-resolve-color-grading-for-visual-artist-emphasis-for-lighting-artist"
     },
     {
-      "url": "https://shotkit.com/color-davinci-resolve/",
-      "title": "How to Color Grade Footage in DaVinci Resolve"
+      "title": "DaVinci Resolve \u2013 Color | Blackmagic Design",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/color"
+    },
+    {
+      "title": "DaVinci Resolve \u00b7 GitHub",
+      "url": "https://github.com/davinci-resolve-pro"
+    },
+    {
+      "title": "How to Color Grade Footage in DaVinci Resolve",
+      "url": "https://shotkit.com/color-davinci-resolve/"
+    },
+    {
+      "title": "DaVinci Resolve - Download",
+      "url": "https://davinci-resolve.en.softonic.com/"
     }
   ],
   "apple tv 4k show bitrate": [
     {
-      "url": "https://www.avsforum.com/threads/apple-tv-itunes-4k-hdr-titles-bitrates-peak-avg-brightness-atmos-thread.3318336/",
-      "title": "Apple TV iTunes: 4K HDR Titles (Bitrates, Peak/Avg..."
+      "title": "Apple TV iTunes: 4K HDR Titles (Bitrates, Peak/Avg...",
+      "url": "https://www.avsforum.com/threads/apple-tv-itunes-4k-hdr-titles-bitrates-peak-avg-brightness-atmos-thread.3318336/"
     },
     {
-      "url": "https://www.reddit.com/r/appletv/comments/12ijb41/i_know_recommended_bitrate_but_whats_the_maximum/",
-      "title": "I know \"recommended bitrate, but what's the maximum bitrate ..."
+      "title": "I know \"recommended bitrate, but what's the maximum bitrate ...",
+      "url": "https://www.reddit.com/r/appletv/comments/12ijb41/i_know_recommended_bitrate_but_whats_the_maximum/"
     },
     {
-      "url": "https://hd-report.com/streaming-bitrates-of-popular-movies-shows/",
-      "title": "Streaming Bitrates Of Movies & Shows Compared on Apple TV+ ..."
+      "title": "Own an Apple TV? I changed 12 settings to instantly ... - ZDNET",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/apple-tv-change-settings-faster/"
+    },
+    {
+      "title": "iTunes bitrates on Apple TV app (firestick\u2026 - Apple Community",
+      "url": "https://discussions.apple.com/thread/255589379"
+    },
+    {
+      "title": "Streaming Bitrates Of Movies & Shows Compared on Apple TV+ ...",
+      "url": "https://hd-report.com/streaming-bitrates-of-popular-movies-shows/"
     }
   ],
   "hevc vs av1 streaming support 2025": [
     {
-      "url": "https://digitechbytes.com/tech-basics-evergreen-fundamentals/av1-vs-hevc-vs-vp9-2025/",
-      "title": "AV1 Vs HEVC Vs VP9: What Your Devices Decode in 2025"
+      "title": "AV1 Vs HEVC Vs VP9: What Your Devices Decode in 2025",
+      "url": "https://digitechbytes.com/tech-basics-evergreen-fundamentals/av1-vs-hevc-vs-vp9-2025/"
     },
     {
-      "url": "https://www.muvi.com/blogs/best-video-codec-for-streaming/",
-      "title": "AV1 vs H265 vs VP9: Best Video Codec For Streaming in 2025 AV1 vs H.265: Which Video Codec Should You Choose in 2025? The State of the Video Codec Market 2025 - streamingmedia.com AV1 vs HEVC: Know Exactly Which Codec to Choose How AV1 is Driving New Possibilities - Beamr Blog AV1 vs. HEVC: The Codec Showdown - Gumlet"
+      "title": "AV1 vs H265 vs VP9: Best Video Codec For Streaming in 2025 AV1 vs H.265: Which Video Codec Should You Choose in 2025? The State of the Video Codec Market 2025 - streamingmedia.com AV1 vs HEVC: Know Exactly Which Codec to Choose How AV1 is Driving New Possibilities - Beamr Blog AV1 vs. HEVC: The Codec Showdown - Gumlet",
+      "url": "https://www.muvi.com/blogs/best-video-codec-for-streaming/"
     },
     {
-      "url": "https://www.free-codecs.com/guides/is-av1-better-than-h-265.htm",
-      "title": "AV1 vs H.265: Which Video Codec Should You Choose in 2025?"
+      "title": "AV1 vs H.265: Which Video Codec Should You Choose in 2025?",
+      "url": "https://www.free-codecs.com/guides/is-av1-better-than-h-265.htm"
     },
     {
-      "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=168628",
-      "title": "The State of the Video Codec Market 2025 - streamingmedia.com"
+      "title": "The State of the Video Codec Market 2025 - streamingmedia.com",
+      "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=168628"
+    },
+    {
+      "title": "AV1 vs HEVC: Know Exactly Which Codec to Choose",
+      "url": "https://www.videoproc.com/resource/av1-vs-hevc.htm"
     }
   ],
   "plex vs infuse video quality comparison": [
     {
-      "url": "https://mac.eltima.com/infuse-vs-plex/",
-      "title": "Infuse vs Plex: Which service to choose in 2026 - Electronic Team"
+      "title": "Infuse vs Plex: Which service to choose in 2026 - Electronic Team",
+      "url": "https://mac.eltima.com/infuse-vs-plex/"
     },
     {
-      "url": "https://forums.plex.tv/t/is-infuse-a-good-substitute-for-plex/929994",
-      "title": "Is Infuse a good substitute for Plex? - Plex Forum"
+      "title": "Is Infuse a good substitute for Plex? - Plex Forum",
+      "url": "https://forums.plex.tv/t/is-infuse-a-good-substitute-for-plex/929994"
     },
     {
-      "url": "https://www.reddit.com/r/appletv/comments/k9j94h/pay_for_infuse_or_just_use_plex/",
-      "title": "Pay for infuse or just use Plex? : r/appletv - Reddit"
+      "title": "Pay for infuse or just use Plex? : r/appletv - Reddit",
+      "url": "https://www.reddit.com/r/appletv/comments/k9j94h/pay_for_infuse_or_just_use_plex/"
     },
     {
-      "url": "https://mepis.org/community/t/which-is-better-for-streaming-movies-infuse-or-plex/2421",
-      "title": "Which is better for streaming movies: Infuse or Plex?"
+      "title": "Which is better for streaming movies: Infuse or Plex?",
+      "url": "https://mepis.org/community/t/which-is-better-for-streaming-movies-infuse-or-plex/2421"
     },
     {
-      "url": "https://appmus.com/vs/infuse-vs-plex",
-      "title": "Infuse vs Plex Comparison (2025) | Feature by Feature - Appmus"
+      "title": "Infuse vs Plex Comparison (2025) | Feature by Feature - Appmus",
+      "url": "https://appmus.com/vs/infuse-vs-plex"
     }
   ],
   "subtitle accuracy issues netflix report": [
     {
-      "url": "https://help.netflix.com/en/node/104515",
-      "title": "How to report issues with a title | Netflix Help Center"
+      "title": "How to report issues with a title | Netflix Help Center",
+      "url": "https://help.netflix.com/en/node/104515"
     },
     {
-      "url": "https://www.reddit.com/r/netflix/comments/n9uw4w/how_do_i_report_to_netflix_about_inaccurate_and/",
-      "title": "How do I report to Netflix about inaccurate and missing ..."
+      "title": "How do I report to Netflix about inaccurate and missing ...",
+      "url": "https://www.reddit.com/r/netflix/comments/n9uw4w/how_do_i_report_to_netflix_about_inaccurate_and/"
+    },
+    {
+      "title": "Netflix Is the New House of Anime, but It Has a Major Issue ...",
+      "url": "https://screenrant.com/netflix-anime-bad-subtitles-issue-op-ed/"
+    },
+    {
+      "title": "How Netflix Users Corrected Subtitle Misalignment in Foreign ...",
+      "url": "https://wpauthorbox.com/how-netflix-users-corrected-subtitle-misalignment-in-foreign-language-films/"
+    },
+    {
+      "title": "Why Is Netflix Subtitles Wrong - Robots.net",
+      "url": "https://robots.net/tech/why-is-netflix-subtitles-wrong/"
     }
   ],
   "subtitle delay fix on blu ray player": [
     {
-      "url": "https://subtitletools.com/subtitle-sync-shifter",
-      "title": "Sync Subtitles : fix out of sync subtitles"
+      "title": "Sync Subtitles : fix out of sync subtitles",
+      "url": "https://subtitletools.com/subtitle-sync-shifter"
     },
     {
-      "url": "https://wiki.videolan.org/VLC_HowTo/Adjust_subtitle_delay/",
-      "title": "wiki.videolan.org/VLC_HowTo/Adjust_ subtitle _ delay"
+      "title": "How to Play Blu - ray Discs on VLC Windows 10 & 11 | 2025 - YouTube",
+      "url": "https://www.youtube.com/watch?v=CLT2HfLgP6U"
+    },
+    {
+      "title": "wiki.videolan.org/VLC_HowTo/Adjust_ subtitle _ delay",
+      "url": "https://wiki.videolan.org/VLC_HowTo/Adjust_subtitle_delay/"
+    },
+    {
+      "title": "Problems playing blurays with BLU - RAY ... - VideoHelp Forum",
+      "url": "https://forum.videohelp.com/threads/347186-Problems-playing-blurays-with-BLU-RAY-BURNER-LG|-WH12LS38"
+    },
+    {
+      "title": "Kodi 22.3 arrives with two big fixes for Linux and Xbox",
+      "url": "https://www.howtogeek.com/kodi-22-3-released-big-fixes-for-linux-and-xbox/"
     }
   ],
   "aspect ratio guide 1.33 1.66 1.85 2.39": [
     {
-      "url": "https://en.wikipedia.org/wiki/Aspect_ratio_(image)",
-      "title": "Aspect ratio (image) - Wikipedia"
+      "title": "Aspect ratio (image) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aspect_ratio_(image)"
     },
     {
-      "url": "https://www.the-home-cinema-guide.com/dvd-aspect-ratio.html",
-      "title": "Movie Aspect Ratios: 16:9, 1.85:1 & 2.39:1 Explained"
+      "title": "Movie Aspect Ratios: 16:9, 1.85:1 & 2.39:1 Explained",
+      "url": "https://www.the-home-cinema-guide.com/dvd-aspect-ratio.html"
     },
     {
-      "url": "https://www.yakcine.com/resolution-aspect-ratio-cheat-sheet",
-      "title": "Resolution & Aspect Ratio Cheat sheet - yakcine"
+      "title": "Aspect Ratio Cheat Sheet \u2013 Quick Guide to Dimensions",
+      "url": "https://www.insaneimpact.com/resources/aspect-ratio-cheat-sheet"
+    },
+    {
+      "title": "Resolution & Aspect Ratio Cheat sheet - yakcine",
+      "url": "https://www.yakcine.com/resolution-aspect-ratio-cheat-sheet"
+    },
+    {
+      "title": "Aspect Ratio Cheat Sheet - AddSpice",
+      "url": "https://addspice.net/aspect-ratio-cheat-sheet/"
     }
   ],
   "open matte vs pan and scan examples": [
     {
-      "url": "https://en.wikipedia.org/wiki/Open_matte",
-      "title": "Open matte - Wikipedia"
+      "title": "Open matte - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Open_matte"
     },
     {
-      "url": "https://www.youtube.com/watch?v=h_RH2fTGCDU",
-      "title": "Open Matte Scans Vs Pan & Scan \u2014 what's the difference? Does anyone know which LDs are open matte vs pan and scan? What Is Open Matte in Film: Maximizing Visual Content for ... unmatted vs. pan and scan - Home Theater Forum Images Pan and Scan - TV Tropes Open matte - Wikiwand"
+      "title": "Open Matte Scans Vs Pan & Scan \u2014 what's the difference? Does anyone know which LDs are open matte vs pan and scan? What Is Open Matte in Film: Maximizing Visual Content for ... unmatted vs. pan and scan - Home Theater Forum Images Pan and Scan - TV Tropes Open matte - Wikiwand",
+      "url": "https://www.youtube.com/watch?v=h_RH2fTGCDU"
     },
     {
-      "url": "https://www.reddit.com/r/LaserDisc/comments/11v7dn8/does_anyone_know_which_lds_are_open_matte_vs_pan/",
-      "title": "Does anyone know which LDs are open matte vs pan and scan?"
+      "title": "Does anyone know which LDs are open matte vs pan and scan?",
+      "url": "https://www.reddit.com/r/LaserDisc/comments/11v7dn8/does_anyone_know_which_lds_are_open_matte_vs_pan/"
     },
     {
-      "url": "https://filmlifestyle.com/what-is-open-matte/",
-      "title": "What Is Open Matte in Film: Maximizing Visual Content for ..."
+      "title": "What Is Open Matte in Film: Maximizing Visual Content for ...",
+      "url": "https://filmlifestyle.com/what-is-open-matte/"
     },
     {
-      "url": "https://www.hometheaterforum.com/community/threads/unmatted-vs-pan-and-scan.139085/",
-      "title": "unmatted vs. pan and scan - Home Theater Forum"
+      "title": "unmatted vs. pan and scan - Home Theater Forum",
+      "url": "https://www.hometheaterforum.com/community/threads/unmatted-vs-pan-and-scan.139085/"
     }
   ],
   "theatrical vs streaming color grade differences": [
     {
-      "url": "https://www.readkong.com/page/deliverables-theatrical-vs-streaming-network-cinema-5721338",
-      "title": "Deliverables THEATRICAL VS . STREAMING & NETWORK - Cinema..."
+      "title": "SXSW Panel: Theatrical vs . Streaming",
+      "url": "https://www.austinchronicle.com/screens/sxsw-panel-theatrical-vs-streaming-12098603/"
+    },
+    {
+      "title": "James Cameron\u2019s Streaming vs . Theatrical Release Idea... - whatNerd",
+      "url": "https://whatnerd.com/james-cameron-streaming-vs-theatrical-release-idea-explained/"
+    },
+    {
+      "title": "Steven Spielberg Is Right About Theaters Versus Streaming",
+      "url": "https://www.slashfilm.com/1096112/steven-spielberg-is-right-about-theaters-versus-streaming/"
+    },
+    {
+      "title": "Theatrical vs . Streaming Doesn't Have To Be... - Celluloid Junkie",
+      "url": "https://celluloidjunkie.com/newsletter/theatrical-vs-streaming-doesnt-have-to-be-a-zero-sum-game/"
+    },
+    {
+      "title": "Deliverables THEATRICAL VS . STREAMING & NETWORK - Cinema...",
+      "url": "https://www.readkong.com/page/deliverables-theatrical-vs-streaming-network-cinema-5721338"
     }
   ],
   "time to leave services alerts android": [
     {
-      "url": "https://support.google.com/waze/answer/7502125?hl=en-HB&co=GENIE.Platform=Android",
-      "title": "Get a reminder when it's time to leave - Android - Waze Help"
+      "title": "Get a reminder when it's time to leave - Android - Waze Help",
+      "url": "https://support.google.com/waze/answer/7502125?hl=en-HB&co=GENIE.Platform=Android"
     },
     {
-      "url": "https://us.community.samsung.com/t5/Galaxy-S25/Time-to-leave-based-on-traffic-in-Maps/td-p/3138326",
-      "title": "Solved: Time to leave, based on traffic in Maps - Samsung ..."
+      "title": "Solved: Time to leave, based on traffic in Maps - Samsung ...",
+      "url": "https://us.community.samsung.com/t5/Galaxy-S25/Time-to-leave-based-on-traffic-in-Maps/td-p/3138326"
     },
     {
-      "url": "https://www.reddit.com/r/GooglePixel/comments/ut7yml/time_to_leave_notifications_from_calendarmaps_not/",
-      "title": "\"Time to leave\" notifications from Calendar/Maps not working?"
+      "title": "\"Time to leave\" notifications from Calendar/Maps not working?",
+      "url": "https://www.reddit.com/r/GooglePixel/comments/ut7yml/time_to_leave_notifications_from_calendarmaps_not/"
     },
     {
-      "url": "https://support.google.com/maps/thread/364555876/how-do-i-actually-get-rid-of-these-time-to-leave-for-notifications?hl=en",
-      "title": "How do I actually get rid of these \"Time to leave for ..."
+      "title": "How do I actually get rid of these \"Time to leave for ...",
+      "url": "https://support.google.com/maps/thread/364555876/how-do-i-actually-get-rid-of-these-time-to-leave-for-notifications?hl=en"
     },
     {
-      "url": "https://support.google.com/android/thread/164987556/how-can-i-set-the-travel-mode-for-time-to-leave-notifications?hl=en",
-      "title": "How can I set the travel mode for time to leave notifications?"
+      "title": "How can I set the travel mode for time to leave notifications?",
+      "url": "https://support.google.com/android/thread/164987556/how-can-i-set-the-travel-mode-for-time-to-leave-notifications?hl=en"
     }
   ],
-  "justwatch webhook integrations": [],
+  "justwatch webhook integrations": [
+    {
+      "title": "Webhook / API Integration Integrations : 887+ Ready Integrations",
+      "url": "https://integrately.com/integrations/webhook-api"
+    },
+    {
+      "title": "Webhook - Lindy AI - Automate Webhook with AI-Powered Workflows",
+      "url": "https://www.lindy.ai/integrations/webhook"
+    },
+    {
+      "title": "Webhooks Integrations | Automate Smarter with OttoKit",
+      "url": "https://ottokit.com/integrations/webhooks"
+    },
+    {
+      "title": "Webhook Integration | Amplitude",
+      "url": "https://amplitude.com/integrations/webhook"
+    },
+    {
+      "title": "Webhook integrations | Workflow automation with n8n",
+      "url": "https://n8n.io/integrations/webhook/"
+    }
+  ],
   "letterboxd api unofficial docs": [
     {
-      "url": "https://github.com/erunion/letterboxd-client/blob/main/README.md",
-      "title": "letterboxd-client/README.md at main \u00b7 erunion ... - GitHub"
+      "title": "Letterboxd API letterboxd-client/README.md at main \u00b7 erunion ... - GitHub Letterboxd Documentation - Read the Docs Letterboxd API with FastAPI and Redis Caching GitHub - Fitzy1293/lboxd: Unofficial letterboxd.com API. Get ... letterboxd - Rust - Docs.rs Letterboxd API with FastAPI and Redis Caching Letterboxd API Modules reference \u2014 Letterboxd 0.3.0 documentation - Read the Docs Modules reference \u2014 Letterboxd 0.3.0 documentation - Read the Docs Modules reference \u2014 Letterboxd 0.3.0 documentation",
+      "url": "https://api-docs.letterboxd.com/"
     },
     {
-      "url": "https://letterboxd.readthedocs.io/_/downloads/en/stable/pdf/",
-      "title": "Letterboxd Documentation - Read the Docs"
+      "title": "letterboxd-client/README.md at main \u00b7 erunion ... - GitHub",
+      "url": "https://github.com/erunion/letterboxd-client/blob/main/README.md"
     },
     {
-      "url": "https://github.com/Fitzy1293/lboxd",
-      "title": "GitHub - Fitzy1293/lboxd: Unofficial letterboxd.com API. Get ..."
+      "title": "Letterboxd Documentation - Read the Docs",
+      "url": "https://letterboxd.readthedocs.io/_/downloads/en/stable/pdf/"
+    },
+    {
+      "title": "Letterboxd API with FastAPI and Redis Caching",
+      "url": "https://saisamarthudikeri.medium.com/letterboxd-api-with-fastapi-and-redis-caching-59e3a8f374d6"
+    },
+    {
+      "title": "GitHub - Fitzy1293/lboxd: Unofficial letterboxd.com API. Get ...",
+      "url": "https://github.com/Fitzy1293/lboxd"
     }
   ],
   "calendar of repertory screenings la 2025": [
     {
-      "url": "https://revivalhub.com/",
-      "title": "Revival Hub | LA 's Home for Repertory Cinema Since 2017"
+      "title": "Revival Hub | LA 's Home for Repertory Cinema Since 2017",
+      "url": "https://revivalhub.com/"
     },
     {
-      "url": "https://www.revivalhouses.com/",
-      "title": "Movie showtimes for repertory cinemas around Los Angeles"
+      "title": "Movie showtimes for repertory cinemas around Los Angeles",
+      "url": "https://www.revivalhouses.com/"
+    },
+    {
+      "title": "Repertory Calendar - Somerville Theatre",
+      "url": "https://www.somervilletheatre.com/calendar/"
+    },
+    {
+      "title": "6 Reasons to Be (Cautiously) Optimistic About Movies in 2025 ...",
+      "url": "https://www.statsignificant.com/p/6-reasons-to-be-cautiously-optimistic"
+    },
+    {
+      "title": "Favourite Repertory Screenings of 2024 \u2014 The Culturist",
+      "url": "https://alligator-tunny-3mj4.squarespace.com/home/favourite-repertory-screenings-of-2024"
     }
   ],
-  "nyc art house release calendar 2025": [],
+  "nyc art house release calendar 2025": [
+    {
+      "title": "The Best New York Art Exhibitions of 2025 - ARTnews.com",
+      "url": "https://www.artnews.com/list/art-news/news/best-art-exhibitions-2025-new-york-1234764820/"
+    },
+    {
+      "title": "The Most Exciting Art Exhibitions Coming to New York City in 2025",
+      "url": "https://www.lofficielusa.com/art/nyc-galleries-museum-exhibitions-to-see-2025"
+    },
+    {
+      "title": "Art Exhibitions in New York during 2025 / 2026 | Ocula",
+      "url": "https://ocula.com/cities/usa/new-york-art-galleries/exhibitions/"
+    },
+    {
+      "title": "Best New York City art exhibitions during fall 2025 - Christie's",
+      "url": "https://www.christies.com/en/stories/new-york-city-museum-openings-exhibitions-fall-2025-6fe5de5f68974b949edb7a3f822c8792"
+    },
+    {
+      "title": "17 NYC art exhibitions we\u2019re most excited about in fall 2025",
+      "url": "https://www.timeout.com/newyork/art/nyc-art-exhibitions-fall-2025"
+    }
+  ],
   "q&a question prompts for directors": [
     {
-      "url": "https://savvy.directorprep.com/blog/six-super-questions-for-directors",
-      "title": "Six Super Questions for Directors Images 10 Tough Questions Every Board Member Should Ask 20 Smart Questions to Ask Leaders - Status.net 20 questions 20 Questions Directors Sho - QAPPD Asking productive and effective questions as a director ... 70 Q&A questions for CEOs, CFOs and more - SpotMe"
+      "title": "Six Super Questions for Directors Images 10 Tough Questions Every Board Member Should Ask 20 Smart Questions to Ask Leaders - Status.net 20 questions 20 Questions Directors Sho - QAPPD Asking productive and effective questions as a director ... 70 Q&A questions for CEOs, CFOs and more - SpotMe",
+      "url": "https://savvy.directorprep.com/blog/six-super-questions-for-directors"
     },
     {
-      "url": "https://qappd.com/wp-content/uploads/2021/07/20-questions-directors-should-ask-about-codes-of-conduct.pdf",
-      "title": "20 questions 20 Questions Directors Sho - QAPPD"
+      "title": "20 questions 20 Questions Directors Sho - QAPPD",
+      "url": "https://qappd.com/wp-content/uploads/2021/07/20-questions-directors-should-ask-about-codes-of-conduct.pdf"
     },
     {
-      "url": "https://boardoutlook.com/theresolution/checklist-for-asking-better-questions-as-a-director",
-      "title": "Asking productive and effective questions as a director ..."
+      "title": "Asking productive and effective questions as a director ...",
+      "url": "https://boardoutlook.com/theresolution/checklist-for-asking-better-questions-as-a-director"
+    },
+    {
+      "title": "70 Q&A questions for CEOs, CFOs and more - SpotMe",
+      "url": "https://spotme.com/blog/70-qa-questions-for-ceos-cfos-and-more/"
+    },
+    {
+      "title": "30 Engaging Questions to Ask Your Senior Leaders - Bob Tiede",
+      "url": "https://leadingwithquestions.com/leadership/30-engaging-questions-to-ask-your-senior-leaders/"
     }
   ],
   "cultural context reading for city of god": [
     {
-      "url": "https://www.slideshare.net/slideshow/other-themes-in-city-of-god-41252951/41252951",
-      "title": "Other themes in City of God | PPTX"
+      "title": "High- context and low- context cultures - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/High-context_and_low-context_cultures"
     },
     {
-      "url": "https://www.theamericanconservative.com/reading-city-of-god-in-2014/",
-      "title": "Reading City of God in 2014 - The American Conservative"
+      "title": "Other themes in City of God | PPTX",
+      "url": "https://www.slideshare.net/slideshow/other-themes-in-city-of-god-41252951/41252951"
+    },
+    {
+      "title": "Reading City of God in 2014 - The American Conservative",
+      "url": "https://www.theamericanconservative.com/reading-city-of-god-in-2014/"
+    },
+    {
+      "title": "Cities of God (Radical Orthodoxy) - PDF Free Download",
+      "url": "https://epdf.pub/cities-of-god-radical-orthodoxy.html"
+    },
+    {
+      "title": "Against the City of Noise by Justin Lee - by Justin Lee",
+      "url": "https://www.clunyjournal.com/p/against-the-city-of-noise"
     }
   ],
   "essays on empathy machine ebert quote source": [
     {
-      "url": "https://www.azquotes.com/author/4329-Roger_Ebert/tag/empathy",
-      "title": "Roger Ebert Quotes About Empathy | A-Z Quotes"
+      "title": "Roger Ebert Quotes About Empathy | A-Z Quotes",
+      "url": "https://www.azquotes.com/author/4329-Roger_Ebert/tag/empathy"
     },
     {
-      "url": "https://www.npr.org/2014/07/03/328230231/a-machine-that-generates-empathy-roger-ebert-gets-his-own-documentary",
-      "title": "'A Machine That Generates Empathy': Roger Ebert Gets ... - NPR"
+      "title": "Ten Years of Presence: In Honor of Roger Ebert and the ...",
+      "url": "https://www.rogerebert.com/features/memoriam-feature-2023"
     },
     {
-      "url": "https://workingmethods.substack.com/p/roger-ebert-let-them-identify-with",
-      "title": "Roger Ebert: Let them identify with you - by Matt Ruby"
+      "title": "'A Machine That Generates Empathy': Roger Ebert Gets ... - NPR",
+      "url": "https://www.npr.org/2014/07/03/328230231/a-machine-that-generates-empathy-roger-ebert-gets-his-own-documentary"
     },
     {
-      "url": "https://www.goodreads.com/quotes/7620962-and-for-me-the-movies-are-like-a-machine-that",
-      "title": "Quote by Roger Ebert: \u201cAnd for me, the movies are like a ..."
+      "title": "Roger Ebert: Let them identify with you - by Matt Ruby",
+      "url": "https://workingmethods.substack.com/p/roger-ebert-let-them-identify-with"
+    },
+    {
+      "title": "Quote by Roger Ebert: \u201cAnd for me, the movies are like a ...",
+      "url": "https://www.goodreads.com/quotes/7620962-and-for-me-the-movies-are-like-a-machine-that"
     }
   ],
   "snack menu ideas themed to rome italy movies": [
     {
-      "url": "https://ca.pinterest.com/vacca3842/roma-bday/",
-      "title": "8 Roma bday ideas | italian dinner party, dinner party themes , pizza..."
+      "title": "8 Roma bday ideas | italian dinner party, dinner party themes , pizza...",
+      "url": "https://ca.pinterest.com/vacca3842/roma-bday/"
+    },
+    {
+      "title": "New Year\u2019s in Rome : What to Expect as a visitor... - Mama Loves Rome",
+      "url": "https://mamalovesrome.com/new-years-in-rome/"
+    },
+    {
+      "title": "Rome Prom Theme | TikTok",
+      "url": "https://www.tiktok.com/discover/rome-prom-theme"
+    },
+    {
+      "title": "40+ Daycare Snack Menu Ideas for Toddlers & Preschoolers",
+      "url": "https://www.daycarepulse.com/daycare-snack-menu-ideas/"
+    },
+    {
+      "title": "Souvenirs and Gifts in Rome to Buy",
+      "url": "https://www.romewise.com/gifts-in-rome.html"
     }
   ],
   "backyard projector lumens for dusk 120 inch": [
     {
-      "url": "https://us.xgimi.com/blogs/tips-tutorials/how-many-lumens-outdoor-projector-guide",
-      "title": "Outdoor Projector Lumens : Choose Perfect Brightness Level"
+      "title": "Outdoor Projector Lumens : Choose Perfect Brightness Level",
+      "url": "https://us.xgimi.com/blogs/tips-tutorials/how-many-lumens-outdoor-projector-guide"
     },
     {
-      "url": "https://www.bobvila.com/articles/best-outdoor-projectors/",
-      "title": "The Best Outdoor Projectors , Tested - Bob Vila"
+      "title": "Best Outdoor Projectors 2025 - Backyard Movie... - CompareProjector",
+      "url": "https://www.compareprojector.com/outdoor-projectors"
+    },
+    {
+      "title": "Best Backyard Projector : Top Picks for 2025",
+      "url": "https://www.seenebula.com/blogs/buying-guides/best-backyard-projectors"
+    },
+    {
+      "title": "All Specs, Features of Xiaomi Smart Projector L1 Pro | Xiaomi",
+      "url": "https://www.mi.com/global/product/xiaomi-smart-projector-l1-pro/"
+    },
+    {
+      "title": "The Best Outdoor Projectors , Tested - Bob Vila",
+      "url": "https://www.bobvila.com/articles/best-outdoor-projectors/"
     }
   ],
   "ambient light rejecting portable screen": [
     {
-      "url": "https://elitescreens.com/products/lighon-starbright-clr-16-series/",
-      "title": "Discover Portable ALR Screens: StarBright CLR\u00ae 16"
+      "title": "Ambient Light Rejection Screen - Amazon.com\u00ae Official Site",
+      "url": "https://www.bing.com/aclick?ld=e8450ERhlopB2nr4y5ziXpCTVUCUxKKM07MxphSN3MmKTFZiDUM63G3ySlg0itgl0-32IUHrPNWWI8A7DKFmjNw4pi2gX0d5AAMn-gC1NLbdr_MQds9Lf8kecJN_nH5W23Jh1WuD7zUHoaBvB-m7nwzM2Dk8V6Tj96FNgCCDQvf-rDXxnepK60eJV1lH3iiP8D142WMH0v4Wpe6_Cv9sjAfPOGdfc&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGFtYmllbnQlMmJsaWdodCUyYnJlamVjdGlvbiUyYnNjcmVlbiUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsX2RlMjh4NXhpMl9lJTI2YWRncnBpZCUzZDEzMzA0MDk2OTA5MzEwMDglMjZodmFkaWQlM2Q4MzE1MDgxNzA2MzQ1MSUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZGUlMjZodmJtdCUzZGJlJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODMxNTEwMTM2OTQ5MTUlM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDE3MTI4XzEzMzk3OTI0JTI2bWNpZCUzZDU4M2U0ZDMxNWU5ZDMyOWRiODFiNzdiNzU0ZmJkMGZlJTI2bXNjbGtpZCUzZDE5NTZlNTA1NmI5NzFhODM5YmIwOGM0NGI4YTk4ODJl&rlid=1956e5056b971a839bb08c44b8a9882e"
+    },
+    {
+      "title": "Da-Lite Screen Store - Shop Projector Screens",
+      "url": "https://www.bing.com/aclick?ld=e8WZ5OnBflnySNQApnbJZdqDVUCUyoH1YEyqhPRFNNEBiVhrGTrHp09PvQmG9b0bGWvV8pePA8FC38lf2ndIppYykqQkHyEuxeU8kCNQ4leihE-f48aJY8v3SfcorABmgwbL4nWUbNebZpu-DF6SIVHX8pZi-17ZhT_Q_am38bwU73wol9f36eSpspLKav1LFWqAWYRXxKAf8AItxBMb3YHhtH4mQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZGEtbGl0ZXNjcmVlbnN0b3JlLmNvbSUyZiUzZm1zY2xraWQlM2Q4ZjA5ZjIxMjRmM2YxYzFiMGIyNjliNTM5YzAxZWJkZA&rlid=8f09f2124f3f1c1b0b269b539c01ebdd"
+    },
+    {
+      "title": "Epson\u00ae Projector Accessories* - Portable Screens",
+      "url": "https://www.bing.com/aclick?ld=e8pfARHt_304T64cj165nuuzVUCUzk9d3TxfXgI4hx13SJzRa9dNE9AUs1yqLJOnU6gm-NUQfFnzHo8Fp-Z0viGrbZF2DXKUjyT1RtDk0RKPA-1r8T5Xns8XsEEcZDsI3vqhiJxxhGyJpMkSx4vFiyJimkK5Qt2eQ-AJzj7pnQXU_NTZ1l6W8-ZgloF7xDMlmK5Cll3pz8mMbdX7l8kRbkf3Kcfic&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA2NjY2MDg5NDcxNSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNzQyMzE5MDY1OSUyNmRzX2FfY2lkJTNkNDA3NTU1OTI0JTI2ZHNfYV9jYWlkJTNkMTQ4MTEwMDQwMDMlMjZkc19hX2FnaWQlM2QxMjk0NTU1Njg5MjQlMjZkc19hX2xpZCUzZGt3ZC0xOTcwMDYzODQ2MTM3JTI2JTI2ZHNfZV9hZGlkJTNkNzcwMzQ3MDc2MjMxOTAlMjZkc19lX3RhcmdldF9pZCUzZGt3ZC03NzAzNDc0Njg1MjAwMyUzYWxvYy0xOTAlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZmVwc29uLmNvbSUyZkFjY2Vzc29yaWVzJTJmUHJvamVjdG9yLUFjY2Vzc29yaWVzJTJmYyUyZmEzJTNmcSUzZCUyNTNBcHJpY2UtYXNjJTI1M0FkaXNjb250aW51ZWRGbGFnJTI1M0FmYWxzZSUyNTNBcHJvZHVjdFJlZnR5cGVzJTI1M0FTQ1JFRU5TJTI2dGV4dCUzZCUyNm5vc2Nyb2xsJTNkdHJ1ZSUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9jYW1wYWlnbiUzZE1BVzQwMzFDUDIwMiUyNTJCQXdhcmVuZXNzJTI1MkJCdXNpbmVzcyUyYlByb2plY3RvcnMlMjUyQlNoYXJlZCUyNTJCVVMlMjUyQkVORyUyNTJCU0VBUkNIJTI2dXRtX2FkZ3JvdXAlM2RBY2Nlc3NvcmllcyUyYi0lMmJTY3JlZW4lMjUyQlBIUkFTRSUyNnV0bV90ZXJtJTNkJTI1MkJwcm9qZWN0b3IlMmIlMjUyQnNjcmVlbiUyYiUyNTJCbW9iaWxlJTI2Z2NsaWQlM2Q1ZjA4MWM3YWEyYTAxN2FiZGIwNTc1M2I3MTllMGNjMyUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZDVmMDgxYzdhYTJhMDE3YWJkYjA1NzUzYjcxOWUwY2Mz&rlid=5f081c7aa2a017abdb05753b719e0cc3"
+    },
+    {
+      "title": "Top 10 Rated alr screen - Alr Screen",
+      "url": "https://www.bing.com/aclick?ld=e8JyUVcmrcOFZpXIGyhL85UTVUCUxTWuWc0WZHSW_ANYXO2pzm_VYxRgx65GPsKBIUsSfhTShO6gyxLVShKzTlOXKEq-aMGvUsnD4nZxnmHg8GtxJXO6SQdiTeOskLTJjAxme2wyA5XNtZAx8-4gu--eIzKg0r5JydQo4r8hj0J51ltLdoeqTSnFGwpxOXiRayAULL3xEIv-Ge8Qc3pi3Uj0xz4xw&u=aHR0cHMlM2ElMmYlMmZ3d3cuYmVzdHByb2R1Y3RzcmV2aWV3cy5jb20lMmZhbHItc2NyZWVuJTNmdGFyZ2V0aWQlM2Rrd2QtODUwMDczMDAxNTY5MzklM2Fsb2MtMTkwJTI2bWF0Y2h0eXBlJTNkcCUyNmRldmljZSUzZGMlMjZjYW1wYWlnbmlkJTNkNTMxMTk5OTkxJTI2Y3JlYXRpdmUlM2QlMjZhZGdyb3VwaWQlM2QxMzYwMDk4NDA4OTc5MTQ3JTI2ZmVlZGl0ZW1pZCUzZCUyNmxvY19waHlzaWNhbF9tcyUzZDU4MTYyJTI2bG9jX2ludGVyZXN0X21zJTNkJTI2bmV0d29yayUzZG8lMjZkZXZpY2Vtb2RlbCUzZCUyNnBsYWNlbWVudCUzZCUyNmtleXdvcmQlM2QlMjRhbHIlMjUyMHNjcmVlbiUyNnRhcmdldCUzZCUyNmFjZWlkJTNkJTdiYWNlaWQlN2QlMjZhZHBvc2l0aW9uJTNkJTI2dHJhY2tpZCUzZHVzX2FsbF90b3BfYmluZyUyNm1JZCUzZEgxNDkwMDNDUU4lMjZ0cmFja09sZCUzZHRydWUlMjZtc2Nsa2lkJTNkYmI4Zjk3ZjRjZGYzMWQ4NzE1ZjlmZWI1MWVjZDlmMWQ&rlid=bb8f97f4cdf31d8715f9feb51ecd9f1d"
+    },
+    {
+      "title": "Discover Portable ALR Screens: StarBright CLR\u00ae 16",
+      "url": "https://elitescreens.com/products/lighon-starbright-clr-16-series/"
     }
   ],
   "compact avr for small living room 5.1": [
     {
-      "url": "https://www.bing.com/aclick?ld=e8KWMxQBGjvnRBLDkkHs-UVjVUCUyEkubgxiMqeXZCHRO6ofjaB06bcha3kzNvGuDxykhjPBjPv3-VSE73W-3DjKzJujhoSLeWLLvomcIt2DvRneTAShHU-r0HlbxTwRtJnQ_zxbWpprH5_o3KoWvzFUNG6bDfMQP1P2BsnuXsmy5gDmWYsZQjGi89NCUzOQ3PQFZ0z03QjcA7N26h2Ha1nah4Zpw&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZG1pbmklMmJhdnIlMmI1LjElMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF80NDlibmloNTcyX3AlMjZhZGdycGlkJTNkMTMzMzcxMDEyODY5NTY5OSUyNmh2YWRpZCUzZDgzMzU3MTYwMDA3MzY2JTI2aHZuZXR3JTNkbyUyNmh2cW10JTNkcCUyNmh2Ym10JTNkYnAlMjZodmRldiUzZGMlMjZodmxvY2ludCUzZCUyNmh2bG9jcGh5JTNkNTgxNjIlMjZodnRhcmdpZCUzZGt3ZC04MzM1ODA1MDkyNzYyOSUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkMTQzMjJfMTMzNTA0MDQlMjZtY2lkJTNkYWIyNTY4ZGI4MDcwMzA1YzhkNTYwYTM4MTVhM2RhNjglMjZtc2Nsa2lkJTNkZmQxODM5MmI1MzA4MWQxMjZkODA1MDZhODA0OGI4OWY&rlid=fd18392b53081d126d80506a8048b89f",
-      "title": "Mini Avr 5.1 - Shop Mini Avr 5.1 - Amazon.com\u00ae Official Site"
+      "title": "Mini Avr 5.1 - Shop Mini Avr 5.1 - Amazon.com\u00ae Official Site",
+      "url": "https://www.bing.com/aclick?ld=e8KWMxQBGjvnRBLDkkHs-UVjVUCUyEkubgxiMqeXZCHRO6ofjaB06bcha3kzNvGuDxykhjPBjPv3-VSE73W-3DjKzJujhoSLeWLLvomcIt2DvRneTAShHU-r0HlbxTwRtJnQ_zxbWpprH5_o3KoWvzFUNG6bDfMQP1P2BsnuXsmy5gDmWYsZQjGi89NCUzOQ3PQFZ0z03QjcA7N26h2Ha1nah4Zpw&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZG1pbmklMmJhdnIlMmI1LjElMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF80NDlibmloNTcyX3AlMjZhZGdycGlkJTNkMTMzMzcxMDEyODY5NTY5OSUyNmh2YWRpZCUzZDgzMzU3MTYwMDA3MzY2JTI2aHZuZXR3JTNkbyUyNmh2cW10JTNkcCUyNmh2Ym10JTNkYnAlMjZodmRldiUzZGMlMjZodmxvY2ludCUzZCUyNmh2bG9jcGh5JTNkNTgxNjIlMjZodnRhcmdpZCUzZGt3ZC04MzM1ODA1MDkyNzYyOSUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkMTQzMjJfMTMzNTA0MDQlMjZtY2lkJTNkYWIyNTY4ZGI4MDcwMzA1YzhkNTYwYTM4MTVhM2RhNjglMjZtc2Nsa2lkJTNkZmQxODM5MmI1MzA4MWQxMjZkODA1MDZhODA0OGI4OWY&rlid=fd18392b53081d126d80506a8048b89f"
     },
     {
-      "url": "https://www.musicindustryhowto.com/7-best-small-5-1-receivers-feature-heavy-compact-av-receivers-compared/",
-      "title": "10 Best Small 5.1 Receivers 2025 - Feature Heavy Compact AV ... Images Amazon.com: Mini 5.1 Receiver Episode\u00ae Mini AV Receiver | 5.1 Channel | Snap One Recommendations for 5.1 system in a small room | AVS Forum Smallest Home Theater Receiver - Best Buy 5 Best Slim AV Receivers [Compact Home Theater Setup]"
+      "title": "10 Best Small 5.1 Receivers 2025 - Feature Heavy Compact AV ... Images Amazon.com: Mini 5.1 Receiver Episode\u00ae Mini AV Receiver | 5.1 Channel | Snap One Recommendations for 5.1 system in a small room | AVS Forum Smallest Home Theater Receiver - Best Buy 5 Best Slim AV Receivers [Compact Home Theater Setup]",
+      "url": "https://www.musicindustryhowto.com/7-best-small-5-1-receivers-feature-heavy-compact-av-receivers-compared/"
     },
     {
-      "url": "https://www.avsforum.com/threads/recommendations-for-5-1-system-in-a-small-room.3282605/",
-      "title": "Recommendations for 5.1 system in a small room | AVS Forum"
+      "title": "Recommendations for 5.1 system in a small room | AVS Forum",
+      "url": "https://www.avsforum.com/threads/recommendations-for-5-1-system-in-a-small-room.3282605/"
     },
     {
-      "url": "https://www.bestbuy.com/site/shop/smallest-home-theater-receiver",
-      "title": "Smallest Home Theater Receiver - Best Buy"
+      "title": "Smallest Home Theater Receiver - Best Buy",
+      "url": "https://www.bestbuy.com/site/shop/smallest-home-theater-receiver"
     },
     {
-      "url": "https://downhomedigital.net/receivers/best-slim-av-receiver/",
-      "title": "5 Best Slim AV Receivers [Compact Home Theater Setup]"
+      "title": "5 Best Slim AV Receivers [Compact Home Theater Setup]",
+      "url": "https://downhomedigital.net/receivers/best-slim-av-receiver/"
     }
   ],
   "atmos setup in apartment neighbors": [
     {
-      "url": "https://www.hifivision.com/threads/cheapest-atmos-setup-for-apartment.80621/",
-      "title": "Cheapest Atmos setup for Apartment . | HiFiVision.com"
+      "title": "Cheapest Atmos setup for Apartment . | HiFiVision.com",
+      "url": "https://www.hifivision.com/threads/cheapest-atmos-setup-for-apartment.80621/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=pOG8A9BTems",
-      "title": "Space-Saving Dolby Atmos Setup That Will Blow Your Mind - YouTube"
+      "title": "Space-Saving Dolby Atmos Setup That Will Blow Your Mind - YouTube",
+      "url": "https://www.youtube.com/watch?v=pOG8A9BTems"
     },
     {
-      "url": "https://www.avsforum.com/threads/advice-on-atmos-setup-for-bedroom.3241723/",
-      "title": "Advice on atmos setup for bedroom | AVS Forum"
+      "title": "Dolby Atmos Setup on a Budget: Tips and Tricks for 2025 - Toxigon",
+      "url": "https://toxigon.com/dolby-atmos-setup-on-a-budget"
+    },
+    {
+      "title": "So yeah, I'm convinced that Dolby Atmos soundbars are... | ResetEra",
+      "url": "https://www.resetera.com/threads/so-yeah-im-convinced-that-dolby-atmos-soundbars-are-a-complete-gimmick-and-are-100-marketing.768038/"
+    },
+    {
+      "title": "Advice on atmos setup for bedroom | AVS Forum",
+      "url": "https://www.avsforum.com/threads/advice-on-atmos-setup-for-bedroom.3241723/"
     }
   ],
   "region codes explained blu ray dvd": [
     {
-      "url": "https://en.wikipedia.org/wiki/DVD_region_code",
-      "title": "DVD region code - Wikipedia"
+      "title": "DVD region code - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/DVD_region_code"
     },
     {
-      "url": "https://www.regionfreedvd.net/region-codes.html",
-      "title": "Region Codes | Blu-ray & DVD Region Codes Explained"
+      "title": "Region Codes | Blu-ray & DVD Region Codes Explained",
+      "url": "https://www.regionfreedvd.net/region-codes.html"
     },
     {
-      "url": "https://www.ign.com/articles/blu-ray-region-codes-explained",
-      "title": "Blu-ray Region Codes List: A,B, and C Regions, Explained - IGN DVD region code - Wikipedia DVD & Blu-ray Region Codes Explained - Timeless Cinema Show The Truth About Blu-ray Region Codes: What You Need to Know DVD Region Specifications - Amazon Customer Service Region Codes for Blu-ray Discs: Full Knowledge Explained"
+      "title": "Blu-ray Region Codes List: A,B, and C Regions, Explained - IGN DVD region code - Wikipedia DVD & Blu-ray Region Codes Explained - Timeless Cinema Show The Truth About Blu-ray Region Codes: What You Need to Know DVD Region Specifications - Amazon Customer Service Region Codes for Blu-ray Discs: Full Knowledge Explained",
+      "url": "https://www.ign.com/articles/blu-ray-region-codes-explained"
     },
     {
-      "url": "https://timelesscinemashow.com/dvd-blu-ray-region-codes-explained/",
-      "title": "DVD & Blu-ray Region Codes Explained - Timeless Cinema Show"
+      "title": "DVD & Blu-ray Region Codes Explained - Timeless Cinema Show",
+      "url": "https://timelesscinemashow.com/dvd-blu-ray-region-codes-explained/"
     },
     {
-      "url": "https://softhandtech.com/do-blu-rays-have-regions-like-dvds/",
-      "title": "The Truth About Blu-ray Region Codes: What You Need to Know"
+      "title": "The Truth About Blu-ray Region Codes: What You Need to Know",
+      "url": "https://softhandtech.com/do-blu-rays-have-regions-like-dvds/"
     }
   ],
   "shop region b discs shipping usa": [
     {
-      "url": "https://www.220-electronics.com/blogs/articles/where-to-buy-region-b-blu-ray-movies",
-      "title": "Where to buy Region B Blu-Ray Movies - 220 Electronics"
+      "title": "Where to buy Region B Blu-Ray Movies - 220 Electronics",
+      "url": "https://www.220-electronics.com/blogs/articles/where-to-buy-region-b-blu-ray-movies"
     },
     {
-      "url": "https://www.ebay.com/itm/306452074598",
-      "title": "Region B Blu-Ray: Desert Hearts (1985, Criterion Collection)"
+      "title": "I finally picked up a region free player and Region B discs I ...",
+      "url": "https://www.reddit.com/r/boutiquebluray/comments/1at3005/i_finally_picked_up_a_region_free_player_and/"
+    },
+    {
+      "title": "Region B Blu-Ray: Desert Hearts (1985, Criterion Collection)",
+      "url": "https://www.ebay.com/itm/306452074598"
+    },
+    {
+      "title": "Amazon.com: Region B Blu Ray Player",
+      "url": "https://www.amazon.com/region-b-blu-ray-player/s?k=region+b+blu+ray+player"
+    },
+    {
+      "title": "Can Region B Blu-rays Be Played In The US? - ExpertBeacon",
+      "url": "https://expertbeacon.com/can-region-b-be-played-in-the-us/"
     }
   ],
   "cataloging collection alphabetized tips": [
     {
-      "url": "https://newbookrecommendation.com/book-cataloging-a-comprehensive-guide-to-organizing-your-collection/",
-      "title": "Book Cataloging: A Comprehensive Guide to Organizing Your ..."
+      "title": "Book Cataloging: A Comprehensive Guide to Organizing Your ...",
+      "url": "https://newbookrecommendation.com/book-cataloging-a-comprehensive-guide-to-organizing-your-collection/"
     },
     {
-      "url": "https://libguides.ala.org/catalogingtools",
-      "title": "Home - Cataloging Tools and Resources - LibGuides at American ..."
+      "title": "Home - Cataloging Tools and Resources - LibGuides at American ...",
+      "url": "https://libguides.ala.org/catalogingtools"
     },
     {
-      "url": "https://www.worthwhile-magazine.com/articles/10-steps-for-cataloging-your-collectibles",
-      "title": "10 Steps for Cataloging Your Collection - Worthwhile Magazine How to Alphabetize: 10 Steps (with Pictures) - wikiHow Beginner's Guide to Library Cataloging and Classification ... How to Organize a Personal Library: Tips for Cataloging and ... Beginner's Guide to Library Cataloging and Classification - Christopher Book Cataloging : A Comprehensive Guide to Organizing Your Collection Book Cataloging : A Comprehensive Guide to Organizing Your Collection Book Cataloging : A Comprehensive Guide to Organizing Your Collection Best Ways to Catalog Books in Your Personal Library"
+      "title": "10 Steps for Cataloging Your Collection - Worthwhile Magazine How to Alphabetize: 10 Steps (with Pictures) - wikiHow Beginner's Guide to Library Cataloging and Classification ... How to Organize a Personal Library: Tips for Cataloging and ... Beginner's Guide to Library Cataloging and Classification - Christopher Book Cataloging : A Comprehensive Guide to Organizing Your Collection Book Cataloging : A Comprehensive Guide to Organizing Your Collection Book Cataloging : A Comprehensive Guide to Organizing Your Collection Best Ways to Catalog Books in Your Personal Library",
+      "url": "https://www.worthwhile-magazine.com/articles/10-steps-for-cataloging-your-collectibles"
     },
     {
-      "url": "https://www.christopherdesrochers.com/cataloging-classification-beginner-guide.html",
-      "title": "Beginner's Guide to Library Cataloging and Classification ..."
+      "title": "Beginner's Guide to Library Cataloging and Classification ...",
+      "url": "https://www.christopherdesrochers.com/cataloging-classification-beginner-guide.html"
     },
     {
-      "url": "https://whybookgood.com/blog/opinions/book-collecting/2024/09/23/how-to-organize-a-personal-library-tips-for-cataloging-and-display/",
-      "title": "How to Organize a Personal Library: Tips for Cataloging and ..."
+      "title": "How to Organize a Personal Library: Tips for Cataloging and ...",
+      "url": "https://whybookgood.com/blog/opinions/book-collecting/2024/09/23/how-to-organize-a-personal-library-tips-for-cataloging-and-display/"
     }
   ],
   "vinyl storage best sleeves for records": [
     {
-      "url": "https://www.youtube.com/watch?v=uMPy5yyvyj8",
-      "title": "Best Sleeves For Your Record Collection | Vinyl Community - YouTube"
+      "title": "Album cover - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Album_cover"
     },
     {
-      "url": "https://www.loudersound.com/features/best-vinyl-record-storage",
-      "title": "Best vinyl record storage 2025: Keep your record collection safe and..."
+      "title": "Best Sleeves For Your Record Collection | Vinyl Community - YouTube",
+      "url": "https://www.youtube.com/watch?v=uMPy5yyvyj8"
     },
     {
-      "url": "https://www.preservationequipment.com/phonograph-record-storage-sleeves-jackets-7-10-12-sizes",
-      "title": "Phonograph Record Storage Sleeves (Jackets) | 7/10/12\" Sizes"
+      "title": "How to Protect and Display Speical Vinyls | TikTok",
+      "url": "https://www.tiktok.com/discover/how-to-protect-and-display-speical-vinyls"
+    },
+    {
+      "title": "Best vinyl record storage 2025: Keep your record collection safe and...",
+      "url": "https://www.loudersound.com/features/best-vinyl-record-storage"
+    },
+    {
+      "title": "Phonograph Record Storage Sleeves (Jackets) | 7/10/12\" Sizes",
+      "url": "https://www.preservationequipment.com/phonograph-record-storage-sleeves-jackets-7-10-12-sizes"
     }
   ],
   "behind the scenes books cinematography must read": [
     {
-      "url": "https://www.studiobinder.com/blog/best-cinematography-books/",
-      "title": "30 Best Cinematography Books That Actually Inspire"
+      "title": "30 Best Cinematography Books That Actually Inspire",
+      "url": "https://www.studiobinder.com/blog/best-cinematography-books/"
     },
     {
-      "url": "https://bookauthority.org/books/best-cinematography-books",
-      "title": "8 Cinematography Books That Define the Craft - BookAuthority"
+      "title": "8 Cinematography Books That Define the Craft - BookAuthority",
+      "url": "https://bookauthority.org/books/best-cinematography-books"
     },
     {
-      "url": "https://www.indiewire.com/shop/best-cinematography-books-1234626534/cdn.krxd.net/",
-      "title": "Best Cinematography Books | IndieWire"
+      "title": "Best Cinematography Books | IndieWire",
+      "url": "https://www.indiewire.com/shop/best-cinematography-books-1234626534/cdn.krxd.net/"
     },
     {
-      "url": "https://www.camararioclaro.sp.gov.br/qentailb/91R165U/radmiren/62R623441U/cinematography__theory_and_practice-image-making-for-cinematographers-and_directors.pdf",
-      "title": "Cinematography Theory And Practice"
+      "title": "Cinematography Theory And Practice",
+      "url": "https://www.camararioclaro.sp.gov.br/qentailb/91R165U/radmiren/62R623441U/cinematography__theory_and_practice-image-making-for-cinematographers-and_directors.pdf"
     },
     {
-      "url": "https://www.academia.edu/26443816/Cinematography_Theory_and_Practice_Second_Edition_Image_Making_for_Cinematographers_and_Directors",
-      "title": "(PDF) Cinematography ..Theory.and.Practice.Second.Edition....."
+      "title": "(PDF) Cinematography ..Theory.and.Practice.Second.Edition.....",
+      "url": "https://www.academia.edu/26443816/Cinematography_Theory_and_Practice_Second_Edition_Image_Making_for_Cinematographers_and_Directors"
     }
   ],
   "film industry trades rss variety thr deadline": [
     {
-      "url": "https://deadline.com/",
-      "title": "Deadline \u2013 Hollywood Entertainment Breaking News"
+      "title": "Deadline Hollywood - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deadline_Hollywood"
+    },
+    {
+      "title": "Deadline \u2013 Hollywood Entertainment Breaking News",
+      "url": "https://deadline.com/"
+    },
+    {
+      "title": "Cardinals Trade Deadline Rumors: Nolan Arenado suitor, Ryan...",
+      "url": "https://redbirdrants.com/cardinals-trade-deadline-rumors-nolan-arenado-suitor-ryan-helsley-market-more"
+    },
+    {
+      "title": "RSS Feeds from WWD",
+      "url": "https://wwd.com/rss-feeds/"
+    },
+    {
+      "title": "How the 2023 Venice Film Festival Prevailed Despite the Strikes",
+      "url": "https://www.indiewire.com/features/commentary/2023-venice-film-festival-prevailed-despite-strikes-1234903962/"
     }
   ],
   "comscore weekend box office estimates": [
     {
-      "url": "https://www.comscore.com/Insights/Box-Office",
-      "title": "Box Office - Comscore, Inc."
+      "title": "Box Office - Comscore, Inc.",
+      "url": "https://www.comscore.com/Insights/Box-Office"
+    },
+    {
+      "title": "Weekend Box Office Results: | Discover Dunwoody",
+      "url": "https://www.discoverdunwoody.com/media/press-releases/weekend-box-office-results-24/"
+    },
+    {
+      "title": "Zootopia 2 regains box office crown with $1 billion worldwide",
+      "url": "https://www.msn.com/en-us/movies/news/zootopia-2-regains-box-office-crown-with-1-billion-worldwide/ar-AA1SljkT"
+    },
+    {
+      "title": "\u2018Zootopia 2\u2019 three-peats as global box office leader; \u2018Five ...",
+      "url": "https://www.screendaily.com/news/zootopia-2-three-peats-as-global-box-office-leader-freddys-2-plunges-ella-mccay-opens-with-24m/5212022.article"
+    },
+    {
+      "title": "'Zootopia 2' reclaims No. 1 spot at box office, grosses $1B ...",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/zootopia-2-reclaims-no-1-spot-box-office-grosses-1b-worldwide-rcna249256"
     }
   ],
   "platform market share streaming 2025 report": [
     {
-      "url": "https://evoca.tv/streaming-service-market-share/",
-      "title": "Streaming Service Market Share ( 2025 ): Revenue Data & Trends"
+      "title": "Streaming Service Market Share ( 2025 ): Revenue Data & Trends",
+      "url": "https://evoca.tv/streaming-service-market-share/"
     },
     {
-      "url": "https://www.businessofapps.com/data/video-streaming-app-report/",
-      "title": "Video Streaming App Report 2025 - Business of Apps"
+      "title": "Video Streaming App Report 2025 - Business of Apps",
+      "url": "https://www.businessofapps.com/data/video-streaming-app-report/"
     },
     {
-      "url": "https://explodingtopics.com/blog/video-streaming-stats",
-      "title": "Video Streaming Services Stats ( 2025 )"
+      "title": "Video Streaming Services Stats ( 2025 )",
+      "url": "https://explodingtopics.com/blog/video-streaming-stats"
     },
     {
-      "url": "https://technosports.co.in/justwatch-q3-2025-streaming-report-prime-video/",
-      "title": "JustWatch Q3 2025 Streaming Report : Prime Video Leads..."
+      "title": "19 Most Popular Live Streaming Platforms For 2025 (Ranked By Data)",
+      "url": "https://adamconnell.me/live-streaming-platforms/"
+    },
+    {
+      "title": "JustWatch Q3 2025 Streaming Report : Prime Video Leads...",
+      "url": "https://technosports.co.in/justwatch-q3-2025-streaming-report-prime-video/"
     }
   ],
   "trailer vs teaser history academic": [
     {
-      "url": "https://www.stern.nyu.edu/sites/default/files/assets/documents/con_043247.pdf",
-      "title": "Understanding the Effectiveness of Trailers, Teasers, and ..."
+      "title": "Understanding the Effectiveness of Trailers, Teasers, and ...",
+      "url": "https://www.stern.nyu.edu/sites/default/files/assets/documents/con_043247.pdf"
     },
     {
-      "url": "https://medium.com/@michellerichardson_11188/the-evolution-of-movie-trailers-493e381013f7",
-      "title": "The Evolution of Movie Trailers - Medium"
+      "title": "Teaser vs. Trailer - What's the Difference? | This vs. That",
+      "url": "https://thisvsthat.io/teaser-vs-trailer"
+    },
+    {
+      "title": "What is the Difference Between Teaser and Trailer - Pediaa.Com The Evolution of Movie Trailers - Medium Teaser vs trailer \u2013 what\u2019s the difference? - beverlyboy.com What Is The Difference Between A Teaser And A Trailer? 5 ... Teaser vs trailer \u2013 what\u2019s the difference? - beverlyboy.com Teaser vs trailer \u2013 what\u2019s the difference? - beverlyboy.com Teaser vs. Trailer - What's the Difference? | This vs. That Teaser vs trailer \u2013 what\u2019s the difference? - beverlyboy.com Teaser vs trailer: Understanding Synonyms, Usage, and Context ...",
+      "url": "https://pediaa.com/what-is-the-difference-between-teaser-and-trailer/"
+    },
+    {
+      "title": "The Evolution of Movie Trailers - Medium",
+      "url": "https://medium.com/@michellerichardson_11188/the-evolution-of-movie-trailers-493e381013f7"
+    },
+    {
+      "title": "Teaser vs trailer \u2013 what\u2019s the difference? - beverlyboy.com",
+      "url": "https://beverlyboy.com/filmmaking/teaser-vs-trailer-whats-the-difference/"
     }
   ],
   "pre-show countdown clock free download": [
     {
-      "url": "https://www.slidescarnival.com/template/countdown-clock-theme/205029",
-      "title": "Countdown Clock. Free Slides Template \u2014 SlidesCarnival"
+      "title": "Countdown Clock. Free Slides Template \u2014 SlidesCarnival",
+      "url": "https://www.slidescarnival.com/template/countdown-clock-theme/205029"
     },
     {
-      "url": "https://www.canva.com/templates/s/countdown/",
-      "title": "Free and customizable countdown templates - Canva"
+      "title": "Free and customizable countdown templates - Canva",
+      "url": "https://www.canva.com/templates/s/countdown/"
     },
     {
-      "url": "https://www.slideegg.com/countdown-clock-for-powerpoint-download-free",
-      "title": "Download Free Countdown Clock For PPT and Google Slides"
+      "title": "Download Free Countdown Clock For PPT and Google Slides",
+      "url": "https://www.slideegg.com/countdown-clock-for-powerpoint-download-free"
     },
     {
-      "url": "https://24slides.com/templates/view/other/powerpoint-countdown-timer-template",
-      "title": "PowerPoint Countdown Timers | Free Templates - 24Slides"
+      "title": "PowerPoint Countdown Timers | Free Templates - 24Slides",
+      "url": "https://24slides.com/templates/view/other/powerpoint-countdown-timer-template"
     },
     {
-      "url": "https://www.countdownkings.com/free-powerpoint-timer/",
-      "title": "FREE PowerPoint Timer - CountdownKings Free Countdown Timer Presentation Template | SlidesAI Timer PowerPoint Templates - PPT Design"
+      "title": "FREE PowerPoint Timer - CountdownKings Free Countdown Timer Presentation Template | SlidesAI Timer PowerPoint Templates - PPT Design",
+      "url": "https://www.countdownkings.com/free-powerpoint-timer/"
     }
   ],
   "craft prompt alternate tagline generator": [
     {
-      "url": "https://quillbot.com/ai-writing-tools/ai-tagline-generator",
-      "title": "Free AI Tagline Generator - QuillBot"
+      "title": "Free AI Tagline Generator - QuillBot",
+      "url": "https://quillbot.com/ai-writing-tools/ai-tagline-generator"
     },
     {
-      "url": "https://promptcreator.com/ai-tools/tagline-generator",
-      "title": "Tagline Generator | Free Online AI Tools | Prompt Creator"
+      "title": "Tagline Generator | Free Online AI Tools | Prompt Creator",
+      "url": "https://promptcreator.com/ai-tools/tagline-generator"
     },
     {
-      "url": "https://www.canva.com/slogan-generator/",
-      "title": "Free Online Slogan Generator - Business Slogan & Tagline Maker - Canva"
+      "title": "Free Online Slogan Generator - Business Slogan & Tagline Maker - Canva",
+      "url": "https://www.canva.com/slogan-generator/"
     },
     {
-      "url": "https://makeslogan.com/slogan-generator/",
-      "title": "AI-Powered Slogan & Tagline Generator (Free & No Login)"
+      "title": "AI-Powered Slogan & Tagline Generator (Free & No Login)",
+      "url": "https://makeslogan.com/slogan-generator/"
     },
     {
-      "url": "https://ahrefs.com/writing-tools/slogan-generator",
-      "title": "Free AI Slogan Generator - Ahrefs"
+      "title": "Free AI Slogan Generator - Ahrefs",
+      "url": "https://ahrefs.com/writing-tools/slogan-generator"
     }
   ]
 }

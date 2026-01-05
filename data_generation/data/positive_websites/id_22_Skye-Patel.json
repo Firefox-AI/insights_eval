@@ -1,1358 +1,2202 @@
 {
   "Portland AQI today AirNow": [
     {
-      "url": "https://www.airnow.gov/state/?name=oregon",
-      "title": "State AQI | AirNow.gov"
+      "title": "Portland Air Quality Index (AQI) and USA Air Pollution | IQAir Portland, OR Air Quality Index | AccuWeather Portland Air Quality Index (AQI) : Real-Time Air Pollution Portland Air Quality Index (AQI) Today - Live Pollution Data Portland Air Quality Index ( AQI ): Real-Time Air Pollution | Portland Portland Air Quality Index ( AQI ) and USA Air Pollution | IQAir State AQI | AirNow .gov State AQI | AirNow .gov Department of Environmental Quality : Air Quality Today : Air ...",
+      "url": "https://www.iqair.com/us/usa/oregon/portland"
+    },
+    {
+      "title": "Portland, OR Air Quality Index | AccuWeather",
+      "url": "https://www.accuweather.com/en/us/portland/97209/air-quality-index/350473"
+    },
+    {
+      "title": "Portland Air Quality Index (AQI) : Real-Time Air Pollution",
+      "url": "https://www.aqi.in/dashboard/united-states/oregon/portland/portland"
+    },
+    {
+      "title": "Portland Air Quality Index (AQI) Today - Live Pollution Data",
+      "url": "https://cleanairinitiative.org/aqi/portland/"
+    },
+    {
+      "title": "State AQI | AirNow.gov",
+      "url": "https://www.airnow.gov/state/?name=oregon"
     }
   ],
   "HRRR smoke forecast Portland": [
     {
-      "url": "https://rapidrefresh.noaa.gov/hrrr/",
-      "title": "High-Resolution Rapid Refresh ( HRRR )"
+      "title": "High-Resolution Rapid Refresh ( HRRR )",
+      "url": "https://rapidrefresh.noaa.gov/hrrr/"
     },
     {
-      "url": "https://www.weather.gov/mfr/smoke_forecast",
-      "title": "smoke _ forecast"
+      "title": "smoke _ forecast",
+      "url": "https://www.weather.gov/mfr/smoke_forecast"
     },
     {
-      "url": "https://www.maps.com/noaa-smoke-forecast-maps/",
-      "title": "Where There's Smoke"
+      "title": "Where There's Smoke",
+      "url": "https://www.maps.com/noaa-smoke-forecast-maps/"
+    },
+    {
+      "title": "HRRR Archive",
+      "url": "https://mesowest.utah.edu/html/hrrr/"
+    },
+    {
+      "title": "Widespread Wildfire Smoke Sep 2022 | Satellite Liaison Blog",
+      "url": "https://satelliteliaisonblog.wordpress.com/2022/09/07/widespread-wildfire-smoke-sep-2022/"
     }
   ],
   "ECMWF ensemble wind shift Portland tonight": [
     {
-      "url": "https://weather.us/forecast/5746545-portland/ensemble/euro",
-      "title": "ECMWF 14-day ensemble weather forecast for Portland"
+      "title": "Wind & weather forecast Portland - Windfinder",
+      "url": "https://www.windfinder.com/forecast/portland_oregon_usa"
     },
     {
-      "url": "https://www.meteoblue.com/en/weather/forecast/multimodel/portland_united-states_5746545",
-      "title": "MultiModel for Portland - meteoblue Portland | Complete Wind Report & Forecast | WindAlert Real-time weather data: ECMWF Ensemble Prediction System ..."
+      "title": "ECMWF 14-day ensemble weather forecast for Portland",
+      "url": "https://weather.us/forecast/5746545-portland/ensemble/euro"
+    },
+    {
+      "title": "Portland Wind Forecast, OR 97209 - WillyWeather",
+      "url": "https://wind.willyweather.com/or/multnomah-county/portland.html"
+    },
+    {
+      "title": "Atmospheric model Ensemble 15-day forecast | ECMWF",
+      "url": "https://www.ecmwf.int/en/forecasts/datasets/set-iii"
+    },
+    {
+      "title": "MultiModel for Portland - meteoblue Portland | Complete Wind Report & Forecast | WindAlert Real-time weather data: ECMWF Ensemble Prediction System ...",
+      "url": "https://www.meteoblue.com/en/weather/forecast/multimodel/portland_united-states_5746545"
     }
   ],
   "NOAA radar Portland composite": [
     {
-      "url": "https://radar.weather.gov/",
-      "title": "NWS Radar"
+      "title": "NWS Radar",
+      "url": "https://radar.weather.gov/"
+    },
+    {
+      "title": "Portland, OR Weather Radar | AccuWeather",
+      "url": "https://www.accuweather.com/en/us/portland/97209/weather-radar/350473"
+    },
+    {
+      "title": "NWS Weather Forecast Office: Portland, OR - GeoColor - NOAA ...",
+      "url": "https://www.star.nesdis.noaa.gov/GOES/wfo_band.php?wfo=pqr&band=GEOCOLOR&length=24"
+    },
+    {
+      "title": "PORTLAND, OR (KRTX) - Radar Monster",
+      "url": "https://www.radarmonster.com/radars/krtx/"
+    },
+    {
+      "title": "Portland Nexrad Weather Radar Live and Hourly ...",
+      "url": "https://www.localconditions.com/us/portland-nexrad/oregon/weather/radar/"
     }
   ],
   "GOES West natural color fire Portland region": [
     {
-      "url": "https://eldoradoweather.com/current/satellite/west-us-east-pacific-geocolor.html",
-      "title": "GOES-WEST 18 Western United States and Pacific Ocean GeoColor ..."
+      "title": "Pacific Northwest Region - Incident Information - Forest Service",
+      "url": "https://www.fs.usda.gov/r06/fire/info"
     },
     {
-      "url": "https://www.star.nesdis.noaa.gov/GOES/index.php",
-      "title": "GOES Imagery Viewer - NOAA / NESDIS / STAR"
+      "title": "Northwest Large Fire Interactive Web Map - ArcGIS",
+      "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=485292c7a3cd4b5ab3d4539162420d4b&extent=-15293678.3364,4586960.9504,-10597387.3186,6859280.9273,102100"
     },
     {
-      "url": "https://www.star.nesdis.noaa.gov/goes/conus.php?sat=G17",
-      "title": "GOES-West - Pacific U.S. (PACUS) - NOAA / NESDIS / STAR"
+      "title": "GOES-WEST 18 Western United States and Pacific Ocean GeoColor ...",
+      "url": "https://eldoradoweather.com/current/satellite/west-us-east-pacific-geocolor.html"
+    },
+    {
+      "title": "GOES Imagery Viewer - NOAA / NESDIS / STAR",
+      "url": "https://www.star.nesdis.noaa.gov/GOES/index.php"
+    },
+    {
+      "title": "GOES-West - Pacific U.S. (PACUS) - NOAA / NESDIS / STAR",
+      "url": "https://www.star.nesdis.noaa.gov/goes/conus.php?sat=G17"
     }
   ],
   "Pollen forecast Portland grass tree weed": [
     {
-      "url": "https://www.mypollenpal.com/portland-or",
-      "title": "Portland, OR Pollen Count Today - December 13, 2025 | MyPollenPal"
+      "title": "Grass Pollen Allergy Tips - Pollen Allergy Symptoms Relief",
+      "url": "https://www.bing.com/aclick?ld=e8QmIcIbW-GdmtF6i2y9X2yDVUCUyfI8NzVKoLUy4s1AJ09Chwv3K2HB_fzn3Qsw3CPuQilGfLlbTChAu8hQ-DkfKunIyVH-IFfXcbS0dv65GrKZLa8WzFNyaVcFXEJHaDEiIT8_O0TYGf9hravJULESNETudhcoIq1oNVfNCyxGK6o55KXfyO1Em_r0z-8izc-P8E5uOXTgK-wNq3FBpqmszRE6g&u=aHR0cHMlM2ElMmYlMmZkLmFna24uY29tJTJmcGl4ZWwlMmYxNjU3OSUyZiUzZmNoZSUzZCUyNmNtaWQlM2Q0NDIwJTI2c2lkJTNkNTUxJTI2cGlkJTNkMTYzNjAlMjZjZ2lkJTNkMTQwOTcwJTI2a2V5JTNka3dkLTc2ODk3Mzg2ODcxMjA1JTNhbG9jLTE5MCUyNmwxJTNkaHR0cHMlM2ElMmYlMmZ3d3cuY2xhcml0aW4uY29tJTJmYWJvdXQtYWxsZXJnaWVzJTJmb3V0ZG9vci1zZWFzb25hbC1hbGxlcmdpZXMlM2Ztc2Nsa2lkJTNkMWVmY2U4YzFkMzYzMTNmM2EyNWQ4MTgwMzJhYzg2YjglMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RYX1hfR1JPV1RIX0NMQl9QU19YX0FMX1BfQk5HX05PTi1CUkFORF9TWU1QVE9NU19YX1hfVFJBX1hfWF9YX1hfWF9YX1hfWF9YX1glMjZ1dG1fdGVybSUzZGFsbGVyZ3klMjUyMHJlcG9ydCUyNnV0bV9jb250ZW50JTNkQWxsZXJnaWVzJTI1MjAlMjU3QyUyNTIwRm9yZWNhc3QlMjUyMFRvb2w&rlid=1efce8c1d36313f3a25d818032ac86b8"
     },
     {
-      "url": "https://www.allermi.com/pages/pollen/portland",
-      "title": "Pollen Count in Portland, OR Today - Allermi"
+      "title": "Portland, OR Pollen Count Today - December 13, 2025 | MyPollenPal",
+      "url": "https://www.mypollenpal.com/portland-or"
     },
     {
-      "url": "https://www.iqair.com/us/pollen/usa/oregon/portland",
-      "title": "Portland pollen count and allergy info | IQAir Portland pollen count today | Stay 1 step ahead of your hay fever Portland, OR Air Quality & Pollen - Weather Underground Pollen count and allergy info for Portland, Oregon 97231 ... 5 Day Pollen Allergy Forecast for Portland, OR (97201)"
+      "title": "Pollen Count in Portland, OR Today - Allermi",
+      "url": "https://www.allermi.com/pages/pollen/portland"
     },
     {
-      "url": "https://us.klarify.me/apps/pages/pollen-forecast/portland-or",
-      "title": "Portland pollen count today | Stay 1 step ahead of your hay fever"
+      "title": "Portland pollen count and allergy info | IQAir Portland pollen count today | Stay 1 step ahead of your hay fever Portland, OR Air Quality & Pollen - Weather Underground Pollen count and allergy info for Portland, Oregon 97231 ... 5 Day Pollen Allergy Forecast for Portland, OR (97201)",
+      "url": "https://www.iqair.com/us/pollen/usa/oregon/portland"
+    },
+    {
+      "title": "Portland pollen count today | Stay 1 step ahead of your hay fever",
+      "url": "https://us.klarify.me/apps/pages/pollen-forecast/portland-or"
     }
   ],
   "dew point Portland morning": [
     {
-      "url": "https://www.accuweather.com/en/us/portland/97209/hourly-weather-forecast/350473",
-      "title": "Portland, OR Hourly Weather | AccuWeather"
+      "title": "Portland, OR Hourly Weather | AccuWeather",
+      "url": "https://www.accuweather.com/en/us/portland/97209/hourly-weather-forecast/350473"
     },
     {
-      "url": "https://www.weatherbug.com/weather-forecast/hourly/portland-or-97214",
-      "title": "Hourly Weather Forecast for Portland, OR | WeatherBug"
+      "title": "Portland, OR Current Weather Today and Forecast with Radar ...",
+      "url": "https://www.localconditions.com/us/portland/oregon/weather/"
     },
     {
-      "url": "https://www.weatherworld.com/hourly/or/portland+downtown.html",
-      "title": "Portland Downtown, OR Hourly Forecast - WeatherWorld.com"
+      "title": "Hourly Weather Forecast for Portland, OR | WeatherBug",
+      "url": "https://www.weatherbug.com/weather-forecast/hourly/portland-or-97214"
+    },
+    {
+      "title": "Portland, Oregon 97231 - The Weather Channel",
+      "url": "https://weather.com/en/weather/today/l/Portland+Oregon+97231?canonicalCityId=2914d7fd7c5155aa7b6cb685f42835af"
+    },
+    {
+      "title": "Portland Downtown, OR Hourly Forecast - WeatherWorld.com",
+      "url": "https://www.weatherworld.com/hourly/or/portland+downtown.html"
     }
   ],
   "breezometer pollen api": [
     {
-      "url": "https://docs.breezometer.com/pollen-api/v2/",
-      "title": "BreezoMeter Pollen API Documentation V2 | BreezoMeter"
+      "title": "BreezoMeter Pollen API Documentation V2 | BreezoMeter",
+      "url": "https://docs.breezometer.com/pollen-api/v2/"
     },
     {
-      "url": "https://publicapis.io/breezometer-pollen-api",
-      "title": "BreezoMeter Pollen API \u2014 Free Public API | Public APIs Directory"
+      "title": "BreezoMeter Pollen API \u2014 Free Public API | Public APIs Directory",
+      "url": "https://publicapis.io/breezometer-pollen-api"
     },
     {
-      "url": "https://docs.breezometer.com/",
-      "title": "BreezoMeter API Documentation"
+      "title": "BreezoMeter API Documentation",
+      "url": "https://docs.breezometer.com/"
     },
     {
-      "url": "https://docs.breezometer.com/api-documentation/pollen-api/v1/",
-      "title": "BreezoMeter Pollen API Documentation V1 | BreezoMeter"
+      "title": "BreezoMeter Pollen API Documentation V1 | BreezoMeter",
+      "url": "https://docs.breezometer.com/api-documentation/pollen-api/v1/"
+    },
+    {
+      "title": "BreezoMeter - pollen API",
+      "url": "https://www.worldindata.com/api/BreezoMeter-pollen-api/"
     }
   ],
   "PurpleAir map Portland wildfire smoke": [
     {
-      "url": "https://www2.purpleair.com/",
-      "title": "Real-time Air Quality Monitoring by PurpleAir"
+      "title": "AirNow Fire and Smoke Map",
+      "url": "https://fire.airnow.gov/"
     },
     {
-      "url": "https://fire.airnow.gov/",
-      "title": "AirNow Fire and Smoke Map"
+      "title": "Real-time Air Quality Monitoring by PurpleAir",
+      "url": "https://www2.purpleair.com/"
+    },
+    {
+      "title": "FireMap: Track Wildfires in Real-Time with NASA & Local Data",
+      "url": "https://firemap.live/"
+    },
+    {
+      "title": "Wildfire Map : Track Live Fires , Smoke , & Lightning | Map of Fire",
+      "url": "https://www.mapofire.com/"
+    },
+    {
+      "title": "The Bay Area Just Turned Orange. All Eyes Are on PurpleAir | WIRED",
+      "url": "https://www.wired.com/story/bay-area-just-turned-orange-all-eyes-on-purpleair/"
     }
   ],
   "EPA Fire and Smoke Map corrections purpleair": [
     {
-      "url": "https://www.epa.gov/research-states/airnow-fire-and-smoke-map-extension-us-wide-correction-purpleair-pm25-sensors",
-      "title": "AirNow Fire and Smoke Map: Extension of the U.S.-Wide Correction for ..."
+      "title": "AirNow Fire and Smoke Map: Extension of the U.S.-Wide Correction for ...",
+      "url": "https://www.epa.gov/research-states/airnow-fire-and-smoke-map-extension-us-wide-correction-purpleair-pm25-sensors"
     },
     {
-      "url": "https://community.purpleair.com/t/new-epa-correction/10372",
-      "title": "New EPA correction? - Data - PurpleAir Community"
+      "title": "New EPA correction? - Data - PurpleAir Community",
+      "url": "https://community.purpleair.com/t/new-epa-correction/10372"
     },
     {
-      "url": "https://amt.copernicus.org/articles/16/1311/2023/",
-      "title": "An evaluation of the U.S. EPA's correction equation for PurpleAir ..."
+      "title": "An evaluation of the U.S. EPA's correction equation for PurpleAir ...",
+      "url": "https://amt.copernicus.org/articles/16/1311/2023/"
     },
     {
-      "url": "https://www.mdpi.com/1424-8220/22/24/9669",
-      "title": "Correction and Accuracy of PurpleAir PM2.5 Measurements for ... - MDPI"
+      "title": "Correction and Accuracy of PurpleAir PM2.5 Measurements for ... - MDPI",
+      "url": "https://www.mdpi.com/1424-8220/22/24/9669"
     },
     {
-      "url": "https://www.airgradient.com/blog/epa-correction-and-airgradient/",
-      "title": "Does the EPA Correction Algorithm for Wildfire Smoke PM2.5 Developed ..."
+      "title": "Does the EPA Correction Algorithm for Wildfire Smoke PM2.5 Developed ...",
+      "url": "https://www.airgradient.com/blog/epa-correction-and-airgradient/"
     }
   ],
   "PM2.5 to AQI calculator": [
     {
-      "url": "https://www.airnow.gov/aqi/aqi-calculator/",
-      "title": "AQI Calculator | AirNow.gov"
+      "title": "AQI Calculator | AirNow.gov",
+      "url": "https://www.airnow.gov/aqi/aqi-calculator/"
     },
     {
-      "url": "https://www.toolsrail.com/civil/aqi-calculator.php",
-      "title": "Air Quality Index (AQI) Calculator \u2013 PM2.5, PM10, CO, O\u2083, NO\u2082 ..."
+      "title": "Air Quality Index (AQI) Calculator \u2013 PM2.5, PM10, CO, O\u2083, NO\u2082 ...",
+      "url": "https://www.toolsrail.com/civil/aqi-calculator.php"
     },
     {
-      "url": "https://solveme.net/calculator/air-quality-index-calculator",
-      "title": "Air Quality Index (AQI) Calculator | SolveMe.net"
+      "title": "Air Quality Index (AQI) Calculator | SolveMe.net",
+      "url": "https://solveme.net/calculator/air-quality-index-calculator"
     },
     {
-      "url": "https://calculat.co.in/aqi-calculator/",
-      "title": "AQI Calculator \u2013 Instant Air Quality Index from PM2.5 & PM10"
+      "title": "AQI Calculator \u2013 Instant Air Quality Index from PM2.5 & PM10",
+      "url": "https://calculat.co.in/aqi-calculator/"
     },
     {
-      "url": "https://healthcalculatoronline.com/air-quality-calculator/",
-      "title": "Air Quality Calculator: AQI Levels and Health Tips"
+      "title": "Air Quality Calculator: AQI Levels and Health Tips",
+      "url": "https://healthcalculatoronline.com/air-quality-calculator/"
     }
   ],
   "NowCast algorithm explanation": [
     {
-      "url": "https://en.wikipedia.org/wiki/Nowcast_(Air_Quality_Index)",
-      "title": "NowCast (air quality index) - Wikipedia"
+      "title": "NowCast (air quality index) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nowcast_(Air_Quality_Index)"
     },
     {
-      "url": "https://www.epa.gov/sites/default/files/2018-01/documents/nowcastfactsheet.pdf",
-      "title": "PDF NowCastFactSheet2D_EPA.pub"
+      "title": "PDF NowCastFactSheet2D_EPA.pub",
+      "url": "https://www.epa.gov/sites/default/files/2018-01/documents/nowcastfactsheet.pdf"
     },
     {
-      "url": "https://mazamascience.github.io/AirMonitor/articles/NowCast.html",
-      "title": "NowCast \u2022 AirMonitor"
+      "title": "Behind the Model: Nowcasting | CFA: Behind the Model | CDC",
+      "url": "https://www.cdc.gov/cfa-behind-the-model/php/data-research/nowcasting.html"
     },
     {
-      "url": "https://observablehq.com/@openaq/epa-pm-nowcast",
-      "title": "US EPA Particulate Matter NowCast AQI Algorithm - Observable"
+      "title": "NowCast \u2022 AirMonitor",
+      "url": "https://mazamascience.github.io/AirMonitor/articles/NowCast.html"
+    },
+    {
+      "title": "US EPA Particulate Matter NowCast AQI Algorithm - Observable",
+      "url": "https://observablehq.com/@openaq/epa-pm-nowcast"
     }
   ],
   "PM2.5 25 ug/m3 in AQI": [
     {
-      "url": "https://aqicn.org/calculator/",
-      "title": "AQI Calculator - US EPA Scale convertor - aqicn.org"
+      "title": "AQI Calculator - US EPA Scale convertor - aqicn.org",
+      "url": "https://aqicn.org/calculator/"
     },
     {
-      "url": "https://www.airnow.gov/aqi/aqi-calculator/",
-      "title": "AQI Calculator | AirNow.gov"
+      "title": "AQI Calculator | AirNow.gov",
+      "url": "https://www.airnow.gov/aqi/aqi-calculator/"
     },
     {
-      "url": "https://observablehq.com/@mbostock/pm25-to-aqi",
-      "title": "PM2.5 to AQI Conversion / Mike Bostock | Observable"
+      "title": "PM2.5 to AQI Conversion / Mike Bostock | Observable",
+      "url": "https://observablehq.com/@mbostock/pm25-to-aqi"
     },
     {
-      "url": "https://www.epa.gov/system/files/documents/2024-02/pm-naaqs-air-quality-index-fact-sheet.pdf",
-      "title": "PDF Final Updates to the Air Quality Index (AQI) for Particulate Matter"
+      "title": "PDF Final Updates to the Air Quality Index (AQI) for Particulate Matter",
+      "url": "https://www.epa.gov/system/files/documents/2024-02/pm-naaqs-air-quality-index-fact-sheet.pdf"
+    },
+    {
+      "title": "What is the Difference Between Raw PM2.5 and an AQI Scale?",
+      "url": "https://community.purpleair.com/t/what-is-the-difference-between-raw-pm2-5-and-an-aqi-scale/7305"
     }
   ],
   "home assistant pm2.5 automation yaml": [
     {
-      "url": "https://www.home-assistant.io/docs/automation/yaml/",
-      "title": "Automation YAML - Home Assistant"
+      "title": "Automation YAML - Home Assistant",
+      "url": "https://www.home-assistant.io/docs/automation/yaml/"
     },
     {
-      "url": "https://atmotube.com/blog/integrating-aqm-with-home-assistant-via-mqtt-and-setting-up-automations",
-      "title": "Integrating an Air Quality Monitor with Home Assistant via MQTT"
+      "title": "GitHub - koenvervloesem/ESPHome-Air-Quality-Monitor: ESPHome ...",
+      "url": "https://github.com/koenvervloesem/ESPHome-Air-Quality-Monitor"
     },
     {
-      "url": "https://www.espboards.dev/blog/smarter-ikea-vidriktning-esphome/",
-      "title": "IKEA Vindriktning Air Quality Sensor with Home Assistant"
+      "title": "Integrating an Air Quality Monitor with Home Assistant via MQTT",
+      "url": "https://atmotube.com/blog/integrating-aqm-with-home-assistant-via-mqtt-and-setting-up-automations"
+    },
+    {
+      "title": "IKEA Vindriktning Air Quality Sensor with Home Assistant",
+      "url": "https://www.espboards.dev/blog/smarter-ikea-vidriktning-esphome/"
+    },
+    {
+      "title": "Air quality sensor (pm2.4 and VOC) : r/homeassistant - Reddit",
+      "url": "https://www.reddit.com/r/homeassistant/comments/18et7kd/air_quality_sensor_pm24_and_voc/"
     }
   ],
   "node-red hysteresis example air quality": [
     {
-      "url": "https://flows.nodered.org/node/node-red-contrib-hysteresis",
-      "title": "node-red-contrib-hysteresis"
+      "title": "node-red-contrib-hysteresis",
+      "url": "https://flows.nodered.org/node/node-red-contrib-hysteresis"
     },
     {
-      "url": "https://github.com/ncdcommunity/NodeRED-Dashboard-Environmental-Temperature-Humidity-Pressure-Air-Quality-Sensor",
-      "title": "Dashboard-Environmental-Temperature-Humidity-Pressure-Air ..."
+      "title": "Node-RED Cheat Sheet - Basic Nodes | vd Brink Home Automations",
+      "url": "https://vdbrink.github.io/node-red/node-red_cheatsheet-basic_nodes.html"
     },
     {
-      "url": "https://ncd.io/blog/air-quality-co2-and-particulate-matter-sensor-node-red-dashboard/",
-      "title": "Air Quality Sensor Node-RED Dashboard - NCD.io"
+      "title": "Dashboard-Environmental-Temperature-Humidity-Pressure-Air ...",
+      "url": "https://github.com/ncdcommunity/NodeRED-Dashboard-Environmental-Temperature-Humidity-Pressure-Air-Quality-Sensor"
     },
     {
-      "url": "https://community.home-assistant.io/t/trying-to-set-up-air-quality-automation/499092",
-      "title": "Trying to set up Air Quality Automation - Node-RED - Home ..."
+      "title": "Air Quality Sensor Node-RED Dashboard - NCD.io",
+      "url": "https://ncd.io/blog/air-quality-co2-and-particulate-matter-sensor-node-red-dashboard/"
+    },
+    {
+      "title": "Trying to set up Air Quality Automation - Node-RED - Home ...",
+      "url": "https://community.home-assistant.io/t/trying-to-set-up-air-quality-automation/499092"
     }
   ],
   "purpleair mqtt home assistant": [
     {
-      "url": "https://community.home-assistant.io/t/purpleair-local-mqtt/333833",
-      "title": "PurpleAir Local MQTT - Share your Projects! - Home Assistant Community"
+      "title": "PurpleAir - Home Assistant",
+      "url": "https://www.home-assistant.io/integrations/purpleair"
+    },
+    {
+      "title": "gibixcomputing/home-assistant-purpleair - GitHub",
+      "url": "https://github.com/gibixcomputing/home-assistant-purpleair"
+    },
+    {
+      "title": "How PurpleAir is Being Used with Home Assistant",
+      "url": "https://www2.purpleair.com/blogs/blog-home/how-purpleair-is-being-used-with-home-assistant"
+    },
+    {
+      "title": "[Tutorial] Complete Detailed PurpleAir Integration within Home ...",
+      "url": "https://www.reddit.com/r/homeassistant/comments/tbhdvb/tutorial_complete_detailed_purpleair_integration/"
+    },
+    {
+      "title": "PurpleAir Local MQTT - Share your Projects! - Home Assistant Community",
+      "url": "https://community.home-assistant.io/t/purpleair-local-mqtt/333833"
     }
   ],
   "10 minute rolling average template sensor": [
     {
-      "url": "https://community.home-assistant.io/t/esphome-rolling-average-using-template-sensors-and-filters/335752",
-      "title": "ESPHome rolling average using template sensors and filters"
+      "title": "ESPHome rolling average using template sensors and filters",
+      "url": "https://community.home-assistant.io/t/esphome-rolling-average-using-template-sensors-and-filters/335752"
     },
     {
-      "url": "https://github.com/Limych/ha-average",
-      "title": "GitHub - Limych/ha-average: Average Sensor for Home Assistant Home Assistant Template Sensor Helpers | Jitteringrunt Blog Template - Create an average on entities - Haade.fr Recording ESPHome Sensor Values: Min, Max, and Average Energy Dashboard and (sensor template?) for Rolling (Peak ... Home Assistant - Guide to Creating Template Sensors in Home ..."
+      "title": "GitHub - Limych/ha-average: Average Sensor for Home Assistant Home Assistant Template Sensor Helpers | Jitteringrunt Blog Template - Create an average on entities - Haade.fr Recording ESPHome Sensor Values: Min, Max, and Average Energy Dashboard and (sensor template?) for Rolling (Peak ... Home Assistant - Guide to Creating Template Sensors in Home ...",
+      "url": "https://github.com/Limych/ha-average"
     },
     {
-      "url": "https://newscrewdriver.com/2022/03/26/recording-esphome-sensor-values-min-max-and-average/",
-      "title": "Recording ESPHome Sensor Values: Min, Max, and Average"
+      "title": "Home Assistant Template Sensor Helpers | Jitteringrunt Blog",
+      "url": "https://jitteringrunt.com/posts/TemplateSensors/"
+    },
+    {
+      "title": "Template - Create an average on entities - Haade.fr",
+      "url": "https://haade.fr/en/blog/home-assistant-Template-make-averages-of-multiple-entities"
+    },
+    {
+      "title": "Recording ESPHome Sensor Values: Min, Max, and Average",
+      "url": "https://newscrewdriver.com/2022/03/26/recording-esphome-sensor-values-min-max-and-average/"
     }
   ],
   "aranet4 vs airthings accuracy": [
     {
-      "url": "https://forum.aranet.com/aranet-home-devices-aranet4-aranet2-aranet-radiation-aranet-radon/aranet4-co2-reading-seems-inaccurate-vs-airthings-wave/",
-      "title": "Aranet4 CO2 reading seems inaccurate vs Airthings Wave+?"
+      "title": "Aranet4 CO2 reading seems inaccurate vs Airthings Wave+?",
+      "url": "https://forum.aranet.com/aranet-home-devices-aranet4-aranet2-aranet-radiation-aranet-radon/aranet4-co2-reading-seems-inaccurate-vs-airthings-wave/"
     },
     {
-      "url": "https://www.reddit.com/r/AirQuality/comments/10rl5r4/indoor_airquality_101_aranet4_va_airthings/",
-      "title": "Indoor AirQuality 101: Aranet4 va AirThings : r ... - Reddit"
+      "title": "Indoor AirQuality 101: Aranet4 va AirThings : r ... - Reddit",
+      "url": "https://www.reddit.com/r/AirQuality/comments/10rl5r4/indoor_airquality_101_aranet4_va_airthings/"
     },
     {
-      "url": "https://forums.redflagdeals.com/aranet4-vs-airthings-co2-readings-quite-different-2604722/",
-      "title": "Aranet4 vs Airthings CO2 readings are quite different?"
+      "title": "Aranet4 vs Airthings CO2 readings are quite different?",
+      "url": "https://forums.redflagdeals.com/aranet4-vs-airthings-co2-readings-quite-different-2604722/"
     },
     {
-      "url": "https://www.jimangel.io/posts/home-assistant-air-monitors/",
-      "title": "Monitoring air quality: Awair vs. Airthings vs. Aranet vs ... Aranet4 Home Review \u2013 The Best Carbon Dioxide Monitor? Ask HN: What indoor CO2 monitor do you recommend? | Hacker News"
+      "title": "Monitoring air quality: Awair vs. Airthings vs. Aranet vs ... Aranet4 Home Review \u2013 The Best Carbon Dioxide Monitor? Ask HN: What indoor CO2 monitor do you recommend? | Hacker News",
+      "url": "https://www.jimangel.io/posts/home-assistant-air-monitors/"
+    },
+    {
+      "title": "Aranet4 Home Review \u2013 The Best Carbon Dioxide Monitor?",
+      "url": "https://breathesafeair.com/aranet4-home-review/"
     }
   ],
   "co2 threshold 800 ventilation strategy": [
     {
-      "url": "https://www.sciencedirect.com/science/article/pii/S0378778825009843",
-      "title": "Using indoor CO2 concentration thresholds to understand and ..."
+      "title": "Using indoor CO2 concentration thresholds to understand and ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378778825009843"
     },
     {
-      "url": "https://www.trane.com/content/dam/Trane/Commercial/global/learning-center/ashrae-articles/CO2-Based+Demand-Controlled+Ventilation+with+ASHRAE+Standard+62.1.pdf",
-      "title": "CO -Based Demand-Controlled Ventilation - Trane Heating & Air ..."
+      "title": "CO -Based Demand-Controlled Ventilation - Trane Heating & Air ...",
+      "url": "https://www.trane.com/content/dam/Trane/Commercial/global/learning-center/ashrae-articles/CO2-Based+Demand-Controlled+Ventilation+with+ASHRAE+Standard+62.1.pdf"
     },
     {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9132786/",
-      "title": "A novel CO2-based demand-controlled ventilation strategy to ..."
+      "title": "A novel CO2-based demand-controlled ventilation strategy to ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9132786/"
+    },
+    {
+      "title": "CO2 Measurement and Management in HVAC Ventilation: Enhancing ...",
+      "url": "https://www.stoutenergy.me/blog/co2-measurement-and-management-in-hvac-ventilation-enhancing-indoor-air-quality-and-energy-efficiency"
+    },
+    {
+      "title": "Using indoor CO2 to improve air quality of public buildings",
+      "url": "https://airspothealth.com/a/blog/using-indoor-co2-to-improve-the-air-quality-of-public-buildings"
     }
   ],
   "indoor voc sensor bme680 calibration": [
     {
-      "url": "https://forums.adafruit.com/viewtopic.php?t=177175",
-      "title": "BME680 reports poor IAQ_Accuracy - Adafruit Industries"
+      "title": "BME680 \u2013 An All-Inclusive Guide on the Environmental Sensor",
+      "url": "https://pcb-copy.com/bme680-an-all-inclusive-guide-on-the-environmental-sensor/"
     },
     {
-      "url": "https://www.makerguides.com/measure-air-quality-with-bme680/",
-      "title": "Measure Air Quality with BME680 - Makerguides.com"
+      "title": "BME680 reports poor IAQ_Accuracy - Adafruit Industries",
+      "url": "https://forums.adafruit.com/viewtopic.php?t=177175"
     },
     {
-      "url": "https://community.bosch-sensortec.com/mems-sensors-forum-jrmujtaw/post/bme680-calibration-problems-GsCPTuchwMkwuZx",
-      "title": "bme680 calibration problems."
+      "title": "Measure Air Quality with BME680 - Makerguides.com",
+      "url": "https://www.makerguides.com/measure-air-quality-with-bme680/"
+    },
+    {
+      "title": "bme680 calibration problems.",
+      "url": "https://community.bosch-sensortec.com/mems-sensors-forum-jrmujtaw/post/bme680-calibration-problems-GsCPTuchwMkwuZx"
+    },
+    {
+      "title": "Complete Guide to the BME680 Sensor: Environmental Quality ...",
+      "url": "https://en.hwlibre.com/Complete-guide-to-the-bme680-environmental-quality-sensor-with-arduino/"
     }
   ],
   "sps30 vs pms5003 wildfire smoke": [
     {
-      "url": "https://community.home-assistant.io/t/air-quality-sensor-hardware-advice/273106/14",
-      "title": "Air Quality sensor hardware advice - #14 by fresnoboy - Hardware..."
+      "title": "Air Quality sensor hardware advice - #14 by fresnoboy - Hardware...",
+      "url": "https://community.home-assistant.io/t/air-quality-sensor-hardware-advice/273106/14"
     },
     {
-      "url": "https://seetheair.org/wp-content/uploads/2024/05/tryner-volckens-epa-air-sensors-qa-workshop.pdf",
-      "title": "PowerPoint Presentation"
+      "title": "Outdoor Air Quality Monitors - Air Quality Monitors - BreatheSafeAir...",
+      "url": "https://forum.breathesafeair.com/t/outdoor-air-quality-monitors/28"
     },
     {
-      "url": "https://turnkey-instruments.com/wp-content/uploads/2025/09/Size-Resolved-Performance-of-Low-Cost-Sensors.pdf",
-      "title": "Size-Resolved Field Performance of Low-Cost Sensors for Particulate..."
+      "title": "PowerPoint Presentation",
+      "url": "https://seetheair.org/wp-content/uploads/2024/05/tryner-volckens-epa-air-sensors-qa-workshop.pdf"
+    },
+    {
+      "title": "Size-Resolved Field Performance of Low-Cost Sensors for Particulate...",
+      "url": "https://turnkey-instruments.com/wp-content/uploads/2025/09/Size-Resolved-Performance-of-Low-Cost-Sensors.pdf"
+    },
+    {
+      "title": "Design and Testing of a Low-Cost Sensor and Sampling Platform for...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34764540/"
     }
   ],
   "diy corsi rosenthal box instructions": [
     {
-      "url": "https://medium.com/@tixwriteoff/making-a-corsi-rosenthal-box-be1942db30a7",
-      "title": "Making a Corsi - Rosenthal Box . DIY HEPA air filter to... | Medium"
+      "title": "Making a Corsi - Rosenthal Box . DIY HEPA air filter to... | Medium",
+      "url": "https://medium.com/@tixwriteoff/making-a-corsi-rosenthal-box-be1942db30a7"
     },
     {
-      "url": "https://www.youtube.com/watch?v=H6lBCtl8ENo",
-      "title": "Best $100 Air Purifier - How to Build a Corsi - Rosenthal Box - YouTube"
+      "title": "Best $100 Air Purifier - How to Build a Corsi - Rosenthal Box - YouTube",
+      "url": "https://www.youtube.com/watch?v=H6lBCtl8ENo"
     },
     {
-      "url": "https://engineering.ucdavis.edu/news/science-action-how-build-corsi-rosenthal-box",
-      "title": "Science in Action: How to Build a Corsi - Rosenthal Box"
+      "title": "Science in Action: How to Build a Corsi - Rosenthal Box",
+      "url": "https://engineering.ucdavis.edu/news/science-action-how-build-corsi-rosenthal-box"
     },
     {
-      "url": "https://www.outsideonline.com/outdoor-gear/gear-news/diy-air-purifier-wildfire-smoke",
-      "title": "DIY : Corsi - Rosenthal Box Air Filter for Wildfire Smoke - Outside Online"
+      "title": "DIY : Corsi - Rosenthal Box Air Filter for Wildfire Smoke - Outside Online",
+      "url": "https://www.outsideonline.com/outdoor-gear/gear-news/diy-air-purifier-wildfire-smoke"
+    },
+    {
+      "title": "This $100 Corsi - Rosenthal Box can help you breathe easier",
+      "url": "https://www.thecooldown.com/green-home/corsi-rosenthal-box-diy-air-filter/"
     }
   ],
   "merv 13 vs merv 11 smoke filtration": [
     {
-      "url": "https://www.bing.com/aclick?ld=e85nQdygRQn7Pa-grl4D_fiTVUCUzt7KQypvRK8Ep6cer8qAmQfLvV12G817aAVYIEpV4O45QV6xYSYMC8ctzFLYBjjeoCBwUILn989Sy1oUEvXjeKa4CCbqw6z0H32SiRSmO0StoqqWOr4x-ags9qllwq3Oq1I3TmxOw4atmJRg6u9TPaYNp6tpb8IYRWDgPt2mXBg5uEFUz0OaeGTsD5yCASgPM&u=aHR0cHMlM2ElMmYlMmZ3d3cuZGlzY291bnRmaWx0ZXJzLmNvbSUyZm1lcnYtMTMtYWlyLWZpbHRlcnMlMmZjMzczMSUyZiUyZiUzZnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU3QkItREYtRFNBLU5vbkJyYW5kLUFpci1TdGFuZEZpbHRlciUyNTdEJTI1MjBGdXJuYWNlJTI2NTY2MDEzMDQwJTI2bXNjbGtpZCUzZDlkNzdlMTY5MTdmODEyOTMxYzQyODgyOGY2MjZkYzZjJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fdGVybSUzZGFpciUyNTIwZmlsdGVycyUyNTIwJTI2dXRtX2NvbnRlbnQlM2QlMjU3QkclMjUyMERTQV9BaXIlMjU3RCUyNTIwRnVybmFjZQ&rlid=9d77e16917f812931c428828f626dc6c",
-      "title": "MERV 11 vs MERV 13 Air Filters - MERV 13 Explained"
+      "title": "MERV 11 vs MERV 13 Air Filters - MERV 13 Explained",
+      "url": "https://www.bing.com/aclick?ld=e85nQdygRQn7Pa-grl4D_fiTVUCUzt7KQypvRK8Ep6cer8qAmQfLvV12G817aAVYIEpV4O45QV6xYSYMC8ctzFLYBjjeoCBwUILn989Sy1oUEvXjeKa4CCbqw6z0H32SiRSmO0StoqqWOr4x-ags9qllwq3Oq1I3TmxOw4atmJRg6u9TPaYNp6tpb8IYRWDgPt2mXBg5uEFUz0OaeGTsD5yCASgPM&u=aHR0cHMlM2ElMmYlMmZ3d3cuZGlzY291bnRmaWx0ZXJzLmNvbSUyZm1lcnYtMTMtYWlyLWZpbHRlcnMlMmZjMzczMSUyZiUyZiUzZnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU3QkItREYtRFNBLU5vbkJyYW5kLUFpci1TdGFuZEZpbHRlciUyNTdEJTI1MjBGdXJuYWNlJTI2NTY2MDEzMDQwJTI2bXNjbGtpZCUzZDlkNzdlMTY5MTdmODEyOTMxYzQyODgyOGY2MjZkYzZjJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fdGVybSUzZGFpciUyNTIwZmlsdGVycyUyNTIwJTI2dXRtX2NvbnRlbnQlM2QlMjU3QkclMjUyMERTQV9BaXIlMjU3RCUyNTIwRnVybmFjZQ&rlid=9d77e16917f812931c428828f626dc6c"
     },
     {
-      "url": "https://customfiltersdirect.com/blogs/air-filter-blog/merv-11-vs-merv-13-air-filters",
-      "title": "MERV 11 vs. MERV 13 Air Filter: Which Should I Buy?"
+      "title": "MERV 11 vs. MERV 13 Air Filter: Which Should I Buy?",
+      "url": "https://customfiltersdirect.com/blogs/air-filter-blog/merv-11-vs-merv-13-air-filters"
     },
     {
-      "url": "https://filterbuy.com/resources/brand-comparisons/whats-the-difference-between-merv-11-vs-merv-13-furnace-and-ac-air-filters/",
-      "title": "MERV 11 vs MERV 13: Which Air Filter is Right for Your Home?"
+      "title": "MERV 11 vs MERV 13: Which Air Filter is Right for Your Home?",
+      "url": "https://filterbuy.com/resources/brand-comparisons/whats-the-difference-between-merv-11-vs-merv-13-furnace-and-ac-air-filters/"
     },
     {
-      "url": "https://www.lowes.com/n/buying-guide/merv-11-vs-merv-13-air-filters",
-      "title": "MERV 11 Vs. MERV 13 Air Filters: What's the Difference?"
+      "title": "MERV 11 Vs. MERV 13 Air Filters: What's the Difference?",
+      "url": "https://www.lowes.com/n/buying-guide/merv-11-vs-merv-13-air-filters"
     },
     {
-      "url": "https://www.hvac.com/expert-advice/merv-13-vs-merv-11-vs-merv-8/",
-      "title": "MERV Ratings: MERV 13 vs MERV 11 vs MERV 8 - hvac.com MERV 13 vs. MERV 11: What's the Difference? - Automatic Roll ... Images MERV 11 vs MERV 13: What\u2019s the Real Difference for Homeowners? Air Filter Guide: MERV 8 vs 11 vs 13 Best Choice for Home Air ..."
+      "title": "MERV Ratings: MERV 13 vs MERV 11 vs MERV 8 - hvac.com MERV 13 vs. MERV 11: What's the Difference? - Automatic Roll ... Images MERV 11 vs MERV 13: What\u2019s the Real Difference for Homeowners? Air Filter Guide: MERV 8 vs 11 vs 13 Best Choice for Home Air ...",
+      "url": "https://www.hvac.com/expert-advice/merv-13-vs-merv-11-vs-merv-8/"
     }
   ],
   "hepa purifier cadr calculator": [
     {
-      "url": "https://www.airpurifiercalculators.com/calculators",
-      "title": "Air Purifier Calculator - Free CADR, Room Size & HEPA Filter ..."
+      "title": "Air Purifier Calculator - Free CADR, Room Size & HEPA Filter ...",
+      "url": "https://www.airpurifiercalculators.com/calculators"
     },
     {
-      "url": "https://reviewsofairpurifiers.com/cadr-calculator/",
-      "title": "CADR Calculator: Find the Right Air Purifier for Your Room What Is a Good CADR Rating for Air Purifier (With Calculator) At\u2011home CADR calculator (with ACH presets) CADR calculator: What size air purifier do I need? - HouseFresh CADR, ACH & Room Size Calculator for Air Purifiers CADR Calculator : Find the Right Air Purifier for Your Room What Is a Good CADR Rating for Air Purifier (With Calculator ) CADR calculator : What size air purifier do I need? - HouseFresh CADR calculator : What size air purifier do I need? - HouseFresh Air Purifier Size Calculator: Find the Right CADR Rating"
+      "title": "CADR Calculator: Find the Right Air Purifier for Your Room What Is a Good CADR Rating for Air Purifier (With Calculator) At\u2011home CADR calculator (with ACH presets) CADR calculator: What size air purifier do I need? - HouseFresh CADR, ACH & Room Size Calculator for Air Purifiers CADR Calculator : Find the Right Air Purifier for Your Room What Is a Good CADR Rating for Air Purifier (With Calculator ) CADR calculator : What size air purifier do I need? - HouseFresh CADR calculator : What size air purifier do I need? - HouseFresh Air Purifier Size Calculator: Find the Right CADR Rating",
+      "url": "https://reviewsofairpurifiers.com/cadr-calculator/"
     },
     {
-      "url": "https://www.pickhvac.com/air-purifier/cadr-rating/",
-      "title": "What Is a Good CADR Rating for Air Purifier (With Calculator)"
+      "title": "What Is a Good CADR Rating for Air Purifier (With Calculator)",
+      "url": "https://www.pickhvac.com/air-purifier/cadr-rating/"
     },
     {
-      "url": "https://llm.wyndly.com/at-home-cadr-calculator",
-      "title": "At\u2011home CADR calculator (with ACH presets)"
+      "title": "At\u2011home CADR calculator (with ACH presets)",
+      "url": "https://llm.wyndly.com/at-home-cadr-calculator"
     },
     {
-      "url": "https://housefresh.com/cadr-calculator/",
-      "title": "CADR calculator: What size air purifier do I need? - HouseFresh"
+      "title": "CADR calculator: What size air purifier do I need? - HouseFresh",
+      "url": "https://housefresh.com/cadr-calculator/"
     }
   ],
   "battery power hepa purifier runtime": [
     {
-      "url": "https://thehomeair.com/best-battery-operated-air-purifier/",
-      "title": "The Best Battery Operated Air Purifier - Should You... - Thehomeair"
+      "title": "HEPA - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HEPA"
+    },
+    {
+      "title": "Best Car Air Purifier With HEPA Filter 2025 \u2013 Quality Home Air Care",
+      "url": "https://qualityhomeaircare.com/best-car-air-purifier-with-hepa-filter/"
+    },
+    {
+      "title": "The Best Battery Operated Air Purifier - Should You... - Thehomeair",
+      "url": "https://thehomeair.com/best-battery-operated-air-purifier/"
+    },
+    {
+      "title": "Husqvarna DE120H Pace Battery Power HEPA Dust Extractor Vacuum",
+      "url": "https://lewiscontractorsales.com/husqvarna-de120h-pace-battery-power-hepa-dust-extractor-vacuum.html"
+    },
+    {
+      "title": "PHILIPS Air Purifier 900 Series, HEPA NanoProtect + Activated...",
+      "url": "https://www.amazon.co.uk/NanoProtect-Activated-Intelligent-AC0951-13/dp/B0D3VFFBD6"
     }
   ],
   "jackery running air purifier hours": [
     {
-      "url": "https://www.jackery.com/blogs/knowledge/can-jackery-power-an-air-purifier",
-      "title": "Can Jackery Power an Air Purifier? Which Model & How Long Can ..."
+      "title": "Can Jackery Power an Air Purifier? Which Model & How Long Can ...",
+      "url": "https://www.jackery.com/blogs/knowledge/can-jackery-power-an-air-purifier"
+    },
+    {
+      "title": "Can an Air Purifier Run 24/7? - Engineer Fix",
+      "url": "https://engineerfix.com/can-an-air-purifier-run-24-7/"
+    },
+    {
+      "title": "How long to run an air purifier for optimal benefits",
+      "url": "https://airconditionerlab.com/how-long-to-run-air-purifier/"
+    },
+    {
+      "title": "How Long should you run an Air Purifier: AQI and Room Size",
+      "url": "https://mepacademy.com/how-long-should-you-run-an-air-purifier-aqi-and-room-size/"
+    },
+    {
+      "title": "Can You Run An Air Purifier 24/7? The Surprising Truth ...",
+      "url": "https://homescale.net/can-i-run-air-purifier-24-7/"
     }
   ],
   "window sealing for wildfire smoke": [
     {
-      "url": "https://aeroguardians.com/addressing-wildfire-smoke-residential/",
-      "title": "Addressing Wildfire Smoke in Residential Settings - Aero Guardians"
+      "title": "Addressing Wildfire Smoke in Residential Settings - Aero Guardians",
+      "url": "https://aeroguardians.com/addressing-wildfire-smoke-residential/"
     },
     {
-      "url": "https://www.filtertime.com/news/wildfires-and-indoor-air-quality-5-ways-to-protect-your-home",
-      "title": "Wildfires and Indoor Air Quality: 5 Ways to Protect Your Home..."
+      "title": "Addressing Smoke Odors in the Range Post- Wildfire : Tips",
+      "url": "https://vikingappliancerepairs.com/addressing-smoke-odors-in-the-range-post-wildfire/"
     },
     {
-      "url": "https://tildelowengrimm.medium.com/surviving-smoke-and-ash-4dd9ca96cd77",
-      "title": "Surviving Smoke and Ash. Staying healthy and safe during | Medium"
+      "title": "Surviving Smoke and Ash. Staying healthy and safe during | Medium",
+      "url": "https://tildelowengrimm.medium.com/surviving-smoke-and-ash-4dd9ca96cd77"
+    },
+    {
+      "title": "Wildfires and Indoor Air Quality: 5 Ways to Protect Your Home...",
+      "url": "https://www.filtertime.com/news/wildfires-and-indoor-air-quality-5-ways-to-protect-your-home"
+    },
+    {
+      "title": "Can Forest Wildfire Smoke Exposure Make You Sick Long Term?",
+      "url": "https://filterbuy.com/resources/health-and-wellness/can-forest-wildfire-smoke-exposure-make-you-sick/"
     }
   ],
   "positive pressure intake fan with filter": [
     {
-      "url": "https://www.chatsworth.com/en-us/products/industrial-nema-enclosures/accessories/thermal-management/rmr-modular-enclosure-filter-intake-fan",
-      "title": "Intake Fan Filter for RMR Enclosures - Boost Airflow | Chatsworth"
+      "title": "Intake Fan Filter for RMR Enclosures - Boost Airflow | Chatsworth",
+      "url": "https://www.chatsworth.com/en-us/products/industrial-nema-enclosures/accessories/thermal-management/rmr-modular-enclosure-filter-intake-fan"
+    },
+    {
+      "title": "PC Airflow Guide (Positive vs Negative vs Neutral Pressure) Images Negative or positive air pressure? : r/buildapc - Reddit Positive vs. Negative Air Pressure: The Ultimate Guide for ... Positive vs Negative Pressure PC: Fans and Filters Guide Positive Air Pressure | Sentry Air Systems Positive Pressure Fan Guide: Breathe Cleaner Air at Home! (US)",
+      "url": "https://www.build-gaming-computers.com/positive-vs-negative-pressure-pc.html"
+    },
+    {
+      "title": "Negative or positive air pressure? : r/buildapc - Reddit",
+      "url": "https://www.reddit.com/r/buildapc/comments/g9lsfe/negative_or_positive_air_pressure/"
+    },
+    {
+      "title": "Positive vs. Negative Air Pressure: The Ultimate Guide for ...",
+      "url": "https://www.darkflash.com/article/positive-vs-negative-air-pressure-guide"
+    },
+    {
+      "title": "Positive vs Negative Pressure PC: Fans and Filters Guide",
+      "url": "https://www.linkedin.com/advice/1/what-best-fans-filters-positive-negative"
     }
   ],
   "whole house fan smoke season safe?": [
     {
-      "url": "https://forum.nachi.org/t/are-whole-house-fans-dangerous/51434",
-      "title": "Are Whole House Fans Dangerous? - InterNACHI\u00ae\ufe0f Forum"
+      "title": "Fan That Gets Rid Of Smoke - Eco-Friendly Options",
+      "url": "https://www.bing.com/aclick?ld=e8N0liKUf7ibx-ihSOIugO8TVUCUwkH9gDkbMnQnIQM77EmDGPcnSQDTlqSaaA2IYC4z6r7pWBpg2P1Zlaz5tWGWxMgoBpxXCAgvH3Ve84J7d2Guo0rcm2oQHPv1EYakcv6fkwunPsrxfmBHk3gZ9OTxI0OacJFpbQGNnJhurDedkI2qHkZEUdK-8tbMRrCE8v38u8Jwdt9rDcZIef6RyBwRMdqmQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGZhbiUyYnRoYXQlMmJnZXRzJTJicmlkJTJib2YlMmJzbW9rZSUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzloYXhreHZlcGRfcCUyNmFkZ3JwaWQlM2QxMzQzNjA1NjgwNjI4NDc2JTI2aHZhZGlkJTNkODM5NzU2MjkwNDY5MTIlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzOTc2NDcyMjg2MDE4JTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2QxMzg2NV8xMzM1MTQ3MiUyNm1jaWQlM2RjZmM0OTRkZGMyZjYzYzFkYTdlZWE0NzNlNTRlYjVmNiUyNm1zY2xraWQlM2RkNGY2ZDFhOGVhODYxMmQ3N2FjYmI4ZTkwYjYyZDM2MA&rlid=d4f6d1a8ea8612d77acbb8e90b62d360"
     },
     {
-      "url": "https://quietcoolsystems.com/whole-house-fans-are-they-dangerous/",
-      "title": "WHOLE HOUSE FANS: ARE THEY DANGEROUS? - QuietCool Systems"
+      "title": "Are Whole House Fans Dangerous? - InterNACHI\u00ae\ufe0f Forum",
+      "url": "https://forum.nachi.org/t/are-whole-house-fans-dangerous/51434"
     },
     {
-      "url": "https://www.wholehousefan.com/blogs/wholehousefans/do-s-and-don-ts-of-whole-house-fans",
-      "title": "Do\u2019s and Don\u2019ts of Whole House Fans"
+      "title": "WHOLE HOUSE FANS: ARE THEY DANGEROUS? - QuietCool Systems",
+      "url": "https://quietcoolsystems.com/whole-house-fans-are-they-dangerous/"
     },
     {
-      "url": "https://www.energy.gov/energysaver/cooling-whole-house-fan",
-      "title": "Cooling with a Whole House Fan | Department of Energy"
+      "title": "Do\u2019s and Don\u2019ts of Whole House Fans",
+      "url": "https://www.wholehousefan.com/blogs/wholehousefans/do-s-and-don-ts-of-whole-house-fans"
+    },
+    {
+      "title": "Cooling with a Whole House Fan | Department of Energy",
+      "url": "https://www.energy.gov/energysaver/cooling-whole-house-fan"
     }
   ],
   "mask for wildfire smoke n95 vs p100": [
     {
-      "url": "https://www.jurassiccarbon.com/blogs/news/if-you-must-go-outside-wear-an-n95-or-p100-mask-to-protect-your-lungs-in-wildfire-smoke-area",
-      "title": "If you must go outside, wear an N 95 or P 100 mask ... - Jurassic Carbon"
+      "title": "If you must go outside, wear an N 95 or P 100 mask ... - Jurassic Carbon",
+      "url": "https://www.jurassiccarbon.com/blogs/news/if-you-must-go-outside-wear-an-n95-or-p100-mask-to-protect-your-lungs-in-wildfire-smoke-area"
     },
     {
-      "url": "https://www.epa.gov/sites/default/files/2018-11/documents/respiratory_protection-no-niosh-5081.pdf",
-      "title": "This Protect Your Lungs from Wildfire Smoke"
+      "title": "This Protect Your Lungs from Wildfire Smoke",
+      "url": "https://www.epa.gov/sites/default/files/2018-11/documents/respiratory_protection-no-niosh-5081.pdf"
     },
     {
-      "url": "https://www.youtube.com/watch?v=7N1MSiQ7FLc",
-      "title": "Wildfire masks : How to best protect yourself from smoke - YouTube"
+      "title": "Wildfires in Northwest California | California Air Resources Board",
+      "url": "https://ww2.arb.ca.gov/news/wildfires-northwest-california"
+    },
+    {
+      "title": "Wildfire masks : How to best protect yourself from smoke - YouTube",
+      "url": "https://www.youtube.com/watch?v=7N1MSiQ7FLc"
+    },
+    {
+      "title": "Best air purifiers to protect yourself from wildfire smoke at home",
+      "url": "https://www.news10.com/reviews/br/home-br/heating-cooling-air-quality-br/how-to-safely-clear-wildfire-smoke-from-your-home/432/"
     }
   ],
   "elastomeric respirator wildfire filters": [
     {
-      "url": "https://cleanaircrew.org/elastomeric-respirators/",
-      "title": "Elastomeric Respirators - Clean Air Crew"
+      "title": "N95 respirator - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/N95_respirator"
     },
     {
-      "url": "https://ohsonline.com/articles/2023/05/01/the-advantages-and-importance-of-elastomeric-respirators.aspx",
-      "title": "The Advantages and Importance of Elastomeric Respirators ..."
+      "title": "Elastomeric Respirators - Clean Air Crew",
+      "url": "https://cleanaircrew.org/elastomeric-respirators/"
     },
     {
-      "url": "https://www.wikiwand.com/en/articles/Mechanical_filter_(respirator)",
-      "title": "Mechanical filter ( respirator ) - Wikiwand"
+      "title": "The Advantages and Importance of Elastomeric Respirators ...",
+      "url": "https://ohsonline.com/articles/2023/05/01/the-advantages-and-importance-of-elastomeric-respirators.aspx"
     },
     {
-      "url": "https://www.cdc.gov/niosh/ppe/php/community-respirators-masks/types-of-respirators-and-masks.html",
-      "title": "Respirators and Mask Types and Performance | Personal... | CDC"
+      "title": "Mechanical filter ( respirator ) - Wikiwand",
+      "url": "https://www.wikiwand.com/en/articles/Mechanical_filter_(respirator)"
+    },
+    {
+      "title": "Respirators and Mask Types and Performance | Personal... | CDC",
+      "url": "https://www.cdc.gov/niosh/ppe/php/community-respirators-masks/types-of-respirators-and-masks.html"
     }
   ],
   "mask fit test tips glasses anti fog": [
     {
-      "url": "https://www.nytimes.com/article/glasses-fog-wearing-mask-coronavirus.html",
-      "title": "Help! My Mask Fogs My Glasses - The New York Times"
+      "title": "Help! My Mask Fogs My Glasses - The New York Times",
+      "url": "https://www.nytimes.com/article/glasses-fog-wearing-mask-coronavirus.html"
     },
     {
-      "url": "https://www.post-gazette.com/life/lifestyle/2020/04/14/face-mask-glasses-fogging-tips-avoid-fog-wearing-coronavirus-COVID-19-masks/stories/202004130045",
-      "title": "5 tips to avoid foggy glasses while wearing a face mask"
+      "title": "5 tips to avoid foggy glasses while wearing a face mask",
+      "url": "https://www.post-gazette.com/life/lifestyle/2020/04/14/face-mask-glasses-fogging-tips-avoid-fog-wearing-coronavirus-COVID-19-masks/stories/202004130045"
     },
     {
-      "url": "https://www.glamour.com/story/anti-fog-glasses",
-      "title": "Wearing a Face Mask ? These Anti - Fog Sprays and Soaps... | Glamour"
+      "title": "Wearing a Face Mask ? These Anti - Fog Sprays and Soaps... | Glamour",
+      "url": "https://www.glamour.com/story/anti-fog-glasses"
     },
     {
-      "url": "https://www.lensmartonline.com/hu/blog/eyeglasses-lenses/details/useful-ways-to-stop-your-glasses-lenses-from-fogging-up/",
-      "title": "How to stop glasses lenses from fogging up: 4 useful tips - Lensmart"
+      "title": "How to stop glasses lenses from fogging up: 4 useful tips - Lensmart",
+      "url": "https://www.lensmartonline.com/hu/blog/eyeglasses-lenses/details/useful-ways-to-stop-your-glasses-lenses-from-fogging-up/"
     },
     {
-      "url": "https://www.cbc.ca/news/canada/ottawa/foggy-glasses-tips-winter-masks-1.5828969",
-      "title": "Ottawa optometrist shares tips for masking up without foggy glasses"
+      "title": "Ottawa optometrist shares tips for masking up without foggy glasses",
+      "url": "https://www.cbc.ca/news/canada/ottawa/foggy-glasses-tips-winter-masks-1.5828969"
     }
   ],
   "asthma action plan wildfire smoke": [
     {
-      "url": "https://centreforlunghealth.ca/wildfire-smoke-and-extreme-heat-action-plan/",
-      "title": "Wildfire Smoke and Extreme Heat Action Plan - Centre for Lung Health"
+      "title": "Wildfire Safety: Prepare for Smoke and Evacuations",
+      "url": "https://lunghealth.ca/before-the-blaze-5-wildfire-preparation-tips-from-the-lung-health-foundation/"
     },
     {
-      "url": "https://news.llu.edu/health-wellness/wildfire-season-approaches-doctors-warn-parents-be-ready-asthma-flare-ups",
-      "title": "As wildfire season approaches, doctors warn parents to be... | News"
+      "title": "Wildfire Smoke and Extreme Heat Action Plan - Centre for Lung Health",
+      "url": "https://centreforlunghealth.ca/wildfire-smoke-and-extreme-heat-action-plan/"
     },
     {
-      "url": "https://mwent.net/when-air-quality-drops-tips-for-managing-asthma-during-wildfire-season/",
-      "title": "When Air Quality Drops: Tips for Managing Asthma During Wildfire ..."
+      "title": "As wildfire season approaches, doctors warn parents to be... | News",
+      "url": "https://news.llu.edu/health-wellness/wildfire-season-approaches-doctors-warn-parents-be-ready-asthma-flare-ups"
+    },
+    {
+      "title": "When Air Quality Drops: Tips for Managing Asthma During Wildfire ...",
+      "url": "https://mwent.net/when-air-quality-drops-tips-for-managing-asthma-during-wildfire-season/"
+    },
+    {
+      "title": "Canadian wildfire smoke poses health risk in New England",
+      "url": "https://www.bostonglobe.com/2025/08/06/metro/massachusetts-air-quality-worsens-expert-tips-staying-safe-indoors-out/"
     }
   ],
   "dog walking safe aqi level": [
     {
-      "url": "https://air.plumelabs.com/learn/en/what-is-an-aqi",
-      "title": "What is an Air Quality Index ( AQI )?"
-    }
-  ],
-  "breathable hours this week Portland": [],
-  "uv index today Portland": [
-    {
-      "url": "https://meteum.ai/weather/en/portland-state-of-maine/uv-index/day-2",
-      "title": "UV index forecast in Portland , State of Maine, United States"
+      "title": "World Air Quality Index ( AQI ) Ranking | IQAir",
+      "url": "https://www.iqair.com/world-air-quality-ranking"
     },
     {
-      "url": "https://uvindex.today/cities/portland-us",
-      "title": "Live UV Index in Portland Today & Hourly Forecast"
+      "title": "Tashkent Air Quality Index ( AQI ) : Real-Time Air Pollution",
+      "url": "https://www.aqi.in/uk/dashboard/uzbekistan/toshkent/tashkent"
+    },
+    {
+      "title": "What is an Air Quality Index ( AQI )?",
+      "url": "https://air.plumelabs.com/learn/en/what-is-an-aqi"
+    },
+    {
+      "title": "SAFE Funkstation Simmerstatt, Austria Air Pollution: Real-time Air ...",
+      "url": "https://aqicn.org/city/austria/safe-funkstation-simmerstatt/"
+    },
+    {
+      "title": "All major Indian cities recorded unsafe AQI , Bengaluru least affected...",
+      "url": "https://thefederal.com/category/news/india-air-pollution-study-no-city-safe-aqi-decade-218389"
+    }
+  ],
+  "breathable hours this week Portland": [
+    {
+      "title": "South Portland , ME Tide Charts, High & Low Tide Table, Fishing Times",
+      "url": "https://www.tideschart.com/United-States/Maine/Cumberland-County/South-Portland/"
+    },
+    {
+      "title": "$148 Flights from Portland (PDX) to Honolulu (HNL) | Skyscanner",
+      "url": "https://www.skyscanner.com/routes/pdx/hnl/portland-to-honolulu-international.html"
+    },
+    {
+      "title": "This Week In Portland Food News: Rangoon... - EverOut Portland",
+      "url": "https://everout.com/portland/articles/this-week-in-portland-food-news-rangoon-bistro-opens-a-new-wine-shop-and-deli-arrives-and-cafe-ponte-says-goodbye/c4151/"
+    },
+    {
+      "title": "Portland Hole | TikTok",
+      "url": "https://www.tiktok.com/discover/portland-hole"
+    },
+    {
+      "title": "Portland OR Weather: Wintry mix likely Tuesday, potential Portland ...",
+      "url": "https://www.koin.com/news/wintry-mix-potential-portland-road-impacts-mid-week-02042025/"
+    }
+  ],
+  "uv index today Portland": [
+    {
+      "title": "Ultraviolet index - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ultraviolet_index"
+    },
+    {
+      "title": "UV index forecast in Portland , State of Maine, United States",
+      "url": "https://meteum.ai/weather/en/portland-state-of-maine/uv-index/day-2"
+    },
+    {
+      "title": "Live UV Index in Portland Today & Hourly Forecast",
+      "url": "https://uvindex.today/cities/portland-us"
+    },
+    {
+      "title": "Moscow UV Index Today",
+      "url": "https://www.uvindex.app/moscow"
+    },
+    {
+      "title": "Ultraviolet Index in Dubai (United Arab Emirates) - UV for hours",
+      "url": "https://en.tutiempo.net/ultraviolet-index/dubai.html"
     }
   ],
   "wind direction gorge east wind forecast": [
     {
-      "url": "https://zoom.earth/maps/wind-speed/",
-      "title": "Interactive wind speed map. Shows global forecasted surface winds ."
+      "title": "Flaming gorge Wind Forecast : wind speed & gusts \u2014 Windy .app",
+      "url": "https://windy.app/forecast2/spot/411483/Flaming+gorge"
     },
     {
-      "url": "https://thegorgeismygym.com/thursday-gorge-wind-forecast-big-day-on-tap/",
-      "title": "Thursday Gorge wind forecast : big day on tap! - The Gorge Is My Gym"
+      "title": "Interactive wind speed map. Shows global forecasted surface winds .",
+      "url": "https://zoom.earth/maps/wind-speed/"
     },
     {
-      "url": "https://earth.nullschool.net/",
-      "title": "earth :: a global map of wind , weather, and ocean conditions"
+      "title": "Thursday Gorge wind forecast : big day on tap! - The Gorge Is My Gym",
+      "url": "https://thegorgeismygym.com/thursday-gorge-wind-forecast-big-day-on-tap/"
+    },
+    {
+      "title": "Oregon Columbia River Gorge",
+      "url": "https://www.windsurforegon.com/oregon-columbia-gorge"
+    },
+    {
+      "title": "earth :: a global map of wind , weather, and ocean conditions",
+      "url": "https://earth.nullschool.net/"
     }
   ],
   "marine layer forecast Portland": [
     {
-      "url": "https://www.weather.gov/marine/pqrmz",
-      "title": "Coastal Marine Forecasts by Zone - Portland, OR"
+      "title": "Coastal Marine Forecasts by Zone - Portland, OR",
+      "url": "https://www.weather.gov/marine/pqrmz"
     },
     {
-      "url": "https://www.ndbc.noaa.gov/data/Forecasts/FZUS56.KPQR.html",
-      "title": "National Weather Service Marine Forecast FZUS56 KPQR"
+      "title": "National Weather Service Marine Forecast FZUS56 KPQR",
+      "url": "https://www.ndbc.noaa.gov/data/Forecasts/FZUS56.KPQR.html"
     },
     {
-      "url": "https://www.myforecast.com/marine.php?cwid=KPDX&metric=true",
-      "title": "Portland, OR Marine Forecast | Current Conditions | NWS ..."
+      "title": "Portland, OR Marine Forecast | Current Conditions | NWS ...",
+      "url": "https://www.myforecast.com/marine.php?cwid=KPDX&metric=true"
     },
     {
-      "url": "https://myforecast.co/bin/marine_forecast.m?city=KPDX&metric=true",
-      "title": "Portland - Portland International Airport, OR Marine Forecast"
+      "title": "Portland - Portland International Airport, OR Marine Forecast",
+      "url": "https://myforecast.co/bin/marine_forecast.m?city=KPDX&metric=true"
+    },
+    {
+      "title": "Portland Bay Marine Weather & Wind Forecast - Buoyweather",
+      "url": "https://www.buoyweather.com/forecast/marine-weather/spot/Portland+Bay/@-38.457,141.848"
     }
   ],
   "columbia gorge smoke transport timing": [
     {
-      "url": "https://smokereadygorge.org/",
-      "title": "Home - SMOKE READY GORGE"
+      "title": "Home - SMOKE READY GORGE",
+      "url": "https://smokereadygorge.org/"
     },
     {
-      "url": "https://www.facebook.com/groups/ColumbiaGorge.WildlandFireInfo/",
-      "title": "Columbia Gorge Wildland & Fire Information Page - Facebook"
+      "title": "Columbia Gorge Wildland & Fire Information Page - Facebook",
+      "url": "https://www.facebook.com/groups/ColumbiaGorge.WildlandFireInfo/"
     },
     {
-      "url": "https://extension.oregonstate.edu/node/226096",
-      "title": "Smoke Ready Gorge | OSU Extension Service"
+      "title": "Smoke Ready Gorge | OSU Extension Service",
+      "url": "https://extension.oregonstate.edu/node/226096"
     },
     {
-      "url": "https://www.fs.usda.gov/r06/columbiarivergorge/fire/info",
-      "title": "Columbia River Gorge National Scenic Area | Incident ..."
+      "title": "Tracking wildfire smoke on another dry day | News | kxly.com",
+      "url": "https://www.kxly.com/news/tracking-wildfire-smoke-on-another-dry-day/article_5049346e-fcf7-4f45-a4c7-2834ee865342.html"
+    },
+    {
+      "title": "Columbia River Gorge National Scenic Area | Incident ...",
+      "url": "https://www.fs.usda.gov/r06/columbiarivergorge/fire/info"
     }
   ],
   "nws afd pqr discussion": [
     {
-      "url": "https://mesonet.agron.iastate.edu/p.php?pid=202512061444-KPQR-FXUS66-AFDPQR-AAA",
-      "title": "IEM :: AFD from NWS PQR - mesonet.agron.iastate.edu"
+      "title": "IEM :: AFD from NWS PQR - mesonet.agron.iastate.edu",
+      "url": "https://mesonet.agron.iastate.edu/p.php?pid=202512061444-KPQR-FXUS66-AFDPQR-AAA"
     },
     {
-      "url": "https://forecast.weather.gov/product.php?site=PQR&issuedby=PQR&product=AFD&format=CI&version=1&glossary=1",
-      "title": "National Weather Service National Weather Service Local Text Products - National Weather Service Area Forecast Discussion - National Weather Service PQR Briefings and Information - National Weather Service"
+      "title": "National Weather Service National Weather Service Local Text Products - National Weather Service Area Forecast Discussion - National Weather Service PQR Briefings and Information - National Weather Service",
+      "url": "https://forecast.weather.gov/product.php?site=PQR&issuedby=PQR&product=AFD&format=CI&version=1&glossary=1"
     },
     {
-      "url": "https://forecast.weather.gov/product.php?site=PQR&issuedby=PQR&product=AFD&format=CI&version=2&glossary=1",
-      "title": "National Weather Service"
+      "title": "Area Forecast Discussion - National Weather Service",
+      "url": "https://forecast.weather.gov/product_sites.php?site=CRH&product=AFD"
+    },
+    {
+      "title": "PQR Briefings and Information - National Weather Service",
+      "url": "https://www.weather.gov/pqr/briefing"
+    },
+    {
+      "title": "National Weather Service",
+      "url": "https://forecast.weather.gov/product.php?site=PQR&issuedby=PQR&product=AFD&format=CI&version=2&glossary=1"
     }
   ],
   "windy hrrr smoke overlay": [
     {
-      "url": "https://community.windy.com/topic/40083/add-hrrr-smoke/2",
-      "title": "Add HRRR smoke ! @ Windy Community"
+      "title": "smoke _forecast",
+      "url": "https://www.weather.gov/mfr/smoke_forecast"
     },
     {
-      "url": "https://github.com/ludios/hrrr-windy",
-      "title": "GitHub - ludios/ hrrr - windy : Userscript to default to the 3km resolution..."
+      "title": "Add HRRR smoke ! @ Windy Community",
+      "url": "https://community.windy.com/topic/40083/add-hrrr-smoke/2"
+    },
+    {
+      "title": "HRRR - Smoke Graphics",
+      "url": "https://rapidrefresh.noaa.gov/hrrr/HRRRsmokeold/"
+    },
+    {
+      "title": "Which Way Will the Smoke Go?",
+      "url": "https://www.earthobservatory.nasa.gov/images/144190/which-way-will-the-smoke-go"
+    },
+    {
+      "title": "GitHub - ludios/ hrrr - windy : Userscript to default to the 3km resolution...",
+      "url": "https://github.com/ludios/hrrr-windy"
     }
   ],
   "meteoblue air quality Portland": [
     {
-      "url": "https://www.meteoblue.com/en/weather/outdoorsports/airquality/portland_united-states_5746545",
-      "title": "Air Quality & Pollen Forecast for Portland - meteoblue"
+      "title": "Air Quality & Pollen Forecast for Portland - meteoblue",
+      "url": "https://www.meteoblue.com/en/weather/outdoorsports/airquality/portland_united-states_5746545"
+    },
+    {
+      "title": "Portland Air Quality Index (AQI) and USA Air Pollution | IQAir Portland, Oregon, USA Air Pollution: Real-time Air Quality Index Portland, OR Air Quality Index | AccuWeather Air Quality in Portland \u2013 Clean Air Initiative \u2013 AQI Data ... Portland Air Quality Index (AQI) : Real-Time Air Pollution Portland, Oregon Real-Time Interactive Map by PurpleAir",
+      "url": "https://www.iqair.com/us/usa/oregon/portland"
+    },
+    {
+      "title": "Portland, Oregon, USA Air Pollution: Real-time Air Quality Index",
+      "url": "https://aqicn.org/city/usa/oregon/portland/"
+    },
+    {
+      "title": "Portland, OR Air Quality Index | AccuWeather",
+      "url": "https://www.accuweather.com/en/us/portland/97209/air-quality-index/350473"
+    },
+    {
+      "title": "Air Quality in Portland \u2013 Clean Air Initiative \u2013 AQI Data ...",
+      "url": "https://cleanairinitiative.org/aqi/portland/"
     }
   ],
   "ventusky pm2.5 west coast": [
     {
-      "url": "https://www.ventusky.com/?p=52.0;85.3;5&l=temperature-5cm",
-      "title": "Temperature - 5 cm above ground \u2013 Ventusky"
+      "title": "Temperature - 5 cm above ground \u2013 Ventusky",
+      "url": "https://www.ventusky.com/?p=52.0;85.3;5&l=temperature-5cm"
     },
     {
-      "url": "https://apps.apple.com/cz/app/ventusky-weather-live-radar/id1280984498",
-      "title": "Ventusky : Weather & Live Radar App - App Store"
+      "title": "Ventusky : Weather & Live Radar App - App Store",
+      "url": "https://apps.apple.com/cz/app/ventusky-weather-live-radar/id1280984498"
+    },
+    {
+      "title": "An ominous map shows the entire West Coast with the worst air...",
+      "url": "https://www.tarbabys.com/an-ominous-map-shows-the-entire-west-coast-with-the-worst-air-quality-on-earth-as-historic-wildfires-spew-smoke"
+    },
+    {
+      "title": "Ventusky 50: \u010desk\u00e1 aplikace v nov\u00e9m designu s p\u0159ehledn\u011bj\u0161\u00edmi...",
+      "url": "https://androidmagazine.eu/2025/12/11/ventusky-50-ceska-aplikace-v-novem-designu-s-prehlednejsimi-meteorologickymi-informacemi/"
+    },
+    {
+      "title": "7 Weather Maps: How To Check the Weather in Style",
+      "url": "https://gisgeography.com/global-weather-maps/"
     }
   ],
   "openaq api portland query": [
     {
-      "url": "https://docs.openaq.org/using-the-api/geospatial",
-      "title": "Geospatial queries | OpenAQ Docs"
+      "title": "Geospatial queries | OpenAQ Docs",
+      "url": "https://docs.openaq.org/using-the-api/geospatial"
     },
     {
-      "url": "https://github.com/openaq/openaq-api-v2",
-      "title": "GitHub - openaq/openaq-api-v2: OpenAQ API OpenAQ API Docs | OpenAQ Docs Geospatial Queries \u2022 openaq GitHub - openaq/docs.openaq.org: OpenAQ API Documentation site OpenAQ API \u2014 Free Public API | Public APIs Directory Geospatial Queries \u2022 openaq Introduction - OpenAQ Examples | OpenAQ Docs Examples | OpenAQ Docs"
+      "title": "OpenAQ API \u2014 Free Public API | Public APIs Directory",
+      "url": "https://publicapis.io/open-aq-api"
     },
     {
-      "url": "https://docs.openaq.org/",
-      "title": "OpenAQ API Docs | OpenAQ Docs"
+      "title": "GitHub - openaq/openaq-api-v2: OpenAQ API OpenAQ API Docs | OpenAQ Docs Geospatial Queries \u2022 openaq GitHub - openaq/docs.openaq.org: OpenAQ API Documentation site OpenAQ API \u2014 Free Public API | Public APIs Directory Geospatial Queries \u2022 openaq Introduction - OpenAQ Examples | OpenAQ Docs Examples | OpenAQ Docs",
+      "url": "https://github.com/openaq/openaq-api-v2"
+    },
+    {
+      "title": "OpenAQ API Docs | OpenAQ Docs",
+      "url": "https://docs.openaq.org/"
+    },
+    {
+      "title": "Geospatial Queries \u2022 openaq",
+      "url": "https://openaq.github.io/openaq-r/articles/geospatial-queries.html"
     }
   ],
   "airnow api key apply": [
     {
-      "url": "https://docs.airnowapi.org/faq",
-      "title": "AirNow API Documentation"
+      "title": "GitHub - prsantos-com/ airnow -mcp-server: The unofficial AirNow MCP...",
+      "url": "https://github.com/prsantos-com/airnow-mcp-server"
+    },
+    {
+      "title": "AirNow API Documentation",
+      "url": "https://docs.airnowapi.org/faq"
+    },
+    {
+      "title": "AirNow MCP Server | Glama",
+      "url": "https://glama.ai/mcp/servers/@prsantos-com/airnow-mcp-server"
+    },
+    {
+      "title": "Instructions on how to integrate AirNow within Home Assistant.",
+      "url": "https://www.home-assistant.io/integrations/airnow/"
+    },
+    {
+      "title": "A lightweight Python wrapper for EPA AirNow Air Quality API",
+      "url": "https://pypi.org/project/pyairnow/"
     }
   ],
   "ecmwf opendata access tiles": [
     {
-      "url": "https://www.ecmwf.int/en/forecasts/datasets/open-data",
-      "title": "Open data - ECMWF"
+      "title": "Open data - ECMWF",
+      "url": "https://www.ecmwf.int/en/forecasts/datasets/open-data"
     },
     {
-      "url": "https://pypi.org/project/ecmwf-opendata/",
-      "title": "ecmwf-opendata \u00b7 PyPI"
+      "title": "ecmwf-opendata \u00b7 PyPI",
+      "url": "https://pypi.org/project/ecmwf-opendata/"
     },
     {
-      "url": "https://github.com/ecmwf/ecmwf-opendata?search=1",
-      "title": "ecmwf-opendata/ at main \u00b7 ecmwf/ecmwf-opendata \u00b7 GitHub"
+      "title": "ecmwf-opendata/ at main \u00b7 ecmwf/ecmwf-opendata \u00b7 GitHub",
+      "url": "https://github.com/ecmwf/ecmwf-opendata?search=1"
     },
     {
-      "url": "https://www.ecmwf.int/en/forecasts/access-forecasts/access-real-time-open-data",
-      "title": "Access to real-time open data - ECMWF"
+      "title": "Access to real-time open data - ECMWF",
+      "url": "https://www.ecmwf.int/en/forecasts/access-forecasts/access-real-time-open-data"
+    },
+    {
+      "title": "ECMWF Open Data \u2014 Herbie 2023.12.0 documentation",
+      "url": "https://herbie.readthedocs.io/en/2023.12.0/user_guide/_model_notebooks/ecmwf.html"
     }
   ],
   "hysplit trajectory smoke tutorial": [
     {
-      "url": "https://www.ready.noaa.gov/HYSPLIT.php",
-      "title": "Air Resources Laboratory - HYSPLIT - Hybrid Single Particle..."
+      "title": "HYSPLIT - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HYSPLIT"
     },
     {
-      "url": "https://www.weather.gov/media/fire/HYSPLIT_one_page.pdf",
-      "title": "HYSPLIT Trajectory Model Products in Spot Weather Forecasts"
+      "title": "Air Resources Laboratory - HYSPLIT - Hybrid Single Particle...",
+      "url": "https://www.ready.noaa.gov/HYSPLIT.php"
     },
     {
-      "url": "https://www.mce2.org/wmogurme/images/workshops/ASEAN/day1/saide/HYSPLIT.pdf",
-      "title": "HYSPLIT"
+      "title": "HYSPLIT Trajectory Model Products in Spot Weather Forecasts",
+      "url": "https://www.weather.gov/media/fire/HYSPLIT_one_page.pdf"
+    },
+    {
+      "title": "HYSPLIT",
+      "url": "https://www.mce2.org/wmogurme/images/workshops/ASEAN/day1/saide/HYSPLIT.pdf"
+    },
+    {
+      "title": "APSI - Modeling - Wildfire Smoke - Basic",
+      "url": "https://www.apsi.tech/modeling_wildfiresmoke_basic.html"
     }
   ],
   "viirs fire detections near Portland": [
     {
-      "url": "https://firms.modaps.eosdis.nasa.gov/usfs/active_fire/",
-      "title": "NASA | LANCE | FIRMS US/Canada - Active Fire Data"
+      "title": "NASA | LANCE | FIRMS US/Canada - Active Fire Data",
+      "url": "https://firms.modaps.eosdis.nasa.gov/usfs/active_fire/"
     },
     {
-      "url": "https://www.arcgis.com/home/item.html?id=dece90af1a0242dcbf0ca36d30276aa3",
-      "title": "Satellite (VIIRS) Thermal Hotspots and Fire Activity"
+      "title": "VIIRS Satellite Thermal Hotspots Map: Real-Time Fire ...",
+      "url": "https://mapscaping.com/map-real-time-fire-detection/"
     },
     {
-      "url": "https://drupal.oregonexplorer.info/content/fire-map-viirsmodis-satellite-detections-and-usa-smoke-forecast",
-      "title": "Fire Map with VIIRS/MODIS Satellite Detections and USA Smoke ..."
+      "title": "Satellite (VIIRS) Thermal Hotspots and Fire Activity",
+      "url": "https://www.arcgis.com/home/item.html?id=dece90af1a0242dcbf0ca36d30276aa3"
+    },
+    {
+      "title": "Fire Information for Resource Management System (FIRMS ... - CISA",
+      "url": "https://www.cisa.gov/mts-resilience-resources/fire-information-resource-management-system-firms-uscanada"
+    },
+    {
+      "title": "Fire Map with VIIRS/MODIS Satellite Detections and USA Smoke ...",
+      "url": "https://drupal.oregonexplorer.info/content/fire-map-viirsmodis-satellite-detections-and-usa-smoke-forecast"
     }
   ],
   "goes fire temperature rgb how to": [
     {
-      "url": "https://www.star.nesdis.noaa.gov/GOES/documents/QuickGuide_Fire_Temperature_RGB.pdf",
-      "title": "Fire Temperature RGB"
+      "title": "Fire Temperature RGB",
+      "url": "https://www.star.nesdis.noaa.gov/GOES/documents/QuickGuide_Fire_Temperature_RGB.pdf"
     },
     {
-      "url": "https://user.eumetsat.int/resources/user-guides/fire-temperature-rgb-quick-guide",
-      "title": "Fire Temperature RGB Quick Guide | EUMETSAT - User Portal"
+      "title": "Fire Temperature RGB Quick Guide | EUMETSAT - User Portal",
+      "url": "https://user.eumetsat.int/resources/user-guides/fire-temperature-rgb-quick-guide"
     },
     {
-      "url": "https://eroglumit.medium.com/goes-r-fire-temperature-rgb-quick-guide-058a9d243bad",
-      "title": "GOES-R, Fire Temperature RGB Quick Guide - Medium"
+      "title": "GOES-R, Fire Temperature RGB Quick Guide - Medium",
+      "url": "https://eroglumit.medium.com/goes-r-fire-temperature-rgb-quick-guide-058a9d243bad"
     },
     {
-      "url": "https://www.reddit.com/r/amateursatellites/comments/xlbadi/goes_16_fire_rgb_homebrew/",
-      "title": "GOES 16 fire RGB homebrew? : r/amateursatellites - Reddit"
+      "title": "GOES-R fire detection and characterization fact sheet",
+      "url": "https://www.goes-r.gov/education/docs/fs_fire.pdf"
+    },
+    {
+      "title": "GOES 16 fire RGB homebrew? : r/amateursatellites - Reddit",
+      "url": "https://www.reddit.com/r/amateursatellites/comments/xlbadi/goes_16_fire_rgb_homebrew/"
     }
   ],
   "noaa radar wmts url": [
     {
-      "url": "https://radar.weather.gov/",
-      "title": "NWS Radar"
+      "title": "Proposed Cookbook: Web Map Tile Services ( WMTS )... - Pangeo",
+      "url": "https://discourse.pangeo.io/t/proposed-cookbook-web-map-tile-services-wmts/3505"
     },
     {
-      "url": "https://github.com/UNCG-DAISY/StormImpactMap/issues/5",
-      "title": "display a leaflet map with NOAA images (Via web map tiles ...)"
+      "title": "NWS Radar",
+      "url": "https://radar.weather.gov/"
+    },
+    {
+      "title": "NOAA Hurricane Tracking: Live Radar & Storm Updates",
+      "url": "https://iwow.com.kz/blog/noaa-hurricane-tracking-live-radar"
+    },
+    {
+      "title": "UK rainfall radar map - Met Office",
+      "url": "https://weather.metoffice.gov.uk/maps-and-charts/rainfall-radar-forecast-map"
+    },
+    {
+      "title": "display a leaflet map with NOAA images (Via web map tiles ...)",
+      "url": "https://github.com/UNCG-DAISY/StormImpactMap/issues/5"
     }
   ],
   "cache radar tiles raspberry pi": [
     {
-      "url": "https://github.com/mypiaware/virtual-radar-server-installation/blob/master/README.md",
-      "title": "virtual-radar-server-installation/README.md at master ..."
+      "title": "Raspberry Pi Radar Project - ElectronicsHacks",
+      "url": "https://electronicshacks.com/raspberry-pi-radar-project/"
+    },
+    {
+      "title": "virtual-radar-server-installation/README.md at master ...",
+      "url": "https://github.com/mypiaware/virtual-radar-server-installation/blob/master/README.md"
+    },
+    {
+      "title": "How to Make Hommade Raspberry Pi Radar? \u2013 Picobricks",
+      "url": "https://picobricks.com/blogs/robotic-stem-projects/how-to-make-raspberry-pi-radar"
+    },
+    {
+      "title": "Using mmWave Radar to Detect and Track Humans | Raspberry Pi ...",
+      "url": "https://core-electronics.com.au/guides/using-mmwave-radar-to-detect-and-track-humans-raspberry-pi-guide/"
+    },
+    {
+      "title": "Bake a Pi - AirNav Radarbox",
+      "url": "https://forum.airnavradar.com/index.php?topic=10201.0"
     }
   ],
   "mbtiles create from wmts": [
     {
-      "url": "https://gis.stackexchange.com/questions/457010/generate-mbtiles-from-wmts-with-gdal",
-      "title": "python - Generate MBTiles from WMTS with GDAL - Geographic ..."
+      "title": "python - Generate MBTiles from WMTS with GDAL - Geographic ...",
+      "url": "https://gis.stackexchange.com/questions/457010/generate-mbtiles-from-wmts-with-gdal"
     },
     {
-      "url": "https://github.com/MerginMaps/docs/issues/140",
-      "title": "Using GDAL to create MBtiles from WMTS/WMS and rasters"
+      "title": "Using GDAL to create MBtiles from WMTS/WMS and rasters",
+      "url": "https://github.com/MerginMaps/docs/issues/140"
     },
     {
-      "url": "https://gdal.org/en/stable/drivers/raster/mbtiles.html",
-      "title": "MBTiles \u2014 GDAL documentation"
+      "title": "MBTiles \u2014 GDAL documentation",
+      "url": "https://gdal.org/en/stable/drivers/raster/mbtiles.html"
     },
     {
-      "url": "https://github.com/vokkim/wmts-to-mbtiles",
-      "title": "GitHub - vokkim/wmts-to-mbtiles: NodeJS utility to fetch map ..."
+      "title": "Generating MBTiles files with custom imagery - Vespucci GitHub - vokkim/wmts-to-mbtiles: NodeJS utility to fetch map ... Generate MBTiles from WMTS with GDAL \u2013 Geographic information ... Generating MBTiles files with custom imagery - Vespucci MBTiles \u2014 GDAL documentation Generating MBTiles files with custom imagery - Vespucci MBTiles \u2014 GDAL documentation Serve maps with TileServer GL \u2013 OpenMapTiles",
+      "url": "https://vespucci.io/tutorials/custom_imagery_mbtiles/"
+    },
+    {
+      "title": "GitHub - vokkim/wmts-to-mbtiles: NodeJS utility to fetch map ...",
+      "url": "https://github.com/vokkim/wmts-to-mbtiles"
     }
   ],
   "qgis heat island tutorial landsat 8": [
     {
-      "url": "https://semiautomaticclassificationmanual-v5.readthedocs.io/el/latest/thematic_tutorial_temperature.html",
-      "title": "5.2. Tutorial : Estimation of Land Surface Temperature with Landsat ..."
+      "title": "Google Earth Engine Tutorial : Detect Urban Heat Islands with...",
+      "url": "https://techgeo.org/detect-urban-heat-islands-with-landsat-8/"
+    },
+    {
+      "title": "QGIS Tutorial : Landsat 8 Pan-Sharpening [EN] - YouTube",
+      "url": "https://www.youtube.com/watch?v=tC8BeasDB5w"
+    },
+    {
+      "title": "7 GIS Methods to Map Urban Heat Islands That Reveal... - Map Library",
+      "url": "https://www.maplibrary.org/11090/how-to-map-urban-heat-islands-using-gis/"
+    },
+    {
+      "title": "5.2. Tutorial : Estimation of Land Surface Temperature with Landsat ...",
+      "url": "https://semiautomaticclassificationmanual-v5.readthedocs.io/el/latest/thematic_tutorial_temperature.html"
+    },
+    {
+      "title": "Synergizing Machine Learning and Remote Sensing for Urban Heat ...",
+      "url": "https://www.preprints.org/manuscript/202409.2284/v1"
     }
   ],
   "sentinel 2 urban tree canopy ndvi qgis": [
     {
-      "url": "https://www.youtube.com/watch?v=vpxVkYaWMno",
-      "title": "QGIS Remote Sensing - Calculate NDVI - YouTube"
+      "title": "QGIS Remote Sensing - Calculate NDVI - YouTube",
+      "url": "https://www.youtube.com/watch?v=vpxVkYaWMno"
     },
     {
-      "url": "https://gisgeography.com/sentinel-2-bands-combinations/",
-      "title": "Sentinel 2 Bands and Combinations - GIS Geography"
+      "title": "Sentinel 2 Bands and Combinations - GIS Geography",
+      "url": "https://gisgeography.com/sentinel-2-bands-combinations/"
     },
     {
-      "url": "https://gis.elsenburg.com/apps/s2v/",
-      "title": "Sentinel - 2 Viewer"
+      "title": "Sentinel - 2 Viewer",
+      "url": "https://gis.elsenburg.com/apps/s2v/"
     },
     {
-      "url": "https://www.researchgate.net/publication/381143899_Monitoring_drought_impacts_on_street_trees_using_remote_sensing_-_Disentangling_temporal_and_species-specific_response_patterns_with_Sentinel-2_imagery",
-      "title": "(PDF) Monitoring drought impacts on street trees using remote sensing..."
+      "title": "Satisfaction with urban trees associates with tree canopy cover and...",
+      "url": "https://www.researchsquare.com/article/rs-2511683/v1"
+    },
+    {
+      "title": "(PDF) Monitoring drought impacts on street trees using remote sensing...",
+      "url": "https://www.researchgate.net/publication/381143899_Monitoring_drought_impacts_on_street_trees_using_remote_sensing_-_Disentangling_temporal_and_species-specific_response_patterns_with_Sentinel-2_imagery"
     }
   ],
   "modis lst vs landsat lst urban": [
     {
-      "url": "https://ntrs.nasa.gov/citations/20170003281",
-      "title": "Using Landsat, MODIS, and a Biophysical Model to Evaluate LST ..."
+      "title": "Using Landsat, MODIS, and a Biophysical Model to Evaluate LST ...",
+      "url": "https://www.mdpi.com/2072-4292/8/11/952"
     },
     {
-      "url": "https://www.researchgate.net/figure/Comparison-between-Landsat-and-MODIS-surface-temperature_tbl1_260631636",
-      "title": "Comparison between Landsat and MODIS surface temperature."
+      "title": "Comparison between Landsat and MODIS surface temperature.",
+      "url": "https://www.researchgate.net/figure/Comparison-between-Landsat-and-MODIS-surface-temperature_tbl1_260631636"
     },
     {
-      "url": "https://ntrs.nasa.gov/citations/20170003281",
-      "title": "Using Landsat, MODIS, and a Biophysical Model to Evaluate LST ..."
+      "title": "Using Landsat, MODIS, and a Biophysical Model to Evaluate LST ...",
+      "url": "https://pdfs.semanticscholar.org/65ca/a14fe6710532d30ba8f7d4523e13934d9bb8.pdf"
     },
     {
-      "url": "https://ntrs.nasa.gov/citations/20170003281",
-      "title": "Using Landsat, MODIS, and a Biophysical Model to Evaluate LST ..."
+      "title": "Using Landsat, MODIS, and a Biophysical Model to Evaluate LST ...",
+      "url": "https://ntrs.nasa.gov/citations/20170003281"
     },
     {
-      "url": "https://www.researchgate.net/publication/371505805_Cross_Comparison_Between_Landsat_New_Land_Surface_Temperature_Product_and_the_Corresponding_MODIS_Product",
-      "title": "(PDF) Cross Comparison Between Landsat New Land Surface ..."
+      "title": "(PDF) Cross Comparison Between Landsat New Land Surface ...",
+      "url": "https://www.researchgate.net/publication/371505805_Cross_Comparison_Between_Landsat_New_Land_Surface_Temperature_Product_and_the_Corresponding_MODIS_Product"
     }
   ],
   "mapbox colorblind safe palette": [
     {
-      "url": "https://www.nceas.ucsb.edu/sites/default/files/2022-06/Colorblind+Safe+Color+Schemes.pdf",
-      "title": "Colorblind Safe Color Schemes"
+      "title": "Colorblind Safe Color Schemes",
+      "url": "https://www.nceas.ucsb.edu/sites/default/files/2022-06/Colorblind+Safe+Color+Schemes.pdf"
     },
     {
-      "url": "https://stackoverflow.com/questions/57153428/r-plot-color-combinations-that-are-colorblind-accessible",
-      "title": "R Plot Color Combinations that Are Colorblind ... - Stack Overflow"
+      "title": "09-geographic- mapbox .ipynb - Colab",
+      "url": "https://colab.research.google.com/github/walkerke/geog30323/blob/master/09-geographic-mapbox.ipynb"
     },
     {
-      "url": "https://www.datawrapper.de/blog/colorblindness-part2",
-      "title": "What to consider when visualizing data for colorblind readers"
+      "title": "R Plot Color Combinations that Are Colorblind ... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/57153428/r-plot-color-combinations-that-are-colorblind-accessible"
     },
     {
-      "url": "https://community.fabric.microsoft.com/t5/Desktop/Colorblind-safe-palette/td-p/2580048",
-      "title": "Solved: Colorblind safe palette - Microsoft Fabric Community"
+      "title": "What to consider when visualizing data for colorblind readers",
+      "url": "https://www.datawrapper.de/blog/colorblindness-part2"
+    },
+    {
+      "title": "Solved: Colorblind safe palette - Microsoft Fabric Community",
+      "url": "https://community.fabric.microsoft.com/t5/Desktop/Colorblind-safe-palette/td-p/2580048"
     }
   ],
   "okabe ito palette aqi colors": [
     {
-      "url": "https://easystats.github.io/see/reference/scale_color_okabeito.html",
-      "title": "Okabe-Ito color palette \u2014 scale_color_okabeito \u2022 see"
+      "title": "color palette \u2013 siegal lab",
+      "url": "https://siegal.bio.nyu.edu/color-palette/"
     },
     {
-      "url": "https://github.com/jimrybarski/okabe-ito-py",
-      "title": "GitHub - jimrybarski/okabe-ito-py: Okabe-Ito color palette ..."
+      "title": "Okabe-Ito color palette \u2014 scale_color_okabeito \u2022 see",
+      "url": "https://easystats.github.io/see/reference/scale_color_okabeito.html"
     },
     {
-      "url": "https://cran.r-universe.dev/ggokabeito/doc/manual.html",
-      "title": "Package 'ggokabeito' reference manual"
+      "title": "GitHub - jimrybarski/okabe-ito-py: Okabe-Ito color palette ...",
+      "url": "https://github.com/jimrybarski/okabe-ito-py"
     },
     {
-      "url": "https://search.r-project.org/CRAN/refmans/see/html/scale_color_okabeito.html",
-      "title": "R: Okabe-Ito color palette okabeito:okabeito - cmap - Read the Docs Okabe - Ito color palette \u2014 scale_color_okabeito \u2022 see Package 'ggokabeito' reference manual Okabe - Ito color palette \u2014 scale_color_okabeito \u2022 see scale_color_okabeito function - RDocumentation"
+      "title": "Package 'ggokabeito' reference manual",
+      "url": "https://cran.r-universe.dev/ggokabeito/doc/manual.html"
+    },
+    {
+      "title": "R: Okabe-Ito color palette okabeito:okabeito - cmap - Read the Docs Okabe - Ito color palette \u2014 scale_color_okabeito \u2022 see Package 'ggokabeito' reference manual Okabe - Ito color palette \u2014 scale_color_okabeito \u2022 see scale_color_okabeito function - RDocumentation",
+      "url": "https://search.r-project.org/CRAN/refmans/see/html/scale_color_okabeito.html"
     }
   ],
   "colorbrewer colorblind friendly sequential": [
     {
-      "url": "https://colorbrewer2.org/",
-      "title": "ColorBrewer : Color Advice for Maps"
+      "title": "Guidelines color blind friendly figures | Netherlands Cancer Institute",
+      "url": "https://www.nki.nl/about-us/responsible-research/guidelines-color-blind-friendly-figures"
     },
     {
-      "url": "https://github.com/rcsb/colorbrewer",
-      "title": "GitHub - rcsb/ colorbrewer : :rainbow: Create color blind friendly ..."
+      "title": "ColorBrewer : Color Advice for Maps",
+      "url": "https://colorbrewer2.org/"
+    },
+    {
+      "title": "Three tools to help you make colorblind - friendly graphics | Knight Lab",
+      "url": "https://knightlab.northwestern.edu/2016/07/18/three-tools-to-help-you-make-colorblind-friendly-graphics/"
+    },
+    {
+      "title": "GitHub - rcsb/ colorbrewer : :rainbow: Create color blind friendly ...",
+      "url": "https://github.com/rcsb/colorbrewer"
+    },
+    {
+      "title": "Colorblind -safe palettes in SAS - The DO Loop",
+      "url": "https://blogs.sas.com/content/iml/2023/02/01/colorblind-safe-palettes-sas.html"
     }
   ],
   "ux dashboard aqi accessibility guidelines": [
     {
-      "url": "https://www.nngroup.com/reports/usability-guidelines-accessible-web-design/",
-      "title": "Usability Guidelines for Accessible Web Design: a Report by NN/g"
+      "title": "Usability Guidelines for Accessible Web Design: a Report by NN/g",
+      "url": "https://www.nngroup.com/reports/usability-guidelines-accessible-web-design/"
     },
     {
-      "url": "https://www.aqi.in/dashboard",
-      "title": "AQI Dashboard : Real-Time World Air Quality Index"
+      "title": "AQI Dashboard : Real-Time World Air Quality Index",
+      "url": "https://www.aqi.in/dashboard"
     },
     {
-      "url": "https://smart-interface-design-patterns.com/articles/action-dots/",
-      "title": "Designing Effective Dashboards UX With Action Dots \u2013 Smart..."
+      "title": "Designing Effective Dashboards UX With Action Dots \u2013 Smart...",
+      "url": "https://smart-interface-design-patterns.com/articles/action-dots/"
     },
     {
-      "url": "https://dribbble.com/shots/15242833-Dashboard-AQI-vs-Device",
-      "title": "Dashboard \u2013 AQI vs Device # by Caleb Hill on Dribbble"
+      "title": "Dashboard \u2013 AQI vs Device # by Caleb Hill on Dribbble",
+      "url": "https://dribbble.com/shots/15242833-Dashboard-AQI-vs-Device"
     },
     {
-      "url": "https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40",
-      "title": "Giving a damn about accessibility | by Fabricio Teixeira | UX Collective"
+      "title": "Giving a damn about accessibility | by Fabricio Teixeira | UX Collective",
+      "url": "https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40"
     }
   ],
-  "breathable minutes calculation method": [],
+  "breathable minutes calculation method": [
+    {
+      "title": "Guided Wim Hof Method Breathing - YouTube",
+      "url": "https://www.youtube.com/watch?v=tybOi4hjZFQ"
+    },
+    {
+      "title": "Study Tips for Tired Students: The 3-2-1 Method | TikTok",
+      "url": "https://www.tiktok.com/@jesstudyofficial/video/7350714834515660065"
+    },
+    {
+      "title": "Euler's Method Calculator",
+      "url": "https://calculator-online.net/eulers-method-calculator/"
+    },
+    {
+      "title": "PSA Method Calculator - Perfect Sensitivity Approximation Tool",
+      "url": "https://alienfusiongenerator.com/psa-method-calculator/"
+    },
+    {
+      "title": "Minutes To Percentage Calculator - Calculator Academy",
+      "url": "https://calculator.academy/minutes-to-percentage-calculator/"
+    }
+  ],
   "influxdb downsample 10min mean": [
     {
-      "url": "https://stackoverflow.com/questions/36266024/downsampling-data-grouped-by-different-time-periods-into-one-measurement",
-      "title": "influxdb - Downsampling data, grouped by different... - Stack Overflow"
+      "title": "influxdb - Downsampling data, grouped by different... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/36266024/downsampling-data-grouped-by-different-time-periods-into-one-measurement"
     },
     {
-      "url": "https://docs.influxdata.com/influxdb/v1/guides/downsample_and_retain/",
-      "title": "Downsample and retain data | InfluxDB OSS v1 Documentation"
+      "title": "Downsample and retain data | InfluxDB OSS v1 Documentation",
+      "url": "https://docs.influxdata.com/influxdb/v1/guides/downsample_and_retain/"
     },
     {
-      "url": "https://dba.stackexchange.com/questions/231321/influxdb-downsampling",
-      "title": "influx db - InfluxDB Downsampling - Database Administrators Stack..."
+      "title": "influx db - InfluxDB Downsampling - Database Administrators Stack...",
+      "url": "https://dba.stackexchange.com/questions/231321/influxdb-downsampling"
     },
     {
-      "url": "https://github.com/pawelbura/downsample_influxdb_batch",
-      "title": "GitHub - pawelbura/ downsample _ influxdb _batch: python batch..."
+      "title": "GitHub - pawelbura/ downsample _ influxdb _batch: python batch...",
+      "url": "https://github.com/pawelbura/downsample_influxdb_batch"
+    },
+    {
+      "title": "Home Assistant: InfluxDB Data Management (LXC)",
+      "url": "https://www.derekseaman.com/2023/04/home-assistant-influxdb-data-management-lxc.html"
     }
   ],
   "grafana threshold bands color": [
     {
-      "url": "https://grafana.com/docs/grafana/latest/visualizations/panels-visualizations/configure-thresholds/",
-      "title": "Configure thresholds | Grafana documentation"
+      "title": "Configure thresholds | Grafana documentation",
+      "url": "https://grafana.com/docs/grafana/latest/visualizations/panels-visualizations/configure-thresholds/"
     },
     {
-      "url": "https://stackoverflow.com/questions/78448428/change-the-color-of-line-based-on-condition-in-grafana",
-      "title": "Change the color of line based on condition in Grafana"
+      "title": "Change the color of line based on condition in Grafana",
+      "url": "https://stackoverflow.com/questions/78448428/change-the-color-of-line-based-on-condition-in-grafana"
     },
     {
-      "url": "https://medium.com/@guilhermenoronha2001/configuring-dynamic-threshold-on-grafana-1574e910f985",
-      "title": "Configuring dynamic threshold on Grafana - Medium"
+      "title": "Configuring dynamic threshold on Grafana - Medium",
+      "url": "https://medium.com/@guilhermenoronha2001/configuring-dynamic-threshold-on-grafana-1574e910f985"
     },
     {
-      "url": "https://docs.aws.amazon.com/grafana/latest/userguide/v9-panels-configure-thresholds.html",
-      "title": "Configure thresholds - Amazon Managed Grafana"
+      "title": "Configure thresholds - Amazon Managed Grafana",
+      "url": "https://docs.aws.amazon.com/grafana/latest/userguide/v9-panels-configure-thresholds.html"
     },
     {
-      "url": "https://grafana.com/docs/grafana-cloud/visualizations/panels-visualizations/configure-thresholds/",
-      "title": "Configure thresholds | Grafana Cloud documentation"
+      "title": "Configure thresholds | Grafana Cloud documentation",
+      "url": "https://grafana.com/docs/grafana-cloud/visualizations/panels-visualizations/configure-thresholds/"
     }
   ],
   "pandas resample nowcast pm2.5": [
     {
-      "url": "https://github.com/Anusri-J/Live-PM2.5-Nowcast-and-Forecast",
-      "title": "Anusri-J/Live-PM2.5-Nowcast-and-Forecast - GitHub"
+      "title": "Anusri-J/Live-PM2.5-Nowcast-and-Forecast - GitHub",
+      "url": "https://github.com/Anusri-J/Live-PM2.5-Nowcast-and-Forecast"
     },
     {
-      "url": "https://mazamascience.github.io/AirMonitor/articles/NowCast.html",
-      "title": "NowCast \u2022 AirMonitor"
+      "title": "NowCast \u2022 AirMonitor",
+      "url": "https://mazamascience.github.io/AirMonitor/articles/NowCast.html"
     },
     {
-      "url": "https://observablehq.com/@openaq/epa-pm-nowcast",
-      "title": "US EPA Particulate Matter NowCast AQI Algorithm"
+      "title": "Building a Linear Regression Model for PM2.5 Forecasting",
+      "url": "https://medium.com/@sawsanyusuf/time-series-with-python-case-study-air-quality-in-dar-es-salaam-2-linear-regression-model-7e3fa165dff1"
     },
     {
-      "url": "https://www.slingacademy.com/article/pandas-using-dataframe-resample-method-with-examples/",
-      "title": "Pandas: Using DataFrame.resample () method (with examples)"
+      "title": "US EPA Particulate Matter NowCast AQI Algorithm",
+      "url": "https://observablehq.com/@openaq/epa-pm-nowcast"
+    },
+    {
+      "title": "Pandas: Using DataFrame.resample () method (with examples)",
+      "url": "https://www.slingacademy.com/article/pandas-using-dataframe-resample-method-with-examples/"
     }
   ],
   "purpleair woodsmoke correction 2024": [
     {
-      "url": "https://www.mdpi.com/1424-8220/22/24/9669",
-      "title": "Correction and Accuracy of PurpleAir PM2.5 Measurements for ..."
+      "title": "Correction and Accuracy of PurpleAir PM2.5 Measurements for ...",
+      "url": "https://www.mdpi.com/1424-8220/22/24/9669"
     },
     {
-      "url": "https://community.purpleair.com/t/new-epa-correction/10372",
-      "title": "New EPA correction? - Data - PurpleAir Community"
+      "title": "New EPA correction? - Data - PurpleAir Community",
+      "url": "https://community.purpleair.com/t/new-epa-correction/10372"
     },
     {
-      "url": "https://amt.copernicus.org/articles/17/6735/2024/amt-17-6735-2024.pdf",
-      "title": "Calibration of PurpleAir low-cost particulate matter sensors ..."
+      "title": "Calibration of PurpleAir low-cost particulate matter sensors ...",
+      "url": "https://amt.copernicus.org/articles/17/6735/2024/amt-17-6735-2024.pdf"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39771956/",
-      "title": "Correction: Barkjohn et al. Correction and Accuracy of ..."
+      "title": "Deep learning calibration model for PurpleAir PM2.5 ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1352231025000937"
+    },
+    {
+      "title": "Correction: Barkjohn et al. Correction and Accuracy of ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39771956/"
     }
   ],
   "epa bam reference vs purpleair bias": [
     {
-      "url": "https://www.thebolditalic.com/understanding-purpleair-vs-airnow-gov-measurements-of-wood-smoke-pollution/",
-      "title": "Understanding PurpleAir vs . AirNow.gov Measurements of Smoke..."
+      "title": "Understanding PurpleAir vs . AirNow.gov Measurements of Smoke...",
+      "url": "https://www.thebolditalic.com/understanding-purpleair-vs-airnow-gov-measurements-of-wood-smoke-pollution/"
     },
     {
-      "url": "https://community.purpleair.com/t/purpleair-vs-epa-sensors/11710",
-      "title": "PurpleAir vs EPA sensors - General - PurpleAir Community"
+      "title": "PurpleAir vs EPA sensors - General - PurpleAir Community",
+      "url": "https://community.purpleair.com/t/purpleair-vs-epa-sensors/11710"
     },
     {
-      "url": "https://www.kqed.org/science/1969271/making-sense-of-purple-air-vs-airnow-and-a-new-map-to-rule-them-all",
-      "title": "From PurpleAir to AirNow, Your Air Quality Maps for Wildfire... | KQED"
+      "title": "From PurpleAir to AirNow, Your Air Quality Maps for Wildfire... | KQED",
+      "url": "https://www.kqed.org/science/1969271/making-sense-of-purple-air-vs-airnow-and-a-new-map-to-rule-them-all"
     },
     {
-      "url": "https://www.sfchronicle.com/bayarea/article/PurpleAir-vs-AirNow-How-to-track-air-quality-17291146.php",
-      "title": "PurpleAir vs . AirNow: How to track air quality readings near you"
+      "title": "Air Quality Monitors Compared: AirGradient vs PurpleAir",
+      "url": "https://www.airgradient.com/blog/airgradient-vs-purple-air/"
+    },
+    {
+      "title": "PurpleAir vs . AirNow: How to track air quality readings near you",
+      "url": "https://www.sfchronicle.com/bayarea/article/PurpleAir-vs-AirNow-How-to-track-air-quality-17291146.php"
     }
   ],
   "calibrate pm sensor collocation guide": [
     {
-      "url": "https://www.epa.gov/air-sensor-toolbox/air-sensor-collocation-instruction-guide",
-      "title": "Air Sensor Collocation Instruction Guide | US EPA"
+      "title": "Air Sensor Collocation Instruction Guide | US EPA",
+      "url": "https://www.epa.gov/air-sensor-toolbox/air-sensor-collocation-instruction-guide"
     },
     {
-      "url": "https://apps.ecology.wa.gov/publications/documents/2302088.pdf",
-      "title": "PM Sensor SOP - apps.ecology.wa.gov"
+      "title": "PM Sensor SOP - apps.ecology.wa.gov",
+      "url": "https://apps.ecology.wa.gov/publications/documents/2302088.pdf"
     },
     {
-      "url": "https://www.scribd.com/document/623554949/collocation-instruction-guide",
-      "title": "Collocation Instruction Guide | PDF | Accuracy And Precision ..."
+      "title": "Collocation Instruction Guide | PDF | Accuracy And Precision ...",
+      "url": "https://www.scribd.com/document/623554949/collocation-instruction-guide"
     },
     {
-      "url": "https://click.clarity.io/device-collocation?lesson=lesson-2-what-are-calibration-and-collocation&hsLang=en",
-      "title": "Lesson 2: What are calibration and collocation? - Clarity"
+      "title": "Lesson 2: What are calibration and collocation? - Clarity",
+      "url": "https://click.clarity.io/device-collocation?lesson=lesson-2-what-are-calibration-and-collocation&hsLang=en"
     },
     {
-      "url": "https://www.edf.org/sites/default/files/documents/Breathe+London-EDF-Sensor+Performance+and+Calibration+Evaluation.pdf",
-      "title": "Sensor performance and calibration evaluation using reference ..."
+      "title": "Sensor performance and calibration evaluation using reference ...",
+      "url": "https://www.edf.org/sites/default/files/documents/Breathe+London-EDF-Sensor+Performance+and+Calibration+Evaluation.pdf"
     }
   ],
   "backyard rain gauge calibration against radar": [
     {
-      "url": "https://www.rikasensor.com/a-how-to-calibrate-your-rain-gauge-for-precise-measurements.html",
-      "title": "How To Calibrate Your Rain Gauge For Precise Measurements?"
+      "title": "How To Calibrate Your Rain Gauge For Precise Measurements?",
+      "url": "https://www.rikasensor.com/a-how-to-calibrate-your-rain-gauge-for-precise-measurements.html"
     },
     {
-      "url": "https://precip.ai/blog/measuring-rain-with-rain-gauges-is-hard/",
-      "title": "Rain Gauge Errors | Precip Blog"
+      "title": "Rain Gauge Calibration - YouTube How to Easily Test Your Rain Gauge Calibration\u2014and Avoid Errors Mastering Radar Calibration Techniques - numberanalytics.com Rain Gauge Errors | Precip Blog Images Tips for Ensuring Accuracy in Rain Gauge Measurements at Your ... Are rain gauges accurate? - Kisters",
+      "url": "https://www.youtube.com/watch?v=QCgM3b2woa4"
+    },
+    {
+      "title": "How to Easily Test Your Rain Gauge Calibration\u2014and Avoid Errors Mastering Radar Calibration Techniques - numberanalytics.com Rain Gauge Errors | Precip Blog Images Tips for Ensuring Accuracy in Rain Gauge Measurements at Your ... Are rain gauges accurate? - Kisters",
+      "url": "https://www.campbellsci.com/blog/easily-test-rain-gauge-calibration"
+    },
+    {
+      "title": "Mastering Radar Calibration Techniques - numberanalytics.com",
+      "url": "https://www.numberanalytics.com/blog/ultimate-guide-radar-calibration-radar-meteorology"
+    },
+    {
+      "title": "Rain Gauge Errors | Precip Blog",
+      "url": "https://precip.ai/blog/measuring-rain-with-rain-gauges-is-hard/"
     }
   ],
   "nws precip analysis portland": [
     {
-      "url": "https://forecast.weather.gov/zipcity.php?inputstring=Portland,OR",
-      "title": "7-Day Forecast 45.53N 122.67W - National Weather Service Here's how much rain fell in the Portland metro since Monday 650K under flood watch as atmospheric river hits Portland\u2014NWS ..."
+      "title": "Portland Metropolitan Area Weather and Precipitation",
+      "url": "https://or.water.usgs.gov/will_morrison/weather.html"
+    },
+    {
+      "title": "Rainfall data for Portland",
+      "url": "https://www.portland.gov/bes/rainfall-data-portland"
+    },
+    {
+      "title": "7-Day Forecast 45.53N 122.67W - National Weather Service Here's how much rain fell in the Portland metro since Monday 650K under flood watch as atmospheric river hits Portland\u2014NWS ...",
+      "url": "https://forecast.weather.gov/zipcity.php?inputstring=Portland,OR"
+    },
+    {
+      "title": "Here's how much rain fell in the Portland metro since Monday",
+      "url": "https://www.kgw.com/article/weather/severe-weather/portland-metro-early-rainfall-totals-tuesday-morning-atmospheric-river/283-d51c6ec6-1c3d-41fb-9d52-6d6cb92c6285"
+    },
+    {
+      "title": "650K under flood watch as atmospheric river hits Portland\u2014NWS ...",
+      "url": "https://www.msn.com/en-us/weather/topstories/650k-under-flood-watch-as-atmospheric-river-hits-portland-nws-issues-urgent-warning/ar-AA1S9Lqf"
     }
   ],
   "home assistant weather dashboard examples": [
     {
-      "url": "https://smarthomescene.com/blog/top-10-home-assistant-weather-cards/",
-      "title": "Top 10 Home Assistant Weather Cards - SmartHomeScene"
+      "title": "Top 10 Home Assistant Weather Cards - SmartHomeScene",
+      "url": "https://smarthomescene.com/blog/top-10-home-assistant-weather-cards/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=uoKm5_sS9OQ",
-      "title": "Severe Weather Alerts & Radar Right In Home Assistant - YouTube"
+      "title": "Weather - Home Assistant",
+      "url": "https://www.home-assistant.io/integrations/weather/"
     },
     {
-      "url": "https://mwunderling.com/resources/home_automation/home_assistant/customizations/custom_weather_dashboard/",
-      "title": "Dynamic Weather Dashboard - Thought Blocks"
+      "title": "Severe Weather Alerts & Radar Right In Home Assistant - YouTube",
+      "url": "https://www.youtube.com/watch?v=uoKm5_sS9OQ"
+    },
+    {
+      "title": "Dynamic Weather Dashboard - Thought Blocks",
+      "url": "https://mwunderling.com/resources/home_automation/home_assistant/customizations/custom_weather_dashboard/"
+    },
+    {
+      "title": "Home Assistant Wetter Dashboard | TikTok",
+      "url": "https://www.tiktok.com/discover/home-assistant-wetter-dashboard"
     }
   ],
   "zigbee co2 sensor options": [
     {
-      "url": "https://docs.espressif.com/projects/arduino-esp32/en/latest/zigbee/ep_carbon_dioxide_sensor.html",
-      "title": "ZigbeeCarbonDioxideSensor - - \u2014 Arduino ESP32 latest ..."
+      "title": "Zigbee Smart Sensors - Deals on Zigbee Smart Sensors",
+      "url": "https://www.bing.com/aclick?ld=e8uq9-ONd_GNAvYRByjq8GRDVUCUwgd3AWYrbOwZJRiYUseC28FXm7ujrB-BAthlitffmqWT3-meulDBBYDT_pHqvf52usMtyZsZeqprrGXVYCHc34a3Ca22vRs7tQ3tWdyXQPskk5uMeN7SMPGGbfWT7J2BGin1i6dBNQcBaxi0uUbe0OnnerVxMKsHR9XIGxLnNYXQJ3CrDXGmJyMiQicb0Wv7w&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHppZ2JlZSUyYnNtYXJ0JTJic2Vuc29ycyUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzZ3czJqcTlvaWxfcCUyNmFkZ3JwaWQlM2QxMzMzNzEwMDY3NjMyMTc5JTI2aHZhZGlkJTNkODMzNTcxNTAyNzU2NzMlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzMzU3OTg1ODA1NTAzJTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2Q4NDU3XzEzNDk4NjA5JTI2bWNpZCUzZDFhYzY5Y2VjYWQzZDM0NzNiMWFjNDkwNzIxNGZiZDA0JTI2bXNjbGtpZCUzZDg5YTI5ZWZmYTFjMjE5ZDQzZDBiZjdiZTQzY2IxOWRl&rlid=89a29effa1c219d43d0bf7be43cb19de"
     },
     {
-      "url": "https://github.com/diyruz/AirSense",
-      "title": "GitHub - diyruz/AirSense: DIY Zigbee CO2 sensor"
+      "title": "ZigbeeCarbonDioxideSensor - - \u2014 Arduino ESP32 latest ...",
+      "url": "https://docs.espressif.com/projects/arduino-esp32/en/latest/zigbee/ep_carbon_dioxide_sensor.html"
     },
     {
-      "url": "https://www.tindie.com/products/arwsl/diyruz-airsense-zigbee-co2-sensor/",
-      "title": "diyruz' AirSense - Zigbee CO2 Sensor from arwsl electronics ..."
+      "title": "Easy DIY Zigbee Smart Air Monitor with XIAO ESP32C6!",
+      "url": "https://www.hackster.io/JasonFang/easy-diy-zigbee-smart-air-monitor-with-xiao-esp32c6-8e14d0"
+    },
+    {
+      "title": "GitHub - diyruz/AirSense: DIY Zigbee CO2 sensor",
+      "url": "https://github.com/diyruz/AirSense"
+    },
+    {
+      "title": "diyruz' AirSense - Zigbee CO2 Sensor from arwsl electronics ...",
+      "url": "https://www.tindie.com/products/arwsl/diyruz-airsense-zigbee-co2-sensor/"
     }
   ],
   "scd41 co2 calibration fresh air method": [
     {
-      "url": "https://www.alldatasheet.com/html-pdf/1425093/SENSIRION/SEK-SCD41-SENSOR/1739/3/SEK-SCD41-SENSOR.html",
-      "title": "SEK- SCD 41 -SENSOR datasheet(3/22 Pages) SENSIRION"
+      "title": "SparkFun Indoor Air Quality Combo Sensor - SCD 41 , SEN55 (Qwiic)",
+      "url": "https://core-electronics.com.au/sparkfun-indoor-air-quality-sensor-scd41-sen55-qwiic.html"
+    },
+    {
+      "title": "Testing a handful of sensors for your next DIY project",
+      "url": "https://olegtarasov.me/environmental-sensors/"
+    },
+    {
+      "title": "SEK- SCD 41 -SENSOR datasheet(3/22 Pages) SENSIRION",
+      "url": "https://www.alldatasheet.com/html-pdf/1425093/SENSIRION/SEK-SCD41-SENSOR/1739/3/SEK-SCD41-SENSOR.html"
+    },
+    {
+      "title": "Salud CO 2 Monitor by Pat | Download free STL model | Printables.com",
+      "url": "https://www.printables.com/model/121265-salud-co2-monitor"
+    },
+    {
+      "title": "Gravity: I2C SCD 41 Infrared CO 2 Sensor (400 - 5000 ppm) | Evelta",
+      "url": "https://evelta.com/gravity-i2c-scd41-infrared-co2-sensor-400-5000-ppm/"
     }
   ],
   "awair data export api": [
     {
-      "url": "https://docs.developer.getawair.com/",
-      "title": "Awair Home & OAuth Developer APIs"
+      "title": "Awair Home & OAuth Developer APIs",
+      "url": "https://docs.developer.getawair.com/"
     },
     {
-      "url": "https://dashboard-data-export-api.awair.is/",
-      "title": "dashboard-data-export-api.awair.is"
+      "title": "dashboard-data-export-api.awair.is",
+      "url": "https://dashboard-data-export-api.awair.is/"
+    },
+    {
+      "title": "GitHub - runsascoded/awair: \"Awair\" air quality sensor dashboard",
+      "url": "https://github.com/runsascoded/awair"
+    },
+    {
+      "title": "Awair - Home Assistant",
+      "url": "https://www.home-assistant.io/integrations/awair/"
+    },
+    {
+      "title": "Freeing Awair Sensor Data - E.P Salt",
+      "url": "https://epsalt.ca/2020/03/awair-backup"
     }
   ],
   "voc spikes cooking gas stove solutions": [
     {
-      "url": "https://pureairadviser.com/voc-air-quality-sensors/cooking-affects-voc-levels/",
-      "title": "How Cooking Affects Indoor VOC Levels (and How to Reduce Them)"
+      "title": "How Cooking Affects Indoor VOC Levels (and How to Reduce Them)",
+      "url": "https://pureairadviser.com/voc-air-quality-sensors/cooking-affects-voc-levels/"
     },
     {
-      "url": "https://www.heet.org/blog-items/understanding-cooking-with-gas-indoor-air-quality-and-health",
-      "title": "Understanding Cooking with Gas: Indoor Air Quality and Health"
+      "title": "Understanding Cooking with Gas: Indoor Air Quality and Health",
+      "url": "https://www.heet.org/blog-items/understanding-cooking-with-gas-indoor-air-quality-and-health"
     },
     {
-      "url": "https://iaq.works/indoor-air/why-did-my-home-voc-levels-suddenly-spike-causes-troubleshooting-prevention/",
-      "title": "Why Did My Home VOC Levels Suddenly Spike? Causes ..."
+      "title": "Why Did My Home VOC Levels Suddenly Spike? Causes ...",
+      "url": "https://iaq.works/indoor-air/why-did-my-home-voc-levels-suddenly-spike-causes-troubleshooting-prevention/"
     },
     {
-      "url": "https://www.health.harvard.edu/blog/have-a-gas-stove-how-to-reduce-pollution-that-may-harm-health-202209072811",
-      "title": "Have a gas stove? How to reduce pollution that may harm health Images Is Cooking Making Your Indoor Air Unsafe? | American Lung ... Clearing the Air: Uncovering the Risks of Gas Stove Pollution"
+      "title": "Gas stoves are filling homes with hidden toxic air - MSN",
+      "url": "https://www.msn.com/en-us/health/wellness/gas-stoves-are-filling-homes-with-hidden-toxic-air/ar-AA1RX4gF"
+    },
+    {
+      "title": "Have a gas stove? How to reduce pollution that may harm health Images Is Cooking Making Your Indoor Air Unsafe? | American Lung ... Clearing the Air: Uncovering the Risks of Gas Stove Pollution",
+      "url": "https://www.health.harvard.edu/blog/have-a-gas-stove-how-to-reduce-pollution-that-may-harm-health-202209072811"
     }
   ],
   "range hood cfm capture efficiency test": [
     {
-      "url": "https://eta-publications.lbl.gov/sites/default/files/lbnl-2001351_measured_performance_of_over_the_range_microwave_range_hoods.pdf",
-      "title": "Measured Performance of Over the Range Microwave"
+      "title": "venting - Do I really need a 1200 CFM Hood for a 48\" Range ?",
+      "url": "https://diy.stackexchange.com/questions/219331/do-i-really-need-a-1200-cfm-hood-for-a-48-range"
+    },
+    {
+      "title": "Measured Performance of Over the Range Microwave",
+      "url": "https://eta-publications.lbl.gov/sites/default/files/lbnl-2001351_measured_performance_of_over_the_range_microwave_range_hoods.pdf"
+    },
+    {
+      "title": "How Many CFM Do I Need For My Range Hood ? ( CFM Calculator)",
+      "url": "https://prolinerangehoods.com/blogs/blog/cfm-need-range-hood"
+    },
+    {
+      "title": "How do I calculate CFM for a range hood ? CopperSmith",
+      "url": "https://www.worldcoppersmith.com/articles/how-do-i-calculate-cfm/"
+    },
+    {
+      "title": "Choosing the Right Range Hood Makeup Air... - GreenBuildingAdvisor",
+      "url": "https://www.greenbuildingadvisor.com/article/choosing-the-right-range-hood-makeup-air-system"
     }
   ],
   "indoor humidity target winter Portland": [
     {
-      "url": "https://westernwindows.com/blog/window-and-door-maintenance/stop-winter-condensation-and-frost-humidity-targets-trickle-vents-and-install-details-that-matter/",
-      "title": "Stopping Winter Condensation on Windows: A Homeowner\u2019s Guide"
+      "title": "Stopping Winter Condensation on Windows: A Homeowner\u2019s Guide",
+      "url": "https://westernwindows.com/blog/window-and-door-maintenance/stop-winter-condensation-and-frost-humidity-targets-trickle-vents-and-install-details-that-matter/"
     },
     {
-      "url": "https://www.bobvila.com/articles/humidity-level-at-home/",
-      "title": "Ideal Indoor Humidity : Target These Levels to Stay Healthy"
+      "title": "Ideal Indoor Humidity : Target These Levels to Stay Healthy",
+      "url": "https://www.bobvila.com/articles/humidity-level-at-home/"
     },
     {
-      "url": "https://iaq.na.panasonic.com/healthy-living/what-is-the-ideal-humidity-level-in-a-house",
-      "title": "What is the ideal humidity level in a house? | Panasonic North..."
+      "title": "What is the ideal humidity level in a house? | Panasonic North...",
+      "url": "https://iaq.na.panasonic.com/healthy-living/what-is-the-ideal-humidity-level-in-a-house"
     },
     {
-      "url": "https://www.pkwadsworth.com/blog/best-humidity-level-cleveland-home-winter/",
-      "title": "Proper Humidity Level for Your Home in Winter | Learn More"
+      "title": "Proper Humidity Level for Your Home in Winter | Learn More",
+      "url": "https://www.pkwadsworth.com/blog/best-humidity-level-cleveland-home-winter/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=G7S_vkCiZ-k",
-      "title": "The best way to manage indoor humidity in the cold winter months"
+      "title": "The best way to manage indoor humidity in the cold winter months",
+      "url": "https://www.youtube.com/watch?v=G7S_vkCiZ-k"
     }
   ],
   "dew point night flush rule of thumb": [
     {
-      "url": "https://www.city-data.com/forum/weather/1892018-dewpoint-thread-440.html",
-      "title": "The Dewpoint Thread (temperature, 2015, days, humidity) | Forum"
+      "title": "What Temperature Should You Open Windows at Night ? - Engineer Fix",
+      "url": "https://engineerfix.com/what-temperature-should-you-open-windows-at-night/"
     },
     {
-      "url": "https://crondallweather.co.uk/what-is-dew-point-and-why-is-it-important/",
-      "title": "What is Dew Point and Why is it Important? - Crondall Weather"
+      "title": "The Dewpoint Thread (temperature, 2015, days, humidity) | Forum",
+      "url": "https://www.city-data.com/forum/weather/1892018-dewpoint-thread-440.html"
     },
     {
-      "url": "https://www.questionai.com/questions-tJ50Mscyx8/temperature-falling-dew-point-night-temperature-falling",
-      "title": "temperature falling below dew point at night temperature... | Question AI"
+      "title": "What is Dew Point and Why is it Important? - Crondall Weather",
+      "url": "https://crondallweather.co.uk/what-is-dew-point-and-why-is-it-important/"
     },
     {
-      "url": "https://fairfieldcountyweather.com/VariableExplainations.htm",
-      "title": "Weather Variable Definitions"
+      "title": "temperature falling below dew point at night temperature... | Question AI",
+      "url": "https://www.questionai.com/questions-tJ50Mscyx8/temperature-falling-dew-point-night-temperature-falling"
+    },
+    {
+      "title": "Weather Variable Definitions",
+      "url": "https://fairfieldcountyweather.com/VariableExplainations.htm"
     }
   ],
   "mold risk dew point window condensation": [
     {
-      "url": "https://www.thisoldhouse.com/windows/preventing-condensation-on-windows",
-      "title": "How To Prevent Condensation on Windows - This Old House"
+      "title": "How To Prevent Condensation on Windows - This Old House",
+      "url": "https://www.thisoldhouse.com/windows/preventing-condensation-on-windows"
     },
     {
-      "url": "https://www.stadlerform.com/en/rooms/living-room-air-quality/dew-point-simply-explained",
-      "title": "Dew point and condensation simply explained"
+      "title": "Dew point and condensation simply explained",
+      "url": "https://www.stadlerform.com/en/rooms/living-room-air-quality/dew-point-simply-explained"
     },
     {
-      "url": "https://www.thespruce.com/condensation-on-windows-8742997",
-      "title": "Condensation on Windows: 5 Causes and How to Fix It - The Spruce"
+      "title": "Condensation on Windows: 5 Causes and How to Fix It - The Spruce",
+      "url": "https://www.thespruce.com/condensation-on-windows-8742997"
     },
     {
-      "url": "https://biologyinsights.com/is-window-mold-dangerous-health-risks-removal/",
-      "title": "Is Window Mold Dangerous? Health Risks & Removal"
+      "title": "Is Window Mold Dangerous? Health Risks & Removal",
+      "url": "https://biologyinsights.com/is-window-mold-dangerous-health-risks-removal/"
     },
     {
-      "url": "https://a-rite.com/blog/2025/04/16/5-causes-of-condensation-on-windows-and-how-to-prevent-it/",
-      "title": "5 Causes of Condensation on Windows and How To Prevent It"
+      "title": "5 Causes of Condensation on Windows and How To Prevent It",
+      "url": "https://a-rite.com/blog/2025/04/16/5-causes-of-condensation-on-windows-and-how-to-prevent-it/"
     }
   ],
   "hvac merv 13 static pressure drop": [
     {
-      "url": "https://www.pickhvac.com/hvac-filter/merv/pressure-drop/",
-      "title": "Relationship Between Pressure Drop and MERV Rating (+Chart)"
+      "title": "Relationship Between Pressure Drop and MERV Rating (+Chart)",
+      "url": "https://www.pickhvac.com/hvac-filter/merv/pressure-drop/"
     },
     {
-      "url": "https://acupkeep.com/merv-13-filter-pressure-drop-chart/",
-      "title": "Why the MERV 13 Filter Pressure Drop Chart Matters | Airflow ..."
+      "title": "Why the MERV 13 Filter Pressure Drop Chart Matters | Airflow ...",
+      "url": "https://acupkeep.com/merv-13-filter-pressure-drop-chart/"
     },
     {
-      "url": "https://filterbuy.com/resources/air-filter-basics/merv-air-filter-pressure-drop-chart/",
-      "title": "MERV Air Filter Pressure Drop Chart - filterbuy.com"
+      "title": "My Low Pressure-Drop, MERV-13 Filters - Energy Vanguard",
+      "url": "https://www.energyvanguard.com/blog/my-low-pressure-drop-merv-13-filters"
     },
     {
-      "url": "https://www.bladeair.com/post/merv-13-filter-hvac-pressure-drop",
-      "title": "Why MERV 13 Filters May Be Straining Your HVAC & What to Do Instead"
+      "title": "MERV Air Filter Pressure Drop Chart - filterbuy.com",
+      "url": "https://filterbuy.com/resources/air-filter-basics/merv-air-filter-pressure-drop-chart/"
+    },
+    {
+      "title": "Why MERV 13 Filters May Be Straining Your HVAC & What to Do Instead",
+      "url": "https://www.bladeair.com/post/merv-13-filter-hvac-pressure-drop"
     }
   ],
   "portable ac with merv 13 mod?": [
     {
-      "url": "https://www.energyvanguard.com/blog/how-make-high-merv-diy-portable-air-cleaner",
-      "title": "How to Make a High-MERV DIY Portable Air Cleaner"
+      "title": "How to Upgrade Your HVAC System with a MERV 13 Filter",
+      "url": "https://filterbuy.com/resources/how-to-guides-and-hvac-maintenance/how-to-upgrade-your-hvac-system-with-a-merv-13-filter/"
+    },
+    {
+      "title": "Can I use a MERV 13 filter in my home HVAC? - GreenyPlace.com",
+      "url": "https://greenyplace.com/can-i-use-a-merv-13-filter-in-my-home-hvac"
+    },
+    {
+      "title": "Can My HVAC Handle MERV 13? Upgrade 101 Reliable Insights",
+      "url": "https://hvacguideguys.com/can-my-hvac-handle-merv-13/"
+    },
+    {
+      "title": "How to Make a High-MERV DIY Portable Air Cleaner",
+      "url": "https://www.energyvanguard.com/blog/how-make-high-merv-diy-portable-air-cleaner"
+    },
+    {
+      "title": "Are HVAC systems affected by MERV 13 filters?",
+      "url": "https://heatingandairconditioningrepairguide.com/are-hvac-systems-affected-by-merv-13-filters/"
     }
   ],
   "hepa purifier noise db sleeping": [
     {
-      "url": "https://ryanguides.com/best-quiet-air-purifiers-for-nighttime/",
-      "title": "The 7 Best Quiet Air Purifiers for Nighttime: Sleep-Friendly ..."
+      "title": "Meditation-Quiet Air Purifier - Black Friday: Up to 35% Off",
+      "url": "https://www.bing.com/aclick?ld=e8eGW8jXTDY03qw2U-5YTLxzVUCUwgU44aIbJg32dDlCpm4T7pguANM4PqYzK2lQwOq99v4prtsJ-XUey5GWhOQ0KqWDmwDH063N_cNwCCJ3mzlyTIoSNyyLwZQMLJhJfsufKP8abQpVbAQDgV1FSiXOSWbmXz5JYdRnLudyrTniW6WLKkajruZju5RyQQluxvI3V57H404-NshziTGnc6w40GAm0&u=aHR0cHMlM2ElMmYlMmZ3d3cubGl2ZXNhbnMuY29tJTJmcHJvZHVjdHMlMmZhaXItcHVyaWZpZXIlM2ZuYnQlM2RuYiUyNTNBbWljcm9zb2Z0JTI1M0FvJTI1M0E0ODcyMzM5MTYlMjUzQTEyMzI1NTM4MzM0MTMzMDMlMjUzQTc3MDM0NzU2MDYwNzY0JTI2bmJfbXQlM2RwJTI2bmJfYm10JTNkYnAlMjZuYl9vaWklM2Q3NzAzNTA1NjI5ODUzMyUyNm5iX3FzJTNkaGVwYSUyNTIwcHVyaWZpZXIlMjUyMG5vaXNlJTI1MjBkYiUyNTIwc2xlZXBpbmclMjZuYl9maWklM2QlMjZuYl9saV9tcyUzZCUyNm5iX2xwX21zJTNkNTgxNjIlMjZuYl9waSUzZCUyNm5iX3BjJTNkJTI2bmJfY2klM2QlMjZ0d19zb3VyY2UlM2Rnb29nbGUlMjZ0d19hZGlkJTNkJTI2dHdfY2FtcGFpZ24lM2Q0ODcyMzM5MTYlMjZtc2Nsa2lkJTNkYjMwZmVkODUyODkxMWJlYTM2MWM4NGM0Y2E4M2Q2MWYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RuYiUyNTIwLSUyNTIwYWlyJTI2dXRtX3Rlcm0lM2RzdXBlciUyNTIwcXVpZXQlMjUyMGFpciUyNTIwcHVyaWZpZXIlMjZ1dG1fY29udGVudCUzZHF1aWV0JTI1MjBhaXIlMjUyMHB1cmlmaWVy&rlid=b30fed8528911bea361c84c4ca83d61f"
     },
     {
-      "url": "https://bestvacuumexpert.com/vetted/best-air-purifier-noise-levels/",
-      "title": "15 Best Air Purifiers That Operate Quietly \u2013 Sleep Soundly ..."
+      "title": "Top 5 Air Purifiers (2025) - Highest-Rated Air Purifiers",
+      "url": "https://www.bing.com/aclick?ld=e8KNrgwCIdOxBqmo0TNkaZ3jVUCUzxenotDOe3uis4LWd4PYWcPvjq-5o9-j8_V6ZB7hiPVSo57gnzf1B7PCS4oHY4Qpv18j7U7RYex4yKbpMcNh-GWn_IKpOC0_z5VUS9KeHtaC_-mqTauvSoh8rcwhGChSNzeBMEOgddaHYn7xy03BTNxmzEJ72R1fKBaVV2OmkCtVUXdQoSEmGObSgchGy7LuQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuYnV5ZXJzcmVwb3J0Lm9yZyUyZmJlc3QtYWlyLXB1cmlmaWVycy1mb3ItaG9tZSUzZmdjbGlkJTNkJTI2a3clM2RyZXZpZXdzJTI1MjBvbiUyNTIwYWlyJTI1MjBwdXJpZmllcnMlMjUyMGZvciUyNTIwaG9tZSUyNmNwbiUzZDYwMzYyMjM0NyUyNmFkZ3JvdXAlM2QxMzQ1ODA0NjM4MTI5NTY2JTI2bG9jX3BoeXNpY2FsJTNkNTgxNjIlMjZsb2NfaW50ZXJlc3QlM2QlMjZtYXRjaHR5cGUlM2RwJTI2bmV0d29yayUzZG8lMjZkZXZpY2UlM2RjJTI2Y3JlYXRpdmUlM2QlMjZwbGFjZW1lbnQlM2QlMjZ0YXJnZXQlM2QlMjZhZHBvcyUzZCUyNm1zY2xraWQlM2Q1OTQxYWZmZGI5YzIxYWVhZWRkOWM2YmM1YmQwMWI1YSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEJSJTI1MjAtJTI1MjBBaXIlMjUyMFB1cmlmaWVycyUyNnV0bV90ZXJtJTNkcmV2aWV3cyUyNTIwb24lMjUyMGFpciUyNTIwcHVyaWZpZXJzJTI1MjBmb3IlMjUyMGhvbWUlMjZ1dG1fY29udGVudCUzZEJSJTI1MjAtJTI1MjBBaXIlMjUyMFB1cmlmaWVycyUyNTIwLSUyNTIwRm9yJTI1MjBIb21lJTI1MjAtJTI1MjBHZW5lcmlj&rlid=5941affdb9c21aeaedd9c6bc5bd01b5a"
+    },
+    {
+      "title": "Quiet Hepa Air Purifier - Deals On Quiet Hepa Air Purifier",
+      "url": "https://www.bing.com/aclick?ld=e84Jpo6e9tXHANNnOU68z3tDVUCUzOIfIUneOlAygiSXbSRPbdbuEYPtu4fcrETui_teViGl-Hi83pbfQLN1rIPyoYUADrkmOdyTF9BX0Ee8u_etW12BSCMMlukIyj9hhLi9IgSippETaMGaBXvu__1V-XuhxPxJSfi4BzFXkdYo5ueLurekvXzJBsevyS9nUYP7C0npLiBUYUJc0rdXwirYlczIE&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHF1aWV0JTJiaGVwYSUyYmFpciUyYnB1cmlmaWVyJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfNDF3bnpnbjVhcV9wJTI2YWRncnBpZCUzZDEzMzM3MDgxNjY5NjgyNzUlMjZodmFkaWQlM2Q4MzM1Njk3NTQxOTE2MSUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODMzNTcwOTc2MTQwNTAlM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDEzODYyXzEzMzUxNDY0JTI2bWNpZCUzZGU4OTFhNTEzYzAyNzNiZDE5MjAzOTE5MDUxMWRhMGNlJTI2bXNjbGtpZCUzZGRkYTk2YzQ4YmRkNDFiMzA2MjRiMDUwOTVmYzY3OTg3&rlid=dda96c48bdd41b30624b05095fc67987"
+    },
+    {
+      "title": "The 7 Best Quiet Air Purifiers for Nighttime: Sleep-Friendly ...",
+      "url": "https://ryanguides.com/best-quiet-air-purifiers-for-nighttime/"
+    },
+    {
+      "title": "15 Best Air Purifiers That Operate Quietly \u2013 Sleep Soundly ...",
+      "url": "https://bestvacuumexpert.com/vetted/best-air-purifier-noise-levels/"
     }
   ],
   "prefilter replacement schedule wildfire season": [
     {
-      "url": "https://aolair1.com/2025/10/21/hvac-specialists-brentwood-ca-wildfire-prep/",
-      "title": "Is Your HVAC System Ready for California\u2019s Wildfire Season ?"
+      "title": "Is Your HVAC System Ready for California\u2019s Wildfire Season ?",
+      "url": "https://aolair1.com/2025/10/21/hvac-specialists-brentwood-ca-wildfire-prep/"
     },
     {
-      "url": "https://www.triplecshvac.com/handyman-business/running-your-hvac-system-properly-amid-wildfire/",
-      "title": "Running Your HVAC System Properly Amid Wildfire Smoke \u2013 Triplecs..."
+      "title": "Running Your HVAC System Properly Amid Wildfire Smoke \u2013 Triplecs...",
+      "url": "https://www.triplecshvac.com/handyman-business/running-your-hvac-system-properly-amid-wildfire/"
+    },
+    {
+      "title": "BC Wildfire Season : How Air Quality Affects Indoor Cleaning Needs...",
+      "url": "https://overtimebm.com/bc-wildfire-season-how-air-quality-affects-indoor-cleaning-needs/"
+    },
+    {
+      "title": "Essential Tips: How to Protect Ovens During Wildfire Season",
+      "url": "https://vikingappliancerepairs.com/how-to-protect-ovens-during-wildfire-season-expert-tips/"
+    },
+    {
+      "title": "Best AC Replacement Options in Antioch for Scorching Delta Summers",
+      "url": "https://bluestarhvac.com/best-ac-replacement-options-in-antioch-for-scorching-delta-summers/"
     }
   ],
   "activated carbon filter lifespan smoke": [
     {
-      "url": "https://www.hokocare.com/how-long-does-an-activated-carbon-filter-really-last/",
-      "title": "How Long Does an Activated Carbon Filter Really Last?"
+      "title": "How Long Does an Activated Carbon Filter Really Last?",
+      "url": "https://www.hokocare.com/how-long-does-an-activated-carbon-filter-really-last/"
     },
     {
-      "url": "https://ipsystemsusa.com/maximizing-the-lifespan-of-your-carbon-filter-a-comprehensive-guide/",
-      "title": "How Long Does a Carbon Filter Last? - IP Systems"
+      "title": "How Long Does a Carbon Filter Last? - IP Systems",
+      "url": "https://ipsystemsusa.com/maximizing-the-lifespan-of-your-carbon-filter-a-comprehensive-guide/"
     },
     {
-      "url": "https://molekule.com/blogs/all/how-long-will-an-activated-carbon-filter-last",
-      "title": "How long will an activated carbon filter last? - Molekule"
+      "title": "Does activated carbon remove smoke? - The Institute for ...",
+      "url": "https://iere.org/does-activated-carbon-remove-smoke/"
+    },
+    {
+      "title": "What is the life expectancy of a carbon block filter?",
+      "url": "https://greenyplace.com/what-is-the-life-expectancy-of-a-carbon-block-filter"
+    },
+    {
+      "title": "How long will an activated carbon filter last? - Molekule",
+      "url": "https://molekule.com/blogs/all/how-long-will-an-activated-carbon-filter-last"
     }
   ],
   "box fan orientation push pull cr box": [
     {
-      "url": "https://engineering.stackexchange.com/questions/54076/what-are-the-downsides-of-reversing-fan-and-filter-direction-on-a-corsi-rosentha",
-      "title": "What are the downsides of reversing fan and filter direction ..."
+      "title": "What are the downsides of reversing fan and filter direction ...",
+      "url": "https://engineering.stackexchange.com/questions/54076/what-are-the-downsides-of-reversing-fan-and-filter-direction-on-a-corsi-rosentha"
+    },
+    {
+      "title": "DIY Corsi-Rosenthal box with legs. Instructions ... - Reddit",
+      "url": "https://www.reddit.com/r/DIY/comments/144ddjm/diy_corsirosenthal_box_with_legs_instructions/"
+    },
+    {
+      "title": "Comparing the Performance of Corsi-Rosenthal Boxes Made with ...",
+      "url": "https://www.texairfilters.com/comparing-the-performance-of-corsi-rosenthal-boxes-made-with-box-fans-and-pc-fans/"
+    },
+    {
+      "title": "How to Build a Corsi Rosenthal Box for Clean Air - Engineer Fix",
+      "url": "https://engineerfix.com/how-to-build-a-corsi-rosenthal-box-for-clean-air/"
+    },
+    {
+      "title": "Building a PC Fan Corsi-Rosenthal Box | by Joey Fox | It\u2019s ... The Corsi-Rosenthal Box - Roberta Burnes How to make a Corsi-Rosenthal Box",
+      "url": "https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570"
     }
   ],
   "filter arrow which way airflow": [
     {
-      "url": "https://hvactrainingshop.com/air-filter-direction/",
-      "title": "HVAC Air Filter Direction \u2013 Which Way Does the Air Filter Go?"
+      "title": "HVAC Air Filter Direction \u2013 Which Way Does the Air Filter Go?",
+      "url": "https://hvactrainingshop.com/air-filter-direction/"
     },
     {
-      "url": "https://learnmetrics.com/furnace-filter-airflow-direction-rule-for-filter-arrow/",
-      "title": "Furnace Filter Airflow Direction: 1 Simple Rule For Filter Arrow"
+      "title": "Furnace Filter Airflow Direction: 1 Simple Rule For Filter Arrow",
+      "url": "https://learnmetrics.com/furnace-filter-airflow-direction-rule-for-filter-arrow/"
     },
     {
-      "url": "https://www.pickcomfort.com/furnace-filter-arrow-direction-how-read-install-filters/",
-      "title": "Furnace Filter Arrow Direction: How to Read and Install ..."
+      "title": "Furnace Filter Arrow Direction: How to Read and Install ...",
+      "url": "https://www.pickcomfort.com/furnace-filter-arrow-direction-how-read-install-filters/"
     },
     {
-      "url": "https://blog.filtersfast.com/blog/which-way-does-the-air-flow-arrow-point/",
-      "title": "Which Way Does the Air Flow Arrow Point? - Filters Fast"
+      "title": "Which Way Does the Air Flow Arrow Point? - Filters Fast",
+      "url": "https://blog.filtersfast.com/blog/which-way-does-the-air-flow-arrow-point/"
     },
     {
-      "url": "https://aboutdarwin.com/furnace-filter-airflow-direction/",
-      "title": "Furnace Filter Airflow Direction: Complete Arrow Rule Guide 2025"
+      "title": "Furnace Filter Airflow Direction: Complete Arrow Rule Guide 2025",
+      "url": "https://aboutdarwin.com/furnace-filter-airflow-direction/"
     }
   ],
-  "low exposure bike route portland pm2.5": [],
-  "purpleair capture while biking app": [
+  "low exposure bike route portland pm2.5": [
     {
-      "url": "https://community.purpleair.com/t/q-does-purpleair-have-an-app/987",
-      "title": "Q. Does PurpleAir have an app? - FAQ - PurpleAir Community"
+      "title": "Bike and Walk Maps of Portland",
+      "url": "https://www.portland.gov/transportation/walking-biking-transit-safety/bike-and-walk-maps-portland"
     },
     {
-      "url": "https://apps.apple.com/us/app/my-purpleair/id1606538700",
-      "title": "My PurpleAir on the App Store 15 Best Cycling Apps to Track Your Rides in 2025 (iOS and ... PurpleAir FAQ - FAQ - PurpleAir Community PurpleAir Map Guide - Real-Time Map - PurpleAir Community The Paku App: View PurpleAir Air Quality Data PurpleAir Map Guide - Real-Time Map - PurpleAir Community The Paku App : View PurpleAir Air Quality Data PurpleAir Map Guide - Real-Time Map - PurpleAir Community Q. Does PurpleAir have an app ? - FAQ - PurpleAir Community Air Quality Alerts APP \u2013 PurpleAir"
+      "title": "Portland's Most Dangerous Bikeways - ArcGIS StoryMaps",
+      "url": "https://storymaps.arcgis.com/stories/d6c27ee3cef0494ba1d2833325a62494"
+    },
+    {
+      "title": "Trail Map - Portland Trails",
+      "url": "https://www.trails.org/our-trails/trail-map/"
+    },
+    {
+      "title": "The best cycling routes and bike trails in and around Portland",
+      "url": "https://www.bikemap.net/en/l/5746545/"
+    },
+    {
+      "title": "The best road cycling routes around Portland",
+      "url": "https://www.komoot.com/guide/2280011/road-cycling-routes-around-portland"
+    }
+  ],
+  "purpleair capture while biking app": [
+    {
+      "title": "Q. Does PurpleAir have an app? - FAQ - PurpleAir Community",
+      "url": "https://community.purpleair.com/t/q-does-purpleair-have-an-app/987"
+    },
+    {
+      "title": "My PurpleAir on the App Store 15 Best Cycling Apps to Track Your Rides in 2025 (iOS and ... PurpleAir FAQ - FAQ - PurpleAir Community PurpleAir Map Guide - Real-Time Map - PurpleAir Community The Paku App: View PurpleAir Air Quality Data PurpleAir Map Guide - Real-Time Map - PurpleAir Community The Paku App : View PurpleAir Air Quality Data PurpleAir Map Guide - Real-Time Map - PurpleAir Community Q. Does PurpleAir have an app ? - FAQ - PurpleAir Community Air Quality Alerts APP \u2013 PurpleAir",
+      "url": "https://apps.apple.com/us/app/my-purpleair/id1606538700"
+    },
+    {
+      "title": "15 Best Cycling Apps to Track Your Rides in 2025 (iOS and ... PurpleAir FAQ - FAQ - PurpleAir Community PurpleAir Map Guide - Real-Time Map - PurpleAir Community The Paku App: View PurpleAir Air Quality Data PurpleAir Map Guide - Real-Time Map - PurpleAir Community The Paku App : View PurpleAir Air Quality Data PurpleAir Map Guide - Real-Time Map - PurpleAir Community Q. Does PurpleAir have an app ? - FAQ - PurpleAir Community Air Quality Alerts APP \u2013 PurpleAir",
+      "url": "https://bikexchange.com/best-cycling-apps/"
+    },
+    {
+      "title": "PurpleAir FAQ - FAQ - PurpleAir Community",
+      "url": "https://community.purpleair.com/t/purpleair-faq/3682"
+    },
+    {
+      "title": "PurpleAir Map Guide - Real-Time Map - PurpleAir Community",
+      "url": "https://community.purpleair.com/t/purpleair-map-guide/90"
     }
   ],
   "strava heatmap export to qgis": [
     {
-      "url": "https://github.com/patrickziegler/strava-heatmap-proxy",
-      "title": "GitHub - patrickziegler/ strava - heatmap -proxy: Proxy server that..."
+      "title": "GitHub - patrickziegler/ strava - heatmap -proxy: Proxy server that...",
+      "url": "https://github.com/patrickziegler/strava-heatmap-proxy"
     },
     {
-      "url": "https://githubhelp.com/bertt/wmts/issues/2",
-      "title": "Strava heatmap authentication, about bertt/wmts - GithubHelp"
+      "title": "Strava 's Global Heatmap",
+      "url": "https://www.strava.com/maps/global-heatmap"
+    },
+    {
+      "title": "Strava Heatmap requires now authentification at higher... - help desk",
+      "url": "https://help.locusmap.eu/topic/strava-heatmap-requires-now-authentification-at-higher-zoom"
+    },
+    {
+      "title": "Strava heatmap authentication, about bertt/wmts - GithubHelp",
+      "url": "https://githubhelp.com/bertt/wmts/issues/2"
+    },
+    {
+      "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0432 OsmAnd \u043a\u0430\u0440\u0442\u044b \u0441\u043b\u043e\u044f Strava heatmap / \u0425\u0430\u0431\u0440",
+      "url": "https://habr.com/ru/articles/450124/"
     }
   ],
   "teach kids build pm sensor sds011 esp8266": [
     {
-      "url": "https://githubhelp.com/bertmelis/SDS011",
-      "title": "Non blocking SDS 011 sensor library for ESP 8266 from GithubHelp"
+      "title": "Creating an air quality sensor with ESP 8266 and PMS7003",
+      "url": "https://www.elektroda.com/rtvforum/topic3650812.html"
+    },
+    {
+      "title": "Non blocking SDS 011 sensor library for ESP 8266 from GithubHelp",
+      "url": "https://githubhelp.com/bertmelis/SDS011"
+    },
+    {
+      "title": "Need design and code for multiple sensors using Blynk and ESP 8266 ...",
+      "url": "https://www.tweaking4all.com/forum/arduino/need-design-and-code-for-multiple-sensors-using-blynk-and-esp8266/"
+    },
+    {
+      "title": "ESP 8266 low power DHT11 temperature and moisture remote sensor",
+      "url": "https://shepherdingelectrons.blogspot.com/2020/03/esp8266-low-power-dht11-temperature-and.html"
+    },
+    {
+      "title": "Powering of 8266 (ESP-01) based sensor from... - Blynk Community",
+      "url": "https://community.blynk.cc/t/powering-of-8266-esp-01-based-sensor-from-battery/17895"
     }
   ],
   "esphome pm2.5 sensor yaml": [
     {
-      "url": "https://github.com/koenvervloesem/ESPHome-Air-Quality-Monitor/blob/main/common/aqi.yaml",
-      "title": "ESPHome-Air-Quality-Monitor/common/aqi.yaml at main - GitHub"
+      "title": "ESPHome-Air-Quality-Monitor/common/aqi.yaml at main - GitHub",
+      "url": "https://github.com/koenvervloesem/ESPHome-Air-Quality-Monitor/blob/main/common/aqi.yaml"
     },
     {
-      "url": "https://community.home-assistant.io/t/indoor-esphome-air-quality-monitor/874939",
-      "title": "Indoor ESPHome Air Quality Monitor - Home Assistant Community"
+      "title": "IAQ (Indoor Air Quality) Board | ESPHome Devices",
+      "url": "https://devices.esphome.io/devices/iaq_board/"
     },
     {
-      "url": "https://hometechhacker.com/make-your-own-air-quality-sensor-using-esphome/",
-      "title": "Make Your Own Air Quality Sensor Using ESPHome"
+      "title": "Indoor ESPHome Air Quality Monitor - Home Assistant Community",
+      "url": "https://community.home-assistant.io/t/indoor-esphome-air-quality-monitor/874939"
     },
     {
-      "url": "https://github.com/koenvervloesem/ESPHome-Air-Quality-Monitor",
-      "title": "ESPHome Air Quality Monitor - GitHub"
+      "title": "Make Your Own Air Quality Sensor Using ESPHome",
+      "url": "https://hometechhacker.com/make-your-own-air-quality-sensor-using-esphome/"
+    },
+    {
+      "title": "ESPHome Air Quality Monitor - GitHub",
+      "url": "https://github.com/koenvervloesem/ESPHome-Air-Quality-Monitor"
     }
   ],
   "raspberry pi local openstreetmap tile server": [
     {
-      "url": "https://dev.to/bolollo/maptiler-server-on-raspberry-pi-a-geeks-guide-to-self-hosted-maps-19d4",
-      "title": "MapTiler Server on Raspberry Pi - A Geeks' Guide to Self ..."
+      "title": "MapTiler Server on Raspberry Pi - A Geeks' Guide to Self ...",
+      "url": "https://dev.to/bolollo/maptiler-server-on-raspberry-pi-a-geeks-guide-to-self-hosted-maps-19d4"
     },
     {
-      "url": "https://gis.stackexchange.com/questions/136203/how-do-i-serve-osm-map-tiles-mbtiles-from-a-raspberry-pi-2",
-      "title": "How do I serve OSM map tiles (mbtiles) from a Raspberry PI 2?"
+      "title": "How do I serve OSM map tiles (mbtiles) from a Raspberry PI 2?",
+      "url": "https://gis.stackexchange.com/questions/136203/how-do-i-serve-osm-map-tiles-mbtiles-from-a-raspberry-pi-2"
     },
     {
-      "url": "https://henrywithu.com/host-your-own-map-server-with-openstreetmap/",
-      "title": "Host Your Own Map Server with OpenStreetMap - Trapnest"
+      "title": "GitHub - abeylot/geodataserver: a lightweight tile map server",
+      "url": "https://github.com/abeylot/geodataserver"
     },
     {
-      "url": "https://wiki.openstreetmap.org/wiki/Raspberry_Pi",
-      "title": "Raspberry Pi - OpenStreetMap Wiki"
+      "title": "Host Your Own Map Server with OpenStreetMap - Trapnest",
+      "url": "https://henrywithu.com/host-your-own-map-server-with-openstreetmap/"
+    },
+    {
+      "title": "Raspberry Pi - OpenStreetMap Wiki",
+      "url": "https://wiki.openstreetmap.org/wiki/Raspberry_Pi"
     }
   ],
   "cap alerts feed oregon county": [
     {
-      "url": "https://alerts.weather.gov/cap/OR.php?x=1",
-      "title": "NWS Alerts - National Weather Service"
+      "title": "OR-Alert : Emergency Notifications : State of Oregon",
+      "url": "https://oralert.gov/"
+    },
+    {
+      "title": "Enterprise Information Services : OR-Alert - Oregon.gov",
+      "url": "https://www.oregon.gov/eis/siec/pages/or-alert.aspx"
+    },
+    {
+      "title": "NWS Alerts - National Weather Service",
+      "url": "https://alerts.weather.gov/cap/OR.php?x=1"
+    },
+    {
+      "title": "CAP Alerts Feed - Overview - ArcGIS",
+      "url": "https://www.arcgis.com/home/item.html?id=6e00ddc7558f48f98996502fb367473f"
+    },
+    {
+      "title": "NetAlerts CAP Feed Guide",
+      "url": "http://www.netalerts.org/cap-feed.html"
     }
   ],
   "noaa weather radio portland frequency": [
     {
-      "url": "https://www.weatherusa.net/radio",
-      "title": "NOAA Weather Radio Online: Listen to local channels | weatherUSA"
+      "title": "NOAA Weather Radio - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/NOAA_Weather_Radio"
+    },
+    {
+      "title": "NOAA Weather Radio Online: Listen to local channels | weatherUSA",
+      "url": "https://www.weatherusa.net/radio"
+    },
+    {
+      "title": "JENSEN JEP-950 Portable Bluetooth AM/FM/ NOAA Weather Band...",
+      "url": "https://www.youtube.com/watch?v=CQoaAvIzQ6g"
+    },
+    {
+      "title": "Joseph Oregon Weather - Weather Alerts Portland , OR",
+      "url": "https://josephoregonweather.com/forecast/portlandfcst/wxalerts.php?a=ORZ111"
+    },
+    {
+      "title": "NOAA Weather Radio",
+      "url": "https://www.surfmusic.de/noaa_weather_radio.htm"
     }
   ],
   "aprs igate raspberry pi setup": [
     {
-      "url": "https://www.besthamradio.com/building-your-own-aprs-igate/",
-      "title": "Building Your Own APRS iGate with Raspberry Pi: A Complete Guide"
+      "title": "Building Your Own APRS iGate with Raspberry Pi: A Complete Guide",
+      "url": "https://www.besthamradio.com/building-your-own-aprs-igate/"
     },
     {
-      "url": "https://bdking71.wordpress.com/2024/09/18/building-a-receive-only-aprs-igate-with-raspberry-pi-and-sdr/",
-      "title": "Building a Receive-Only APRS iGate with Raspberry Pi and SDR"
+      "title": "Build an APRS IGate - WCARES",
+      "url": "https://wcares.org/special-interests-3/aprs/build-an-aprs-igate/"
     },
     {
-      "url": "https://www.regnatarajan.com/radio/create-aprs-receive-only-igate-raspberry-pi",
-      "title": "Create a Receive-ONLY APRS iGate on a Raspberry Pi"
+      "title": "Building a Receive-Only APRS iGate with Raspberry Pi and SDR",
+      "url": "https://bdking71.wordpress.com/2024/09/18/building-a-receive-only-aprs-igate-with-raspberry-pi-and-sdr/"
+    },
+    {
+      "title": "Create a Receive-ONLY APRS iGate on a Raspberry Pi",
+      "url": "https://www.regnatarajan.com/radio/create-aprs-receive-only-igate-raspberry-pi"
+    },
+    {
+      "title": "APRS Digipeater/iGate with Direwolf (Entry Level) - K5eok",
+      "url": "https://k5eok.org/2021/01/19/aprs-digipeater-igate-with-direwolf-entry-level/"
     }
   ],
   "frs vs ham emergency neighborhood rules": [
     {
-      "url": "https://www.swfe.org/files/e5b9d683f/Use+of+Radios+in+Neighborhood+Communication+(Final+06-05-24).pdf",
-      "title": "PDF Use of Radios in Responding to Neighborhood Emergencies"
+      "title": "PDF Use of Radios in Responding to Neighborhood Emergencies",
+      "url": "https://www.swfe.org/files/e5b9d683f/Use+of+Radios+in+Neighborhood+Communication+(Final+06-05-24).pdf"
     },
     {
-      "url": "https://eugeneemcomm.org/what-are-people-with-frs-radios-supposed-to-do-in-an-emergency/",
-      "title": "What are people with FRS radios supposed to do in an emergency?"
+      "title": "What are people with FRS radios supposed to do in an emergency?",
+      "url": "https://eugeneemcomm.org/what-are-people-with-frs-radios-supposed-to-do-in-an-emergency/"
     },
     {
-      "url": "https://www.cert-la.com/downloads/radio/Using-FRS-and-GMRS-by-N6VI-10-14-09-1.pdf",
-      "title": "PDF Using FRS and GMRS Radios for Local Disaster Communications"
+      "title": "PDF Using FRS and GMRS Radios for Local Disaster Communications",
+      "url": "https://www.cert-la.com/downloads/radio/Using-FRS-and-GMRS-by-N6VI-10-14-09-1.pdf"
     },
     {
-      "url": "https://www.certrichmond.org/emergency-radio-communication",
-      "title": "CERT Richmond - Emergency Radio Communication"
+      "title": "CERT Richmond - Emergency Radio Communication",
+      "url": "https://www.certrichmond.org/emergency-radio-communication"
     },
     {
-      "url": "https://midlandusa.com/blogs/blog/6-things-you-should-know-about-fcc-changes-for-frs-and-gmrs-radios",
-      "title": "6 Things About the New FCC GMRS and FRS Radio Rules"
+      "title": "6 Things About the New FCC GMRS and FRS Radio Rules",
+      "url": "https://midlandusa.com/blogs/blog/6-things-you-should-know-about-fcc-changes-for-frs-and-gmrs-radios"
     }
   ],
   "go kit battery air filtration wildfire": [
     {
-      "url": "https://readyforwildfire.org/prepare-for-wildfire/emergency-supply-kit/",
-      "title": "Wildfire 'Go Bag' Checklist: Your Emergency Supply Kit | CAL FIRE"
+      "title": "Wildfire 'Go Bag' Checklist: Your Emergency Supply Kit | CAL FIRE",
+      "url": "https://readyforwildfire.org/prepare-for-wildfire/emergency-supply-kit/"
     },
     {
-      "url": "https://projectwildfire.org/resources/kit/",
-      "title": "Build Your Own Go-Kit - projectwildfire.org"
+      "title": "Build Your Own Go-Kit - projectwildfire.org",
+      "url": "https://projectwildfire.org/resources/kit/"
     },
     {
-      "url": "https://www.ready.gov/kit",
-      "title": "Build A Kit - Ready.gov"
+      "title": "Build A Kit - Ready.gov",
+      "url": "https://www.ready.gov/kit"
     },
     {
-      "url": "https://www.3m.com/3M/en_US/home-improvement-us/resources/wildfiresafety/",
-      "title": "Wildfire Safety"
+      "title": "Wildfire Safety",
+      "url": "https://www.3m.com/3M/en_US/home-improvement-us/resources/wildfiresafety/"
     },
     {
-      "url": "https://www.nafahq.org/2025/05/21/guidance-for-dealing-with-wildfire-smoke/",
-      "title": "Guidance for Dealing with Wildfire Smoke - National Air Filtration ..."
+      "title": "Guidance for Dealing with Wildfire Smoke - National Air Filtration ...",
+      "url": "https://www.nafahq.org/2025/05/21/guidance-for-dealing-with-wildfire-smoke/"
     }
   ],
   "offline forecast cache script python": [
     {
-      "url": "https://medium.com/microsoft-power-bi/from-prediction-to-presentation-sales-forecasting-with-metas-prophet-and-power-bi-using-python-5c4d298f748e",
-      "title": "From Prediction to Presentation: Sales Forecasting with... | Medium"
+      "title": "pip - Caching two different versioned Python venvs... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/71505703/caching-two-different-versioned-python-venvs-in-gitlab-ci"
+    },
+    {
+      "title": "From Prediction to Presentation: Sales Forecasting with... | Medium",
+      "url": "https://medium.com/microsoft-power-bi/from-prediction-to-presentation-sales-forecasting-with-metas-prophet-and-power-bi-using-python-5c4d298f748e"
+    },
+    {
+      "title": "3 Easy Ways To Use Python In Power BI | F9 Finance",
+      "url": "https://www.f9finance.com/python-in-power-bi/"
+    },
+    {
+      "title": "Latency Analysis for in-memory cache nodes... - UMA Technology",
+      "url": "https://umatechnology.org/latency-analysis-for-in-memory-cache-nodes-documented-in-change-request-logs/"
+    },
+    {
+      "title": "Rhino - Grasshopper Scripting : Python",
+      "url": "https://developer.rhino3d.com/guides/scripting/scripting-gh-python/"
     }
   ],
   "ecmwf vs gfs west coast summer skill": [
     {
-      "url": "https://windy.app/blog/ecmwf-vs-gfs-differences-accuracy.html",
-      "title": "ECMWF vs GFS . What\u2019s the difference, and which... - Windy.app"
+      "title": "ECMWF vs GFS . What\u2019s the difference, and which... - Windy.app",
+      "url": "https://windy.app/blog/ecmwf-vs-gfs-differences-accuracy.html"
     },
     {
-      "url": "https://www.latitude38.com/lectronic/weather-forecasting-cruisers-gfs-vs-ecmwf/",
-      "title": "Weather Forecasting for Cruisers: GFS vs ECMWF ?"
+      "title": "Weather Forecasting for Cruisers: GFS vs ECMWF ?",
+      "url": "https://www.latitude38.com/lectronic/weather-forecasting-cruisers-gfs-vs-ecmwf/"
     },
     {
-      "url": "https://www.surfertoday.com/surfing/the-differences-between-the-gfs-and-ecmwf-weather-models",
-      "title": "The differences between the GFS and ECMWF weather models"
+      "title": "The differences between the GFS and ECMWF weather models",
+      "url": "https://www.surfertoday.com/surfing/the-differences-between-the-gfs-and-ecmwf-weather-models"
     },
     {
-      "url": "https://blog.weather.us/model-mania-what-are-the-ecmwf-and-gfs-models-and-why-are-they-different/",
-      "title": "Model Mania: What Are The ECMWF and GFS ... | Weather .us Blog"
+      "title": "Model Mania: What Are The ECMWF and GFS ... | Weather .us Blog",
+      "url": "https://blog.weather.us/model-mania-what-are-the-ecmwf-and-gfs-models-and-why-are-they-different/"
+    },
+    {
+      "title": "ECMWF vs . GFS : What brings the start of Summer 2021 in Europe?",
+      "url": "https://mkweather.com/ecmwf-vs-gfs-what-brings-the-start-of-summer-2021-in-europe/"
     }
   ],
-  "rap model surface winds portland": [],
+  "rap model surface winds portland": [
+    {
+      "title": "Interactive wind speed map. Shows global forecasted surface winds .",
+      "url": "https://zoom.earth/maps/wind-speed/"
+    },
+    {
+      "title": "Assimilation of Oceansat-2-Scatterometer-Derived Surface Winds in...",
+      "url": "https://www.researchgate.net/publication/254057499_Assimilation_of_Oceansat-2-Scatterometer-Derived_Surface_Winds_in_the_Weather_Research_and_Forecasting_Model"
+    },
+    {
+      "title": "Portland Wind Forecast, OR 97209 - WillyWeather",
+      "url": "https://wind.willyweather.com/or/multnomah-county/portland.html"
+    },
+    {
+      "title": "portland Wind Forecast: wind speed & gusts \u2014 Windy .app",
+      "url": "https://windy.app/forecast2/spot/34604/portland"
+    },
+    {
+      "title": "Temps drop in Portland ; Winds set up ornery fire behavior | KOIN.com",
+      "url": "https://www.koin.com/weather/temps-drop-in-portland-winds-set-up-ornery-fire-behavior/"
+    }
+  ],
   "skew t meteogram portland soundings": [
     {
-      "url": "https://www.meteoblue.com/tr/hava/tahmin/meteogramweb/portland_abd_4841001",
-      "title": "Meteogram Portland - meteoblue"
+      "title": "Decoding WeatherUWYO Soundings : Your Guide To Atmospheric Data",
+      "url": "https://iwow.com.kz/blog/decoding-weatheruwyo-soundings-your-guide"
+    },
+    {
+      "title": "Soundings / Skew T - Better Detail <3000m @ Windy Community",
+      "url": "https://community.windy.com/topic/36102/soundings-skew-t-better-detail-3000m/2"
+    },
+    {
+      "title": "Weather 97239, Portland , Oregon",
+      "url": "https://www.worldweatheronline.com/v2/weather.aspx?q=97239"
+    },
+    {
+      "title": "Meteogram Portland - meteoblue",
+      "url": "https://www.meteoblue.com/tr/hava/tahmin/meteogramweb/portland_abd_4841001"
+    },
+    {
+      "title": "Bepaal de toestand van de atmosfeer via een Skew - T",
+      "url": "https://www.noodweer.be/skew-t-atmosfeer/"
     }
   ],
   "weekly neighborhood weather digest template": [
     {
-      "url": "https://www.postermywall.com/index.php/posters/search?s=weekly+weather+report",
-      "title": "2.8K+ Free Templates for 'Weekly weather report' - PosterMyWall"
+      "title": "2.8K+ Free Templates for 'Weekly weather report' - PosterMyWall",
+      "url": "https://www.postermywall.com/index.php/posters/search?s=weekly+weather+report"
     },
     {
-      "url": "https://www.canva.com/templates/s/weather/",
-      "title": "Free and customizable weather templates - Canva"
+      "title": "Free and customizable weather templates - Canva",
+      "url": "https://www.canva.com/templates/s/weather/"
     },
     {
-      "url": "https://www.teacherspayteachers.com/browse/Search:weekly+weather+report/Price-Range/Free",
-      "title": "Weekly Weather Report Teaching Resources | Teachers Pay Teachers - TPT"
+      "title": "Weekly Weather Report Teaching Resources | Teachers Pay Teachers - TPT",
+      "url": "https://www.teacherspayteachers.com/browse/Search:weekly+weather+report/Price-Range/Free"
     },
     {
-      "url": "https://www.template.net/weather",
-      "title": "Free Weather Templates to Edit Online"
+      "title": "Free Weather Templates to Edit Online",
+      "url": "https://www.template.net/weather"
     },
     {
-      "url": "https://www.freepik.com/free-photos-vectors/weather-forecast-template",
-      "title": "Weather forecast template Images - Free Download on Freepik"
+      "title": "Weather forecast template Images - Free Download on Freepik",
+      "url": "https://www.freepik.com/free-photos-vectors/weather-forecast-template"
     }
   ]
 }

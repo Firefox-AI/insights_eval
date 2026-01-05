@@ -1,1362 +1,2190 @@
 {
   "wcag 2.2 checklist pdf": [
     {
-      "url": "https://www.anysurfer.be/nl/documentatie/artikels/detail/webaims-wcag-2-checklist",
-      "title": "WCAG checklist van WebAIM - Standaarden en wetgeving - AnySurfer"
+      "title": "WCAG 2 Overview | Web Accessibility Initiative (WAI) | W3C",
+      "url": "https://www.w3.org/WAI/standards-guidelines/wcag/"
+    },
+    {
+      "title": "A Guide to WCAG | Web Accessibility Guidelines Overview",
+      "url": "https://www.wcag.com/resource/what-is-wcag/"
+    },
+    {
+      "title": "\u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 WCAG \u2014 \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c \u2014 \u0414\u043e\u043a\u0430",
+      "url": "https://doka.guide/a11y/wcag/"
+    },
+    {
+      "title": "WCAG checklist van WebAIM - Standaarden en wetgeving - AnySurfer",
+      "url": "https://www.anysurfer.be/nl/documentatie/artikels/detail/webaims-wcag-2-checklist"
+    },
+    {
+      "title": "Don't Fall to WCAG 2 . 2 checklist Blindly, Read This Article",
+      "url": "https://troyvmfsf.shoutmyblog.com/37646005/don-t-fall-to-wcag-2-2-checklist-blindly-read-this-article"
     }
   ],
   "android 15 accessibility features overview": [
     {
-      "url": "https://developer.android.com/about/versions/15/features",
-      "title": "Features and APIs Overview | Android Developers"
+      "title": "Android 15 features \u2014 here\u2019s everything new coming... | Tom's Guide",
+      "url": "https://www.tomsguide.com/phones/android-phones/android-15-features-heres-everything-new-coming-to-your-android-phone"
+    },
+    {
+      "title": "Features and APIs Overview | Android Developers",
+      "url": "https://developer.android.com/about/versions/15/features"
+    },
+    {
+      "title": "Android 15 Update: What\u2019s New and Improved on... | Twigby Mobile",
+      "url": "https://www.twigby.com/blog/android-15-update-whats-new-and-improved-on-your-pixel/"
+    },
+    {
+      "title": "Latest Android Version: What\u2019s New in the Update",
+      "url": "https://www.optimum.com/articles/mobile/latest-android-version"
+    },
+    {
+      "title": "Android 15 Release: Top Features , Smarter AI... - News Pulse",
+      "url": "https://news.netairoy.com/featured/android-15-release/"
     }
   ],
   "ios 18 live captions offline support": [
     {
-      "url": "https://krispitech.com/apple-devices-gain-support-for-live-caption-in-offline-mode/",
-      "title": "Apple Devices Gain Support For Live Caption in Offline Mode"
+      "title": "Apple Devices Gain Support For Live Caption in Offline Mode",
+      "url": "https://krispitech.com/apple-devices-gain-support-for-live-caption-in-offline-mode/"
     },
     {
-      "url": "https://techdator.net/iphone-ipad-mac-offline-live-caption/",
-      "title": "iPhones , iPads and Macs are Getting Support For Offline Live ..."
+      "title": "iPhones , iPads and Macs are Getting Support For Offline Live ...",
+      "url": "https://techdator.net/iphone-ipad-mac-offline-live-caption/"
+    },
+    {
+      "title": "Apple's New Accessibility Features Include On-Device Live Captions",
+      "url": "https://gizmodo.com/apple-iphone-ipad-mac-on-device-live-captions-accessibi-1848939497?scrolla=5eb6d68b7fedc32c19ef33b4"
+    },
+    {
+      "title": "Apple announces Live Captions and other upcoming accessibility...",
+      "url": "https://www.xda-developers.com/apple-announces-live-captions-other-accessibility-features/"
+    },
+    {
+      "title": "iOS 26.2 Or iOS 18 .7.3\u2014Here\u2019s Which New iPhone Update To Choose",
+      "url": "https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-or-ios-1873-heres--which-new-iphone-update-to-choose/"
     }
   ],
   "windows 11 24H2 recall disable group policy": [
     {
-      "url": "https://www.minitool.com/news/how-to-disable-recall-ai-on-windows-11.html",
-      "title": "How to Disable the Recall AI Feature on Windows 11 ?"
+      "title": "How to Disable the Recall AI Feature on Windows 11 ?",
+      "url": "https://www.minitool.com/news/how-to-disable-recall-ai-on-windows-11.html"
     },
     {
-      "url": "https://www.thewindowsclub.com/enable-or-disable-recall-snapshots-in-windows",
-      "title": "Enable, Disable or Delete Recall Snapshots in Windows 11"
+      "title": "Enable, Disable or Delete Recall Snapshots in Windows 11",
+      "url": "https://www.thewindowsclub.com/enable-or-disable-recall-snapshots-in-windows"
     },
     {
-      "url": "https://pureinfotech.com/disable-recall-windows-11/",
-      "title": "4 Quick ways to permanently disable Windows Recall on Windows 11"
+      "title": "4 Quick ways to permanently disable Windows Recall on Windows 11",
+      "url": "https://pureinfotech.com/disable-recall-windows-11/"
     },
     {
-      "url": "https://www.ninjaone.com/blog/enable-or-disable-recall-snapshots-in-windows-11/",
-      "title": "How to Enable or Disable Recall Snapshots in Windows 11 | NinjaOne"
+      "title": "How to Enable or Disable Recall Snapshots in Windows 11 | NinjaOne",
+      "url": "https://www.ninjaone.com/blog/enable-or-disable-recall-snapshots-in-windows-11/"
     },
     {
-      "url": "https://www.elevenforum.com/t/enable-or-disable-recall-feature-in-windows-11.30869/",
-      "title": "Enable or Disable Recall Feature in Windows 11 | Windows 11 Forum"
+      "title": "Enable or Disable Recall Feature in Windows 11 | Windows 11 Forum",
+      "url": "https://www.elevenforum.com/t/enable-or-disable-recall-feature-in-windows-11.30869/"
     }
   ],
   "firefox esr 128 release notes breaking changes": [
     {
-      "url": "https://www.firefox.com/en-US/firefox/128.0esr/releasenotes/",
-      "title": "Firefox ESR 128.0esr, See All New Features, Updates and Fixes"
+      "title": "Firefox ESR 128.0esr, See All New Features, Updates and Fixes",
+      "url": "https://www.firefox.com/en-US/firefox/128.0esr/releasenotes/"
     },
     {
-      "url": "https://support.mozilla.org/kb/firefox-enterprise-128-release-notes",
-      "title": "Firefox for Enterprise 128 - Release notes | Firefox for ..."
+      "title": "Firefox for Enterprise 128 - Release notes | Firefox for ...",
+      "url": "https://support.mozilla.org/kb/firefox-enterprise-128-release-notes"
     },
     {
-      "url": "https://www.firefox.com/en-US/firefox/128.8.1/releasenotes/",
-      "title": "Firefox ESR 128.8.1, See All New Features, Updates and Fixes"
+      "title": "Firefox 128: big feature release and new ESR-base - gHacks ...",
+      "url": "https://www.ghacks.net/2024/07/09/firefox-128-big-feature-release-and-new-esr-base/"
+    },
+    {
+      "title": "Firefox ESR 128.3.0 released - Google Groups",
+      "url": "https://groups.google.com/a/mozilla.org/g/announce/c/yb1Ozyy2Rmg"
+    },
+    {
+      "title": "Firefox ESR 128.8.1, See All New Features, Updates and Fixes",
+      "url": "https://www.firefox.com/en-US/firefox/128.8.1/releasenotes/"
     }
   ],
   "edge tracking protection strict compatibility list": [
     {
-      "url": "https://learn.microsoft.com/en-us/microsoft-edge/web-platform/tracking-prevention",
-      "title": "Tracking prevention in Microsoft Edge - Microsoft Edge ..."
+      "title": "Tracking prevention in Microsoft Edge - Microsoft Edge ...",
+      "url": "https://learn.microsoft.com/en-us/microsoft-edge/web-platform/tracking-prevention"
+    },
+    {
+      "title": "Enable or Disable Tracking Prevention in Microsoft Edge",
+      "url": "https://www.elevenforum.com/t/enable-or-disable-tracking-prevention-in-microsoft-edge.34980/"
+    },
+    {
+      "title": "Microsoft Edge's Tracking Prevention: The Ultimate Guide to ...",
+      "url": "https://windowsforum.com/threads/microsoft-edges-tracking-prevention-the-ultimate-guide-to-privacy-security.372633/"
+    },
+    {
+      "title": "How to Turn On or Off Tracking Prevention in Microsoft Edge ...",
+      "url": "https://www.tenforums.com/tutorials/145047-how-turn-off-tracking-prevention-microsoft-edge-chromium.html"
+    },
+    {
+      "title": "How to Enable or Disable Tracking Prevention in Microsoft Edge",
+      "url": "https://www.geeksforgeeks.org/techtips/how-to-enable-or-disable-tracking-prevention-in-microsoft-edge/"
     }
   ],
   "nvidia linux driver 560 release notes wayland fixes": [
     {
-      "url": "https://www.phoronix.com/news/NVIDIA-560.35.03-Linux-Driver",
-      "title": "NVIDIA 560 .35.03 Linux Driver Released With More Wayland Fixes"
+      "title": "NVIDIA 560 .35.03 Linux Driver Released With More Wayland Fixes",
+      "url": "https://www.phoronix.com/news/NVIDIA-560.35.03-Linux-Driver"
     },
     {
-      "url": "https://www.gamingonlinux.com/2024/07/nvidia-560-linux-driver-beta-has-wayland-improvements-defaults-to-open-gpu-kernel-modules/",
-      "title": "NVIDIA 560 Linux driver Beta has Wayland ... | GamingOnLinux"
+      "title": "NVIDIA 560 Linux driver Beta has Wayland ... | GamingOnLinux",
+      "url": "https://www.gamingonlinux.com/2024/07/nvidia-560-linux-driver-beta-has-wayland-improvements-defaults-to-open-gpu-kernel-modules/"
     },
     {
-      "url": "https://9to5linux.com/nvidia-560-linux-driver-released-with-open-gpu-kernel-modules-by-default",
-      "title": "NVIDIA 560 Linux Driver Released with Open GPU... - 9to5 Linux"
+      "title": "560 release feedback & discussion - Page 11 - Linux - NVIDIA ...",
+      "url": "https://forums.developer.nvidia.com/t/560-release-feedback-discussion/300830?page=11"
+    },
+    {
+      "title": "NVIDIA 560 Linux Driver Released with Open GPU... - 9to5 Linux",
+      "url": "https://9to5linux.com/nvidia-560-linux-driver-released-with-open-gpu-kernel-modules-by-default"
+    },
+    {
+      "title": "Bug #2081140 \u201cPoor desktop frame rate in Nvidia Wayland ...\u201d",
+      "url": "https://bugs.launchpad.net/ubuntu/+source/mutter/+bug/2081140"
     }
   ],
   "mesa 24.3 changelog zink performance": [
     {
-      "url": "https://docs.mesa3d.org/relnotes/24.3.0.html",
-      "title": "Mesa 24.3.0 Release Notes / 2024-11-21 \u2014 The Mesa 3D Graphics ..."
+      "title": "Mesa 24.3.3 Release Notes / 2025-01-03 \u2014 The Mesa 3D Graphics ...",
+      "url": "https://docs.mesa3d.org/relnotes/24.3.3.html"
     },
     {
-      "url": "https://docs.mesa3d.org/relnotes/24.3.3.html",
-      "title": "Mesa 24.3.3 Release Notes / 2025-01-03 \u2014 The Mesa 3D Graphics ..."
+      "title": "Mesa 24.3 Lands \"The Juiciest Refactor Ever\" - Phoronix",
+      "url": "https://www.phoronix.com/news/Mesa-24.3-Juiciest-Refactor"
     },
     {
-      "url": "https://www.phoronix.com/news/Mesa-24.3-Juiciest-Refactor",
-      "title": "Mesa 24.3 Lands \"The Juiciest Refactor Ever\" - Phoronix"
+      "title": "Mesa 24.3.0 Released - Geeks3D",
+      "url": "https://www.geeks3d.com/forums/index.php?topic=7986.0"
+    },
+    {
+      "title": "Mesa 24.3 Launch: Free OpenGL & Vulkan Support | Altus Intel",
+      "url": "https://www.altusintel.com/public-yycr5j/"
+    },
+    {
+      "title": "Mesa 24.3.0 Release Notes / 2024-11-21 \u2014 The Mesa 3D Graphics ...",
+      "url": "https://docs.mesa3d.org/relnotes/24.3.0.html"
     }
   ],
-  "linux kernel 6.12 i915 regressions": [],
-  "proxmox 8.3 zfs compatibility notes": [
+  "linux kernel 6.12 i915 regressions": [
     {
-      "url": "https://distrowatch.com/?newsid=12295",
-      "title": "Distribution Release: Proxmox 8 . 3 \"Virtual Environment...\""
+      "title": "23102 \u2013 [bisected] i 915 regression in post 2.6.36 kernels",
+      "url": "https://bugzilla.kernel.org/show_bug.cgi?id=23102"
     },
     {
-      "url": "https://www.notebookcheck.net/Open-source-virtualization-platform-Proxmox-8-3-Virtual-Environment-launches-with-multiple-package-updates.922303.0.html",
-      "title": "Open source virtualization platform Proxmox 8 . 3 Virtual Environment..."
+      "title": "After upgrading from kernel 6 .14 to 6.16 on Fedora 42, the screen did...",
+      "url": "https://discussion.fedoraproject.org/t/after-upgrading-from-kernel-6-14-to-6-16-on-fedora-42-the-screen-did-not-turn-on/163179"
+    },
+    {
+      "title": "Bug #2077260 \u201c[ i 915 ] Screen freezes on Intel Arrandale in kernel ...\u201d...",
+      "url": "https://bugs.launchpad.net/ubuntu/+source/linux/+bug/2077260"
+    },
+    {
+      "title": "Regression between kernels 6 . 12 .20-current-sunxi and... | Forum",
+      "url": "https://forum.armbian.com/topic/53495-regression-between-kernels-61220-current-sunxi-and-61230-current-sunxi/"
+    },
+    {
+      "title": "Linux Kernel 6 .19 Slab Regression Fixed After NUMA Changes Slow...",
+      "url": "https://www.webpronews.com/linux-kernel-6-19-slab-regression-fixed-after-numa-changes-slow-module-loading/"
+    }
+  ],
+  "proxmox 8.3 zfs compatibility notes": [
+    {
+      "title": "Roadmap - Proxmox VE",
+      "url": "https://pve.proxmox.com/wiki/Roadmap"
+    },
+    {
+      "title": "Distribution Release: Proxmox 8 . 3 \"Virtual Environment...\"",
+      "url": "https://distrowatch.com/?newsid=12295"
+    },
+    {
+      "title": "Home Assistant: Proxmox VE 8 . 3 Quick Start Guide",
+      "url": "https://www.derekseaman.com/2023/10/home-assistant-proxmox-ve-8-0-quick-start-guide-2.html"
+    },
+    {
+      "title": "Open source virtualization platform Proxmox 8 . 3 Virtual Environment...",
+      "url": "https://www.notebookcheck.net/Open-source-virtualization-platform-Proxmox-8-3-Virtual-Environment-launches-with-multiple-package-updates.922303.0.html"
+    },
+    {
+      "title": "Proxmox VE Administration Guide",
+      "url": "https://support.alcadis.nl/Support_files/Proxmox/Proxmox+VE/Manual/Proxmox+VE+8.0.4/pve-admin-guide.pdf"
     }
   ],
   "esxi alternative 2025 xcp-ng licensing": [
     {
-      "url": "https://ivolve.io/blog/vmware-alternatives-2025/",
-      "title": "VMware Alternatives in 2025: Best Picks, Costs & Migration"
+      "title": "VMware Alternatives in 2025: Best Picks, Costs & Migration",
+      "url": "https://ivolve.io/blog/vmware-alternatives-2025/"
     },
     {
-      "url": "https://appmus.com/vs/xcp-ng-vs-vmware-esxi",
-      "title": "XCP-ng vs VMware vSphere Hypervisor Comparison (2025 ..."
+      "title": "XCP-ng vs VMware vSphere Hypervisor Comparison (2025 ...",
+      "url": "https://appmus.com/vs/xcp-ng-vs-vmware-esxi"
     },
     {
-      "url": "https://www.itspyworld.com/2025/03/best-hypervisor-in-2025-it-depends-on.html",
-      "title": "Best Hypervisor in 2025: It depends on your pain tolerance"
+      "title": "Best Hypervisor in 2025: It depends on your pain tolerance",
+      "url": "https://www.itspyworld.com/2025/03/best-hypervisor-in-2025-it-depends-on.html"
     },
     {
-      "url": "https://www.starwindsoftware.com/blog/no-more-paid-licensing-xcp-ng-hypervisor-with-backup-and-migration-tools-for-vmware-users/",
-      "title": "XCP-NG: Open-Source VMware Alternative with Migration Tools"
+      "title": "XCP-NG: Open-Source VMware Alternative with Migration Tools",
+      "url": "https://www.starwindsoftware.com/blog/no-more-paid-licensing-xcp-ng-hypervisor-with-backup-and-migration-tools-for-vmware-users/"
     },
     {
-      "url": "https://theserverhost.com/blog/post/vmware-esxi-vs-xcp-ng",
-      "title": "VMware ESXi vs XCP-ng - Which one to choose? Key difference"
+      "title": "VMware ESXi vs XCP-ng - Which one to choose? Key difference",
+      "url": "https://theserverhost.com/blog/post/vmware-esxi-vs-xcp-ng"
     }
   ],
   "debian 13 trixie freeze dates": [
     {
-      "url": "https://release.debian.org/trixie/freeze_policy.html",
-      "title": "trixie Freeze Timeline and Policy - release.debian.org"
+      "title": "trixie Freeze Timeline and Policy - release.debian.org",
+      "url": "https://release.debian.org/trixie/freeze_policy.html"
     },
     {
-      "url": "https://www.phoronix.com/news/Debian-13-Freeze-Dates",
-      "title": "Initial Freeze Dates Announced For Debian 13.0 \"Trixie\""
+      "title": "Initial Freeze Dates Announced For Debian 13.0 \"Trixie\"",
+      "url": "https://www.phoronix.com/news/Debian-13-Freeze-Dates"
     },
     {
-      "url": "https://linuxiac.com/debian-13-freeze-begins-in-march-debian-15-codename-revealed/",
-      "title": "Debian 13 Freeze Begins in March, Debian 15 Codename Revealed"
+      "title": "Debian 13 Freeze Begins in March, Debian 15 Codename Revealed",
+      "url": "https://linuxiac.com/debian-13-freeze-begins-in-march-debian-15-codename-revealed/"
     },
     {
-      "url": "https://www.linuxcompatible.org/story/debian-13-freeze-dates/",
-      "title": "Debian 13 Freeze Dates - linuxcompatible.org"
+      "title": "Debian 13 Freeze Dates - linuxcompatible.org",
+      "url": "https://www.linuxcompatible.org/story/debian-13-freeze-dates/"
     },
     {
-      "url": "https://itsfoss.gitlab.io/post/debian-13-trixie-nears-stable-release-final-freeze-set-for-august-2025/",
-      "title": "Debian 13 Trixie Nears Stable Release Final Freeze Set for ..."
+      "title": "Debian 13 Trixie Nears Stable Release Final Freeze Set for ...",
+      "url": "https://itsfoss.gitlab.io/post/debian-13-trixie-nears-stable-release-final-freeze-set-for-august-2025/"
     }
   ],
   "fedora 42 roadmap": [
     {
-      "url": "https://gitlab.com/fedora/docs/fedora-linux-documentation/release-notes/-/milestones/3",
-      "title": "Fedora 42 release \u00b7 Milestones \u00b7 Fedora / Fedora Docs ..."
+      "title": "Fedora Linux Release Life Cycle",
+      "url": "https://docs.fedoraproject.org/en-US/releases/lifecycle/"
     },
     {
-      "url": "https://fedorapeople.org/groups/schedule/",
-      "title": "Fedora Project schedules"
+      "title": "Fedora 42 release \u00b7 Milestones \u00b7 Fedora / Fedora Docs ...",
+      "url": "https://gitlab.com/fedora/docs/fedora-linux-documentation/release-notes/-/milestones/3"
+    },
+    {
+      "title": "Announcing Fedora 42 - redhat.com",
+      "url": "https://www.redhat.com/en/blog/announcing-fedora-42"
+    },
+    {
+      "title": "Fedora presents its roadmap for the next three years",
+      "url": "https://blog.desdelinux.net/en/Fedora-presents-its-roadmap-for-the-next-three-years/"
+    },
+    {
+      "title": "Fedora Project schedules",
+      "url": "https://fedorapeople.org/groups/schedule/"
     }
   ],
   "ubuntu 24.10 known issues page": [
     {
-      "url": "https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878",
-      "title": "Oracular Oriole Release Notes - Ubuntu Community Hub"
+      "title": "Oracular Oriole Release Notes - Ubuntu Community Hub",
+      "url": "https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878"
     },
     {
-      "url": "https://medium.com/@ananthsgouri/ubuntu-24-10-oracular-oriole-new-features-and-known-issues-5b808da5d3f2",
-      "title": "Ubuntu 24.10 \u2014 \u201cOracular Oriole\u201d \u2014 new features and known issues"
+      "title": "Ubuntu 24.10 \u2014 \u201cOracular Oriole\u201d \u2014 new features and known issues",
+      "url": "https://medium.com/@ananthsgouri/ubuntu-24-10-oracular-oriole-new-features-and-known-issues-5b808da5d3f2"
+    },
+    {
+      "title": "Ubuntu 24.10 Reaches End of Life: Here's What to Do Next",
+      "url": "https://itsfoss.com/news/ubuntu-24-10-eol/"
+    },
+    {
+      "title": "Recently Active '24.10' Questions - Ask Ubuntu",
+      "url": "https://askubuntu.com/questions/tagged/24.10?tab=Active"
+    },
+    {
+      "title": "Ubuntu 7610-1: Resolved critical kernel issues for improved ...",
+      "url": "https://linuxsecurity.com/advisories/ubuntu/ubuntu-7610-1-linux-kernel-5sq6d6kv29vg"
     }
   ],
-  "framework laptop 16 battery replacement guide": [],
+  "framework laptop 16 battery replacement guide": [
+    {
+      "title": "Framework | Framework Laptop 16 pre-orders are now open!",
+      "url": "https://frame.work/laptop16"
+    },
+    {
+      "title": "HP Omen 16 Battery Replacement - iFixit Repair Guide",
+      "url": "https://www.ifixit.com/Guide/HP+Omen+16+Battery+Replacement/170788"
+    },
+    {
+      "title": "GitHub - FrameworkComputer/ Framework - Laptop - 16 : Documentation...",
+      "url": "https://github.com/FrameworkComputer/Framework-Laptop-16"
+    },
+    {
+      "title": "Using the Framework Laptop 16 : The Most Customizable Laptop I\u2019ve...",
+      "url": "https://webvatorshops.us/using-the-framework-laptop-16-the-most-customizable-laptop-ive-ever-owned/"
+    },
+    {
+      "title": "Framework Laptop 16 - ArchWiki",
+      "url": "https://wiki.archlinux.org/title/Framework_Laptop_16"
+    }
+  ],
   "fairphone 5 software support timeline": [
     {
-      "url": "https://www.yahoo.com/news/longevity-loving-fairphone-5-unwrapped-105449201.html",
-      "title": "Longevity-loving Fairphone 5 unwrapped, with pledge of 8+ years..."
+      "title": "Fairphone - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fairphone"
+    },
+    {
+      "title": "Longevity-loving Fairphone 5 unwrapped, with pledge of 8+ years...",
+      "url": "https://www.yahoo.com/news/longevity-loving-fairphone-5-unwrapped-105449201.html"
+    },
+    {
+      "title": "Google Maps on FP 5 - Fairphone 5 - Fairphone Community Forum",
+      "url": "https://forum.fairphone.com/t/google-maps-on-fp5/122142"
+    },
+    {
+      "title": "Is Fairphone 5 something more than marketing gibberish about...",
+      "url": "https://lstv.co.uk/news/tech/is-fairphone-5-something-more-than-marketing-gibberish-about-sustainability.html"
+    },
+    {
+      "title": "The Fairphone 5 is a bit more repairable and more modern",
+      "url": "https://www.lankatimes.com/the-fairphone-5-is-a-bit-more-repairable-and-more-modern/"
     }
   ],
   "lenovo thinkpad t14 gen 5 hardware maintenance manual": [
     {
-      "url": "https://support.lenovo.com/us/en/manuals/um928932-hardware-maintenance-manual-thinkpad-p14s-gen-5-t14-gen-5-t16-gen-3",
-      "title": "(English) Hardware Maintenance Manual - ThinkPad P14s Gen 5 ..."
+      "title": "Lenovo Services - Learn More from CDW",
+      "url": "https://www.bing.com/aclick?ld=e8kcFQhJUxexcUqZqpWbO5KjVUCUx6taM7beS7N3MeYXCl72iZkymzASM8dmrO7OFP0Qbg7GVC6Asr-H-fUlnb1gt59ClkLJzoMnaYStjZimUkKEzHjmMJhEnCDSJwvCwVNJa31Vbj1pfxBcQty9u_Vf2dsnCKuizw9IkfygMFBpjNSmD1RUISd9gjrqujrVbKkVQtzu6R-boLxbMlzzjx2Pfo02A&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmY0MjIzJTJmY3ElM2Zldl9zaWQlM2QxMCUyNmV2X2xuJTNkJTI1MjJsZW5vdm8lMjUyMHN1cHBvcnQlMjUyMHNlcnZpY2VzJTI1MjIlMjZldl9sdHglM2QlMjZldl9seCUzZGt3ZC03NDI4NTk3MTk0NzI5MyUzYWxvYy0xOTAlMjZldl9jcnglM2Q3NDI4NjAyNjYxMzAwNSUyNmV2X210JTNkcCUyNmV2X2R2YyUzZGMlMjZldl9waHklM2Q1ODE2MiUyNmV2X2xvYyUzZCUyNmV2X2N4JTNkMzYxNzE4MzUyJTI2ZXZfYXglM2QxMTg4NTcyOTkyNzY1ODA3JTI2ZXZfZXglM2QlMjZldl9lZmlkJTNkNmE5YmU1ZmViMGU5MTQ2M2RhZGY4Y2JmN2VmODA4ZjIlM2FHJTNhcyUyNnVybCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmNkdy5jb20lMjUyRmNvbnRlbnQlMjUyRmNkdyUyNTJGZW4lMjUyRmJyYW5kJTI1MkZsZW5vdm8tY2xpZW50JTI1MkZsZW5vdm8tc2VydmljZXMuaHRtbCUyNTNGY21fdmVuJTI1M0RhY3F1aXJneSUyNTI2Y21fY2F0JTI1M0RiaW5nJTI1MjZjbV9wbGElMjUzRFMzJTI1MkJMZW5vdm8lMjUyQlNlcnZpY2VzJTI1MjZjbV9pdGUlMjUzRFNlcnZpY2VzJTI1MkJQJTI1MjZzX2t3Y2lkJTI1M0RBTCE0MjIzITEwITc0Mjg2MDI2NjEzMDA1ISEhITc0Mjg1OTcxOTQ3MjkzISEzNjE3MTgzNTIhMTE4ODU3Mjk5Mjc2NTgwNyUyNTI2ZWZfaWQlMjUzRDZhOWJlNWZlYjBlOTE0NjNkYWRmOGNiZjdlZjgwOGYyJTI1M0FHJTI1M0FzJTI2bXNjbGtpZCUzZDZhOWJlNWZlYjBlOTE0NjNkYWRmOGNiZjdlZjgwOGYy&rlid=6a9be5feb0e91463dadf8cbf7ef808f2"
     },
     {
-      "url": "https://cdn.cs.1worldsync.com/syndication/mediaserverredirect/9229aff004cf6a2cb21de08603477b6c/original.pdf",
-      "title": "ThinkPad T14 Gen 5/P14s Gen 5 AMD/T16 Gen 3 Hardware ..."
+      "title": "(English) Hardware Maintenance Manual - ThinkPad P14s Gen 5 ...",
+      "url": "https://support.lenovo.com/us/en/manuals/um928932-hardware-maintenance-manual-thinkpad-p14s-gen-5-t14-gen-5-t16-gen-3"
+    },
+    {
+      "title": "ThinkPad T14 Gen 5/P14s Gen 5 AMD/T16 Gen 3 Hardware ...",
+      "url": "https://cdn.cs.1worldsync.com/syndication/mediaserverredirect/9229aff004cf6a2cb21de08603477b6c/original.pdf"
+    },
+    {
+      "title": "User manual Lenovo ThinkPad T14 Gen 5 (English - 158 pages) LENOVO THINKPAD T14 GEN 5 MANUAL Pdf Download | ManualsLib ThinkPad T14 Gen 5/P14s Gen 5 AMD/T16 Gen 3 User Guide Lenovo ThinkPad T14 G5 14\" b\u00e6rbar PC Product Manual Lenovo ThinkPad T14 Gen 5 user manual (English - 158 pages) User manual Lenovo ThinkPad T14 Gen 5 (English - 158 pages) ThinkPad T14 Gen 5 /P14s Gen 5 AMD/T16 Gen 3 Hardware Maintenan\u2026 Lenovo ThinkPad T14 Gen 5 user manual (English - 158 pages) Lenovo ThinkPad T14 Gen 5 user manual (English - 158 pages)",
+      "url": "https://www.manua.ls/lenovo/thinkpad-t14-gen-5/manual"
+    },
+    {
+      "title": "ThinkPad T14 Gen 5/P14s Gen 5 AMD/T16 Gen 3 User Guide",
+      "url": "https://fccid.io/2AJN7-TP00160AL/User-Manual/User-Manual-Guide-7160594.pdf"
     }
   ],
-  "site:ifixit thinkpad t14 trackpad replacement": [],
+  "site:ifixit thinkpad t14 trackpad replacement": [
+    {
+      "title": "Lenovo T14 Trackpad - Shop Lenovo T14 Trackpad",
+      "url": "https://www.bing.com/aclick?ld=e8_GMHeHkqsnBfpdpYwqd7rzVUCUzCienJwQHQQLp0yQ0lMIVtpi0JbaWTX07RGVIweJlBoAR5wJkiczvHI3BNK_zzeQ-Q5QFCjJlk-T3nou31ZePqgfCkzxwjXO9lm7xpKuDPan2HDBkQbQ927BMshxJGBwtHXFtiptS0kWDCag-TbdJMNHt4m8wJ0jCK1NXA8XG0ywuR-mGQNpxQcEYW7-svSHo&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGxlbm92byUyYnQxNCUyYnRyYWNrcGFkJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfOGx4ZmhvdGVpYl9wJTI2YWRncnBpZCUzZDEzMzgxMDgxNjg2MjIzNDMlMjZodmFkaWQlM2Q4MzYzMjAzNjc4NzgzNyUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODM2MzI5MjE0OTk3MDclM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDkyNF8xMDE0OTUwODkzJTI2bWNpZCUzZDkxNzRlZDYyMDllZTM4MWY4MjM0NDU2ZDFiOThkOGZhJTI2bXNjbGtpZCUzZDFjY2JmODJmYjExNjE0YjA5NDJlOTE2ZTdmMDU2MWI2&rlid=1ccbf82fb11614b0942e916e7f0561b6"
+    },
+    {
+      "title": "ThinkPad\u2122 T14 Series Laptop - Shop ThinkPad\u2122 T Series Laptop",
+      "url": "https://www.bing.com/aclick?ld=e8TxhaBPjx1wKqz25YppfRGTVUCUwEg6npn4G5hgQF6U7JhsPiPmqErC3CWVpTfjwSlQ8duJOKMBWoPWvNaGV84vW4BhohnoSdmssiTWPf70ZuAO3dDpp_vhvYn4Ap43e5Vtyj5hpMaw62mX4l0MffX7TDaIl_GzB_-mS7tVvF7Df_koD7R9YFvfmjoVOkJNdVEIuKiNSiFGXGdsXbmekE4d41Buo&u=aHR0cHMlM2ElMmYlMmZ3d3cubGVub3ZvLmNvbSUyZnVzJTJmZW4lMmZjJTJmbGFwdG9wcyUyZnRoaW5rcGFkJTJmdGhpbmtwYWR0JTJmJTNmY2lkJTNkdXMlM2FzZW0lN2NzZSU3Y21zbiU3Y3N1YmJyYW5kX3BjX3RoaW5rcGFkJTdjJTdjdGhpbmtwYWQlMjUyMHQxNHMlMjUyMGxhcHRvcCU3Y3AlN2M1MDYxMjUzODIlN2MxMjY0NDQwMDE3MDA3Nzk2JTdja3dkLTc5MDI3OTk4MTk3NzE3JTNhbG9jLTE5MCU3Y3NlYXJjaCU3YyU3Y2NvbnN1bWVyJTI2bXNjbGtpZCUzZGMxYjk5NmQ0ODBjZDE4ZjI1N2Y0ZmY5NTRlZGViNmE1&rlid=c1b996d480cd18f257f4ff954edeb6a5"
+    }
+  ],
   "thunderbolt 5 laptops list 2025": [
     {
-      "url": "https://thunderboltlaptop.com/thunderbolt-laptops-list/",
-      "title": "Thunderbolt 5 Laptops - Complete List (Oct. 2025)"
+      "title": "Thunderbolt 5 Laptop - See Our New Releases",
+      "url": "https://www.bing.com/aclick?ld=e8HS58xoukj2rNtDWJf7fU0jVUCUxFNrtsshJzenfBJMVBZ5qY4MwJoJia3rHCIAs4x848fbcFghbeWhWG7GWQhtmnpooq9EzMmU_o1nI787IQl1nMHqlBomIVpWKchXvqnWHJLERMs07Y1dnvQpd2Lflvy0Ano5N_LMkbQcv3BHHJhweL-_88okR75mRrv5DtxHtUa8sQSnMdUlPQCmtDhfxXj6g&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHRodW5kZXJib2x0JTJiNSUyYmxhcHRvcCUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzhoMm10ZzliM2lfcCUyNmFkZ3JwaWQlM2QxMzQ2OTA0MjYyNzU4MDk1JTI2aHZhZGlkJTNkODQxODE3OTI4NjI5NjclMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTg0MTgyNjc4MDE0NjkzJTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2QyNTY3N18xMzQ2NDgzNCUyNm1jaWQlM2QwMjBmOTg3YjFmNTkzZDJiYTc5M2ZmOTMxMjlhZmNjNCUyNm1zY2xraWQlM2QxYmI5MmFhNGU0NTIxODlhYjZmYjQzZTUyYTQ2MGY4Ng&rlid=1bb92aa4e452189ab6fb43e52a460f86"
     },
     {
-      "url": "https://mightygadget.co.uk/what-laptops-have-thunderbolt-5/",
-      "title": "What Laptops have Thunderbolt 5 in 2025 - List of TB5 Laptops"
+      "title": "Top 2025 Thunderbolt Laptops - Best in Class Thunderbolt 2025",
+      "url": "https://www.bing.com/aclick?ld=e8-hpaix3Di-33s2zhbkGfiTVUCUzK2KpM_VQsLzeq4WNDZo3EgrQUoQj0b2RfYDkauabkz9lzQzv1Myl1qVC7Wr79TYpUWCvEVKYapQYcgs2AOF_C6PjWYgJ1EFOSPeSLuNZQnHgAXF1d-Pppd6bwOX9tLnbWWvGWVTGtRsfTg2O__W54dw6H9H_egm0trD-OjrxxPTNy8SCbmcZ-MyXZ-KTR1Sc&u=aHR0cHMlM2ElMmYlMmZiZXN0cHJvZHVjdHNyZXZpZXdzLmNvbSUyZmxhcHRvcCUyNTIwbm90ZWJvb2slM2Z0YXJnZXRpZCUzZGt3ZC04NTI4MjIwNzU0MTU3MyUzYWxvYy0xOTAlMjZtYXRjaHR5cGUlM2RwJTI2ZGV2aWNlJTNkYyUyNmNhbXBhaWduaWQlM2Q1MzEzNDc5NjYlMjZjcmVhdGl2ZSUzZCUyNmFkZ3JvdXBpZCUzZDEzNjQ0OTY0ODUxNDc0NTUlMjZmZWVkaXRlbWlkJTNkJTI2bG9jX3BoeXNpY2FsX21zJTNkNTgxNjIlMjZsb2NfaW50ZXJlc3RfbXMlM2QlMjZuZXR3b3JrJTNkbyUyNmRldmljZW1vZGVsJTNkJTI2cGxhY2VtZW50JTNkJTI2a2V5d29yZCUzZCUyNGxhcHRvcCUyNTIwbm90ZWJvb2slMjZ0YXJnZXQlM2QlMjZhZHBvc2l0aW9uJTNkJTI2dHJhY2tpZCUzZHVzX2FsbF90b3BfMl9iaW5nJTI2bUlkJTNkSDE0OTAwM0NRTiUyNm1zY2xraWQlM2QzNGM1NDQyZDE2NWUxYWIzYmFmOTJkNmNkODRhZDE3Zg&rlid=34c5442d165e1ab3baf92d6cd84ad17f"
     },
     {
-      "url": "https://www.ultrabookreview.com/10579-laptops-thunderbolt-3/",
-      "title": "Thunderbolt 5 and Thunderbolt 4 laptops \u2013 the complete list"
+      "title": "Thunderbolt 5 Laptops - Complete List (Oct. 2025)",
+      "url": "https://thunderboltlaptop.com/thunderbolt-laptops-list/"
+    },
+    {
+      "title": "What Laptops have Thunderbolt 5 in 2025 - List of TB5 Laptops",
+      "url": "https://mightygadget.co.uk/what-laptops-have-thunderbolt-5/"
+    },
+    {
+      "title": "Thunderbolt 5 and Thunderbolt 4 laptops \u2013 the complete list",
+      "url": "https://www.ultrabookreview.com/10579-laptops-thunderbolt-3/"
     }
   ],
   "usb-c epr 240w cable tester reviews": [
     {
-      "url": "https://www.amazon.com/StarTech-com-Digital-Multimeter-Bi-Directional-Voltage/dp/B0DH8L1WGC",
-      "title": "StarTech.com USB-C Power Tester, Digital Multimeter, Bi ... Is there a good USB C cable tester? : r/UsbCHardware - Reddit I GOT SCAMMED: Amazon Listing Said 240W. My Tester ... - YouTube Plugable USB-C Voltage & Amperage Meter for High Power ... USBC-PWRTESTER | Startech\u00ae Startech.com Usb-c Power Tester ... StarTech.com USB-C Power Tester, Bi-Directional Voltage ..."
+      "title": "USB-C Power Tester, Digital Multimeter, Bi-Directional ...",
+      "url": "https://www.startech.com/en-us/cables/usbc-pwrtester"
     },
     {
-      "url": "https://www.reddit.com/r/UsbCHardware/comments/16qlkd2/is_there_a_good_usb_c_cable_tester/",
-      "title": "Is there a good USB C cable tester? : r/UsbCHardware - Reddit"
+      "title": "StarTech.com USB-C Power Tester, Digital Multimeter, Bi ... Is there a good USB C cable tester? : r/UsbCHardware - Reddit I GOT SCAMMED: Amazon Listing Said 240W. My Tester ... - YouTube Plugable USB-C Voltage & Amperage Meter for High Power ... USBC-PWRTESTER | Startech\u00ae Startech.com Usb-c Power Tester ... StarTech.com USB-C Power Tester, Bi-Directional Voltage ...",
+      "url": "https://www.amazon.com/StarTech-com-Digital-Multimeter-Bi-Directional-Voltage/dp/B0DH8L1WGC"
     },
     {
-      "url": "https://www.youtube.com/watch?v=uN7Bmcs0hqM",
-      "title": "I GOT SCAMMED: Amazon Listing Said 240W. My Tester ... - YouTube Plugable USB-C Voltage & Amperage Meter for High Power ... USBC-PWRTESTER | Startech\u00ae Startech.com Usb-c Power Tester ... StarTech.com USB-C Power Tester, Bi-Directional Voltage ..."
+      "title": "Is there a good USB C cable tester? : r/UsbCHardware - Reddit",
+      "url": "https://www.reddit.com/r/UsbCHardware/comments/16qlkd2/is_there_a_good_usb_c_cable_tester/"
+    },
+    {
+      "title": "I GOT SCAMMED: Amazon Listing Said 240W. My Tester ... - YouTube Plugable USB-C Voltage & Amperage Meter for High Power ... USBC-PWRTESTER | Startech\u00ae Startech.com Usb-c Power Tester ... StarTech.com USB-C Power Tester, Bi-Directional Voltage ...",
+      "url": "https://www.youtube.com/watch?v=uN7Bmcs0hqM"
+    },
+    {
+      "title": "Plugable USB-C Voltage & Amperage Meter for High Power ...",
+      "url": "https://plugable.com/products/usbc-vameter3"
     }
   ],
   "displaylink vs alt mode power drain laptop": [
     {
-      "url": "https://www.legrandav.com/resources/blog/usb-c_docking_stations_alt_mode_vs_displaylink_vs_mhl",
-      "title": "USB-C Docking Stations: Alt Mode vs . DisplayLink vs ... | Legrand AV"
+      "title": "USB-C Docking Stations: Alt Mode vs . DisplayLink vs ... | Legrand AV",
+      "url": "https://www.legrandav.com/resources/blog/usb-c_docking_stations_alt_mode_vs_displaylink_vs_mhl"
     },
     {
-      "url": "https://kb.plugable.com/usb-c-docks/what-is-the-difference-between-the-displaylink-vs-alt-mode-mst-ports",
-      "title": "What is the difference between the DisplayLink vs Alt Mode MST..."
+      "title": "What is the difference between the DisplayLink vs Alt Mode MST...",
+      "url": "https://kb.plugable.com/usb-c-docks/what-is-the-difference-between-the-displaylink-vs-alt-mode-mst-ports"
     },
     {
-      "url": "https://www.siig.com/knowledge-base/q-what-is-the-difference-between-displaylink-vs-alt-mode/",
-      "title": "What is the difference between DisplayLink vs Alt Mode"
+      "title": "The Correct USB to HDMI Adapter: Alt Mode vs . DisplayLink",
+      "url": "https://superanswer.blog/usb-hdmi-adapter-alt-mode-vs-displaylink"
     },
     {
-      "url": "https://plugable.zendesk.com/hc/en-us/articles/20177834517524-DisplayLink-vs-Alt-Mode-Video-Output",
-      "title": "DisplayLink vs Alt Mode Video Output \u2013 Plugable Support"
+      "title": "What is the difference between DisplayLink vs Alt Mode",
+      "url": "https://www.siig.com/knowledge-base/q-what-is-the-difference-between-displaylink-vs-alt-mode/"
+    },
+    {
+      "title": "DisplayLink vs Alt Mode Video Output \u2013 Plugable Support",
+      "url": "https://plugable.zendesk.com/hc/en-us/articles/20177834517524-DisplayLink-vs-Alt-Mode-Video-Output"
     }
   ],
   "dp 2.1 uhbr support gpu matrix": [
     {
-      "url": "https://www.reddit.com/r/hardware/comments/yldrob/rdna_3_gpus_support_dp_21_at_54gbps_for_4k480/",
-      "title": "RDNA 3 GPUs Support DP 2.1 At 54Gbps for \"4k480 ... - Reddit"
+      "title": "DisplayPort 2.1 has a serious issue with UHBR-certified ...",
+      "url": "https://www.tomshardware.com/monitors/displayport-21-has-a-serious-issue-with-uhbr-certified-cables-perhaps-thats-why-nvidia-opted-to-stick-with-dp14-on-the-rtx-40-series"
     },
     {
-      "url": "https://www.avsforum.com/threads/hdmi-2-1-frl-and-displayport-2-1-video-sources-for-gaming-home-theatre-pc-and-viewing-experience.3259197/",
-      "title": "HDMI 2.1 FRL and DisplayPort 2.1 UHBR video sources for..."
+      "title": "RDNA 3 GPUs Support DP 2.1 At 54Gbps for \"4k480 ... - Reddit",
+      "url": "https://www.reddit.com/r/hardware/comments/yldrob/rdna_3_gpus_support_dp_21_at_54gbps_for_4k480/"
+    },
+    {
+      "title": "HDMI 2.1 FRL and DisplayPort 2.1 UHBR video sources for...",
+      "url": "https://www.avsforum.com/threads/hdmi-2-1-frl-and-displayport-2-1-video-sources-for-gaming-home-theatre-pc-and-viewing-experience.3259197/"
+    },
+    {
+      "title": "DisplayPort 2.1 Explained - How-To Geek",
+      "url": "https://www.howtogeek.com/displayport-21-explained/"
+    },
+    {
+      "title": "GeForce GRD 591.44 Feedback Thread ( | NVIDIA GeForce Forums",
+      "url": "https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/578689/geforce-grd-59144-feedback-thread-released-12425/"
     }
   ],
   "intel lunar lake laptop release window": [
     {
-      "url": "https://www.tomsguide.com/computing/laptops/intel-lunar-lake-laptops-have-arrived-heres-5-launching-now",
-      "title": "Intel Lunar Lake laptops have arrived \u2014 here\u2019s 5 launching now Microsoft Surface Laptop 7 15 Lunar Lake review - A slap in ... Lunar Lake deep-dive: Intel\u2019s new AI laptop CPU is utterly ... Intel Lunar Lake Launched December 2025: Complete Guide ... 8 Best Intel Lunar Lake Laptops - Beebom Intel's Lunar Lake Laptops: Everything You Need to Know"
+      "title": "The complete list of Intel Lunar Lake laptops (Core Ultra 9 ...",
+      "url": "https://www.ultrabookreview.com/69679-intel-lunar-lake-laptops/"
     },
     {
-      "url": "https://www.pcworld.com/article/2350967/lunar-lake-deep-dive-intels-new-ai-laptop-cpu-is-utterly-different.html",
-      "title": "Lunar Lake deep-dive: Intel\u2019s new AI laptop CPU is utterly ..."
+      "title": "Intel Lunar Lake laptops have arrived \u2014 here\u2019s 5 launching now Microsoft Surface Laptop 7 15 Lunar Lake review - A slap in ... Lunar Lake deep-dive: Intel\u2019s new AI laptop CPU is utterly ... Intel Lunar Lake Launched December 2025: Complete Guide ... 8 Best Intel Lunar Lake Laptops - Beebom Intel's Lunar Lake Laptops: Everything You Need to Know",
+      "url": "https://www.tomsguide.com/computing/laptops/intel-lunar-lake-laptops-have-arrived-heres-5-launching-now"
     },
     {
-      "url": "https://www.ofzenandcomputing.com/intel-lunar-lake-launched/",
-      "title": "Intel Lunar Lake Launched December 2025: Complete Guide ..."
+      "title": "Microsoft Surface Laptop 7 15 Lunar Lake review - A slap in ...",
+      "url": "https://www.notebookcheck.net/Microsoft-Surface-Laptop-7-15-Lunar-Lake-review-A-slap-in-the-face-for-Windows-on-ARM.985263.0.html"
+    },
+    {
+      "title": "Lunar Lake deep-dive: Intel\u2019s new AI laptop CPU is utterly ...",
+      "url": "https://www.pcworld.com/article/2350967/lunar-lake-deep-dive-intels-new-ai-laptop-cpu-is-utterly-different.html"
+    },
+    {
+      "title": "Intel Lunar Lake Launched December 2025: Complete Guide ...",
+      "url": "https://www.ofzenandcomputing.com/intel-lunar-lake-launched/"
     }
   ],
   "amd strix point efficiency vs phoenix 7840u": [
     {
-      "url": "https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_7_7840u-vs-amd_ryzen_ai_9_hx_370",
-      "title": "AMD Ryzen 7 7840U vs AMD Ryzen AI 9 HX 370 - Benchmark ..."
+      "title": "AMD Ryzen 7 7840U vs AMD Ryzen AI 9 HX 370 - Benchmark ...",
+      "url": "https://www.cpu-monkey.com/en/compare_cpu-amd_ryzen_7_7840u-vs-amd_ryzen_ai_9_hx_370"
     },
     {
-      "url": "https://www.notebookcheck.net/AMD-Ryzen-AI-9-365-vs-Ryzen-7-7840U-Preliminary-Strix-Point-APU-performance-tests-reveal-notable-multi-core-and-IPC-gain.851873.0.html",
-      "title": "AMD Ryzen AI 9 365 vs Ryzen 7 7840U: Preliminary Strix Point ..."
+      "title": "AMD Ryzen AI 9 365 vs Ryzen 7 7840U: Preliminary Strix Point ...",
+      "url": "https://www.notebookcheck.net/AMD-Ryzen-AI-9-365-vs-Ryzen-7-7840U-Preliminary-Strix-Point-APU-performance-tests-reveal-notable-multi-core-and-IPC-gain.851873.0.html"
+    },
+    {
+      "title": "AMD APU (CPU+GPU) Review: From 7840U to the Monster \u201cStrix ...",
+      "url": "https://www.jdhodges.com/blog/amd-apu-cpugpu-review-from-7840u-to-the-monster-strix-halo-395-ai-max/"
+    },
+    {
+      "title": "[DF] Strix Point: AMD's Most Powerful Mobile Chip Yet ...",
+      "url": "https://www.resetera.com/threads/df-strix-point-amds-most-powerful-mobile-chip-yet-beelink-ser9-review.1057896/"
+    },
+    {
+      "title": "12-core AMD Strix Point Zen 5 engineering sample shows up in ...",
+      "url": "https://www.tomshardware.com/pc-components/cpus/12-core-amd-strix-point-zen-5-engineering-sample-shows-up-in-early-blender-benchmarks-matches-8-core-7700x-in-performance"
     }
   ],
   "apple m4 benchmarks battery life comparisons": [
     {
-      "url": "https://www.youtube.com/watch?v=lLIvCsthiH8",
-      "title": "Apple \u2019s best just got cheaper AND better - MacBook Air M 4 - YouTube"
+      "title": "Apple \u2019s best just got cheaper AND better - MacBook Air M 4 - YouTube",
+      "url": "https://www.youtube.com/watch?v=lLIvCsthiH8"
     },
     {
-      "url": "https://laptopmedia.com/comparisons/apple-m4-vs-m3-pro-max-vs-m2-pro-max-ultra-vs-m1-pro-max-ultra-the-ultimate-benchmark-comparison/",
-      "title": "Apple M 5 vs M 4 , M3, M2, M1 (+Pro/Max/Ultra): Full Comparison !"
+      "title": "Best Phone Battery Life : Full Test Results & Rankings - PhoneArena",
+      "url": "https://www.phonearena.com/phones/benchmarks/battery"
     },
     {
-      "url": "https://techmansion.tech/apple-m5-macbook-pro-vs-m4-pro-max/",
-      "title": "Apple M 5 MacBook Pro vs M 4 (Pro / Max) - Tech Mansion"
+      "title": "Apple M 5 vs M 4 , M3, M2, M1 (+Pro/Max/Ultra): Full Comparison !",
+      "url": "https://laptopmedia.com/comparisons/apple-m4-vs-m3-pro-max-vs-m2-pro-max-ultra-vs-m1-pro-max-ultra-the-ultimate-benchmark-comparison/"
     },
     {
-      "url": "https://browser.geekbench.com/ios-benchmarks",
-      "title": "iOS Benchmarks - Geekbench"
+      "title": "Apple M 5 MacBook Pro vs M 4 (Pro / Max) - Tech Mansion",
+      "url": "https://techmansion.tech/apple-m5-macbook-pro-vs-m4-pro-max/"
+    },
+    {
+      "title": "iOS Benchmarks - Geekbench",
+      "url": "https://browser.geekbench.com/ios-benchmarks"
     }
   ],
   "arc gpu linux power management state": [
     {
-      "url": "https://wiki.archlinux.org/title/Intel_graphics",
-      "title": "Intel graphics - ArchWiki"
+      "title": "Intel Arc - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Intel_Arc"
+    },
+    {
+      "title": "Modern GPUs waste power , and you probably never even noticed",
+      "url": "https://www.xda-developers.com/modern-gpus-waste-power-and-you-probably-never-even-noticed/"
+    },
+    {
+      "title": "Intel graphics - ArchWiki",
+      "url": "https://wiki.archlinux.org/title/Intel_graphics"
+    },
+    {
+      "title": "Intel Drivers Delivers Up To 15% Performance Boost To Arc GPUs In...",
+      "url": "https://wccftech.com/intel-drivers-delivers-up-to-15-performance-boost-to-arc-gpus-in-linux/"
+    },
+    {
+      "title": "Displaying Full GPU Details With nvidia-smi | Baeldung on Linux",
+      "url": "https://www.baeldung.com/linux/nvidia-smi-full-gpu-details"
     }
   ],
   "rocm 6 hardware support list": [
     {
-      "url": "https://rocm.docs.amd.com/en/latest/compatibility/compatibility-matrix.html",
-      "title": "Compatibility matrix \u2014 ROCm Documentation"
+      "title": "Compatibility matrix \u2014 ROCm Documentation",
+      "url": "https://rocm.docs.amd.com/en/latest/compatibility/compatibility-matrix.html"
     },
     {
-      "url": "https://github.com/ROCm/ROCm/blob/develop/docs/compatibility/compatibility-matrix.rst",
-      "title": "ROCm/docs/compatibility/compatibility-matrix.rst at develop ..."
+      "title": "Supported Hardware and Systems | ROCm/ROCm | DeepWiki",
+      "url": "https://deepwiki.com/ROCm/ROCm/1.2-supported-hardware-and-systems"
+    },
+    {
+      "title": "ROCm/docs/compatibility/compatibility-matrix.rst at develop ...",
+      "url": "https://github.com/ROCm/ROCm/blob/develop/docs/compatibility/compatibility-matrix.rst"
+    },
+    {
+      "title": "ROCm Installation Guide \u2014 ReadTheDocs-Breathe 1.0.0 documentation",
+      "url": "https://rocmdoc.readthedocs.io/en/latest/Installation_Guide/Installation-Guide.html"
+    },
+    {
+      "title": "AMD seeks input from users for ROCm GPU support list \u2014 RX ...",
+      "url": "https://www.tomshardware.com/pc-components/gpus/amd-seeks-input-from-users-for-rocm-gpu-support-list-rx-6000-rdna-2-gpus-most-highly-requested"
     }
   ],
   "intel wifi 6e linux driver firmware update": [
     {
-      "url": "https://wiki.debian.org/iwlwifi",
-      "title": "iwlwifi - Debian Wiki"
+      "title": "iwlwifi - Debian Wiki",
+      "url": "https://wiki.debian.org/iwlwifi"
     },
     {
-      "url": "https://githubissues.com/home-assistant/operating-system/3876",
-      "title": "Update firmware for Intel Wi - Fi 6 / 6 E /7 cards, bump linux - firmware to..."
+      "title": "Update firmware for Intel Wi - Fi 6 / 6 E /7 cards, bump linux - firmware to...",
+      "url": "https://githubissues.com/home-assistant/operating-system/3876"
+    },
+    {
+      "title": "[ DRIVERS ] Intel Ethernet/ WiFi /Bluetooth - Republic of Gamers Forum...",
+      "url": "https://rog-forum.asus.com/t5/downloads-for-motherboards/drivers-intel-ethernet-wifi-bluetooth/td-p/878985"
+    },
+    {
+      "title": "Intel AX200/AX210/BE200/BE201 - 4PDA | \u0424\u043e\u0440\u0443\u043c",
+      "url": "https://4pda.to/forum/index.php?showtopic=1021911&st=200"
+    },
+    {
+      "title": "Intel Wifi 6 AX200 - Lenovo Ideapad 5 Pro / Fedora 34 not working",
+      "url": "https://community.intel.com/t5/Wireless/Intel-Wifi-6-AX200-Lenovo-Ideapad-5-Pro-Fedora-34-not-working/m-p/1308183"
     }
   ],
   "openwrt 23 support for archer ax55": [
     {
-      "url": "https://forum.openwrt.org/t/support-for-new-tp-link-archer-ax55-v4/207485",
-      "title": "Support for new TP Link Archer AX55 V4 - OpenWrt Forum"
+      "title": "Support for new TP Link Archer AX55 V4 - OpenWrt Forum",
+      "url": "https://forum.openwrt.org/t/support-for-new-tp-link-archer-ax55-v4/207485"
     },
     {
-      "url": "https://github.com/N1kroks/openwrt-tplink-ax55",
-      "title": "GitHub - N1kroks/openwrt-tplink-ax55: Openwrt for TP-Link AX55 Add support for TP-LINK AX55 V1 - OpenWrt Forum Which router to use with Starlink - Gargoyle Forum TP-Link Archer AX55 : r/openwrt - Reddit Download for Archer AX55 | TP-Link"
+      "title": "GitHub - N1kroks/openwrt-tplink-ax55: Openwrt for TP-Link AX55 Add support for TP-LINK AX55 V1 - OpenWrt Forum Which router to use with Starlink - Gargoyle Forum TP-Link Archer AX55 : r/openwrt - Reddit Download for Archer AX55 | TP-Link",
+      "url": "https://github.com/N1kroks/openwrt-tplink-ax55"
     },
     {
-      "url": "https://forum.openwrt.org/t/add-support-for-tp-link-ax55-v1/158384",
-      "title": "Add support for TP-LINK AX55 V1 - OpenWrt Forum"
+      "title": "Add support for TP-LINK AX55 V1 - OpenWrt Forum",
+      "url": "https://forum.openwrt.org/t/add-support-for-tp-link-ax55-v1/158384"
     },
     {
-      "url": "https://www.reddit.com/r/openwrt/comments/utv2hv/tplink_archer_ax55/",
-      "title": "TP-Link Archer AX55 : r/openwrt - Reddit"
+      "title": "Which router to use with Starlink - Gargoyle Forum",
+      "url": "https://www.gargoyle-router.com/phpbb/viewtopic.php?t=18038"
+    },
+    {
+      "title": "TP-Link Archer AX55 : r/openwrt - Reddit",
+      "url": "https://www.reddit.com/r/openwrt/comments/utv2hv/tplink_archer_ax55/"
     }
   ],
   "ubiquiti unifi data collection privacy policy": [
     {
-      "url": "https://www.ui.com/legal/privacypolicy/",
-      "title": "Privacy Policy - Ubiquiti"
+      "title": "Privacy Policy - Ubiquiti",
+      "url": "https://www.ui.com/legal/privacypolicy/"
     },
     {
-      "url": "https://itman.ae/2025/07/08/unifi-telemetry-privacy-controls-guide/",
-      "title": "A Complete Guide to UniFi Telemetry & Privacy Controls ..."
+      "title": "Privacy Policy (EU and USA) | Ubiquity Global Services",
+      "url": "https://www.ubiquity.com/privacy-policy"
     },
     {
-      "url": "https://unifi.knoji.com/questions/unifi-privacy-data-policy/",
-      "title": "Does Ubiquiti have a clear privacy policy? Do they sell my data?"
+      "title": "A Complete Guide to UniFi Telemetry & Privacy Controls ...",
+      "url": "https://itman.ae/2025/07/08/unifi-telemetry-privacy-controls-guide/"
+    },
+    {
+      "title": "Does Ubiquiti have a clear privacy policy? Do they sell my data?",
+      "url": "https://unifi.knoji.com/questions/unifi-privacy-data-policy/"
+    },
+    {
+      "title": "Privacy Policy - Unifi.com",
+      "url": "https://unifi.com/privacy-policy"
     }
   ],
   "omada controller local only setup": [
     {
-      "url": "https://www.tp-link.com/tr/support/faq/4096/",
-      "title": "Getting started with an Omada Controller | TP-Link T\u00fcrkiye"
+      "title": "Getting started with an Omada Controller | TP-Link T\u00fcrkiye",
+      "url": "https://www.tp-link.com/tr/support/faq/4096/"
     },
     {
-      "url": "https://support.omadanetworks.com/ca/document/13220/",
-      "title": "Getting started with an Omada Controller | Omada Network Support"
+      "title": "Getting started with an Omada Controller | Omada Network Support",
+      "url": "https://support.omadanetworks.com/ca/document/13220/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=e5lCHtagnHA",
-      "title": "TP Link Omada Controller installation and setup first time - YouTube"
+      "title": "TP Link Omada Controller installation and setup first time - YouTube",
+      "url": "https://www.youtube.com/watch?v=e5lCHtagnHA"
+    },
+    {
+      "title": "How to add Omada Controller via Omada App | TP-Link",
+      "url": "https://www.vigi.com/us/support/faq/4027/"
+    },
+    {
+      "title": "TP-Link Omada SDN Controller User Guide: AI Chat & PDF | Manualzz",
+      "url": "https://manualzz.com/doc/o/126llt/tp-link-oc200-omada-hardware-controller-user-guide-manage-administrator-accounts-of-omada-sdn-controller"
     }
   ],
   "netgear r7000 eol security updates": [
     {
-      "url": "https://www.netgear.com/support/",
-      "title": "NETGEAR Support: Select Your Product Use Case"
+      "title": "NETGEAR Support: Select Your Product Use Case",
+      "url": "https://www.netgear.com/support/"
+    },
+    {
+      "title": "Netgear Nighthawk R 7000 VPN Setup Demo - YouTube",
+      "url": "https://www.youtube.com/watch?v=2yUwjvrv2Qo"
+    },
+    {
+      "title": "Netgear R 7000 Vs TP-Link A7: Which Fits Your Home? | WiFi Guy",
+      "url": "https://wifi-guy.net/blog/netgear-r7000-vs-tp-link-a7-which-fits-your-home/"
+    },
+    {
+      "title": "Netgear R - 7000 Air time fairness ? | SNBForums",
+      "url": "https://www.snbforums.com/threads/netgear-r-7000-air-time-fairness.26032/"
+    },
+    {
+      "title": "Netgear Nighthawk R 7000 - AC1900 Smart WiFi Router... - Tweakers",
+      "url": "https://tweakers.net/productreview/111052/netgear-nighthawk-r7000-ac1900-smart-wifi-router.html"
     }
   ],
   "site:nvd.nist.gov patch tuesday december 2025": [
     {
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-24071",
-      "title": "NVD - CVE-2025-24071"
+      "title": "Automate Patch Tuesday updates - Gain visibility over patches",
+      "url": "https://www.bing.com/aclick?ld=e8wWpoRurczOclVve2sDHdODVUCUw0enN6CXnMKAasgiRiX4Tun39_ln3n8NnoRC6mA2J5BRjbi7NaJqVUkbMU4bIa1nt8FETKJrWYGqZqbzfzNJTpf2id5ETsdjkTnG62KGrUw4GNfgZox8F42IqcJnEKHaBPiSGVgsBujQMg-it_L7kt6t-cmz53o4uac7gnciUubBz8eXja32BEMuhXCSWlJxk&u=aHR0cHMlM2ElMmYlMmZ3d3cubWFuYWdlZW5naW5lLmNvbSUyZnByb2R1Y3RzJTJmZGVza3RvcC1jZW50cmFsJTJmcGF0Y2gtbWFuYWdlbWVudC11ZW0uaHRtbCUzZmRpZGNvZGUlM2RkY3BtJTI2bmV0d29yayUzZG8lMjZkZXZpY2UlM2RjJTI2a2V5d29yZCUzZHBhdGNobWFuYWdlbWVudCUyNmNhbXBhaWduaWQlM2Q0MDEyMDgzNTAlMjZjcmVhdGl2ZSUzZCUyNm1hdGNodHlwZSUzZHAlMjZhZHBvc2l0aW9uJTNkJTI2cGxhY2VtZW50JTNkJTI2YWRncm91cCUzZDEzMDI5MjE1MjgzMTk0MTUlMjZ0YXJnZXRpZCUzZGt3ZC04MTQzMjc0MjI2MzAxNCUzYWxvYy0xOTAlMjZsb2NhdGlvbiUzZCU3YmxvY2F0aW9uJTdkJTI2c2VhcmNodGVybSUzZHBhdGNoJTI1MjB0dWVzZGF5JTI1MjBkZWNlbWJlciUyNTIwMjAyNSUyNm1zY2xraWQlM2QyN2YyM2I5OTMzOTkxYzVhYjc3NTUyZDhmZDg2NjYwZCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEJpbmctREMtU2VhcmNoLVVTQS1MMS1QaHJhc2UlMjUyRkJNTSUyNnV0bV90ZXJtJTNkcGF0Y2htYW5hZ2VtZW50JTI2dXRtX2NvbnRlbnQlM2RQYXRjaCUyNTIwTWFuYWdlbWVudA&rlid=27f23b9933991c5ab77552d8fd86660d"
     },
     {
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-32433",
-      "title": "NVD - CVE-2025-32433"
+      "title": "NVD - CVE-2025-24071",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-24071"
     },
     {
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-29824",
-      "title": "NVD - CVE-2025-29824"
+      "title": "NVD - CVE-2025-32433",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-32433"
     },
     {
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-0889",
-      "title": "NVD - CVE-2025-0889"
+      "title": "NVD - CVE-2025-29824",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-29824"
+    },
+    {
+      "title": "NVD - CVE-2025-0889",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-0889"
     }
   ],
   "microsoft cvss 9+ december 2025 list": [
     {
-      "url": "https://vuldb.com/?id.335384",
-      "title": "CVE- 2025 -54100 Microsoft Windows PowerShell command injection"
+      "title": "CVE- 2025 -64672 - Exploits & Severity - Feedly",
+      "url": "https://feedly.com/cve/CVE-2025-64672"
+    },
+    {
+      "title": "Windows 11 December 2025 Dynamic Updates... | Windows Forum",
+      "url": "https://windowsforum.com/threads/windows-11-december-2025-dynamic-updates-safe-os-and-setup-dus-explained.393681/"
+    },
+    {
+      "title": "Latest Visual C++ Redistributable Runtimes All-in-One Dec 2025 ...",
+      "url": "https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/"
+    },
+    {
+      "title": "CVE- 2025 -54100 Microsoft Windows PowerShell command injection",
+      "url": "https://vuldb.com/?id.335384"
+    },
+    {
+      "title": "All Plants vs Brainrots codes ( December 2025 ) | GamesRadar+",
+      "url": "https://www.gamesradar.com/games/simulation/plants-vs-brainrots-codes/"
     }
   ],
   "cisa known exploited vulnerabilities recent additions": [
     {
-      "url": "https://www.linkedin.com/posts/hive-pro_cisa-known-exploited-vulnerability-catalog-activity-7392125415001092097-6L11",
-      "title": "CISA adds 31 new vulnerabilities , 12 are zero-days... | LinkedIn"
+      "title": "CISA adds 31 new vulnerabilities , 12 are zero-days... | LinkedIn",
+      "url": "https://www.linkedin.com/posts/hive-pro_cisa-known-exploited-vulnerability-catalog-activity-7392125415001092097-6L11"
     },
     {
-      "url": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html",
-      "title": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling..."
+      "title": "BOD 22-01: Reducing the Significant Risk of Known Exploited ... | CISA",
+      "url": "https://www.cisa.gov/news-events/directives/bod-22-01-reducing-significant-risk-known-exploited-vulnerabilities"
     },
     {
-      "url": "https://www.scworld.com/analysis/with-ukraine-driving-urgency-cisa-adds-95-bugs-to-its-catalog-of-known-exploited-vulnerabilities",
-      "title": "With Ukraine driving urgency, CISA adds 95 bugs to its catalog of..."
+      "title": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling...",
+      "url": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html"
+    },
+    {
+      "title": "Recent GeoServer Vulnerability Exploited in Attacks - SecurityWeek",
+      "url": "https://www.securityweek.com/recent-geoserver-vulnerability-exploited-in-attacks/"
+    },
+    {
+      "title": "With Ukraine driving urgency, CISA adds 95 bugs to its catalog of...",
+      "url": "https://www.scworld.com/analysis/with-ukraine-driving-urgency-cisa-adds-95-bugs-to-its-catalog-of-known-exploited-vulnerabilities"
     }
   ],
   "zoom low bandwidth mode settings": [
     {
-      "url": "https://assets.zoom.us/docs/user-guides/User+Guide+-+Optimizing+Performance+in+Low+Bandwidth+Environments.pdf",
-      "title": "Optimizing Performance of Zoom in Low Bandwidth Environments"
+      "title": "Optimizing Performance of Zoom in Low Bandwidth Environments",
+      "url": "https://assets.zoom.us/docs/user-guides/User+Guide+-+Optimizing+Performance+in+Low+Bandwidth+Environments.pdf"
     },
     {
-      "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059400",
-      "title": "Limiting network bandwidth - Zoom"
+      "title": "Limiting network bandwidth - Zoom",
+      "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059400"
     },
     {
-      "url": "https://nestnepal.com/blog/zoom-low-internet-bandwidth-optimization-guide/",
-      "title": "Use Zoom on Low Internet Bandwidth: 25+ Proven Tips to Stay ..."
+      "title": "Use Zoom on Low Internet Bandwidth: 25+ Proven Tips to Stay ...",
+      "url": "https://nestnepal.com/blog/zoom-low-internet-bandwidth-optimization-guide/"
     },
     {
-      "url": "https://improveworkspace.com/how-to-use-zoom-on-slow-internet-connections/",
-      "title": "How to Use Zoom on Slow Internet Connections?"
+      "title": "How to Use Zoom on Slow Internet Connections?",
+      "url": "https://improveworkspace.com/how-to-use-zoom-on-slow-internet-connections/"
     },
     {
-      "url": "https://ats.udel.edu/conferencing/zoom/reducing-data-and-bandwidth-use/",
-      "title": "Reducing Zoom Data and Bandwidth Use - University of Delaware"
+      "title": "Reducing Zoom Data and Bandwidth Use - University of Delaware",
+      "url": "https://ats.udel.edu/conferencing/zoom/reducing-data-and-bandwidth-use/"
     }
   ],
   "teams data saver video call quality": [
     {
-      "url": "https://support.microsoft.com/en-us/office/optimize-mobile-data-usage-in-microsoft-teams-126f45b0-00b4-45a0-97e4-2d4c6940c63e",
-      "title": "Optimize mobile data usage in Microsoft Teams"
+      "title": "Optimize mobile data usage in Microsoft Teams",
+      "url": "https://support.microsoft.com/en-us/office/optimize-mobile-data-usage-in-microsoft-teams-126f45b0-00b4-45a0-97e4-2d4c6940c63e"
     },
     {
-      "url": "https://www.techbloat.com/how-to-enable-data-saver-in-microsoft-teams.html",
-      "title": "How to Enable Data Saver in Microsoft Teams - TechBloat"
+      "title": "How to Enable Data Saver in Microsoft Teams - TechBloat",
+      "url": "https://www.techbloat.com/how-to-enable-data-saver-in-microsoft-teams.html"
     },
     {
-      "url": "https://umatechnology.org/microsoft-teams-is-getting-a-low-data-mode-for-video-calls/",
-      "title": "Microsoft Teams Is Getting a Low Data Mode for Video Calls"
+      "title": "Microsoft Teams Is Getting a Low Data Mode for Video Calls",
+      "url": "https://umatechnology.org/microsoft-teams-is-getting-a-low-data-mode-for-video-calls/"
     },
     {
-      "url": "https://vectorlinux.com/how-to-reduce-data-usage-on-microsoft-teams/",
-      "title": "How To Reduce Data Usage On Microsoft Teams - Vector Linux"
+      "title": "How To Reduce Data Usage On Microsoft Teams - Vector Linux",
+      "url": "https://vectorlinux.com/how-to-reduce-data-usage-on-microsoft-teams/"
+    },
+    {
+      "title": "How to Fix Microsoft Teams Call Quality Issues",
+      "url": "https://www.evidenced.app/blog/teams-call-issues"
     }
   ],
   "webrtc av1 vs vp9 low bitrate comparison": [
     {
-      "url": "https://hackernoon.com/how-good-is-webrtc-screen-sharing-really-i-put-4-codecs-to-the-test",
-      "title": "How Good Is WebRTC Screen Sharing, Really? I Put 4 Codecs to ..."
+      "title": "AV1 vs VP9 Codecs: Which is Best - Cloudinary",
+      "url": "https://cloudinary.com/guides/video-formats/av1-vs-vp9"
     },
     {
-      "url": "https://www.webrtc-developers.com/comparison-of-webrtc-codecs-for-video-and-screen-sharing/",
-      "title": "Comparison of WebRTC Codecs for Video and Screen Sharing"
+      "title": "AV1 vs VP9 vs VP8: Codec Comparison Guide 2025 - Red5",
+      "url": "https://www.red5.net/blog/av1-vs-vp9-vs-vp8-comparison-for-live-streaming/"
+    },
+    {
+      "title": "VP9 vs AV1: Which Video Codec Should You Choose?",
+      "url": "https://www.enveu.com/blog/vp9-vs-av1"
+    },
+    {
+      "title": "How Good Is WebRTC Screen Sharing, Really? I Put 4 Codecs to ...",
+      "url": "https://hackernoon.com/how-good-is-webrtc-screen-sharing-really-i-put-4-codecs-to-the-test"
+    },
+    {
+      "title": "Comparison of WebRTC Codecs for Video and Screen Sharing",
+      "url": "https://www.webrtc-developers.com/comparison-of-webrtc-codecs-for-video-and-screen-sharing/"
     }
   ],
   "adaptive bitrate hls low latency tradeoffs": [
     {
-      "url": "https://docs.aws.amazon.com/wellarchitected/latest/streaming-media-lens/tradeoffs.html",
-      "title": "Tradeoffs - Streaming Media Lens - docs.aws.amazon.com"
+      "title": "Tradeoffs - Streaming Media Lens - docs.aws.amazon.com",
+      "url": "https://docs.aws.amazon.com/wellarchitected/latest/streaming-media-lens/tradeoffs.html"
     },
     {
-      "url": "https://blog.blazingcdn.com/en-us/cdn-stream-optimization-adaptive-bitrate-low-latency-hls",
-      "title": "CDN Stream Optimization: Adaptive Bitrate and Low-Latency HLS"
+      "title": "CDN Stream Optimization: Adaptive Bitrate and Low-Latency HLS",
+      "url": "https://blog.blazingcdn.com/en-us/cdn-stream-optimization-adaptive-bitrate-low-latency-hls"
     },
     {
-      "url": "https://www.videosdk.live/developer-hub/hls/hls-low-latency",
-      "title": "HLS Low Latency: The Ultimate 2025 Guide for Real-Time ..."
+      "title": "HLS Low Latency: The Ultimate 2025 Guide for Real-Time ...",
+      "url": "https://www.videosdk.live/developer-hub/hls/hls-low-latency"
     },
     {
-      "url": "https://dl.acm.org/doi/abs/10.1145/3503161.3548544",
-      "title": "Low Latency Live Streaming Implementation in DASH and HLS"
+      "title": "Adaptive Streaming with HLS: Handling Low-Bandwidth Networks",
+      "url": "https://wawand.co/blog/posts/adaptative-streaming-with-hls/"
+    },
+    {
+      "title": "Low Latency Live Streaming Implementation in DASH and HLS",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3503161.3548544"
     }
   ],
   "android data saver per app exceptions": [
     {
-      "url": "https://www.android.com/intl/en_uk/articles/how-to-use-android-data-saver/",
-      "title": "Android Data Saver : Benefits & How to Check Data Usage | Android"
+      "title": "How to turn off Android Data Saver mode",
+      "url": "https://www.androidpolice.com/android-data-saver-mode-enable/"
     },
     {
-      "url": "https://www.computerworld.com/article/1674827/13-easy-ways-to-cut-back-on-data-use-in-android.html",
-      "title": "Android Data Saver and beyond: 13 ways to cut data use in Android ..."
+      "title": "Android Data Saver : Benefits & How to Check Data Usage | Android",
+      "url": "https://www.android.com/intl/en_uk/articles/how-to-use-android-data-saver/"
     },
     {
-      "url": "https://community.sony.ch/t5/x-series/how-works-data-saver-android-7/td-p/3492133",
-      "title": "Solved: How works Data Saver Android 7? - Sony"
+      "title": "Android Data Saver and beyond: 13 ways to cut data use in Android ...",
+      "url": "https://www.computerworld.com/article/1674827/13-easy-ways-to-cut-back-on-data-use-in-android.html"
+    },
+    {
+      "title": "Hotspot & Data Saver : Android Guide & Fixes",
+      "url": "https://allanswers.blog/hotspot-data-saver-android/"
+    },
+    {
+      "title": "Solved: How works Data Saver Android 7? - Sony",
+      "url": "https://community.sony.ch/t5/x-series/how-works-data-saver-android-7/td-p/3492133"
     }
   ],
   "ios low data mode impact background refresh": [
     {
-      "url": "https://support.apple.com/en-us/102433",
-      "title": "Use Low Data Mode on your iPhone and iPad - Apple Support"
+      "title": "Use Low Data Mode on your iPhone and iPad - Apple Support",
+      "url": "https://support.apple.com/en-us/102433"
     },
     {
-      "url": "https://www.simplymac.com/ios/low-data-mode-iphone",
-      "title": "What Is Low Data Mode On iPhone? - SimplyMac"
+      "title": "What Is Low Data Mode On iPhone? - SimplyMac",
+      "url": "https://www.simplymac.com/ios/low-data-mode-iphone"
     },
     {
-      "url": "https://www.getnomad.app/blog/what-is-low-data-mode-on-iphone",
-      "title": "What is Low Data Mode on iPhone? Your Ultimate Guide to ..."
+      "title": "What is Low Data Mode on iPhone? Your Ultimate Guide to ...",
+      "url": "https://www.getnomad.app/blog/what-is-low-data-mode-on-iphone"
     },
     {
-      "url": "https://www.bnesim.com/all/what-is-low-data-mode-on-iphone-simple-guide-for-ios-users/",
-      "title": "What Is Low Data Mode on iPhone? Simple Guide for iOS Users"
+      "title": "What Is Low Data Mode on iPhone? Simple Guide for iOS Users",
+      "url": "https://www.bnesim.com/all/what-is-low-data-mode-on-iphone-simple-guide-for-ios-users/"
+    },
+    {
+      "title": "Data Saver iPhone Guide: How to Stop Apps From Wasting Data",
+      "url": "https://broadbandnow.com/guides/iphone-data-wasting-apps"
     }
   ],
   "aria live regions best practices examples": [
     {
-      "url": "https://www.a11y-collective.com/blog/aria-live/",
-      "title": "The Complete Guide to ARIA Live Regions for Developers"
+      "title": "The Complete Guide to ARIA Live Regions for Developers",
+      "url": "https://www.a11y-collective.com/blog/aria-live/"
     },
     {
-      "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regions",
-      "title": "ARIA live regions - MDN Web Docs Code sample"
+      "title": "ARIA live regions - MDN Web Docs Code sample",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regions"
     },
     {
-      "url": "https://www.uxpin.com/studio/blog/aria-live-regions-for-dynamic-content/",
-      "title": "ARIA Live Regions for Dynamic Content | UXPin"
+      "title": "ARIA Live Regions for Dynamic Content | UXPin",
+      "url": "https://www.uxpin.com/studio/blog/aria-live-regions-for-dynamic-content/"
     },
     {
-      "url": "https://www.w3.org/wiki/PF/ARIA/BestPractices/LiveRegion",
-      "title": "PF/ARIA/BestPractices/LiveRegion - W3C Wiki ARIA Live Regions and Announcements for Dynamic Content How to Use ARIA Live Regions for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content The Complete Guide to ARIA Live Regions for Developers Accessible Notifications & Alerts \u2014 Using ARIA Live Regions ..."
+      "title": "PF/ARIA/BestPractices/LiveRegion - W3C Wiki ARIA Live Regions and Announcements for Dynamic Content How to Use ARIA Live Regions for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content The Complete Guide to ARIA Live Regions for Developers Accessible Notifications & Alerts \u2014 Using ARIA Live Regions ...",
+      "url": "https://www.w3.org/wiki/PF/ARIA/BestPractices/LiveRegion"
     },
     {
-      "url": "https://atyantik.com/aria-live-regions-and-announcements-for-dynamic-content/",
-      "title": "ARIA Live Regions and Announcements for Dynamic Content How to Use ARIA Live Regions for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content The Complete Guide to ARIA Live Regions for Developers Accessible Notifications & Alerts \u2014 Using ARIA Live Regions ..."
+      "title": "ARIA Live Regions and Announcements for Dynamic Content How to Use ARIA Live Regions for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content ARIA Live Regions and Announcements for Dynamic Content The Complete Guide to ARIA Live Regions for Developers Accessible Notifications & Alerts \u2014 Using ARIA Live Regions ...",
+      "url": "https://atyantik.com/aria-live-regions-and-announcements-for-dynamic-content/"
     }
   ],
   "focus visible wcag 2.2 techniques": [
     {
-      "url": "https://alastairc.uk/tests/wcag22-examples/focus-visible-enh-examples.html",
-      "title": "Focus visible (enhanced) Examples"
+      "title": "Focus visible (enhanced) Examples",
+      "url": "https://alastairc.uk/tests/wcag22-examples/focus-visible-enh-examples.html"
     },
     {
-      "url": "https://ictbaseline.access-board.gov/web-baselines/02FocusVisible/",
-      "title": "2. Focus (Web)"
+      "title": "2. Focus (Web)",
+      "url": "https://ictbaseline.access-board.gov/web-baselines/02FocusVisible/"
     },
     {
-      "url": "https://johnsweetaccessibility.com/2020/06/focus-visible/",
-      "title": "Focus Visible is Evolving - { accessibility.js }"
+      "title": "Focus Visible is Evolving - { accessibility.js }",
+      "url": "https://johnsweetaccessibility.com/2020/06/focus-visible/"
+    },
+    {
+      "title": "How to Build Accessible Modals with Focus Traps | UXPin",
+      "url": "https://www.uxpin.com/studio/blog/how-to-build-accessible-modals-with-focus-traps/"
+    },
+    {
+      "title": "The Changing Landscape of Focus Indication: Focus Visible and...",
+      "url": "https://rutube.ru/video/a3388c3fc47dca0a7c9f884994297a0a/"
     }
   ],
   "forced colors mode windows tests": [
     {
-      "url": "https://polypane.app/blog/forced-colors-explained-a-practical-guide/",
-      "title": "Forced colors explained: A practical guide | Polypane"
+      "title": "Forced colors explained: A practical guide | Polypane",
+      "url": "https://polypane.app/blog/forced-colors-explained-a-practical-guide/"
     },
     {
-      "url": "https://www.lambdatest.com/blog/windows-high-contrast-mode/",
-      "title": "A Complete Guide to Windows High Contrast Mode | LambdaTest"
+      "title": "GitHub - coliff/bootstrap- forced - colors -css: Improves the accessibility...",
+      "url": "https://github.com/coliff/bootstrap-forced-colors-css"
     },
     {
-      "url": "https://marcom.wwu.edu/accessibility/guide/support-forced-colors",
-      "title": "Support forced colors modes | University Communications and..."
+      "title": "A Complete Guide to Windows High Contrast Mode | LambdaTest",
+      "url": "https://www.lambdatest.com/blog/windows-high-contrast-mode/"
     },
     {
-      "url": "https://www.smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
-      "title": "Windows High Contrast Mode , Forced Colors ... \u2014 Smashing Magazine"
+      "title": "Support forced colors modes | University Communications and...",
+      "url": "https://marcom.wwu.edu/accessibility/guide/support-forced-colors"
+    },
+    {
+      "title": "Windows High Contrast Mode , Forced Colors ... \u2014 Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/"
     }
   ],
   "color vision deficiency simulator tools": [
     {
-      "url": "https://pro.arcgis.com/en/pro-app/latest/get-started/color-vision-deficiency-simulator.htm",
-      "title": "Use the Color Vision Deficiency Simulator tool \u2014ArcGIS Pro"
+      "title": "Use the Color Vision Deficiency Simulator tool \u2014ArcGIS Pro",
+      "url": "https://pro.arcgis.com/en/pro-app/latest/get-started/color-vision-deficiency-simulator.htm"
     },
     {
-      "url": "https://pilestone.com/pages/color-blindness-simulator",
-      "title": "Understand Color Blindness | Try Pilestone Color Vision Simulator"
+      "title": "Understand Color Blindness | Try Pilestone Color Vision Simulator",
+      "url": "https://pilestone.com/pages/color-blindness-simulator"
     },
     {
-      "url": "https://developer.chrome.com/docs/chromium/cvd",
-      "title": "Simulating color vision deficiencies in the Blink Renderer | Chromium"
+      "title": "Simulating color vision deficiencies in the Blink Renderer | Chromium",
+      "url": "https://developer.chrome.com/docs/chromium/cvd"
     },
     {
-      "url": "https://learn.microsoft.com/sv-se/microsoft-edge/devtools-guide-chromium/accessibility/emulate-vision-deficiencies",
-      "title": "Emulate vision deficiencies - Microsoft Edge... | Microsoft Learn"
+      "title": "Emulate vision deficiencies - Microsoft Edge... | Microsoft Learn",
+      "url": "https://learn.microsoft.com/sv-se/microsoft-edge/devtools-guide-chromium/accessibility/emulate-vision-deficiencies"
     },
     {
-      "url": "https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/simulation/index.html",
-      "title": "Color vision simulation \u2014 Firefox Source Docs documentation"
+      "title": "Color vision simulation \u2014 Firefox Source Docs documentation",
+      "url": "https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/simulation/index.html"
     }
   ],
   "axe devtools vs lighthouse accessibility audit": [
     {
-      "url": "https://accessibility-test.org/blog/compare/eaa-compliance-tool-axe-vs-wave-vs-lighthouse-comparison/",
-      "title": "EAA Compliance Tool | Axe vs WAVE vs Lighthouse Comparison"
+      "title": "EAA Compliance Tool | Axe vs WAVE vs Lighthouse Comparison",
+      "url": "https://accessibility-test.org/blog/compare/eaa-compliance-tool-axe-vs-wave-vs-lighthouse-comparison/"
+    },
+    {
+      "title": "How to Do Accessibility Testing A Complete Guide for QA... | Medium",
+      "url": "https://medium.com/@jignect/how-to-do-accessibility-testing-a-complete-guide-for-qa-professionals-2f52ff6fe102"
+    },
+    {
+      "title": "Accessibility tools | iO tech_hub",
+      "url": "https://io-technology-io-technology.vercel.app/articles/accessibility-tools"
+    },
+    {
+      "title": "Top 10 Accessibility Testing Tools 2025: axe , WAVE",
+      "url": "https://www.softlist.io/testing-tools-products/"
+    },
+    {
+      "title": "How To Perform A Web Accessibility Audit - Screaming Frog",
+      "url": "https://www.screamingfrog.co.uk/seo-spider/tutorials/how-to-perform-a-web-accessibility-audit/"
     }
   ],
   "pa11y ci github action setup": [
     {
-      "url": "https://github.com/pa11y/pa11y-ci",
-      "title": "GitHub - pa11y/pa11y-ci: Pa11y CI is a CI-centric ..."
+      "title": "GitHub - pa11y/pa11y-ci: Pa11y CI is a CI-centric ...",
+      "url": "https://github.com/pa11y/pa11y-ci"
     },
     {
-      "url": "https://www.linkedin.com/pulse/automating-accessibility-testing-pa11y-ci-github-actions-envisionly-dz7ke",
-      "title": "Automating Accessibility Testing with pa11y-ci and GitHub Actions"
+      "title": "Automating Accessibility Testing with pa11y-ci and GitHub Actions",
+      "url": "https://www.linkedin.com/pulse/automating-accessibility-testing-pa11y-ci-github-actions-envisionly-dz7ke"
     },
     {
-      "url": "https://stackoverflow.com/questions/71145049/how-do-i-use-the-html-csv-reporters-in-pa11y-with-github-actions",
-      "title": "How do I use the HTML/CSV reporters in pa11y with GitHub ..."
+      "title": "How do I use the HTML/CSV reporters in pa11y with GitHub ...",
+      "url": "https://stackoverflow.com/questions/71145049/how-do-i-use-the-html-csv-reporters-in-pa11y-with-github-actions"
     },
     {
-      "url": "https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe",
-      "title": "Automated accessibility testing: Leveraging GitHub Actions ..."
+      "title": "Pa11y tutorials",
+      "url": "https://pa11y.org/tutorials/"
+    },
+    {
+      "title": "Automated accessibility testing: Leveraging GitHub Actions ...",
+      "url": "https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe"
     }
   ],
   "diff api docs tool openapi changelog": [
     {
-      "url": "https://github.com/ismailbennani/openapi-changelog",
-      "title": "GitHub - ismailbennani/ openapi - changelog : Compute the changes ..."
+      "title": "GitHub - ismailbennani/ openapi - changelog : Compute the changes ...",
+      "url": "https://github.com/ismailbennani/openapi-changelog"
     },
     {
-      "url": "https://pkg.go.dev/github.com/pb33f/openapi-changes",
-      "title": "openapi - changes command - github.com/pb33f/ openapi - changes ..."
+      "title": "OpenAPI . Tools - an Open Source list of great tools for OpenAPI .",
+      "url": "https://openapi.tools/"
     },
     {
-      "url": "https://brianbraatz.github.io/p/detect-openapi-changes-jenkins/",
-      "title": "OpenAPI -Use Jenkins to Detect OpenAPI Changes + Email Docs Team"
+      "title": "apiDoc vs Apidog: Which API Documentation Tool To Choose in 2025",
+      "url": "https://apidog.com/blog/apidoc-vs-apidog/"
+    },
+    {
+      "title": "openapi - changes command - github.com/pb33f/ openapi - changes ...",
+      "url": "https://pkg.go.dev/github.com/pb33f/openapi-changes"
+    },
+    {
+      "title": "OpenAPI -Use Jenkins to Detect OpenAPI Changes + Email Docs Team",
+      "url": "https://brianbraatz.github.io/p/detect-openapi-changes-jenkins/"
     }
   ],
   "track silent deprecations changelog diff script": [
     {
-      "url": "https://skia.googlesource.com/external/github.com/ocornut/imgui/+/docking/docs/CHANGELOG.txt",
-      "title": "docs/ CHANGELOG .txt - external/github.com/ocornut/imgui - Git at..."
+      "title": "Changelog \u2014 Python 3.14.2 documentation",
+      "url": "https://docs.python.org/3/whatsnew/changelog.html"
+    },
+    {
+      "title": "docs/ CHANGELOG .txt - external/github.com/ocornut/imgui - Git at...",
+      "url": "https://skia.googlesource.com/external/github.com/ocornut/imgui/+/docking/docs/CHANGELOG.txt"
+    },
+    {
+      "title": "Changelog - BlueGrid.io : BlueGrid.io",
+      "url": "https://bluegrid.io/glossary/software-development/changelog/"
+    },
+    {
+      "title": "Changelog \u2014 sktime documentation",
+      "url": "https://www.sktime.net/en/v0.30.2/changelog.html"
+    },
+    {
+      "title": "Sass: Breaking Change : abs() Percentage",
+      "url": "https://sass-lang.com/documentation/breaking-changes/abs-percent/"
     }
   ],
   "opml export import miniflux freshrss": [
     {
-      "url": "http://freshrss.github.io/FreshRSS/en/developers/OPML.html",
-      "title": "OPML in FreshRSS - GitHub Pages"
+      "title": "OPML in FreshRSS - GitHub Pages",
+      "url": "http://freshrss.github.io/FreshRSS/en/developers/OPML.html"
     },
     {
-      "url": "https://miniflux.app/features.html",
-      "title": "Features - miniflux.app"
+      "title": "GitHub - zikes/miniflux: Minimalist and opinionated feed reader",
+      "url": "https://github.com/zikes/miniflux"
+    },
+    {
+      "title": "Features - miniflux.app",
+      "url": "https://miniflux.app/features.html"
+    },
+    {
+      "title": "FreshRSS vs Miniflux Comparison (2025) | Feature by Feature",
+      "url": "https://appmus.com/vs/freshrss-vs-miniflux"
+    },
+    {
+      "title": "Export RSS on server. \u00b7 FreshRSS FreshRSS \u00b7 Discussion #5472",
+      "url": "https://github.com/FreshRSS/FreshRSS/discussions/5472"
     }
   ],
   "rss readers privacy self hosted comparison": [
     {
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-      "title": "GitHub - awesome- selfhosted /awesome- selfhosted : A list of Free..."
+      "title": "GitHub - awesome- selfhosted /awesome- selfhosted : A list of Free...",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
     },
     {
-      "url": "https://noted.lol/tag/self-hosted-rss-readers/",
-      "title": "Self Hosted RSS Feed Readers - Noted"
+      "title": "selfhosted vs Tiny-Tiny- RSS - compare differences and... | LibHunt",
+      "url": "https://www.libhunt.com/compare-sacredheartsc--selfhosted-vs-Tiny-Tiny-RSS"
+    },
+    {
+      "title": "Self Hosted RSS Feed Readers - Noted",
+      "url": "https://noted.lol/tag/self-hosted-rss-readers/"
+    },
+    {
+      "title": "Miniflux - a self - hosted , minimalistic RSS reader",
+      "url": "https://dineshnatesan.com/blog/2021/miniflux-self-hosted-rss-reader/"
+    },
+    {
+      "title": "Self - Hosted RSS with Tiny Tiny RSS in Docker \u2013 Rob Connolly's Blog",
+      "url": "https://webworxshop.com/self-hosted-rss-with-tiny-tiny-rss-in-docker/"
     }
   ],
   "notion changelog 2025 offline reliability": [
     {
-      "url": "https://www.notion.com/releases/2025-08-19",
-      "title": "August 19, 2025 \u2013 Notion 2.53: Offline mode"
+      "title": "Finally, Notion now works without an internet connection",
+      "url": "https://techcrunch.com/2025/08/20/finally-notion-now-works-without-an-internet-connection/"
+    },
+    {
+      "title": "August 19, 2025 \u2013 Notion 2.53: Offline mode",
+      "url": "https://www.notion.com/releases/2025-08-19"
+    },
+    {
+      "title": "Notion Offline Mode 2025: Did It Solve the Biggest Challenges?",
+      "url": "https://fayedtion.com/notion-offline-mode/"
+    },
+    {
+      "title": "Notion Offline Mode Explained: Setup, Sync Rules & Conflict ...",
+      "url": "https://www.taskfoundry.com/2025/08/notion-offline-mode-setup-sync-conflict-guide.html"
+    },
+    {
+      "title": "Notion rolls out Offline Mode: edit pages without an internet ...",
+      "url": "https://alternativeto.net/news/2025/8/notion-rolls-out-offline-mode-edit-pages-without-an-internet-connection/"
     }
   ],
   "obsidian vs notion privacy offline": [
     {
-      "url": "https://medium.com/@michaelswengel/dont-use-notion-to-store-private-information-ca63ce47fe7a",
-      "title": "DON\u2019T Use Notion to Store Private Information | by Michael... | Medium"
+      "title": "DON\u2019T Use Notion to Store Private Information | by Michael... | Medium",
+      "url": "https://medium.com/@michaelswengel/dont-use-notion-to-store-private-information-ca63ce47fe7a"
     },
     {
-      "url": "https://fibery.io/blog/product-management/obsidian-vs-notion/",
-      "title": "Obsidian vs Notion : Which Is Better for Your Needs? (2024)"
+      "title": "Obsidian vs Notion : Which Is Better for Your Needs? (2024)",
+      "url": "https://fibery.io/blog/product-management/obsidian-vs-notion/"
     },
     {
-      "url": "https://www.techrepublic.com/article/obsidian-vs-notion/",
-      "title": "Obsidian vs . Notion : Which Tool Is Better?"
+      "title": "Obsidian vs . Notion : Which Tool Is Better?",
+      "url": "https://www.techrepublic.com/article/obsidian-vs-notion/"
     },
     {
-      "url": "https://askai.glarity.app/search/What-are-the-differences-between-Obsidian-and-Notion",
-      "title": "What are the differences between Obsidian and Notion ? - Glarity"
+      "title": "What are the differences between Obsidian and Notion ? - Glarity",
+      "url": "https://askai.glarity.app/search/What-are-the-differences-between-Obsidian-and-Notion"
+    },
+    {
+      "title": "Obsidian Notes or Notion | TikTok",
+      "url": "https://www.tiktok.com/discover/obsidian-notes-or-notion"
     }
   ],
   "zotero 7.1 release notes pdf": [
     {
-      "url": "https://www.zotero.org/support/changelog",
-      "title": "changelog [Zotero Documentation]"
+      "title": "changelog [Zotero Documentation]",
+      "url": "https://www.zotero.org/support/changelog"
     },
     {
-      "url": "https://github.com/zotero/zotero/releases",
-      "title": "Releases \u00b7 zotero/zotero - GitHub"
+      "title": "Releases \u00b7 zotero/zotero - GitHub",
+      "url": "https://github.com/zotero/zotero/releases"
+    },
+    {
+      "title": "Zotero 7 is coming \u2026 | Daniel Borek",
+      "url": "https://danielborek.me/2023/zotero-7/"
+    },
+    {
+      "title": "Zotero Blog \u00bb Blog Archive \u00bb Zotero 7: Zotero, redesigned",
+      "url": "https://www.zotero.org/blog/zotero-7/"
+    },
+    {
+      "title": "GitHub - zotero/zotero: Zotero is a free, easy-to-use tool to ... Now available: Zotero 7 - Zotero Forums dev: zotero _7_for_developers [ Zotero Documentation] changelog [ Zotero Documentation] dev: zotero _7_for_developers [ Zotero Documentation] dev: zotero _7_for_developers [ Zotero Documentation] dev:zotero_7_for_developers [Zotero Documentation]",
+      "url": "https://github.com/zotero/zotero"
     }
   ],
   "passkeys adoption 2025 major sites list": [
     {
-      "url": "https://state-of-passkeys.io/",
-      "title": "State of Passkeys \u2014 Passkey Adoption Statistics, Live ..."
+      "title": "State of Passkeys \u2014 Passkey Adoption Statistics, Live ...",
+      "url": "https://state-of-passkeys.io/"
     },
     {
-      "url": "https://www.passkeys.com/websites-with-passkey-support-sites-directory",
-      "title": "Passkey Support Directory: Websites That Support Passkeys"
+      "title": "Passkey Support Directory: Websites That Support Passkeys",
+      "url": "https://www.passkeys.com/websites-with-passkey-support-sites-directory"
     },
     {
-      "url": "https://passkeys.directory/",
-      "title": "Passkeys.directory"
+      "title": "Passkeys.directory",
+      "url": "https://passkeys.directory/"
+    },
+    {
+      "title": "Passkey Adoption at Authenticate 2025: 6 Case Studies",
+      "url": "https://www.corbado.com/blog/passkey-adoption-case-studies-authenticate-2025"
+    },
+    {
+      "title": "2025 FIDO Report: The Passwordless Future - descope.com",
+      "url": "https://www.descope.com/blog/post/2025-fido-report"
     }
   ],
   "fido2 security keys for seniors setup guide": [
     {
-      "url": "https://www.token2.com/site/page/universal-guide-for-using-fido2-keys",
-      "title": "Universal Guide for Using FIDO2 Keys - Token2"
+      "title": "FIDO2 Security Key - FIDO Compliant Security Key",
+      "url": "https://www.bing.com/aclick?ld=e8wL05-Uz3Ml5xIfwaDpIAJjVUCUzQopXQ06eS4OlMQany3_qGBs5Fo1uczZv2sqdiBi1QKOYo5szZssxGhxaQqah_ZVnJdHT6kkF4fyijJ6dXC8IzNqViGv-tRl9HMoOqZygt-Ka4x2PZS0sybFD5lNVOEYBECs82F_cCY3GOx4_vho9amv85lTm5s3dB-_8ajbsVwUDkMpCtUA0zT6ddBctX9yc&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MjUzNDA4MDcxNCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODk0NjkwMTUzOCUyNmRzX2FfY2lkJTNkNzM1NDY0NDY2NSUyNmRzX2FfY2FpZCUzZDIyOTMwNjYzNjI3JTI2ZHNfYV9hZ2lkJTNkMTg5NTA5NDk5ODEyJTI2ZHNfYV9saWQlM2Rrd2QtMTY0NDUyNDIzMTk4MSUyNiUyNmRzX2VfYWRpZCUzZDc4MjAyOTgzODgwOTU0JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtNzgyMDMyMzU0NDIzNDQlM2Fsb2MtMTkwJTI2JTI2ZHNfZV9uZXR3b3JrJTNkbyUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZmdHNhZmUudXMlMmZjb2xsZWN0aW9ucyUyZmZpZG8yLXNlY3VyaXR5LWtleXMlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RtdWx0aXZpZXdfZ29vZ2xlJTI2dXRtX3Rlcm0lM2RmaWRvMiUyNTIwaGFyZHdhcmUlMjUyMGtleSUyNmdjbGlkJTNkYTJlZTNhMzlmZjBiMTQ0ZTI0MzU1Mzc4MzEzY2MzMTglMjZnY2xzcmMlM2QzcC5kcyUyNiUyNm1zY2xraWQlM2RhMmVlM2EzOWZmMGIxNDRlMjQzNTUzNzgzMTNjYzMxOCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFByb2R1Y3RzJTI2dXRtX3Rlcm0lM2RmaWRvMiUyNTIwaGFyZHdhcmUlMjUyMGtleSUyNnV0bV9jb250ZW50JTNkRklETzI&rlid=a2ee3a39ff0b144e24355378313cc318"
     },
     {
-      "url": "https://support.microsoft.com/en-us/account-billing/set-up-a-passkey-fido2-as-your-verification-method-2911cacd-efa5-4593-ae22-e09ae14c6698",
-      "title": "Set up a passkey (FIDO2) as your verification method"
+      "title": "Universal Guide for Using FIDO2 Keys - Token2",
+      "url": "https://www.token2.com/site/page/universal-guide-for-using-fido2-keys"
     },
     {
-      "url": "https://manuals.plus/fido/fido2-fingerprint-security-key-manual",
-      "title": "FIDO2 Fingerprint Security Key User Guide - Manuals+"
+      "title": "Set up a passkey (FIDO2) as your verification method",
+      "url": "https://support.microsoft.com/en-us/account-billing/set-up-a-passkey-fido2-as-your-verification-method-2911cacd-efa5-4593-ae22-e09ae14c6698"
     },
     {
-      "url": "https://fido.ftsafe.com/guide-2/",
-      "title": "Guide \u2013 FIDO Security Keys"
+      "title": "FIDO2 Fingerprint Security Key User Guide - Manuals+",
+      "url": "https://manuals.plus/fido/fido2-fingerprint-security-key-manual"
+    },
+    {
+      "title": "Guide \u2013 FIDO Security Keys",
+      "url": "https://fido.ftsafe.com/guide-2/"
     }
   ],
   "disable telemetry windows 11 registry 24h2": [
     {
-      "url": "https://windowsreport.com/disable-windows-11-telemetry/",
-      "title": "Windows 11 Telemetry : How to Permanently Disable it"
+      "title": "Windows 11 Telemetry : How to Permanently Disable it",
+      "url": "https://windowsreport.com/disable-windows-11-telemetry/"
     },
     {
-      "url": "https://www.itechtics.com/disable-telemetry-data-collection-windows-10/",
-      "title": "6 Ways To Disable Telemetry And Data Collection In Windows 11 /10"
+      "title": "Registry editing has been disabled by your administrator \u00b7 Issue #384...",
+      "url": "https://github.com/Raphire/Win11Debloat/issues/384"
     },
     {
-      "url": "https://www.elevenforum.com/t/disabling-telemetry.31524/",
-      "title": "Disabling Telemetry | Windows 11 Forum"
+      "title": "6 Ways To Disable Telemetry And Data Collection In Windows 11 /10",
+      "url": "https://www.itechtics.com/disable-telemetry-data-collection-windows-10/"
+    },
+    {
+      "title": "Disabling Telemetry | Windows 11 Forum",
+      "url": "https://www.elevenforum.com/t/disabling-telemetry.31524/"
+    },
+    {
+      "title": "4 reasons I disable Windows telemetry for better privacy",
+      "url": "https://www.xda-developers.com/reasons-to-disable-windows-telemetry-for-better-privacy/"
     }
   ],
   "firefox arkenfox user.js 2025 updates": [
     {
-      "url": "https://github.com/arkenfox/user.js",
-      "title": "GitHub - arkenfox / user . js : Firefox privacy, security and anti-tracking..."
+      "title": "GitHub - arkenfox / user . js : Firefox privacy, security and anti-tracking...",
+      "url": "https://github.com/arkenfox/user.js"
     },
     {
-      "url": "https://sourceforge.net/projects/user-js.mirror/files/135.0/",
-      "title": "Firefox privacy, security and anti-tracking: a comprehensive user . js"
+      "title": "Firefox privacy, security and anti-tracking: a comprehensive user . js",
+      "url": "https://sourceforge.net/projects/user-js.mirror/files/135.0/"
+    },
+    {
+      "title": "AUR (en) - gecko- arkenfox -autoconfig",
+      "url": "https://aur.archlinux.org/packages/firefox-arkenfox-autoconfig"
+    },
+    {
+      "title": "Cutting Mozilla Out of Firefox With a user . js ! | Trafotin.com",
+      "url": "https://trafotin.com/v/firefox-userjs/"
+    },
+    {
+      "title": "Arkenfox installation guide - Liassica's site",
+      "url": "https://liassica.codeberg.page/posts/0000-arkenfox/"
     }
   ],
   "brave fingerprinting protections test sites": [
     {
-      "url": "https://github.com/brave/brave-browser/wiki/Fingerprinting-Protections",
-      "title": "Fingerprinting Protections \u00b7 brave/brave-browser Wiki \u00b7 GitHub"
+      "title": "Fingerprinting Protections \u00b7 brave/brave-browser Wiki \u00b7 GitHub",
+      "url": "https://github.com/brave/brave-browser/wiki/Fingerprinting-Protections"
     },
     {
-      "url": "https://www.brside.com/blog/brave-firefox-safari-only-two-survived-this-fingerprinting-test",
-      "title": "Brave, Firefox, Safari: Only Two Survived This Fingerprinting ..."
+      "title": "Which search engines offer the strongest protections a...",
+      "url": "https://factually.co/fact-checks/technology/search-engines-anti-fingerprinting-cross-site-tracking-26b91e"
     },
     {
-      "url": "https://brave.com/privacy-updates/4-fingerprinting-defenses-2.0/",
-      "title": "Fingerprinting defenses 2.0 | Brave"
+      "title": "Brave, Firefox, Safari: Only Two Survived This Fingerprinting ...",
+      "url": "https://www.brside.com/blog/brave-firefox-safari-only-two-survived-this-fingerprinting-test"
+    },
+    {
+      "title": "After testing over 4 privacy browsers, this is the one that ...",
+      "url": "https://www.makeuseof.com/after-testing-privacy-browsers-this-is-the-one-that-feels-right/"
+    },
+    {
+      "title": "Fingerprinting defenses 2.0 | Brave",
+      "url": "https://brave.com/privacy-updates/4-fingerprinting-defenses-2.0/"
     }
   ],
   "ublock origin filter lists performance comparison": [
     {
-      "url": "https://github.com/gorhill/uBlock/wiki/Filter-Performance/Deploying-uBlock-Origin",
-      "title": "Filter Performance \u00b7 gorhill/uBlock Wiki \u00b7 GitHub"
+      "title": "Filter Performance \u00b7 gorhill/uBlock Wiki \u00b7 GitHub",
+      "url": "https://github.com/gorhill/uBlock/wiki/Filter-Performance/Deploying-uBlock-Origin"
     },
     {
-      "url": "https://www.reddit.com/r/uBlockOrigin/comments/149vsj3/does_enabling_a_ton_of_filter_lists_put_more/",
-      "title": "Does enabling a ton of filter lists put more strain on RAM or ..."
+      "title": "Does enabling a ton of filter lists put more strain on RAM or ...",
+      "url": "https://www.reddit.com/r/uBlockOrigin/comments/149vsj3/does_enabling_a_ton_of_filter_lists_put_more/"
     },
     {
-      "url": "https://git.evulid.cc/Mirrors/uBlock/wiki/Filter-Performance",
-      "title": "Filter Performance - uBlock - EVULID GITSERVER"
+      "title": "Filter Performance - uBlock - EVULID GITSERVER",
+      "url": "https://git.evulid.cc/Mirrors/uBlock/wiki/Filter-Performance"
     },
     {
-      "url": "https://git.jl-k.com/gorhill/uBlock/wiki/Launch-and-filter-lists-load-performance/6a000158974be4deb71fa47af555d0c0b2eadd78",
-      "title": "Launch and filter lists load performance \u00b7 gorhill/uBlock ..."
+      "title": "Launch and filter lists load performance \u00b7 gorhill/uBlock ...",
+      "url": "https://git.jl-k.com/gorhill/uBlock/wiki/Launch-and-filter-lists-load-performance/6a000158974be4deb71fa47af555d0c0b2eadd78"
     },
     {
-      "url": "https://laniksj.github.io/ubo-filters/",
-      "title": "\ufe0f uBlock Origin Filters | LanikSJ ... - LanikSJ uBO Filters Advice Request - UbO Filter Lists for Best UbO Performance? Asset and Filter List Configuration | gorhill/uBlock | DeepWiki"
+      "title": "\ufe0f uBlock Origin Filters | LanikSJ ... - LanikSJ uBO Filters Advice Request - UbO Filter Lists for Best UbO Performance? Asset and Filter List Configuration | gorhill/uBlock | DeepWiki",
+      "url": "https://laniksj.github.io/ubo-filters/"
     }
   ],
   "easyprivacy false positive report form": [
     {
-      "url": "https://github.com/easylist/easylist/issues/6120",
-      "title": "EasyPrivacy: False positive /api/metrics #6120 - GitHub"
+      "title": "Request for Whitelisting: convertexperiments.com (False ...",
+      "url": "https://github.com/easylist/easylist/issues/21244"
+    },
+    {
+      "title": "Submitting Suspected False Positives - Avast",
+      "url": "https://businesshelp.avast.com/Content/Products/General_Help/SampleSubmission/SubmittingFalsePositives.htm"
+    },
+    {
+      "title": "False Positive File Form - AVG",
+      "url": "https://www.avg.com/en-ww/report-false-positive"
+    },
+    {
+      "title": "EasyPrivacy: False positive /api/metrics #6120 - GitHub",
+      "url": "https://github.com/easylist/easylist/issues/6120"
+    },
+    {
+      "title": "Report false positives or false negatives following automated ...",
+      "url": "https://learn.microsoft.com/en-us/defender-office-365/air-report-false-positives-negatives"
     }
   ],
   "local llm on nuc ollama guide": [
     {
-      "url": "https://www.f22labs.com/blogs/how-to-use-local-llms-with-ollama-a-complete-guide/",
-      "title": "How To Use Local LLMs with Ollama? (A Complete Guide)"
+      "title": "How To Use Local LLMs with Ollama? (A Complete Guide)",
+      "url": "https://www.f22labs.com/blogs/how-to-use-local-llms-with-ollama-a-complete-guide/"
     },
     {
-      "url": "https://medium.com/@bluudit/deploy-llms-locally-with-ollama-your-complete-guide-to-local-ai-development-ba60d61b6cea",
-      "title": "Deploy LLMs Locally with Ollama: Your Complete Guide to Local ..."
+      "title": "Deploy LLMs Locally with Ollama: Your Complete Guide to Local ...",
+      "url": "https://medium.com/@bluudit/deploy-llms-locally-with-ollama-your-complete-guide-to-local-ai-development-ba60d61b6cea"
     },
     {
-      "url": "https://www.hinterding.com/blog/ollama-and-local-models/",
-      "title": "Local LLMs with Ollama: A Hands-On Guide | Ingo Hinterding"
+      "title": "Local LLMs with Ollama: A Hands-On Guide | Ingo Hinterding",
+      "url": "https://www.hinterding.com/blog/ollama-and-local-models/"
     },
     {
-      "url": "https://www.machinelearningplus.com/gen-ai/ollama-tutorial-your-guide-to-running-llms-locally/",
-      "title": "Ollama Tutorial: Your Guide to running LLMs Locally"
+      "title": "Ollama Tutorial: Your Guide to running LLMs Locally",
+      "url": "https://www.machinelearningplus.com/gen-ai/ollama-tutorial-your-guide-to-running-llms-locally/"
     },
     {
-      "url": "https://www.javacodegeeks.com/2025/06/running-llms-locally-using-ollama-lm-studio-and-huggingface-on-a-budget.html",
-      "title": "Running LLMs Locally: Using Ollama, LM Studio, and ..."
+      "title": "Running LLMs Locally: Using Ollama, LM Studio, and ...",
+      "url": "https://www.javacodegeeks.com/2025/06/running-llms-locally-using-ollama-lm-studio-and-huggingface-on-a-budget.html"
     }
   ],
   "llama.cpp gpu offload intel arc": [
     {
-      "url": "https://www.intel.com/content/www/us/en/developer/articles/technical/run-llms-on-gpus-using-llama-cpp.html",
-      "title": "Run LLMs on Intel\u00ae GPUs Using llama.cpp"
+      "title": "Run LLMs on Intel\u00ae GPUs Using llama.cpp",
+      "url": "https://www.intel.com/content/www/us/en/developer/articles/technical/run-llms-on-gpus-using-llama-cpp.html"
     },
     {
-      "url": "https://github.com/ggml-org/llama.cpp/discussions/12570",
-      "title": "Current status of Intel Arc GPUs for llama.cpp - GitHub"
+      "title": "Current status of Intel Arc GPUs for llama.cpp - GitHub",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/12570"
     },
     {
-      "url": "https://ipex-llm-latest.readthedocs.io/en/latest/doc/LLM/Quickstart/llama_cpp_quickstart.html",
-      "title": "Run llama.cpp with IPEX-LLM on Intel GPU"
+      "title": "Run llama.cpp with IPEX-LLM on Intel GPU",
+      "url": "https://ipex-llm-latest.readthedocs.io/en/latest/doc/LLM/Quickstart/llama_cpp_quickstart.html"
     },
     {
-      "url": "https://llm-tracker.info/howto/Intel-GPUs",
-      "title": "Intel GPUs - llm-tracker.info"
+      "title": "Intel GPUs - llm-tracker.info",
+      "url": "https://llm-tracker.info/howto/Intel-GPUs"
+    },
+    {
+      "title": "Intel Arc GPU Ollama Support: OpenVINO Integration Tutorial ...",
+      "url": "https://markaicode.com/intel-arc-gpu-ollama-openvino-tutorial/"
     }
   ],
   "mlc llm windows install tutorial": [
     {
-      "url": "https://llm.mlc.ai/docs/install/mlc_llm",
-      "title": "Install MLC LLM Python Package \u2014 mlc - llm 0.1.0 documentation"
+      "title": "Install MLC LLM Python Package \u2014 mlc - llm 0.1.0 documentation",
+      "url": "https://llm.mlc.ai/docs/install/mlc_llm"
     },
     {
-      "url": "https://www.qualcomm.com/developer/blog/2025/02/how-to-run-deepseek-windows-snapdragon-tutorial-llama-cpp-mlc-llm",
-      "title": "Run DeepSeek Models on Windows on Snapdragon Llama.cpp and..."
+      "title": "Run DeepSeek Models on Windows on Snapdragon Llama.cpp and...",
+      "url": "https://www.qualcomm.com/developer/blog/2025/02/how-to-run-deepseek-windows-snapdragon-tutorial-llama-cpp-mlc-llm"
+    },
+    {
+      "title": "Mlc - Llm Web Overview | Restackio",
+      "url": "https://www.restack.io/p/mlc-llm-answer-web-capabilities-cat-ai"
+    },
+    {
+      "title": "ArunKr/ MLC - LLM \u00b7 Hugging Face",
+      "url": "https://huggingface.co/ArunKr/MLC-LLM"
+    },
+    {
+      "title": "Mlc -Python for Mlc - Llm Applications | Restackio",
+      "url": "https://store-restack.vercel.app/p/mlc-llm-knowledge-mlc-python-answer-cat-ai"
     }
   ],
   "restic rclone backblaze b2 setup 3-2-1": [
     {
-      "url": "https://amontalenti.com/2024/06/19/backups-restic-rclone",
-      "title": "Linux backup workflow for hackers with restic , rclone , Backblaze B 2"
+      "title": "Linux backup workflow for hackers with restic , rclone , Backblaze B 2",
+      "url": "https://amontalenti.com/2024/06/19/backups-restic-rclone"
     },
     {
-      "url": "https://restic.readthedocs.io/en/latest/030_preparing_a_new_repo.html",
-      "title": "Preparing a new repository \u2014 restic 0.18. 1 -dev documentation"
+      "title": "Preparing a new repository \u2014 restic 0.18. 1 -dev documentation",
+      "url": "https://restic.readthedocs.io/en/latest/030_preparing_a_new_repo.html"
     },
     {
-      "url": "https://restic.net/blog/2018-04-01/rclone-backend/",
-      "title": "restic \u00b7 Using rclone as a restic Backend"
+      "title": "restic \u00b7 Using rclone as a restic Backend",
+      "url": "https://restic.net/blog/2018-04-01/rclone-backend/"
     },
     {
-      "url": "https://anchor.host/personal-backups-with-restic-and-b2-bucket/",
-      "title": "Personal Backups with Restic and B 2 Bucket"
+      "title": "Personal Backups with Restic and B 2 Bucket",
+      "url": "https://anchor.host/personal-backups-with-restic-and-b2-bucket/"
+    },
+    {
+      "title": "Rclone \u0432 2025 \u0433\u043e\u0434\u0443: \u0441\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0438 \u0440\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0435 \u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430...",
+      "url": "https://arenda-server.cloud/blog/rclone-v-2025-godu-sinhronizacija-i-rezervnoe-kopirovanie-na-google-drive-s3-i-wasabi/"
     }
   ],
   "wasabi vs b2 egress fees 2025": [
     {
-      "url": "https://www.backblaze.com/cloud-storage/comparison/backblaze-vs-wasabi",
-      "title": "Backblaze B2 Cloud Storage vs. Wasabi"
+      "title": "Backblaze B2 Cloud Storage vs. Wasabi",
+      "url": "https://www.backblaze.com/cloud-storage/comparison/backblaze-vs-wasabi"
     },
     {
-      "url": "https://www.multcloud.com/tutorials/wasabi-vs-backblaze.html",
-      "title": "Wasabi vs Backblaze B2: 2025 Full Comparison - MultCloud Wasabi Cloud Storage Pricing 2025: An Alternative Wasabi Paid Accounts and Pricing Backblaze B2 Vs Wasabi: Top Four Comparisons in 2025 Cloudflare R2 vs Backblaze B2 vs Wasabi vs Amazon S3 in 2025 ..."
+      "title": "Wasabi vs AWS S3 vs Backblaze B2: Complete Cloud Storage ...",
+      "url": "https://happyspicyhour.com/wasabi-vs/"
     },
     {
-      "url": "https://docs.wasabi.com/docs/wasabi-pricing-faqs",
-      "title": "Wasabi Paid Accounts and Pricing"
+      "title": "Wasabi vs Backblaze B2: 2025 Full Comparison - MultCloud Wasabi Cloud Storage Pricing 2025: An Alternative Wasabi Paid Accounts and Pricing Backblaze B2 Vs Wasabi: Top Four Comparisons in 2025 Cloudflare R2 vs Backblaze B2 vs Wasabi vs Amazon S3 in 2025 ...",
+      "url": "https://www.multcloud.com/tutorials/wasabi-vs-backblaze.html"
     },
     {
-      "url": "https://www.impossiblecloud.com/en-us/magazine/wasabi-cloud-storage-pricing-2025-v2-new",
-      "title": "Wasabi Cloud Storage Pricing 2025: An Alternative"
+      "title": "Wasabi Cloud Storage Pricing 2025: An Alternative",
+      "url": "https://www.impossiblecloud.com/en-us/magazine/wasabi-cloud-storage-pricing-2025-v2-new"
+    },
+    {
+      "title": "Wasabi Paid Accounts and Pricing",
+      "url": "https://docs.wasabi.com/docs/wasabi-pricing-faqs"
     }
   ],
   "ssd price per tb qlc vs tlc 2025": [
     {
-      "url": "https://www.purestorage.com/knowledge/qlc-vs-tlc.html",
-      "title": "QLC vs. TLC: Which Is the Better SSD? | Pure Storage SK Hynix 2TB QLC vs. TLC SSDs: Cost-Effectiveness Comparison SSD Price Index 2025: Cheapest Price on 1TB, 2TB and 4TB ... QLC vs. TLC | IBM Global NAND Supply Update Q4 2025: What\u2019s Shaping SSD Prices ..."
+      "title": "Solidigm D5-P5336 SSD - The Highest Capacity PCIe SSD",
+      "url": "https://www.bing.com/aclick?ld=e8ljWa9UNRcAuvWcCSyFIPzjVUCUx5ZAkta0xtlYiBWvw40l4q_VPjPEtUoAnPbRM0FEp8sAYPlSGg8rMtiSLgp8wF5iOsAiXJIvyy6LtvZAxgUHXiKk-qYEG5xB0hl9JjF-GcOtzEDtDT3IJFSNdcdGTG4GNwfCFIK5o5vHewUpYX-U0zIbUWHjzY-OjYBS3030BF5I0e4LtzlHS8pxq_dpGfgP0&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2YlMjZkc19hX2NpZCUzZDg0NTY0MjA2NSUyNmRzX2FfY2FpZCUzZDQ4NzE2MDQ2MiUyNmRzX2FfYWdpZCUzZDEyMjQ4NTcyMzYzMDg5MjglMjZkc19hX2ZpaWQlM2QlMjZkc19hX2xpZCUzZGt3ZC03NjU1NDAxNDE0NjAxMCUzYWxvYy0xOTAlMjZkc19hX2V4dGlkJTNkJTdiZXh0ZW5zaW9uaWQlN2QlMjYlMjZkc19lX2FkaWQlM2QlMjZkc19lX21hdGNodHlwZSUzZHNlYXJjaCUyNmRzX2VfZGV2aWNlJTNkYyUyNmRzX2VfbmV0d29yayUzZG8lMjYlMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmd3d3LnNvbGlkaWdtLmNvbSUyZnByb2R1Y3RzJTJmZGF0YS1jZW50ZXIlMmZkNSUyZnA1MzM2Lmh0bWwlM2Z1dG1fY2hhbm5lbCUzZHBhaWRzZWFyY2glMjZ1dG1fcGxhdGZvcm0lM2RCaW5nJTI2dXRtX2NvbnRlbnQlM2RsYW5kaW5ncGFnZSUyNnV0bV9jYW1wYWlnbiUzZGZ5MjVfa2V5d29yZF9icmFuZF94X3d3X3RleHRfZGF0YS1jZW50ZXItcWxjX0NQQ19lbiUyNnV0bV90ZXJtJTNkcWxjJTI2Z2Nsc3JjJTNkM3AuZHMlMjYlMjZtc2Nsa2lkJTNkOTRhZmIyYzA3NmE2MWRiNjBhNTJkYjgxYjhlNzYwYzM&rlid=94afb2c076a61db60a52db81b8e760c3"
     },
     {
-      "url": "https://www.memesita.com/sk-hynix-2tb-qlc-vs-tlc-ssds-cost-effectiveness-comparison/",
-      "title": "SK Hynix 2TB QLC vs. TLC SSDs: Cost-Effectiveness Comparison"
+      "title": "QLC Vs. TLC SSDs: Which Storage is Right for You?",
+      "url": "https://www.orangehardwares.com/blogs/guides/qlc-ssd-vs-tlc-ssd"
+    },
+    {
+      "title": "QLC vs TLC SSDs: Which one to Choose? - storedbits.com",
+      "url": "https://storedbits.com/qlc-vs-tlc-ssds/"
+    },
+    {
+      "title": "QLC vs. TLC: Which Is the Better SSD? | Pure Storage SK Hynix 2TB QLC vs. TLC SSDs: Cost-Effectiveness Comparison SSD Price Index 2025: Cheapest Price on 1TB, 2TB and 4TB ... QLC vs. TLC | IBM Global NAND Supply Update Q4 2025: What\u2019s Shaping SSD Prices ...",
+      "url": "https://www.purestorage.com/knowledge/qlc-vs-tlc.html"
+    },
+    {
+      "title": "SK Hynix 2TB QLC vs. TLC SSDs: Cost-Effectiveness Comparison",
+      "url": "https://www.memesita.com/sk-hynix-2tb-qlc-vs-tlc-ssds-cost-effectiveness-comparison/"
     }
   ],
   "microsd a2 vs a1 real world app speed": [
     {
-      "url": "https://smart.dhgate.com/a1-vs-a2-microsd-cards-for-android-is-the-upgrade-worth-it-in-2024/",
-      "title": "A1 vs A2 MicroSD cards for Android: Is the upgrade worth it ..."
+      "title": "A Guide to Speed Classes for SD and microSD Cards",
+      "url": "https://www.kingston.com/en/blog/personal-storage/memory-card-speed-classes"
     },
     {
-      "url": "https://havecamerawilltravel.com/sd-application-speed-class/",
-      "title": "A1 vs A2 SD Card Ratings Explained - Have Camera Will Travel"
+      "title": "A1 vs A2 MicroSD cards for Android: Is the upgrade worth it ...",
+      "url": "https://smart.dhgate.com/a1-vs-a2-microsd-cards-for-android-is-the-upgrade-worth-it-in-2024/"
     },
     {
-      "url": "https://www.sdcardformatter.com/a1-vs-a2-sd-card/",
-      "title": "A1 vs A2 SD Card: Which is Best for You and Why It Matters"
+      "title": "A1 vs A2 SD Card Ratings Explained - Have Camera Will Travel",
+      "url": "https://havecamerawilltravel.com/sd-application-speed-class/"
     },
     {
-      "url": "https://gawlab.net/sandisk-micro-sd-a1-vs-a2-p319/",
-      "title": "SanDisk Micro SD A1 vs A2: Which is Best for Your Device ..."
+      "title": "A1 vs A2 SD Card: Which is Best for You and Why It Matters",
+      "url": "https://www.sdcardformatter.com/a1-vs-a2-sd-card/"
+    },
+    {
+      "title": "SanDisk Micro SD A1 vs A2: Which is Best for Your Device ...",
+      "url": "https://gawlab.net/sandisk-micro-sd-a1-vs-a2-p319/"
     }
   ],
-  "sd express 8.0 cards real benchmarks": [],
+  "sd express 8.0 cards real benchmarks": [
+    {
+      "title": "SD card - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SD_card"
+    },
+    {
+      "title": "SD Express 8 . 0 specs released... - NotebookCheck.net News",
+      "url": "https://www.notebookcheck.net/SD-Express-8-0-specs-released-4-GB-s-transfer-speeds-now-possible-for-SD-cards.466063.0.html"
+    },
+    {
+      "title": "ADATA paper launches world-first full-size SD Express card with...",
+      "url": "https://knockout.chat/thread/71417"
+    },
+    {
+      "title": "Explaining SD Cards : 2025 Update - YouTube",
+      "url": "https://www.youtube.com/watch?v=HtgIHfqQiC8"
+    },
+    {
+      "title": "TechSpot \u2013 New SD Express 8 . 0 cards double the speed of...",
+      "url": "https://store.steampowered.com/news/group/3081/view/506200344140710807?l=norwegian"
+    }
+  ],
   "usb-c hubs display compatibility list spreadsheet": [
     {
-      "url": "https://www.nytimes.com/wirecutter/reviews/best-usb-c-hubs-and-docks/",
-      "title": "The 2 Best USB Hubs of 2025 | Reviews by Wirecutter"
+      "title": "Hiearcool USB C Hub USB - C Laptop Docking Station User Manual",
+      "url": "https://manualspro.net/107900-hiearcool-usb-c-hub-usb-c-laptop-docking-station-user-manual"
+    },
+    {
+      "title": "Amazon.com: DGYBDFC USB C Docking Station 3 Monitors 100W PD...",
+      "url": "https://www.amazon.com/DGYBDFC-Monitors-Thunderbolt-Displayport-Multiple/dp/B0FYDRXX4K"
+    },
+    {
+      "title": "The 2 Best USB Hubs of 2025 | Reviews by Wirecutter",
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-usb-c-hubs-and-docks/"
+    },
+    {
+      "title": "Does MacBook Air Have USB Port (Explained 2025) - Anker US",
+      "url": "https://www.anker.com/blogs/hubs-and-docks/does-macbook-air-have-usb-port"
+    },
+    {
+      "title": "These USB - C accessories make working from coffee shops actually...",
+      "url": "https://www.makeuseof.com/these-usb-c-accessories-make-working-from-coffee-shops-actually-viable/"
     }
   ],
   "linux thunderbolt dock compatibility thinkpad": [
     {
-      "url": "https://egpu.io/forums/which-gear-should-i-buy/lenovo-thunderbolt-3-graphics-dock-compatibility-check-on-linux-debian-12/",
-      "title": "Lenovo Thunderbolt 3 Graphics Dock Compatibility Check on Linux ..."
+      "title": "Thunderbolt Dock randomly dropping connection... - Linus Tech Tips",
+      "url": "https://linustechtips.com/topic/1587376-thunderbolt-dock-randomly-dropping-connection-and-doesnt-reconnect-without-restarting-ubuntu-2404/"
     },
     {
-      "url": "https://forums.lenovo.com/t5/ThinkPad-P-and-W-Series-Mobile-Workstations/Thinkpad-P16s-Gen-3-with-Thunderbolt-Dock-3-gen-2-low-power-delivery/m-p/5384143",
-      "title": "Thinkpad -P16s-Gen-3-with... - LENOVO COMMUNITY"
+      "title": "Lenovo Thunderbolt 3 Graphics Dock Compatibility Check on Linux ...",
+      "url": "https://egpu.io/forums/which-gear-should-i-buy/lenovo-thunderbolt-3-graphics-dock-compatibility-check-on-linux-debian-12/"
     },
     {
-      "url": "https://viao.co.uk/blog/arch-linux-can-not-connect",
-      "title": "Arch Linux : Can Not Connect To Lenovo Dock Gen 2 Using..."
+      "title": "Thinkpad -P16s-Gen-3-with... - LENOVO COMMUNITY",
+      "url": "https://forums.lenovo.com/t5/ThinkPad-P-and-W-Series-Mobile-Workstations/Thinkpad-P16s-Gen-3-with-Thunderbolt-Dock-3-gen-2-low-power-delivery/m-p/5384143"
+    },
+    {
+      "title": "Linux docking recommendations (after Thunderbolt dock problems)",
+      "url": "https://community.frame.work/t/linux-docking-recommendations-after-thunderbolt-dock-problems/63740"
+    },
+    {
+      "title": "Arch Linux : Can Not Connect To Lenovo Dock Gen 2 Using...",
+      "url": "https://viao.co.uk/blog/arch-linux-can-not-connect"
     }
   ],
   "framework 16 egpu compatibility thunderbolt 4": [
     {
-      "url": "https://community.frame.work/t/framework-laptop-16-with-egpu-thunderbolt-4-oculink/68140",
-      "title": "Framework Laptop 16 with egpu (Thunderbolt 4 & OCulink)"
+      "title": "Framework Laptop 16 with egpu (Thunderbolt 4 & OCulink)",
+      "url": "https://community.frame.work/t/framework-laptop-16-with-egpu-thunderbolt-4-oculink/68140"
     },
     {
-      "url": "https://egpu.io/forums/laptop-computing/framework-16-removeable-gpu-uses-usb4/",
-      "title": "Framework 16 removeable GPU uses USB (4?) | GPU, Monitor ..."
+      "title": "How well does Framework function with an EGPU? : r/framework",
+      "url": "https://www.reddit.com/r/framework/comments/10oguce/how_well_does_framework_function_with_an_egpu/"
     },
     {
-      "url": "https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker/issues/56",
-      "title": "Framework 16 doesn't query Thunderbolt cable capabilities and ..."
+      "title": "Framework 16 removeable GPU uses USB (4?) | GPU, Monitor ...",
+      "url": "https://egpu.io/forums/laptop-computing/framework-16-removeable-gpu-uses-usb4/"
     },
     {
-      "url": "https://community.frame.work/t/fw-16-no-thunderbolt-4-support/34037",
-      "title": "FW 16: No Thunderbolt (4) Support? - Framework Community"
+      "title": "Framework 16 doesn't query Thunderbolt cable capabilities and ...",
+      "url": "https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker/issues/56"
+    },
+    {
+      "title": "FW 16: No Thunderbolt (4) Support? - Framework Community",
+      "url": "https://community.frame.work/t/fw-16-no-thunderbolt-4-support/34037"
     }
   ],
   "thinkpad fn ctrl swap bios setting": [
     {
-      "url": "https://support.lenovo.com/us/en/solutions/ht074187-how-to-swap-the-fn-function-and-ctrl-control-keyboard-keys-in-bios",
-      "title": "How to swap the function of the Fn (Function) and Ctrl ..."
+      "title": "How to swap the function of the Fn (Function) and Ctrl ...",
+      "url": "https://support.lenovo.com/us/en/solutions/ht074187-how-to-swap-the-fn-function-and-ctrl-control-keyboard-keys-in-bios"
     },
     {
-      "url": "https://superuser.com/questions/866818/swap-fn-and-ctrl-keys-on-a-lenovo-thinkpad-x200",
-      "title": "ubuntu - Swap Fn and Ctrl keys on a Lenovo ThinkPad ... - Super User"
+      "title": "ubuntu - Swap Fn and Ctrl keys on a Lenovo ThinkPad ... - Super User",
+      "url": "https://superuser.com/questions/866818/swap-fn-and-ctrl-keys-on-a-lenovo-thinkpad-x200"
     },
     {
-      "url": "https://www.jdhodges.com/blog/swap-the-x220-ctrl-and-fn-keys/",
-      "title": "Swap the Lenovo X220/X230 ThinkPad Ctrl and Fn keys | J.D. Hodges"
+      "title": "Swap the Lenovo X220/X230 ThinkPad Ctrl and Fn keys | J.D. Hodges",
+      "url": "https://www.jdhodges.com/blog/swap-the-x220-ctrl-and-fn-keys/"
     },
     {
-      "url": "https://askubuntu.com/questions/249775/how-to-swap-ctrl-and-fn-on-a-lenovo-thinkpad-keyboard",
-      "title": "xmodmap - How to swap Ctrl and Fn on a Lenovo Thinkpad keyboard?"
+      "title": "xmodmap - How to swap Ctrl and Fn on a Lenovo Thinkpad keyboard?",
+      "url": "https://askubuntu.com/questions/249775/how-to-swap-ctrl-and-fn-on-a-lenovo-thinkpad-keyboard"
+    },
+    {
+      "title": "Does the Fn Lock (FnLk) on Thinkpad T440s work well with Linux?",
+      "url": "https://unix.stackexchange.com/questions/91616/does-the-fn-lock-fnlk-on-thinkpad-t440s-work-well-with-linux"
     }
   ],
   "nvidia wayland suspend resume bug workaround": [
     {
-      "url": "https://askubuntu.com/questions/1447744/how-to-make-resume-from-suspend-work-properly-on-wayland-nvidia",
-      "title": "22.04 - How to make resume from suspend work ... - Ask Ubuntu"
+      "title": "Bug #2098900 \u201cUbuntu 24.10 Fails to Resume from Suspend on...\u201d",
+      "url": "https://bugs.launchpad.net/ubuntu/+source/linux/+bug/2098900"
     },
     {
-      "url": "https://bbs.archlinux.org/viewtopic.php?id=274043",
-      "title": "[SOLVED] nvidia - suspend failing on Wayland ... / Arch Linux Forums"
+      "title": "22.04 - How to make resume from suspend work ... - Ask Ubuntu",
+      "url": "https://askubuntu.com/questions/1447744/how-to-make-resume-from-suspend-work-properly-on-wayland-nvidia"
     },
     {
-      "url": "https://discussion.fedoraproject.org/t/nvidia-gpu-not-waking-from-suspend-on-f41-kde-wayland/148001",
-      "title": "Nvidia GPU not waking from suspend on F41 KDE Wayland"
+      "title": "[SOLVED] nvidia - suspend failing on Wayland ... / Arch Linux Forums",
+      "url": "https://bbs.archlinux.org/viewtopic.php?id=274043"
+    },
+    {
+      "title": "Nvidia GPU not waking from suspend on F41 KDE Wayland",
+      "url": "https://discussion.fedoraproject.org/t/nvidia-gpu-not-waking-from-suspend-on-f41-kde-wayland/148001"
+    },
+    {
+      "title": "\"Stuck\" windows and random freezing after waking up from suspend",
+      "url": "https://forum.manjaro.org/t/stuck-windows-and-random-freezing-after-waking-up-from-suspend/177361"
     }
   ],
   "android 15 removed features silent deprecations": [
     {
-      "url": "https://developer.android.com/about/versions/15/deprecations",
-      "title": "Deprecations - Android Developers"
+      "title": "Android 15 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Android_15"
     },
     {
-      "url": "https://www.androidauthority.com/android-15-missing-features-3491147/",
-      "title": "Android 15 update issues: Here's why you're missing some ..."
+      "title": "Deprecations - Android Developers",
+      "url": "https://developer.android.com/about/versions/15/deprecations"
+    },
+    {
+      "title": "Android 15 update issues: Here's why you're missing some ...",
+      "url": "https://www.androidauthority.com/android-15-missing-features-3491147/"
+    },
+    {
+      "title": "The latest Pixel 9a runs an outdated Android 15 feature drop",
+      "url": "https://www.androidheadlines.com/2025/04/pixel-9a-android-15-feature-drop-missing-modes-menu.html"
+    },
+    {
+      "title": "Android 15 features and changes list | Romman Sabbir",
+      "url": "https://rommansabbir.com/android-15-features-and-changes-list"
     }
   ],
   "macos sequoia battery drain after update fix": [
     {
-      "url": "https://iboysoft.com/tips/macos-sequoia-battery-drain.html",
-      "title": "macOS Sequoia Battery Draining Fast? 12 Ways to Fix it"
+      "title": "MacBook Air battery is draining faster af\u2026 - Apple Community",
+      "url": "https://discussions.apple.com/thread/255775976"
     },
     {
-      "url": "https://www.spyhunter.com/shm/fix-macos-sequoia-battery-drain/",
-      "title": "MacOS Sequoia Battery Draining ? Try These 14 Easy Fixes"
+      "title": "macOS Sequoia Battery Draining Fast? 12 Ways to Fix it",
+      "url": "https://iboysoft.com/tips/macos-sequoia-battery-drain.html"
     },
     {
-      "url": "https://www.howtoisolve.com/tips-to-improve-battery-life-of-macbook-running-on-macos/",
-      "title": "Fix Mac Sequoia Battery Drain issue 2025"
+      "title": "MacOS Sequoia Battery Draining ? Try These 14 Easy Fixes",
+      "url": "https://www.spyhunter.com/shm/fix-macos-sequoia-battery-drain/"
     },
     {
-      "url": "https://www.geekrar.com/how-to-fix-macos-sequoia-battery-drain-9-quick-solutions-for-optimal-performance/",
-      "title": "How To Fix MacOS Sequoia Battery Drain : 9 Quick... - GEEKrar"
+      "title": "Fix Mac Sequoia Battery Drain issue 2025",
+      "url": "https://www.howtoisolve.com/tips-to-improve-battery-life-of-macbook-running-on-macos/"
+    },
+    {
+      "title": "How To Fix MacOS Sequoia Battery Drain : 9 Quick... - GEEKrar",
+      "url": "https://www.geekrar.com/how-to-fix-macos-sequoia-battery-drain-9-quick-solutions-for-optimal-performance/"
     }
   ],
   "safari reader mode readability settings shortcut": [
     {
-      "url": "https://www.macrumors.com/how-to/use-new-reader-mode-ios-safari/",
-      "title": "iOS 18: How to Use the Redesigned Reader Mode in Safari"
+      "title": "iOS 18: How to Use the Redesigned Reader Mode in Safari",
+      "url": "https://www.macrumors.com/how-to/use-new-reader-mode-ios-safari/"
     },
     {
-      "url": "https://techwiser.com/how-to-enable-reader-view-mode-in-safari-on-iphone-ipad-and-mac/",
-      "title": "How to Enable Reader View (Mode) in Safari on iPhone, iPad ... How to Turn on Reader Mode in Safari on an iPhone - iGeeksBlog How to use Safari Reader in iOS 18 | Tom's Guide How to Use and Tweak Reader Mode in Safari - UMA Technology"
+      "title": "\"View in Reader\" toggle in the URL field \u2026 - Apple Community",
+      "url": "https://discussions.apple.com/thread/255776289"
     },
     {
-      "url": "https://www.igeeksblog.com/how-to-turn-on-reader-view-in-safari-on-iphone-ipad/",
-      "title": "How to Turn on Reader Mode in Safari on an iPhone - iGeeksBlog How to use Safari Reader in iOS 18 | Tom's Guide How to Use and Tweak Reader Mode in Safari - UMA Technology"
+      "title": "How Do I Use Reader Mode in Safari? \u2013 Sage Datum",
+      "url": "https://sagedatum.com/blogs/apps/how-do-i-use-reader-mode-in-safari"
+    },
+    {
+      "title": "How to Enable Reader View (Mode) in Safari on iPhone, iPad ... How to Turn on Reader Mode in Safari on an iPhone - iGeeksBlog How to use Safari Reader in iOS 18 | Tom's Guide How to Use and Tweak Reader Mode in Safari - UMA Technology",
+      "url": "https://techwiser.com/how-to-enable-reader-view-mode-in-safari-on-iphone-ipad-and-mac/"
+    },
+    {
+      "title": "How to Turn on Reader Mode in Safari on an iPhone - iGeeksBlog How to use Safari Reader in iOS 18 | Tom's Guide How to Use and Tweak Reader Mode in Safari - UMA Technology",
+      "url": "https://www.igeeksblog.com/how-to-turn-on-reader-view-in-safari-on-iphone-ipad/"
     }
   ],
   "google play system update changelog december 2025": [
     {
-      "url": "https://9to5google.com/2025/12/15/december-2025-google-system-updates/",
-      "title": "What\u2019s new in Android's December 2025 Google System Updates"
+      "title": "What\u2019s new in Android's December 2025 Google System Updates",
+      "url": "https://9to5google.com/2025/12/15/december-2025-google-system-updates/"
     },
     {
-      "url": "https://support.google.com/product-documentation/answer/14343500?hl=en",
-      "title": "Google System Services Release Notes"
+      "title": "Google System Services Release Notes",
+      "url": "https://support.google.com/product-documentation/answer/14343500?hl=en"
     },
     {
-      "url": "https://sammyguru.com/december-2025-google-play-system-updates-whats-new/",
-      "title": "December 2025 Google Play System Updates: What\u2019s New?"
+      "title": "What's in Latest Google Play Services Update",
+      "url": "https://www.droid-life.com/2025/12/15/google-play-services-update-includes-new-google-play-features-more/"
+    },
+    {
+      "title": "December 2025 Google Play System Updates: What\u2019s New?",
+      "url": "https://sammyguru.com/december-2025-google-play-system-updates-whats-new/"
+    },
+    {
+      "title": "Google Play Services Update: New Features & What Changed",
+      "url": "https://www.world-today-journal.com/google-play-services-update-new-features-what-changed/"
     }
   ],
   "iphone 16 support years security updates": [
     {
-      "url": "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html",
-      "title": "How long does Apple support iPhones ? Apple's support ... | Macworld"
+      "title": "How long does Apple support iPhones ? Apple's support ... | Macworld",
+      "url": "https://www.macworld.com/article/675021/how-long-does-apple-support-iphones.html"
     },
     {
-      "url": "https://support.apple.com/en-us/100100",
-      "title": "Apple security releases - Apple Support"
+      "title": "Apple security releases - Apple Support",
+      "url": "https://support.apple.com/en-us/100100"
     },
     {
-      "url": "https://www.refurb.me/blog/how-long-does-apple-support-iphones",
-      "title": "How Long Does Apple Support iPhones ? (Including the iPhone 17)"
+      "title": "How Long Does Apple Support iPhones ? (Including the iPhone 17)",
+      "url": "https://www.refurb.me/blog/how-long-does-apple-support-iphones"
     },
     {
-      "url": "https://www.knowyourmobile.com/user-guides/iphone/how-long-does-apple-support-iphones-complete-update-list/",
-      "title": "How Long Does Apple Support iPhones ? Complete Update List"
+      "title": "How Long Does Apple Support iPhones ? Complete Update List",
+      "url": "https://www.knowyourmobile.com/user-guides/iphone/how-long-does-apple-support-iphones-complete-update-list/"
+    },
+    {
+      "title": "Apple iPhone 16 vs Samsung Galaxy F55 \u2013 Price... | MyMobileGuru",
+      "url": "https://www.mymobileguru.com/compare/apple-iphone-16-vs-samsung-galaxy-f55/"
     }
   ],
   "pixel 9 update policy 7 years details": [
     {
-      "url": "https://support.google.com/pixelphone/answer/4457705?hl=en",
-      "title": "Learn when you'll get software updates on Google Pixel phones"
+      "title": "Learn when you'll get software updates on Google Pixel phones",
+      "url": "https://support.google.com/pixelphone/answer/4457705?hl=en"
     },
     {
-      "url": "https://www.androidauthority.com/google-pixel-software-policy-3482984/",
-      "title": "Here\u2019s the software update policy for every Google Pixel device"
+      "title": "Here\u2019s the software update policy for every Google Pixel device",
+      "url": "https://www.androidauthority.com/google-pixel-software-policy-3482984/"
     },
     {
-      "url": "https://endoflife.date/pixel",
-      "title": "Google Pixel - endoflife.date"
+      "title": "Google Pixel - endoflife.date",
+      "url": "https://endoflife.date/pixel"
     },
     {
-      "url": "https://beebom.com/how-many-updates-pixel-9-pixel-9-pro/",
-      "title": "How Many Android Updates Will the Pixel 9 Series Get? How many software updates will the Google Pixel 9 get? - YTECHB Google Pixel 9 series confirmed to get 7 years of software ..."
+      "title": "How Many Android Updates Will the Pixel 9 Series Get? How many software updates will the Google Pixel 9 get? - YTECHB Google Pixel 9 series confirmed to get 7 years of software ...",
+      "url": "https://beebom.com/how-many-updates-pixel-9-pixel-9-pro/"
     },
     {
-      "url": "https://www.ytechb.com/how-many-software-updates-will-the-google-pixel-9-get/",
-      "title": "How many software updates will the Google Pixel 9 get? - YTECHB"
+      "title": "How many software updates will the Google Pixel 9 get? - YTECHB",
+      "url": "https://www.ytechb.com/how-many-software-updates-will-the-google-pixel-9-get/"
     }
   ],
   "smartphone depreciation curve 2025 spreadsheet": [
     {
-      "url": "https://www.sellcell.com/smartphone-depreciation/",
-      "title": "Smartphone Depreciation Calculator 2025"
+      "title": "Smartphone Depreciation Calculator 2025",
+      "url": "https://www.sellcell.com/smartphone-depreciation/"
     },
     {
-      "url": "https://gizmogrind.com/blog/2025-depreciation-tracker-playbook/",
-      "title": "2025 Depreciation Tracker: Real-Time Playbook to Sell... - GizmoGrind"
+      "title": "2025 Depreciation Tracker: Real-Time Playbook to Sell... - GizmoGrind",
+      "url": "https://gizmogrind.com/blog/2025-depreciation-tracker-playbook/"
+    },
+    {
+      "title": "U.S. smartphones with the lowest depreciation rates 2024| Statista",
+      "url": "https://www.statista.com/statistics/1292099/smartphones-depreciation/"
+    },
+    {
+      "title": "Smartphone Value After 2 Years: A Depreciation Calculation",
+      "url": "https://slustion.com/blog/smartphone-value-after-2-years"
+    },
+    {
+      "title": "Smartphones (General) - Askio",
+      "url": "https://askio.io/topic/smartphones-general/faq/what-s-the-resale-value-strategy-for-different-smartphone-brands"
     }
   ],
   "trade in value vs swappa fees calculator": [
     {
-      "url": "https://swappa.com/fees",
-      "title": "swappa .com/ fees"
+      "title": "swappa .com/ fees",
+      "url": "https://swappa.com/fees"
     },
     {
-      "url": "https://www.terrific.tools/money/swappa-fee-calculator",
-      "title": "Swappa Fee Calculator [2025] | Calculate Seller & Buyer Fees"
+      "title": "Swappa Fee Calculator [2025] | Calculate Seller & Buyer Fees",
+      "url": "https://www.terrific.tools/money/swappa-fee-calculator"
     },
     {
-      "url": "https://akynocalculator.com/finance/swappa-fee-calculator",
-      "title": "Swappa Fee Calculator"
+      "title": "Swappa Fee Calculator",
+      "url": "https://akynocalculator.com/finance/swappa-fee-calculator"
     },
     {
-      "url": "https://digimarksite.com/tool/swappa-fee-calculator/",
-      "title": "Swappa Fee Calculator \u2013 Estimate Selling Fees Instantly"
+      "title": "Swappa Fee Calculator \u2013 Estimate Selling Fees Instantly",
+      "url": "https://digimarksite.com/tool/swappa-fee-calculator/"
     },
     {
-      "url": "https://smartfeecalculator.com/swappa-fee-calculator",
-      "title": "Swappa Fee Calculator - SmartFeeCalculator.com"
+      "title": "Swappa Fee Calculator - SmartFeeCalculator.com",
+      "url": "https://smartfeecalculator.com/swappa-fee-calculator"
     }
   ],
   "price history thinkpad t14 camelcamelcamel": [
     {
-      "url": "https://camelcamelcamel.com/product/B0FY7BM6GT",
-      "title": "Lenovo ThinkPad T14 Business Laptop 14 ... - camelcamelcamel.com"
+      "title": "Lenovo ThinkPad T14 Business Laptop 14 ... - camelcamelcamel.com",
+      "url": "https://camelcamelcamel.com/product/B0FY7BM6GT"
     },
     {
-      "url": "https://camelcamelcamel.com/product/B0DN7THML6",
-      "title": "Lenovo ThinkPad T14 Gen 6 Business ... - camelcamelcamel.com"
+      "title": "Price history for Lenovo ThinkPad T14 Gen 1 20S0002WUS",
+      "url": "https://pangoly.com/en/price-history/lenovo-thinkpad-t14-gen-1-20s0002wus"
+    },
+    {
+      "title": "Lenovo ThinkPad T14 Gen 5 Business AI PC Laptop (14\" FHD+ ...",
+      "url": "https://price-history.com/product/lenovo-thinkpad-t14-gen-5-business-LyGucwce"
+    },
+    {
+      "title": "Lenovo ThinkPad T14 Gen 5 Laptop, 14 inch WUXGA IPS ...",
+      "url": "https://pricehistory.app/p/lenovo-thinkpad-t14-gen-5-laptop-14-sJ8csCSj"
+    },
+    {
+      "title": "Lenovo ThinkPad T14 Gen 6 Business ... - camelcamelcamel.com",
+      "url": "https://camelcamelcamel.com/product/B0DN7THML6"
     }
   ],
   "repairability score laptop eu 2025 list": [
     {
-      "url": "https://incompliancemag.com/updated-eu-regulations-introduce-repairability-scores/",
-      "title": "Updated EU Regulations Introduce Repairability Scores"
+      "title": "Laptop Repairability Scores | Most Repairable Laptops - iFixit",
+      "url": "https://www.ifixit.com/repairability/laptop-repairability-scores"
     },
     {
-      "url": "https://repair.eu/wp-content/uploads/2024/01/R2R-iFixIt-HOP-CP_Final-comments-on-repair-scoring-system_Laptops.pdf",
-      "title": "REPARABILITY SCORING SYSTEM FOR LAPTOPS - repair.eu"
+      "title": "Updated EU Regulations Introduce Repairability Scores",
+      "url": "https://incompliancemag.com/updated-eu-regulations-introduce-repairability-scores/"
     },
     {
-      "url": "https://resource.co/article/eu-study-sets-out-reparability-scores-electronics-and-household-appliances",
-      "title": "EU study sets out reparability scores for electronics and ..."
+      "title": "\u2018Failing the Fix\u2019 scorecard grades Apple, Samsung, Google ...",
+      "url": "https://pirg.org/edfund/resources/failing-the-fix/"
+    },
+    {
+      "title": "REPARABILITY SCORING SYSTEM FOR LAPTOPS - repair.eu",
+      "url": "https://repair.eu/wp-content/uploads/2024/01/R2R-iFixIt-HOP-CP_Final-comments-on-repair-scoring-system_Laptops.pdf"
+    },
+    {
+      "title": "EU study sets out reparability scores for electronics and ...",
+      "url": "https://resource.co/article/eu-study-sets-out-reparability-scores-electronics-and-household-appliances"
     }
   ],
   "right to repair eu regulation timeline 2025": [
     {
-      "url": "https://commission.europa.eu/law/law-topic/consumer-protection-law/directive-repair-goods_en",
-      "title": "Directive on repair of goods - European Commission"
+      "title": "Directive on repair of goods - European Commission",
+      "url": "https://commission.europa.eu/law/law-topic/consumer-protection-law/directive-repair-goods_en"
     },
     {
-      "url": "https://www.complianceandrisks.com/guides/prepare-to-repair-navigating-2025-right-to-repair-requirements-in-the-eu-us-and-beyond/",
-      "title": "Navigating Global Right-to-Repair Requirements in 2025"
+      "title": "Navigating Global Right-to-Repair Requirements in 2025",
+      "url": "https://www.complianceandrisks.com/guides/prepare-to-repair-navigating-2025-right-to-repair-requirements-in-the-eu-us-and-beyond/"
     },
     {
-      "url": "https://repair.eu/news/the-current-state-of-right-to-repair-in-the-eu-a-snapshot/",
-      "title": "The Current State of Right to Repair in the EU: a Snapshot"
+      "title": "The Current State of Right to Repair in the EU: a Snapshot",
+      "url": "https://repair.eu/news/the-current-state-of-right-to-repair-in-the-eu-a-snapshot/"
     },
     {
-      "url": "https://certifycomply.com/blog/right-to-repair/",
-      "title": "Right to Repair \u2013 the EU's New Directive on Repair of Goods"
+      "title": "Right to Repair \u2013 the EU's New Directive on Repair of Goods",
+      "url": "https://certifycomply.com/blog/right-to-repair/"
     },
     {
-      "url": "https://www.eunews.it/en/2024/07/30/eu-directive-right-repair-products/",
-      "title": "The right to repair has become EU law starting from today"
+      "title": "The right to repair has become EU law starting from today",
+      "url": "https://www.eunews.it/en/2024/07/30/eu-directive-right-repair-products/"
     }
   ],
   "seniors safe default settings android checklist": [
     {
-      "url": "https://techinstructs.com/default-settings-android/",
-      "title": "Default Settings Android - Tech Instructs"
+      "title": "Default Settings Android - Tech Instructs",
+      "url": "https://techinstructs.com/default-settings-android/"
     },
     {
-      "url": "https://www.withinnigeria.com/piece/2025/10/13/smartphone-security-tips-to-keep-your-data-safe/",
-      "title": "Smartphone Security Tips to Keep Your Data Safe \u00bb PIECE"
+      "title": "Smartphone Security Tips to Keep Your Data Safe \u00bb PIECE",
+      "url": "https://www.withinnigeria.com/piece/2025/10/13/smartphone-security-tips-to-keep-your-data-safe/"
+    },
+    {
+      "title": "Android Jetpack Security. This essay seeks to discuss some | Medium",
+      "url": "https://medium.com/kayvan-kaseb/android-jetpack-security-db4079fcaad0"
+    },
+    {
+      "title": "Android Checklist - Android Penetration Testing - Part 11",
+      "url": "https://gbhackers.com/android-penetration-android-checklist/"
+    },
+    {
+      "title": "How to change Android Default Browser Settings - H2S Media",
+      "url": "https://www.how2shout.com/how-to/how-to-change-android-default-browser-settings.html"
     }
   ],
   "autoplay disable tutorials youtube web": [
     {
-      "url": "https://www.youtube.com/watch?v=C-GAV1y3-BI",
-      "title": "Turn Off Autoplay and Mute On YouTube (Web Version) Stop YouTube Auto-Play: A Simple Guide for Every Device How to Enable and Disable Autoplay on YouTube - Computer Hope Autoplay videos - YouTube Help How to Turn Off Autoplay on YouTube on Any Device How to Turn Off Autoplay on YouTube How to Turn Off Autoplay on YouTube YouTube Autoplay Button is Missing? How to Get It Back? How to Stop the YouTube App from Auto Playing Videos on ... - groovy\u2026 Stop YouTube Auto-Play: A Simple Guide for Every Device How do I turn off autoplay on YouTube? - California Learning ..."
+      "title": "Turn Off Autoplay and Mute On YouTube (Web Version) Stop YouTube Auto-Play: A Simple Guide for Every Device How to Enable and Disable Autoplay on YouTube - Computer Hope Autoplay videos - YouTube Help How to Turn Off Autoplay on YouTube on Any Device How to Turn Off Autoplay on YouTube How to Turn Off Autoplay on YouTube YouTube Autoplay Button is Missing? How to Get It Back? How to Stop the YouTube App from Auto Playing Videos on ... - groovy\u2026 Stop YouTube Auto-Play: A Simple Guide for Every Device How do I turn off autoplay on YouTube? - California Learning ...",
+      "url": "https://www.youtube.com/watch?v=C-GAV1y3-BI"
     },
     {
-      "url": "https://blog.mavigadget.com/stop-youtube-auto-play-a-simple-guide-for-every-device/",
-      "title": "Stop YouTube Auto-Play: A Simple Guide for Every Device"
+      "title": "Stop YouTube Auto-Play: A Simple Guide for Every Device",
+      "url": "https://blog.mavigadget.com/stop-youtube-auto-play-a-simple-guide-for-every-device/"
     },
     {
-      "url": "https://www.computerhope.com/issues/ch002142.htm",
-      "title": "How to Enable and Disable Autoplay on YouTube - Computer Hope"
+      "title": "How to Enable and Disable Autoplay on YouTube - Computer Hope",
+      "url": "https://www.computerhope.com/issues/ch002142.htm"
     },
     {
-      "url": "https://support.google.com/youtube/answer/6327615?hl=en",
-      "title": "Autoplay videos - YouTube Help How to Turn Off Autoplay on YouTube on Any Device How to Turn Off Autoplay on YouTube How to Turn Off Autoplay on YouTube YouTube Autoplay Button is Missing? How to Get It Back? How to Stop the YouTube App from Auto Playing Videos on ... - groovy\u2026 Stop YouTube Auto-Play: A Simple Guide for Every Device How do I turn off autoplay on YouTube? - California Learning ..."
+      "title": "Autoplay videos - YouTube Help How to Turn Off Autoplay on YouTube on Any Device How to Turn Off Autoplay on YouTube How to Turn Off Autoplay on YouTube YouTube Autoplay Button is Missing? How to Get It Back? How to Stop the YouTube App from Auto Playing Videos on ... - groovy\u2026 Stop YouTube Auto-Play: A Simple Guide for Every Device How do I turn off autoplay on YouTube? - California Learning ...",
+      "url": "https://support.google.com/youtube/answer/6327615?hl=en"
     },
     {
-      "url": "https://wikitechlibrary.com/how-to-turn-off-autoplay-on-youtube/",
-      "title": "How to Turn Off Autoplay on YouTube on Any Device"
+      "title": "How to Turn Off Autoplay on YouTube on Any Device",
+      "url": "https://wikitechlibrary.com/how-to-turn-off-autoplay-on-youtube/"
     }
   ],
   "email providers privacy proton vs tutanota comparison": [
     {
-      "url": "https://privacysavvy.com/email/comparison/protonmail-vs-tutanota/",
-      "title": "Proton Mail vs. Tuta: Who wins the battle for the best secure ... Proton Mail vs Tutanota: Encrypted email comparison | Proton Tutanota vs. Proton Mail: which should you get? | Cybernews ProtonMail vs Tutanota: Which Secure Email Provider Wins 2025? ProtonMail vs Tutanota: A Head-to-Head Guide to Email Privacy Tutanota vs ProtonMail: A Secure Email Battle for 2025 ProtonMail vs. Tutanota: Which Is the Best Secure Email Provider?"
+      "title": "Proton Mail vs. Tuta: Who wins the battle for the best secure ... Proton Mail vs Tutanota: Encrypted email comparison | Proton Tutanota vs. Proton Mail: which should you get? | Cybernews ProtonMail vs Tutanota: Which Secure Email Provider Wins 2025? ProtonMail vs Tutanota: A Head-to-Head Guide to Email Privacy Tutanota vs ProtonMail: A Secure Email Battle for 2025 ProtonMail vs. Tutanota: Which Is the Best Secure Email Provider?",
+      "url": "https://privacysavvy.com/email/comparison/protonmail-vs-tutanota/"
     },
     {
-      "url": "https://proton.me/mail/proton-mail-vs-tutanota",
-      "title": "Proton Mail vs Tutanota: Encrypted email comparison | Proton"
+      "title": "Proton Mail vs Tutanota: Encrypted email comparison | Proton",
+      "url": "https://proton.me/mail/proton-mail-vs-tutanota"
     },
     {
-      "url": "https://cybernews.com/secure-email-providers/tutanota-vs-protonmail/",
-      "title": "Tutanota vs. Proton Mail: which should you get? | Cybernews ProtonMail vs Tutanota: Which Secure Email Provider Wins 2025? ProtonMail vs Tutanota: A Head-to-Head Guide to Email Privacy Tutanota vs ProtonMail: A Secure Email Battle for 2025 ProtonMail vs. Tutanota: Which Is the Best Secure Email Provider?"
+      "title": "Tutanota vs. Proton Mail: which should you get? | Cybernews ProtonMail vs Tutanota: Which Secure Email Provider Wins 2025? ProtonMail vs Tutanota: A Head-to-Head Guide to Email Privacy Tutanota vs ProtonMail: A Secure Email Battle for 2025 ProtonMail vs. Tutanota: Which Is the Best Secure Email Provider?",
+      "url": "https://cybernews.com/secure-email-providers/tutanota-vs-protonmail/"
     },
     {
-      "url": "https://www.mailjerry.com/protonmail-vs-tutanota/",
-      "title": "ProtonMail vs Tutanota: Which Secure Email Provider Wins 2025?"
+      "title": "ProtonMail vs Tutanota: Which Secure Email Provider Wins 2025?",
+      "url": "https://www.mailjerry.com/protonmail-vs-tutanota/"
     },
     {
-      "url": "https://typewire.com/blog/read/2025-09-30-protonmail-vs-tutanota-a-head-to-head-guide-to-email-privacy",
-      "title": "ProtonMail vs Tutanota: A Head-to-Head Guide to Email Privacy"
+      "title": "ProtonMail vs Tutanota: A Head-to-Head Guide to Email Privacy",
+      "url": "https://typewire.com/blog/read/2025-09-30-protonmail-vs-tutanota-a-head-to-head-guide-to-email-privacy"
     }
   ],
   "privacy friendly maps offline osmand vs organic maps": [
     {
-      "url": "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html",
-      "title": "RogerBW's Blog: OSMAnd vs Organic Maps"
+      "title": "RogerBW's Blog: OSMAnd vs Organic Maps",
+      "url": "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html"
     },
     {
-      "url": "https://www.reddit.com/r/openstreetmap/comments/154jkgq/organic_maps_vs_osmand/",
-      "title": "Organic Maps vs Osmand? : r/openstreetmap - Reddit"
+      "title": "Organic Maps vs Osmand? : r/openstreetmap - Reddit",
+      "url": "https://www.reddit.com/r/openstreetmap/comments/154jkgq/organic_maps_vs_osmand/"
     },
     {
-      "url": "https://www.privacyguides.org/en/maps/",
-      "title": "Recommended Maps and Navigation Apps - Privacy Guides"
+      "title": "Recommended Maps and Navigation Apps - Privacy Guides",
+      "url": "https://www.privacyguides.org/en/maps/"
     },
     {
-      "url": "https://rigorousthemes.com/blog/best-offline-navigation-apps-for-privacy/",
-      "title": "7 Best Offline Navigation Apps For Privacy - Rigorous Themes"
+      "title": "Forget Google Maps \u2014 this privacy-focused navigation app is ...",
+      "url": "https://www.makeuseof.com/forget-google-maps-this-privacy-focused-navigation-app-better/"
+    },
+    {
+      "title": "7 Best Offline Navigation Apps For Privacy - Rigorous Themes",
+      "url": "https://rigorousthemes.com/blog/best-offline-navigation-apps-for-privacy/"
     }
   ],
   "wifi captive portal linux networkmanager tips": [
     {
-      "url": "https://forums.linuxmint.com/viewtopic.php?t=294949",
-      "title": "Please tell me there is a quick fix to the captive portal wifi issue | Forum"
+      "title": "GitHub - MartB/provisioner_rs: A working fork wifi - captive -rs tailored...",
+      "url": "https://github.com/MartB/provisioner_rs"
     },
     {
-      "url": "https://askubuntu.com/questions/1167177/set-url-for-captive-portal-detection",
-      "title": "networking - Set URL for captive portal detection - Ask Ubuntu"
+      "title": "Please tell me there is a quick fix to the captive portal wifi issue | Forum",
+      "url": "https://forums.linuxmint.com/viewtopic.php?t=294949"
+    },
+    {
+      "title": "A Captive Audience",
+      "url": "https://kewbi.sh/blog/posts/250316/"
+    },
+    {
+      "title": "networking - Set URL for captive portal detection - Ask Ubuntu",
+      "url": "https://askubuntu.com/questions/1167177/set-url-for-captive-portal-detection"
+    },
+    {
+      "title": "networking - How to automatically connect/disconnect to WiFi ...",
+      "url": "https://unix.stackexchange.com/questions/577184/how-to-automatically-connect-disconnect-to-wifi-network-only-if-is-needed"
     }
   ],
   "wpa_supplicant captive portal detection script": [
     {
-      "url": "https://raspberrypi.stackexchange.com/questions/118140/detect-captive-portal-without-connecting-to-it",
-      "title": "wpa - Detect captive portal without connecting to it ..."
+      "title": "wpa - Detect captive portal without connecting to it ...",
+      "url": "https://raspberrypi.stackexchange.com/questions/118140/detect-captive-portal-without-connecting-to-it"
+    },
+    {
+      "title": "Rogue Captive Portal using a Raspberry Pi | rogueportal",
+      "url": "https://jerryryle.github.io/rogueportal/"
+    },
+    {
+      "title": "Bypassing WPA-3 SAE: Social Engineering via Captive Portal ...",
+      "url": "https://www.studocu.com/en-us/document/capital-university-columbus-ohio/accounting-theory-and-practice/recovering-wpa-3-network-password-by/124013357"
+    },
+    {
+      "title": "Bypassing Wi-Fi Captive Portals Course | HTB Academy",
+      "url": "https://academy.hackthebox.com/course/preview/bypassing-wi-fi-captive-portals"
+    },
+    {
+      "title": "Automating Wi-Fi Login for Captive Portals using Python in ...",
+      "url": "https://woteq.com/automating-wi-fi-login-for-captive-portals-using-python-in-windows-11/"
     }
   ],
   "iperf3 throughput test best practices": [
     {
-      "url": "https://www.techtarget.com/searchnetworking/tip/How-to-use-iPerf-to-measure-throughput",
-      "title": "How to use iPerf3 to test network bandwidth - TechTarget"
+      "title": "How to use iPerf3 to test network bandwidth - TechTarget",
+      "url": "https://www.techtarget.com/searchnetworking/tip/How-to-use-iPerf-to-measure-throughput"
     },
     {
-      "url": "https://thelinuxcode.com/iperf3-commands/",
-      "title": "A Complete Guide to iperf3 Network Throughput Testing"
+      "title": "A Complete Guide to iperf3 Network Throughput Testing",
+      "url": "https://thelinuxcode.com/iperf3-commands/"
     },
     {
-      "url": "https://networkproguide.com/use-iperf-test-network-bandwidth/",
-      "title": "How to Use iPerf to Test Network Bandwidth | NetworkProGuide"
+      "title": "How to Use iPerf to Test Network Bandwidth | NetworkProGuide",
+      "url": "https://networkproguide.com/use-iperf-test-network-bandwidth/"
     },
     {
-      "url": "https://woshub.com/testing-network-bandwidth-using-iperf/",
-      "title": "Using iPerf to Test Network Speed and Bandwidth - Windows OS Hub Using IPerf3 for Network Performance Testing - davidwzhang.com How to test network throughput using iperf3 tool - CloudCone A Complete Guide to iperf3 Network Throughput Testing How to use iPerf3 to test network bandwidth - TechTarget Using IPerf3 for Network Performance Testing - davidwzhang.com A Complete Guide to iperf3 Network Throughput Testing How to Test Network Bandwidth with iPerf3 Commands - NetAlly"
+      "title": "Using iPerf to Test Network Speed and Bandwidth - Windows OS Hub Using IPerf3 for Network Performance Testing - davidwzhang.com How to test network throughput using iperf3 tool - CloudCone A Complete Guide to iperf3 Network Throughput Testing How to use iPerf3 to test network bandwidth - TechTarget Using IPerf3 for Network Performance Testing - davidwzhang.com A Complete Guide to iperf3 Network Throughput Testing How to Test Network Bandwidth with iPerf3 Commands - NetAlly",
+      "url": "https://woshub.com/testing-network-bandwidth-using-iperf/"
     },
     {
-      "url": "https://davidwzhang.com/2024/02/29/using-iperf3-for-network-performance-testing/",
-      "title": "Using IPerf3 for Network Performance Testing - davidwzhang.com"
+      "title": "Using IPerf3 for Network Performance Testing - davidwzhang.com",
+      "url": "https://davidwzhang.com/2024/02/29/using-iperf3-for-network-performance-testing/"
     }
   ],
   "nuc fan curve control linux tools": [
     {
-      "url": "https://linuxvox.com/blog/control-fan-speed-linux/",
-      "title": "Controlling Fan Speed in Linux: A Comprehensive Guide"
+      "title": "Controlling Fan Speed in Linux: A Comprehensive Guide",
+      "url": "https://linuxvox.com/blog/control-fan-speed-linux/"
     },
     {
-      "url": "https://www.reddit.com/r/intelnuc/comments/zrvz32/nuc_fan_control_software/",
-      "title": "NUC fan control software? : r/intelnuc - Reddit"
+      "title": "NUC fan control software? : r/intelnuc - Reddit",
+      "url": "https://www.reddit.com/r/intelnuc/comments/zrvz32/nuc_fan_control_software/"
     },
     {
-      "url": "https://greenwebpage.com/community/how-to-control-cpu-fan-speed-on-linux/",
-      "title": "How to Control CPU Fan Speed on Linux: In 5 Steps"
+      "title": "GitHub - crazynucfan/FanControl.IntelNUCSoftwareStudioPlugin",
+      "url": "https://github.com/crazynucfan/FanControl.IntelNUCSoftwareStudioPlugin"
     },
     {
-      "url": "https://community.intel.com/t5/Intel-Xeon-Processor-and-Server/Intel-NUC-rev12-Fan-speed-control/m-p/1613279",
-      "title": "Intel NUC rev12 Fan speed control - Intel Community"
+      "title": "How to Control CPU Fan Speed on Linux: In 5 Steps",
+      "url": "https://greenwebpage.com/community/how-to-control-cpu-fan-speed-on-linux/"
+    },
+    {
+      "title": "Intel NUC rev12 Fan speed control - Intel Community",
+      "url": "https://community.intel.com/t5/Intel-Xeon-Processor-and-Server/Intel-NUC-rev12-Fan-speed-control/m-p/1613279"
     }
   ],
   "low power server benchmark suite fio sysbench": [
     {
-      "url": "https://github.com/haydenjames/bench-scripts",
-      "title": "GitHub - haydenjames/ bench -scripts: A compilation of Linux server ..."
+      "title": "GitHub - haydenjames/ bench -scripts: A compilation of Linux server ...",
+      "url": "https://github.com/haydenjames/bench-scripts"
     },
     {
-      "url": "https://onidel.com/benchmark-linux-vps-2025/",
-      "title": "How to Benchmark Your Linux VPS in 2025: CPU... - Onidel Cloud"
+      "title": "How to Benchmark Your Linux VPS in 2025: CPU... - Onidel Cloud",
+      "url": "https://onidel.com/benchmark-linux-vps-2025/"
     },
     {
-      "url": "https://forums.servethehome.com/index.php?threads/benchmarking-with-fio-and-generating-graphs.7665/",
-      "title": "Benchmarking with fio and generating graphs | ServeTheHome Forums"
+      "title": "Benchmarking with fio and generating graphs | ServeTheHome Forums",
+      "url": "https://forums.servethehome.com/index.php?threads/benchmarking-with-fio-and-generating-graphs.7665/"
     },
     {
-      "url": "https://www.alibabacloud.com/blog/testing-io-performance-with-sysbench_594709",
-      "title": "Testing I/O Performance with Sysbench - Alibaba Cloud Community"
+      "title": "SalmonCloud Starter HKG VPS Performance Trial | VPSBenchmarks",
+      "url": "https://www.vpsbenchmarks.com/trials/salmoncloud_performance_trial_11Dec2025"
+    },
+    {
+      "title": "Testing I/O Performance with Sysbench - Alibaba Cloud Community",
+      "url": "https://www.alibabacloud.com/blog/testing-io-performance-with-sysbench_594709"
     }
   ],
   "mechanical keyboard silent tactile switch comparison": [
     {
-      "url": "https://keybumps.com/category/switches/silent-tactile.html",
-      "title": "Silent Tactile Mechanical Switches Collection - Specs & Comparison"
+      "title": "Silent Tactile Mechanical Switches Collection - Specs & Comparison",
+      "url": "https://keybumps.com/category/switches/silent-tactile.html"
+    },
+    {
+      "title": "Top Mechanical Keyboard Silent Switches for Silent ... | LumeKeebs",
+      "url": "https://lumekeebs.com/blogs/blog/top-silent-switches"
+    },
+    {
+      "title": "What Are Silent Mechanical Keyboard Switches and Do They...",
+      "url": "https://www.makeuseof.com/what-are-silent-mechanical-keyboard-switches/"
+    },
+    {
+      "title": "Top Silent Mechanical Keyboard Switches Companies & How to...",
+      "url": "https://www.linkedin.com/pulse/top-silent-mechanical-keyboard-switches-companies-how-fsl8f"
+    },
+    {
+      "title": "Akko Penguin Switch Vs Akko Fairy | TikTok",
+      "url": "https://www.tiktok.com/discover/akko-penguin-switch-vs-akko-fairy"
     }
   ],
   "qmk vs via feature matrix 2025": [
     {
-      "url": "https://attackshark.de/en/blogs/news/custom-keyboard-firmware-comparison",
-      "title": "Mastering Custom Keyboard Firmware: QMK vs . VIA"
+      "title": "QMK and VIA : A Guide to Keyboard Customization",
+      "url": "https://akkogear.eu/blogs/news/understanding-qmk-and-via-a-guide-to-keyboard-customization"
     },
     {
-      "url": "https://glacierpcgaming.com/blogs/news/qmk-vs-via-which-one-should-you-use-for-keyboard-customization",
-      "title": "QMK vs VIA : Which One Should You Use for Keyboard Customization?"
+      "title": "Mastering Custom Keyboard Firmware: QMK vs . VIA",
+      "url": "https://attackshark.de/en/blogs/news/custom-keyboard-firmware-comparison"
     },
     {
-      "url": "https://keyboardforge.io/via-vs-qmk/",
-      "title": "What is VIA vs QMK ? It's Magic for Your Keyboard - Keyboard Forge"
+      "title": "QMK vs VIA : Which One Should You Use for Keyboard Customization?",
+      "url": "https://glacierpcgaming.com/blogs/news/qmk-vs-via-which-one-should-you-use-for-keyboard-customization"
     },
     {
-      "url": "https://justanswers.blog/qmk-vs-via-keyboard-firmware/",
-      "title": "QMK vs VIA : Choosing the Right Keyboard Firmware"
+      "title": "What is VIA vs QMK ? It's Magic for Your Keyboard - Keyboard Forge",
+      "url": "https://keyboardforge.io/via-vs-qmk/"
+    },
+    {
+      "title": "QMK vs VIA : Choosing the Right Keyboard Firmware",
+      "url": "https://justanswers.blog/qmk-vs-via-keyboard-firmware/"
     }
   ],
   "stabilizer tuning dielectric grease vs krytox xht-bdz": [
     {
-      "url": "https://www.reddit.com/r/MechanicalKeyboards/comments/uswkrv/what_do_you_prefer_for_stabilizers/",
-      "title": "What do you prefer for stabilizers? : r/MechanicalKeyboards"
+      "title": "What do you prefer for stabilizers? : r/MechanicalKeyboards",
+      "url": "https://www.reddit.com/r/MechanicalKeyboards/comments/uswkrv/what_do_you_prefer_for_stabilizers/"
     },
     {
-      "url": "https://hirosarts.com/blog/the-best-lube-for-your-mechanical-keyboard-switches/",
-      "title": "17 Best Lube for Mechanical Keyboard Switches And Stabilizers"
+      "title": "17 Best Lube for Mechanical Keyboard Switches And Stabilizers",
+      "url": "https://hirosarts.com/blog/the-best-lube-for-your-mechanical-keyboard-switches/"
     },
     {
-      "url": "https://zkeebs.com/en-sg/blogs/news/the-best-lubricants-for-keyboard-switches-and-stabilizers",
-      "title": "The Best Lubricants for Keyboard Switches and Stabilizers"
+      "title": "The Best Lubricants for Keyboard Switches and Stabilizers",
+      "url": "https://zkeebs.com/en-sg/blogs/news/the-best-lubricants-for-keyboard-switches-and-stabilizers"
     },
     {
-      "url": "https://www.krytox.com/en/-/media/files/krytox/krytox-xht-bd.pdf?rev=1ccd443615c9428bbf496878fa7c689f",
-      "title": "XHT-BD, XHT-BDX, and XHT-BDZ - Krytox"
+      "title": "XHT-BD, XHT-BDX, and XHT-BDZ - Krytox",
+      "url": "https://www.krytox.com/en/-/media/files/krytox/krytox-xht-bd.pdf?rev=1ccd443615c9428bbf496878fa7c689f"
+    },
+    {
+      "title": "The Best Mechanical Keyboard Stabilizers in 2025 - alexotos",
+      "url": "https://www.alexotos.com/the-best-mechanical-keyboard-stabilizers-in-2025/"
     }
   ],
   "split keyboard tenting kit recommendations": [
     {
-      "url": "https://www.reddit.com/r/ErgoMechKeyboards/comments/13rfp7l/any_good_keyboard_tenting_solutions/",
-      "title": "Any good keyboard tenting solutions?. : r/ErgoMechKeyboards"
+      "title": "Split Keyboard Tenting - Save On Split Keyboard Tenting",
+      "url": "https://www.bing.com/aclick?ld=e8tpXODJBwKmb-AGvgMUDYvjVUCUy3msyOrpiLsR76lRZNQvMGKQ_jmSxZBqz4TQMVAC001nU6jiEw7mCl98Em8K0EbIrcPB9nj0j5bj4w0W-xA45bvXm8YmcMjAMya6hDUBwdtnXO6hhdsyBQ2mrezVyjdgz2UC1C9t34s1UmAWTO8LHRKYlaN27foXBXDnO-QfVMb7foac4uS6k5rdytrh1PNPo&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHNwbGl0JTJia2V5Ym9hcmQlMmJ0ZW50aW5nJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfOTcxMzI5MzRhaV9wJTI2YWRncnBpZCUzZDEzNDU4MDMyMjc0NjA4MTQlMjZodmFkaWQlM2Q4NDExMzA2MTU3OTc3OCUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODQxMTMzNDkyMzMwNzQlM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDc2NjZfMTM3MjMwNTElMjZtY2lkJTNkZmZlZDdlZTdkMWQxM2ZkZDk5MDA5NzA4OWZkZDk2OTMlMjZtc2Nsa2lkJTNkMGE5ZTdiMGQ2ZGIwMTk5ZmJiNTcxMjRjYTNlZGU2Y2M&rlid=0a9e7b0d6db0199fbb57124ca3ede6cc"
     },
     {
-      "url": "https://xcmkb.com/pages/tenting-option",
-      "title": "Tenting option \u2013 XCMKB"
+      "title": "5 Best Split Keyboards 2025 - Best Split Keyboards In 2025",
+      "url": "https://www.bing.com/aclick?ld=e8XRl78wcOGdJqy1-agqLDHjVUCUxQU45nN6MOYqNE59jU-AA_4YiOy4Ogolmz543RwQ-BIiVpJfvbuh3S3gaqHp2LjvivYrIfFQe0NMIi6k-w97s72BYPsA8cMXFcbbcW6trX2bY-MIfWVp2hR_xdd7Rsj8svokdy262AkbTWUJN5y25JnDbeTYSMbJ-XyFufFipx_djONxkRZ5OxCHIuQO5Ohzo&u=aHR0cHMlM2ElMmYlMmZyZXZpZXdzLmNoaWNhZ290cmlidW5lLmNvbSUyZnJldmlld3MlMmZiZXN0LXNwbGl0LWtleWJvYXJkcyUzZmNpZCUzZDY1MDExNzE4MyUyNmFjaWQlM2QxMCUyNmFpZCUzZDEyNTY3NDI0MzkzNDg3MTclMjZlaWQlM2QlMjZ0aWQlM2Rrd2QtNzg1NDY3OTQ5NDUzMjglM2Fsb2MtNDExMiUyNnVsJTNkNTgxNjIlMjZtdCUzZGIlMjZuJTNkbyUyNmQlM2RjJTI2ZG0lM2QlMjZkdCUyNnNuJTI2YWRpZCUzZCUyNmslM2RzcGxpdCUyNTIwa2V5Ym9hcmRzJTI1MjByZXZpZXdzJTI2cCUzZCUyNnBjJTNkJTI2YXAlM2QlMjZjaHRyYiUzZDElMjZtc2Nsa2lkJTNkYTQ2YjZjN2Q2YTU3MWY0YzA0YTYwNTNjYTQwYWUyMmYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RUcmliJTI1MjBCRkNNJTI1MjAyMDI1JTI1MjAxMyUyNnV0bV90ZXJtJTNkc3BsaXQlMjUyMGtleWJvYXJkcyUyNTIwcmV2aWV3cyUyNnV0bV9jb250ZW50JTNkQmVzdCUyNTIwU3BsaXQlMjUyMEtleWJvYXJkcw&rlid=a46b6c7d6a571f4c04a6053ca40ae22f"
     },
     {
-      "url": "https://www.howtogeek.com/why-i-chose-a-tented-split-mechanical-keyboard/",
-      "title": "Why I Chose a Tented Split Mechanical Keyboard - How-To Geek"
+      "title": "Any good keyboard tenting solutions?. : r/ErgoMechKeyboards",
+      "url": "https://www.reddit.com/r/ErgoMechKeyboards/comments/13rfp7l/any_good_keyboard_tenting_solutions/"
+    },
+    {
+      "title": "Tenting option \u2013 XCMKB",
+      "url": "https://xcmkb.com/pages/tenting-option"
+    },
+    {
+      "title": "Why I Chose a Tented Split Mechanical Keyboard - How-To Geek",
+      "url": "https://www.howtogeek.com/why-i-chose-a-tented-split-mechanical-keyboard/"
     }
   ],
   "folding bike lock sold secure gold lightweight": [
     {
-      "url": "https://thebestbikelock.com/folding-locks/",
-      "title": "Best Folding Bike Lock : Practical and Secure ... | The Best Bike Lock"
+      "title": "Best Folding Bike Lock : Practical and Secure ... | The Best Bike Lock",
+      "url": "https://thebestbikelock.com/folding-locks/"
     },
     {
-      "url": "https://www.bikelockwiki.com/the-best-folding-bike-locks/",
-      "title": "The Best Folding Bike Locks | 4 Impressive Locks Reviewed"
+      "title": "Sold Secure Gold Bike Locks | Gold Rated Bike Lock",
+      "url": "https://www.litelok.com/collections/sold-secure-gold-rated-bike-locks"
     },
     {
-      "url": "https://soldsecure.com/product/via-velo-folding-lock-230509",
-      "title": "Via Velo Folding Lock 230509 ( Bike Lock ) - Sold Secure Gold Rated"
+      "title": "The Best Folding Bike Locks | 4 Impressive Locks Reviewed",
+      "url": "https://www.bikelockwiki.com/the-best-folding-bike-locks/"
+    },
+    {
+      "title": "Via Velo Folding Lock 230509 ( Bike Lock ) - Sold Secure Gold Rated",
+      "url": "https://soldsecure.com/product/via-velo-folding-lock-230509"
+    },
+    {
+      "title": "Best bike locks 2024 reviewed and tips to avoid bike theft | Cyclist",
+      "url": "https://www.cyclist.co.uk/buying-guides/buyers-guide-choosing-the-best-bike-lock"
     }
   ],
   "cafe wifi stability test checklist": [
     {
-      "url": "https://wificaptive.com/tools/connection-stability",
-      "title": "Connection Stability Test - WiFi Captive"
+      "title": "Connection Stability Test - WiFi Captive",
+      "url": "https://wificaptive.com/tools/connection-stability"
     },
     {
-      "url": "https://superuser.com/questions/1212335/how-to-test-wi-fi-connections-stability",
-      "title": "wireless networking - How to test Wi - Fi connection's stability ?"
+      "title": "wireless networking - How to test Wi - Fi connection's stability ?",
+      "url": "https://superuser.com/questions/1212335/how-to-test-wi-fi-connections-stability"
     },
     {
-      "url": "https://packetstats.com/",
-      "title": "Free Internet Stability Test"
+      "title": "Free Internet Stability Test",
+      "url": "https://packetstats.com/"
+    },
+    {
+      "title": "Caf\u00e9 WiFi - How Reliable WiFi Can Boost Sales - PC Man",
+      "url": "https://ilovepcman.com/cafe-wifi/"
+    },
+    {
+      "title": "CDRouter WiFi Performance & Stability | QA Cafe Support",
+      "url": "https://support.qacafe.com/cdrouter/training/live-training/cdrouter-wifi-performance-and-stability/"
     }
   ]
 }

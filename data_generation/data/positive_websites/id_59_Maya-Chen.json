@@ -1,1362 +1,2202 @@
 {
   "dog resting heart rate normal chart by size": [
     {
-      "url": "https://articles.hepper.com/what-heart-rate-is-normal-for-a-dog/",
-      "title": "What Heart Rate Is Normal for a Dog? Vet Approved Facts"
+      "title": "What Heart Rate Is Normal for a Dog? Vet Approved Facts",
+      "url": "https://articles.hepper.com/what-heart-rate-is-normal-for-a-dog/"
     },
     {
-      "url": "https://www.greatpetcare.com/dog-health/normal-dog-heart-rate/",
-      "title": "Normal Dog Heart Rate: What Should It Be? - Great Pet Care"
+      "title": "Normal Dog Heart Rate: What Should It Be? - Great Pet Care",
+      "url": "https://www.greatpetcare.com/dog-health/normal-dog-heart-rate/"
     },
     {
-      "url": "https://vetexplainspets.com/normal-heart-rate-for-a-dog/",
-      "title": "Normal Heart Rate For A Dog - [Vet Explains Pets]"
+      "title": "Normal Heart Rate For A Dog - [Vet Explains Pets]",
+      "url": "https://vetexplainspets.com/normal-heart-rate-for-a-dog/"
     },
     {
-      "url": "https://www.askaivet.com/pet-health/what-is-the-normal-resting-heart-rate-for-dogs",
-      "title": "What Is the Normal Resting Heart Rate for Dogs? - Ask AI Vet"
+      "title": "PDF Normal TPR for Dogs - ASPCApro",
+      "url": "https://www.aspcapro.org/sites/default/files/NormalTPRDogsCatsPoster.pdf"
+    },
+    {
+      "title": "What Is the Normal Resting Heart Rate for Dogs? - Ask AI Vet",
+      "url": "https://www.askaivet.com/pet-health/what-is-the-normal-resting-heart-rate-for-dogs"
     }
   ],
   "cat normal respiratory rate sleeping": [
     {
-      "url": "https://vcahospitals.com/know-your-pet/home-breathing-rate-evaluation",
-      "title": "Home Breathing Rate Evaluation | VCA Animal Hospitals"
+      "title": "Home Breathing Rate Evaluation | VCA Animal Hospitals",
+      "url": "https://vcahospitals.com/know-your-pet/home-breathing-rate-evaluation"
     },
     {
-      "url": "https://articles.hepper.com/cat-normal-respiration-rate/",
-      "title": "What Is a Normal Respiratory Rate For Cats? Vet-Reviewed ..."
+      "title": "What Is a Normal Respiratory Rate For Cats? Vet-Reviewed ...",
+      "url": "https://articles.hepper.com/cat-normal-respiration-rate/"
     },
     {
-      "url": "https://cornwallvetcardiology.co.uk/wp-content/uploads/2018/12/Feline-Sleeping-Respiratory-Rate-Chart-Cornwall-Vet-Cardiology.pdf",
-      "title": "Feline Sleeping Respiratory Rate Chart - Cornwall Vet Cardiology"
+      "title": "Feline Sleeping Respiratory Rate Chart - Cornwall Vet Cardiology",
+      "url": "https://cornwallvetcardiology.co.uk/wp-content/uploads/2018/12/Feline-Sleeping-Respiratory-Rate-Chart-Cornwall-Vet-Cardiology.pdf"
     },
     {
-      "url": "https://www.catster.com/cat-health-care/cat-respiration-rate/",
-      "title": "Cat Respiration Rate: How Fast Should My Cat Be Breathing?"
+      "title": "Cat Respiration Rate: How Fast Should My Cat Be Breathing?",
+      "url": "https://www.catster.com/cat-health-care/cat-respiration-rate/"
     },
     {
-      "url": "https://www.dialavet.com/vet-answers/post/cat-breathing-rate-sleep-19001",
-      "title": "Is 40 breaths per minute normal for a cat while it's sleeping?"
+      "title": "Is 40 breaths per minute normal for a cat while it's sleeping?",
+      "url": "https://www.dialavet.com/vet-answers/post/cat-breathing-rate-sleep-19001"
     }
   ],
   "color-coded thresholds pets spreadsheet template": [
     {
-      "url": "https://slidesdocs.com/excel-sheets/threshold",
-      "title": "Free Threshold Templates For Google Sheets And Microsoft ..."
+      "title": "How to Create Color-Coded Progress Bars in Excel with Openpyxl",
+      "url": "https://www.statology.org/how-to-create-color-coded-progress-bars-in-excel-with-openpyxl/"
     },
     {
-      "url": "https://longbournfarm.com/free-animal-records-spreadsheet/",
-      "title": "Animal Records Spreadsheet - Longbourn Farm"
+      "title": "Free Excel Spreadsheet Templates - Smartsheet",
+      "url": "https://www.smartsheet.com/32-free-excel-spreadsheet-templates"
+    },
+    {
+      "title": "Free Threshold Templates For Google Sheets And Microsoft ...",
+      "url": "https://slidesdocs.com/excel-sheets/threshold"
+    },
+    {
+      "title": "Animal Records Spreadsheet - Longbourn Farm",
+      "url": "https://longbournfarm.com/free-animal-records-spreadsheet/"
+    },
+    {
+      "title": "Move on From Spreadsheets - Odoo Inventory",
+      "url": "https://www.bing.com/aclick?ld=e86XZzCe59Z0njvzSHg6sdNTVUCUwXsz_zuPBTckW1TBFQ7EYf3iHpLMyOmruQ78qU2srgX3ZRWy0TMeaxmRD5QffMgKMeF51z8f2MUHaogkON9f7oHhLdMiXih8InC_0LkWXZ-KVPXWTuI3I1dTma7vLuHSUvVEdNuxLf1agcCwC8gQw7j92SEbi7DtT3ZpsiQmmKoMw0dlj_1OxkcT3OEtiu8G4&u=aHR0cHMlM2ElMmYlMmZ3d3cub2Rvby5jb20lMmZhcHAlMmZpbnZlbnRvcnklM2ZuZXR3b3JrJTNkbyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE5BLUVOLUludmVudG9yeSUyNnV0bV90ZXJtJTNkaW52ZW50b3J5JTI1MjBzaGVldHV0bV9nY2xpZCUzZCUyNm1zY2xraWQlM2RjMzBlYzk1NTJjNzIxZGNmNmQ1ZmEwMTRlNjgxMjRkNw&rlid=c30ec9552c721dcf6d5fa014e68124d7"
     }
   ],
   "google sheets conditional formatting thresholds icons": [
     {
-      "url": "https://blog.coupler.io/conditional-formatting-google-sheets/",
-      "title": "Conditional Formatting in Google Sheets Guide 2025 | Coupler.io Blog"
+      "title": "How To Apply Conditional Formatting Across An Entire Row",
+      "url": "https://www.benlcollins.com/spreadsheets/conditional-formatting-entire-row/"
     },
     {
-      "url": "https://quizlet.com/649930133/u24-google-sheets-conditional-formatting-icons-flash-cards/",
-      "title": "U2.4 Google Sheets Conditional Formatting & Icons ... | Quizlet"
+      "title": "Conditional Formatting in Google Sheets Guide 2025 | Coupler.io Blog",
+      "url": "https://blog.coupler.io/conditional-formatting-google-sheets/"
+    },
+    {
+      "title": "Google Sheets Conditional Formatting Based on Another... - YouTube",
+      "url": "https://www.youtube.com/watch?v=rYuUP-oUMRY"
+    },
+    {
+      "title": "U2.4 Google Sheets Conditional Formatting & Icons ... | Quizlet",
+      "url": "https://quizlet.com/649930133/u24-google-sheets-conditional-formatting-icons-flash-cards/"
+    },
+    {
+      "title": "How to Drag Conditional Formatting Google Sheets using AI",
+      "url": "https://www.thebricks.com/resources/guide-how-to-drag-conditional-formatting-google-sheets-using-ai"
     }
   ],
   "Fi collar export data CSV": [
     {
-      "url": "https://discuss.tidbyt.com/t/fi-collar-graphql-question/1125",
-      "title": "Fi Collar / GraphQL Question - Developers - Tidbyt"
+      "title": "mgritts/CollarDataExport: A Shiny application to extract GPS collar data",
+      "url": "https://github.com/mgritts/CollarDataExport"
+    },
+    {
+      "title": "Migrate GPS+X collar data to INVENTA Desktop - Vectronic Aerospace",
+      "url": "https://www.vectronic-aerospace.com/migrate-gpsx-collar-data-to-inventa-desktop/"
+    },
+    {
+      "title": "Fi Collar Setup for Travel \u2013 Help Center",
+      "url": "https://support.tryfi.com/hc/en-us/articles/360046283474-Fi-Collar-Setup-for-Travel"
+    },
+    {
+      "title": "Fi Collar / GraphQL Question - Developers - Tidbyt",
+      "url": "https://discuss.tidbyt.com/t/fi-collar-graphql-question/1125"
+    },
+    {
+      "title": "How to Connect Fi Collar to Phone: A Step-by-Step Guide",
+      "url": "https://pawsitivegears.com/how-to-connect-fi-collar-to-phone/"
     }
   ],
   "Whistle health insights API documentation": [
     {
-      "url": "https://discuss.google.dev/t/fhir-whistle-data-mappings-validation/152090",
-      "title": "FHIR Whistle Data Mappings Validation - Community Articles ..."
+      "title": "Azure REST API for Azure Health Data Services & API for FHIR",
+      "url": "https://learn.microsoft.com/en-us/rest/api/healthcareapis/"
     },
     {
-      "url": "https://github.com/GoogleCloudPlatform/healthcare-data-harmonization",
-      "title": "GoogleCloudPlatform/healthcare-data-harmonization - GitHub"
+      "title": "Welcome to APIs at athenahealth | API Solutions",
+      "url": "https://docs.athenahealth.com/api/guides/overview"
+    },
+    {
+      "title": "FHIR | Cloud Healthcare API | Google Cloud Documentation",
+      "url": "https://docs.cloud.google.com/healthcare-api/docs/concepts/fhir"
+    },
+    {
+      "title": "FHIR Whistle Data Mappings Validation - Community Articles ...",
+      "url": "https://discuss.google.dev/t/fhir-whistle-data-mappings-validation/152090"
+    },
+    {
+      "title": "GoogleCloudPlatform/healthcare-data-harmonization - GitHub",
+      "url": "https://github.com/GoogleCloudPlatform/healthcare-data-harmonization"
     }
   ],
   "Petivity litter box sensor data export": [
     {
-      "url": "https://www.petivity.com/products/smart-litter-box-monitor",
-      "title": "Smart Litter Box Monitor - Scale & Cat Health Monitor | Petivity"
+      "title": "Smart Litter Box Monitor - Scale & Cat Health Monitor | Petivity",
+      "url": "https://www.petivity.com/products/smart-litter-box-monitor"
     },
     {
-      "url": "https://www.purina.com/petivity-smart-litter-box-monitor",
-      "title": "Petivity Smart Litterbox Monitor System | Purina US"
+      "title": "Petivity Smart Litterbox Monitor System | Purina US",
+      "url": "https://www.purina.com/petivity-smart-litter-box-monitor"
     },
     {
-      "url": "https://www.wired.com/review/petivity-smart-litterbox-monitor/",
-      "title": "Petivity Smart Litterbox Monitor Review: Helpful Health Alerts | WIRED"
+      "title": "The 9 Best Automatic Litter Boxes of 2025, Tested and Reviewed",
+      "url": "https://www.thesprucepets.com/best-automatic-litter-boxes-4684419"
+    },
+    {
+      "title": "Amazon.com: Purina Petivity Smart Litter Box Monitor Cat Weight...",
+      "url": "https://www.amazon.com/Petivity-Powered-Purina-Litter-Monitor/dp/B0C7S7NPMX?ref_=ast_sto_dp"
+    },
+    {
+      "title": "Petivity Smart Litterbox Monitor Review: Helpful Health Alerts | WIRED",
+      "url": "https://www.wired.com/review/petivity-smart-litterbox-monitor/"
     }
   ],
   "compare Litter-Robot vs Petivity accuracy weight": [
     {
-      "url": "https://www.bing.com/aclick?ld=e8q1vbKL9pRtd4nT6FHzzRBTVUCUz9G1lUEX8yhCUCfnDeqvvwcsdoa0nTKjEbq_zf1ht91CZP1Q7uU0iJbYtMwf2tEG8nvtPcinKYexlpIW0Umi-eAf6pFpdO68KhORgBh124dSkIPgUI-5yFEufPz4Dzr7Ww92I7y1bmPzIfBvuYeUxd8adoTDXzo4Kp_WIRZW73TAvWfT1VPWhPxCmObPXaftY&u=aHR0cHMlM2ElMmYlMmZ3d3cubGl0dGVyLXJvYm90LmNvbSUyZmdldHRpbmctc3RhcnRlZCUyZmxpdHRlci1yb2JvdC00JTNmbXNjbGtpZCUzZGVjYjU3ZWI3OGFiMDFiMWQ2NmJjMTdmNjQwNDczYTdhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkTFJfVVNBX0xvd19CcmFuZF9QZXJmb3JtYW5jZU1heCUyNnV0bV90ZXJtJTNkd3d3LmxpdHRlci1yb2JvdC5jb20lMjZ1dG1fY29udGVudCUzZEJyYW5k&rlid=ecb57eb78ab01b1d66bc17f640473a7a",
-      "title": "Compare Litter Robot 4 - Get Started with Weight"
+      "title": "2025's Top-Rated Cat Litters - We Lab Tested Litter Boxes",
+      "url": "https://www.bing.com/aclick?ld=e8qawGHs0pBwDA5ZHj-U5DcTVUCUzqsewFCtGMFtaJdNWapWqwGrk4IG-S2FyIMLZ8k-ouaw65H2zT4BBe-Nbh9-RJ3NMh4YsSW6MWomL7cJoVoEoaanBE0iI-DSiTPm2te4uVYFgsomfNYTRabA_GznAQlGO8NCVclWjlU_32C8g1XhMEBq7SlR4DZC691Ac8jCh79ZbiTCjhvUosSgKLn50WTQo&u=aHR0cHMlM2ElMmYlMmZ3d3cudGhlc3BydWNlcGV0cy5jb20lMmZiZXN0LWF1dG9tYXRpYy1saXR0ZXItYm94ZXMtNDY4NDQxOSUzZnV0bV9tZWRpdW0lM2Rjb24lMjZkaXNwbGF5UHJpY2UlM2RubyUyNnV0bV9zb3VyY2UlM2RtaWNyb3NvZnRwYWlkJTI2dXRtX21lZGl1bSUzZGNvbiUyNnV0bV9jb250ZW50JTNkODIwYjY3Y2VlYmY1MWYzNzM2M2QwZThmMjEwMjc1ODAlMjZ1dG1fY2FtcGFpZ24lM2Rjb21tZXJjZS1kZC1BdXRvbWF0aWNMaXR0ZXJCb3hlc19UaGVTcHJ1Y2VQZXRzX0NvbWJpbmVkX0NvbW1TRU1fT3JnYW5pY0xQLTQ2ODQ0MTklMjZ1dG1fdGVybSUzZGxpdHRlciUyNTIwcm9ib3QlMjZ1dG1fdGVzdCUzZCUyNm1zY2xraWQlM2Q4MjBiNjdjZWViZjUxZjM3MzYzZDBlOGYyMTAyNzU4MA&rlid=820b67ceebf51f37363d0e8f21027580"
     },
     {
-      "url": "https://www.nytimes.com/wirecutter/reviews/purina-petivity-smart-litter-box-review/",
-      "title": "Do Smart Pet Scales Actually Work? We Put One to the Test. I asked cats to test these robotic litter boxes \u2014 here's the ... Images Petivity smart litterbox review: Should you buy this $200 ... We tested the Litter-Robot 4 automatic litter box \u2014 here's ... LR4 and Petivity : r/litterrobot - Reddit Review: Petivity Smart Litterbox Monitor System \u2013 Connected-vet Purina Petivity Smart Cat Litterbox Monitor System Review"
+      "title": "Litter-Robot\u00ae 5 - Compare Our New Models Today",
+      "url": "https://www.bing.com/aclick?ld=e8GPFmUHKIoe1qS3Rgs0LeCTVUCUxNTVb4GgZEy4buxFDVgSMpOhnLaGLxVWTdiHQ6fKDGWOtZg1GOGP9n3VUQXksBqLB1FVr_2JtDueY96R_YCk8FrVkGYbGyaZwaYDUvNf0_XMHEo74uVlRFJWfWnsqgJRE6fBkuciTqn-wNwRzQEiP5gTy35oSMaAjo3dUVa2C8y22Hjo4XhMQ7ZBfRqf2cqwE&u=aHR0cHMlM2ElMmYlMmZ3d3cud2hpc2tlci5jb20lMmZsaXR0ZXItcm9ib3QtY29tcGFyaXNvbi1jaGFydCUzZm1zY2xraWQlM2QyZmNiMmIxMWI2MzcxNzI3OWJmYjQyNTA3Y2MwNmEwYSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFdDX1VTQV9Mb3dfQnJhbmRfQ2F0Y2hBbGwlMjZ1dG1fdGVybSUzZExpdHRlciUyNTIwUm9ib3QlMjUyMFJldmlld3MlMjZ1dG1fY29udGVudCUzZExpdHRlci1Sb2JvdCUyNTIwJTI1MkIlMjUyMFJldmlld3M&rlid=2fcb2b11b63717279bfb42507cc06a0a"
+    },
+    {
+      "title": "Compare Litter Robot 4 - Get Started with Weight",
+      "url": "https://www.bing.com/aclick?ld=e8q1vbKL9pRtd4nT6FHzzRBTVUCUz9G1lUEX8yhCUCfnDeqvvwcsdoa0nTKjEbq_zf1ht91CZP1Q7uU0iJbYtMwf2tEG8nvtPcinKYexlpIW0Umi-eAf6pFpdO68KhORgBh124dSkIPgUI-5yFEufPz4Dzr7Ww92I7y1bmPzIfBvuYeUxd8adoTDXzo4Kp_WIRZW73TAvWfT1VPWhPxCmObPXaftY&u=aHR0cHMlM2ElMmYlMmZ3d3cubGl0dGVyLXJvYm90LmNvbSUyZmdldHRpbmctc3RhcnRlZCUyZmxpdHRlci1yb2JvdC00JTNmbXNjbGtpZCUzZGVjYjU3ZWI3OGFiMDFiMWQ2NmJjMTdmNjQwNDczYTdhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkTFJfVVNBX0xvd19CcmFuZF9QZXJmb3JtYW5jZU1heCUyNnV0bV90ZXJtJTNkd3d3LmxpdHRlci1yb2JvdC5jb20lMjZ1dG1fY29udGVudCUzZEJyYW5k&rlid=ecb57eb78ab01b1d66bc17f640473a7a"
+    },
+    {
+      "title": "See our #1 Pick for 2025 - Top robot litter box Reviews",
+      "url": "https://www.bing.com/aclick?ld=e8h0o8FhgHq8jvnegHTiCvyDVUCUwODV7TC2zIcHC8OBp_jpSJgGs0V6fCDCtOzq9AaJ36_3ySchQczr9BjFpMSUXN5BYPFh-bhZZvUGw_x_YmEBSWbQX3xoIaxDeDgI17-b0jrRt6FdzZfSSTaNCoeclIYFYjUd7PEHQtzzJqU9-3DVYPbYXpMWhKMqPoLMqhf390cW0TXR8f8wN0SM2h_JbL3ts&u=aHR0cHMlM2ElMmYlMmZ3d3cuYmVzdHByb2R1Y3RzcmV2aWV3cy5jb20lMmZyb2JvdCUyNTIwbGl0dGVyJTI1MjBib3glM2Z0YXJnZXRpZCUzZGt3ZC04NDM4ODgxOTYzMjU0NiUzYWxvYy0xOTAlMjZtYXRjaHR5cGUlM2RwJTI2ZGV2aWNlJTNkYyUyNmNhbXBhaWduaWQlM2Q1MzA4ODU4MTklMjZjcmVhdGl2ZSUzZCUyNmFkZ3JvdXBpZCUzZDEzNTAyMDI3ODgwODk5ODYlMjZmZWVkaXRlbWlkJTNkJTI2bG9jX3BoeXNpY2FsX21zJTNkNTgxNjIlMjZsb2NfaW50ZXJlc3RfbXMlM2QlMjZuZXR3b3JrJTNkbyUyNmRldmljZW1vZGVsJTNkJTI2cGxhY2VtZW50JTNkJTI2a2V5d29yZCUzZCUyNHJvYm90JTI1MjBsaXR0ZXIlMjUyMGJveCUyNnRhcmdldCUzZCUyNmFkcG9zaXRpb24lM2QlMjZ0cmFja2lkJTNkdXNfYWxsX3RvcF8yX2JpbmclMjZtSWQlM2RIMTQ5MDAzQ1FOJTI2bXNjbGtpZCUzZDNmYjQxN2YwY2UxYjFmZDJiNzIzN2ViMTA0ZWMzODU3&rlid=3fb417f0ce1b1fd2b7237eb104ec3857"
+    },
+    {
+      "title": "Do Smart Pet Scales Actually Work? We Put One to the Test. I asked cats to test these robotic litter boxes \u2014 here's the ... Images Petivity smart litterbox review: Should you buy this $200 ... We tested the Litter-Robot 4 automatic litter box \u2014 here's ... LR4 and Petivity : r/litterrobot - Reddit Review: Petivity Smart Litterbox Monitor System \u2013 Connected-vet Purina Petivity Smart Cat Litterbox Monitor System Review",
+      "url": "https://www.nytimes.com/wirecutter/reviews/purina-petivity-smart-litter-box-review/"
     }
   ],
   "litterbox usage alerts how many per day senior cat": [
     {
-      "url": "https://alexandriaanimals.org/wp-content/uploads/2022/04/Litterbox-Usage.pdf",
-      "title": "Litterbox Usage"
+      "title": "Get Statistical About Your Pet With This Cat Tracking... | Hackaday",
+      "url": "https://hackaday.com/2025/12/13/get-statistical-about-your-pet-with-this-cat-tracking-dashboard/"
+    },
+    {
+      "title": "Litterbox Usage",
+      "url": "https://alexandriaanimals.org/wp-content/uploads/2022/04/Litterbox-Usage.pdf"
+    },
+    {
+      "title": "Amazon.com: RMNHPTK Foldable Cat Litter Box , Open Cat Potty...",
+      "url": "https://www.amazon.com/RMNHPTK-Foldable-Collapsible-Shallow-Disabled/dp/B0CNWY28YG"
+    },
+    {
+      "title": "cats - Got a kitten for my daughter I think it is scared of the litterbox ...",
+      "url": "https://pets.stackexchange.com/questions/38548/got-a-kitten-for-my-daughter-i-think-it-is-scared-of-the-litterbox-please-help"
+    },
+    {
+      "title": "Cat Years Calculator: How Old is my Cat in Human Years? | Purina UK",
+      "url": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years"
     }
   ],
   "signs of early kidney disease cats what to watch": [
     {
-      "url": "https://www.bing.com/aclick?ld=e8p3ZslSccVcSQN1YzfTQ5_zVUCUx4SiuXXiJiPK05L14heEkqUy5P0Q4_pYslRUkU4PTHwtcpoiaeru-YkrZCmSeyMIYWSxFYHXRz_cq_-c6RP0TEyWxKtanaNEToIwiVpQg4xJvaKtfWckA5cNVseaQcTbw015MbhDTxbv4V3SNyZm4S3rwLrA6uUeImlp_v8Q1EqtIm7TW1TjlyOIsHyD6oL-Y&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA3MTY5NDQ0MzAyOCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNzIyMjg0NDg3OSUyNmRzX2FfY2lkJTNkNzMzMjU0NzE3JTI2ZHNfYV9jYWlkJTNkMTM3NDg0MjIwNDclMjZkc19hX2FnaWQlM2QxMjM4MDc3NDM3NDklMjZkc19hX2xpZCUzZGt3ZC0zMzY1ODExODc5NjklMjYlMjZkc19lX2FkaWQlM2Q3NzI0MDg2MDE3MjA0NCUyNmRzX2VfdGFyZ2V0X2lkJTNka3dkLTc3MjQwOTI0ODQ5NTAzJTNhbG9jLTE5MCUyNiUyNmRzX2VfbmV0d29yayUzZG8lMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmd3d3LmhpbGxzcGV0LmNvbSUyZmhlYWx0aC1jb25kaXRpb25zJTJmY2F0JTJma2lkbmV5JTNmY3Ffc3JjJTNkZ29vZ2xlX2FkcyUyNmNxX2NtcCUzZDM4Njg0NTg0NiUyNmNxX2NvbiUzZDEyMzU4NTEyOTcwOTY5NTQlMjZjcV90ZXJtJTNka2lkbmV5JTI1MjBkaXNlYXNlJTI1MjBpbiUyNTIwY2F0cyUyNTIwc3ltcHRvbXMlMjZjcV9tZWQlM2QlMjZjcV9wbGFjJTNkJTI2Y3FfbmV0JTNkbyUyNmNxX3BsdCUzZGdwJTI2Z2NsaWQlM2RjYjBiMjU2NmRmMmQxMWNhNWM2YTRjMjcxNWQ0NTIzYSUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZGNiMGIyNTY2ZGYyZDExY2E1YzZhNGMyNzE1ZDQ1MjNhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkVVNfUEVUX0VRX0dlbmVyYWwlMjUyMENvbmRpdGlvbnNfQ2F0X0VWR19URVhUX0NUR1lfRVhUX0FUVF9DUFRfTkFfUkZVU19FTl9ITE4lMjUyMEhJTCUyNTIwMTQxJTI2dXRtX3Rlcm0lM2RraWRuZXklMjUyMGRpc2Vhc2UlMjUyMGluJTI1MjBjYXRzJTI1MjBzeW1wdG9tcyUyNnV0bV9jb250ZW50JTNkQ2F0X0tpZG5leQ&rlid=cb0b2566df2d11ca5c6a4c2715d4523a",
-      "title": "Kidney Disease in Cats - Early Diagnosis of Cat Kidney"
+      "title": "Kidney Disease in Cats - Early Diagnosis of Cat Kidney",
+      "url": "https://www.bing.com/aclick?ld=e8p3ZslSccVcSQN1YzfTQ5_zVUCUx4SiuXXiJiPK05L14heEkqUy5P0Q4_pYslRUkU4PTHwtcpoiaeru-YkrZCmSeyMIYWSxFYHXRz_cq_-c6RP0TEyWxKtanaNEToIwiVpQg4xJvaKtfWckA5cNVseaQcTbw015MbhDTxbv4V3SNyZm4S3rwLrA6uUeImlp_v8Q1EqtIm7TW1TjlyOIsHyD6oL-Y&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA3MTY5NDQ0MzAyOCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNzIyMjg0NDg3OSUyNmRzX2FfY2lkJTNkNzMzMjU0NzE3JTI2ZHNfYV9jYWlkJTNkMTM3NDg0MjIwNDclMjZkc19hX2FnaWQlM2QxMjM4MDc3NDM3NDklMjZkc19hX2xpZCUzZGt3ZC0zMzY1ODExODc5NjklMjYlMjZkc19lX2FkaWQlM2Q3NzI0MDg2MDE3MjA0NCUyNmRzX2VfdGFyZ2V0X2lkJTNka3dkLTc3MjQwOTI0ODQ5NTAzJTNhbG9jLTE5MCUyNiUyNmRzX2VfbmV0d29yayUzZG8lMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmd3d3LmhpbGxzcGV0LmNvbSUyZmhlYWx0aC1jb25kaXRpb25zJTJmY2F0JTJma2lkbmV5JTNmY3Ffc3JjJTNkZ29vZ2xlX2FkcyUyNmNxX2NtcCUzZDM4Njg0NTg0NiUyNmNxX2NvbiUzZDEyMzU4NTEyOTcwOTY5NTQlMjZjcV90ZXJtJTNka2lkbmV5JTI1MjBkaXNlYXNlJTI1MjBpbiUyNTIwY2F0cyUyNTIwc3ltcHRvbXMlMjZjcV9tZWQlM2QlMjZjcV9wbGFjJTNkJTI2Y3FfbmV0JTNkbyUyNmNxX3BsdCUzZGdwJTI2Z2NsaWQlM2RjYjBiMjU2NmRmMmQxMWNhNWM2YTRjMjcxNWQ0NTIzYSUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZGNiMGIyNTY2ZGYyZDExY2E1YzZhNGMyNzE1ZDQ1MjNhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkVVNfUEVUX0VRX0dlbmVyYWwlMjUyMENvbmRpdGlvbnNfQ2F0X0VWR19URVhUX0NUR1lfRVhUX0FUVF9DUFRfTkFfUkZVU19FTl9ITE4lMjUyMEhJTCUyNTIwMTQxJTI2dXRtX3Rlcm0lM2RraWRuZXklMjUyMGRpc2Vhc2UlMjUyMGluJTI1MjBjYXRzJTI1MjBzeW1wdG9tcyUyNnV0bV9jb250ZW50JTNkQ2F0X0tpZG5leQ&rlid=cb0b2566df2d11ca5c6a4c2715d4523a"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8yoxTeHSzPhioz1NKGA8u4TVUCUx0FAP2ofTFj9jKHm__r0PM-iyKNFBz-x-YZi65KdHNt2UNTmfHpzJGAs4V2vmt5Ku1TLRtnUOTN5Kp7pqUhhwoVhmtMSKngFVv1-zaz_BzD6iFc94JymCNzM718qZckacDLOh11MijZLdxZ3JAkyWkfJsdJMQpYMaS2jmJJGeuWyoRdwUOhy8fwZM_h0tlTwg&u=aHR0cHMlM2ElMmYlMmZ3d3cuanVzdGFuc3dlci5jb20lMmZzaXAlMmZjYXQtdmV0ZXJpbmFyeSUzZnIlM2RwcGMlN2NtcyU3YzQlN2NQZXRzJTI1MjAtJTI1MjBDYXQlMjUyMC0lMjUyMFVTQSUyNTIwLSUyNTIwU3RhdGUlMjUyMC0lMjUyMEV4YWN0JTI1MjAtJTI1MjBCaW5nJTI1MjAtJTI1MjBTZWFyY2glMjUyMC0lMjUyMEFsbCUyNTIwRGV2aWNlJTI1MjAtJTI1MjBMTCUyNTIwLSUyNTIwTG93JTI1MjBJbnRlbnQlN2NDYXQlMjUyMC0lMjUyMEtpZG5leSUyNTIwRmFpbHVyZSUyNTIwLSUyNTIwTEwlMjUyMC0lMjUyMExvdyUyNTIwSW50ZW50JTI1MjAtJTI1MjBFeGFjdCU3YyUyNkpQS1clM2RzaWducyUyNTIwb2YlMjUyMGtpZG5leSUyNTIwZmFpbHVyZSUyNTIwaW4lMjUyMGNhdHMlMjZKUERDJTNkUyUyNkpQU1QlM2QlMjZKUEFEJTNkJTI2SlBNVCUzZGUlMjZKUE5XJTNkbyUyNkpQQUYlM2R0eHQlMjZKUFJDJTNkMSUyNkpQQ0QlM2QlMjZKUE9QJTNkJTI2cG10JTNkYmUlMjZjbXBpZCUzZDMxNTkxMDA3JTI2YWdpZCUzZDI5NjU1NjM0NTUlMjZwY3JpZCUzZDc4Njg0MDIwOTIxOTM5JTI2ZmlpZCUzZCUyNnRndGlkJTNka3dkLTMwODY2MzI0NjA1JTNhbG9jLTQxMTIlMjZkdmMlM2RjJTI2bXNjbGtpZCUzZDcwZDNhOTQ0MzkwOTFjODhjOWM0YzAwNWYzZjAxYWQx&rlid=70d3a94439091c88c9c4c005f3f01ad1",
-      "title": "Cat Kidney Failure Stages - Kidney Failure Warning Signs"
+      "title": "Cat Kidney Failure Stages - Kidney Failure Warning Signs",
+      "url": "https://www.bing.com/aclick?ld=e8yoxTeHSzPhioz1NKGA8u4TVUCUx0FAP2ofTFj9jKHm__r0PM-iyKNFBz-x-YZi65KdHNt2UNTmfHpzJGAs4V2vmt5Ku1TLRtnUOTN5Kp7pqUhhwoVhmtMSKngFVv1-zaz_BzD6iFc94JymCNzM718qZckacDLOh11MijZLdxZ3JAkyWkfJsdJMQpYMaS2jmJJGeuWyoRdwUOhy8fwZM_h0tlTwg&u=aHR0cHMlM2ElMmYlMmZ3d3cuanVzdGFuc3dlci5jb20lMmZzaXAlMmZjYXQtdmV0ZXJpbmFyeSUzZnIlM2RwcGMlN2NtcyU3YzQlN2NQZXRzJTI1MjAtJTI1MjBDYXQlMjUyMC0lMjUyMFVTQSUyNTIwLSUyNTIwU3RhdGUlMjUyMC0lMjUyMEV4YWN0JTI1MjAtJTI1MjBCaW5nJTI1MjAtJTI1MjBTZWFyY2glMjUyMC0lMjUyMEFsbCUyNTIwRGV2aWNlJTI1MjAtJTI1MjBMTCUyNTIwLSUyNTIwTG93JTI1MjBJbnRlbnQlN2NDYXQlMjUyMC0lMjUyMEtpZG5leSUyNTIwRmFpbHVyZSUyNTIwLSUyNTIwTEwlMjUyMC0lMjUyMExvdyUyNTIwSW50ZW50JTI1MjAtJTI1MjBFeGFjdCU3YyUyNkpQS1clM2RzaWducyUyNTIwb2YlMjUyMGtpZG5leSUyNTIwZmFpbHVyZSUyNTIwaW4lMjUyMGNhdHMlMjZKUERDJTNkUyUyNkpQU1QlM2QlMjZKUEFEJTNkJTI2SlBNVCUzZGUlMjZKUE5XJTNkbyUyNkpQQUYlM2R0eHQlMjZKUFJDJTNkMSUyNkpQQ0QlM2QlMjZKUE9QJTNkJTI2cG10JTNkYmUlMjZjbXBpZCUzZDMxNTkxMDA3JTI2YWdpZCUzZDI5NjU1NjM0NTUlMjZwY3JpZCUzZDc4Njg0MDIwOTIxOTM5JTI2ZmlpZCUzZCUyNnRndGlkJTNka3dkLTMwODY2MzI0NjA1JTNhbG9jLTQxMTIlMjZkdmMlM2RjJTI2bXNjbGtpZCUzZDcwZDNhOTQ0MzkwOTFjODhjOWM0YzAwNWYzZjAxYWQx&rlid=70d3a94439091c88c9c4c005f3f01ad1"
     },
     {
-      "url": "https://kainervet.com/kidney-disease-in-cats-you-shouldnt-ignore/",
-      "title": "Early Signs of Kidney Disease in Cats You Shouldn\u2019t Ignore"
+      "title": "Early Signs of Kidney Disease in Cats You Shouldn\u2019t Ignore",
+      "url": "https://kainervet.com/kidney-disease-in-cats-you-shouldnt-ignore/"
     },
     {
-      "url": "https://savingninelives.com/kidney-disease-in-cats-early-symptoms/",
-      "title": "Kidney Disease in Cats: How to Spot Early Symptoms"
+      "title": "Kidney Disease in Cats: How to Spot Early Symptoms",
+      "url": "https://savingninelives.com/kidney-disease-in-cats-early-symptoms/"
     },
     {
-      "url": "https://vetexplainspets.com/early-stage-kidney-disease-in-cats/",
-      "title": "Early Stage Kidney Disease In Cats - [Vet Explains Pets] Kidney Disease in Cats: Signs, Causes, and Treatment - PetMD Feline Kidney Disease: Early Symptoms & How to Manage It ... 3 Early Signs of Cat Kidney Disease Every Owner Should Know 11 Signs Your Cat Has Kidney Disease & How Vets Diagnose It"
+      "title": "Early Stage Kidney Disease In Cats - [Vet Explains Pets] Kidney Disease in Cats: Signs, Causes, and Treatment - PetMD Feline Kidney Disease: Early Symptoms & How to Manage It ... 3 Early Signs of Cat Kidney Disease Every Owner Should Know 11 Signs Your Cat Has Kidney Disease & How Vets Diagnose It",
+      "url": "https://vetexplainspets.com/early-stage-kidney-disease-in-cats/"
     }
   ],
   "IRIS CKD staging cheat sheet": [
     {
-      "url": "https://www.iris-kidney.com/iris-guidelines-1",
-      "title": "IRIS Guidelines \u2014 IRIS"
+      "title": "IRIS Guidelines \u2014 IRIS",
+      "url": "https://www.iris-kidney.com/iris-guidelines-1"
     },
     {
-      "url": "https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/04/IRIS-Staging-of-CKD-Modified-2015.pdf",
-      "title": "PDF IRIS Staging of CKD (modified 2015) - Today's Veterinary Practice"
+      "title": "PDF IRIS Staging of CKD (modified 2015) - Today's Veterinary Practice",
+      "url": "https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/04/IRIS-Staging-of-CKD-Modified-2015.pdf"
     },
     {
-      "url": "https://www.idexx.com/files/iris+pocket+guide_L_single+pages+(002).pdf",
-      "title": "PDF Diagnosing, Staging, and Treating Chronic Kidney Disease in ... - IDEXX"
+      "title": "PDF Diagnosing, Staging, and Treating Chronic Kidney Disease in ... - IDEXX",
+      "url": "https://www.idexx.com/files/iris+pocket+guide_L_single+pages+(002).pdf"
     },
     {
-      "url": "https://www.idexx.co.uk/files/Stagingpdf.pdf",
-      "title": "PDF Step 2: Stage CKD - IDEXX"
+      "title": "PDF Step 2: Stage CKD - IDEXX",
+      "url": "https://www.idexx.co.uk/files/Stagingpdf.pdf"
     },
     {
-      "url": "https://www.scribd.com/document/455304620/IRIS-Pocket-Guide-to-CKD-pdf",
-      "title": "IRIS Pocket Guide To CKD PDF"
+      "title": "IRIS Pocket Guide To CKD PDF",
+      "url": "https://www.scribd.com/document/455304620/IRIS-Pocket-Guide-to-CKD-pdf"
     }
   ],
   "subcutaneous fluids indications cat vet guidelines": [
     {
-      "url": "https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/",
-      "title": "2024 AAHA Fluid Therapy Guidelines for Dogs and Cats"
+      "title": "2024 AAHA Fluid Therapy Guidelines for Dogs and Cats",
+      "url": "https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/"
     },
     {
-      "url": "https://www.vin.com/apputil/content/defaultadv1.aspx?pId=19840&id=8249937",
-      "title": "Fluid Therapy in Cats - WSAVA 2016 Congress - VIN"
+      "title": "PDF an owners guide Giving subcutaneous fluids to cats - Vet Professionals",
+      "url": "https://www.vetprofessionals.com/site/downloads/free/Giving+subcutaneous+fluids+to+cats.pdf"
     },
     {
-      "url": "https://vcahospitals.com/know-your-pet/subcutaneous-fluid-administration-in-cats",
-      "title": "Subcutaneous Fluid Administration in Cats | VCA Animal Hospitals"
+      "title": "Subcutaneous Fluid Administration in Cats | VCA Animal Hospitals",
+      "url": "https://vcahospitals.com/know-your-pet/subcutaneous-fluid-administration-in-cats"
+    },
+    {
+      "title": "Fluid Therapy in Cats - WSAVA 2016 Congress - VIN",
+      "url": "https://www.vin.com/apputil/content/defaultadv1.aspx?pId=19840&id=8249937"
+    },
+    {
+      "title": "How to give subcutaneous fluids to your cat - icatcare.org",
+      "url": "https://icatcare.org/articles/how-to-give-subcutaneous-fluids-to-your-cat"
     }
   ],
   "hydration goals ml per kg cat": [
     {
-      "url": "https://www.expertcatcare.com/article/cat-water-intake-calculator-how-much-should-a-cat-drink",
-      "title": "Cat Water Intake Calculator | How Much Should a Cat Drink?"
+      "title": "Cat Water Intake Calculator | How Much Should a Cat Drink?",
+      "url": "https://www.expertcatcare.com/article/cat-water-intake-calculator-how-much-should-a-cat-drink"
     },
     {
-      "url": "https://vetexplainspets.com/normal-water-intake-cat-ml-kg/",
-      "title": "Normal Water Intake Cat Ml/kg - [Vet Explains Pets]"
+      "title": "Normal Water Intake Cat Ml/kg - [Vet Explains Pets]",
+      "url": "https://vetexplainspets.com/normal-water-intake-cat-ml-kg/"
     },
     {
-      "url": "https://www.catcalculator.com/cat-water-intake-calculator/",
-      "title": "Cat Water Intake Calculator | Daily Hydration Needs & Guide"
+      "title": "Cat Water Intake Calculator | Daily Hydration Needs & Guide",
+      "url": "https://www.catcalculator.com/cat-water-intake-calculator/"
     },
     {
-      "url": "https://cats.com/how-much-water-should-a-cat-drink",
-      "title": "How Much Water Should a Cat Drink? - Cats.com"
+      "title": "Is My Cat Drinking Enough Water? Here's What to Look For",
+      "url": "https://articles.hepper.com/is-my-cat-drinking-enough-water/"
+    },
+    {
+      "title": "How Much Water Should a Cat Drink? - Cats.com",
+      "url": "https://cats.com/how-much-water-should-a-cat-drink"
     }
   ],
   "wet food water content calculate hydration": [
     {
-      "url": "https://abbeythefoodscientist.com/moisture-content-in-foods-wet-basis-vs-dry-basis/",
-      "title": "Moisture Content in Food - Wet Basis vs Dry Basis"
+      "title": "Moisture Content in Food - Wet Basis vs Dry Basis",
+      "url": "https://abbeythefoodscientist.com/moisture-content-in-foods-wet-basis-vs-dry-basis/"
     },
     {
-      "url": "https://whycalculator.com/moisture-content-calculator/",
-      "title": "Moisture Content Calculator"
+      "title": "Moisture Content Calculator",
+      "url": "https://whycalculator.com/moisture-content-calculator/"
     },
     {
-      "url": "https://nutri.it.com/how-do-you-calculate-fluid-intake-from-food",
-      "title": "How Do You Calculate Fluid Intake From Food? A Simple Guide"
+      "title": "How Do You Calculate Fluid Intake From Food? A Simple Guide",
+      "url": "https://nutri.it.com/how-do-you-calculate-fluid-intake-from-food"
+    },
+    {
+      "title": "How to Track Your Water Intake - mds.CulinaryMedicine.org",
+      "url": "https://mds.culinarymedicine.org/handouts/track-water-intake"
+    },
+    {
+      "title": "PDF Water Activity vs. Water Content - Province of Manitoba",
+      "url": "https://www.gov.mb.ca/agriculture/food-safety/education-resources/pubs/water-activity-vs-content.pdf"
     }
   ],
   "calculate caloric needs border collie working dog MER": [
     {
-      "url": "https://colliecare.com/how-much-feed-border-collie-guide-chart/",
-      "title": "Border Collie Food Calculator , Feeding Guide, and Chart - CollieCare"
+      "title": "Border Collie Food Calculator , Feeding Guide, and Chart - CollieCare",
+      "url": "https://colliecare.com/how-much-feed-border-collie-guide-chart/"
+    },
+    {
+      "title": "Border Collie Nutrition and Feeding: Essential Tips - My Puppy",
+      "url": "https://mypuppy.com.au/border-collie-nutrition-and-feeding/"
+    },
+    {
+      "title": "Managing Weight in Border Collies : Preventing Obesity with PawCo...",
+      "url": "https://www.mypawco.com/managing-weight-in-border-collies-preventing-obesity-with-pawco/"
+    },
+    {
+      "title": "Do Border Collies Require a Lot of Food? - MeatChefTools",
+      "url": "https://meatcheftools.com/do-border-collies-require-a-lot-of-food/"
+    },
+    {
+      "title": "Are these dog food recipes good for all sized dogs ?",
+      "url": "https://eathealthy365.com/the-ultimate-guide-to-feeding-homemade-food-to-all-dog-sizes/"
     }
   ],
   "dog treat calories table low calorie training treats": [
     {
-      "url": "https://dogcorner.net/best-low-calorie-dog-training-treats-healthy-vet-approved/",
-      "title": "Best Low-Calorie Dog Training Treats (Healthy & Vet-Approved!)"
+      "title": "low calorie dog treats for training - Amazon.com Official Site",
+      "url": "https://www.bing.com/aclick?ld=e8tLsIusjzv38HDFkXVgMbcjVUCUylTmvlVvMqK_8WV8B5stALHMfKPY9xEQGeiQr7Of1rVJq0USA2qUmKDNvaID8Sjjn-Tp_VIrKZWPEyLB_6aFB3vyUJrfDXy3Izx6HntZOFPanjlSzoU1p49OULEPEmTGD0YOwZ1MEzb6RhdYaX20bauPHMBPWEGm_gp8L6GVsKglIBkkmMXoYW7_WYAvDPO58&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGxvdyUyYmNhbG9yaWUlMmJkb2clMmJ0cmVhdHMlMmJmb3IlMmJ0cmFpbmluZyUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsX2cycjB6cmJkd19lJTI2YWRncnBpZCUzZDEzMzgxMDYyMTgwNjU5OTElMjZodmFkaWQlM2Q4MzYzMTcwOTkxNjM3NiUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZGUlMjZodmJtdCUzZGJlJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODM2MzE5ODkwMjk3MzclM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDE1OTE1XzEwODAzMzE5JTI2bWNpZCUzZDJiYzVkNjMzYTAyZjM1ZWM4ZjE5OWViMjk4MDhmNWFkJTI2bXNjbGtpZCUzZDNhNDVhODYyYWIyYjEyMTc4NmE5YzEyMzYxZDRmOTk5&rlid=3a45a862ab2b121786a9c12361d4f999"
     },
     {
-      "url": "https://www.caninejournal.com/best-low-calorie-dog-treats/",
-      "title": "8 Best Low-Calorie Dog Treats For Healthy Rewards, Training ... Images Low-Calorie Pet Treats: 7 Best Options for Weight Management The 10 Best Low-Calorie Dog Treats - The Spruce Pets 26 Low Calorie Dog Treats To Help Your Dog Stay Slim In 2025 10 Best Low Calorie Dog Treats in 2025 - The Pet Index Best Low Calorie Dog Training Treats for Healthy Weight and ... Dog Treats Calories - Low Calorie Training Treats - CYBER20 low calorie dog treats for training - Amazon.com Official Site"
+      "title": "Dog Treats Calories - Low Calorie Training Treats - CYBER20",
+      "url": "https://www.bing.com/aclick?ld=e8kjWaIKwEjk3xTPlVfp4PHDVUCUybajZpG2eKYqzBpXJMEoNZ_Or_4dsM4DVX8GOmsK5OxyYeE65-v9ccQTKX-NV-_w-_bojPTZCkkoi6Cz698pdhYlz1GiRL1hYLwLtKr9-kq13E0zsIr4FsZLyUKWsLx8cWInzdv4R3ueas78zS8ACtPddtyQWp2FoziOHTzPvUeMZJX-_FXk4P6zV1Aq1dTCo&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2QzOTcwMDA4MDM5MTE4MTI1NiUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODczNjYxNzEzNyUyNmRzX2FfY2lkJTNkNzEyNjkzMDg1JTI2ZHNfYV9jYWlkJTNkMjE0MTU2NTgxNDQlMjZkc19hX2FnaWQlM2QxNjQ0Njk5NjgxNTIlMjZkc19hX2xpZCUzZGRzYS0xNDYwOTEwNTkxNTAzJTI2JTI2ZHNfZV9hZGlkJTNkNzc1ODQ1MTAyNTQwMzElMjZkc19lX3RhcmdldF9pZCUzZGRhdC0yMzI5Mzg0MTAzNTg4NzYzJTNhbG9jLTE5MCUyNiUyNmRzX2VfbmV0d29yayUzZG8lMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmZC5hZ2tuLmNvbSUyZnBpeGVsJTJmNDEwMiUyZiUzZmNoZSUzZCUyNmNvbCUzZDIxNDE1NjU4MTQ0JTJjOTI1MDkxNTU5OCUyYzE2NDQ2OTk2ODE1MiUyYzAlMmMwJTJjNTE2MGEzM2I0Mzg0MTRlYmQ3NzdjYTdhODk3YjAwOTIlMjZsMSUzZGh0dHBzJTNhJTJmJTJmd3d3LnBldHNtYXJ0LmNvbSUyZmRvZyUyZnRyZWF0cyUyZnRyYWluaW5nLXRyZWF0cyUyZiUzZmdjbGlkJTNkNTE2MGEzM2I0Mzg0MTRlYmQ3NzdjYTdhODk3YjAwOTIlMjZnY2xzcmMlM2QzcC5kcyUyNiUyNm1zY2xraWQlM2Q1MTYwYTMzYjQzODQxNGViZDc3N2NhN2E4OTdiMDA5MiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFVTX01TTl9TZWFyY2hfQ29uc3VtYWJsZXNfUHJvZHVjdCUyNTIwQnJhbmRfRFNBJTI2dXRtX3Rlcm0lM2QlMjUyRmRvZyUyNTJGdHJlYXRzJTI1MkYlMjZ1dG1fY29udGVudCUzZFVTX01TTl9Db25zdW1hYmxlc19EU0FfRXZlcnl0aGluZ19FbHNl&rlid=5160a33b438414ebd777ca7a897b0092"
     },
     {
-      "url": "https://thepetvet.com/low-calorie-pet-treats/",
-      "title": "Low-Calorie Pet Treats: 7 Best Options for Weight Management"
+      "title": "Best Low-Calorie Dog Training Treats (Healthy & Vet-Approved!)",
+      "url": "https://dogcorner.net/best-low-calorie-dog-training-treats-healthy-vet-approved/"
+    },
+    {
+      "title": "8 Best Low-Calorie Dog Treats For Healthy Rewards, Training ... Images Low-Calorie Pet Treats: 7 Best Options for Weight Management The 10 Best Low-Calorie Dog Treats - The Spruce Pets 26 Low Calorie Dog Treats To Help Your Dog Stay Slim In 2025 10 Best Low Calorie Dog Treats in 2025 - The Pet Index Best Low Calorie Dog Training Treats for Healthy Weight and ... Dog Treats Calories - Low Calorie Training Treats - CYBER20 low calorie dog treats for training - Amazon.com Official Site",
+      "url": "https://www.caninejournal.com/best-low-calorie-dog-treats/"
+    },
+    {
+      "title": "Low-Calorie Pet Treats: 7 Best Options for Weight Management",
+      "url": "https://thepetvet.com/low-calorie-pet-treats/"
     }
   ],
   "protein rotation schedule elimination diet template": [
     {
-      "url": "https://ru.pinterest.com/ideas/elimination-diet-schedule/918919822908/",
-      "title": "Elimination Diet Schedule"
+      "title": "Elimination Diet Schedule",
+      "url": "https://ru.pinterest.com/ideas/elimination-diet-schedule/918919822908/"
     },
     {
-      "url": "https://www.carepatron.com/templates/elimination-diet-chart/",
-      "title": "Elimination Diet Chart"
+      "title": "30-Day Carnivore Diet Meal Plan | Organic Authority",
+      "url": "https://www.organicauthority.com/meal-plans/carnivore-diet-meal-plan-guide"
     },
     {
-      "url": "https://careand.ca/post/elimination-diet-guide-food-intolerance-testing/",
-      "title": "Understanding Food Intolerances: Elimination Diets Done Right with..."
+      "title": "How & Why to Rotate Proteins in Your Cat\u2019s Diet | Stella & Chewy\u2019s",
+      "url": "https://www.stellaandchewys.com/blogs/articles/protein-rotation"
+    },
+    {
+      "title": "Elimination Diet Chart",
+      "url": "https://www.carepatron.com/templates/elimination-diet-chart/"
+    },
+    {
+      "title": "Understanding Food Intolerances: Elimination Diets Done Right with...",
+      "url": "https://careand.ca/post/elimination-diet-guide-food-intolerance-testing/"
     }
   ],
   "hydrolyzed vs novel protein for dogs evidence": [
     {
-      "url": "https://carecentervets.com/wp-content/uploads/2022/10/Handout_Hydrolyzed-Protein-and-Novel-Protein-Diets.pdf",
-      "title": "PDF Let's Break it Down: Hydrolyzed Protein and Novel Protein Diets"
+      "title": "PDF Let's Break it Down: Hydrolyzed Protein and Novel Protein Diets",
+      "url": "https://carecentervets.com/wp-content/uploads/2022/10/Handout_Hydrolyzed-Protein-and-Novel-Protein-Diets.pdf"
     },
     {
-      "url": "https://todaysveterinarypractice.com/nutrition/hydrolyzed-protein-and-amino-acid-based-diets/",
-      "title": "Hydrolyzed Protein and Amino Acid-Based Diets - Today's Veterinary ..."
+      "title": "Hydrolysed Protein Dog Food - The Facts Behind Its Efficacy",
+      "url": "https://www.bonza.dog/2025/06/hydrolysed-protein-dog-food-efficacy-risks/"
     },
     {
-      "url": "https://www.theskinvet.net/nutrition-hypoallergenic-raw-etc/cutaneous-adverse-food-reactions-food-allergy/exclusion-diet-trial-choices/",
-      "title": "Diet Trial Choices (Hydrolysed vs Single Protein vs Raw)"
+      "title": "Hydrolyzed Protein and Amino Acid-Based Diets - Today's Veterinary ...",
+      "url": "https://todaysveterinarypractice.com/nutrition/hydrolyzed-protein-and-amino-acid-based-diets/"
+    },
+    {
+      "title": "Diet Trial Choices (Hydrolysed vs Single Protein vs Raw)",
+      "url": "https://www.theskinvet.net/nutrition-hypoallergenic-raw-etc/cutaneous-adverse-food-reactions-food-allergy/exclusion-diet-trial-choices/"
+    },
+    {
+      "title": "Evaluation of high-protein diets differing in protein source in healthy ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36807528/"
     }
   ],
   "homemade enrichment scent trail ideas safe": [
     {
-      "url": "https://www.preventivevet.com/dogs/dog-enrichment-toys-games-and-more",
-      "title": "Dog Enrichment : Toys, Games, and DIY Ideas | Preventive Vet"
+      "title": "Find and save ideas about kitten enrichment activities on Pinterest.",
+      "url": "https://in.pinterest.com/ideas/kitten-enrichment-activities/900856905356/"
     },
     {
-      "url": "https://thestuffofsuccess.com/2025/11/10/the-best-at-home-enrichment-ideas-to-keep-active-dogs-busy/",
-      "title": "The Best At- Home Enrichment Ideas to Keep Active Dogs Busy The..."
+      "title": "Dog Enrichment : Toys, Games, and DIY Ideas | Preventive Vet",
+      "url": "https://www.preventivevet.com/dogs/dog-enrichment-toys-games-and-more"
     },
     {
-      "url": "https://www.doyalsonvet.com.au/2024/06/12/8-indoor-enrichment-activities-during-winter/",
-      "title": "8 Indoor Enrichment Activities During Winter - Doyalson Animal Hospital"
+      "title": "The Best At- Home Enrichment Ideas to Keep Active Dogs Busy The...",
+      "url": "https://thestuffofsuccess.com/2025/11/10/the-best-at-home-enrichment-ideas-to-keep-active-dogs-busy/"
+    },
+    {
+      "title": "8 Indoor Enrichment Activities During Winter - Doyalson Animal Hospital",
+      "url": "https://www.doyalsonvet.com.au/2024/06/12/8-indoor-enrichment-activities-during-winter/"
+    },
+    {
+      "title": "Corn Snake Behavior and Enrichment Ideas to Keep Them Happy...",
+      "url": "https://snakesnuggles.com/corn-snake-behavior-and-enrichment-ideas/"
     }
   ],
   "puzzle feeders for cats senior friendly": [
     {
-      "url": "https://www.dailypaws.com/gear-apparel/cat-supplies/cat-feeders/cat-puzzle-feeders",
-      "title": "The 10 Best Cat Puzzle Feeders to Keep Your Kitty's Mind Sharp"
+      "title": "The 10 Best Cat Puzzle Feeders to Keep Your Kitty's Mind Sharp",
+      "url": "https://www.dailypaws.com/gear-apparel/cat-supplies/cat-feeders/cat-puzzle-feeders"
     },
     {
-      "url": "https://www.vetstreet.com/gear/cat-gear/best-cat-puzzle-feeders-2",
-      "title": "8 Best Cat Puzzle Feeders for Mealtime Enrichment... | Vetstreet"
+      "title": "8 Best Cat Puzzle Feeders for Mealtime Enrichment... | Vetstreet",
+      "url": "https://www.vetstreet.com/gear/cat-gear/best-cat-puzzle-feeders-2"
     },
     {
-      "url": "https://www.hearthjunction.com/pets/puzzle-feeders-for-your-cat/",
-      "title": "Puzzle Feeders For Cats : 5 Best Options To Boost Playtime"
+      "title": "Puzzle Feeders For Cats : 5 Best Options To Boost Playtime",
+      "url": "https://www.hearthjunction.com/pets/puzzle-feeders-for-your-cat/"
     },
     {
-      "url": "https://www.treehugger.com/try-this-diy-puzzle-feeders-for-cats-4861156",
-      "title": "Try This: DIY Puzzle Feeders for Cats"
+      "title": "Try This: DIY Puzzle Feeders for Cats",
+      "url": "https://www.treehugger.com/try-this-diy-puzzle-feeders-for-cats-4861156"
     },
     {
-      "url": "https://www.bustle.com/life/best-cat-puzzle-feeders",
-      "title": "The 10 Best Cat Puzzle Feeders"
+      "title": "The 10 Best Cat Puzzle Feeders",
+      "url": "https://www.bustle.com/life/best-cat-puzzle-feeders"
     }
   ],
   "vertical cat shelves layout for small apartment": [
     {
-      "url": "https://www.bing.com/aclick?ld=e8Zv5c1ExBwW11xTRnksxcvTVUCUwgrg14avr_YNPOhvpfGLj9SoyIhkGyf3lbCcEwrnyDLxkXBLs2TB8jZOGAQ60kdMWun6ovJMw-fKzzcKzbvik4JAiQooFvy9dnXg3-DQXIxBe1ZJgIA0DFEKiAormBBp70Wg94hQqvw29Tson6zH97VtjIWCiHozPAU55DSJQtxFEnNQjX8-8kBhajvtghbdA&u=aHR0cHMlM2ElMmYlMmZ0b3A1YmVzdC5jb20lMmZjYXQtc2hlbHZlcyUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDY0ODclMjZtc2Nsa2lkJTNkNDhjMzE0Yzg3ZTVjMTc2NmRmMmM3ZDg5YjU1ZjM0Mzk&rlid=48c314c87e5c1766df2c7d89b55f3439",
-      "title": "Vertical Cat Shelves Layout - Small Apartment Shelves"
+      "title": "Vertical Cat Shelves Layout - Small Apartment Shelves",
+      "url": "https://www.bing.com/aclick?ld=e8Zv5c1ExBwW11xTRnksxcvTVUCUwgrg14avr_YNPOhvpfGLj9SoyIhkGyf3lbCcEwrnyDLxkXBLs2TB8jZOGAQ60kdMWun6ovJMw-fKzzcKzbvik4JAiQooFvy9dnXg3-DQXIxBe1ZJgIA0DFEKiAormBBp70Wg94hQqvw29Tson6zH97VtjIWCiHozPAU55DSJQtxFEnNQjX8-8kBhajvtghbdA&u=aHR0cHMlM2ElMmYlMmZ0b3A1YmVzdC5jb20lMmZjYXQtc2hlbHZlcyUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDY0ODclMjZtc2Nsa2lkJTNkNDhjMzE0Yzg3ZTVjMTc2NmRmMmM3ZDg5YjU1ZjM0Mzk&rlid=48c314c87e5c1766df2c7d89b55f3439"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8A3osNtH_-T2fUycw-EvsPDVUCUwjaVBxMi8OHOF4FyyrZ2LlLF-AqeV-sNpq6DY7G3CyIuLWCLwkx1EBnJDFa7eW11P2onamXmG8e_VJ_LE_mV2fA5_S9YMSHyA3yO63TNMcCr3mQKFKRMLScHgH3-8M4SL70MQ_cEgCE85hkDrFjSpqrbMgKZNpuB_4t9SPHv2KVy6LSsF6E_YZ24c_zgmwPhM&u=aHR0cHMlM2ElMmYlMmY1MjAzLnhnNGtlbi5jb20lMmZ0cmslMmZ2MSUzZnByb2YlM2Q0MDUlMjZjYW1wJTNkNTIzNTElMjZrY3QlM2Rtc24lMjZrY2hpZCUzZDE3MDAwMDc2OSUyNmNyaXRlcmlhaWQlM2RkYXQtMjMzMzE2MzY3NDI5ODQyNyUzYWxvYy0xOTAlMjZjYW1wYWlnbmlkJTNkNDEyNjE4MTk1JTI2bG9jcGh5JTNkNTgxNjIlMjZhZGdyb3VwaWQlM2QxMzAxODIyMDk3NzUwOTM0JTI2Y2lkJTNkODEzNjM5NTA3MTY0MDYlMjZrZHYlM2RjJTI2a2V4dCUzZCUyNmtwZyUzZCUyNmtwaWQlM2QlMjZxdWVyeVN0ciUzZHZlcnRpY2FsJTI1MjBjYXQlMjUyMHNoZWx2ZXMlMjUyMGxheW91dCUyNTIwZm9yJTI1MjBzbWFsbCUyNTIwYXBhcnRtZW50JTI2dXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuZXRzeS5jb20lMmZtYXJrZXQlMmZjYXRfd2FsbF9zaGVsZl9zaGVsdmVzX2Z1cm5pdHVyZSUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV90ZXJtJTNkc2hlbGZfYiUyNnV0bV9jYW1wYWlnbiUzZFNlYXJjaF9VU19EU0FfQk5HX0VOR19Ib21lX0NhdGVnb3JpZXNfQWxsJTI2dXRtX2FnJTNkU2hlbHZpbmclMjZ1dG1fY3VzdG9tMSUzZF9rX2JhNjBjY2ZkMGJhYTFjMDgzOTA1YTViY2MwYTkzMTQxX2tfJTI2dXRtX2NvbnRlbnQlM2RiaW5nXzQxMjYxODE5NV8xMzAxODIyMDk3NzUwOTM0XzgxMzYzOTUwNzE2NDA2X2RhdC0yMzMzMTYzNjc0Mjk4NDI3JTNhbG9jLTE5MF9jXyUyNnV0bV9jdXN0b20yJTNkNDEyNjE4MTk1JTI2bXNjbGtpZCUzZGJhNjBjY2ZkMGJhYTFjMDgzOTA1YTViY2MwYTkzMTQx&rlid=ba60ccfd0baa1c083905a5bcc0a93141",
-      "title": "Vertical Cat Shelves Layout - Etsy"
+      "title": "Vertical Cat Wall Shelves - Keep Your Furry Friends Happy",
+      "url": "https://www.bing.com/aclick?ld=e89eyrvU-yyUdwnNJxvbErgTVUCUyWU1-RXfN8SVf7F0V0CUPvN9g29iKPD_Fa4p00f8x5DRFIRU5261BAgGHtWnAXOTJJFgN58XkcyffWK5FzOSTRyScfkWd6U-k8oeE_Gw5rxpqFXIAcn7APHtlZJ0wfDXnXUNZqd62qZ7iYnRGjBr8jtSy8jvIspDppCFhbbVs8otQv238I7mZHOM0K5PPuB3s&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHZlcnRpY2FsJTJiY2F0JTJid2FsbCUyYnNoZWx2ZXMlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF8yZHBvM3RuaXBzX3AlMjZhZGdycGlkJTNkMTM0NTgwNDc4MTg0MjQ2MiUyNmh2YWRpZCUzZDg0MTEzMDgwNTUyOTExJTI2aHZuZXR3JTNkbyUyNmh2cW10JTNkcCUyNmh2Ym10JTNkYnAlMjZodmRldiUzZGMlMjZodmxvY2ludCUzZCUyNmh2bG9jcGh5JTNkNTgxNjIlMjZodnRhcmdpZCUzZGt3ZC04NDExMzk5MzY0ODY1MCUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkMTM0MTFfMTM2MjkzMTYlMjZtY2lkJTNkMTQxNTBiZWIzZDRiMzdiNGFjNTY4NGQyNzQxMTMyNzMlMjZtc2Nsa2lkJTNkMTFhZWY4YTg3ODQ2MTBkNjk4NDI5MWU5YjM0NTk2YTA&rlid=11aef8a8784610d6984291e9b34596a0"
+    },
+    {
+      "title": "Cat Wall Shelves at Chewy - Don't miss up to 40% off gifts",
+      "url": "https://www.bing.com/aclick?ld=e8t1r8nkuIPy9eRobnNBjAQzVUCUxe1ry6KgheOtiLQyD4mFWnmQ5xnjaoQSHYmVTygiGGFIsCk-t2DyT8JCbKUBI5QCTEvXHmq8v3DgmB2vbZsXX7VXQhXEbUk1RV27DzEclXHHOWwgK6_xYB50eyuSe3QfUStcWUbqkyqEumQs24UqRYz1x1xveoXB3lgOrwZvWzarN08EXoCFwxyEthp2P28T8&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2hld3kuY29tJTJmYiUyZndhbGwtc2hlbHZlcy05MDI4JTNmcmglM2RjJTI1M0EzMjUlMjUyQ2MlMjUzQTQ1NiUyNTJDYyUyNTNBOTAyOCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDQwMTUxNDE5MCUyNnV0bV9jb250ZW50JTNkMTMwMjkyMTU3MTY4MzE0MyUyNnV0bV9pZCUzZDQwMTUxNDE5MCUyNm1zY2xraWQlM2RhNDBiMmFhOWQ4OTIxMTYwMjJiNjQzZTgxMzkxYThiMSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFNlYXJjaF9OQ19DYXRfSEdfQmVkcyUyNTIwJTI1MjYlMjUyMEZ1cm5pdHVyZV9DYXRlZ29yeV9GdXJuaXR1cmUlMjZ1dG1fdGVybSUzZCUyNTJCY2F0JTI1MjAlMjUyQndhbGwlMjUyMCUyNTJCc2hlbHZlcyUyNnV0bV9jb250ZW50JTNkQ2F0JTI1MjBXYWxsJTI1MjBTaGVsdmVz&rlid=a40b2aa9d892116022b643e81391a8b1"
+    },
+    {
+      "title": "PetSmart\u00ae Cat Trees - Everything For Cats - Everyday Low Prices",
+      "url": "https://www.bing.com/aclick?ld=e8MKkOpbJp99Kj5f2XDR1vxzVUCUxFSmM6Ou7kkGcho4qumXrtmw6GRt1VMZRcsBBzoQSmI2SduS41u2T6T4lTZlVEIHuGsXT3IixuGaEHsC7kXCOL3UzR-ML5zD08oizoGCLqnBr_rAgWs8VypvfrEF-pmnRKZI3VLQLdtxQwScgYMef4pNHjK-tDUjl2AG-PItkDcpCyMYgSHC86jYi8SGya9EQ&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA3OTI3OTYyNjgwMSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNzMzMzc0NTg5MSUyNmRzX2FfY2lkJTNkNzEyNjE0MTY5JTI2ZHNfYV9jYWlkJTNkMTQzMDc5OTA4NjYlMjZkc19hX2FnaWQlM2QxMjg3Nzc1Mzg2ODklMjZkc19hX2xpZCUzZGt3ZC0zNzkzODEwNzQ5MTQlMjYlMjZkc19lX2FkaWQlM2Q3NzQ0NzA3NDU5NDI0MSUyNmRzX2VfdGFyZ2V0X2lkJTNka3dkLTc3NDQ3MTk0MTM4NTIwJTNhbG9jLTE5MCUyNiUyNmRzX2VfbmV0d29yayUzZG8lMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmZC5hZ2tuLmNvbSUyZnBpeGVsJTJmNDEwMiUyZiUzZmNoZSUzZCUyNmNvbCUzZDE0MzA3OTkwODY2JTJjMzcwOTc4Nzc2NiUyYzEyODc3NzUzODY4OSUyYzAlMmMwJTJjZGYyZTQzNjJlNzQ2MTFkYzU1ZjQyYTIzMmM0NTAyNjclMjZsMSUzZGh0dHBzJTNhJTJmJTJmd3d3LnBldHNtYXJ0LmNvbSUyZmNhdCUyZmJlZHMtYW5kLWZ1cm5pdHVyZSUyZmZ1cm5pdHVyZS1hbmQtdG93ZXJzJTJmJTNmZ2NsaWQlM2RkZjJlNDM2MmU3NDYxMWRjNTVmNDJhMjMyYzQ1MDI2NyUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZGRmMmU0MzYyZTc0NjExZGM1NWY0MmEyMzJjNDUwMjY3JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkVVNfTVNOX1NlYXJjaF9IYXJkZ29vZHNfQnJhbmRfQ2F0X0JlZHMlMjUyNkZ1cm5pdHVyZSUyNnV0bV90ZXJtJTNkY2F0JTI1MjB0cmVlJTI1MjBpbmRvb3IlMjZ1dG1fY29udGVudCUzZENhdCUyNTIwQmVkcyUyNTIwLSUyNTIwVHJlZQ&rlid=df2e4362e74611dc55f42a232c450267"
+    },
+    {
+      "title": "Vertical Cat Shelves Layout - Etsy",
+      "url": "https://www.bing.com/aclick?ld=e8A3osNtH_-T2fUycw-EvsPDVUCUwjaVBxMi8OHOF4FyyrZ2LlLF-AqeV-sNpq6DY7G3CyIuLWCLwkx1EBnJDFa7eW11P2onamXmG8e_VJ_LE_mV2fA5_S9YMSHyA3yO63TNMcCr3mQKFKRMLScHgH3-8M4SL70MQ_cEgCE85hkDrFjSpqrbMgKZNpuB_4t9SPHv2KVy6LSsF6E_YZ24c_zgmwPhM&u=aHR0cHMlM2ElMmYlMmY1MjAzLnhnNGtlbi5jb20lMmZ0cmslMmZ2MSUzZnByb2YlM2Q0MDUlMjZjYW1wJTNkNTIzNTElMjZrY3QlM2Rtc24lMjZrY2hpZCUzZDE3MDAwMDc2OSUyNmNyaXRlcmlhaWQlM2RkYXQtMjMzMzE2MzY3NDI5ODQyNyUzYWxvYy0xOTAlMjZjYW1wYWlnbmlkJTNkNDEyNjE4MTk1JTI2bG9jcGh5JTNkNTgxNjIlMjZhZGdyb3VwaWQlM2QxMzAxODIyMDk3NzUwOTM0JTI2Y2lkJTNkODEzNjM5NTA3MTY0MDYlMjZrZHYlM2RjJTI2a2V4dCUzZCUyNmtwZyUzZCUyNmtwaWQlM2QlMjZxdWVyeVN0ciUzZHZlcnRpY2FsJTI1MjBjYXQlMjUyMHNoZWx2ZXMlMjUyMGxheW91dCUyNTIwZm9yJTI1MjBzbWFsbCUyNTIwYXBhcnRtZW50JTI2dXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuZXRzeS5jb20lMmZtYXJrZXQlMmZjYXRfd2FsbF9zaGVsZl9zaGVsdmVzX2Z1cm5pdHVyZSUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV90ZXJtJTNkc2hlbGZfYiUyNnV0bV9jYW1wYWlnbiUzZFNlYXJjaF9VU19EU0FfQk5HX0VOR19Ib21lX0NhdGVnb3JpZXNfQWxsJTI2dXRtX2FnJTNkU2hlbHZpbmclMjZ1dG1fY3VzdG9tMSUzZF9rX2JhNjBjY2ZkMGJhYTFjMDgzOTA1YTViY2MwYTkzMTQxX2tfJTI2dXRtX2NvbnRlbnQlM2RiaW5nXzQxMjYxODE5NV8xMzAxODIyMDk3NzUwOTM0XzgxMzYzOTUwNzE2NDA2X2RhdC0yMzMzMTYzNjc0Mjk4NDI3JTNhbG9jLTE5MF9jXyUyNnV0bV9jdXN0b20yJTNkNDEyNjE4MTk1JTI2bXNjbGtpZCUzZGJhNjBjY2ZkMGJhYTFjMDgzOTA1YTViY2MwYTkzMTQx&rlid=ba60ccfd0baa1c083905a5bcc0a93141"
     }
   ],
   "canine HR recovery after intervals normal values": [
     {
-      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2021.641871/full",
-      "title": "Heart Rate Changes Before, During, and After Treadmill ..."
+      "title": "Normal Vital Signs - UC Davis",
+      "url": "https://cvet.vetmed.ucdavis.edu/sites/g/files/dgvnsk13661/files/inline-files/CVET+Vital+Signs+06_2024.pdf"
+    },
+    {
+      "title": "Appendix 3: Normal Values for Cats and Dogs",
+      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470699010.app3"
+    },
+    {
+      "title": "Normal Physiological Values for Dogs: Essential Guide",
+      "url": "https://monvet.com/en/normal-physiological-values-dogs/"
+    },
+    {
+      "title": "Normal Physiological Values for Dogs - MSD Veterinary Manual",
+      "url": "https://www.msdvetmanual.com/multimedia/table/normal-physiological-values-for-dogs"
+    },
+    {
+      "title": "Heart Rate Changes Before, During, and After Treadmill ...",
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2021.641871/full"
     }
   ],
   "heat index for dogs safe running chart": [
     {
-      "url": "https://www.homesitters.co.uk/dogtime-is-jogging-or-running-safe-for-dogs/",
-      "title": "Dogtime - Is Jogging Or Running Safe For Dogs ? | Homesitters Ltd"
+      "title": "Dogtime - Is Jogging Or Running Safe For Dogs ? | Homesitters Ltd",
+      "url": "https://www.homesitters.co.uk/dogtime-is-jogging-or-running-safe-for-dogs/"
+    },
+    {
+      "title": "runnersworld.com/ runners -stories/a64376435/best- dogs -for- runners",
+      "url": "https://www.runnersworld.com/runners-stories/a64376435/best-dogs-for-runners/"
+    },
+    {
+      "title": "What Is Too Hot to Run Outside? | Stay Safe , Stay Cool | Well Wisp",
+      "url": "https://wellwisp.com/what-is-too-hot-to-run-outside/"
+    },
+    {
+      "title": "Elfin Forest Hike: The Way Up Trail to the Lake Hodges Overlook",
+      "url": "https://www.ihikesandiego.com/elfin-forest-way-up-trail-to-the-lake-hodges-overlook/"
+    },
+    {
+      "title": "Don\u2019t Let The Heat Index Get Too High! - AVTECH",
+      "url": "https://avtech.com/articles/23373/dont-let-the-heat-index-get-too-high/"
     }
   ],
   "trail running dog paw care wax vs booties": [
     {
-      "url": "https://www.chewy.com/b/paw-care-2398",
-      "title": "Dog Paw Care : Wax , Balm, Lotion, Cream, Wipes... | Chewy"
+      "title": "Dog Paw Care : Wax , Balm, Lotion, Cream, Wipes... | Chewy",
+      "url": "https://www.chewy.com/b/paw-care-2398"
     },
     {
-      "url": "https://www.pinterest.com/ideas/dog-paw-wax-for-protection/893724565559/",
-      "title": "Find and save ideas about dog paw wax for protection on Pinterest."
+      "title": "Find and save ideas about dog paw wax for protection on Pinterest.",
+      "url": "https://www.pinterest.com/ideas/dog-paw-wax-for-protection/893724565559/"
     },
     {
-      "url": "https://goodpetscorner.com/safeguard-your-dogs-paws-from-hot-pavement-and-heat/",
-      "title": "Protect your dog 's paws from summer heat"
+      "title": "Protect your dog 's paws from summer heat",
+      "url": "https://goodpetscorner.com/safeguard-your-dogs-paws-from-hot-pavement-and-heat/"
     },
     {
-      "url": "https://www.ebay.co.uk/shop/dog-paw-balm?_nkw=dog+paw+balm",
-      "title": "Dog Paw Balm | eBay"
+      "title": "Dog Paw Balm | eBay",
+      "url": "https://www.ebay.co.uk/shop/dog-paw-balm?_nkw=dog+paw+balm"
+    },
+    {
+      "title": "Dog Runner in Washington DC | Trail Runs & Exercise for Dogs",
+      "url": "https://www.pantandwag.com/dog-running-washington-dc.html"
     }
   ],
   "tick prevention schedule with reminders": [
     {
-      "url": "https://us.bravecto.com/resources/dosing-reminders/",
-      "title": "DOSING REMINDERS - us-bravecto-com"
+      "title": "Preventing Tick Bites | Ticks | CDC",
+      "url": "https://www.cdc.gov/ticks/prevention/index.html"
+    },
+    {
+      "title": "Stay Organized in 2025 and 2026 with Our Free Printable Calendars",
+      "url": "https://pethealthlove.com/free-printable-calendar/"
+    },
+    {
+      "title": "DOSING REMINDERS - us-bravecto-com",
+      "url": "https://us.bravecto.com/resources/dosing-reminders/"
+    },
+    {
+      "title": "Tick Awareness & Prevention Education: Be Tick AWARE",
+      "url": "https://www.globallymealliance.org/about-lyme/prevention/be-tick-aware/"
+    },
+    {
+      "title": "PDF Block Tick Bites and Lyme Disease",
+      "url": "https://www.nih.gov/sites/default/files/2024-12/disease-prevention-tick-bites-checklist.pdf"
     }
   ],
   "AAHA canine vaccine guidelines 2025 summary": [
     {
-      "url": "https://www.aaha.org/resources/2022-aaha-canine-vaccination-guidelines/",
-      "title": "2022 AAHA Canine Vaccination Guidelines"
+      "title": "2022 AAHA Canine Vaccination Guidelines",
+      "url": "https://www.aaha.org/resources/2022-aaha-canine-vaccination-guidelines/"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39480742/",
-      "title": "2022 AAHA Canine Vaccination Guidelines (2024 Update)"
+      "title": "2025 Vaccination Protocol - The Healthy Dog Workshop",
+      "url": "https://healthydogworkshop.com/2025-vaccination-protocol/"
     },
     {
-      "url": "https://www.aaha.org/for-veterinary-professionals/aaha-guidelines/",
-      "title": "AAHA Guidelines - AAHA"
+      "title": "AAHA Guidelines - AAHA",
+      "url": "https://www.aaha.org/for-veterinary-professionals/aaha-guidelines/"
+    },
+    {
+      "title": "PDF 2024 guidelines for the vaccination of dogs and cats compiled by the ...",
+      "url": "https://wsava.org/wp-content/uploads/2024/04/WSAVA-Vaccination-guidelines-2024.pdf"
+    },
+    {
+      "title": "2022 AAHA Canine Vaccination Guidelines (2024 Update)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39480742/"
     }
   ],
   "WSAVA feline vaccine core vs noncore": [
     {
-      "url": "https://wsava.org/wp-content/uploads/2025/06/Cats-Vaccination-Table.pdf",
-      "title": "PDF CORE VACCINES FOR PET CATS - wsava.org"
+      "title": "PDF CORE VACCINES FOR PET CATS - wsava.org",
+      "url": "https://wsava.org/wp-content/uploads/2025/06/Cats-Vaccination-Table.pdf"
     },
     {
-      "url": "https://www.vin.com/apputil/content/defaultadv1.aspx?pId=20539&id=8506325",
-      "title": "WSAVA Feline Vaccination Guidelines - WSAVA 2017 Congress - VIN"
+      "title": "WSAVA Feline Vaccination Guidelines - WSAVA 2017 Congress - VIN",
+      "url": "https://www.vin.com/apputil/content/defaultadv1.aspx?pId=20539&id=8506325"
+    },
+    {
+      "title": "Feline Vaccination Chart: Essential Guide for Cat Parents",
+      "url": "https://thepetvet.com/feline-vaccination-chart/"
+    },
+    {
+      "title": "Core vs Non-Core Cat Vaccines: A Comprehensive Guide",
+      "url": "https://pet-health-advisor.com/cats/health-wellness-cats/core-vs-non-core-cat-vaccines-comprehensive/"
+    },
+    {
+      "title": "Core Vaccines for Pet Cats - AAHA",
+      "url": "https://www.aaha.org/resources/2020-aahaaafp-feline-vaccination-guidelines/core-vaccines-for-pet-cats/"
     }
   ],
   "dental cleaning frequency cats risk factors": [
     {
-      "url": "https://justcatcafe.com/how-often-do-cats-get-their-teeth-cleaned/",
-      "title": "How Often Do Cats Get Their Teeth Cleaned? A Comprehensive Guide to ..."
+      "title": "How Often Do Cats Get Their Teeth Cleaned? A Comprehensive Guide to ...",
+      "url": "https://justcatcafe.com/how-often-do-cats-get-their-teeth-cleaned/"
     },
     {
-      "url": "https://ddsdentalimplants.com/how-often-do-cats-need-dental-cleaning.html",
-      "title": "How Often Do Cats Need Dental Cleaning?"
+      "title": "How Often Do Cats Need Dental Cleaning?",
+      "url": "https://ddsdentalimplants.com/how-often-do-cats-need-dental-cleaning.html"
     },
     {
-      "url": "https://petsyllabus.com/cat-dental-cleaning-when-and-how-often-is-it-necessary-2/",
-      "title": "Cat Dental Cleaning: When and How Often is it Necessary?"
+      "title": "Cat Teeth Cleaning Risks: What Every Cat Owner Should Know",
+      "url": "https://askmycats.com/cat-teeth-cleaning-risks/"
+    },
+    {
+      "title": "Cat Dental Cleaning: When and How Often is it Necessary?",
+      "url": "https://petsyllabus.com/cat-dental-cleaning-when-and-how-often-is-it-necessary-2/"
+    },
+    {
+      "title": "Dental Problems and Prophylactic Care in Cats\u2014Knowledge and Perceptions ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8469879/"
     }
   ],
   "body condition score dog 9 point chart printable": [
     {
-      "url": "https://www.aaha.org/wp-content/uploads/globalassets/02-guidelines/weight-management/weightmgmt_bodyconditionscoring.pdf",
-      "title": "Body Condition Scoring (BCS) Systems - AAHA"
+      "title": "Body Condition Scoring (BCS) Systems - AAHA",
+      "url": "https://www.aaha.org/wp-content/uploads/globalassets/02-guidelines/weight-management/weightmgmt_bodyconditionscoring.pdf"
     },
     {
-      "url": "https://catvets.com/wp-content/uploads/2025/09/Body-Condition-Score-Canine-and-Feline.pdf",
-      "title": "BODY CONDITION SCORE GUIDE FOR MEDIUM DOGS"
+      "title": "Dog Body Condition Scoring | Assess Your Dog\u2019s Weight ...",
+      "url": "https://www.petobesityprevention.org/dogbcs"
     },
     {
-      "url": "https://www.oregonvma.org/sites/default/files/Purina-Dog-Condition-Chart.pdf",
-      "title": "Purina Dog Condition Chart - Oregon VMA"
+      "title": "BODY CONDITION SCORE GUIDE FOR MEDIUM DOGS",
+      "url": "https://catvets.com/wp-content/uploads/2025/09/Body-Condition-Score-Canine-and-Feline.pdf"
+    },
+    {
+      "title": "3D Body Condition Score Tool | Purina Institute",
+      "url": "https://www.purinainstitute.com/centresquare/nutritional-and-clinical-assessment/3d-body-condition-score-tool"
+    },
+    {
+      "title": "Purina Dog Condition Chart - Oregon VMA",
+      "url": "https://www.oregonvma.org/sites/default/files/Purina-Dog-Condition-Chart.pdf"
     }
   ],
   "weigh pet at home with luggage scale how": [
     {
-      "url": "https://www.greatpetcare.com/wellness/how-to-weigh-your-pet-at-home/",
-      "title": "How to Weigh Your Pet at Home - Great Pet Care"
+      "title": "How to Weigh Your Pet at Home - Great Pet Care",
+      "url": "https://www.greatpetcare.com/wellness/how-to-weigh-your-pet-at-home/"
     },
     {
-      "url": "https://thegrubbypuppy.com/can-you-weigh-your-dog-at-home/",
-      "title": "Can You Weigh Your Dog at Home? A Comprehensive Guide"
+      "title": "Can You Weigh Your Dog at Home? A Comprehensive Guide",
+      "url": "https://thegrubbypuppy.com/can-you-weigh-your-dog-at-home/"
     },
     {
-      "url": "https://articles.hepper.com/how-to-weigh-your-dog-at-home/",
-      "title": "How to Weigh Your Dog at Home: 8 Easy Tips & Tricks - Hepper"
+      "title": "How to Weigh Your Dog at Home: 8 Easy Tips & Tricks - Hepper",
+      "url": "https://articles.hepper.com/how-to-weigh-your-dog-at-home/"
     },
     {
-      "url": "https://www.houndsy.com/blogs/modern-tails/how-to-weigh-my-dog-at-home-a-comprehensive-guide-for-pet-owners",
-      "title": "How to Weigh My Dog at Home: A Comprehensive Guide for Pet Owners - Houndsy"
+      "title": "How to Weigh My Dog at Home: A Comprehensive Guide for Pet Owners - Houndsy",
+      "url": "https://www.houndsy.com/blogs/modern-tails/how-to-weigh-my-dog-at-home-a-comprehensive-guide-for-pet-owners"
     },
     {
-      "url": "https://askavet.com/blogs/pet-health-safety/how-to-weigh-your-dog-at-home-vet-approved-2025-tips-\u2696\ufe0f\ud83d\udc36",
-      "title": "How to Weigh Your Dog at Home: Vet Approved 2025 Tips \u2696\ufe0f"
+      "title": "How to Weigh Your Dog at Home: Vet Approved 2025 Tips \u2696\ufe0f",
+      "url": "https://askavet.com/blogs/pet-health-safety/how-to-weigh-your-dog-at-home-vet-approved-2025-tips-\u2696\ufe0f\ud83d\udc36"
     }
   ],
   "photo body condition comparison app": [
     {
-      "url": "https://bodymuse.app/",
-      "title": "BodyMuse - Smart Body Analysis App"
+      "title": "9 Best Body Visualizers Apps (Android & iOS) - Free Apps For Me",
+      "url": "https://freeappsforme.com/body-visualizers-apps/"
     },
     {
-      "url": "https://bodymapp.co/",
-      "title": "3D Body Scanning App | Health and Fitness Tracker | Bodymapp"
+      "title": "BodyMuse - Smart Body Analysis App",
+      "url": "https://bodymuse.app/"
     },
     {
-      "url": "https://nettelo.com/nettelo-app/",
-      "title": "Nettelo - 3D Body Scan and Analysis Mobile Application"
+      "title": "3D Body Scanning App | Health and Fitness Tracker | Bodymapp",
+      "url": "https://bodymapp.co/"
     },
     {
-      "url": "https://photobodyfat.com/",
-      "title": "Photo Body Fat - AI Body Fat Analyzer"
+      "title": "Nettelo - 3D Body Scan and Analysis Mobile Application",
+      "url": "https://nettelo.com/nettelo-app/"
+    },
+    {
+      "title": "Photo Body Fat - AI Body Fat Analyzer",
+      "url": "https://photobodyfat.com/"
     }
   ],
   "hydration reminder app for cats integration": [
     {
-      "url": "https://apps.apple.com/ru/app/water-tracker-liquid-cats/id6744845359?l=en-GB&platform=mac",
-      "title": "Water Tracker - Liquid Cats App - App Store"
+      "title": "Water Tracker - Liquid Cats App - App Store",
+      "url": "https://apps.apple.com/ru/app/water-tracker-liquid-cats/id6744845359?l=en-GB&platform=mac"
+    },
+    {
+      "title": "WaterMinder - best water tracker app for your hydration needs!",
+      "url": "https://waterminder.com/"
+    },
+    {
+      "title": "Stay hydrated with fun water reminders ! - Chrome Web Store",
+      "url": "https://chromewebstore.google.com/detail/hydratebuddy/hfhfgllgnhoknliiomihcbgboldemdga"
+    },
+    {
+      "title": "GitHub - klnmi97/ Hydration - Reminder - App : Small android...",
+      "url": "https://github.com/klnmi97/Hydration-Reminder-App"
+    },
+    {
+      "title": "Can I build a personal hydration and water drinking reminder app with...",
+      "url": "https://www.rapidevelopers.com/build-ideas-with-no-code/build-personal-hydration-and-water-drinking-reminder-app-no-code"
     }
   ],
   "Sure Petcare microchip feeder data export": [
     {
-      "url": "https://surepetcare.my.site.com/help/s/microchip-pet-feeder?language=en_US",
-      "title": "Microchip Pet Feeder - Salesforce"
+      "title": "The SureFeed Microchip Pet Feeder Connect from Sure Petcare",
+      "url": "https://www.surepetcare.com/en-us/pet-feeder/microchip-pet-feeder-connect"
     },
     {
-      "url": "https://www.manuals.ca/sure-petcare/surefeed-connect-microchip-petfeeder/manual",
-      "title": "Sure Petcare SureFeed Connect Microchip PetFeeder manual"
+      "title": "Microchip Pet Feeder - Salesforce",
+      "url": "https://surepetcare.my.site.com/help/s/microchip-pet-feeder?language=en_US"
     },
     {
-      "url": "https://www.manua.ls/sure-petcare/surefeed-microchip-petfeeder/manual",
-      "title": "User manual Sure Petcare SureFeed Microchip PetFeeder ... SureFeed\u00ae Microchip Pet Feeder Connect microchip pet feeder - Sure Petcare"
+      "title": "SURE PETCARE SUREFEED USER MANUAL Pdf Download | ManualsLib",
+      "url": "https://www.manualslib.com/manual/1543607/Sure-Petcare-Surefeed.html"
+    },
+    {
+      "title": "Sure Petcare SureFeed Connect Microchip PetFeeder manual",
+      "url": "https://www.manuals.ca/sure-petcare/surefeed-connect-microchip-petfeeder/manual"
+    },
+    {
+      "title": "User manual Sure Petcare SureFeed Microchip PetFeeder ... SureFeed\u00ae Microchip Pet Feeder Connect microchip pet feeder - Sure Petcare",
+      "url": "https://www.manua.ls/sure-petcare/surefeed-microchip-petfeeder/manual"
     }
   ],
-  "PortionPro Rx API": [],
+  "PortionPro Rx API": [
+    {
+      "title": "Portionpro Rx Tag - As Fast as Same-Day with Prime",
+      "url": "https://www.bing.com/aclick?ld=e8p9-gO49KOkVG2g8i29P-cDVUCUyCunV2NjNQ_HbXYrvAkuUx9LAX1vVNHcrpOnZ2c22LMlcN3j9LOBhvSVpkKu5UGirxD4ypF_Nc8gXvosAJWnnWHJwdQn2hu93jitFMA7QQ1G8iqCgSLtIUE9KghY50oF5QsSgqsb-9GH1VX6UfxxvepwLtFuD6_ofWVFoamK08i2o2GZ9jVwxmGz5tynC3-s4&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHBvcnRpb25wcm8lMmJyeCUyYnRhZyUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzYzbWJpM2Y4djJfcCUyNmFkZ3JwaWQlM2QxMzQzNjA0MDUyNzczNjQ0JTI2aHZhZGlkJTNkODM5NzU2MjIzODAwMTclMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzOTc1ODAwNTc3NDQ0JTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2QxMzY2MF8xMzYzMDQzNiUyNm1jaWQlM2Q0OWU2MTFiN2RmNWEzNzFiYjE3ZjNlNjQ1NDBjNDFmZiUyNm1zY2xraWQlM2Q0ZjY5NTA5YzZmNzYxMmRhZjU2YzM5ZGRhNDc5Y2Q0ZA&rlid=4f69509c6f7612daf56c39dda479cd4d"
+    },
+    {
+      "title": "PortionPro Rx Setup \u2013 PawsPik",
+      "url": "https://pawspik.com/pages/pprx-setup"
+    },
+    {
+      "title": "PORTIONPRO RX PPRX1700 USER MANUAL Pdf Download",
+      "url": "https://www.manualslib.com/manual/1336817/Portionpro-Rx-Pprx1700.html"
+    },
+    {
+      "title": "PawsPik\u00ae PortionPro Rx RFID Automatic Pet Feeder for Cats & Dogs",
+      "url": "https://pawspik.com/products/portionprorx-automatic-pet-feeder"
+    },
+    {
+      "title": "Portionpro rx PPRX1700 Manuals | ManualsLib",
+      "url": "https://www.manualslib.com/products/Portionpro-Rx-Pprx1700-8849209.html"
+    }
+  ],
   "Notion pet health dashboard template": [
     {
-      "url": "https://www.notion.com/templates/pet-care-dashboard-455",
-      "title": "Pet Care Dashboard Template by Justine | Notion Marketplace"
+      "title": "Pet Care Dashboard Template by Justine | Notion Marketplace",
+      "url": "https://www.notion.com/templates/pet-care-dashboard-455"
     },
     {
-      "url": "https://www.etsy.com/listing/1705716545/notion-pet-care-tracker-pet-health",
-      "title": "Notion Pet Care Tracker, Pet Health Dashboard, One Page Template ... - Etsy"
+      "title": "The 9 Best Notion Pet Templates of 2025",
+      "url": "https://super.so/templates/notion-pet-templates"
     },
     {
-      "url": "https://notioncircles.com/notion-template/notion-template-pet-care-dashboard/",
-      "title": "Notion Template - Pet Care Dashboard - Notion Circles"
+      "title": "12 Best Notion Pet Templates (Pet Profile, Schedules ... - Gridfiti",
+      "url": "https://gridfiti.com/notion-pet-templates/"
+    },
+    {
+      "title": "Notion Pet Care Tracker, Pet Health Dashboard, One Page Template ... - Etsy",
+      "url": "https://www.etsy.com/listing/1705716545/notion-pet-care-tracker-pet-health"
+    },
+    {
+      "title": "Notion Template - Pet Care Dashboard - Notion Circles",
+      "url": "https://notioncircles.com/notion-template/notion-template-pet-care-dashboard/"
     }
   ],
   "Airtable base for pet medical records": [
     {
-      "url": "https://www.airtable.com/universe/expWvJKE4JGIEgsD0/pet-animal-health-and-medical-history",
-      "title": "Pet Animal Health & Medical History - Airtable Universe"
+      "title": "Pet Animal Health & Medical History - Airtable Universe",
+      "url": "https://www.airtable.com/universe/expWvJKE4JGIEgsD0/pet-animal-health-and-medical-history"
     },
     {
-      "url": "https://m.youtube.com/watch?v=D8IFDY3ib9w",
-      "title": "How To Track Your Pet's Health And Veterinary Records On AIRTABLE ..."
+      "title": "The Open Sanctuary Project's Animal Database",
+      "url": "https://opensanctuary.org/the-open-sanctuary-projects-animal-database/"
     },
     {
-      "url": "https://www.airtable.com/universe/exp0pzZWBdqwh8iji/pet-animal-health-and-medical-hisory",
-      "title": "Rescue/Shelter Animal Health & Medical Hisory - Airtable Universe"
+      "title": "How To Track Your Pet's Health And Veterinary Records On AIRTABLE ...",
+      "url": "https://m.youtube.com/watch?v=D8IFDY3ib9w"
+    },
+    {
+      "title": "Rescue/Shelter Animal Health & Medical Hisory - Airtable Universe",
+      "url": "https://www.airtable.com/universe/exp0pzZWBdqwh8iji/pet-animal-health-and-medical-hisory"
+    },
+    {
+      "title": "Medical Clinic Airtable Setup | Airtable Community",
+      "url": "https://community.airtable.com/base-design-9/medical-clinic-airtable-setup-30373"
     }
   ],
   "Zapier integrate Fi to Google Sheets": [
     {
-      "url": "https://help.instantly.ai/en/articles/9239264-zapier-integration-adding-interested-leads-to-google-sheets",
-      "title": "Zapier Integration : Adding interested leads to Google Sheets"
+      "title": "How to Integrate Gravity Forms (WordPress) - Google Sheets bundle...",
+      "url": "https://www.linkedin.com/pulse/how-integrate-gravity-forms-wordpress-google-sheets-bundle-42doe"
     },
     {
-      "url": "https://community.zapier.com/how-do-i-3/google-sheets-creates-new-row-copies-formatting-from-previous-row-when-adding-manychat-options-2094",
-      "title": "Google Sheets Creates New Row copies... | Zapier Community"
+      "title": "Zapier Integration : Adding interested leads to Google Sheets",
+      "url": "https://help.instantly.ai/en/articles/9239264-zapier-integration-adding-interested-leads-to-google-sheets"
+    },
+    {
+      "title": "How to Connect Elementor Form to Google Sheets using AI",
+      "url": "https://www.thebricks.com/resources/guide-how-to-connect-elementor-form-to-google-sheets-using-ai"
+    },
+    {
+      "title": "Google Sheets Creates New Row copies... | Zapier Community",
+      "url": "https://community.zapier.com/how-do-i-3/google-sheets-creates-new-row-copies-formatting-from-previous-row-when-adding-manychat-options-2094"
+    },
+    {
+      "title": "Integrate with Zapier",
+      "url": "https://www.formcan.com/docs/integration-guide/zapier/"
     }
   ],
   "IFTTT litter robot google sheets": [
     {
-      "url": "https://ifttt.com/connect/google_sheets/whisker",
-      "title": "Quickly connect Google Sheets to Litter-Robot by Whisker - IFTTT"
+      "title": "Quickly connect Google Sheets to Litter-Robot by Whisker - IFTTT",
+      "url": "https://ifttt.com/connect/google_sheets/whisker"
     },
     {
-      "url": "https://www.litter-robot.com/support/article/how-to-connect-litter-robot-to-ifttt/",
-      "title": "How to Connect Litter-Robot to Smart Home Products & IFTTT"
+      "title": "How to Connect Litter-Robot to Smart Home Products & IFTTT",
+      "url": "https://www.litter-robot.com/support/article/how-to-connect-litter-robot-to-ifttt/"
+    },
+    {
+      "title": "How to Automate Google Sheets - Connect Google Sheets with ... Connect Google Sheets to IFTTT - Uncanny Automator Scrape and Integrate IFTTT with Google Sheets - Browse AI Google Sheets Integrations - Connect Your Apps with IFTTT Google Sheets and IFTTT Integration | Workflow Automation",
+      "url": "https://www.youtube.com/watch?v=JVDCxrhB_p4"
+    },
+    {
+      "title": "Connect Google Sheets to IFTTT - Uncanny Automator",
+      "url": "https://automatorplugin.com/connect/google-sheets/ifttt/"
+    },
+    {
+      "title": "Scrape and Integrate IFTTT with Google Sheets - Browse AI",
+      "url": "https://www.browse.ai/automate/ifttt-google-sheets-integration"
     }
   ],
   "privacy policy pet wearables delete account": [
     {
-      "url": "https://petswearable.com/privacy-policy/",
-      "title": "Privacy Policy - petswearable.com"
+      "title": "Deleting Your Pet Caregiver Account - Wag! Walking",
+      "url": "https://support.wagwalking.com/en_us/how-do-i-delete-my-account-pcg-rkJdULCV5"
+    },
+    {
+      "title": "Pet walking company refuses to delete account unless i upload ...",
+      "url": "https://www.reddit.com/r/privacy/comments/13shasd/pet_walking_company_refuses_to_delete_account/"
+    },
+    {
+      "title": "Privacy Policy - petswearable.com",
+      "url": "https://petswearable.com/privacy-policy/"
+    },
+    {
+      "title": "Privacy Policy - Pet Dwelling",
+      "url": "https://www.petdwelling.com/privacy"
+    },
+    {
+      "title": "How do I close my Privacy Account?",
+      "url": "https://support.privacy.com/hc/en-us/articles/360013720233-How-do-I-close-my-Privacy-Account"
     }
   ],
   "how to delete Whistle account and data": [
     {
-      "url": "https://www.whistle.support/faq/generic/how-can-i-delete-my-account-and-data",
-      "title": "Whistle Support - How can I delete my account and data"
+      "title": "Whistle Support - How can I delete my account and data",
+      "url": "https://www.whistle.support/faq/generic/how-can-i-delete-my-account-and-data"
+    },
+    {
+      "title": "Whistle.im - Deleteme",
+      "url": "https://www.deleteme.com/opt-out-guides/whistle-im/"
+    },
+    {
+      "title": "Delete Whistle (342.12 MB) | whistle.com - AppCutter Guide",
+      "url": "https://appcutter.com/cancel/1182564185"
+    },
+    {
+      "title": "How to delete a user / employee - Whistle (Legacy)",
+      "url": "https://help.trywhistle.com/hc/en-us/articles/10110931311515-How-to-delete-a-user-employee"
+    },
+    {
+      "title": "How to Cancel Whistle - Subscribed.FYI",
+      "url": "https://subscribed.fyi/whistle/how-to-cancel/"
     }
   ],
   "export vet records PDF from Banfield online": [
     {
-      "url": "https://www.banfield.com/Services/Mobile-App",
-      "title": "Banfield Mobile App - 24/7 Pet Chat\u2122, Reminders & Pet Health Records"
+      "title": "Banfield Mobile App - 24/7 Pet Chat\u2122, Reminders & Pet Health Records",
+      "url": "https://www.banfield.com/Services/Mobile-App"
     },
     {
-      "url": "https://play.google.com/store/apps/details?id=com.banfield.bpht&hl=en-US",
-      "title": "Banfield Pet Hospital - Apps on Google Play"
+      "title": "Banfield Pet Hospital - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.banfield.bpht&hl=en-US"
     },
     {
-      "url": "https://www.banfield.com/Bblog/bcaring/2023/Petcare-at-your-fingertips-with-the-Banfield-app",
-      "title": "Petcare at your fingertips with the Banfield app"
+      "title": "Can you access pet records from any Banfield location? : r/VetTech - Reddit",
+      "url": "https://www.reddit.com/r/VetTech/comments/15bnlp3/can_you_access_pet_records_from_any_banfield/"
     },
     {
-      "url": "https://www.banfield.com/login-registration/Login",
-      "title": "MyBanfield login - Banfield Pet Hospital"
+      "title": "Petcare at your fingertips with the Banfield app",
+      "url": "https://www.banfield.com/Bblog/bcaring/2023/Petcare-at-your-fingertips-with-the-Banfield-app"
+    },
+    {
+      "title": "MyBanfield login - Banfield Pet Hospital",
+      "url": "https://www.banfield.com/login-registration/Login"
     }
   ],
   "vet record OCR tool for PDFs to CSV": [
     {
-      "url": "https://www.veryfi.com/ocr-tools/convert-pdf-to-csv/",
-      "title": "Convert PDF to CSV | Veryfi"
+      "title": "PDF to CSV Converter - Free Online Tool - pdfhack.com",
+      "url": "https://pdfhack.com/pdftocsv.html"
     },
     {
-      "url": "https://www.ledgerdocs.com/ai-tool-to-convert-pdfs-to-excel-or-csv-fast-accurate-data-extraction-for-receipts-invoices-bank-statements-and-more/",
-      "title": "Convert PDF to Excel or CSV with AI | LedgerDocs"
+      "title": "Convert PDF to CSV | Veryfi",
+      "url": "https://www.veryfi.com/ocr-tools/convert-pdf-to-csv/"
     },
     {
-      "url": "https://onlineocr.io/extract-data-from-pdf",
-      "title": "Extract Data from PDF - PDF to Excel - PDF to CSV"
+      "title": "Free PDF to CSV Converter | BrainyTOOLS",
+      "url": "https://www.brainynote.com/tools/pdf-to-csv"
+    },
+    {
+      "title": "Convert PDF to Excel or CSV with AI | LedgerDocs",
+      "url": "https://www.ledgerdocs.com/ai-tool-to-convert-pdfs-to-excel-or-csv-fast-accurate-data-extraction-for-receipts-invoices-bank-statements-and-more/"
+    },
+    {
+      "title": "Extract Data from PDF - PDF to Excel - PDF to CSV",
+      "url": "https://onlineocr.io/extract-data-from-pdf"
     }
   ],
   "shelter medical intake form template free": [
     {
-      "url": "https://stray-animal-intake-form.pdffiller.com/",
-      "title": "ASPCA Animal Shelter Medical Intake Checksheet Form - Fill ..."
+      "title": "#1 Therapy Notes Template - Try TherapyNotesTM Free",
+      "url": "https://www.bing.com/aclick?ld=e8C4BsfrYmKCGRT5GtBXV9vjVUCUxaH44vxHr0lrYKnqHkBpgN5Mb1_tqYbZ_7-b6AJ0r2U3gufi6uBv-SvlIZm91ZCI1HLeOZT06AW0yP4zKutu8S6k4x9rR6_GKWtSDuTMR95sdzeUKBjlRivpkTHfi6Wf8GdnOatUplLvq6li_kOexYjoV0I35UBuI3eKM_lE0OMdpTPP1Qrff4Y2Z6biCaw1Q&u=aHR0cHMlM2ElMmYlMmZ3d3cudGhlcmFweW5vdGVzLmNvbSUyZnIlMmZhZGNlbnRlciUyZnRoZXJhcHlub3Rlcy10ZW1wbGF0ZSUyZmZlYXR1cmVzJTJmbm90ZXMlMmYlM2ZhZHNfY21waWQlM2Q2MTk4MzEwOCUyNmFkc19hZGlkJTNkMTI2NTUzODE3NzIxMTkwOSUyNmFkc19tYXRjaHR5cGUlM2RwJTI2YWRzX25ldHdvcmslM2RvJTI2YWRzX2NyZWF0aXZlJTNkJTI2dXRtX3Rlcm0lM2R0aGVyYXB5JTI1MjBpbnRha2UlMjUyMGZvcm0lMjUyMHRlbXBsYXRlJTI2YWRzX3RhcmdldGlkJTNka3dkLTc5MDk2NzMwNjk0MjM1JTNhbG9jLTE5MCUyNnV0bV9jYW1wYWlnbiUzZCUyNnV0bV9zb3VyY2UlM2RhZGNlbnRlciUyNnV0bV9tZWRpdW0lM2RwYWlkX3NlYXJjaCUyNnR0diUzZDIlMjZtc2Nsa2lkJTNkNDczYmIxNzU0YWJkMWZjNmQzNGRkODM0ODFhYWFlMWQ&rlid=473bb1754abd1fc6d34dd83481aaae1d"
+    },
+    {
+      "title": "Free Medical Form Templates - Free Health Template",
+      "url": "https://www.bing.com/aclick?ld=e8N6uRwKxqa5sprrlv7pbtVzVUCUwkh1-1MhuUbmbi1ysvz8VWHRYbuUV41Nlcifg0mbvp5hTVZiQOdDrKyb_vdtjTI-Vt9UBb3t0G9YwUhPQbnq-L4P4n8Q4fXHBSzmNEQDhel-IdCMBhJaTCmlcwvKaThBXsnTAg0-xe_qFX2Vl3Qhm3t_s3DL3sgiH8Ttz0v1RiyWoSfVcLdS-kp8qTQ9udbbA&u=aHR0cHMlM2ElMmYlMmZ3d3cuZm9ybWFuZHRlbXBsYXRlLmNvbSUyZmNhdGVnb3J5JTJmcGVyc29uYWwlMmZoZWFsdGglMmYlM2Ztc2Nsa2lkJTNkZTQ1MWZjOWI1ZTlkMTA4NTdlZTY5NWRhOTU4YTczMTklMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RGQVQlMjUyMC0lMjUyMENQQyUyNTIwLSUyNTIwUGVyc29uYWwlMjUyMDIlMjUyMC0lMjUyMFBDJTI1MjAtJTI1MjAyNTAzMTAlMjZ1dG1fdGVybSUzZGZyZWUlMjUyMGhlYWx0aCUyNTIwdGVtcGxhdGUlMjZ1dG1fY29udGVudCUzZEhlYWx0aA&rlid=e451fc9b5e9d10857ee695da958a7319"
+    },
+    {
+      "title": "Care Forms Free Template - Fillable MARC Client Intake",
+      "url": "https://www.bing.com/aclick?ld=e8kw2qu07qIGbuXiS37y5jVTVUCUzkkboMXzmU4XEh7PnouAcMUCnQXlZZ9vdYJoQjnitXeTLTdkJN4i4ibPUmWYpNzWE0dyeneZjmQwxrSES-fSEY2AUw-lrTN5jK5SLiOBSLo3hrYIga9rZVB-fS9SnE0Uq38CNSuc_0eZ2lZGa7fdOHiOB7-3c5Ofc9oRphGqqjzhYEa6T2GNTF-eDYP4jwmjA&u=aHR0cHMlM2ElMmYlMmZ3d3cucGRmZmlsbGVyLmNvbSUyZjEwMDA4NzEwMi1JbmhvbWVTZXJ2aWNlc0Zvcm1zcGRmLUZpbGxhYmxlLU1BUkMtQ0xJRU5ULUlOVEFLRS1GT1JNLS0tSU4tSE9NRS1TRVJWSUNFUy1DaXRpemVuc2hpcC0tbWFyYyUzZm1zY2xraWQlM2Q5N2ZhMmM1ZmE4YmMxMTQ2MGRjMTQ1MWU2M2FiZmU2MSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEluZHVzdHJ5X0luc3VyYW5jZSUyNTIwJTI1MjYlMjUyME1lZGljYWwlMjUyMEZvcm1zJTI2dXRtX3Rlcm0lM2QlMjUyQmNhcmUlMjUyMCUyNTJCZm9ybXMlMjUyMCUyNTJCZnJlZSUyNTIwJTI1MkJ0ZW1wbGF0ZSUyNnV0bV9jb250ZW50JTNkKjIwMTElMjUyME1BUkMlMjUyMENsaWVudCUyNTIwSW50YWtlJTI1MjBGb3JtJTJjJTI1MjAlMjU1QjIwMTEtMDclMjU1RA&rlid=97fa2c5fa8bc11460dc1451e63abfe61"
+    },
+    {
+      "title": "Free Form Templates - Create Forms In Minutes - Easy",
+      "url": "https://www.bing.com/aclick?ld=e8J5cZkytvypcSVwGRcQqhGzVUCUzibbdrqRV0Aij2zIqGNcklsBp8zHw9BW1m73dBu5oTsR2G4yzZ03IwECD552Vyl2xD0UwgQDqhvZFPkEHqPfS4f5GCuVASreP0olnXqUMR8yxB1CdRhRbB_C4rbkulSuGPP8tvoYSZffYgcACDCT-D1y-CylT2cJjmKoSvKT5Ufu5RqHk3c3lpE5EH2CelTPA&u=aHR0cHMlM2ElMmYlMmZ3d3cuY29nbml0b2Zvcm1zLmNvbSUyZmwlMmZyZWdpc3RyYXRpb24tZm9ybXMlM2Zrd2QlM2RyZWdpc3RyYXRpb24lMjUyMGZvcm0lMjUyMHRlbXBsYXRlJTI2YWRfZ3JvdXAlM2QxMjMyNTUzNTg2MjE3MDc5JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkUmVnaXN0cmF0aW9uJTI1MjBGb3JtcyUyNnV0bV9jb250ZW50JTNkUmVnaXN0cmF0aW9uJTI2bXNjbGtpZCUzZGE1NGQ2NjQ0OGM0NzExYzkzMTA3MGYwNTQ3NTA3Y2U5&rlid=a54d66448c4711c931070f0547507ce9"
+    },
+    {
+      "title": "ASPCA Animal Shelter Medical Intake Checksheet Form - Fill ...",
+      "url": "https://stray-animal-intake-form.pdffiller.com/"
     }
   ],
   "Shelterluv medical records export how": [
     {
-      "url": "https://asapcats.org/wp-content/uploads/2024/01/Shelterluv-How-to-Access-and-Review-Medical-Information.pdf",
-      "title": "PDF How to Access and Review Medical Information on Shelterluv"
+      "title": "PDF How to Access and Review Medical Information on Shelterluv",
+      "url": "https://asapcats.org/wp-content/uploads/2024/01/Shelterluv-How-to-Access-and-Review-Medical-Information.pdf"
+    },
+    {
+      "title": "PDF POMDR Shelterluv Instructions - Peace of Mind Dog Rescue",
+      "url": "https://www.peaceofminddogrescue.org/downloads/POMDRShelterluvInstructions.pdf"
+    },
+    {
+      "title": "Shelterluv",
+      "url": "https://www.shelterluv.com/"
+    },
+    {
+      "title": "_Importing_animal_data_from_Shelterluv_Content_v1",
+      "url": "https://userguide.rescuegroups.org/exportword?pageId=24062221"
+    },
+    {
+      "title": "PDF ShelterLuv API Instructions - shelteranimalscount.org",
+      "url": "https://www.shelteranimalscount.org/wp-content/uploads/ShelterLuv-API-Instructions-1.pdf"
     }
   ],
   "Petstablished data import from spreadsheet": [
     {
-      "url": "https://userguide.rescuegroups.org/spaces/DMG/pages/24064322/Importing+animal+data+from+Petstablished",
-      "title": "Importing animal data from Petstablished - Data Management Guide ..."
+      "title": "Importing animal data from Petstablished - Data Management Guide ...",
+      "url": "https://userguide.rescuegroups.org/spaces/DMG/pages/24064322/Importing+animal+data+from+Petstablished"
+    },
+    {
+      "title": "Petstablished | Manage your Animal Welfare Organization (AWO) with our ...",
+      "url": "https://petstablished.com/new_awo"
+    },
+    {
+      "title": "Java OceanAtlas Data Files \u2014 Java OceanAtlas documentation",
+      "url": "https://joa.ucsd.edu/joa/guided_tour/joa_data_files.html"
+    },
+    {
+      "title": "Petstablished - AdoptaPet.com for Shelters & Rescues",
+      "url": "https://adoptapetcom.zendesk.com/hc/en-us/articles/204900350-Petstablished"
+    },
+    {
+      "title": "Import data from data sources (Power Query) - Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/office/import-data-from-data-sources-power-query-be4330b3-5356-486c-a168-b68e9e616f5a"
     }
   ],
   "microchip lookup AAHA search link": [
     {
-      "url": "https://www.aaha.org/for-veterinary-professionals/microchip-registry-lookup-tool-aaha-find-your-pets-microchip-registry/",
-      "title": "Microchip Registry Lookup - AAHA"
+      "title": "Microchip Registry Lookup - AAHA",
+      "url": "https://www.aaha.org/for-veterinary-professionals/microchip-registry-lookup-tool-aaha-find-your-pets-microchip-registry/"
     },
     {
-      "url": "https://www.microchiphelp.com/ahaa-lookup-tool.html",
-      "title": "AHAA Lookup Tool - MicrochipHelp"
+      "title": "Pet Microchip Lookup - Dog & Cat Microchip Search Tool - PetLink AHAA Lookup Tool - MicrochipHelp Microchip Lookup - mChip\u2122 Microchip Registry Free Pet Microchip Registry - Search microchip Web link Microchip Registry Lookup (aaha.org) Microchip ... Microchip Lookup - mChip\u2122 Microchip Registry Microchip Search | AAHA Universal Pet Microchip Lookup Pet Microchip Lookup - Dog & Cat Microchip Search Tool - PetLink Microchip Search | AAHA Universal Pet Microchip Lookup Microchip Search | AAHA Universal Pet Microchip Lookup",
+      "url": "https://www.petlink.net/microchip-search/"
+    },
+    {
+      "title": "AHAA Lookup Tool - MicrochipHelp",
+      "url": "https://www.microchiphelp.com/ahaa-lookup-tool.html"
+    },
+    {
+      "title": "Microchip Lookup - mChip\u2122 Microchip Registry",
+      "url": "https://www.mchip.org/microchips/search"
+    },
+    {
+      "title": "Free Pet Microchip Registry - Search microchip",
+      "url": "https://www.freepetchipregistry.com/search/"
     }
   ],
   "emergency go-bag checklist for pets printable": [
     {
-      "url": "https://www.michigan.gov/mdard/-/media/Project/Websites/mdard/documents/general/emergency/Pet-Emergency-Go-Kit-Checklist.pdf?rev=f04ca162b2754ebd9c1baadd6b140b94&hash=345404458379D0A96D0C64E93FD78E1E",
-      "title": "PDF Pet Emergency Go-Kit Checklist - State of Michigan"
+      "title": "PDF Pet Emergency Go-Kit Checklist - State of Michigan",
+      "url": "https://www.michigan.gov/mdard/-/media/Project/Websites/mdard/documents/general/emergency/Pet-Emergency-Go-Kit-Checklist.pdf?rev=f04ca162b2754ebd9c1baadd6b140b94&hash=345404458379D0A96D0C64E93FD78E1E"
     },
     {
-      "url": "https://www.cdc.gov/healthy-pets/media/pdfs/disaster-prep-Pet-Emergency-Checklist-1.pdf",
-      "title": "PDF Pet Disaster Kit Checklist - Centers for Disease Control and Prevention"
+      "title": "PDF Pet Disaster Kit Checklist - Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/healthy-pets/media/pdfs/disaster-prep-Pet-Emergency-Checklist-1.pdf"
     },
     {
-      "url": "https://forestry.nv.gov/uploads/missions/Pet_Emergency_Go_Bag_Pack_List.pdf",
-      "title": "PDF Pet Emergency Go Bag Pack List"
+      "title": "PDF Pet Emergency Go Bag Pack List",
+      "url": "https://forestry.nv.gov/uploads/missions/Pet_Emergency_Go_Bag_Pack_List.pdf"
     },
     {
-      "url": "https://www.fresno.gov/wp-content/uploads/2024/08/Pet-Go-Kit-List.pdf",
-      "title": "PDF What should we put in our \"Pets Go Kit\" if we had to evacuate in an ..."
+      "title": "PDF What should we put in our \"Pets Go Kit\" if we had to evacuate in an ...",
+      "url": "https://www.fresno.gov/wp-content/uploads/2024/08/Pet-Go-Kit-List.pdf"
+    },
+    {
+      "title": "Pet Emergency Kit Checklist and Disaster Preparedness",
+      "url": "https://www.pawlicy.com/blog/pet-emergency-kit/"
     }
   ],
   "pet first aid kit contents list 2025": [
     {
-      "url": "https://askavet.com/blogs/pet-health-safety/vet-guide-to-2025-pet-first-aid-kits-must-have-items-emergency-care-\ud83d\udc36",
-      "title": "Vet Guide to 2025 Pet First\u2011Aid Kits: Must\u2011Have Items & Emergency Care"
+      "title": "Vet Guide to 2025 Pet First\u2011Aid Kits: Must\u2011Have Items & Emergency Care",
+      "url": "https://askavet.com/blogs/pet-health-safety/vet-guide-to-2025-pet-first-aid-kits-must-have-items-emergency-care-\ud83d\udc36"
     },
     {
-      "url": "https://buddysvets.com/wp-content/uploads/2025/06/Pet-First-Aid-Checklist.pdf",
-      "title": "PDF PET FIRST AID KIT CHECKLIST - buddysvets.com"
+      "title": "PDF PET FIRST AID KIT CHECKLIST - buddysvets.com",
+      "url": "https://buddysvets.com/wp-content/uploads/2025/06/Pet-First-Aid-Checklist.pdf"
     },
     {
-      "url": "https://savvypetcare.com/wp-content/uploads/2025/01/Pet-First-Aid-Checklist-.pdf",
-      "title": "PDF Pet First Aid Checklist Ensure you have these items in your pet's first ..."
+      "title": "PDF Pet first-aid kit checklist - Best Friends Animal Society",
+      "url": "https://bestfriends.org/sites/default/files/2024-06/Pet-First-Aid-Checklist.pdf"
+    },
+    {
+      "title": "PDF Pet First Aid Checklist Ensure you have these items in your pet's first ...",
+      "url": "https://savvypetcare.com/wp-content/uploads/2025/01/Pet-First-Aid-Checklist-.pdf"
+    },
+    {
+      "title": "Must-Have Items for a Pet First Aid Kit for a pet owner",
+      "url": "https://www.thelivingartistry.com/pet-first-aid-kit-items/"
     }
   ],
   "pet CPR online course Red Cross": [
     {
-      "url": "https://www.redcross.org/take-a-class/online-safety-classes",
-      "title": "Online Safety Classes & Training | Red Cross"
+      "title": "Online Safety Classes & Training | Red Cross",
+      "url": "https://www.redcross.org/take-a-class/online-safety-classes"
+    },
+    {
+      "title": "CPR Online | BLS Online BLS Renewal Class",
+      "url": "https://privatecpr.com/redcross-blended-learning-classes/"
+    },
+    {
+      "title": "Online Red Cross CPR /AED/First Aid certification... - Happy Swimmers",
+      "url": "https://www.happyswimmers.com/group-cpr-training/online-red-cross-cpr-aed-first-aid-certification-course/"
+    },
+    {
+      "title": "First Aid and CPR Instructor | AHASTI",
+      "url": "https://www.ahasti.ca/course-red-cross-instructor/step-3:-discipline-specific---first-aid-instructor-"
+    },
+    {
+      "title": "Online CPR certification - Best Online CPR Certification",
+      "url": "https://www.cprblspros.com/online-cpr-certification"
     }
   ],
   "evacuation plan pets multi pet household tips": [
     {
-      "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/pet-disaster-preparedness.html",
-      "title": "Pet Disaster Preparedness & Recovery | American Red Cross"
+      "title": "Pet Disaster Preparedness & Recovery | American Red Cross",
+      "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/pet-disaster-preparedness.html"
     },
     {
-      "url": "https://www.ready.gov/pets",
-      "title": "Prepare Your Pets for Disasters - Ready.gov"
+      "title": "Prepare Your Pets for Disasters - Ready.gov",
+      "url": "https://www.ready.gov/pets"
     },
     {
-      "url": "https://www.aaha.org/resources/how-to-create-a-pet-disaster-evacuation-plan/",
-      "title": "How to Create a Pet Disaster Evacuation Plan - AAHA"
+      "title": "How to Create a Pet Disaster Evacuation Plan - AAHA",
+      "url": "https://www.aaha.org/resources/how-to-create-a-pet-disaster-evacuation-plan/"
     },
     {
-      "url": "https://www.humaneworld.org/en/resources/pet-disaster-preparedness",
-      "title": "Pet Emergency Plan and Disaster Preparedness"
+      "title": "Pet Emergency Plan and Disaster Preparedness",
+      "url": "https://www.humaneworld.org/en/resources/pet-disaster-preparedness"
     },
     {
-      "url": "https://pumpkinhillvet.com/emergency-preparedness-for-multi-pet-homes/",
-      "title": "Preparedness for Multi-Pet Homes | Pumpkin Hill Veterinary Clinic"
+      "title": "Preparedness for Multi-Pet Homes | Pumpkin Hill Veterinary Clinic",
+      "url": "https://pumpkinhillvet.com/emergency-preparedness-for-multi-pet-homes/"
     }
   ],
   "heatstroke signs in dogs infographic": [
     {
-      "url": "https://spca.org/wp-content/uploads/2022/06/Heat-Stroke_Infographic-8.5X11.pdf",
-      "title": "Heat Stroke_Infographic 8 - spca.org"
+      "title": "Heat Stroke_Infographic 8 - spca.org",
+      "url": "https://spca.org/wp-content/uploads/2022/06/Heat-Stroke_Infographic-8.5X11.pdf"
     },
     {
-      "url": "https://static-az.vets-now.com/uploads/sites/3/2024/07/Vets-Now_-HotDogs_Infographic_24home.pdf",
-      "title": "What is Heatstroke? - Vets Now"
+      "title": "What is Heatstroke? - Vets Now",
+      "url": "https://static-az.vets-now.com/uploads/sites/3/2024/07/Vets-Now_-HotDogs_Infographic_24home.pdf"
     },
     {
-      "url": "https://www.fecava.org/news-and-events/news/fecava-infographics-on-heatstroke/",
-      "title": "FECAVA Infographics on heatstroke"
+      "title": "Heatstroke in Dogs: Signs, Treatment, and Prevention - PetMD",
+      "url": "https://www.petmd.com/dog/conditions/systemic/heatstroke-dogs"
     },
     {
-      "url": "https://cdn.medvet.com/app/uploads/2023/03/Adm_HeatstrokeFlyer_MKTG_8.5x11_200708_KP.pdf",
-      "title": "Signs of Heatstroke in Pets - MedVet"
+      "title": "FECAVA Infographics on heatstroke",
+      "url": "https://www.fecava.org/news-and-events/news/fecava-infographics-on-heatstroke/"
+    },
+    {
+      "title": "Signs of Heatstroke in Pets - MedVet",
+      "url": "https://cdn.medvet.com/app/uploads/2023/03/Adm_HeatstrokeFlyer_MKTG_8.5x11_200708_KP.pdf"
     }
   ],
   "gentle leader vs harness for running pros cons": [
     {
-      "url": "https://www.caninejournal.com/gentle-leader-vs-easy-walk-harness/",
-      "title": "Gentle Leader vs Easy Walk Harness : Which Will Help Your Dog..."
+      "title": "Gentle Leader vs Easy Walk Harness : Which Will Help Your Dog...",
+      "url": "https://www.caninejournal.com/gentle-leader-vs-easy-walk-harness/"
     },
     {
-      "url": "https://www.thatmutt.com/2016/07/31/gentle-leader-vs-prong-collar-vs-easy-walk-harness/",
-      "title": "Gentle Leader vs Prong Collar vs Easy Walk Harness - That Mutt"
+      "title": "Easy Walk Harness Vs Gentle Leader | TikTok",
+      "url": "https://www.tiktok.com/discover/easy-walk-harness-vs-gentle-leader"
     },
     {
-      "url": "https://canineweekly.com/dog-harnesses/",
-      "title": "Top 3 Best Dog Harness For Running in 2025 | Canine Weekly"
+      "title": "Gentle Leader vs Prong Collar vs Easy Walk Harness - That Mutt",
+      "url": "https://www.thatmutt.com/2016/07/31/gentle-leader-vs-prong-collar-vs-easy-walk-harness/"
     },
     {
-      "url": "https://www.k9ofmine.com/best-dog-harness-for-running/",
-      "title": "10 Best Dog Harnesses for Running : Top Gear to Jog With Your Dog!"
+      "title": "Top 3 Best Dog Harness For Running in 2025 | Canine Weekly",
+      "url": "https://canineweekly.com/dog-harnesses/"
+    },
+    {
+      "title": "10 Best Dog Harnesses for Running : Top Gear to Jog With Your Dog!",
+      "url": "https://www.k9ofmine.com/best-dog-harness-for-running/"
     }
   ],
   "canicross dog harness for border collie recommendations": [
     {
-      "url": "https://petscarebox.com/what-are-some-recommended-harness-types-for-outdoor-activities-with-a-border-collie/",
-      "title": "What Are Some Recommended Harness Types For Outdoor ..."
+      "title": "Dog Harness For Border Collies - Shop Dog Harness For Border Collies",
+      "url": "https://www.bing.com/aclick?ld=e8kdLTfOKVWOf1_Dvd7_ZBRjVUCUzgnNAE4IJl9zi1_YoTWq-CiJkRRXJxNRJD0-v2JhMdeSmDB0HgLlxRgJvvFgCAgHc_rKLZ__N9nMIng1DWfnulmLpBsggPG7ug8K6mzkkAdbDOHrDRHDqMEc63MFyOITvHX3c-GFb6MfGnLtFLmhcCCxsh3zdDrLZaU7WkNCSu715njJ-M7JlmjmTFvLpxtoM&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGRvZyUyYmhhcm5lc3MlMmJmb3IlMmJib3JkZXIlMmJjb2xsaWVzJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfNHl3ZWYwczcyNF9wJTI2YWRncnBpZCUzZDEzMzkyMDY4ODU5MDYxNjglMjZodmFkaWQlM2Q4MzcwMDc0NDg0ODQ0MCUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODM3MDE0ODQ1MDYwMTMlM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDg0NV8xMDE1MjIyNTcxJTI2bWNpZCUzZDgwNWY5OTgxNDU4NTM5Y2M4ZTU4NTgyNzc0NGVmY2IxJTI2bXNjbGtpZCUzZGM1Njk2ZjliNzM4ZTFkZDg2ZjQ5MDZkYWI4YWY1OTBh&rlid=c5696f9b738e1dd86f4906dab8af590a"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8MSKUlJMpTRKZQpplYca2nDVUCUz0Z-AfVf0aaAph2Eat-LHE9hrAC5vjZH5qida8mPVtITKfSU9GYKZ5LdGta7OimVbhTHnCDPgf9vrMM10SNhmpMinWAe60b_Vtc-12sTEmkUn0BvJ2a_3p326KIdMlgLxdaPORV4aUv1cng189gdOcqK0-ehV1uMqqrDKyvqXP93SPS3z2o8iTosVv-0KrMDU&u=aHR0cHMlM2ElMmYlMmZyZXZpZXdzLm9uZWNsZWFyd2lubmVyLmNvbSUyZnByb2R1Y3QlMmZib3JkZXItY29sbGllLWhhcm5lc3MlMmYlM2Ztc2Nsa2lkJTNkMjk2OGFmN2I4ODRhMWUwMWE5OGJjNjNhNDM2YmMwODIlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RnZW8lMjUzQVVTJTI1MjAlMjU3QyUyNTIwc2l0ZSUyNTNBT0NXX3Nzcl90MyUyNTIwJTI1N0MlMjUyMHR5cGUlMjUzQUtXcyUyNTIwJTI1N0MlMjUyMGNhdGVnb3J5JTI1M0FQb3NpdGl2ZVJPSTIlMjZ1dG1fdGVybSUzZGJvcmRlciUyNTIwY29sbGllJTI1MjBoYXJuZXNzJTI2dXRtX2NvbnRlbnQlM2RBZCUyNTIwZ3JvdXAlMjUyMDQ&rlid=2968af7b884a1e01a98bc63a436bc082",
-      "title": "Border collie harness - Best Brands Side by Side"
+      "title": "5 Best No Pull Harness 2024 - There's One Clear Winner",
+      "url": "https://www.bing.com/aclick?ld=e8vcLEMrBZH1DmfRPEc-n0MDVUCUz7j8vt7YVJshINS8lM37ZtGpTH8gY9JJYkWvnrxKnIHUSggb_ihK-Ntor4HWYhqbXsqjsa6A5e0qu9cZMBeqILdpmvLaY3hEyZwfc9wknQqc8BwLNhTo6UnzlhPUGRayp3whoA5FCp_MhcHKKoyUhMg-oYXrNzFfoOF1mVn6NbVhvVmR_Qhx7Cu7v9sxg86FA&u=aHR0cHMlM2ElMmYlMmZhc2tjYW5pbmUuY29tJTJmYmVzdC1kb2ctaGFybmVzcyUzZm1zY2xraWQlM2Q0OTE3OTNjM2ZjNGQxMWNiZDZjOWZhODIzNzZjY2EwMiUyNnV0bV9jYW1wYWlnbiUzZDUzMTYxNTk1NyUyNnV0bV9tZWRpdW0lM2Q4NDI1MDY0NDY5Mjg2NyUyNnV0bV90ZXJtJTNkMTM0ODAwMzgwMjY2NjAwMCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX2FjY291bnQlM2Rhc2tjYW5pbmUlMjZiaWx5X2NoYW5uZWwlM2RtaWNyb3NvZnQlMjZiX2FkaWQlM2Q4NDI1MDY0NDY5Mjg2NyUyNmJfY2FtcGFpZ24lM2Q1MzE2MTU5NTclMjZtc2Nsa2lkJTNkNDkxNzkzYzNmYzRkMTFjYmQ2YzlmYTgyMzc2Y2NhMDI&rlid=491793c3fc4d11cbd6c9fa82376cca02"
+    },
+    {
+      "title": "Border collie harness - Best Brands Side by Side",
+      "url": "https://www.bing.com/aclick?ld=e8MSKUlJMpTRKZQpplYca2nDVUCUz0Z-AfVf0aaAph2Eat-LHE9hrAC5vjZH5qida8mPVtITKfSU9GYKZ5LdGta7OimVbhTHnCDPgf9vrMM10SNhmpMinWAe60b_Vtc-12sTEmkUn0BvJ2a_3p326KIdMlgLxdaPORV4aUv1cng189gdOcqK0-ehV1uMqqrDKyvqXP93SPS3z2o8iTosVv-0KrMDU&u=aHR0cHMlM2ElMmYlMmZyZXZpZXdzLm9uZWNsZWFyd2lubmVyLmNvbSUyZnByb2R1Y3QlMmZib3JkZXItY29sbGllLWhhcm5lc3MlMmYlM2Ztc2Nsa2lkJTNkMjk2OGFmN2I4ODRhMWUwMWE5OGJjNjNhNDM2YmMwODIlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RnZW8lMjUzQVVTJTI1MjAlMjU3QyUyNTIwc2l0ZSUyNTNBT0NXX3Nzcl90MyUyNTIwJTI1N0MlMjUyMHR5cGUlMjUzQUtXcyUyNTIwJTI1N0MlMjUyMGNhdGVnb3J5JTI1M0FQb3NpdGl2ZVJPSTIlMjZ1dG1fdGVybSUzZGJvcmRlciUyNTIwY29sbGllJTI1MjBoYXJuZXNzJTI2dXRtX2NvbnRlbnQlM2RBZCUyNTIwZ3JvdXAlMjUyMDQ&rlid=2968af7b884a1e01a98bc63a436bc082"
+    },
+    {
+      "title": "See What Our Experts Recommend - Best Best Harnesses For Dogs",
+      "url": "https://www.bing.com/aclick?ld=e8qhEe5FDv-1WZeqjLziefbzVUCUz3m2FKxsyV6-828rmmUjSldmwgzNMk5eylrmw9dv_ByiioJoi90H--UU-NXJEJxU1cstC226rjjgZojtQO9cS4YRnkAmTVSLerKbY0_sXvgH4zfzplS88_eCSrOjZCWjrExHoUqo_u02ien9WPkh1uz5J-QWpEuWoDHLIQ5-VtLjbRbBKryNWf5bVSNLHnnGY&u=aHR0cHMlM2ElMmYlMmZiZXN0cHJvZHVjdHNyZXZpZXdzLmNvbSUyZmJlc3QtaGFybmVzc2VzLWZvci1kb2dzJTNmdGFyZ2V0aWQlM2Rrd2QtODQ0NTc1NTY3ODI1OTAlM2Fsb2MtMTkwJTI2bWF0Y2h0eXBlJTNkcCUyNmRldmljZSUzZGMlMjZjYW1wYWlnbmlkJTNkNTMxMzQ4MDMxJTI2Y3JlYXRpdmUlM2QlMjZhZGdyb3VwaWQlM2QxMzUxMzAyMzIxNTI4NzA3JTI2ZmVlZGl0ZW1pZCUzZCUyNmxvY19waHlzaWNhbF9tcyUzZDU4MTYyJTI2bG9jX2ludGVyZXN0X21zJTNkJTI2bmV0d29yayUzZG8lMjZkZXZpY2Vtb2RlbCUzZCUyNnBsYWNlbWVudCUzZCUyNmtleXdvcmQlM2QlMjRiZXN0JTI1MjBoYXJuZXNzZXMlMjUyMGZvciUyNTIwZG9ncyUyNnRhcmdldCUzZCUyNmFkcG9zaXRpb24lM2QlMjZ0cmFja2lkJTNkdXNfYWxsX3RvcF8yX2JpbmclMjZtSWQlM2RIMTQ5MDAzQ1FOJTI2bXNjbGtpZCUzZGM5MTMwMzA4ZmY2NDE5ZTM3YjJjNmE0OTM0NDVmMDU1&rlid=c9130308ff6419e37b2c6a493445f055"
+    },
+    {
+      "title": "What Are Some Recommended Harness Types For Outdoor ...",
+      "url": "https://petscarebox.com/what-are-some-recommended-harness-types-for-outdoor-activities-with-a-border-collie/"
     }
   ],
   "bungee running leash with waist belt review": [
     {
-      "url": "https://www.bing.com/aclick?ld=e8Fp03VuJD17UEvVs3KYYokDVUCUyoK3lXWobqoNSAmUjKeR-GPTWPqBJEUWS2ul-TjrMiC3PKvaH1rL9xYjpb9EQ8QnpK3XJVZ5y6NnPjVz2kAwBr8bK5FS2PHpogfx9Aj22h4vBFJsHqaF0dckp-_3tVAcYddz-TpDPq2TX0zTPPz6BLwMKZYiECevh_hn_NLyFYWbUXDjpjIX54UOyDZ-qxMFc&u=aHR0cHMlM2ElMmYlMmZiZXN0cHJvZHVjdHNyZXZpZXdzLmNvbSUyZndhaXN0LXJ1bm5pbmctbGVhc2glM2Z0YXJnZXRpZCUzZGt3ZC04NDQ1NzU1Njc3NzIwMyUzYWxvYy0xOTAlMjZtYXRjaHR5cGUlM2RwJTI2ZGV2aWNlJTNkYyUyNmNhbXBhaWduaWQlM2Q1MzEzNDgwMzElMjZjcmVhdGl2ZSUzZCUyNmFkZ3JvdXBpZCUzZDEzNTEzMDIzMjE1Mjg3MjMlMjZmZWVkaXRlbWlkJTNkJTI2bG9jX3BoeXNpY2FsX21zJTNkNTgxNjIlMjZsb2NfaW50ZXJlc3RfbXMlM2QlMjZuZXR3b3JrJTNkbyUyNmRldmljZW1vZGVsJTNkJTI2cGxhY2VtZW50JTNkJTI2a2V5d29yZCUzZCUyNHdhaXN0JTI1MjBydW5uaW5nJTI1MjBsZWFzaCUyNnRhcmdldCUzZCUyNmFkcG9zaXRpb24lM2QlMjZ0cmFja2lkJTNkdXNfYWxsX3RvcF8yX2JpbmclMjZtSWQlM2RIMTQ5MDAzQ1FOJTI2bXNjbGtpZCUzZGI5ZTUzZmFhODE5ZDE5MzEwNjYxNTZlYjRhYmYxN2U2&rlid=b9e53faa819d1931066156eb4abf17e6",
-      "title": "Best Waist Running Leash - One Standout Winner"
+      "title": "Dog Belt Running Leash - See Reviews & Ratings",
+      "url": "https://www.bing.com/aclick?ld=e8nec6iamcK3GbfkDKMn11DTVUCUxHWVqSdWOFzdP13QidqaFZxvShItJhSPGyfs2TXius-6Ur_oYN8UzK-FrX1qpVSf9wUHgpR6CYAH06jqXPfJuH13XtVXPjF0DIg4OYFo1G8EfazB_ulHMuCuO2RV7B3XkFZKAK5rUdtPTeR-l09NuWxxmuo8SB-zVmjUcE4j8kgpdkkcUoDZBjdJ2w0WDyRzc&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGRvZyUyYmJlbHQlMmJydW5uaW5nJTJibGVhc2glMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF8xOWs4YXYxNm9oX3AlMjZhZGdycGlkJTNkMTMzODEwODExOTA4OTY4NyUyNmh2YWRpZCUzZDgzNjMyMDMxMjUwNjEwJTI2aHZuZXR3JTNkbyUyNmh2cW10JTNkcCUyNmh2Ym10JTNkYnAlMjZodmRldiUzZGMlMjZodmxvY2ludCUzZCUyNmh2bG9jcGh5JTNkNTgxNjIlMjZodnRhcmdpZCUzZGt3ZC04MzYzMjg2OTIwMjc2NyUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkODc0XzEwMTUyMjI1NTIlMjZtY2lkJTNkNzc3ODExYjZlNTM0MzNhYWE0ZDY4YmM5MDU0ZjhjMGIlMjZtc2Nsa2lkJTNkMTYxODlhOWE3ZjQzMWMzNGEwOWRmM2RiYjQ2MWVlMGM&rlid=16189a9a7f431c34a09df3dbb461ee0c"
     },
     {
-      "url": "https://www.runnersworld.com/gear/g68021546/best-dog-leashes-for-runners/",
-      "title": "Fido Can Enjoy Your Run Too With One of These Dog Leashes"
+      "title": "Best Waist Running Leash - One Standout Winner",
+      "url": "https://www.bing.com/aclick?ld=e8Fp03VuJD17UEvVs3KYYokDVUCUyoK3lXWobqoNSAmUjKeR-GPTWPqBJEUWS2ul-TjrMiC3PKvaH1rL9xYjpb9EQ8QnpK3XJVZ5y6NnPjVz2kAwBr8bK5FS2PHpogfx9Aj22h4vBFJsHqaF0dckp-_3tVAcYddz-TpDPq2TX0zTPPz6BLwMKZYiECevh_hn_NLyFYWbUXDjpjIX54UOyDZ-qxMFc&u=aHR0cHMlM2ElMmYlMmZiZXN0cHJvZHVjdHNyZXZpZXdzLmNvbSUyZndhaXN0LXJ1bm5pbmctbGVhc2glM2Z0YXJnZXRpZCUzZGt3ZC04NDQ1NzU1Njc3NzIwMyUzYWxvYy0xOTAlMjZtYXRjaHR5cGUlM2RwJTI2ZGV2aWNlJTNkYyUyNmNhbXBhaWduaWQlM2Q1MzEzNDgwMzElMjZjcmVhdGl2ZSUzZCUyNmFkZ3JvdXBpZCUzZDEzNTEzMDIzMjE1Mjg3MjMlMjZmZWVkaXRlbWlkJTNkJTI2bG9jX3BoeXNpY2FsX21zJTNkNTgxNjIlMjZsb2NfaW50ZXJlc3RfbXMlM2QlMjZuZXR3b3JrJTNkbyUyNmRldmljZW1vZGVsJTNkJTI2cGxhY2VtZW50JTNkJTI2a2V5d29yZCUzZCUyNHdhaXN0JTI1MjBydW5uaW5nJTI1MjBsZWFzaCUyNnRhcmdldCUzZCUyNmFkcG9zaXRpb24lM2QlMjZ0cmFja2lkJTNkdXNfYWxsX3RvcF8yX2JpbmclMjZtSWQlM2RIMTQ5MDAzQ1FOJTI2bXNjbGtpZCUzZGI5ZTUzZmFhODE5ZDE5MzEwNjYxNTZlYjRhYmYxN2U2&rlid=b9e53faa819d1931066156eb4abf17e6"
     },
     {
-      "url": "https://www.rover.com/blog/best-hands-free-dog-leashes-dog-human-tested-review/",
-      "title": "The 8 Best Hands-Free Dog Leashes For Runs and Romps"
+      "title": "Fido Can Enjoy Your Run Too With One of These Dog Leashes",
+      "url": "https://www.runnersworld.com/gear/g68021546/best-dog-leashes-for-runners/"
     },
     {
-      "url": "https://breedadvisor.com/best-hands-free-dog-leash-for-running/",
-      "title": "5 Best Hands-Free Dog Leashes For Running (2025 Review) Top 5 Dog Running Belts: Reviews & Buyer\u2019s Guide for Runners The 7 Best Dog Leashes for Running, Tested by Experts 7 Best Dog Running Leashes of 2024 - Good Housekeeping Top 5 Best Dog Leash Waist Belt (Recent Reviews) of 2025 Dog Belt Running Leash - See Reviews & Ratings Best Waist Running Leash - One Standout Winner Best Dog Leash Waist Belt Running - Top 5 Reviewed 2025"
+      "title": "The 8 Best Hands-Free Dog Leashes For Runs and Romps",
+      "url": "https://www.rover.com/blog/best-hands-free-dog-leashes-dog-human-tested-review/"
+    },
+    {
+      "title": "5 Best Hands-Free Dog Leashes For Running (2025 Review) Top 5 Dog Running Belts: Reviews & Buyer\u2019s Guide for Runners The 7 Best Dog Leashes for Running, Tested by Experts 7 Best Dog Running Leashes of 2024 - Good Housekeeping Top 5 Best Dog Leash Waist Belt (Recent Reviews) of 2025 Dog Belt Running Leash - See Reviews & Ratings Best Waist Running Leash - One Standout Winner Best Dog Leash Waist Belt Running - Top 5 Reviewed 2025",
+      "url": "https://breedadvisor.com/best-hands-free-dog-leash-for-running/"
     }
   ],
   "training recall cue games border collie": [
     {
-      "url": "https://www.gemmafisher.com/how-to-teach-collie-recall/",
-      "title": "How to train a Border Collie to come when called - Gemma Fisher"
+      "title": "Dog Training Games - Dog Training Games at Amazon",
+      "url": "https://www.bing.com/aclick?ld=e8zogUxA1__cRGWvBHC0efHDVUCUy4veU9-o0zUXlU56XJbTcHXyD23TWGI2B0BJm4yx_s8gTX8Zr3W2DyhaSjWRbbkvzfzUg-E32AspoWPEIPI2XqD08by08oyhG550g-5sULu8li_npSsx2XMg0yKm_rqtzLxhyud_4wKwjkuT2YsAkgYLSa11bIg8SPmm2RlmhLhON_HINPvc3Fmjb4FrkKh2Q&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGRvZyUyYnRyYWluaW5nJTJiZ2FtZXMlMjZpbmRleCUzZG1vYmlsZS1hcHBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzY1NjFzeDRuM3dfcCUyNmFkZ3JwaWQlM2QxMzMyNjA4NjU4MTkyNDY2JTI2aHZhZGlkJTNkODMyODg0MzA1MzAzNTYlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzMjg4Mzg4Mjg1OTM3JTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2Q4NDcxXzEzNzMyNjI2JTI2bWNpZCUzZGVhODc3YzQ3OTExNjNlODc4NzU1NmI0YmViOTkzNGNiJTI2bXNjbGtpZCUzZDBmZWZmYzlhOGY1NDFmNWQ4MzBjOTVkYjQ0Nzc5N2Rm&rlid=0feffc9a8f541f5d830c95db447797df"
     },
     {
-      "url": "https://alloftheanimals.com/how-to-train-your-border-collie-to-recall/",
-      "title": "How To Teach A Border Collie Recall - alloftheanimals.com"
+      "title": "How to train a Border Collie to come when called - Gemma Fisher",
+      "url": "https://www.gemmafisher.com/how-to-teach-collie-recall/"
     },
     {
-      "url": "https://dogdorable.com/how-to-teach-a-border-collie-to-come/",
-      "title": "How to Teach a Border Collie to Come: Recall Training Tips How to Get Your Border Collie to Come When Called: Tips for ... 11 Secrets to Make Your Border Collie Come When Called Images Border Collie Recall Training - YouTube Border Collie Recall Training \u2013 How To Let Your Border Collie ... Dog Training Games - Dog Training Games at Amazon"
+      "title": "How To Teach A Border Collie Recall - alloftheanimals.com",
+      "url": "https://alloftheanimals.com/how-to-train-your-border-collie-to-recall/"
     },
     {
-      "url": "https://knowanimals.com/how-to-get-your-border-collie-to-come-when-called/",
-      "title": "How to Get Your Border Collie to Come When Called: Tips for ..."
+      "title": "How to Teach a Border Collie to Come: Recall Training Tips How to Get Your Border Collie to Come When Called: Tips for ... 11 Secrets to Make Your Border Collie Come When Called Images Border Collie Recall Training - YouTube Border Collie Recall Training \u2013 How To Let Your Border Collie ... Dog Training Games - Dog Training Games at Amazon",
+      "url": "https://dogdorable.com/how-to-teach-a-border-collie-to-come/"
+    },
+    {
+      "title": "How to Get Your Border Collie to Come When Called: Tips for ...",
+      "url": "https://knowanimals.com/how-to-get-your-border-collie-to-come-when-called/"
     }
   ],
   "scentwork beginner at home steps": [
     {
-      "url": "https://www.withwildpack.com/blog/dog-scentwork-training-guide-for-beginners",
-      "title": "Dog Scentwork Training At Home: A Step-by-Step Guide for Beginners"
+      "title": "Dog Scentwork Training At Home: A Step-by-Step Guide for Beginners",
+      "url": "https://www.withwildpack.com/blog/dog-scentwork-training-guide-for-beginners"
     },
     {
-      "url": "https://www.kinship.com/dog-behavior/scent-training-at-home",
-      "title": "Scent Training for Dogs: How to Scent Train Your Dog at Home"
+      "title": "Scent Training for Dogs: How to Scent Train Your Dog at Home",
+      "url": "https://www.kinship.com/dog-behavior/scent-training-at-home"
     },
     {
-      "url": "https://www.akc.org/expert-advice/training/how-to-teach-your-dog-scent-work/",
-      "title": "How to Teach Your Dog Scent Work at Home - American Kennel Club"
+      "title": "How to Teach Your Dog Scent Work at Home - American Kennel Club",
+      "url": "https://www.akc.org/expert-advice/training/how-to-teach-your-dog-scent-work/"
     },
     {
-      "url": "https://sallygutteridgebooks.store/blogs/news/beginner-scentwork-at-home-guide",
-      "title": "Scentwork for Beginners: Easy Home Guide (No Equipment)"
+      "title": "Scentwork for Beginners: Easy Home Guide (No Equipment)",
+      "url": "https://sallygutteridgebooks.store/blogs/news/beginner-scentwork-at-home-guide"
     },
     {
-      "url": "https://thesniffershop.co.uk/blogs/the-sniffer-dog-blog/how-to-start-scentwork-with-your-dog",
-      "title": "How to start Scentwork with your dog in simple & easy steps."
+      "title": "How to start Scentwork with your dog in simple & easy steps.",
+      "url": "https://thesniffershop.co.uk/blogs/the-sniffer-dog-blog/how-to-start-scentwork-with-your-dog"
     }
   ],
   "enrichment minutes logging template": [
     {
-      "url": "https://slpnow.com/blog/124-how-to-navigate-alternative-scheduling-for-school-based-slps/minutes-log-template/",
-      "title": "Minutes Log Template | SLP Now"
+      "title": "Minutes Log Template | SLP Now",
+      "url": "https://slpnow.com/blog/124-how-to-navigate-alternative-scheduling-for-school-based-slps/minutes-log-template/"
+    },
+    {
+      "title": "Got five minutes ? Get to know ArcGIS GeoEnrichment Service",
+      "url": "https://www.esri.com/arcgis-blog/products/bus-analyst/business/five-minutes-enrichment"
+    },
+    {
+      "title": "7 Meeting minutes ideas | meeting agenda template , meeting, agenda...",
+      "url": "https://www.pinterest.com/lantsay/meeting-minutes/"
+    },
+    {
+      "title": "From logging to learning",
+      "url": "https://www.pointury.com/publications/from-logging-to-learning"
+    },
+    {
+      "title": "Concentration 1-Telling Time: Third Grade TIU Enrichment - SAS",
+      "url": "https://pdesas.org/module/content/resources/27569/view.ashx"
     }
   ],
   "fear free handling techniques at home cat": [
     {
-      "url": "https://www.dvm360.com/view/fear-free-techniques-for-anxious-cats",
-      "title": "Fear Free techniques for anxious cats - dvm360"
+      "title": "Fear Free techniques for anxious cats - dvm360",
+      "url": "https://www.dvm360.com/view/fear-free-techniques-for-anxious-cats"
     },
     {
-      "url": "https://chirrupsandchatter.com/wp-content/uploads/2025/11/Enhancing-Cat-Welfare.pdf",
-      "title": "PDF No More Cat Wrangling, Techniques for Force-Free Feline Handling CCBC ..."
+      "title": "PDF No More Cat Wrangling, Techniques for Force-Free Feline Handling CCBC ...",
+      "url": "https://chirrupsandchatter.com/wp-content/uploads/2025/11/Enhancing-Cat-Welfare.pdf"
     },
     {
-      "url": "https://noobscat.com/cat-fear-training-techniques/",
-      "title": "Top Cat Fear Training Techniques For A Calm Kitty - NoobsCat"
+      "title": "Top Cat Fear Training Techniques For A Calm Kitty - NoobsCat",
+      "url": "https://noobscat.com/cat-fear-training-techniques/"
     },
     {
-      "url": "https://www.weirdocatloversofcleveland.org/blog/cat-friendly-handling-a-how-to-guide-to-decrease-fear-anxiety-and-stress-in-the-cats-that-you-handle",
-      "title": "Cat Friendly Handling: a \"How To\" Guide to Decrease Fear, Anxiety and ..."
+      "title": "Everyday Handling for Veterinary Patients",
+      "url": "https://todaysveterinarynurse.com/behavior/everyday-handling-for-veterinary-patients/"
+    },
+    {
+      "title": "Cat Friendly Handling: a \"How To\" Guide to Decrease Fear, Anxiety and ...",
+      "url": "https://www.weirdocatloversofcleveland.org/blog/cat-friendly-handling-a-how-to-guide-to-decrease-fear-anxiety-and-stress-in-the-cats-that-you-handle"
     }
   ],
   "calming carrier training senior cat": [
     {
-      "url": "https://savingninelives.com/train-cat-to-go-into-carrier/",
-      "title": "How to Train a Cat to Go Into a Carrier (Without the Stress)"
+      "title": "How to Train a Cat to Go Into a Carrier (Without the Stress)",
+      "url": "https://savingninelives.com/train-cat-to-go-into-carrier/"
     },
     {
-      "url": "https://thevetdesk.com/pet-health-wellness/cats/how-to-calm-a-cat-in-a-carrier/",
-      "title": "How to Calm a Cat in a Cat Carrier: 10 Vet-Reviewed Methods"
+      "title": "How to Calm a Cat in a Cat Carrier: 10 Vet-Reviewed Methods",
+      "url": "https://thevetdesk.com/pet-health-wellness/cats/how-to-calm-a-cat-in-a-carrier/"
     },
     {
-      "url": "https://www.puffyandsnoofy.com/how-to-train-a-senior-cat/",
-      "title": "How to Train a Senior Cat: Gentle Techniques That Really Work (Vet ..."
+      "title": "How to Train a Senior Cat: Gentle Techniques That Really Work (Vet ...",
+      "url": "https://www.puffyandsnoofy.com/how-to-train-a-senior-cat/"
     },
     {
-      "url": "https://m.youtube.com/watch?v=SyMdYK0SMzE",
-      "title": "How to get your cat into a carrier | Cat carrier training - YouTube"
+      "title": "How to get your cat into a carrier | Cat carrier training - YouTube",
+      "url": "https://m.youtube.com/watch?v=SyMdYK0SMzE"
     },
     {
-      "url": "https://www.wihumane.org/behavior/ask-the-experts/cat-behavior/teach-your-cat-to-love-the-carrier",
-      "title": "Teach Your Cat to Love the Carrier | Wisconsin Humane Society"
+      "title": "Teach Your Cat to Love the Carrier | Wisconsin Humane Society",
+      "url": "https://www.wihumane.org/behavior/ask-the-experts/cat-behavior/teach-your-cat-to-love-the-carrier"
     }
   ],
   "water fountain quiet stainless steel review": [
     {
-      "url": "https://www.chewy.com/casfuy-quiet-stainless-steel-dog-cat/product-reviews/1403222",
-      "title": "Product Reviews for CASFUY W8 Quiet Stainless Steel Dog & Cat..."
+      "title": "Product Reviews for CASFUY W8 Quiet Stainless Steel Dog & Cat...",
+      "url": "https://www.chewy.com/casfuy-quiet-stainless-steel-dog-cat/product-reviews/1403222"
     },
     {
-      "url": "https://abyann.com/product-review/pet-water-fountain/",
-      "title": "PETLIBRO Dockstream Stainless Pet Water Fountain Ultra Quiet"
+      "title": "PETLIBRO Dockstream Stainless Pet Water Fountain Ultra Quiet",
+      "url": "https://abyann.com/product-review/pet-water-fountain/"
     },
     {
-      "url": "https://www.amazon.com/FOFNON-Fountain-Stainless-Multiple-Filtration/product-reviews/B0CXQ31HR8",
-      "title": "Amazon.com: Customer reviews : FOFNON Cat Water Fountain ..."
+      "title": "Amazon.com: Customer reviews : FOFNON Cat Water Fountain ...",
+      "url": "https://www.amazon.com/FOFNON-Fountain-Stainless-Multiple-Filtration/product-reviews/B0CXQ31HR8"
+    },
+    {
+      "title": "Fountain 54oz Cat Fountain Super Silent Pet Water Fountain | TikTok",
+      "url": "https://www.tiktok.com/discover/fountain-54oz-cat-fountain-super-silent-pet-water-fountain"
+    },
+    {
+      "title": "Petlibro Water Fountains | by Erin Russo | Jul, 2024 | Medium",
+      "url": "https://medium.com/@lonbalasubramani01/discover-the-top-8-petlibro-water-fountains-for-a-hydrated-and-happy-pet-dfad93fcb372"
     }
   ],
   "broth for cats safe ingredients onion free": [
     {
-      "url": "https://www.petscare.com/news/post/can-cats-have-chicken-broth-guide",
-      "title": "Can Cats Have Chicken Broth ? A Comprehensive Guide"
+      "title": "Can Cats Have Chicken Broth ? A Comprehensive Guide",
+      "url": "https://www.petscare.com/news/post/can-cats-have-chicken-broth-guide"
     },
     {
-      "url": "https://www.chewy.com/fruitables-wildly-natural-low-sodium/dp/147582",
-      "title": "FRUITABLES Chicken Broth Bowls Cat Food Topper... - Chewy.com"
+      "title": "FRUITABLES Chicken Broth Bowls Cat Food Topper... - Chewy.com",
+      "url": "https://www.chewy.com/fruitables-wildly-natural-low-sodium/dp/147582"
     },
     {
-      "url": "https://petshun.com/article/can-cats-have-chicken-broth",
-      "title": "Can Cats Safely Enjoy Chicken Broth ? A Pet Owner's Guide | PetShun"
+      "title": "Can Cats Safely Enjoy Chicken Broth ? A Pet Owner's Guide | PetShun",
+      "url": "https://petshun.com/article/can-cats-have-chicken-broth"
     },
     {
-      "url": "https://www.amazon.com/bone-broth-cats/s?k=bone+broth+for+cats",
-      "title": "Amazon.com: Bone Broth For Cats"
+      "title": "Amazon.com: Bone Broth For Cats",
+      "url": "https://www.amazon.com/bone-broth-cats/s?k=bone+broth+for+cats"
+    },
+    {
+      "title": "Find and save ideas about cat food broth on Pinterest.",
+      "url": "https://www.pinterest.com/ideas/cat-food-broth/898018667475/"
     }
   ],
   "fish oil dosage for dogs by weight calculator": [
     {
-      "url": "https://dogscalculators.com/medication-dosage/dog-fish-oil-dosage-calculator/",
-      "title": "Dog Fish Oil Dosage Calculator by Weight [2025]"
+      "title": "Dog Fish Oil Dosage Calculator by Weight [2025]",
+      "url": "https://dogscalculators.com/medication-dosage/dog-fish-oil-dosage-calculator/"
     },
     {
-      "url": "https://calculatoradam.com/fish-oil-dosage-calculator-for-dogs-by-weight/",
-      "title": "Fish Oil Dosage Calculator For Dogs By Weight [2025]"
+      "title": "Fish Oil Dosage Calculator For Dogs By Weight [2025]",
+      "url": "https://calculatoradam.com/fish-oil-dosage-calculator-for-dogs-by-weight/"
     },
     {
-      "url": "https://kolcalculator.com/fish-oil-calculator-for-dogs-dosage.php",
-      "title": "Fish Oil Calculator For Dogs Dosage"
+      "title": "Fish Oil Calculator For Dogs Dosage",
+      "url": "https://kolcalculator.com/fish-oil-calculator-for-dogs-dosage.php"
     },
     {
-      "url": "https://ctrlcalculator.com/biology/dog-fish-oil-dosage-calculator/",
-      "title": "Dog Fish Oil Dosage Calculator - Fish Oil Dosage Calculator for Dogs"
+      "title": "Dog Fish Oil Dosage Calculator - Fish Oil Dosage Calculator for Dogs",
+      "url": "https://ctrlcalculator.com/biology/dog-fish-oil-dosage-calculator/"
     },
     {
-      "url": "https://blog.petmade.com/fish-oil-dosage-calculator-for-dogs/",
-      "title": "Fish Oil Dosage Calculator for Dogs - PetMade"
+      "title": "Fish Oil Dosage Calculator for Dogs - PetMade",
+      "url": "https://blog.petmade.com/fish-oil-dosage-calculator-for-dogs/"
     }
   ],
   "joint supplement evidence-based GLM UC-II dogs": [
     {
-      "url": "https://journeysholisticlife.com/blogs/resources/uc-ii-collagen-better-than-glucosamine-for-dogs",
-      "title": "Veterinarian's Take: Why UC-II Outperforms Glucosamine for Dogs"
+      "title": "5 Best Dogs Joint Health - We Reviewed 2025's Best - Save 10%",
+      "url": "https://www.bing.com/aclick?ld=e8peYRrzpcMX4Y-1Ni_Z0MHTVUCUy7RTXedPXLC6GQ2UrwqDIYJwa4D9dKgWFKghnn2uA6sWVoZXKpj27DQ9Z0MsU3Gnx92HA_E6sNj-BxabDQBa1a2U9PNxZnN7D1BM-OVDObmDav7peCNDNVXjxNFpp5r0JRgd8EuDlaZDktGD_v4Lyi5yMiGPyFrjiaa27hf_NqiwfqXmfy6MYr11ZCqFIRPgU&u=aHR0cHMlM2ElMmYlMmZoZWxwbXlkb2dwb29wLmNvbSUyZmpvaW50LXN1cHBsZW1lbnRzLWZvci1kb2dzJTJmYmEuaHRtbCUzZnR3X3NvdXJjZSUzZGdvb2dsZSUyNnR3X2FkaWQlM2QlMjZ0d19jYW1wYWlnbiUzZDY4ODg3NDE1NiUyNnV0bV9zb3VyY2UlM2R0cmFmZmljaGF1cyUyNm1zY2xraWQlM2QyZmI1ZDQ5NzQ4OTAxNmU3ODc2MGJkZDY4M2JiOWYyZCUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlZjAlOWYlOTElYjElZjAlOWYlOGYlYmIlZTIlODAlOGQlZTIlOTklODIlZWYlYjglOGYlMjUyMG1hcnZlbG91cyUyNTIwbW9iaWxpdHklMjUyMCUyNTdDJTI1MjBqcyUyNTIwZHluJTI2dXRtX3Rlcm0lM2Rkb2dzJTI1MjBqb2ludCUyNTIwaGVhbHRoJTI2dXRtX2NvbnRlbnQlM2Rqb2ludCUyNTIwc3VwcGxlbWVudHMlMjUyMHBvb3A&rlid=2fb5d497489016e78760bdd683bb9f2d"
     },
     {
-      "url": "https://petjope.com/blogs/dog-hip-and-joints/uc-ii-supplement-for-dogs",
-      "title": "UC-II\u00ae Supplement for Dogs - Facts, Benefits & Comparison"
+      "title": "Dog Joint Supplement Reviews - Dog Joint Supplement Rankings",
+      "url": "https://www.bing.com/aclick?ld=e8YbiUxB8_WDdRNOZMWszVEDVUCUxFawsihS7e_jsmiHSWgSI8Khhni565ORejgW58S-wm7fKD3t0CfDsN_AqzaD5XSeQ9YreThvvasDBqrimUUWsa3d-_LCgVZ1gHCR_QLhaQUWBydEKvck0z--VA5PrDFHnlc3FsfhTfxA_O3uUALvuj-fKkNM0oS7KSX7REUHN7ssIQy6ti5Ijs2qn37Y2d5LA&u=aHR0cHMlM2ElMmYlMmZ3d3cudGhlc3BydWNlcGV0cy5jb20lMmZiZXN0LWRvZy1qb2ludC1zdXBwbGVtZW50cy03NTYwNTgxJTNmdXRtX3NvdXJjZSUzZG1pY3Jvc29mdHBhaWQlMjZ1dG1fbWVkaXVtJTNkY29uJTI2dXRtX2NvbnRlbnQlM2QyZDVhNTgyN2M1MGQxY2ZiOGVkNTMxNjYwZTI2ZDQ3MiUyNnV0bV9jYW1wYWlnbiUzZGNvbW1lcmNlLWRkLURvZ1N1cHBsZW1lbnRzX1RoZVNwcnVjZVBldHNfQ29tYmluZWRfQ29tbVNFTV9EU0ElMjZ1dG1fdGVybSUzZGpvaW50JTI1MjBzdXBwbGVtZW50cyUyNTIwZm9yJTI1MjBkb2dzJTI2bXNjbGtpZCUzZDJkNWE1ODI3YzUwZDFjZmI4ZWQ1MzE2NjBlMjZkNDcy&rlid=2d5a5827c50d1cfb8ed531660e26d472"
+    },
+    {
+      "title": "Dog Joint Collagen - Amazon.com\u00ae Official Site",
+      "url": "https://www.bing.com/aclick?ld=e8BVgf48bL3RIdlr6q9GDSrDVUCUxCqoMOiYaPPLjLrZj4_y87fRJVq9r5GYgOQxp3_Eor3Vi2ZZnzYIMyxcid8yRoJc6g4hDqI6QTRBT37IoI0uQBZ8ZSUmiJEeImucc4hVwnR5zUwqwwP_Ti3tfcLCeEnOxX6YsJ5VsoKVOnfREfJWD1oyHaQY4eqGVEMyLaEiFQ3F7tczUlabY5mrkHu0OsZWI&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGRvZyUyYmpvaW50JTJiY29sbGFnZW4lMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF80ZGVlMnk4YnJfYiUyNmFkZ3JwaWQlM2QxMzM5MjA3NjI3NzE3OTkyJTI2aHZhZGlkJTNkODM3MDA3NDk5MDExNzYlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RiJTI2aHZibXQlM2RiYiUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzNzAxNTg1MTk2Njg0JTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2QxMzIxOV8xMzQzNDc4NiUyNm1jaWQlM2QyOWYwNzI1ZDI5YTYzMTUxODc1Yzc4NjMzZWJkNzU5ZSUyNm1zY2xraWQlM2QyOThhYjJkODBjMDExYTNkOGMwMGRiOTljNzJhNDRmMw&rlid=298ab2d80c011a3d8c00db99c72a44f3"
+    },
+    {
+      "title": "Veterinarian's Take: Why UC-II Outperforms Glucosamine for Dogs",
+      "url": "https://journeysholisticlife.com/blogs/resources/uc-ii-collagen-better-than-glucosamine-for-dogs"
+    },
+    {
+      "title": "UC-II\u00ae Supplement for Dogs - Facts, Benefits & Comparison",
+      "url": "https://petjope.com/blogs/dog-hip-and-joints/uc-ii-supplement-for-dogs"
     }
   ],
   "NSAIDs dogs senior risks overview": [
     {
-      "url": "https://www.petmd.com/dog/general-health/nsaids-dogs-everything-you-need-know",
-      "title": "NSAIDs for Dogs | PetMD"
+      "title": "NSAIDs for Dogs | PetMD",
+      "url": "https://www.petmd.com/dog/general-health/nsaids-dogs-everything-you-need-know"
     },
     {
-      "url": "https://www.akc.org/expert-advice/health/nsaids-for-dogs/",
-      "title": "NSAIDs For Dogs: Uses, Side Effects, and Alternatives"
+      "title": "NSAIDs For Dogs: Uses, Side Effects, and Alternatives",
+      "url": "https://www.akc.org/expert-advice/health/nsaids-for-dogs/"
     },
     {
-      "url": "https://www.pethealthnetwork.com/dog-health/dog-toxins-poisons/are-long-term-pain-medications-nsaids-safe-dogs",
-      "title": "Are Long Term Pain Medications (NSAIDS) Safe for Dogs?"
+      "title": "Are Long Term Pain Medications (NSAIDS) Safe for Dogs?",
+      "url": "https://www.pethealthnetwork.com/dog-health/dog-toxins-poisons/are-long-term-pain-medications-nsaids-safe-dogs"
     },
     {
-      "url": "https://www.petsafetycrusader.com/how-nsaids-enable-senior-dogs-to-embrace-their-golden-years-pain-free/",
-      "title": "How NSAIDs Enable Senior Dogs to Embrace Their Golden Years ..."
+      "title": "How NSAIDs Enable Senior Dogs to Embrace Their Golden Years ...",
+      "url": "https://www.petsafetycrusader.com/how-nsaids-enable-senior-dogs-to-embrace-their-golden-years-pain-free/"
     },
     {
-      "url": "https://askavet.com/blogs/pet-health-safety/2025-vet-guide-nsaids-for-dogs-what-you-need-to-know-\ud83d\udc8a\ud83d\udc36",
-      "title": "2025 Vet Guide: NSAIDs for Dogs \u2013 What You Need to Know"
+      "title": "2025 Vet Guide: NSAIDs for Dogs \u2013 What You Need to Know",
+      "url": "https://askavet.com/blogs/pet-health-safety/2025-vet-guide-nsaids-for-dogs-what-you-need-to-know-\ud83d\udc8a\ud83d\udc36"
     }
   ],
   "early arthritis signs cats jumping less": [
     {
-      "url": "https://www.goodrx.com/pet-health/cat/signs-of-arthritis-in-cats",
-      "title": "Signs of Arthritis in Cats: 7 Symptoms to Watch Out For - GoodRx"
+      "title": "Signs of Arthritis in Cats: 7 Symptoms to Watch Out For - GoodRx",
+      "url": "https://www.goodrx.com/pet-health/cat/signs-of-arthritis-in-cats"
     },
     {
-      "url": "https://catschef.com/early-signs-of-arthritis-in-cats-to-keep-an-eye-on/",
-      "title": "10 Early Signs of Arthritis in Cats to Keep an Eye On"
+      "title": "10 Early Signs of Arthritis in Cats to Keep an Eye On",
+      "url": "https://catschef.com/early-signs-of-arthritis-in-cats-to-keep-an-eye-on/"
     },
     {
-      "url": "https://articles.hepper.com/how-to-tell-cat-has-arthritis/",
-      "title": "How to Tell if a Cat Has Arthritis: 8 Vet-Reviewed Signs"
+      "title": "How to Tell if a Cat Has Arthritis: 8 Vet-Reviewed Signs",
+      "url": "https://articles.hepper.com/how-to-tell-cat-has-arthritis/"
     },
     {
-      "url": "https://savingninelives.com/early-arthritis-symptoms-cats/",
-      "title": "How to Spot Early Arthritis Symptoms in Cats: What to Watch For"
+      "title": "How to Spot Early Arthritis Symptoms in Cats: What to Watch For",
+      "url": "https://savingninelives.com/early-arthritis-symptoms-cats/"
     },
     {
-      "url": "https://www.holistapet.com/blogs/cat-care/cat-arthritis-symptoms",
-      "title": "Cat Arthritis Symptoms: What Every Cat Parent Should Know"
+      "title": "Cat Arthritis Symptoms: What Every Cat Parent Should Know",
+      "url": "https://www.holistapet.com/blogs/cat-care/cat-arthritis-symptoms"
     }
   ],
   "quality of life scale for pets worksheet": [
     {
-      "url": "https://www.lapoflove.com/how-will-i-know-it-is-time/lap-of-love-quality-of-life-scale.pdf",
-      "title": "Pet Quality-of-Life Scale - Lap of Love"
+      "title": "Pet Quality-of-Life Scale - Lap of Love",
+      "url": "https://www.lapoflove.com/how-will-i-know-it-is-time/lap-of-love-quality-of-life-scale.pdf"
     },
     {
-      "url": "https://www.banfield.com/-/media/Project/Banfield/Main/en/Bblog/Quality-of-Life-Worksheet.pdf",
-      "title": "quality of life worksheet - Banfield Pet Hospital"
+      "title": "quality of life worksheet - Banfield Pet Hospital",
+      "url": "https://www.banfield.com/-/media/Project/Banfield/Main/en/Bblog/Quality-of-Life-Worksheet.pdf"
     },
     {
-      "url": "https://www.vet-to-go.com/app/download/7117073795/QualityLife_D.pdf",
-      "title": "Quality-of-Life Scale - Vet-To-Go"
+      "title": "Quality-of-Life Scale - Vet-To-Go",
+      "url": "https://www.vet-to-go.com/app/download/7117073795/QualityLife_D.pdf"
     },
     {
-      "url": "https://homewithdignity.com/wp-content/uploads/sites/181/2022/03/QOL-for-Dogs-and-Cats.pdf",
-      "title": "Quality-of-Life Score Sheet (QOL) For Dogs and Cats"
+      "title": "Quality-of-Life Score Sheet (QOL) For Dogs and Cats",
+      "url": "https://homewithdignity.com/wp-content/uploads/sites/181/2022/03/QOL-for-Dogs-and-Cats.pdf"
     },
     {
-      "url": "https://www.dovelewis.org/sites/default/files/resource-files/Pet_Quality_of_Life_Scale.pdf",
-      "title": "Pet Quality of Life Scale and Daily Diary - DoveLewis"
+      "title": "Pet Quality of Life Scale and Daily Diary - DoveLewis",
+      "url": "https://www.dovelewis.org/sites/default/files/resource-files/Pet_Quality_of_Life_Scale.pdf"
     }
   ],
   "resting respiratory rate tracker app for dogs": [
     {
-      "url": "https://play.google.com/store/apps/details?id=com.ceva.cardalisv2&hl=en-US",
-      "title": "Cardalis Resting Respiratory R - Apps on Google Play Cardalis App - App Store Dog Respiratory Rate Tracker | Monitor Your Dog\u2019s Breathing ... Monitoring Canine Health: Is There an App for Resting Heart ... RespiDog: the free app to monitor dog's breathing rate Resting Respiratory Rate: How-To Guide \u2013 Tractive Help Center My Pet\u00b4s Heart2Heart - Apps on Google Play"
+      "title": "Cardalis Resting Respiratory R - Apps on Google Play Cardalis App - App Store Dog Respiratory Rate Tracker | Monitor Your Dog\u2019s Breathing ... Monitoring Canine Health: Is There an App for Resting Heart ... RespiDog: the free app to monitor dog's breathing rate Resting Respiratory Rate: How-To Guide \u2013 Tractive Help Center My Pet\u00b4s Heart2Heart - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.ceva.cardalisv2&hl=en-US"
     },
     {
-      "url": "https://apps.apple.com/us/app/cardalis/id569166179",
-      "title": "Cardalis App - App Store Dog Respiratory Rate Tracker | Monitor Your Dog\u2019s Breathing ... Monitoring Canine Health: Is There an App for Resting Heart ... RespiDog: the free app to monitor dog's breathing rate Resting Respiratory Rate: How-To Guide \u2013 Tractive Help Center My Pet\u00b4s Heart2Heart - Apps on Google Play"
+      "title": "Cardalis App - App Store Dog Respiratory Rate Tracker | Monitor Your Dog\u2019s Breathing ... Monitoring Canine Health: Is There an App for Resting Heart ... RespiDog: the free app to monitor dog's breathing rate Resting Respiratory Rate: How-To Guide \u2013 Tractive Help Center My Pet\u00b4s Heart2Heart - Apps on Google Play",
+      "url": "https://apps.apple.com/us/app/cardalis/id569166179"
     },
     {
-      "url": "https://maven.pet/dog-respiratory-rate-tracker/",
-      "title": "Dog Respiratory Rate Tracker | Monitor Your Dog\u2019s Breathing ..."
+      "title": "Dog Respiratory Rate Tracker | Monitor Your Dog\u2019s Breathing ...",
+      "url": "https://maven.pet/dog-respiratory-rate-tracker/"
     },
     {
-      "url": "https://www.invoxia.com/blog/petcare/respidog-free-app-to-monitor-dogs-breathing-rate/",
-      "title": "RespiDog: the free app to monitor dog's breathing rate"
+      "title": "Monitoring Canine Health: Is There an App for Resting Heart ...",
+      "url": "https://smalldogsheaven.com/is-there-an-app-for-resting-heart-rate-for-dogs/"
+    },
+    {
+      "title": "RespiDog: the free app to monitor dog's breathing rate",
+      "url": "https://www.invoxia.com/blog/petcare/respidog-free-app-to-monitor-dogs-breathing-rate/"
     }
   ],
   "heart murmur dog when to see cardiologist decision": [
     {
-      "url": "https://www.paolivet.com/general/should-i-take-my-dog-to-a-cardiologist/",
-      "title": "Should I Take My Dog to a Cardiologist - Paoli Vetcare"
+      "title": "Should I Take My Dog to a Cardiologist - Paoli Vetcare",
+      "url": "https://www.paolivet.com/general/should-i-take-my-dog-to-a-cardiologist/"
     },
     {
-      "url": "https://www.sigmavet.co.uk/blog/heart-murmurs-dogs-when-to-see-cardiology-specialist",
-      "title": "Heart Murmurs in Dogs: When to See a Cardiology Specialist"
+      "title": "Heart Murmurs in Dogs: When to See a Cardiology Specialist",
+      "url": "https://www.sigmavet.co.uk/blog/heart-murmurs-dogs-when-to-see-cardiology-specialist"
+    },
+    {
+      "title": "My pet was diagnosed with a heart murmur! What does that mean?",
+      "url": "https://metro-vet.com/my-pet-was-diagnosed-with-a-heart-murmur-what-does-that-mean/"
+    },
+    {
+      "title": "Heart Murmurs in Dogs | VCA Animal Hospitals Get a jump on heart murmurs - Cornell University College of ... Heart Murmurs in Dogs: 2025 Vet Guide by a Vet \u2013 Ask A Vet Heart Murmur in Dogs: Causes, Stages & Treatment (Vet Verified)",
+      "url": "https://vcahospitals.com/know-your-pet/heart-murmurs-in-dogs"
+    },
+    {
+      "title": "Get a jump on heart murmurs - Cornell University College of ...",
+      "url": "https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/get-jump-heart-murmurs"
     }
   ],
   "canine heart rate monitor wearable comparison": [
     {
-      "url": "https://petpace.com/paws-and-pulse-exploring-advanced-canine-vital-signs-tracking-for-optimal-pet-health/",
-      "title": "Paws and Pulse: Exploring Advanced Canine Vital Signs Tracking for ..."
+      "title": "The 7 Best Dog Activity Trackers For 2025 - iHeartDogs.com",
+      "url": "https://iheartdogs.com/the-best-dog-activity-trackers/"
+    },
+    {
+      "title": "Best Dog Activity Monitor: FitBark vs Whistle vs Halo Collar 5 vs ...",
+      "url": "https://www.caninejournal.com/dog-activity-monitor/"
+    },
+    {
+      "title": "Paws and Pulse: Exploring Advanced Canine Vital Signs Tracking for ...",
+      "url": "https://petpace.com/paws-and-pulse-exploring-advanced-canine-vital-signs-tracking-for-optimal-pet-health/"
+    },
+    {
+      "title": "10 Best Dog Activity Monitors 2025: Fitness & Health Trackers",
+      "url": "https://www.caninebible.com/best-dog-activity-monitors/"
+    },
+    {
+      "title": "5 Best Dog Activity Monitors (Reviews Updated 2024)",
+      "url": "https://www.dogproductpicker.com/best-dog-activity-monitors/"
     }
   ],
   "HRV in dogs research summary": [
     {
-      "url": "https://avmajournals.avma.org/view/journals/javma/263/7/javma.24.12.0773.xml",
-      "title": "Heart rate variability derangements in dogs with Chagas ..."
+      "title": "Heart rate variability derangements in dogs with Chagas ...",
+      "url": "https://avmajournals.avma.org/view/journals/javma/263/7/javma.24.12.0773.xml"
     },
     {
-      "url": "https://www.ufrgs.br/actavet/50/PUB+1847.pdf",
-      "title": "Short-term Heart Rate Variability Analysis in Healthy Dogs of ..."
+      "title": "Short-term Heart Rate Variability Analysis in Healthy Dogs of ...",
+      "url": "https://www.ufrgs.br/actavet/50/PUB+1847.pdf"
     },
     {
-      "url": "https://www.researchgate.net/publication/338687955_Clinical_applications_of_heart_rate_variability_in_dogs",
-      "title": "Clinical applications of heart rate variability in dogs"
+      "title": "Clinical applications of heart rate variability in dogs",
+      "url": "https://www.researchgate.net/publication/338687955_Clinical_applications_of_heart_rate_variability_in_dogs"
     },
     {
-      "url": "https://www.sciencedirect.com/science/article/pii/S0168159122000326",
-      "title": "Heart rate and heart rate variability in school dogs ..."
+      "title": "Heart rate and heart rate variability in school dogs ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168159122000326"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/26172180/",
-      "title": "Short-term heart rate variability (HRV) in healthy dogs - PubMed"
+      "title": "Short-term heart rate variability (HRV) in healthy dogs - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26172180/"
     }
   ],
   "data visualization colorblind safe palette": [
     {
-      "url": "https://www.nceas.ucsb.edu/sites/default/files/2022-06/Colorblind+Safe+Color+Schemes.pdf",
-      "title": "Colorblind Safe Color Schemes"
+      "title": "Colorblind Safe Color Schemes",
+      "url": "https://www.nceas.ucsb.edu/sites/default/files/2022-06/Colorblind+Safe+Color+Schemes.pdf"
     },
     {
-      "url": "https://www.datawrapper.de/blog/colorblindness-part2",
-      "title": "What to consider when visualizing data for colorblind readers"
+      "title": "What to consider when visualizing data for colorblind readers",
+      "url": "https://www.datawrapper.de/blog/colorblindness-part2"
     },
     {
-      "url": "https://medium.com/@starkja/making-charts-colourblind-safe-640420f785e5",
-      "title": "Making charts colourblind - safe . Tools & Tips-list on how to... | Medium"
+      "title": "Making charts colourblind - safe . Tools & Tips-list on how to... | Medium",
+      "url": "https://medium.com/@starkja/making-charts-colourblind-safe-640420f785e5"
     },
     {
-      "url": "https://thenode.biologists.com/data-visualization-with-flying-colors/research/",
-      "title": "Color blind friendly palettes for data visualizations with categories"
+      "title": "Color blind friendly palettes for data visualizations with categories",
+      "url": "https://thenode.biologists.com/data-visualization-with-flying-colors/research/"
     },
     {
-      "url": "https://blogs.sas.com/content/iml/2023/02/01/colorblind-safe-palettes-sas.html",
-      "title": "Colorblind - safe palettes in SAS - The DO Loop"
+      "title": "Colorblind - safe palettes in SAS - The DO Loop",
+      "url": "https://blogs.sas.com/content/iml/2023/02/01/colorblind-safe-palettes-sas.html"
     }
   ],
   "data dashboard icons pets free svg": [
     {
-      "url": "https://www.flaticon.com/free-icons/pets",
-      "title": "flaticon.com/ free - icons / pets"
+      "title": "flaticon.com/ free - icons / pets",
+      "url": "https://www.flaticon.com/free-icons/pets"
     },
     {
-      "url": "https://iconscout.com/icons/pets",
-      "title": "Pets Icons - Free Download in SVG , PNG"
+      "title": "Pets Icons - Free Download in SVG , PNG",
+      "url": "https://iconscout.com/icons/pets"
     },
     {
-      "url": "https://thenounproject.com/browse/icons/term/data-dashboard/",
-      "title": "Data Dashboard Icons - Free SVG & PNG Data Dashboard Images..."
+      "title": "Data Dashboard Icons - Free SVG & PNG Data Dashboard Images...",
+      "url": "https://thenounproject.com/browse/icons/term/data-dashboard/"
     },
     {
-      "url": "https://www.streamlinehq.com/icons/tag/data-dashboard",
-      "title": "Data dashboard Icons and Symbols - Download Free PNG & SVG"
+      "title": "Tabler Icons : 4950+ free vector icons for web design",
+      "url": "https://tabler.io/icons"
+    },
+    {
+      "title": "Data dashboard Icons and Symbols - Download Free PNG & SVG",
+      "url": "https://www.streamlinehq.com/icons/tag/data-dashboard"
     }
   ],
   "google sheets app script import api json pets": [
     {
-      "url": "https://basescripts.com/working-with-json-writing-api-data-into-google-sheets",
-      "title": "Working With JSON & Writing API Data Into Google Sheets"
+      "title": "Working With JSON & Writing API Data Into Google Sheets",
+      "url": "https://basescripts.com/working-with-json-writing-api-data-into-google-sheets"
     },
     {
-      "url": "https://moldstud.com/articles/p-exploring-api-responses-working-with-json-data-in-google-sheets-using-apps-script",
-      "title": "Working with JSON API Data in Google Sheets via Apps Script | MoldStud"
+      "title": "Working with JSON API Data in Google Sheets via Apps Script | MoldStud",
+      "url": "https://moldstud.com/articles/p-exploring-api-responses-working-with-json-data-in-google-sheets-using-apps-script"
     },
     {
-      "url": "https://developers.google.com/workspace/sheets/api/quickstart/apps-script",
-      "title": "Google Apps Script quickstart | Google Sheets | Google for Developers"
+      "title": "Google Apps Script quickstart | Google Sheets | Google for Developers",
+      "url": "https://developers.google.com/workspace/sheets/api/quickstart/apps-script"
     },
     {
-      "url": "https://spreadsheetpoint.com/google-sheets-import-json-guide/",
-      "title": "Can Google Sheets Import JSON? - Spreadsheet Point"
+      "title": "Can Google Sheets Import JSON? - Spreadsheet Point",
+      "url": "https://spreadsheetpoint.com/google-sheets-import-json-guide/"
     },
     {
-      "url": "https://blog.coupler.io/api-to-google-sheets/",
-      "title": "API to Google Sheets With/Without Coding | Coupler.io Blog"
+      "title": "API to Google Sheets With/Without Coding | Coupler.io Blog",
+      "url": "https://blog.coupler.io/api-to-google-sheets/"
     }
   ],
   "python pandas tutorial import csv pet data": [
     {
-      "url": "https://www.datacamp.com/tutorial/pandas-read-csv",
-      "title": "pandas read_csv() Tutorial: Importing Data - DataCamp"
+      "title": "pandas read_csv() Tutorial: Importing Data - DataCamp",
+      "url": "https://www.datacamp.com/tutorial/pandas-read-csv"
     },
     {
-      "url": "https://www.geeksforgeeks.org/python/different-ways-to-import-csv-file-in-pandas/",
-      "title": "Different ways to import csv file in Pandas - GeeksforGeeks"
+      "title": "Different ways to import csv file in Pandas - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/python/different-ways-to-import-csv-file-in-pandas/"
     },
     {
-      "url": "https://docs.kanaries.net/topics/Pandas/pandas-read-csv",
-      "title": "Pandas read_csv () Tutorial: Import CSV Files Like a Pro"
+      "title": "Pandas read_csv () Tutorial: Import CSV Files Like a Pro",
+      "url": "https://docs.kanaries.net/topics/Pandas/pandas-read-csv"
     },
     {
-      "url": "https://dev.to/tilda_udufo/how-to-analyze-csv-files-with-python-and-pandas-4mn1",
-      "title": "How to Analyze CSV Files with Python and Pandas"
+      "title": "How to Analyze CSV Files with Python and Pandas",
+      "url": "https://dev.to/tilda_udufo/how-to-analyze-csv-files-with-python-and-pandas-4mn1"
     },
     {
-      "url": "https://betterstack.com/community/guides/scaling-python/pandas-csv/",
-      "title": "Python Pandas: Working with CSV Files - Better Stack Community"
+      "title": "Python Pandas: Working with CSV Files - Better Stack Community",
+      "url": "https://betterstack.com/community/guides/scaling-python/pandas-csv/"
     }
   ],
   "combine multiple CSV timestamps align time zones": [
     {
-      "url": "https://www.codewithc.com/blog/advanced-merges-with-time-series-data-in-pandas-how-to-get-it-right/",
-      "title": "Advanced merges with time series data in Pandas: How to get ..."
+      "title": "Advanced merges with time series data in Pandas: How to get ...",
+      "url": "https://www.codewithc.com/blog/advanced-merges-with-time-series-data-in-pandas-how-to-get-it-right/"
     },
     {
-      "url": "https://www.easydatatransform.com/merge_timestamped_data.html",
-      "title": "Merge timestamped data"
+      "title": "Merge timestamped data",
+      "url": "https://www.easydatatransform.com/merge_timestamped_data.html"
     },
     {
-      "url": "https://www.mathworks.com/matlabcentral/answers/1700645-how-to-merge-multiple-csv-files-to-create-a-timetable-for-synchronization",
-      "title": "how to merge multiple csv files to create a timetable for ..."
+      "title": "how to merge multiple csv files to create a timetable for ...",
+      "url": "https://www.mathworks.com/matlabcentral/answers/1700645-how-to-merge-multiple-csv-files-to-create-a-timetable-for-synchronization"
     },
     {
-      "url": "https://www.geeksforgeeks.org/data-analysis/effective-methods-for-merging-time-series-data-with-metadata-in-pandas/",
-      "title": "Effective Methods for Merging Time Series Data with Metadata ..."
+      "title": "Working with Dates and Times in Pandas \u2013 TheLinuxCode",
+      "url": "https://thelinuxcode.com/pandas-combine-date-time/"
+    },
+    {
+      "title": "Effective Methods for Merging Time Series Data with Metadata ...",
+      "url": "https://www.geeksforgeeks.org/data-analysis/effective-methods-for-merging-time-series-data-with-metadata-in-pandas/"
     }
   ],
   "smoothing noisy time series moving average google sheets": [
     {
-      "url": "https://www.thebricks.com/resources/guide-how-to-calculate-moving-average-in-google-sheets-using-ai",
-      "title": "How to Calculate Moving Average in Google Sheets Using AI"
+      "title": "Six Approaches to Time Series Smoothing - Medium",
+      "url": "https://medium.com/@dmitriy.bolotov/six-approaches-to-time-series-smoothing-cc3ea9d6b64f"
+    },
+    {
+      "title": "Using Moving Averages to Smooth Time Series Data",
+      "url": "https://statisticsbyjim.com/time-series/moving-averages-smoothing/"
+    },
+    {
+      "title": "Mastering Smoothing Techniques in Time Series",
+      "url": "https://www.numberanalytics.com/blog/smoothing-techniques-time-series"
+    },
+    {
+      "title": "How to Calculate Moving Average in Google Sheets Using AI",
+      "url": "https://www.thebricks.com/resources/guide-how-to-calculate-moving-average-in-google-sheets-using-ai"
+    },
+    {
+      "title": "Time Series Smoothing Techniques in Python and SQL",
+      "url": "https://villoro.com/blog/smoothing-time-series/"
     }
   ],
   "outlier detection rolling z score tutorial": [
     {
-      "url": "https://www.pythontutorials.net/blog/compute-rolling-z-score-in-pandas-dataframe/",
-      "title": "How to Compute Rolling Z - Score in Pandas... \u2014 pythontutorials.net"
+      "title": "How to Identify Outliers in Time Series Data with Machine Learning",
+      "url": "https://www.linkedin.com/advice/0/what-best-ways-identify-outliers-time-series-data-azj9f"
+    },
+    {
+      "title": "python - Detect and exclude outliers in a pandas... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/23199796/detect-and-exclude-outliers-in-a-pandas-dataframe"
+    },
+    {
+      "title": "The Outlier Detection Playbook: How to Spot and Fix Dirty... | Medium",
+      "url": "https://kausikds.medium.com/the-outlier-detection-playbook-how-to-spot-and-fix-dirty-data-like-a-pro-8d654562624b"
+    },
+    {
+      "title": "GitHub - Shannon-Barretto/Real-time-anomaly- detection",
+      "url": "https://github.com/Shannon-Barretto/Real-time-anomaly-detection"
+    },
+    {
+      "title": "How to Compute Rolling Z - Score in Pandas... \u2014 pythontutorials.net",
+      "url": "https://www.pythontutorials.net/blog/compute-rolling-z-score-in-pandas-dataframe/"
     }
   ],
   "privacy and ethics of pet data gdpr applicability": [
     {
-      "url": "https://dl.acm.org/doi/fullHtml/10.1145/3567445.3571102",
-      "title": "Security and Privacy Concerns of Pet Tech Users"
+      "title": "A Framework for Supporting PET Selection Based on GDPR ...",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-032-00624-0_1"
+    },
+    {
+      "title": "Privacy-enhancing technologies (PETs) | ICO",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/privacy-enhancing-technologies/"
+    },
+    {
+      "title": "Security and Privacy Concerns of Pet Tech Users",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/3567445.3571102"
+    },
+    {
+      "title": "A Framework for Supporting PET Selection Based on GDPR Principles",
+      "url": "https://pape.science/files/publications/PBCHS25ares.pdf"
+    },
+    {
+      "title": "Responsible Development And Use of Privacy Enhancing ...",
+      "url": "https://services.google.com/fh/files/misc/pets_whitepaper.pdf"
     }
   ],
   "consent forms for collecting foster pet data template": [
     {
-      "url": "https://www.jotform.com/form-templates/asha-foster-info-form",
-      "title": "ASHA Foster Info Form Template | Jotform"
+      "title": "ASHA Foster Info Form Template | Jotform",
+      "url": "https://www.jotform.com/form-templates/asha-foster-info-form"
     },
     {
-      "url": "https://droplet.io/gallery/consent-form-template",
-      "title": "Consent Form Template | Droplet"
+      "title": "Grooming Release Form Template | Jotform",
+      "url": "https://www.jotform.com/form-templates/grooming-release-form?card"
+    },
+    {
+      "title": "55 Free Data Collection Form Templates | Free Online... | Formplus",
+      "url": "https://www.formpl.us/templates/data-collection-forms"
+    },
+    {
+      "title": "Consent Form Template | Droplet",
+      "url": "https://droplet.io/gallery/consent-form-template"
+    },
+    {
+      "title": "10 Data collection forms | Safe & Reliable | 123FormBuilder",
+      "url": "https://www.123formbuilder.com/blog/data-collection-forms"
     }
   ],
-  "how to explain pet wearables limits plain language": [],
+  "how to explain pet wearables limits plain language": [
+    {
+      "title": "Smart Pet Wearable Product Market Size by Application: United...",
+      "url": "https://www.linkedin.com/pulse/smart-pet-wearable-product-market-size-application-gg4xe"
+    },
+    {
+      "title": "How to Verify Important Gossip - Orasmyn - \u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053 | Honkai...",
+      "url": "https://archiveofourown.org/works/75766091"
+    },
+    {
+      "title": "How to Find Santa in Fisch (Roblox) \u2013 Complete Location Guide",
+      "url": "https://sportsrant.indiatimes.com/gaming/how-to-find-santa-in-fisch-roblox-complete-location-guide-677240.html"
+    },
+    {
+      "title": "Check if trades are fair in Roblox Adopt Me by using our value calculator",
+      "url": "https://elvebredd.com/adopt-me-calculator"
+    },
+    {
+      "title": "Where the next wave of storytelling happens with Veo.",
+      "url": "https://labs.google/flow/about"
+    }
+  ],
   "veterinary guidelines urinary tract disease cats 2024 update": [
     {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11816079/",
-      "title": "2025 iCatCare consensus guidelines on the diagnosis and management of ..."
+      "title": "2025 iCatCare consensus guidelines on the diagnosis and management of ...",
+      "url": "https://journals.sagepub.com/doi/10.1177/1098612X241309176"
     },
     {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11816079/",
-      "title": "2025 iCatCare consensus guidelines on the diagnosis and management of ..."
+      "title": "A list of the most recent consensus statements and guidelines",
+      "url": "https://vetlit.org/consensus-statements-and-guidelines/"
     },
     {
-      "url": "https://www.iscaid.org/guidelines",
-      "title": "Guidelines - ISCAID"
+      "title": "2025 iCatCare consensus guidelines on the diagnosis and management of ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11816079/"
+    },
+    {
+      "title": "Guidelines - ISCAID",
+      "url": "https://www.iscaid.org/guidelines"
+    },
+    {
+      "title": "PDF Cat Carer Guie to Lower Urinary Tract Diseases",
+      "url": "https://icatcare.org/resources/cat-carer-guide-urinary-tract-diseases.pdf"
     }
   ],
   "home urine specific gravity cat dipstick vs refractometer": [
     {
-      "url": "https://improveinternational.com/us/clinical-library/digital-vs-optical-refractometer-to-measure-urine-specific-gravity-in-cats",
-      "title": "Digital VS Optical Refractometer to measure urine specific ..."
+      "title": "Digital VS Optical Refractometer to measure urine specific ...",
+      "url": "https://improveinternational.com/us/clinical-library/digital-vs-optical-refractometer-to-measure-urine-specific-gravity-in-cats"
     },
     {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10822319/",
-      "title": "Comparison of digital and optical hand-held refractometers ..."
+      "title": "Comparison of digital and optical hand-held refractometers ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10822319/"
     },
     {
-      "url": "https://todaysveterinarynurse.com/clinical-pathology/measuring-urine-specific-gravity-with-a-clinical-refractometer/",
-      "title": "Measuring Urine Specific Gravity With a Clinical Refractometer Urinalysis: Specific Gravity - University of Bristol Dipstick measurements of urine specific gravity are unreliable Comparing Refractometers Module 8.3: The Routine Urinalysis \u2013 Clinical Veterinary ..."
+      "title": "Measuring Urine Specific Gravity With a Clinical Refractometer Urinalysis: Specific Gravity - University of Bristol Dipstick measurements of urine specific gravity are unreliable Comparing Refractometers Module 8.3: The Routine Urinalysis \u2013 Clinical Veterinary ...",
+      "url": "https://todaysveterinarynurse.com/clinical-pathology/measuring-urine-specific-gravity-with-a-clinical-refractometer/"
     },
     {
-      "url": "https://www.bristol.ac.uk/media-library/sites/vetscience/documents/clinical-skills/Urinalysis+Specific+Gravity.pdf",
-      "title": "Urinalysis: Specific Gravity - University of Bristol"
+      "title": "Urinalysis: Specific Gravity - University of Bristol",
+      "url": "https://www.bristol.ac.uk/media-library/sites/vetscience/documents/clinical-skills/Urinalysis+Specific+Gravity.pdf"
+    },
+    {
+      "title": "Dipstick measurements of urine specific gravity are unreliable",
+      "url": "https://adc.bmj.com/content/85/2/155"
     }
   ],
   "litter additive to collect urine sample cat non absorbent beads": [
     {
-      "url": "https://www.amazon.com/Cat-Litter-Urine-Collection-Parents/dp/B082S45PY2",
-      "title": "Amazon.com : PawCheck Cat Litter for Urine Collection - Reusable..."
+      "title": "Amazon.com : PawCheck Cat Litter for Urine Collection - Reusable...",
+      "url": "https://www.amazon.com/Cat-Litter-Urine-Collection-Parents/dp/B082S45PY2"
     },
     {
-      "url": "https://www.vetnpetdirect.com.au/products/catrine-pearl-cat-litter",
-      "title": "Univet Bead Litter Urine Sample Kit for Cats 200g | vet-n-pet DIRECT"
+      "title": "Univet Bead Litter Urine Sample Kit for Cats 200g | vet-n-pet DIRECT",
+      "url": "https://www.vetnpetdirect.com.au/products/catrine-pearl-cat-litter"
+    },
+    {
+      "title": "How to collect a urine sample from your cat - PDSA",
+      "url": "https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/how-to-collect-a-urine-sample-from-your-cat"
+    },
+    {
+      "title": "How to collect a urine sample from a cat",
+      "url": "https://wamiz.co.uk/cat/advice/184027/how-collect-urine-sample-from-cat"
+    },
+    {
+      "title": "Collect a urine sample cat | Vets in Blackburn",
+      "url": "https://vet-healthcentre.co.uk/services-2/animals/cats/cat-tips-hints/how-to-collect-a-urine-sample-from-your.html"
     }
   ],
   "when to worry cat drinking more checklist": [
     {
-      "url": "https://www.katkin.com/articles/thirsty-cats-when-to-worry",
-      "title": "Thirsty Cats - When To Worry"
+      "title": "Thirsty Cats - When To Worry",
+      "url": "https://www.katkin.com/articles/thirsty-cats-when-to-worry"
     },
     {
-      "url": "https://icatcare.org/articles/increased-thirst-and-drinking",
-      "title": "Increased thirst and drinking - International Cat Care"
+      "title": "Increased thirst and drinking - International Cat Care",
+      "url": "https://icatcare.org/articles/increased-thirst-and-drinking"
     },
     {
-      "url": "https://www.petplan.co.uk/cat-insurance/cat-care-and-advice/drinking-habits.html",
-      "title": "How much water should a cat drink | Petplan"
+      "title": "How much water should a cat drink | Petplan",
+      "url": "https://www.petplan.co.uk/cat-insurance/cat-care-and-advice/drinking-habits.html"
     },
     {
-      "url": "https://www.fveap.org/why-is-my-cat-drinking-so-much-water/",
-      "title": "Why is My Cat Drinking So Much Water? Is It Bad?"
+      "title": "Pet Parent Problems: My Cat Is Drinking More Water Than Usual",
+      "url": "https://www.pinterest.com/pin/pet-parent-problems-my-cat-is-drinking-more-water-than-usual-cattime--381187555954897087/"
+    },
+    {
+      "title": "Why is My Cat Drinking So Much Water? Is It Bad?",
+      "url": "https://www.fveap.org/why-is-my-cat-drinking-so-much-water/"
     }
   ],
-  "schedule parasite preventatives calendar template": [],
-  "CDC tick prevalence map 2025": [
+  "schedule parasite preventatives calendar template": [
     {
-      "url": "https://www.cdc.gov/ticks/data-research/facts-stats/geographic-distribution-of-tickborne-disease-cases.html",
-      "title": "Geographic Distribution of Tickborne Disease Cases | Ticks | CDC"
+      "title": "Preventing Parasites in Multi-Pet Household: Strategies for Managing...",
+      "url": "https://www.brekkevet.com/blog/types-of-sedation-in-dentistry-choosing-the-right-option-for-your-comfort.html"
     },
     {
-      "url": "https://www.cdc.gov/tick-borne-encephalitis/data-maps/index.html",
-      "title": "Areas at Risk for Tick -borne Encephalitis | Tick -borne... | CDC"
+      "title": "Travelling with your dog this year? A comprehensive guide to parasite ...",
+      "url": "https://www.joiipetcare.com/advice/travelling-with-your-dog-this-year-a-comprehensive-guide-to-parasite-prevention/"
+    },
+    {
+      "title": "Heartworm Treatment for Dogs, Discover Parasite Prevention for Pets",
+      "url": "https://garanord.md/natural-vs-conventional-treatments-for-parasites-in-pets-what-works-and-when-to-use-them/"
+    },
+    {
+      "title": "How To Prevent & Treat Oregon's Most Common Pet Parasites",
+      "url": "https://www.mountainsidevets.com/blog/fleas-ticks-and-heartworm-oh-my-how-to-prevent-treat-common-pet-parasites"
+    },
+    {
+      "title": "How to Protect Indoor Cats From Parasites | Preventative Guide",
+      "url": "https://savingninelives.com/protect-indoor-cats-from-parasites/"
+    }
+  ],
+  "CDC tick prevalence map 2025": [
+    {
+      "title": "Areas at Risk for Tick -borne Encephalitis | Tick -borne... | CDC",
+      "url": "https://www.cdc.gov/tick-borne-encephalitis/data-maps/index.html"
+    },
+    {
+      "title": "Geographic Distribution of Tickborne Disease Cases | Ticks | CDC",
+      "url": "https://www.cdc.gov/ticks/data-research/facts-stats/geographic-distribution-of-tickborne-disease-cases.html"
+    },
+    {
+      "title": "Tick maps",
+      "url": "https://www.ecdc.europa.eu/en/disease-vectors/surveillance-and-disease-data/tick-maps"
+    },
+    {
+      "title": "An Alarming Public Health Problem: Ticks and Tick -Borne Pathogens...",
+      "url": "https://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2025.091"
+    },
+    {
+      "title": "Companion Animal Parasite Council | Ticks",
+      "url": "https://capcvet.org/guidelines/ticks/"
     }
   ],
   "heartworm incidence map cats dogs": [
     {
-      "url": "https://www.heartwormsociety.org/pet-owner-resources/incidence-maps",
-      "title": "Heartworm Incidence Maps - American Heartworm Society"
+      "title": "Dirofilaria immitis - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dirofilaria_immitis"
     },
     {
-      "url": "https://www.dvm360.com/view/new-heartworm-incidence-map-shows-increase-in-parasitic-cases",
-      "title": "New Heartworm Incidence Map shows increase in parasitic cases"
+      "title": "Heartworm Incidence Maps - American Heartworm Society",
+      "url": "https://www.heartwormsociety.org/pet-owner-resources/incidence-maps"
+    },
+    {
+      "title": "Take the Bite out of Mosquitoes and Heartworms | Zoetis Petcare",
+      "url": "https://www.zoetispetcare.com/blog/article/take-bite-mosquitoes-heartworms"
+    },
+    {
+      "title": "Heartworms : Prevention is the Best Medicine - VetRxDirect Blog",
+      "url": "https://www.vetrxdirect.com/blog/heartworms-prevention-best-medicine/"
+    },
+    {
+      "title": "New Heartworm Incidence Map shows increase in parasitic cases",
+      "url": "https://www.dvm360.com/view/new-heartworm-incidence-map-shows-increase-in-parasitic-cases"
     }
   ],
   "titer testing dogs pros cons cost": [
     {
-      "url": "https://www.pawssum.com.au/blog/dog-titer-testing/",
-      "title": "Dog Titer Testing"
+      "title": "Dog Titer Testing",
+      "url": "https://www.pawssum.com.au/blog/dog-titer-testing/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=2L7yKk4bshA",
-      "title": "Alternatives to Dog Vaccination: The Truth About Titer Testing Dogs"
+      "title": "Alternatives to Dog Vaccination: The Truth About Titer Testing Dogs",
+      "url": "https://www.youtube.com/watch?v=2L7yKk4bshA"
     },
     {
-      "url": "https://sheltiestories.wordpress.com/2019/05/25/titer-test-health-check-up-17/",
-      "title": "sheltiestories.wordpress.com/2019/05/25/ titer - test -health-check-up-17"
+      "title": "sheltiestories.wordpress.com/2019/05/25/ titer - test -health-check-up-17",
+      "url": "https://sheltiestories.wordpress.com/2019/05/25/titer-test-health-check-up-17/"
     },
     {
-      "url": "https://twoadorablelabs.com/what-is-a-titer-test/",
-      "title": "What Is A Titer Test ? - Two Adorable Labs"
+      "title": "Titer Tests For Rabies? Part II \u2013 The Washington Standard",
+      "url": "https://thewashingtonstandard.com/titer-tests-for-rabies-part-ii/"
+    },
+    {
+      "title": "What Is A Titer Test ? - Two Adorable Labs",
+      "url": "https://twoadorablelabs.com/what-is-a-titer-test/"
     }
   ],
   "dental at home toothpaste enzymatic cat": [
     {
-      "url": "https://www.splootvets.com/post/how-to-brush-clean-a-cats-teeth-at-home-vet-approved-ways",
-      "title": "How to Brush or Clean a Cat 's Teeth at Home [2 Vet-Approved Ways]"
+      "title": "How to Brush or Clean a Cat 's Teeth at Home [2 Vet-Approved Ways]",
+      "url": "https://www.splootvets.com/post/how-to-brush-clean-a-cats-teeth-at-home-vet-approved-ways"
     },
     {
-      "url": "https://www.drkellysvet.com/developing-at-home-cat-and-dog-dental-hygiene-routines/",
-      "title": "Developing At - Home Cat and Dog Dental Hygiene Routines - Dr Kelly"
+      "title": "Developing At - Home Cat and Dog Dental Hygiene Routines - Dr Kelly",
+      "url": "https://www.drkellysvet.com/developing-at-home-cat-and-dog-dental-hygiene-routines/"
     },
     {
-      "url": "https://www.preventivevet.com/cats/how-to-brush-your-cats-teeth",
-      "title": "How to Brush Your Cat 's Teeth | Preventive Vet"
+      "title": "How to Brush Your Cat 's Teeth | Preventive Vet",
+      "url": "https://www.preventivevet.com/cats/how-to-brush-your-cats-teeth"
     },
     {
-      "url": "https://www.lidercare.com/enzymatic-toothpaste-for-dogs-cats-how-it-works/",
-      "title": "Enzymatic Toothpaste for Dogs & Cats : How It Works ?"
+      "title": "Enzymatic Toothpaste for Dogs & Cats : How It Works ?",
+      "url": "https://www.lidercare.com/enzymatic-toothpaste-for-dogs-cats-how-it-works/"
     },
     {
-      "url": "https://www.amazon.com/enzyme-toothpaste-cats/s?k=enzyme+toothpaste+for+cats",
-      "title": "Amazon.com: Enzyme Toothpaste For Cats"
+      "title": "Amazon.com: Enzyme Toothpaste For Cats",
+      "url": "https://www.amazon.com/enzyme-toothpaste-cats/s?k=enzyme+toothpaste+for+cats"
     }
   ],
   "pill pockets alternatives DIY safe": [
     {
-      "url": "https://medium.com/@ourhomesteadguide/how-to-make-diy-pill-pockets-12-easy-ways-27cd784bee65",
-      "title": "How to Make DIY Pill Pockets :12 Easy Ways | Medium"
+      "title": "How to Make DIY Pill Pockets :12 Easy Ways | Medium",
+      "url": "https://medium.com/@ourhomesteadguide/how-to-make-diy-pill-pockets-12-easy-ways-27cd784bee65"
     },
     {
-      "url": "https://www.vetrxdirect.com/blog/alternatives-greenies-pill-pockets-allergy-formula/",
-      "title": "vetrxdirect.com/blog/ alternatives -greenies- pill - pockets -allergy-formula"
+      "title": "vetrxdirect.com/blog/ alternatives -greenies- pill - pockets -allergy-formula",
+      "url": "https://www.vetrxdirect.com/blog/alternatives-greenies-pill-pockets-allergy-formula/"
     },
     {
-      "url": "https://www.wikihow.com/Make-Homemade-Pill-Pockets-for-Your-Dog",
-      "title": "3 Ways to Make Homemade Pill Pockets for Your Dog - wikiHow"
+      "title": "Trying new Pill Pocket Alternatives Well, this one may... | TikTok",
+      "url": "https://www.tiktok.com/@herdythings/video/7318155235048918315"
+    },
+    {
+      "title": "3 Ways to Make Homemade Pill Pockets for Your Dog - wikiHow",
+      "url": "https://www.wikihow.com/Make-Homemade-Pill-Pockets-for-Your-Dog"
+    },
+    {
+      "title": "Can I Give My Dog Pill Pockets ? The Definitive Guide",
+      "url": "https://eathealthy365.com/giving-your-dog-pill-pockets-the-ultimate-2025-guide/"
     }
   ],
   "microchip registry update info multiple databases": [
     {
-      "url": "https://www.aaha.org/for-veterinary-professionals/microchip-registry-lookup-tool-aaha-find-your-pets-microchip-registry/",
-      "title": "Microchip Registry Lookup - AAHA"
+      "title": "Microchip Registry Lookup - AAHA",
+      "url": "https://www.aaha.org/for-veterinary-professionals/microchip-registry-lookup-tool-aaha-find-your-pets-microchip-registry/"
     },
     {
-      "url": "https://www.animaltracker.co.uk/support/articles/is-it-a-good-idea-to-register-my-pets-microchip-on-more-than-one-database-in-the-uk/?articleID=47&categoryID=3",
-      "title": "Support | Is it a good idea to register my pet's microchip on more than..."
+      "title": "Support | Is it a good idea to register my pet's microchip on more than...",
+      "url": "https://www.animaltracker.co.uk/support/articles/is-it-a-good-idea-to-register-my-pets-microchip-on-more-than-one-database-in-the-uk/?articleID=47&categoryID=3"
     },
     {
-      "url": "https://www.gov.uk/get-your-dog-cat-microchipped",
-      "title": "Get your dog or cat microchipped - GOV.UK"
+      "title": "24Petwatch Microchip Registry Transitioning to... | PetPlace.com",
+      "url": "https://www.petplace.com/article/general/pet-care/24petwatch-microchip-registry-transitioning-to-petplace"
+    },
+    {
+      "title": "Get your dog or cat microchipped - GOV.UK",
+      "url": "https://www.gov.uk/get-your-dog-cat-microchipped"
+    },
+    {
+      "title": "Free Pet Chip Registry - Peeva Microchip",
+      "url": "https://peeva.co/free-pet-chip-registry-peeva/"
     }
   ],
-  "pet insurance coverage for wearables discounts": [],
+  "pet insurance coverage for wearables discounts": [
+    {
+      "title": "10 Best Pet Insurance - 2025 - 10 Best Pet Insurance Costs",
+      "url": "https://www.bing.com/aclick?ld=e89esY3M1Xns4camlLIlDFezVUCUzDxXvkX6tx43R1mtY2FGkMWNQ16XJENYezOhbaXn0-XLVegOxKL-ckr-lHDg4PQ1BzRPlzZ3NjQ7x51NJLn-cmxjBMofxYaW7GrSlbbPM2WVEwBz4SN5QTBAH2nOS9zksgr7YNudjGKNAP7RyNqH2RSF8PNbX_0yIYV-j-jlKs3F3MdSYMuMbWmpJyytUI2oc&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnVuZC5jb20lMmZ0b3AlMmZwZXQtaW5zdXJhbmNlJTJmYjIlMmZkZXNrJTJmJTNma2V5d29yZCUzZGFmZm9yZGFibGUlMjUyMHBldCUyNTIwaW5zdXJhbmNlJTI2Z2VvJTNkNTgxNjIlMjZkZXZpY2UlM2QlMjZhZGlkJTNkODMwMTM1MTIwNjAyOTclMjZ1dG1fc291cmNlJTNkYmluZyUyNmFkaWQlM2Q4MzAxMzUxMjA2MDI5NyUyNmJtc2wlM2Q1ODE2MiUyNnR2YXIlM2QlMjZtc2Nsa2lkJTNkYTNjMjI4MjY3ZmRkMWQ5YzE5ODM0MTY3YjQ5OTFjZTE&rlid=a3c228267fdd1d9c19834167b4991ce1"
+    },
+    {
+      "title": "Just Released, Today 2025 Reviews - Best Pet Insurance Health Plan",
+      "url": "https://www.bing.com/aclick?ld=e8-5WA_9ILSng2prWcucaxxzVUCUwJjaZ7Ybr-zCoI7bid_cu3hDWKOWPQWv9Z6ch58cX82bA6TuGCdpRyOTFjQKi9xAqDZgN7XnLNOnRvtsCSUhbnVj3VWEUFMmFY_nW7_G5SB6Nw3TwuOhyGC6Q3gqPB2FsNzhvoTRlNMZq6m9v6gB3PPltvrURLZ6gxu2JGqDS8QlcxfQJxwTaRa7_8MXeWoJs&u=aHR0cHMlM2ElMmYlMmZ0aGV0b3AxMHBldGluc3VyYW5jZS5jb20lMmZ0b3AtcGxhbnMlMmYlM2Z1dG1fc291cmNlJTNkYmluZyUyNmtleXdvcmQlM2RwZXQlMjUyMGluc3VyYW5jZSUyNmNhbXBhaWduaWQlM2Q1MzMxMTI4NDglMjZhZGdyb3VwaWQlM2QxMzQ5MTAzNDQ2MjY2NDk3JTI2dGFyZ2V0aWQlM2Rrd2QtODQzMjAxOTg3NjM0NTclM2Fsb2MtMTkwJTI2ZGV2aWNlJTNkYyUyNmxvY19waHlzaWNhbCUzZDU4MTYyJTI2bmV0X3R5cGUlM2RvJTI2bXQlM2RwJTI2bXNjbGtpZCUzZGVjYWFkYjliZGI3OTE3NWY3YTFjYjJkYTEwM2Q5YzM5JTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZExlYWRzJTI1MjBHb2FsJTI1MjAlMjU3QyUyNTIwVG9wJTI1MjBHZW5lcmljJTI1MjAlMjU3QyUyNTIwRCUyNTIwJTI1N0MlMjUyMEVOJTI1MjAqUGhyYXNlKiUyNnV0bV90ZXJtJTNkcGV0JTI1MjBpbnN1cmFuY2UlMjZ1dG1fY29udGVudCUzZFBldCUyNTIwSW5zdXJhbmNlJTI1MjAtJTI1MjBQaHJhc2U&rlid=ecaadb9bdb79175f7a1cb2da103d9c39"
+    },
+    {
+      "title": "Pet Ins That Pays Vet Directly - Discounts for Multiple Pets",
+      "url": "https://www.bing.com/aclick?ld=e8u-CjxcQlu2h178Sc8uyoqzVUCUzQQbpDeHupXkweW0L3lQYasFSTdYP4k5FsO6POl7QJla91hweV4mMLaGeVZDcAKCj8kZqD8bOkjMGeWJkKOT3YLVacaruztsHIIH10LVrQGn1xgIk0RoGTbVEyKY9r7hfqRuVLS4fGSGDv_2wwxHarYHcprrJxqWwU9P88MM97yew4fW0HrI31YdP-ZjB6Ioc&u=aHR0cHMlM2ElMmYlMmZ3d3cuYmVzdG1vbmV5LmNvbSUyZnBldC1pbnN1cmFuY2UlMmZjb21wYXJlLXBldHMlM2Zia3clM2R2ZXQlMjUyMGluc3VyYW5jZSUyNmJjYW1waWQlM2Q1Njk5MTc0MjQlMjZiY2FtcCUzZFBJJTI1MjBVUyUyNTIwLSUyNTIwQmluZyUyNTIwRFQlMjUyMC0lMjUyMEdlbmVyYWwlMjZiYWdpZCUzZDExODQxNzU5MTA0MTU4MzUlMjZiYWclM2RQZXQlMjUyMEluc3VyYW5jZSUyNTIwLSUyNTIwVmV0ZXJpbmFyeSUyNmJ0YXJpZCUzZGt3ZC03NDAxMTQxOTIzODU5NyUzYWxvYy00MTEyJTI2YmlkbSUzZGJwJTI2Ym5ldCUzZG8lMjZiZCUzZGMlMjZibW9idmFsJTNkMCUyNmJ0JTNkc2VhcmNoJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX3Rlcm0lM2RwZXQlMjUyMGluc3VyYW5jZSUyNTIwY292ZXJhZ2UlMjUyMGZvciUyNTIwd2VhcmFibGVzJTI1MjBkaXNjb3VudHMlMjZ1dG1fY2FtcGFpZ24lM2RCaW5nJTJiQ1BDJTJiQ2FtcGFpZ24lMjZjJTNkNzQwMTEyMDQxNjkzMjYlMjZtJTNkcCUyNmslM2Q3NDAxMTQxOTIzODU5NyUyNiUyNmJwaHlzaWNhbCUzZDU4MTYyJTI2YmZlZWRpZCUzZCUyNmJpbnRlcmVzdCUzZCUyNmElM2RCNTMwMi0yJTI2dHMlM2RCUEklMjZ0b3BpYyUzZFBJX0RUX0JpbmclMjZuaWNoZSUzZCUyNnVwZiUzZCUyNmN0eXBlJTNkJTI2ZXhwJTNkJTI2cHElM2QlMjZkeW4lM2QlMjZjYW10eXBlJTNkcHMlMjZtc2Nsa2lkJTNkZmQwMzZiNjRlMDJiMWM2ZjU2M2UwMjI1MmI2ZmJiYzI&rlid=fd036b64e02b1c6f563e02252b6fbbc2"
+    },
+    {
+      "title": "12 Best Dog Insurance Plans - Vet Recommended Dog Insurance",
+      "url": "https://www.bing.com/aclick?ld=e8BJW8CvBnpTZk3XBNqNrGvzVUCUw50yzHNoTbIZgI0hnQFeE1syzf3bIlwn2KBrNXSTE7uMy-BMLd74ava7QdeEHx_zINIbPOo8ktFfA56frvDSTctfHZI_b5eU0objZQ5lQ3m7d1RXoDnqlW2--3YUFkWDi9k8sZsDQPU7w4UMQP-w8CaDO6gTgUXS-sB4ymPmXSu35CdMxvrchZUEEh67Wf5yk&u=aHR0cHMlM2ElMmYlMmZxdW90ZS53YWd3YWxraW5nLmNvbSUyZnF1b3RlJTJmbGFuZGluZyUyZndhZyUyZmNhbXBhaWduJTNmc291cmNlJTNkV0FHLVNFTS1tLXNlYXJjaCUyNnV0bV9jYW1wYWlnbiUzZFdBRy1TRU0tbS1zZWFyY2gtbWVkaWNhbGRvZ2luc3VyYW5jZSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZHBldF9pbnN1cmFuY2UlMjZtc2Nsa2lkJTNkM2ZkNGY5OTNjODE0MWE0MjhlNGY5MGQyMDM1MDNhYmU&rlid=3fd4f993c8141a428e4f90d203503abe"
+    },
+    {
+      "title": "Top Budget-Friendly Picks 2025 - Pet Insurance Rankings",
+      "url": "https://www.bing.com/aclick?ld=e819anMiPaw3Hcc3CNiondEDVUCUyI6RnDtqaH30TsGEeyAmfxBnMhV2qtfO5hKENjLMq7nmJTyRfyua3UPt_XNB0OYLy5dE5xntx22FO8F6ifonl2dgvvK28BOAE-HDMfzRSPMDewQV_fQgtoT6GVGFKT3HCQSbzCYldLkHxpcN2w9i3CTjiK5J-IyqtgbtbFK5m8EUXQuZM-irCDKGWimKBI8YY&u=aHR0cHMlM2ElMmYlMmZ3d3cuZm9yYmVzLmNvbSUyZmFkdmlzb3IlMmZsJTJmYmVzdC1wZXQtaW5zdXJhbmNlLW1zJTJmJTNmY2hlY2slM2RiJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2YWNjb3VudF9pZCUzZDE1MDQ5MTkwMiUyNnV0bV9jb250ZW50JTNkMTMxNzIxNzQxODIzNjU5NiUyNnV0bV90ZXJtJTNka3dkLTgyMzI3MzM3OTU2NTc1JTNhbG9jLTE5MCUyNnV0bV9jYW1wYWlnbiUyNm1hdGNoX3R5cGUlM2RicCUzZDY4ODc2NTk1OSUyNm5ldHdvcmslM2RvJTI2ZGV2aWNlJTNkYyUyNm1zY2xraWQlM2Q3N2Y1MjkwODkwNmUxZDNlZTUxNjQwNDk1YjJhNDQ0MyUyNnV0bV9jYW1wYWlnbiUzZEZBX1BJX0Jlc3RfUGV0LUluc3VyYW5jZV9QaHJhc2VfQmluZw&rlid=77f52908906e1d3ee51640495b2a4443"
+    }
+  ],
   "single ingredient training treats low calorie": [
     {
-      "url": "https://www.bing.com/aclick?ld=e8ydE9L-lpu99L3se12PreHzVUCUwN4C69E8LE3LsOZVIKsYd3N4v3e-oD6X1kpIneGi9eckfhRTs_ALI_1Wq2piMpYezKvj8Ri5-1nhxbeyoQtUqrH4q2ulSUNLWqIREyCvTV3zXmqPYVvTvigT-TnHBnOvbiulaGYLSi-Phi3bOCNF38xnBYDC0Jr_dpCqRJSwl3-vJqRmIC3eDUDpuS-4CxzCU&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHNpbmdsZSUyYmluZ3JlZGllbnQlMmJ0cmFpbmluZyUyYnRyZWF0cyUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzd5amZ4MDZyb2pfcCUyNmFkZ3JwaWQlM2QxMzQzNjAzNzczMzMzMjI4JTI2aHZhZGlkJTNkODM5NzUzMDY3ODA2NDklMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzOTc1NTc5MTc3OTEwJTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2Q3NDQyXzExMTE1OTIwJTI2bWNpZCUzZDc4MGY4ZTVkYjM3OTNhNWRiMDViZWQ2YjcxMjkzYjFjJTI2bXNjbGtpZCUzZDk1OWMwZGRlNTRkYTEyYzYxN2I1NjQ5ZjlmOWY2NDNi&rlid=959c0dde54da12c617b5649f9f9f643b",
-      "title": "single ingredient training treats - Free 2-day Shipping w/ Prime"
+      "title": "single ingredient training treats - Free 2-day Shipping w/ Prime",
+      "url": "https://www.bing.com/aclick?ld=e8ydE9L-lpu99L3se12PreHzVUCUwN4C69E8LE3LsOZVIKsYd3N4v3e-oD6X1kpIneGi9eckfhRTs_ALI_1Wq2piMpYezKvj8Ri5-1nhxbeyoQtUqrH4q2ulSUNLWqIREyCvTV3zXmqPYVvTvigT-TnHBnOvbiulaGYLSi-Phi3bOCNF38xnBYDC0Jr_dpCqRJSwl3-vJqRmIC3eDUDpuS-4CxzCU&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHNpbmdsZSUyYmluZ3JlZGllbnQlMmJ0cmFpbmluZyUyYnRyZWF0cyUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzd5amZ4MDZyb2pfcCUyNmFkZ3JwaWQlM2QxMzQzNjAzNzczMzMzMjI4JTI2aHZhZGlkJTNkODM5NzUzMDY3ODA2NDklMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzOTc1NTc5MTc3OTEwJTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2Q3NDQyXzExMTE1OTIwJTI2bWNpZCUzZDc4MGY4ZTVkYjM3OTNhNWRiMDViZWQ2YjcxMjkzYjFjJTI2bXNjbGtpZCUzZDk1OWMwZGRlNTRkYTEyYzYxN2I1NjQ5ZjlmOWY2NDNi&rlid=959c0dde54da12c617b5649f9f9f643b"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8FSHKZwhK8JglHxJMp2K-lTVUCUzjX_mFlwlCeHPVVSbhZ64PBydeTxsYw0_IuOYBmXLFPYXW1F_S-MPz7ncNpSOKNEbNaE-e7j6q2ObfKkwWWh6xUBny9z8fkM-O1IA474tv5NFp3p3ncQZHgWBqtE_ifs-V1mE5qt2R3Z2JDrH34uO83r_qhqG6CXzntW3CjvMJCvFhcUGlE4ICjIXcp15-vcI&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2QzOTcwMDA2OTE4NzQyOTY5MCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNzEwNTc5MTc1NSUyNmRzX2FfY2lkJTNkNzEyNjkzMDg1JTI2ZHNfYV9jYWlkJTNkMTMyNDE1NTIxMzElMjZkc19hX2FnaWQlM2QxMjU0ODE0ODI1MjklMjZkc19hX2xpZCUzZGRzYS0xNjAxMTM2MDM3MzIwJTI2JTI2ZHNfZV9hZGlkJTNkNzY2OTExNjAzMDY3NzglMjZkc19lX3RhcmdldF9pZCUzZGRhdC0yMzI4NDkwNzQ5ODkzNTI0JTNhbG9jLTE5MCUyNiUyNmRzX2VfbmV0d29yayUzZG8lMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmZC5hZ2tuLmNvbSUyZnBpeGVsJTJmNDEwMiUyZiUzZmNoZSUzZCUyNmNvbCUzZDEzMjQxNTUyMTMxJTJjOTI1MDkxNTU5OCUyYzEyNTQ4MTQ4MjUyOSUyYzAlMmMwJTJjZGRkMzQ0NGRlMjY4MWU4YzYwZTcyZDBjMjkyZGYwNDIlMjZsMSUzZGh0dHBzJTNhJTJmJTJmd3d3LnBldHNtYXJ0LmNvbSUyZmRvZyUyZnRyZWF0cyUyZnRyYWluaW5nLXRyZWF0cyUzZmdjbGlkJTNkZGRkMzQ0NGRlMjY4MWU4YzYwZTcyZDBjMjkyZGYwNDIlMjZnY2xzcmMlM2QzcC5kcyUyNiUyNm1zY2xraWQlM2RkZGQzNDQ0ZGUyNjgxZThjNjBlNzJkMGMyOTJkZjA0MiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFVTX01TTl9TZWFyY2hfQ29uc3VtYWJsZXNfTm9uQnJhbmRfRFNBJTI2dXRtX3Rlcm0lM2Rkb2clMjUyRnRyZWF0cyUyNnV0bV9jb250ZW50JTNkVVNfTVNOX0NvbnN1bWFibGVzX0RTQV9VUkxfRG9nJTI1MjBUcmVhdHM&rlid=ddd3444de2681e8c60e72d0c292df042",
-      "title": "Single Ingredient Training Treats - Dog & Puppy"
+      "title": "Single Ingredient Training Treats - Dog & Puppy",
+      "url": "https://www.bing.com/aclick?ld=e8FSHKZwhK8JglHxJMp2K-lTVUCUzjX_mFlwlCeHPVVSbhZ64PBydeTxsYw0_IuOYBmXLFPYXW1F_S-MPz7ncNpSOKNEbNaE-e7j6q2ObfKkwWWh6xUBny9z8fkM-O1IA474tv5NFp3p3ncQZHgWBqtE_ifs-V1mE5qt2R3Z2JDrH34uO83r_qhqG6CXzntW3CjvMJCvFhcUGlE4ICjIXcp15-vcI&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2QzOTcwMDA2OTE4NzQyOTY5MCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNzEwNTc5MTc1NSUyNmRzX2FfY2lkJTNkNzEyNjkzMDg1JTI2ZHNfYV9jYWlkJTNkMTMyNDE1NTIxMzElMjZkc19hX2FnaWQlM2QxMjU0ODE0ODI1MjklMjZkc19hX2xpZCUzZGRzYS0xNjAxMTM2MDM3MzIwJTI2JTI2ZHNfZV9hZGlkJTNkNzY2OTExNjAzMDY3NzglMjZkc19lX3RhcmdldF9pZCUzZGRhdC0yMzI4NDkwNzQ5ODkzNTI0JTNhbG9jLTE5MCUyNiUyNmRzX2VfbmV0d29yayUzZG8lMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmZC5hZ2tuLmNvbSUyZnBpeGVsJTJmNDEwMiUyZiUzZmNoZSUzZCUyNmNvbCUzZDEzMjQxNTUyMTMxJTJjOTI1MDkxNTU5OCUyYzEyNTQ4MTQ4MjUyOSUyYzAlMmMwJTJjZGRkMzQ0NGRlMjY4MWU4YzYwZTcyZDBjMjkyZGYwNDIlMjZsMSUzZGh0dHBzJTNhJTJmJTJmd3d3LnBldHNtYXJ0LmNvbSUyZmRvZyUyZnRyZWF0cyUyZnRyYWluaW5nLXRyZWF0cyUzZmdjbGlkJTNkZGRkMzQ0NGRlMjY4MWU4YzYwZTcyZDBjMjkyZGYwNDIlMjZnY2xzcmMlM2QzcC5kcyUyNiUyNm1zY2xraWQlM2RkZGQzNDQ0ZGUyNjgxZThjNjBlNzJkMGMyOTJkZjA0MiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFVTX01TTl9TZWFyY2hfQ29uc3VtYWJsZXNfTm9uQnJhbmRfRFNBJTI2dXRtX3Rlcm0lM2Rkb2clMjUyRnRyZWF0cyUyNnV0bV9jb250ZW50JTNkVVNfTVNOX0NvbnN1bWFibGVzX0RTQV9VUkxfRG9nJTI1MjBUcmVhdHM&rlid=ddd3444de2681e8c60e72d0c292df042"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8znVbK4hsb0LtxAMYxuntczVUCUwds6QLVQKPJqqYqhcc0k7zbY041cS-6-babUVuU4es3lZyi-y6j5L0tyQB0v8Dk8TIh7E2vXCtgvzsb1EVx8paFSfMwp9XvpU14bgJggP7s8H7pIGBuM4TocOli67GDfy58Hg23Xy6RJ0AVZWBWpr8PBH1sck6qeXW8HzoBMGWF5Mdl4NNFN-uDIFQHNdaC4A&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2xlYW5ydW4uY29tJTNmdXRtX2NhbXBhaWduJTNkZ2Etbm9uLWJyYW5kLXNlYXJjaCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV90ZXJtJTNkJTI2bXNjbGtpZCUzZDdlMDJmNDQwZWY2NDE1NDhlNzQ1OWQwMTI0MjFhYmY0JTI2dXRtX2NvbnRlbnQlM2RDUi1UcmVhdHMtQ2hld3MtR3JvdXA&rlid=7e02f440ef641548e7459d012421abf4",
-      "title": "Dog Treats & Chews - Low calorie training treats"
+      "title": "Best Train Dog Treats - Train Dog Treats - One Standout Winner",
+      "url": "https://www.bing.com/aclick?ld=e8tFKLNlsiS9ZPfiXcRL3pIDVUCUxDN40PhG2iwm16c529dQrbT0FKObuZKiN_6iphh-NpGpo0gtVH2Gc2Rx21si7B3hx6TcMYbDRqfjOAjqQ5LdjEgJWEsWYTGzO5mVUgstrm27ULWlRfIREBJ-PEOilq1O9Ko4k3uC24-CFDjJneTpje8BfZXi8_H_RNzAiJtNAjPm0fssrFcObBgUWyA2n2WlY&u=aHR0cHMlM2ElMmYlMmZiZXN0cHJvZHVjdHNyZXZpZXdzLmNvbSUyZnRyYWluLWRvZy10cmVhdHMlM2Z0YXJnZXRpZCUzZGt3ZC04NDczMjQzMjcyNzE3MiUzYWxvYy0xOTAlMjZtYXRjaHR5cGUlM2RiJTI2ZGV2aWNlJTNkYyUyNmNhbXBhaWduaWQlM2Q1MzEzNDgwMTIlMjZjcmVhdGl2ZSUzZCUyNmFkZ3JvdXBpZCUzZDEzNTU3MDAzNjg2MTUyMzklMjZmZWVkaXRlbWlkJTNkJTI2bG9jX3BoeXNpY2FsX21zJTNkNTgxNjIlMjZsb2NfaW50ZXJlc3RfbXMlM2QlMjZuZXR3b3JrJTNkbyUyNmRldmljZW1vZGVsJTNkJTI2cGxhY2VtZW50JTNkJTI2a2V5d29yZCUzZCUyNHRyYWluJTI1MjBkb2clMjUyMHRyZWF0cyUyNnRhcmdldCUzZCUyNmFkcG9zaXRpb24lM2QlMjZ0cmFja2lkJTNkdXNfYWxsX3RvcF8yX2JpbmclMjZtSWQlM2RIMTQ5MDAzQ1FOJTI2bXNjbGtpZCUzZGJiM2E2MWEwMzE3ZTEzOGMyNjQ5MDhlMWZhM2I1MGRk&rlid=bb3a61a0317e138c264908e1fa3b50dd"
     },
     {
-      "url": "https://thepetvet.com/low-calorie-pet-treats/",
-      "title": "Low-Calorie Pet Treats: 7 Best Options for Weight Management"
+      "title": "Dog Treats & Chews - Low calorie training treats",
+      "url": "https://www.bing.com/aclick?ld=e8znVbK4hsb0LtxAMYxuntczVUCUwds6QLVQKPJqqYqhcc0k7zbY041cS-6-babUVuU4es3lZyi-y6j5L0tyQB0v8Dk8TIh7E2vXCtgvzsb1EVx8paFSfMwp9XvpU14bgJggP7s8H7pIGBuM4TocOli67GDfy58Hg23Xy6RJ0AVZWBWpr8PBH1sck6qeXW8HzoBMGWF5Mdl4NNFN-uDIFQHNdaC4A&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2xlYW5ydW4uY29tJTNmdXRtX2NhbXBhaWduJTNkZ2Etbm9uLWJyYW5kLXNlYXJjaCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV90ZXJtJTNkJTI2bXNjbGtpZCUzZDdlMDJmNDQwZWY2NDE1NDhlNzQ1OWQwMTI0MjFhYmY0JTI2dXRtX2NvbnRlbnQlM2RDUi1UcmVhdHMtQ2hld3MtR3JvdXA&rlid=7e02f440ef641548e7459d012421abf4"
+    },
+    {
+      "title": "Low-Calorie Pet Treats: 7 Best Options for Weight Management",
+      "url": "https://thepetvet.com/low-calorie-pet-treats/"
     }
   ],
   "long line safe materials for recall training": [
     {
-      "url": "https://themuttyprofessor.co.uk/blog/how-to-use-a-long-line-safely/",
-      "title": "How to use a long line safely \u2013 The Mutty Professor"
+      "title": "How to use a long line safely \u2013 The Mutty Professor",
+      "url": "https://themuttyprofessor.co.uk/blog/how-to-use-a-long-line-safely/"
     },
     {
-      "url": "https://pintardogtraining.com/articles/what-is-longline-and-how-to-use-it-for-dog-training/",
-      "title": "What is longline and how to use it for dog... - PINTAR DOG TRAINING"
+      "title": "What is longline and how to use it for dog... - PINTAR DOG TRAINING",
+      "url": "https://pintardogtraining.com/articles/what-is-longline-and-how-to-use-it-for-dog-training/"
     },
     {
-      "url": "https://hightailhikes.com/blogs/news/what-is-a-biothane-long-line-do-i-need-one",
-      "title": "What is a BioThane Long Line ? Do I Need One? \u2013 High Tail Hikes"
+      "title": "What is a BioThane Long Line ? Do I Need One? \u2013 High Tail Hikes",
+      "url": "https://hightailhikes.com/blogs/news/what-is-a-biothane-long-line-do-i-need-one"
+    },
+    {
+      "title": "What is the best length for a dog long line ? - The Institute for...",
+      "url": "https://iere.org/what-is-the-best-length-for-a-dog-long-line/"
+    },
+    {
+      "title": "Amazon.com : Wolfone Waterproof Dog Training Leash Long Line ...",
+      "url": "https://www.amazon.com/Wolfone-Waterproof-Training-Leash-Long/dp/B0F1XZDSZC"
     }
   ],
   "dog trail etiquette leash laws wildlife safety": [
     {
-      "url": "https://barksandrecct.com/2024/05/13/a-guide-to-hiking-trail-etiquette-for-pet-parents/",
-      "title": "A Guide to Hiking Trail Etiquette for Pet Parents - Barks and Recreation"
+      "title": "The TGR Guide to Mountain Biking With Your Dog",
+      "url": "https://www.tetongravity.com/the-ultimate-guide-to-hitting-the-trails-with-your-dog/"
     },
     {
-      "url": "https://1minutedog.com/blog/top-things-to-know-before-hiking-with-your-dog/",
-      "title": "Top Things To Know Before Hiking with Your... - 1 Minute Dog Training"
+      "title": "A Guide to Hiking Trail Etiquette for Pet Parents - Barks and Recreation",
+      "url": "https://barksandrecct.com/2024/05/13/a-guide-to-hiking-trail-etiquette-for-pet-parents/"
     },
     {
-      "url": "https://www.tripsavvy.com/everything-to-know-about-hiking-with-your-dog-5180119",
-      "title": "Everything to Know About Hiking With Your Dog"
+      "title": "Top Things To Know Before Hiking with Your... - 1 Minute Dog Training",
+      "url": "https://1minutedog.com/blog/top-things-to-know-before-hiking-with-your-dog/"
     },
     {
-      "url": "https://medium.com/@maggieytheisen/hiking-with-dogs-trail-etiquette-63472699c152",
-      "title": "Hiking With Dogs : Trail Etiquette | by Maggie Theisen | Medium"
+      "title": "Everything to Know About Hiking With Your Dog",
+      "url": "https://www.tripsavvy.com/everything-to-know-about-hiking-with-your-dog-5180119"
+    },
+    {
+      "title": "Hiking With Dogs : Trail Etiquette | by Maggie Theisen | Medium",
+      "url": "https://medium.com/@maggieytheisen/hiking-with-dogs-trail-etiquette-63472699c152"
     }
   ],
   "split meals to slow eating cat puzzle tips": [
     {
-      "url": "https://www.catology.com.au/cat-food-puzzles/",
-      "title": "Cat Food Puzzles Are A Great Way To Enrich Their Lives | Catology"
+      "title": "Cat Food Puzzles Are A Great Way To Enrich Their Lives | Catology",
+      "url": "https://www.catology.com.au/cat-food-puzzles/"
     },
     {
-      "url": "https://www.tiktok.com/@tabbyandtuxedocat/video/7567943887981989133",
-      "title": "Best Cat Slow Feeder Options for Fast Eaters | TikTok"
+      "title": "Best Cat Slow Feeder Options for Fast Eaters | TikTok",
+      "url": "https://www.tiktok.com/@tabbyandtuxedocat/video/7567943887981989133"
     },
     {
-      "url": "https://mrbosscat.com/best-cat-food-bowls-to-slow-down-eating/",
-      "title": "Best Cat Food Bowls to Slow Down Eating (Top 6 Slow Feeders)"
+      "title": "Best Cat Food Bowls to Slow Down Eating (Top 6 Slow Feeders)",
+      "url": "https://mrbosscat.com/best-cat-food-bowls-to-slow-down-eating/"
     },
     {
-      "url": "https://www.amazon.com/Cat-Dispenser-Dispensing-Enrichment-Stimulation/dp/B0FPQVC8KJ",
-      "title": "Amazon.com: Cat Puzzle Toy Treat Dispenser Kitten Weight Loss..."
+      "title": "Amazon.com: Cat Puzzle Toy Treat Dispenser Kitten Weight Loss...",
+      "url": "https://www.amazon.com/Cat-Dispenser-Dispensing-Enrichment-Stimulation/dp/B0FPQVC8KJ"
+    },
+    {
+      "title": "\u0418\u0449\u0438\u0442\u0435 \u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0439\u0442\u0435 \u0438\u0434\u0435\u0438 \u043d\u0430 \u0442\u0435\u043c\u0443 \u00ab slow eating dog bowl\u00bb \u0432 Pinterest.",
+      "url": "https://ru.pinterest.com/ideas/slow-eating-dog-bowl/955807911784/"
     }
   ],
   "litter box placement multi species dog cat": [
     {
-      "url": "https://www.petmd.com/cat/behavior/best-and-worst-spots-your-cats-litter-box",
-      "title": "Best (and Worst) Spots for Your Cat \u2019s Litter Box | PetMD"
+      "title": "Best (and Worst) Spots for Your Cat \u2019s Litter Box | PetMD",
+      "url": "https://www.petmd.com/cat/behavior/best-and-worst-spots-your-cats-litter-box"
     },
     {
-      "url": "https://www.rover.com/blog/where-to-put-a-litter-box/",
-      "title": "Where to Put the Litter Box : Pros & Cons"
+      "title": "Where to Put the Litter Box : Pros & Cons",
+      "url": "https://www.rover.com/blog/where-to-put-a-litter-box/"
     },
     {
-      "url": "https://www.floofinsandco.com/potty-training-puppy-litter-box-placement-kitten/",
-      "title": "Potty Training And Litter Box Placement - Floofins & Co."
+      "title": "Best Places to Put the Litter Box - Small Apartment Tips",
+      "url": "https://www.litter-robot.com/blog/where-to-put-the-litter-box-in-a-small-house-or-apartment/"
+    },
+    {
+      "title": "How Many Litter Boxes Do You Need For 2 or More Cats ? - YouTube",
+      "url": "https://www.youtube.com/watch?v=RxiDM6ICQ8A"
+    },
+    {
+      "title": "Potty Training And Litter Box Placement - Floofins & Co.",
+      "url": "https://www.floofinsandco.com/potty-training-puppy-litter-box-placement-kitten/"
     }
   ],
   "introducing new scent trails urban environment": [
     {
-      "url": "https://dokumen.pub/urban-smellscapes-understanding-and-designing-city-smell-environments-0415662036-9780415662031.html",
-      "title": "Urban Smellscapes: Understanding and Designing... - DOKUMEN.PUB"
+      "title": "Urban Trails Plan | AustinTexas.gov",
+      "url": "https://www.austintexas.gov/page/urban-trails-plan"
+    },
+    {
+      "title": "What Are The Best Practices For Introducing ... - Shepherd Digest",
+      "url": "https://shepherddigest.com/what-are-the-best-practices-for-introducing-a-belgian-malinois-to-tracking-exercises/"
+    },
+    {
+      "title": "Urban Smellscapes: Understanding and Designing... - DOKUMEN.PUB",
+      "url": "https://dokumen.pub/urban-smellscapes-understanding-and-designing-city-smell-environments-0415662036-9780415662031.html"
+    },
+    {
+      "title": "Can deer smell better in the cold? - The Institute for Environmental ...",
+      "url": "https://iere.org/can-deer-smell-better-in-the-cold/"
+    },
+    {
+      "title": "Urban Trails",
+      "url": "https://www.changelabsolutions.org/sites/default/files/UrbanTrails_FactSht_20141106.pdf"
     }
   ],
   "Feline Grimace Scale poster": [
     {
-      "url": "https://www.amazon.com/Grimace-Posters-Painting-16x24inch-Unframe-style/dp/B0DNVCVPY8",
-      "title": "Feline Grimace Scale Fact Sheet Pet Health Posters Canvas Painting ..."
+      "title": "Feline Grimace Scale Fact Sheet Pet Health Posters Canvas Painting ...",
+      "url": "https://www.amazon.com/Grimace-Posters-Painting-16x24inch-Unframe-style/dp/B0DNVCVPY8"
     },
     {
-      "url": "https://www.felinegrimacescale.com/",
-      "title": "Feline Grimace Scale | Easy Acute Pain Assessment in Cats"
+      "title": "Feline Grimace Scale | Easy Acute Pain Assessment in Cats",
+      "url": "https://www.felinegrimacescale.com/"
     },
     {
-      "url": "https://www.yes-i-kahn.com/wp-content/uploads/ISFM-2025/Thera/Feline+Grimace+Scale+Download+Guide+Final.pdf",
-      "title": "PDF Downloading the Feline Grimace Scale (FGS) for feline acute pain management"
+      "title": "New website for the Feline Grimace Scale designed by WSAVA Global Pain ...",
+      "url": "https://wsava.org/updates/new-website-for-the-feline-grimace-scale-designed-by-wsava-global-pain-council-members/"
+    },
+    {
+      "title": "How to assess pain in cats using the Feline Grimace Scale",
+      "url": "https://improveinternational.com/us/clinical-library/how-to-assess-pain-in-cats-using-the-feline-grimace-scale"
+    },
+    {
+      "title": "PDF Downloading the Feline Grimace Scale (FGS) for feline acute pain management",
+      "url": "https://www.yes-i-kahn.com/wp-content/uploads/ISFM-2025/Thera/Feline+Grimace+Scale+Download+Guide+Final.pdf"
     }
   ],
   "neighborhood pet health workshop slide template": [
     {
-      "url": "https://slidesgo.com/theme/pet-caring-workshop",
-      "title": "Pet Caring Workshop | Google Slides & PowerPoint template"
+      "title": "Pet Caring Workshop | Google Slides & PowerPoint template",
+      "url": "https://slidesgo.com/theme/pet-caring-workshop"
     },
     {
-      "url": "https://www.canva.com/templates/s/veterinary/",
-      "title": "Free and customizable veterinary templates | Canva"
+      "title": "Free and customizable veterinary templates | Canva",
+      "url": "https://www.canva.com/templates/s/veterinary/"
     },
     {
-      "url": "https://www.slidekit.com/free-pet-care-and-veterinary-presentation-templates/",
-      "title": "Free Pet Care and Veterinary Presentation Templates"
+      "title": "Free Pet Care and Veterinary Presentation Templates",
+      "url": "https://www.slidekit.com/free-pet-care-and-veterinary-presentation-templates/"
     },
     {
-      "url": "https://www.slideteam.net/top-10-pets-powerpoint-presentation-templates",
-      "title": "Top 10 Pets PowerPoint Presentation Templates in 2026 - SlideTeam"
+      "title": "Top 10 Pets PowerPoint Presentation Templates in 2026 - SlideTeam",
+      "url": "https://www.slideteam.net/top-10-pets-powerpoint-presentation-templates"
     },
     {
-      "url": "https://www.slideegg.com/free-pet-powerpoint-templates",
-      "title": "Get this Pet PowerPoint and Google Slides Templates"
+      "title": "Get this Pet PowerPoint and Google Slides Templates",
+      "url": "https://www.slideegg.com/free-pet-powerpoint-templates"
     }
   ]
 }

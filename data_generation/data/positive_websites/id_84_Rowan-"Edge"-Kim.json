@@ -1,1403 +1,2202 @@
 {
   "Sleeper fantasy API documentation": [
     {
-      "url": "https://docs.sleeper.com/",
-      "title": "introduction - Sleeper API"
+      "title": "introduction - Sleeper API",
+      "url": "https://docs.sleeper.com/"
     },
     {
-      "url": "https://sleeper-api-client.readthedocs.io/en/stable/introduction.html",
-      "title": "Introduction \u2014 Sleeper API client stable documentation"
+      "title": "A Comprehensive Guide to the Sleeper API | Zuplo Learning Center",
+      "url": "https://zuplo.com/learning-center/sleeper-api"
     },
     {
-      "url": "https://zuplo.com/learning-center/sleeper-api",
-      "title": "A Comprehensive Guide to the Sleeper API | Zuplo Learning Center"
+      "title": "Introduction \u2014 Sleeper API client stable documentation",
+      "url": "https://sleeper-api-client.readthedocs.io/en/stable/introduction.html"
+    },
+    {
+      "title": "sleeper-api-wrapper \u00b7 PyPI",
+      "url": "https://pypi.org/project/sleeper-api-wrapper/"
+    },
+    {
+      "title": "Step-by-Step Guide to Integrating the Sleeper API into Your Fantasy App",
+      "url": "https://www.sportsfirst.net/post/step-by-step-guide-to-integrating-the-sleeper-api-into-your-fantasy-app"
     }
   ],
   "Yahoo Fantasy Sports API league endpoints": [
     {
-      "url": "https://developer.yahoo.com/fantasysports/guide/?origin=firstnet",
-      "title": "Fantasy Sports API - Yahoo Developer Network"
+      "title": "Fantasy Sports API - Yahoo Developer Network",
+      "url": "https://developer.yahoo.com/fantasysports/guide/?origin=firstnet"
     },
     {
-      "url": "https://github.com/whatadewitt/yahoo-fantasy-sports-api",
-      "title": "GitHub - whatadewitt/ yahoo - fantasy - sports - api : NodeJS wrapper for..."
+      "title": "GitHub - whatadewitt/ yahoo - fantasy - sports - api : NodeJS wrapper for...",
+      "url": "https://github.com/whatadewitt/yahoo-fantasy-sports-api"
     },
     {
-      "url": "https://yahoo-fantasy-api.readthedocs.io/en/latest/yahoo_fantasy_api.html",
-      "title": "Documentation \u2014 yahoo _ fantasy _ api documentation"
+      "title": "Documentation \u2014 yahoo _ fantasy _ api documentation",
+      "url": "https://yahoo-fantasy-api.readthedocs.io/en/latest/yahoo_fantasy_api.html"
     },
     {
-      "url": "https://stackoverflow.com/questions/tagged/yahoo-fantasysports-api?tab=Votes",
-      "title": "Highest scored ' yahoo - fantasysports - api ' questions - Stack Overflow"
+      "title": "Highest scored ' yahoo - fantasysports - api ' questions - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/tagged/yahoo-fantasysports-api?tab=Votes"
+    },
+    {
+      "title": "NFL API Reference",
+      "url": "https://www.lineupexperts.com/API-Football-Reference"
     }
   ],
   "ESPN fantasy API python wrapper": [
     {
-      "url": "https://github.com/cwendt94/espn-api",
-      "title": "ESPN Fantasy API! (Football, Basketball) - GitHub"
+      "title": "ESPN Fantasy API! (Football, Basketball) - GitHub",
+      "url": "https://github.com/cwendt94/espn-api"
     },
     {
-      "url": "https://pypi.org/project/espn-api/",
-      "title": "espn-api \u00b7 PyPI"
+      "title": "espn-api \u00b7 PyPI",
+      "url": "https://pypi.org/project/espn-api/"
     },
     {
-      "url": "https://deepwiki.com/cwendt94/espn-api",
-      "title": "cwendt94/espn-api | DeepWiki"
+      "title": "cwendt94/espn-api | DeepWiki",
+      "url": "https://deepwiki.com/cwendt94/espn-api"
+    },
+    {
+      "title": "Pulling ESPN Fantasy Football Data w/ Python & ESPN API - Reddit",
+      "url": "https://www.reddit.com/r/fantasyfootball/comments/xbz5xa/pulling_espn_fantasy_football_data_w_python_espn/"
+    },
+    {
+      "title": "Using ESPN's new Fantasy API (v3) | Steven Morse",
+      "url": "https://stmorse.github.io/journal/espn-fantasy-v3.html"
     }
   ],
   "Fantrax export roster CSV": [
     {
-      "url": "https://www.reddit.com/r/fantasybaseball/comments/3yt4r6/fantrax_question_export_all_rosters/",
-      "title": "Fantrax Question - export all rosters? : r/fantasybaseball"
+      "title": "How to export OTM FPL Draftkit rankings to Fantrax (2025/26)",
+      "url": "https://www.fpldraftkit.com/guides/fantrax-export"
     },
     {
-      "url": "https://github.com/maestor/node-fantrax-stats-parser",
-      "title": "GitHub - maestor/node-fantrax-stats-parser: Parsing my NHL ... Scraping/importing league data? : r/fantasybaseball - Reddit Google Sheets and Fantrax : r/fantasybaseball - Reddit Hashtag Basketball User Guides | Hashtag Basketball Importing dobber's list into Fantrax"
+      "title": "Fantrax Question - export all rosters? : r/fantasybaseball",
+      "url": "https://www.reddit.com/r/fantasybaseball/comments/3yt4r6/fantrax_question_export_all_rosters/"
     },
     {
-      "url": "https://www.reddit.com/r/fantasybaseball/comments/tsyrwj/google_sheets_and_fantrax/",
-      "title": "Google Sheets and Fantrax : r/fantasybaseball - Reddit"
+      "title": "GitHub - maestor/node-fantrax-stats-parser: Parsing my NHL ... Scraping/importing league data? : r/fantasybaseball - Reddit Google Sheets and Fantrax : r/fantasybaseball - Reddit Hashtag Basketball User Guides | Hashtag Basketball Importing dobber's list into Fantrax",
+      "url": "https://github.com/maestor/node-fantrax-stats-parser"
+    },
+    {
+      "title": "Google Sheets and Fantrax : r/fantasybaseball - Reddit",
+      "url": "https://www.reddit.com/r/fantasybaseball/comments/tsyrwj/google_sheets_and_fantrax/"
+    },
+    {
+      "title": "Importing dobber's list into Fantrax",
+      "url": "https://forums.dobbersports.com/showthread.php?237354-Importing-dobber-s-list-into-Fantrax"
     }
   ],
   "Odds API NFL team totals endpoint": [
     {
-      "url": "https://the-odds-api.com/",
-      "title": "Sports Odds API | The Odds API"
+      "title": "Sports Odds API | The Odds API",
+      "url": "https://the-odds-api.com/"
     },
     {
-      "url": "https://rapidapi.com/theoddsapi/api/live-sports-odds",
-      "title": "Live Sports Odds"
+      "title": "Live Sports Odds",
+      "url": "https://rapidapi.com/theoddsapi/api/live-sports-odds"
+    },
+    {
+      "title": "Best Nfl APIs | Zyla API Hub",
+      "url": "https://zylalabs.com/api-marketplace/top-search/nfl"
+    },
+    {
+      "title": "Live Sports Data Feeds API | Live Score API Provider | Goalserve",
+      "url": "https://www.goalserve.com/"
+    },
+    {
+      "title": "Affordable football API - APIfootball",
+      "url": "https://apifootball.com/"
     }
   ],
   "Vegas implied totals week 7 CSV": [
     {
-      "url": "https://www.thefantasyfootballers.com/dfs/nfl-dfs-vegas-report-for-week-7-fantasy-football-4/",
-      "title": "NFL DFS Vegas Report for Week 7 (Fantasy Football)"
+      "title": "2025 NFL Implied Totals - Week 16 | EDSFootball",
+      "url": "https://eatdrinkandsleepfootball.com/fantasy/vegas-odds.html"
     },
     {
-      "url": "https://www.statmuse.com/nfl/ask/week-7-nfl-implied-team-totals",
-      "title": "week 7 NFL implied team totals - StatMuse"
+      "title": "NFL Odds Today (2025): Lines, Spreads & Totals | RotoWire",
+      "url": "https://www.rotowire.com/betting/nfl/odds"
+    },
+    {
+      "title": "NFL DFS Vegas Report for Week 7 (Fantasy Football)",
+      "url": "https://www.thefantasyfootballers.com/dfs/nfl-dfs-vegas-report-for-week-7-fantasy-football-4/"
+    },
+    {
+      "title": "Use These Implied Totals To Uncover Sleepers & Avoid Busts",
+      "url": "https://www.draftsharks.com/article/best-worst-offenses-vegas"
+    },
+    {
+      "title": "week 7 NFL implied team totals - StatMuse",
+      "url": "https://www.statmuse.com/nfl/ask/week-7-nfl-implied-team-totals"
     }
   ],
-  "beat writer list by NFL team 2025": [],
-  "NBA back to back schedule this week": [
+  "beat writer list by NFL team 2025": [
     {
-      "url": "https://hashtagbasketball.com/advanced-nba-schedule-grid",
-      "title": "Advanced NBA Schedule Grid | Hashtag Basketball"
+      "title": "NFL Week 16 Power Rankings 2025 : How all 32 teams stack up - ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/47315735/nfl-week-16-power-rankings-poll-32-teams-2025-offseason-contract-extensions"
     },
     {
-      "url": "https://www.rotowire.com/basketball/schedules.php",
-      "title": "NBA Schedules - Upcoming Games and Dates For Every NBA Team"
+      "title": "New England Patriots News, Scores and Stats 2025 -26 - CBS Sports",
+      "url": "https://www.cbssports.com/nfl/teams/NE/new-england-patriots/"
+    },
+    {
+      "title": "Patriots beat writer just confirmed what Bills fans were thinking about...",
+      "url": "https://buffalowdown.com/patriots-beat-writer-just-confirmed-what-bills-fans-were-thinking-about-a-third-clash-01kc2expcbhy"
+    },
+    {
+      "title": "2025 NFL Mock Draft \u2013 WalterFootball",
+      "url": "https://walterfootball.com/draft2025.php"
+    },
+    {
+      "title": "Which Raiders are set to become free agents in 2025 ?",
+      "url": "https://www.raiders.com/news/raiders-2025-free-agents-list-nfl-free-agency"
+    }
+  ],
+  "NBA back to back schedule this week": [
+    {
+      "title": "Advanced NBA Schedule Grid | Hashtag Basketball",
+      "url": "https://hashtagbasketball.com/advanced-nba-schedule-grid"
+    },
+    {
+      "title": "NBA Schedule - NBA Games & Events | NBA.com",
+      "url": "https://www.nba.com/schedule"
+    },
+    {
+      "title": "NBA Basketball Schedule - ESPN",
+      "url": "https://www.espn.com/basketball/schedule"
+    },
+    {
+      "title": "Schedule Grid - Basketball Monster NBA Schedules - Upcoming Games and Dates For Every NBA Team NBA Schedule 2025-26 | NBA Full Season Calendar | NBA Schedule Tod\u2026 NBA Schedule 2025-26 | NBA Full Season Calendar | NBA Schedule Tod\u2026 NBA Schedule 2025-26 | NBA Full Season Calendar | NBA Schedule Tod\u2026 NBA Schedule 2025-26 | NBA Full Season Calendar | NBA Schedule Tod\u2026 NBA Schedule 2025-26 | NBA Full Season Calendar | NBA ...",
+      "url": "https://basketballmonster.com/ScheduleGrid.aspx"
+    },
+    {
+      "title": "NBA Schedules - Upcoming Games and Dates For Every NBA Team",
+      "url": "https://www.rotowire.com/basketball/schedules.php"
     }
   ],
   "MLB probable starters with pitch counts": [
     {
-      "url": "https://www.fangraphs.com/roster-resource/probables-grid",
-      "title": "RosterResource - Probables Grid - FanGraphs Baseball"
+      "title": "Baseball Probable Pitchers - MLB.com",
+      "url": "https://www.mlb.com/probable-pitchers"
+    },
+    {
+      "title": "RosterResource - Probables Grid - FanGraphs Baseball",
+      "url": "https://www.fangraphs.com/roster-resource/probables-grid"
+    },
+    {
+      "title": "Fantasy baseball forecaster: Pitcher projections for the next ... 2025 MLB Probable Pitchers Today | Starters for each game Pitcher Matchups Tool (PvB): Today's Fantasy Baseball ... First Things First! MLB Probable Starters + Underdog Winners MLB Probable Pitchers 2025 | Next 7 days (July 30-August 5 Probable Starting Pitchers - MLB Baseball | Odds Shark Pitcher Matchups Tool (PvB): Today's Fantasy Baseball ... - RotoBaller Pitcher Matchups Tool (PvB): Today's Fantasy Baseball ... - RotoBaller Probable Starting Pitchers - MLB Baseball | Odds Shark",
+      "url": "https://www.espn.com/fantasy/baseball/story/_/id/31165100/fantasy-baseball-forecaster-probable-starting-pitcher-projections-matchups-daily-weekly-leagues"
+    },
+    {
+      "title": "2025 MLB Probable Pitchers Today | Starters for each game",
+      "url": "https://fantasyteamadvice.com/mlb-probable-starters-starting-pitchers-today"
+    },
+    {
+      "title": "Pitcher Matchups Tool (PvB): Today's Fantasy Baseball ... First Things First! MLB Probable Starters + Underdog Winners MLB Probable Pitchers 2025 | Next 7 days (July 30-August 5 Probable Starting Pitchers - MLB Baseball | Odds Shark Pitcher Matchups Tool (PvB): Today's Fantasy Baseball ... - RotoBaller Pitcher Matchups Tool (PvB): Today's Fantasy Baseball ... - RotoBaller Probable Starting Pitchers - MLB Baseball | Odds Shark",
+      "url": "https://www.rotoballer.com/starting-pitcher-dfs-matchups-streamers-tool"
     }
   ],
   "EPL xG rolling last 5 matches dataset": [
     {
-      "url": "https://understat.com/league/EPL",
-      "title": "EPL xG Table and Scorers for the 2025/2026 season | Understat.com"
+      "title": "EPL xG Table and Scorers for the 2025/2026 season | Understat.com",
+      "url": "https://understat.com/league/EPL"
     },
     {
-      "url": "https://fbref.com/en/comps/9/Premier-League-Stats",
-      "title": "Check out 2025-2026 for the Premier League Stats season. | FBref.com"
+      "title": "Check out 2025-2026 for the Premier League Stats season. | FBref.com",
+      "url": "https://fbref.com/en/comps/9/Premier-League-Stats"
+    },
+    {
+      "title": "Premier League First Team Club Statistics, Team & Player Stats",
+      "url": "https://www.premierleague.com/en/stats"
+    },
+    {
+      "title": "GitHub - tonyelhabr/sports_viz: code and plots for viz I put on social...",
+      "url": "https://github.com/tonyelhabr/sports_viz"
+    },
+    {
+      "title": "Newcastle vs Man City | English Premier League | score808",
+      "url": "https://www.808goalgoal.com/football/2789247-newcastle-united-vs-manchester-city.html"
     }
   ],
   "aDOT leaderboard 2025 season": [
     {
-      "url": "https://www.fantasypros.com/nfl/advanced-stats-wr.php",
-      "title": "2025 Advanced Wide Receiver Stats | NFL Metrics | FantasyPros"
+      "title": "NFL Player Stat Leaders, 2025 Regular Season - ESPN",
+      "url": "https://www.espn.com/nfl/stats"
+    },
+    {
+      "title": "2025 NFL Leaders and Leaderboards | Pro-Football-Reference.com",
+      "url": "https://www.pro-football-reference.com/years/2025/leaders.htm"
+    },
+    {
+      "title": "2025 Advanced Wide Receiver Stats | NFL Metrics | FantasyPros",
+      "url": "https://www.fantasypros.com/nfl/advanced-stats-wr.php"
+    },
+    {
+      "title": "2025 NFL Season - The Football Database",
+      "url": "https://www.footballdb.com/seasons/nfl/2025"
+    },
+    {
+      "title": "2025 NFL Leaders & Stats - Scoring Stats | FOX Sports",
+      "url": "https://www.foxsports.com/nfl/stats?category=scoring&season=2025"
     }
   ],
   "WR vs CB matchups week 8": [
     {
-      "url": "https://www.rotowire.com/football/article/wide-receivers-vs-cornerbacks-matchups-report-week-8-overview-97699",
-      "title": "WR vs. CB Matchups Report: Week 8 - RotoWire"
+      "title": "WR vs. CB Matchups Report: Week 8 - RotoWire",
+      "url": "https://www.rotowire.com/football/article/wide-receivers-vs-cornerbacks-matchups-report-week-8-overview-97699"
     },
     {
-      "url": "https://www.rotoballer.com/wr-cb-matchups-for-fantasy-football-sleepers-targets-for-week-8-2025/1732461",
-      "title": "WR/CB Matchups for Fantasy Football: Sleepers, Targets for ..."
+      "title": "WR/CB Matchups for Fantasy Football: Sleepers, Targets for ...",
+      "url": "https://www.rotoballer.com/wr-cb-matchups-for-fantasy-football-sleepers-targets-for-week-8-2025/1732461"
     },
     {
-      "url": "https://www.si.com/onsi/fantasy/start-em-sit-em/fantasy-football-week-8-wr-cb-matchups-jamarr-chase-dk-metcalf",
-      "title": "Fantasy Football Week 8 WR/CB Matchups: Ja'Marr Chase Looks ..."
+      "title": "Fantasy Football Week 8 WR/CB Matchups: Ja'Marr Chase Looks ...",
+      "url": "https://www.si.com/onsi/fantasy/start-em-sit-em/fantasy-football-week-8-wr-cb-matchups-jamarr-chase-dk-metcalf"
     },
     {
-      "url": "https://www.fanduel.com/research/fantasy-football-3-wide-receiver-cornerback-matchups-to-target-in-week-8-wr-cb",
-      "title": "Fantasy Football: 3 Wide Receiver-Cornerback Matchups to ..."
+      "title": "Fantasy Football: 3 Wide Receiver-Cornerback Matchups to ...",
+      "url": "https://www.fanduel.com/research/fantasy-football-3-wide-receiver-cornerback-matchups-to-target-in-week-8-wr-cb"
     },
     {
-      "url": "https://collegefootballnetwork.com/nfl/wr-cb-week-8-fantasy/",
-      "title": "Top 3 WR/CB Matchups for Week 8 Fantasy Football: Start/Sit ..."
+      "title": "Top 3 WR/CB Matchups for Week 8 Fantasy Football: Start/Sit ...",
+      "url": "https://collegefootballnetwork.com/nfl/wr-cb-week-8-fantasy/"
     }
   ],
   "RB snap counts by situation inside 10": [
     {
-      "url": "https://fantasydata.com/nfl/nfl-snap-counts",
-      "title": "NFL Snap Counts - FantasyData"
+      "title": "2025 NFL Snap Count Leaders | Running Backs | FantasyPros",
+      "url": "https://www.fantasypros.com/nfl/reports/snap-counts/rb.php"
     },
     {
-      "url": "https://www.rotowire.com/football/snap-counts.php",
-      "title": "2025 NFL Snap Counts | RotoWire"
+      "title": "Running Back (RB) Snap Counts 2025-26 - Lineups",
+      "url": "https://www.lineups.com/nfl/snap-counts/running-back-rb-snap-counts"
+    },
+    {
+      "title": "Snap Counts by Team - Footballguys",
+      "url": "https://www.footballguys.com/stats/snap-counts/teams"
+    },
+    {
+      "title": "NFL Snap Counts - FantasyData",
+      "url": "https://fantasydata.com/nfl/nfl-snap-counts"
+    },
+    {
+      "title": "2025 NFL Snap Counts | RotoWire",
+      "url": "https://www.rotowire.com/football/snap-counts.php"
     }
   ],
   "TE route participation rates week 6": [
     {
-      "url": "https://www.rotowire.com/football/te-route-data.php",
-      "title": "2025 TE Route Data | RotoWire"
+      "title": "2025 TE Route Data | RotoWire",
+      "url": "https://www.rotowire.com/football/te-route-data.php"
+    },
+    {
+      "title": "Week 6 TE Rankings 2025 (Updated) - DraftSharks",
+      "url": "https://www.draftsharks.com/weekly-rankings/6/te"
+    },
+    {
+      "title": "Fantasy Football Week 6 Usage Report: Chase Brown, Travis Hunter and More",
+      "url": "https://www.fantasysp.com/news/nfl/3055729/fantasy-football-week-6-usage-report"
+    },
+    {
+      "title": "Week 6 NFL DFS TE Breakdown: Top Cash Game and Tournament Picks",
+      "url": "https://www.fantasylabs.com/articles/week-6-nfl-dfs-te-breakdown-top-cash-game-and-tournament-picks-2/"
+    },
+    {
+      "title": "Week 6 TE Fantasy Football Rankings",
+      "url": "https://fantasyfootballcalculator.com/rankings/week-6/te"
     }
   ],
   "target share trend chart tool": [
     {
-      "url": "https://www.marketbeat.com/stocks/NYSE/TGT/chart/",
-      "title": "Target (TGT) Stock Chart and Price History 2025 - MarketBeat"
+      "title": "Target Trend [BigBeluga] - TradingView",
+      "url": "https://www.tradingview.com/script/QoUmKd1H-Target-Trend-BigBeluga/"
     },
     {
-      "url": "https://finance.yahoo.com/quote/TGT/chart/?fr=sycsrp_catchall",
-      "title": "Target Corporation (TGT) Interactive Stock Chart - Yahoo Finance"
+      "title": "Trend Targets [AlgoAlpha] \u2014 Indicator by ... - TradingView",
+      "url": "https://www.tradingview.com/script/OXsSm5NV-Trend-Targets-AlgoAlpha/"
     },
     {
-      "url": "https://stockcharts.com/freecharts/",
-      "title": "Financial Charts & Analysis Tools | StockCharts.com"
+      "title": "Target (TGT) Stock Chart and Price History 2025 - MarketBeat",
+      "url": "https://www.marketbeat.com/stocks/NYSE/TGT/chart/"
+    },
+    {
+      "title": "Target Corporation (TGT) Interactive Stock Chart - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/TGT/chart/?fr=sycsrp_catchall"
+    },
+    {
+      "title": "Financial Charts & Analysis Tools | StockCharts.com",
+      "url": "https://stockcharts.com/freecharts/"
     }
   ],
   "air yards per game download": [
     {
-      "url": "https://ftnfantasy.com/nfl/air-yards",
-      "title": "Air Yards: 2025 NFL Stats for Fantasy Football"
+      "title": "Air Yards: 2025 NFL Stats for Fantasy Football",
+      "url": "https://ftnfantasy.com/nfl/air-yards"
     },
     {
-      "url": "https://www.4for4.com/tools/air-yards",
-      "title": "Air Yards App - 4for4"
+      "title": "NFL Team Opponent Passing Yards per Game - TeamRankings.com",
+      "url": "https://www.teamrankings.com/nfl/stat/opponent-passing-yards-per-game"
     },
     {
-      "url": "https://www.fantasylife.com/tools/air-yards",
-      "title": "NFL Air Yards and Related Stats - Fantasy Life"
+      "title": "Air Yards App - 4for4",
+      "url": "https://www.4for4.com/tools/air-yards"
     },
     {
-      "url": "https://statrankings.com/nfl/advanced/players/receiving/air-yards",
-      "title": "Air Yards - NFL Advanced Stats - statrankings.com"
+      "title": "NFL Air Yards and Related Stats - Fantasy Life",
+      "url": "https://www.fantasylife.com/tools/air-yards"
+    },
+    {
+      "title": "Air Yards - NFL Advanced Stats - statrankings.com",
+      "url": "https://statrankings.com/nfl/advanced/players/receiving/air-yards"
     }
   ],
   "QB pressure rate allowed by team": [
     {
-      "url": "https://ftnfantasy.com/nfl/caused-pressure-rates-2024-line-vs-qbs",
-      "title": "Caused Pressure Rates 2024: Line vs. QBs - ftnfantasy.com"
+      "title": "PFF Signature Stat Spotlight: Quarterback pressures",
+      "url": "https://www.pff.com/news/nfl-pff-signature-stat-spotlight-quarterback-pressures"
+    },
+    {
+      "title": "Qb Sacks And Pressures By Defense By Team | StatMuse",
+      "url": "https://www.statmuse.com/nfl/ask/qb-sacks-and-pressures-by-defense-by-team"
+    },
+    {
+      "title": "Pressure Rate - NFL Advanced Stats - statrankings.com",
+      "url": "https://statrankings.com/nfl/advanced/players/qb/pressure-rate"
+    },
+    {
+      "title": "Caused Pressure Rates 2024: Line vs. QBs - ftnfantasy.com",
+      "url": "https://ftnfantasy.com/nfl/caused-pressure-rates-2024-line-vs-qbs"
+    },
+    {
+      "title": "How the Broncos and the NFL got quarterback pressures in 2024",
+      "url": "https://www.milehighreport.com/2025/2/27/24374117/how-broncos-and-nfl-got-quarterback-pressures-2024"
     }
   ],
   "offensive pace seconds per play NFL": [
     {
-      "url": "https://statrankings.com/nfl/teams/offense/seconds-per-play",
-      "title": "Seconds Per Play - NFL Team Stats"
+      "title": "Seconds Per Play - NFL Team Stats",
+      "url": "https://statrankings.com/nfl/teams/offense/seconds-per-play"
     },
     {
-      "url": "https://www.sharpfootballanalysis.com/nfl-stats/offense/play-frequency/run-pass-pace-of-play-2020/",
-      "title": "2020 NFL Run & Pass Offensive Pace of Play | Sharp Football Analysis"
+      "title": "2020 NFL Run & Pass Offensive Pace of Play | Sharp Football Analysis",
+      "url": "https://www.sharpfootballanalysis.com/nfl-stats/offense/play-frequency/run-pass-pace-of-play-2020/"
+    },
+    {
+      "title": "The NFL may have finally embraced the up-tempo... - SBNation.com",
+      "url": "https://www.sbnation.com/2015/9/17/9341163/nfl-offensive-pace-hurry-up-no-huddle-chip-kelly-eagles"
+    },
+    {
+      "title": "Akash Anavarathan on Twitter: \"#49ers' offensive pace is so slow and.....",
+      "url": "https://twitter.com/akashanav/status/1582450057521287168"
+    },
+    {
+      "title": "4 Fantasy Football Sleepers to Target: Wide Receivers... | FantasyPros",
+      "url": "https://www.fantasypros.com/2025/08/4-fantasy-football-sleepers-to-target-wide-receivers/"
     }
   ],
   "weather wind threshold passing fantasy": [
     {
-      "url": "https://www.thefantasyfootballers.com/articles/the-fantasy-football-mythbusters-whether-weather-really-matters/",
-      "title": "The Fantasy Football Mythbusters: Whether Weather Really ..."
+      "title": "The Fantasy Football Mythbusters: Whether Weather Really ...",
+      "url": "https://www.thefantasyfootballers.com/articles/the-fantasy-football-mythbusters-whether-weather-really-matters/"
     },
     {
-      "url": "https://tldrfantasy.com/fantasy_football_weather_impact",
-      "title": "Weather Impact on Fantasy Football | TLDR Fantasy"
+      "title": "Weather Impact on Fantasy Football | TLDR Fantasy",
+      "url": "https://tldrfantasy.com/fantasy_football_weather_impact"
     },
     {
-      "url": "https://www.fantasylife.com/articles/best-ball/does-wind-matter-in-fantasy-football",
-      "title": "Does Wind Matter in Fantasy Football? - fantasylife.com"
+      "title": "Does Wind Matter in Fantasy Football? - fantasylife.com",
+      "url": "https://www.fantasylife.com/articles/best-ball/does-wind-matter-in-fantasy-football"
+    },
+    {
+      "title": "Week 15 NFL Weather: Fantasy Football Start/Sit Decisions ...",
+      "url": "https://www.rotoballer.com/week-15-nfl-weather-fantasy-football-start-sit-decisions-2025/1774007"
+    },
+    {
+      "title": "NFL Weather Report - Fantasy Impact Analysis | PFSN",
+      "url": "https://www.profootballnetwork.com/fantasy/football/weather-report"
     }
   ],
   "stadium roof status tracker": [
     {
-      "url": "https://stadiumroofstatus.com/",
-      "title": "Stadium Roof Status - Is it Open or Closed?"
+      "title": "Stadium Roof Status - Is it Open or Closed?",
+      "url": "https://stadiumroofstatus.com/"
     },
     {
-      "url": "https://www.mlb.com/brewers/ballpark/roof-status",
-      "title": "Roof Status | American Family Field | Milwaukee Brewers"
+      "title": "Roof Status | American Family Field | Milwaukee Brewers",
+      "url": "https://www.mlb.com/brewers/ballpark/roof-status"
+    },
+    {
+      "title": "Lucas Oil Stadium Roof Status: Unpacking the Retractable ...",
+      "url": "https://www.elmelaab.net/lucas-oil-stadium-roof-status/"
+    },
+    {
+      "title": "stadiumroofstatus.com - Stadium Roof Status - Is it Op ...",
+      "url": "https://sur.ly/i/stadiumroofstatus.com/"
+    },
+    {
+      "title": "Colts Roof Open Today: How to Check Lucas Oil Stadium Roof Status",
+      "url": "https://www.newenglandmetalroof.com/colts-roof-open-today-how-check-lucas-oil-stadium-roof/"
     }
   ],
   "kickoff weather radar Sunday": [
     {
-      "url": "https://www.weatherandradar.com/weather-map",
-      "title": "WeatherRadar \u2013 Rain, snow, storms and clouds live"
+      "title": "Sunday , MD Weather Forecast | AccuWeather",
+      "url": "https://www.accuweather.com/en/us/sunday/21788/weather-forecast/2169647"
     },
     {
-      "url": "https://www.wxow.com/weather/interactive-radar/",
-      "title": "wxow.com/ weather /interactive- radar"
+      "title": "WBRZ News 2 Louisiana : Baton Rouge, LA | WBRZ Weather",
+      "url": "https://www.wbrz.com/weather/"
     },
     {
-      "url": "https://www.nbcboston.com/weather/storm-forecast-boston-massachusetts-sunday-radar/3771831/",
-      "title": "Boston, MA storm warnings, watch \u2014 weather map and live radar ..."
+      "title": "WeatherRadar \u2013 Rain, snow, storms and clouds live",
+      "url": "https://www.weatherandradar.com/weather-map"
+    },
+    {
+      "title": "wxow.com/ weather /interactive- radar",
+      "url": "https://www.wxow.com/weather/interactive-radar/"
+    },
+    {
+      "title": "Boston, MA storm warnings, watch \u2014 weather map and live radar ...",
+      "url": "https://www.nbcboston.com/weather/storm-forecast-boston-massachusetts-sunday-radar/3771831/"
     }
   ],
   "late swap strategy DFS NFL": [
     {
-      "url": "https://www.stokastic.com/news/nfl-dfs-late-swap-strategy-with-stokastics-nfl-dfs-sims-ac11/",
-      "title": "NFL DFS Late Swap Strategy with Stokastic's NFL DFS Sims"
+      "title": "NFL DFS Late Swap Strategy with Stokastic's NFL DFS Sims",
+      "url": "https://www.stokastic.com/news/nfl-dfs-late-swap-strategy-with-stokastics-nfl-dfs-sims-ac11/"
     },
     {
-      "url": "https://www.sabersim.com/video/how-to-late-swap-in-nfl-dfs",
-      "title": "How to Late Swap in NFL DFS: A Real-Time Tutorial"
+      "title": "How to Late Swap in NFL DFS: A Real-Time Tutorial",
+      "url": "https://www.sabersim.com/video/how-to-late-swap-in-nfl-dfs"
     },
     {
-      "url": "https://hellorookie.com/leveraging-in-game-and-late-swap-strategies-in-dfs/",
-      "title": "Leveraging In-Game and Late Swap Strategies in DFS"
+      "title": "Leveraging In-Game and Late Swap Strategies in DFS",
+      "url": "https://hellorookie.com/leveraging-in-game-and-late-swap-strategies-in-dfs/"
     },
     {
-      "url": "https://tldrfantasy.com/fantasy_football_late_swap_strategy",
-      "title": "Late Swap Strategy in DFS | TLDR Fantasy"
+      "title": "Late Swap Strategy in DFS | TLDR Fantasy",
+      "url": "https://tldrfantasy.com/fantasy_football_late_swap_strategy"
     },
     {
-      "url": "https://sabersim.castos.com/episodes/dfs-qa-how-should-you-handle-nfl-late-swap-between-builds",
-      "title": "DFS Q&A: How Should You Handle NFL Late Swap Between Builds?"
+      "title": "DFS Q&A: How Should You Handle NFL Late Swap Between Builds?",
+      "url": "https://sabersim.castos.com/episodes/dfs-qa-how-should-you-handle-nfl-late-swap-between-builds"
     }
   ],
   "DFS ownership projections free": [
     {
-      "url": "https://www.sportsgambler.com/dfs-school/ownership-projections/",
-      "title": "Free DFS Ownership Projections : Get Accurate Player Insights"
+      "title": "Free DFS Ownership Projections : Get Accurate Player Insights",
+      "url": "https://www.sportsgambler.com/dfs-school/ownership-projections/"
     },
     {
-      "url": "https://www.stokastic.com/nba/nba-night-slate-ownership-projections/",
-      "title": "DraftKings & FanDuel NBA DFS Ownership - Night Slate"
+      "title": "DraftKings & FanDuel NBA DFS Ownership - Night Slate",
+      "url": "https://www.stokastic.com/nba/nba-night-slate-ownership-projections/"
     },
     {
-      "url": "https://www.gamechampions.com/en/reviews/fantasy-sports/guide/ownership-projections/mlb/",
-      "title": "MLB DFS Ownership Projections | Check Ownership Percentage"
+      "title": "MLB DFS Ownership Projections | Check Ownership Percentage",
+      "url": "https://www.gamechampions.com/en/reviews/fantasy-sports/guide/ownership-projections/mlb/"
+    },
+    {
+      "title": "2025 Week 15 DFS Main Slate Breakdown | Fantasy Points",
+      "url": "https://www.fantasypoints.com/nfl/articles/2025/week-15-dfs-main-slate-breakdown"
+    },
+    {
+      "title": "NFL Week 15 Fantasy Football DFS DraftKings Stacks And Value Plays",
+      "url": "https://www.forbes.com/sites/gladyslouisetyler/2025/12/13/nfl-week-15-fantasy-football-dfs-draftkings-stacks-and-value-plays/"
     }
   ],
   "Monte Carlo simulation fantasy lineup python": [
     {
-      "url": "https://pub.towardsai.net/monte-carlo-simulation-an-in-depth-tutorial-with-python-bcf6eb7856c8",
-      "title": "Monte Carlo Simulation An In-depth Tutorial with Python | Towards AI"
+      "title": "Monte Carlo Simulation An In-depth Tutorial with Python | Towards AI",
+      "url": "https://pub.towardsai.net/monte-carlo-simulation-an-in-depth-tutorial-with-python-bcf6eb7856c8"
     },
     {
-      "url": "https://stackoverflow.com/questions/55324452/improving-runtime-on-a-montecarlo-simulation-using-numpy",
-      "title": "python - Improving runtime on a MonteCarlo simulation using numpy"
+      "title": "Free Fantasy Monte Carlo Simulator Excel Template & Calculator",
+      "url": "https://sourcetable.com/excel-templates/fantasy-monte-carlo-simulator"
     },
     {
-      "url": "https://sourcetable.com/excel-templates/fantasy-monte-carlo-simulator",
-      "title": "Free Fantasy Monte Carlo Simulator Excel Template & Calculator"
+      "title": "Monte Carlo class usage \u2014 RocketPy 1.10.0 documentation",
+      "url": "https://docs.rocketpy.org/en/latest/notebooks/monte_carlo_analysis/monte_carlo_class_usage.html"
+    },
+    {
+      "title": "python - Improving runtime on a MonteCarlo simulation using numpy",
+      "url": "https://stackoverflow.com/questions/55324452/improving-runtime-on-a-montecarlo-simulation-using-numpy"
+    },
+    {
+      "title": "Pricing Barrier Options using Monte Carlo Simulation",
+      "url": "https://readmedium.com/pricing-barrier-options-using-monte-carlo-simulation-791ec54263ff"
     }
   ],
   "projection blending weights backtest": [
     {
-      "url": "https://www.portfoliovisualizer.com/backtest-portfolio",
-      "title": "Backtest Portfolio Asset Allocation"
+      "title": "Backtest Portfolio Asset Allocation",
+      "url": "https://www.portfoliovisualizer.com/backtest-portfolio"
     },
     {
-      "url": "https://www.lazyportfolioetf.com/portfolio-backtest-and-simulation/",
-      "title": "Portfolio Backtest and Simulation"
+      "title": "Portfolio Backtest and Simulation",
+      "url": "https://www.lazyportfolioetf.com/portfolio-backtest-and-simulation/"
     },
     {
-      "url": "https://www.futuresbacktest.com/docs/weighting/",
-      "title": "Weighting - FuturesBacktest PortfolioMetrics: Backtest Your Investment Strategy bt - Flexible Backtesting for Python \u2014 bt 0.2.10 documentation Portfolio Visualizer - ROB BERGER"
+      "title": "Weighting - FuturesBacktest PortfolioMetrics: Backtest Your Investment Strategy bt - Flexible Backtesting for Python \u2014 bt 0.2.10 documentation Portfolio Visualizer - ROB BERGER",
+      "url": "https://www.futuresbacktest.com/docs/weighting/"
     },
     {
-      "url": "https://portfoliometrics.net/",
-      "title": "PortfolioMetrics: Backtest Your Investment Strategy"
+      "title": "PortfolioMetrics: Backtest Your Investment Strategy",
+      "url": "https://portfoliometrics.net/"
     },
     {
-      "url": "https://pmorissette.github.io/bt/",
-      "title": "bt - Flexible Backtesting for Python \u2014 bt 0.2.10 documentation"
+      "title": "bt - Flexible Backtesting for Python \u2014 bt 0.2.10 documentation",
+      "url": "https://pmorissette.github.io/bt/"
     }
   ],
   "positional replacement level calculation": [
     {
-      "url": "https://ottoneutraderumors.wordpress.com/2014/12/15/calculating-ottoneu-replacement-level-starting-pitcher/",
-      "title": "Calculating Ottoneu Replacement Level : Starting Pitchers"
+      "title": "Calculating Ottoneu Replacement Level : Starting Pitchers",
+      "url": "https://ottoneutraderumors.wordpress.com/2014/12/15/calculating-ottoneu-replacement-level-starting-pitcher/"
     },
     {
-      "url": "https://rdrr.io/github/ryurko/nflWAR/man/calculate_above_replacement.html",
-      "title": "calculate _above_ replacement : Calculate Above Replacement Level ..."
+      "title": "calculate _above_ replacement : Calculate Above Replacement Level ...",
+      "url": "https://rdrr.io/github/ryurko/nflWAR/man/calculate_above_replacement.html"
     },
     {
-      "url": "https://colab.research.google.com/github/alan-turing-institute/TuringDataStories-fastpages/blob/master/_notebooks/2021-07-21-Baseball-Replacement-Level.ipynb",
-      "title": "2021-07-21-Baseball- Replacement - Level .ipynb - Colab"
+      "title": "python - Using positional replacement and... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/72036168/using-positional-replacement-and-conversion-specifiers-in-this-question"
+    },
+    {
+      "title": "2021-07-21-Baseball- Replacement - Level .ipynb - Colab",
+      "url": "https://colab.research.google.com/github/alan-turing-institute/TuringDataStories-fastpages/blob/master/_notebooks/2021-07-21-Baseball-Replacement-Level.ipynb"
+    },
+    {
+      "title": "Human resources accounting: Measuring positional replacement costs",
+      "url": "https://www.semanticscholar.org/paper/Human-resources-accounting:-Measuring-positional-Flamholtz/154272636cc014c536fa0a2dadfe5809ef81b25c"
     }
   ],
-  "FAAB bid calculator spreadsheet": [],
+  "FAAB bid calculator spreadsheet": [
+    {
+      "title": "FAAB Bidding Strategy - How Much to Bid ? - Tackle Fantasy Football",
+      "url": "https://www.tacklefantasyfootball.com/faab-bidding-strategy-how-much-to-bid/"
+    },
+    {
+      "title": "How Much FAAB for Kadarius Toney? 2025 Bidding Guide",
+      "url": "https://eathealthy365.com/kadarius-toney-faab-guide-what-to-bid-in-2025/"
+    },
+    {
+      "title": "The Art of the Fantasy Football FAAB Bid : When to Go All In vs. Play...",
+      "url": "https://www.profootballnetwork.com/fantasy-football/the-art-of-the-fantasy-football-faab-bid-when-to-go-all-in-vs-play-the-long-game/"
+    },
+    {
+      "title": "Week 4 Fantasy Football FAAB Bid Numbers: How to Handle Sam...",
+      "url": "https://www.fantasysp.com/news/nfl/3053197/week-4-fantasy-football-faab-bid-numbers-how-to-handle-sam-darnold-bucky-irving-jauan-jennings-and-more"
+    },
+    {
+      "title": "Bid Calculation Spreadsheet | Freelancer",
+      "url": "https://www.freelancer.com/projects/data-analysis/bid-calculation-spreadsheet"
+    }
+  ],
   "waiver wire priorities week 5 PPR": [
     {
-      "url": "https://fantasytradeanalyzers.com/fantasy-waiver-wire-week-5-sleepers/",
-      "title": "Top 10 Fantasy Waiver Wire Week 5 Sleepers to Grab Now - Fantasy..."
+      "title": "Top 10 Fantasy Waiver Wire Week 5 Sleepers to Grab Now - Fantasy...",
+      "url": "https://fantasytradeanalyzers.com/fantasy-waiver-wire-week-5-sleepers/"
     },
     {
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-today-the-top-waiver-wire-trade-targets-for-week-5/",
-      "title": "Fantasy Football Today: The top waiver - wire , trade targets for Week 5"
+      "title": "Fantasy Football Today: The top waiver - wire , trade targets for Week 5",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-today-the-top-waiver-wire-trade-targets-for-week-5/"
     },
     {
-      "url": "https://www.fantasylife.com/articles/fantasy/week-5-fantasy-football-waiver-wire-adds-woody-marks-kendre-mill",
-      "title": "Week 5 Fantasy Football Waiver Wire Adds: Woody Marks, Kendre..."
+      "title": "Week 5 Fantasy Football Waiver Wire Adds: Woody Marks, Kendre...",
+      "url": "https://www.fantasylife.com/articles/fantasy/week-5-fantasy-football-waiver-wire-adds-woody-marks-kendre-mill"
+    },
+    {
+      "title": "How Does The Waiver Wire Work During The Week | TikTok",
+      "url": "https://www.tiktok.com/discover/how-does-the-waiver-wire-work-during-the-week"
+    },
+    {
+      "title": "2025 NFL fantasy football waiver wire , Week 16: Top 15 pickups for...",
+      "url": "https://www.nfl.com/news/2025-nfl-fantasy-football-waiver-wire-week-16-top-15-pickups-for-playoffs-boost"
     }
   ],
   "stashes two weeks early RBs": [
     {
-      "url": "https://www.fantasylife.com/articles/fantasy/stash-these-rbs-asap",
-      "title": "Stash These RBs ASAP - fantasylife.com"
+      "title": "Week 16 Waiver Wire: Fantasy Football Pickups, Adds, Stashes ...",
+      "url": "https://www.rotoballer.com/week-16-waiver-wire-fantasy-football-pickups-adds-stashes-2025/1779781"
     },
     {
-      "url": "https://www.footballguys.com/article/2025-buy-low-sell-high-week-15",
-      "title": "Buy Low, Sell High: Week 15 - Dynasty Stash RBs"
+      "title": "Stash These RBs ASAP - fantasylife.com",
+      "url": "https://www.fantasylife.com/articles/fantasy/stash-these-rbs-asap"
+    },
+    {
+      "title": "Fantasy Football Waiver Wire: 4 deep stashes to consider ...",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-4-deep-stashes-to-consider-adding-heading-into-week-2-153705057.html?fr=sycsrp_catchall"
+    },
+    {
+      "title": "Must-Have Bench Stashes, Sneaky Fantasy Football Waiver Adds ...",
+      "url": "https://www.rotoballer.com/must-have-bench-stashes-sneaky-fantasy-football-waiver-adds-week-2-2025/1691368"
+    },
+    {
+      "title": "Buy Low, Sell High: Week 15 - Dynasty Stash RBs",
+      "url": "https://www.footballguys.com/article/2025-buy-low-sell-high-week-15"
     }
   ],
   "buy low trade targets week 4": [
     {
-      "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-trade-targets-week-4-analyzer-2025/53ed7e1fb5b86f0166b680b4",
-      "title": "Fantasy Football Trade Targets Analyzer: Week 4 players to ..."
+      "title": "Target: To Buy or Not to Buy - What's Happening with Target?",
+      "url": "https://www.bing.com/aclick?ld=e8iIZZTLXCsUe8KiR4pWu4yTVUCUw5Oupw_BAuaZWw0_BIktmBtW2xaXwMEYaETAbSW8n6A_-7cXf8aXP0C9r6bYRrpL6SbcxP21h2FMg5R4ZCzWfcvwGiAIePzqCuClVMKcu1uyhz16CxIOtom3GgsS9r8k76LXwh6N4zIIYY9-Cohwv220VWls0qH2-ujnTTxxTFE7GSNfJrqzR3kAvzKJRG9JM&u=aHR0cHMlM2ElMmYlMmZ3d3cuemFja3MuY29tJTJmcmVnaXN0cmF0aW9uJTJmcGZwJTJmJTNmYWxlcnQlM2RUQ0tfQTEyNDclMjZ0JTNkVEdUJTI2YWRpZCUzZEFCX0JJTkdfU0VBUkNIX0Jyb2FkX1RJQ0tFUl9UYXJnZXRfQTEyNDclMjZjaWQlM2Rwcy1jcGMtQklORy1TRUFSQ0gtVElDS0VSLVRhcmdldC1BMTI0NyUyNm9mZmVyJTNkdGlja2VyJTI2cGFydG5lciUzZGJpbmclMjZjaGFubmVsJTNkc2VhcmNoJTI2Y2FtcGFpZ25pZCUzZCUyNTVCU2VhcmNoJTI1NUQlMjUyMFRpY2tlciUyNTIwKEJyb2FkKSUyNmFkZ3JvdXBpZCUzZFRhcmdldCUyNmxvY19waHlzaWNhbF9tcyUzZDU4MTYyJTI2bWF0Y2h0eXBlJTNkYiUyNmRldmljZSUzZGMlMjZrZXl3b3JkJTNkVGFyZ2V0JTI1MjBzdG9jayUyNm1zY2xraWQlM2RjNGYxMTBhMWJjZWUxNzk2NjY4ZTc5ZTA2ODIxMzRkOCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCU2VhcmNoJTI1NUQlMjUyMFRpY2tlciUyNTIwKEJyb2FkKSUyNnV0bV90ZXJtJTNkVGFyZ2V0JTI1MjBzdG9jayUyNnV0bV9jb250ZW50JTNkVGFyZ2V0&rlid=c4f110a1bcee1796668e79e0682134d8"
     },
     {
-      "url": "https://www.usatoday.com/story/sports/fantasy/football/2025/09/22/fantasy-football-buy-low-sell-high-week-4/86293622007/",
-      "title": "Fantasy football Week 4: 10 players to buy low, sell high"
+      "title": "Fantasy Football Trade Targets Analyzer: Week 4 players to ...",
+      "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-trade-targets-week-4-analyzer-2025/53ed7e1fb5b86f0166b680b4"
     },
     {
-      "url": "https://www.si.com/fantasy/buy-low-immediate-fantasy-football-trades-to-make-heading-into-week-4-01k62yht4ksm",
-      "title": "Buy Low: Immediate Fantasy Football Trades to Make Heading ..."
+      "title": "Fantasy football Week 4: 10 players to buy low, sell high",
+      "url": "https://www.usatoday.com/story/sports/fantasy/football/2025/09/22/fantasy-football-buy-low-sell-high-week-4/86293622007/"
     },
     {
-      "url": "https://www.profootballnetwork.com/fantasy-football/nfl-trade-low-week-4-2025/",
-      "title": "Week 4 Fantasy Buy Low Trade Targets Include Jaxson Dart ..."
+      "title": "Buy Low: Immediate Fantasy Football Trades to Make Heading ...",
+      "url": "https://www.si.com/fantasy/buy-low-immediate-fantasy-football-trades-to-make-heading-into-week-4-01k62yht4ksm"
+    },
+    {
+      "title": "Week 4 Fantasy Buy Low Trade Targets Include Jaxson Dart ...",
+      "url": "https://www.profootballnetwork.com/fantasy-football/nfl-trade-low-week-4-2025/"
     }
   ],
   "sell high candidates with underlying metrics": [
     {
-      "url": "https://www.rotoballer.com/fantasy-football-trade-targets-week-4-buy-low-sell-high-2025/1704225",
-      "title": "Fantasy Football Trade Targets: Week 4 Buy Low, Sell High ..."
+      "title": "Fantasy Football Trade Targets: Week 4 Buy Low, Sell High ...",
+      "url": "https://www.rotoballer.com/fantasy-football-trade-targets-week-4-buy-low-sell-high-2025/1704225"
     },
     {
-      "url": "https://www.msn.com/en-us/sports/nfl/20-players-to-buy-low-sell-high-in-week-11-fantasy-football/ar-AA1QesCV",
-      "title": "20 Players to Buy Low & Sell High in Week 11 (Fantasy ... - MSN"
+      "title": "20 Players to Buy Low & Sell High in Week 11 (Fantasy ... - MSN",
+      "url": "https://www.msn.com/en-us/sports/nfl/20-players-to-buy-low-sell-high-in-week-11-fantasy-football/ar-AA1QesCV"
     },
     {
-      "url": "https://www.si.com/onsi/fantasy/trade-analysis/week-5-sell-high-candidates-dk-metcalf",
-      "title": "DK Metcalf And 3 More Fantasy Football Sell-High Candidates ..."
+      "title": "DK Metcalf And 3 More Fantasy Football Sell-High Candidates ...",
+      "url": "https://www.si.com/onsi/fantasy/trade-analysis/week-5-sell-high-candidates-dk-metcalf"
     },
     {
-      "url": "https://fantraxhq.com/sell-high-candidates-four-hitters-to-consider-cashing-in-on/",
-      "title": "Sell High Candidates: Four Hitters To Consider Cashing In On"
+      "title": "Sell High Candidates: Four Hitters To Consider Cashing In On",
+      "url": "https://fantraxhq.com/sell-high-candidates-four-hitters-to-consider-cashing-in-on/"
     },
     {
-      "url": "https://www.rotoballer.com/buy-low-sell-high-week-2-fantasy-trade-value-recommendations-tank-dell-rhamondre-stevenson-davante-adams-more/1443480",
-      "title": "NFL Buy Low, Sell High Trade Targets: Week 2 (2024)"
+      "title": "NFL Buy Low, Sell High Trade Targets: Week 2 (2024)",
+      "url": "https://www.rotoballer.com/buy-low-sell-high-week-2-fantasy-trade-value-recommendations-tank-dell-rhamondre-stevenson-davante-adams-more/1443480"
     }
   ],
   "injury report scraper beat writers": [
     {
-      "url": "https://github.com/nflverse/nflverse-rosters/issues/11",
-      "title": "added injury report scraper by john-b-edwards - GitHub"
+      "title": "NFL Injury Reports & DFS Data Scraper \u00b7 Apify",
+      "url": "https://apify.com/scionicdev/nfl-dfs-intelligence-monitor"
+    },
+    {
+      "title": "added injury report scraper by john-b-edwards - GitHub",
+      "url": "https://github.com/nflverse/nflverse-rosters/issues/11"
+    },
+    {
+      "title": "Nick Wright urges NFL beat writers to report 'carted off' with caution",
+      "url": "https://www.msn.com/en-us/sports/nfl/nick-wright-urges-nfl-beat-writers-to-report-carted-off-with-caution/ar-AA1JfaaC"
+    },
+    {
+      "title": "Official Latest NFL Injury Report for Players - Week 15 of the 2025 ...",
+      "url": "https://www.nfl.com/injuries/"
+    },
+    {
+      "title": "NFL Injury Updates: Track Player Health in Real Time",
+      "url": "https://footballinjuryreports.com/"
     }
   ],
   "X API alternatives for scraping tweets": [
     {
-      "url": "https://github.com/twintproject/twint",
-      "title": "GitHub - twintproject/twint: An advanced Twitter scraping & OSINT tool..."
+      "title": "GitHub - twintproject/twint: An advanced Twitter scraping & OSINT tool...",
+      "url": "https://github.com/twintproject/twint"
     },
     {
-      "url": "https://www.lobstr.io/blog/scrape-tweets-without-coding",
-      "title": "How to Scrape Tweets from Twitter (No Code) - 2024 Edition"
+      "title": "How to Scrape Tweets from Twitter (No Code) - 2024 Edition",
+      "url": "https://www.lobstr.io/blog/scrape-tweets-without-coding"
     },
     {
-      "url": "https://medium.com/@nimk/scraping-tweets-without-twitter-api-and-free-d576ace29f4c",
-      "title": "Scraping tweets without Twitter API for FREE | by Nima... | Medium"
+      "title": "Scraping tweets without Twitter API for FREE | by Nima... | Medium",
+      "url": "https://medium.com/@nimk/scraping-tweets-without-twitter-api-and-free-d576ace29f4c"
     },
     {
-      "url": "https://research.aimultiple.com/twitter-web-scraping/",
-      "title": "How to Scrape Data from Twitter ( X .com) with Python (No Twitter API )"
+      "title": "How to Scrape Data from Twitter ( X .com) with Python (No Twitter API )",
+      "url": "https://research.aimultiple.com/twitter-web-scraping/"
     },
     {
-      "url": "https://data365.co/blog/twitter-scraper-api",
-      "title": "( X ) Twitter Scraper API : Guide You Actually Need To See | Data365.co"
+      "title": "( X ) Twitter Scraper API : Guide You Actually Need To See | Data365.co",
+      "url": "https://data365.co/blog/twitter-scraper-api"
     }
   ],
   "Discord bot push injury updates tutorial": [
     {
-      "url": "https://top.gg/bot/1252374130490081281",
-      "title": "Add Injury Reports Discord Bot | The #1 Discord Bot and Discord App List"
+      "title": "Add Injury Reports Discord Bot | The #1 Discord Bot and Discord App List",
+      "url": "https://top.gg/bot/1252374130490081281"
     },
     {
-      "url": "https://docs.shinobi.video/notifications/discord",
-      "title": "How to setup Push Notifications with Discord Bot API"
+      "title": "PatchBot - The #1 Discord Bot for Patch Notes and Game Updates",
+      "url": "https://patchbot.io/"
     },
     {
-      "url": "https://github.com/JoeKiesche/NBA-Player-Injury-Discord-bot",
-      "title": "GitHub - JoeKiesche/NBA-Player-Injury-Discord-bot"
+      "title": "How to setup Push Notifications with Discord Bot API",
+      "url": "https://docs.shinobi.video/notifications/discord"
+    },
+    {
+      "title": "How To Add PatchBot To Discord Server (TUTORIAL) - YouTube",
+      "url": "https://m.youtube.com/watch?v=bxWHuRk83oU"
+    },
+    {
+      "title": "GitHub - JoeKiesche/NBA-Player-Injury-Discord-bot",
+      "url": "https://github.com/JoeKiesche/NBA-Player-Injury-Discord-bot"
     }
   ],
   "IFTTT Notion color code status": [
     {
-      "url": "https://www.notion.com/integrations/ifttt",
-      "title": "IFTTT Integrations | Connect Your Apps with Notion"
+      "title": "IFTTT Integrations | Connect Your Apps with Notion",
+      "url": "https://www.notion.com/integrations/ifttt"
     },
     {
-      "url": "https://ifttt.com/notion_so",
-      "title": "Notion.so Integrations - Connect Your Apps with IFTTT"
+      "title": "Notion.so Integrations - Connect Your Apps with IFTTT",
+      "url": "https://ifttt.com/notion_so"
     },
     {
-      "url": "https://matthiasfrank.de/en/notion-colors/",
-      "title": "Notion Colors Hexcodes And Custom Color Tricks"
+      "title": "Notion Colors Hexcodes And Custom Color Tricks",
+      "url": "https://matthiasfrank.de/en/notion-colors/"
     },
     {
-      "url": "https://www.notionavenue.co/post/notion-color-code-hex-palette",
-      "title": "Notion Color Code Hex, Color Palette, Custom Colors in Notion (Dark ..."
+      "title": "Notion Color Code Hex, Color Palette, Custom Colors in Notion (Dark ...",
+      "url": "https://www.notionavenue.co/post/notion-color-code-hex-palette"
     },
     {
-      "url": "https://www.reddit.com/r/Notion/comments/tcghiz/found_a_way_to_make_custom_colors_on_notion_here/",
-      "title": "Found a way to make custom colors on notion, here are the codes and ..."
+      "title": "Found a way to make custom colors on notion, here are the codes and ...",
+      "url": "https://www.reddit.com/r/Notion/comments/tcghiz/found_a_way_to_make_custom_colors_on_notion_here/"
     }
   ],
   "Notion fantasy roster template": [
     {
-      "url": "https://www.notion.com/templates/fantasy-character-profiles",
-      "title": "Fantasy Character Profiles Template | Notion Marketplace"
+      "title": "Fantasy Character Profiles Template | Notion Marketplace",
+      "url": "https://www.notion.com/templates/fantasy-character-profiles"
     },
     {
-      "url": "https://www.quillandsteel.com/pages/notion-character-profile-template",
-      "title": "Notion Character Profile Template \u2014 Quill&Steel"
+      "title": "Notion Character Profile Template \u2014 Quill&Steel",
+      "url": "https://www.quillandsteel.com/pages/notion-character-profile-template"
     },
     {
-      "url": "https://www.notionry.com/templates/notions-team-roster-notion-template",
-      "title": "Stay Organized with Notion 's Team Roster Template"
+      "title": "Free Notion Templates | Notionhub",
+      "url": "https://www.notionhub.net/free-templates/3/"
     },
     {
-      "url": "https://www.etsy.com/market/fantasy_notion_template",
-      "title": "Fantasy Notion Template - Etsy"
+      "title": "Stay Organized with Notion 's Team Roster Template",
+      "url": "https://www.notionry.com/templates/notions-team-roster-notion-template"
+    },
+    {
+      "title": "Fantasy Notion Template - Etsy",
+      "url": "https://www.etsy.com/market/fantasy_notion_template"
     }
   ],
   "data studio dashboard fantasy usage": [
     {
-      "url": "https://valchanova.me/complete-guide-google-data-studio-examples/",
-      "title": "The Complete Guide to Google Data Studio \u2013 with Examples"
+      "title": "The Complete Guide to Google Data Studio \u2013 with Examples",
+      "url": "https://valchanova.me/complete-guide-google-data-studio-examples/"
     },
     {
-      "url": "https://www.mayple.com/resources/googleadvertising/google-data-studio-guide",
-      "title": "The Ultimate Guide to Google Data Studio in 2026: Create ..."
+      "title": "The Ultimate Guide to Google Data Studio in 2026: Create ...",
+      "url": "https://www.mayple.com/resources/googleadvertising/google-data-studio-guide"
     },
     {
-      "url": "https://thriveagency.com/news/the-ultimate-guide-to-google-data-studio/",
-      "title": "The Ultimate Guide to Google Data Studio | Thrive Agency"
+      "title": "The Ultimate Guide to Google Data Studio | Thrive Agency",
+      "url": "https://thriveagency.com/news/the-ultimate-guide-to-google-data-studio/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=UIGgbuTlIu4",
-      "title": "How to CREATE A DASHBOARD in Google Data Studio (Step by Step ..."
+      "title": "How to CREATE A DASHBOARD in Google Data Studio (Step by Step ...",
+      "url": "https://www.youtube.com/watch?v=UIGgbuTlIu4"
     },
     {
-      "url": "https://pingback.com/en/resources/how-to-use-google-data-studio/",
-      "title": "Google Data Studio: What It Is And How To Use It In 2024"
+      "title": "Google Data Studio: What It Is And How To Use It In 2024",
+      "url": "https://pingback.com/en/resources/how-to-use-google-data-studio/"
     }
   ],
   "Python schedule cron Sunday lock": [
     {
-      "url": "https://stackoverflow.com/questions/373335/how-do-i-get-a-cron-like-scheduler-in-python",
-      "title": "How do I get a Cron like scheduler in Python? - Stack Overflow"
+      "title": "How do I get a Cron like scheduler in Python? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/373335/how-do-i-get-a-cron-like-scheduler-in-python"
     },
     {
-      "url": "https://www.geeksforgeeks.org/python/how-to-schedule-python-scripts-as-cron-jobs-with-crontab/",
-      "title": "How to Schedule Python Scripts As Cron Jobs With Crontab"
+      "title": "How to Schedule Python Scripts As Cron Jobs With Crontab",
+      "url": "https://www.geeksforgeeks.org/python/how-to-schedule-python-scripts-as-cron-jobs-with-crontab/"
     },
     {
-      "url": "https://coderivers.org/blog/python-cron/",
-      "title": "Python Cron: A Guide to Scheduled Tasks - CodeRivers"
+      "title": "Python Cron: A Guide to Scheduled Tasks - CodeRivers",
+      "url": "https://coderivers.org/blog/python-cron/"
     },
     {
-      "url": "https://dev.to/hexshift/how-to-run-cron-jobs-in-python-the-right-way-using-apscheduler-4pkn",
-      "title": "How to Run Cron Jobs in Python the Right Way Using APScheduler"
+      "title": "How to Run Cron Jobs in Python the Right Way Using APScheduler",
+      "url": "https://dev.to/hexshift/how-to-run-cron-jobs-in-python-the-right-way-using-apscheduler-4pkn"
     },
     {
-      "url": "https://medium.com/@zafer_kahraman/automating-your-python-script-execution-with-cron-jobs-7380dc6d8173",
-      "title": "Schedule and Automate Python Scripts Using Cron Jobs | Medium"
+      "title": "Schedule and Automate Python Scripts Using Cron Jobs | Medium",
+      "url": "https://medium.com/@zafer_kahraman/automating-your-python-script-execution-with-cron-jobs-7380dc6d8173"
     }
   ],
   "decision journal template trading": [
     {
-      "url": "https://www.notion.com/templates/collections/top-free-trading-journal-templates-in-notion",
-      "title": "Top Free Trading Journal Templates - Notion"
+      "title": "Top Free Trading Journal Templates - Notion",
+      "url": "https://www.notion.com/templates/collections/top-free-trading-journal-templates-in-notion"
     },
     {
-      "url": "https://www.typecalendar.com/trading-journal.html",
-      "title": "46+ Free Printable Trading Journal Templates [PDF]"
+      "title": "46+ Free Printable Trading Journal Templates [PDF]",
+      "url": "https://www.typecalendar.com/trading-journal.html"
     },
     {
-      "url": "https://templatearchive.com/trading-journal/",
-      "title": "40 Free Trading Journal Templates (Excel / PDF) - TemplateArchive 10 Free Trading Journal Templates to Use in 2025 | ClickUp 9 Best Trading Journal Templates for Google Sheets and Excel ... TradeBench - 100% Cost Free Trading Journal"
+      "title": "40 Free Trading Journal Templates (Excel / PDF) - TemplateArchive 10 Free Trading Journal Templates to Use in 2025 | ClickUp 9 Best Trading Journal Templates for Google Sheets and Excel ... TradeBench - 100% Cost Free Trading Journal",
+      "url": "https://templatearchive.com/trading-journal/"
     },
     {
-      "url": "https://clickup.com/blog/trading-journal-templates/",
-      "title": "10 Free Trading Journal Templates to Use in 2025 | ClickUp"
+      "title": "10 Free Trading Journal Templates to Use in 2025 | ClickUp",
+      "url": "https://clickup.com/blog/trading-journal-templates/"
     },
     {
-      "url": "https://fliphtml5.com/learning-center/9-best-trading-journal-templates-for-google-sheets-and-excel-2025-update/",
-      "title": "9 Best Trading Journal Templates for Google Sheets and Excel ..."
+      "title": "9 Best Trading Journal Templates for Google Sheets and Excel ...",
+      "url": "https://fliphtml5.com/learning-center/9-best-trading-journal-templates-for-google-sheets-and-excel-2025-update/"
     }
   ],
   "outcome bias checklist sports decisions": [
     {
-      "url": "https://www.sportsbettingdime.com/guides/betting-psychology/outcome-biases/",
-      "title": "Outcome Biases: How to Evaluate Your Betting Process (and ..."
+      "title": "Outcome Biases: How to Evaluate Your Betting Process (and ...",
+      "url": "https://www.sportsbettingdime.com/guides/betting-psychology/outcome-biases/"
     },
     {
-      "url": "https://punter2pro.com/outcome-bias-explained-sports-betting/",
-      "title": "Outcome Bias | Judging Betting Decisions On Results Alone"
+      "title": "Outcome Bias | Judging Betting Decisions On Results Alone",
+      "url": "https://punter2pro.com/outcome-bias-explained-sports-betting/"
     },
     {
-      "url": "https://www.sportsbrain.blog/outcome-bias-sports-coaching/",
-      "title": "Outcome Bias in Sports Coaching: A Widespread Phenomenon"
+      "title": "Outcome Bias in Sports Coaching: A Widespread Phenomenon",
+      "url": "https://www.sportsbrain.blog/outcome-bias-sports-coaching/"
     },
     {
-      "url": "https://sdlccorp.com/post/the-role-of-psychological-biases-in-sports-betting-decisions/",
-      "title": "The Role of Psychological Biases in Sports Betting Decisions"
+      "title": "The Role of Psychological Biases in Sports Betting Decisions",
+      "url": "https://sdlccorp.com/post/the-role-of-psychological-biases-in-sports-betting-decisions/"
+    },
+    {
+      "title": "Understanding Outcome Bias: Definition and Real-World Examples",
+      "url": "https://www.investopedia.com/terms/o/outcome-bias.asp"
     }
   ],
   "league constitution template anti tanking": [
     {
-      "url": "https://www.reddit.com/r/FFCommish/comments/12m5pf2/sample_bylaws_for_dynasty_league/",
-      "title": "Sample Bylaws for Dynasty League : r/FFCommish - Reddit"
+      "title": "Sample Bylaws for Dynasty League : r/FFCommish - Reddit",
+      "url": "https://www.reddit.com/r/FFCommish/comments/12m5pf2/sample_bylaws_for_dynasty_league/"
     },
     {
-      "url": "https://upsidefantasy.wixsite.com/fantasy/general-8-4",
-      "title": "Fantasy League Constitution Template | Upside Fantasy"
+      "title": "Fantasy League Constitution Template | Upside Fantasy",
+      "url": "https://upsidefantasy.wixsite.com/fantasy/general-8-4"
     },
     {
-      "url": "https://www.tapatalk.com/groups/fansofdmb/anti-tanking-ideas-for-league-constitutions-t6493.html",
-      "title": "Fans of Diamond Mind Baseball-Anti Tanking Ideas for League ..."
+      "title": "Fans of Diamond Mind Baseball-Anti Tanking Ideas for League ...",
+      "url": "https://www.tapatalk.com/groups/fansofdmb/anti-tanking-ideas-for-league-constitutions-t6493.html"
     },
     {
-      "url": "https://surprisesports.com/nfl/how-to-prevent-tanking-in-dynasty-fantasy-football/",
-      "title": "How to Prevent Tanking In Dynasty Fantasy Football"
+      "title": "How to Prevent Tanking In Dynasty Fantasy Football",
+      "url": "https://surprisesports.com/nfl/how-to-prevent-tanking-in-dynasty-fantasy-football/"
     },
     {
-      "url": "https://www.fantasyfootballunlimited.com/fantasy-football-constitution",
-      "title": "FANTASY FOOTBALL LEAGUE CONSTITUTION & BYLAWS TEMPLATE ..."
+      "title": "FANTASY FOOTBALL LEAGUE CONSTITUTION & BYLAWS TEMPLATE ...",
+      "url": "https://www.fantasyfootballunlimited.com/fantasy-football-constitution"
     }
   ],
   "trade veto policy best practices": [
     {
-      "url": "https://apexfantasyleagues.com/2025/06/how-to-handle-trades-like-a-pro/",
-      "title": "Commish Corner: How To Handle Trades Like A Pro"
+      "title": "Commish Corner: How To Handle Trades Like A Pro",
+      "url": "https://apexfantasyleagues.com/2025/06/how-to-handle-trades-like-a-pro/"
     },
     {
-      "url": "https://www.reddit.com/r/fantasyfootball/comments/16xxhlx/noobs_corner_so_when_should_a_trade_be_vetoed/",
-      "title": "[Noobs Corner] So, when should a trade be vetoed? : r ..."
+      "title": "[Noobs Corner] So, when should a trade be vetoed? : r ...",
+      "url": "https://www.reddit.com/r/fantasyfootball/comments/16xxhlx/noobs_corner_so_when_should_a_trade_be_vetoed/"
     },
     {
-      "url": "https://www.weekonefantasy.com/when-should-you-veto-a-trade-in-fantasy-football-5432871/",
-      "title": "When Should You Veto a Trade in Fantasy Football?"
+      "title": "When Should You Veto a Trade in Fantasy Football?",
+      "url": "https://www.weekonefantasy.com/when-should-you-veto-a-trade-in-fantasy-football-5432871/"
     },
     {
-      "url": "https://footballsiao.com/how-does-veto-work-in-fantasy-football/",
-      "title": "How Does Veto Work In Fantasy Football: Full Guide"
+      "title": "How Does Veto Work In Fantasy Football: Full Guide",
+      "url": "https://footballsiao.com/how-does-veto-work-in-fantasy-football/"
     },
     {
-      "url": "https://getpopnplay.com/can-you-veto-a-trade-in-fantasy-football/",
-      "title": "Can You Veto A Trade In Fantasy Football: When Is It Allowed?"
+      "title": "Can You Veto A Trade In Fantasy Football: When Is It Allowed?",
+      "url": "https://getpopnplay.com/can-you-veto-a-trade-in-fantasy-football/"
     }
   ],
   "payout schedule automation PayPal": [
     {
-      "url": "https://www.paypal.com/us/cshelp/article/what-is-the-payouts-api-formerly-known-as-mass-pay-and-how-to-apply-for-it-help250",
-      "title": "What is the Payouts API (formerly known as Mass Pay ... - PayPal"
+      "title": "PayPal Subscription Payments - Automate Payments Fast",
+      "url": "https://www.bing.com/aclick?ld=e8bVWjvlyKdAzV2w9r6FzRTjVUCUwvr8-21CFbv-sbN0XW2sYUfSHj7DTjL7Opaoxxr4h15ErIPoQ32lUiVRVmekx1xrHL4MgZ33UiMTBVRmHIqbMnUI2c_WGQVefa9z3gr9YEZ4iD_pkvsXiCrlwBn7ghvIRI2jKPzgiMBBEw7pPiGTBhbZRbJuvSkpj8wsP69vZHKuhvFSEJqLQeL_jaMD8A8JM&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MTQ3OTA5MTg4OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODg0NjA2MjYxMiUyNmRzX2FfY2lkJTNkNjgxMDI4MjU5JTI2ZHNfYV9jYWlkJTNkMjIwMzA3Mjk4NzglMjZkc19hX2FnaWQlM2QxNzc2NjY2MzIzNTQlMjZkc19hX2xpZCUzZGt3ZC03NzU4MjkyNTklMjYlMjZkc19lX2FkaWQlM2Q3MzI1NTI4OTQ4NDAxNiUyNmRzX2VfdGFyZ2V0X2lkJTNka3dkLTczMjU1NDY0ODI0MTIxJTNhbG9jLTE5MCUyNiUyNmRzX2VfbmV0d29yayUzZG8lMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmd3d3LnBheXBhbC5jb20lMmZ1cyUyZmJ1c2luZXNzJTJmYWNjZXB0LXBheW1lbnRzJTJmcmVjdXJyaW5nLXBheW1lbnRzJTNmdXRtX21lZGl1bSUzZGJpbmclMjZ1dG1fc291cmNlJTNkc2VtJTI2dXRtX2NhbXBhaWduJTNkQzExNTQ5JTI2a2lkJTNkNzc1ODI5MjU5JTI2Z2NsaWQlM2RiZTc4MDJiMTc2NDAxZDEyM2Y3ZjZiZjBhMjlhZmI4NiUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkQzExNTQ5X0FDUS1QQVlNRU5UJTI1MjBQUk9DRVNTSU5HJTI1MjBDSEVDS09VVC1TTUIlMjUyMEFPLVVTLUVOLUItU01CLUFPLUFDUS1DT05TLU1EQS1OVC1NUy1QYXltZW50JTI1MjBQcm9jZXNzaW5nJTI1MjBDaGVja291dCUyNnV0bV90ZXJtJTNkcmVjdXJyaW5nJTI1MjBwYXltZW50JTI1MjBwcm9jZXNzaW5nJTI2dXRtX2NvbnRlbnQlM2RTTUJfQUNRX01EQV9OVF9QSF9QYXltZW50JTI1MjBQcm9jZXNzaW5nX1JlY3VycmluZyUyNTIwUGF5bWVudCUyNTIwUHJvY2Vzc2luZw&rlid=be7802b176401d123f7f6bf0a29afb86"
     },
     {
-      "url": "https://wise.com/us/blog/paypal-payouts",
-      "title": "PayPal Payouts: How It Works, Fees, Benefits & Competitors"
+      "title": "What is the Payouts API (formerly known as Mass Pay ... - PayPal",
+      "url": "https://www.paypal.com/us/cshelp/article/what-is-the-payouts-api-formerly-known-as-mass-pay-and-how-to-apply-for-it-help250"
     },
     {
-      "url": "https://www.partnero.com/features/automated-payouts",
-      "title": "Automated Payouts with PayPal, Wise & Intermediary Payouts ..."
+      "title": "PayPal Payouts: How It Works, Fees, Benefits & Competitors",
+      "url": "https://wise.com/us/blog/paypal-payouts"
+    },
+    {
+      "title": "Automate Your Paypal Workflows: The Complete 2500+ Word Guide",
+      "url": "https://www.marketingscoop.com/marketing/automate-your-paypal-workflows-the-complete-2500-word-guide/"
+    },
+    {
+      "title": "Automated Payouts with PayPal, Wise & Intermediary Payouts ...",
+      "url": "https://www.partnero.com/features/automated-payouts"
     }
   ],
   "transparent commissioner weekly report example": [
     {
-      "url": "https://www.examples.com/business/weekly-reports-examples-and-templates.html",
-      "title": "32+ Weekly Report Examples to Download"
+      "title": "COMMISSIONING REPORTS | Templates Weekly, Monthly, Daily, Final Report ...",
+      "url": "https://constructandcommission.com/commissioning-report-templates/"
     },
     {
-      "url": "https://agencyanalytics.com/blog/weekly-reports",
-      "title": "How to Write a Weekly Report: Templates, Examples & Tools"
+      "title": "Creating the Ultimate Sales Commission Report: Best Practices, Examples ...",
+      "url": "https://www.everstage.com/sales-commission/sales-commission-report"
     },
     {
-      "url": "https://www.reportsexcel.com/weekly-report-template.html",
-      "title": "20+ Weekly Report Templates [Excel, Word & PDF]"
+      "title": "32+ Weekly Report Examples to Download",
+      "url": "https://www.examples.com/business/weekly-reports-examples-and-templates.html"
+    },
+    {
+      "title": "How to Write a Weekly Report: Templates, Examples & Tools",
+      "url": "https://agencyanalytics.com/blog/weekly-reports"
+    },
+    {
+      "title": "20+ Weekly Report Templates [Excel, Word & PDF]",
+      "url": "https://www.reportsexcel.com/weekly-report-template.html"
     }
   ],
   "tiebreakers head to head points for rules": [
     {
-      "url": "https://support.espn.com/hc/en-us/articles/360059979251-Head-to-Head-Points-Playoff-Seeding-Tiebreakers",
-      "title": "Head-to-Head Points - Playoff Seeding Tiebreakers - ESPN Fan Support"
+      "title": "Head-to-Head Points - Playoff Seeding Tiebreakers - ESPN Fan Support",
+      "url": "https://support.espn.com/hc/en-us/articles/360059979251-Head-to-Head-Points-Playoff-Seeding-Tiebreakers"
+    },
+    {
+      "title": "NFL Playoff Picture & Tiebreakers Explained | How Seeding Works",
+      "url": "https://www.crunchsports.com/guides/nfl-playoff-picture-tiebreakers-explained/"
+    },
+    {
+      "title": "NFL Playoff Tiebreakers: Rules and Procedures for Division and Wild ...",
+      "url": "https://www.profootballnetwork.com/nfl-playoff-tiebreakers/"
+    },
+    {
+      "title": "NFL Tiebreakers Explained: A Look at How the League Breaks a Tie in the ...",
+      "url": "https://www.si.com/nfl/nfl-tiebreakers-explained-how-league-breaks-tie-playoff-race"
+    },
+    {
+      "title": "NFL Playoff Seeding Rules and Tiebreakers Explained",
+      "url": "https://www.bracketsninja.com/blog/nfl-playoff-seeding-rules-and-tiebreakers-explained"
     }
   ],
   "FAAB swap as trade sweetener rules": [
     {
-      "url": "https://www.reddit.com/r/fantasyfootball/comments/14lrdou/what_does_trading_faab_actually_mean/",
-      "title": "What does trading FAAB actually mean? : r/fantasyfootball"
+      "title": "How Fantasy Football FAAB Actually Works (And How to Win With It)",
+      "url": "https://www.profootballnetwork.com/fantasy-football/how-fantasy-football-faab-actually-works-and-how-to-win-with-it/"
+    },
+    {
+      "title": "What does trading FAAB actually mean? : r/fantasyfootball",
+      "url": "https://www.reddit.com/r/fantasyfootball/comments/14lrdou/what_does_trading_faab_actually_mean/"
+    },
+    {
+      "title": "Fantasy Football Strategy: FAAB Waiver Wire Advice (2025)",
+      "url": "https://www.fantasypros.com/2025/08/fantasy-football-strategy-faab-waiver-wire-advice/"
+    },
+    {
+      "title": "The Ultimate Guide to Waiver Wire & FAAB Strategy in 2025",
+      "url": "https://www.4for4.com/2025/preseason/ultimate-guide-waiver-wire-faab-strategy-2025"
+    },
+    {
+      "title": "Fantasy Football 101: FAAB Strategies",
+      "url": "https://www.thefantasyfootballers.com/analysis/fantasy-football-101-faab-strategies/"
     }
   ],
   "charity side bets ideas fantasy league": [
     {
-      "url": "https://sportswisdompro.com/blog/fantasy-football-side-bets",
-      "title": "89 BEST Tips Fantasy Football Side Bets (Truth)"
+      "title": "89 BEST Tips Fantasy Football Side Bets (Truth)",
+      "url": "https://sportswisdompro.com/blog/fantasy-football-side-bets"
     },
     {
-      "url": "https://www.reddit.com/r/fantasyfootball/comments/9g23u8/what_are_some_of_the_craziest_side_bets_your/",
-      "title": "What are some of the craziest side bets your fantasy league ..."
+      "title": "What are some of the craziest side bets your fantasy league ...",
+      "url": "https://www.reddit.com/r/fantasyfootball/comments/9g23u8/what_are_some_of_the_craziest_side_bets_your/"
     },
     {
-      "url": "https://www.bleachernation.com/fantasy-football/2025/08/04/fantasy-football-side-games/",
-      "title": "Fantasy Football Side Games: How to Spice Up Your League ..."
+      "title": "Fantasy Football Side Games: How to Spice Up Your League ...",
+      "url": "https://www.bleachernation.com/fantasy-football/2025/08/04/fantasy-football-side-games/"
     },
     {
-      "url": "https://www.forthebois.org/fantasy-football",
-      "title": "Fantasy Football for Charity - For The Bois"
+      "title": "Fantasy Football for Charity - For The Bois",
+      "url": "https://www.forthebois.org/fantasy-football"
     },
     {
-      "url": "https://www.fantasypros.com/2020/07/implementing-side-action-in-fantasy-football-leagues/",
-      "title": "Implementing Side Action in Fantasy Football Leagues Epic Side Bets for Your Football League - wagerlab.app Charity Fantasy Sports Leagues | Play For One-Of-A-Kind Prizes"
+      "title": "Implementing Side Action in Fantasy Football Leagues Epic Side Bets for Your Football League - wagerlab.app Charity Fantasy Sports Leagues | Play For One-Of-A-Kind Prizes",
+      "url": "https://www.fantasypros.com/2020/07/implementing-side-action-in-fantasy-football-leagues/"
     }
   ],
   "themed draft night ideas 2025": [
     {
-      "url": "https://ru.pinterest.com/igcsally3/columbiets-draft-night-ideas/",
-      "title": "34 Columbiets Draft night Ideas in 2025 | crafts, rag rug tutorial, diy..."
+      "title": "34 Columbiets Draft night Ideas in 2025 | crafts, rag rug tutorial, diy...",
+      "url": "https://ru.pinterest.com/igcsally3/columbiets-draft-night-ideas/"
     },
     {
-      "url": "https://sports.yahoo.com/article/packers-host-dive-bar-themed-192215618.html",
-      "title": "Packers to host dive bar- themed \u2018 Draft Haus\u2019 at 2025 ... - Yahoo Sports"
+      "title": "Nfl Draft Fantasy at Airbnb | TikTok",
+      "url": "https://www.tiktok.com/discover/nfl-draft-fantasy-at-airbnb"
+    },
+    {
+      "title": "NFL ROOKIES GET EMOTIONAL ON DRAFT NIGHT - YouTube",
+      "url": "https://www.youtube.com/watch?v=AUwe9q2BxpA"
+    },
+    {
+      "title": "30 Most Funny PowerPoint Night Ideas [ 2025 ]",
+      "url": "https://www.wps.com/blog/30-most-funny-powerpoint-night-ideas-2024/"
+    },
+    {
+      "title": "Packers to host dive bar- themed \u2018 Draft Haus\u2019 at 2025 ... - Yahoo Sports",
+      "url": "https://sports.yahoo.com/article/packers-host-dive-bar-themed-192215618.html"
     }
   ],
   "custom team logo generator sports": [
     {
-      "url": "https://placeit.net/logo-maker/sports",
-      "title": "Sports Logo Maker | Online Logo Maker - Placeit"
+      "title": "Freelance Logo Designers - Browse Artist Logos Design",
+      "url": "https://www.bing.com/aclick?ld=e8CahoEkNL_xItSQr9yycHjDVUCUzAGrCT45EZOmhmp5nxZ-EOlDwOLBmsTG-AYLpcflZDyQFGHlfZg8tWYdOkJRNT6gW1LMSt3fceY375Ujg7a5vAZvVjoIwTmWqX-ntmxKuh6vizyQ8gKyBWEWxjKY4VAyLI3OWphZcMrpbgwZTroCTpOBvUDORgky4V5rHhfaqkOYcc_u6W1bNDZQXWNqKlUJo&u=aHR0cHMlM2ElMmYlMmZ3d3cudXB3b3JrLmNvbSUyZnRyYWNrJTJmJTNmdXJsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cudXB3b3JrLmNvbSUyNTJGaGlyZSUyNTJGbG9nby1kZXNpZ25lcnMlMjUyRmxhbmRpbmclMjUyRiUyNTNGdXRtX21lZGl1bSUyNTNEUGFpZFNlYXJjaCUyNTI2dXRtX3NvdXJjZSUyNTNEQmluZyUyNTI2dXRtX2NhbXBhaWduJTI1M0RTRU1Ob25CcmFuZF9CaW5nX0RvbWVzdGljX01hcmtldHBsYWNlX0wzX0dycGhjLURzZ24lMjUyNmNhbXBhaWduaWQlMjUzRDUwNjExNjgxNCUyNTI2dXRtX2NvbnRlbnQlMjUzRDEyNjIyNDA5ODgzNTY0MDIlMjUyNnV0bV9rZXl3b3JkJTI1M0RhcnRpc3QlMjUyNTIwbG9nb3MlMjUyNTIwZGVzaWduJTI1MjZtYXRjaHR5cGUlMjUzRGIlMjUyNmRldmljZSUyNTNEYyUyNTI2cGFydG5lcmlkJTI1M0Q5YmI4YjUxOTgxMTgxYzQ3MzZkM2RjNTg1NWY4NzE0NyUyNTI2Y3FfcGxhYyUyNTNEJTI1MjZhZF9pZCUyNTNENzg4OTAxNjQ5MzMxMzQlMjZtc2Nsa2lkJTNkOWJiOGI1MTk4MTE4MWM0NzM2ZDNkYzU4NTVmODcxNDclMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RTRU1Ob25CcmFuZF9CaW5nX0RvbWVzdGljX01hcmtldHBsYWNlX0wzX0dycGhjLURzZ24lMjZ1dG1fdGVybSUzZGFydGlzdCUyNTIwbG9nb3MlMjUyMGRlc2lnbiUyNnV0bV9jb250ZW50JTNkU0VNTm9uQnJhbmRfR3JwaGMtRHNnbl9MZy1Ec2duX0JST0FE&rlid=9bb8b51981181c4736d3dc5855f87147"
     },
     {
-      "url": "https://www.sologo.ai/ai-logo-generator/sports-logo-maker/",
-      "title": "Sports Logo Maker | Free Sports Logo Generator | SologoAI Free Sports Logo Maker - Create Your Own Sport Logo | Looka AI Sports Logo Generator | Create Sports Logo for Free AI Sports Logo Generator | Create Team Logos with Mega Creator Free Sports Team Logo Maker Online - Creative Fabrica AI Sports Logo Generator: Create Custom Team Logos Online ..."
+      "title": "Logo Sports - Easy To Customize Online.",
+      "url": "https://www.bing.com/aclick?ld=e89qwxg0S28_K51OrGQGPTSjVUCUxJkA0A9f6DqeYH4JTvO3LS0cDMd9ax0_IVV7RoSWopXPD6lyOVpyoO1jRBspMYcR0oEG2VKLHdxcfrQHHXXLS93V6t7K1XxYBi4UQpBs4c95LTnmWk2nSrWAVtNsxoOOAGR4XsHHuVTSVtkLGfANIJtOXFw-jxqfPMuU2jyJfpj_2AEwfJakFgOFm_SlwjdDQ&u=aHR0cHMlM2ElMmYlMmZ3d3cubG9nb3NvZnR3ZWFyLmNvbSUzZiUyNml2JTNkX19pdl9tX3BfYV8zMDIwMjc3NDhfY184MTE1NzcyNjM5NDA2NV9rXzgxMTU4MDcxMDI3Nzg5X2dfMTI5ODUyMzIzNzc0Nzc2M19wXzJfYl9iYl9kX2NfdmlfXyUyNm5icyUzZF9faXZfbV9wX2FfMzAyMDI3NzQ4X2NfODExNTc3MjYzOTQwNjVfa184MTE1ODA3MTAyNzc4OV9nXzEyOTg1MjMyMzc3NDc3NjNfcF8yX2JfYmJfZF9jX3ZpX18lMjZtc2Nsa2lkJTNkNWU3YzRmMjA1ZjU4MTU4YWViN2MyNjYxOGJiOGQzZjIlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RMU1clMjU3Q1NlYXJjaCUyNTdDRGVjb3JhdGlvbiUyNTdDUFAlMjZ1dG1fdGVybSUzZGxvZ28lMjUyMHNwb3J0cyUyNnV0bV9jb250ZW50JTNkU3BvcnRzd2VhciUyNTIwLSUyNTIwTG9nbyUyNTIwLSUyNTIwQw&rlid=5e7c4f205f58158aeb7c26618bb8d3f2"
+    },
+    {
+      "title": "SMASHINGLOGO - The Best Logo Generator Online",
+      "url": "https://www.bing.com/aclick?ld=e8Pz07zOPlrKB5uxiTZJBS8TVUCUxstOzwnd-EBD-777AagTzSZWMvshbnYNXC7nlm6WHcZCdbO8aviNty0tbuM7K9Nmn9t8DULlgZCXRvm6v9qOyYyAg0JaL520QrmU9yxOaETVWSVE0NdsTgvLVi0ku93hkqy6cgf63X52Ty67Xcijgu4RejuB94HcbfLRMEbhcGNf_sq9VWoayfbBABUpKpy70&u=aHR0cHMlM2ElMmYlMmZzbWFzaGluZ2xvZ28uY29tJTJmZW4lMmYlM2Ztc2Nsa2lkJTNkYzk0NThhNzhlOWY5MWZiZDRhODdlMzM5M2QxOTczNjA&rlid=c9458a78e9f91fbd4a87e3393d197360"
+    },
+    {
+      "title": "Sports Logo Maker | Online Logo Maker - Placeit",
+      "url": "https://placeit.net/logo-maker/sports"
+    },
+    {
+      "title": "Sports Logo Maker | Free Sports Logo Generator | SologoAI Free Sports Logo Maker - Create Your Own Sport Logo | Looka AI Sports Logo Generator | Create Sports Logo for Free AI Sports Logo Generator | Create Team Logos with Mega Creator Free Sports Team Logo Maker Online - Creative Fabrica AI Sports Logo Generator: Create Custom Team Logos Online ...",
+      "url": "https://www.sologo.ai/ai-logo-generator/sports-logo-maker/"
     }
   ],
   "mock draft tool export ADP history": [
     {
-      "url": "https://github.com/jackgruca/mds_home",
-      "title": "GitHub - jackgruca/mds_home: building a NFL mock draft simulator"
+      "title": "GitHub - jackgruca/mds_home: building a NFL mock draft simulator",
+      "url": "https://github.com/jackgruca/mds_home"
     },
     {
-      "url": "https://srdjanmitrovic.com/blog/yahoo-fantasy-football-how-to-1763377806904",
-      "title": "Yahoo Fantasy Football: How To Export ADP Data"
+      "title": "Yahoo Fantasy Football: How To Export ADP Data",
+      "url": "https://srdjanmitrovic.com/blog/yahoo-fantasy-football-how-to-1763377806904"
     },
     {
-      "url": "https://sticktothemodel.com/fantasy",
-      "title": "Fantasy Football Tools - ADP Tracker, Rankings & Mock Drafts"
+      "title": "Average Draft Position (ADP) - Fantasy Football 2025",
+      "url": "https://fantasyfootballcalculator.com/adp"
+    },
+    {
+      "title": "UDK Toolbox: ADP Platform Comparison Tool (Fantasy Football)",
+      "url": "https://www.thefantasyfootballers.com/udk/udk-toolbox-adp-platform-comparison-tool-fantasy-football/"
+    },
+    {
+      "title": "Fantasy Football Tools - ADP Tracker, Rankings & Mock Drafts",
+      "url": "https://sticktothemodel.com/fantasy"
     }
   ],
   "ADP movement tracker API": [
     {
-      "url": "https://developers.adp.com/",
-      "title": "ADP Developer Resources"
+      "title": "ADP Developer Resources",
+      "url": "https://developers.adp.com/"
     },
     {
-      "url": "https://d3bql97l1ytoxn.cloudfront.net/app_resources/410612/documentation/1474610_1739394703906_en-US.pdf",
-      "title": "ADP\u00ae API Central Using ADP APIs to build time-saving integration"
+      "title": "ADP\u00ae API Central Using ADP APIs to build time-saving integration",
+      "url": "https://d3bql97l1ytoxn.cloudfront.net/app_resources/410612/documentation/1474610_1739394703906_en-US.pdf"
     },
     {
-      "url": "https://www.getknit.dev/blog/adp-api-integration-in-depth",
-      "title": "ADP API Integration Guide (In-Depth) - getknit.dev"
+      "title": "ADP API Integration Guide (In-Depth) - getknit.dev",
+      "url": "https://www.getknit.dev/blog/adp-api-integration-in-depth"
     },
     {
-      "url": "https://apitracker.io/a/adp",
-      "title": "ADP API - Developer docs, APIs, SDKs, and auth. | API Tracker"
+      "title": "ADP API - Developer docs, APIs, SDKs, and auth. | API Tracker",
+      "url": "https://apitracker.io/a/adp"
     },
     {
-      "url": "https://www.adp.com/what-we-offer/integrations/api-central.aspx",
-      "title": "ADP\u00ae API Central | Custom Data Integrations | ADP"
+      "title": "ADP\u00ae API Central | Custom Data Integrations | ADP",
+      "url": "https://www.adp.com/what-we-offer/integrations/api-central.aspx"
     }
   ],
   "tier based drafting sheet color coding": [
     {
-      "url": "https://thefantasyfootballgeek.wordpress.com/2017/05/22/tier-based-drafting/",
-      "title": "Tier Based Drafting \u2013 The Fantasy Football Geek"
+      "title": "Tier Based Drafting \u2013 The Fantasy Football Geek",
+      "url": "https://thefantasyfootballgeek.wordpress.com/2017/05/22/tier-based-drafting/"
     },
     {
-      "url": "https://www.sportsmockery.com/fantasy/tier-based-drafting-is-a-way-to-absolutely-crush-your-draft/",
-      "title": "Tier - Based Drafting Is A Way To Absolutely Crush Your Draft"
+      "title": "Tier - Based Drafting Is A Way To Absolutely Crush Your Draft",
+      "url": "https://www.sportsmockery.com/fantasy/tier-based-drafting-is-a-way-to-absolutely-crush-your-draft/"
     },
     {
-      "url": "https://www.post-gazette.com/sports/fantasy-football/2024/08/25/fantasy-draft-cheat-sheet-strategy-sleepers-league-winners-ppr-espn/stories/202407300151",
-      "title": "Fantasy football cheat sheet : Draft strategy, position tiers and..."
+      "title": "Fantasy football cheat sheet : Draft strategy, position tiers and...",
+      "url": "https://www.post-gazette.com/sports/fantasy-football/2024/08/25/fantasy-draft-cheat-sheet-strategy-sleepers-league-winners-ppr-espn/stories/202407300151"
     },
     {
-      "url": "https://askport.org/blog/fantasy-draft-cheat-sheet-your",
-      "title": "Fantasy Draft Cheat Sheet : Your Ultimate Guide"
+      "title": "Fantasy Draft Cheat Sheet : Your Ultimate Guide",
+      "url": "https://askport.org/blog/fantasy-draft-cheat-sheet-your"
+    },
+    {
+      "title": "Tiered Cheat Sheets Printable - photos and vectors",
+      "url": "https://dishcuss.com/explore/tiered-cheat-sheets-printable"
     }
   ],
   "injury risk tiers methodology": [
     {
-      "url": "https://www.slideshare.net/slideshow/session-4-intrinsic-risk-factors-sport-injuries/9175417",
-      "title": "Session 4 intrinsic risk factors sport injuries | PPT"
+      "title": "Session 4 intrinsic risk factors sport injuries | PPT",
+      "url": "https://www.slideshare.net/slideshow/session-4-intrinsic-risk-factors-sport-injuries/9175417"
     },
     {
-      "url": "https://www.be-elite.ca/022-a-simple-injury-risk-formula-for-groin-pain/",
-      "title": "#022 - A Simple Injury Risk Formula for Groin Pain - BE ELITE High..."
+      "title": "Neighbourhood alcohol environment and injury risk ... - Mayo Clinic",
+      "url": "https://mayoclinic.elsevierpure.com/en/publications/neighbourhood-alcohol-environment-and-injury-risk-a-spatial-analy"
+    },
+    {
+      "title": "High temperatures increase workers' injury risk , whether they're...",
+      "url": "https://medicalxpress.com/news/2021-07-high-temperatures-workers-injury-theyre.html"
+    },
+    {
+      "title": "#022 - A Simple Injury Risk Formula for Groin Pain - BE ELITE High...",
+      "url": "https://www.be-elite.ca/022-a-simple-injury-risk-formula-for-groin-pain/"
+    },
+    {
+      "title": "There's A Link Between Your Diet And Injury Risk , But It's Probably...",
+      "url": "https://www.aol.com/theres-between-diet-injury-risk-200500657.html"
     }
   ],
   "NBA usage rate spikes tracker": [
     {
-      "url": "https://www.nba.com/stats/players/usage",
-      "title": "Players Usage | Stats | NBA.com"
+      "title": "Players Usage | Stats | NBA.com",
+      "url": "https://www.nba.com/stats/players/usage"
     },
     {
-      "url": "https://www.fantasylabs.com/nba/on-off/",
-      "title": "NBA Advanced Stats On/Off Tool | FantasyLabs"
+      "title": "NBA Usage Leaders This Season | StatMuse",
+      "url": "https://www.statmuse.com/nba/ask/nba-usage-leaders-this-season"
+    },
+    {
+      "title": "NBA Advanced Stats On/Off Tool | FantasyLabs",
+      "url": "https://www.fantasylabs.com/nba/on-off/"
+    },
+    {
+      "title": "NBA & ABA Single Season Leaders and Records for Usage Pct",
+      "url": "https://www.basketball-reference.com/leaders/usg_pct_season.html"
+    },
+    {
+      "title": "NBA Stats & Basketball Analytics Index | NBAstuffer",
+      "url": "https://www.nbastuffer.com/nba-stats/"
     }
   ],
   "NBA rest travel fatigue model": [
     {
-      "url": "https://www.sciencedirect.com/science/article/pii/S0960077923005994",
-      "title": "Rest or rust? Complex influence of schedule congestion on the ..."
+      "title": "Beyond the Road Trip: Investigating the Impact of Travel ...",
+      "url": "https://digitalcommons.bryant.edu/cgi/viewcontent.cgi?article=1255&context=eeb"
     },
     {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8636381/",
-      "title": "Impacts of travel distance and travel direction on back-to ..."
+      "title": "Rest or rust? Complex influence of schedule congestion on the ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0960077923005994"
     },
     {
-      "url": "https://www.sportsbookreview.com/picks/nba/2025-26-fatigue-index/",
-      "title": "2025-26 NBA Fatigue Index: Ranking All 30 Teams by Travel ..."
+      "title": "Impacts of travel distance and travel direction on back-to ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8636381/"
     },
     {
-      "url": "https://sportify88.com/rest-vs-rust/",
-      "title": "NBA Rest vs Rust: Statistical Impact of Back-to-Backs ..."
+      "title": "2025-26 NBA Fatigue Index: Ranking All 30 Teams by Travel ...",
+      "url": "https://www.sportsbookreview.com/picks/nba/2025-26-fatigue-index/"
+    },
+    {
+      "title": "NBA Rest vs Rust: Statistical Impact of Back-to-Backs ...",
+      "url": "https://sportify88.com/rest-vs-rust/"
     }
   ],
   "pace up matchups NBA tonight": [
     {
-      "url": "https://www.statmuse.com/nba/ask/best-pace-up-game-for-nba-tonight",
-      "title": "Best Pace Up Game For NBA Tonight | StatMuse"
+      "title": "Watch NBA on Prime - New York Knicks Game Tonight",
+      "url": "https://www.bing.com/aclick?ld=e8zubrtBjPSZLp8FRH6D-h4jVUCUyIt59T6o-ke5sTcL8DENYyWS2W-uin2rhiTFVpeek2nzXX9Zj1lPtp1PLiaQzJwGXHy-8HYaHM8XI5Tj8oSKKG_58afuq9dNQ_sdX9-778_DxBAHcZVkDcOa5kuKTW9hriCpoB4U9IBHWPofwqCTjprOpa-bwUASYKoU-M-V72WuB3RYokvt2juRitXXgwh6w&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZmdwJTJmdmlkZW8lMmZkZXRhaWwlMmZCMEZZNVhEVDYyJTNmcmVmJTNkZHZtX3VzX2RsX3NsX2JpX3NwX25iYWN1cDI1X21rd19wNDAyLWt3NDY4My1jcjQ3MDAtYyUyNm1ybnRyayUzZGJpX2NtcC01NTU2NjI0MDRfYWRnLTEyMzI1NTM4NDk2NDcxOTFfYWQtNzcwMzQ3NTc4NDA1MzRfa3dkLTc3MDM1MDYxOTk2NTA5JTNhbG9jLTE5MF9kZXYtY19leHQtJTI2bXNjbGtpZCUzZDNlODhiNDg0MDQ4ZDE0NTViNWM3ZGRjNWQwNmI1MjI5&rlid=3e88b484048d1455b5c7ddc5d06b5229"
+    },
+    {
+      "title": "Best Pace Up Game For NBA Tonight | StatMuse",
+      "url": "https://www.statmuse.com/nba/ask/best-pace-up-game-for-nba-tonight"
+    },
+    {
+      "title": "NBA Matchups 2025-2026 - Today's Basketball Previews, Scores ...",
+      "url": "https://www.covers.com/sports/nba/matchups"
+    },
+    {
+      "title": "NBA Basketball Schedule - ESPN",
+      "url": "https://www.espn.com/basketball/schedule"
+    },
+    {
+      "title": "NBA Matchups for 12/15/25 - Lineups",
+      "url": "https://www.lineups.com/nba/matchups"
     }
   ],
   "MLB platoon splits vs handedness 2025": [
     {
-      "url": "https://www.baseballhq.com/articles/research/gms-office/early-season-platoon-and-handedness-trends-2025",
-      "title": "Early-season platoon and handedness trends, 2025"
+      "title": "Early-season platoon and handedness trends, 2025",
+      "url": "https://www.baseballhq.com/articles/research/gms-office/early-season-platoon-and-handedness-trends-2025"
     },
     {
-      "url": "https://www.rotowire.com/baseball/stats-splits.php",
-      "title": "MLB Player Splits - RotoWire"
+      "title": "What the Numbers Say About Platooning - by John Russillo",
+      "url": "https://www.bastardsofbostonbaseball.com/p/what-the-numbers-say-about-platooning"
     },
     {
-      "url": "https://www.espn.com/mlb/team/splits/_/name/kan/season/2025",
-      "title": "% {teamFullName} 2025 MLB Batting Splits - ESPN"
+      "title": "MLB Player Splits - RotoWire",
+      "url": "https://www.rotowire.com/baseball/stats-splits.php"
+    },
+    {
+      "title": "The Platoon Split You May Have Never Heard Of | FanGraphs ... Player Batting Split Finder | Stathead - Sports-Reference.com % {teamFullName} 2025 MLB Batting Splits - ESPN 2025 MLB Platoon Players - A Visual - Puffle Baseball",
+      "url": "https://blogs.fangraphs.com/the-platoon-split-you-may-have-never-heard-of/"
+    },
+    {
+      "title": "% {teamFullName} 2025 MLB Batting Splits - ESPN",
+      "url": "https://www.espn.com/mlb/team/splits/_/name/kan/season/2025"
     }
   ],
   "xFIP leaders last 30 days": [
     {
-      "url": "https://fantasy.fangraphs.com/98076-2/",
-      "title": "Analyzing Five Unexpected xFIP Leaders | RotoGraphs Fantasy..."
+      "title": "Analyzing Five Unexpected xFIP Leaders | RotoGraphs Fantasy...",
+      "url": "https://fantasy.fangraphs.com/98076-2/"
+    },
+    {
+      "title": "Fantasy Baseball: 2009 xFIP Leaders and Some... - SBNation.com",
+      "url": "https://www.sbnation.com/2010/1/7/2312956/fantasy-baseball-2009-xfip-leaders-and-some-bounce-back-candidates"
+    },
+    {
+      "title": "NHL Player Stat Leaders , 2025-26 Regular Season - ESPN",
+      "url": "https://www.espn.com/nhl/stats"
+    },
+    {
+      "title": "Fantasy Baseball: 2009 xFIP Leaders and Some 2010... - Fake Teams",
+      "url": "https://www.faketeams.com/2009/12/17/1205272/fantasy-baseball-2009-xfip-leaders"
+    },
+    {
+      "title": "Fantasy Baseball posts related to a single topic - Baseball Monster",
+      "url": "https://baseballmonster.com/MessageTopic.aspx?topic=821"
     }
   ],
   "reliever usage last 3 days bullpen chart": [
     {
-      "url": "https://www.rotowire.com/baseball/bullpen-usage.php",
-      "title": "Bullpen Usage By Team - RotoWire"
+      "title": "Bullpen Usage By Team - RotoWire",
+      "url": "https://www.rotowire.com/baseball/bullpen-usage.php"
     },
     {
-      "url": "https://insidethepen.com/",
-      "title": "InsidethePen | Bullpen Analytics and Usage"
+      "title": "InsidethePen | Bullpen Analytics and Usage",
+      "url": "https://insidethepen.com/"
     },
     {
-      "url": "https://fantraxhq.com/bullpen-usage-chart/",
-      "title": "Bullpen Usage Chart - FantraxHQ"
+      "title": "RosterResource - Closer Depth Charts - FanGraphs Baseball",
+      "url": "https://www.fangraphs.com/roster-resource/closer-depth-chart"
     },
     {
-      "url": "https://razzball.com/bullpen-chart/",
-      "title": "Bullpen Chart - Razzball Fantasy Baseball"
+      "title": "Bullpen Usage Chart - FantraxHQ",
+      "url": "https://fantraxhq.com/bullpen-usage-chart/"
+    },
+    {
+      "title": "Bullpen Chart - Razzball Fantasy Baseball",
+      "url": "https://razzball.com/bullpen-chart/"
     }
   ],
   "streaming pitchers tomorrow K upside": [
     {
-      "url": "https://pitcherlist.com/category/fantasy/sp-streamers/",
-      "title": "Fantasy Baseball Streaming Pitchers | Pitcher List"
+      "title": "Fantasy Baseball Streaming Pitchers | Pitcher List",
+      "url": "https://pitcherlist.com/category/fantasy/sp-streamers/"
     },
     {
-      "url": "https://razzball.com/streamers/",
-      "title": "Streaming Pitchers - Projections For Next 7-10 Days | Razzball"
+      "title": "Fantasy Baseball Streaming Pitchers: Waiver Wire Targets (2025) - MSN",
+      "url": "https://www.msn.com/en-us/sports/mlb/fantasy-baseball-streaming-pitchers-waiver-wire-targets-2025/ar-AA1JOz2Z"
     },
     {
-      "url": "https://www.fantasypros.com/mlb/streaming-pitchers.php",
-      "title": "Streaming Pitcher Rankings | Fantasy Baseball Week 1"
+      "title": "Streaming Pitchers - Projections For Next 7-10 Days | Razzball",
+      "url": "https://razzball.com/streamers/"
+    },
+    {
+      "title": "Friday's Fantasy Baseball Streaming Pitchers: Can Michael Soroka ...",
+      "url": "https://www.fantasysp.com/news/mlb/3054843/fridays-fantasy-baseball-streaming-pitchers-can"
+    },
+    {
+      "title": "Streaming Pitcher Rankings | Fantasy Baseball Week 1",
+      "url": "https://www.fantasypros.com/mlb/streaming-pitchers.php"
     }
   ],
   "EPL expected assists xA leaderboard": [
     {
-      "url": "https://understat.com/league/EPL",
-      "title": "EPL xG Table and Scorers for the 2025/2026 season | Understat.com"
+      "title": "EPL xG Table and Scorers for the 2025/2026 season | Understat.com",
+      "url": "https://understat.com/league/EPL"
     },
     {
-      "url": "https://www.statmuse.com/fc/ask/most-xa-in-the-premier-league-by-player",
-      "title": "Most Xa In The Premier League By Player | StatMuse"
+      "title": "Premier League Top Player Stats - Goals, Assists, Clean Sheets",
+      "url": "https://www.premierleague.com/en/stats/top/players"
     },
     {
-      "url": "https://www.fotmob.com/leagues/47/stats/premier-league",
-      "title": "Premier League 2025/2026 stats - FotMob"
+      "title": "Premier League xG (Expected Goals) | FootyStats",
+      "url": "https://footystats.org/england/premier-league/xg"
+    },
+    {
+      "title": "Most Xa In The Premier League By Player | StatMuse",
+      "url": "https://www.statmuse.com/fc/ask/most-xa-in-the-premier-league-by-player"
+    },
+    {
+      "title": "Premier League 2025/2026 stats - FotMob",
+      "url": "https://www.fotmob.com/leagues/47/stats/premier-league"
     }
   ],
   "EPL set piece takers list current": [
     {
-      "url": "https://www.fantasyfootballscout.co.uk/fantasy-premier-league-set-piece-takers",
-      "title": "FPL Penalty and Set-Piece Takers - Fantasy Football Scout"
+      "title": "FPL Penalty and Set-Piece Takers - Fantasy Football Scout",
+      "url": "https://www.fantasyfootballscout.co.uk/fantasy-premier-league-set-piece-takers"
     },
     {
-      "url": "https://www.benchboost.com/premier-league-set-piece-takers/",
-      "title": "Premier League Penalty & Set Piece Takers - Bench Boost"
+      "title": "Premier League Penalty & Set Piece Takers - Bench Boost",
+      "url": "https://www.benchboost.com/premier-league-set-piece-takers/"
     },
     {
-      "url": "https://www.fantasyfootballhub.co.uk/premier-league-set-piece-takers",
-      "title": "Premier League set-piece takers - Fantasy Football Hub"
+      "title": "Premier League set-piece takers - Fantasy Football Hub",
+      "url": "https://www.fantasyfootballhub.co.uk/premier-league-set-piece-takers"
     },
     {
-      "url": "https://ingenuityfantasy.com/game-week-tips/set-piece-takers-for-every-premier-league-team/",
-      "title": "Set Piece Takers for Every Premier League Team"
+      "title": "Set Piece Takers for Every Premier League Team",
+      "url": "https://ingenuityfantasy.com/game-week-tips/set-piece-takers-for-every-premier-league-team/"
     },
     {
-      "url": "https://footballblog.co.uk/fpl-penalty-set-piece-takers-2025-26/",
-      "title": "FPL Penalty & Set-Piece Takers 2025/26: Premier League Guide"
+      "title": "FPL Penalty & Set-Piece Takers 2025/26: Premier League Guide",
+      "url": "https://footballblog.co.uk/fpl-penalty-set-piece-takers-2025-26/"
     }
   ],
   "FPL price change predictor API": [
     {
-      "url": "https://www.livefpl.net/prices",
-      "title": "LiveFPL Price Change Predictor"
+      "title": "LiveFPL Price Change Predictor",
+      "url": "https://www.livefpl.net/prices"
     },
     {
-      "url": "https://www.fantasyfootballscout.co.uk/fpl/price-predictions/",
-      "title": "FPL Price Change Predictions | Fantasy Football Scout"
+      "title": "GitHub - daleconaghan/fpl-ai-assistant: AI-powered Fantasy Premier ...",
+      "url": "https://github.com/daleconaghan/fpl-ai-assistant"
+    },
+    {
+      "title": "FPL Price Change Predictions | Fantasy Football Scout",
+      "url": "https://www.fantasyfootballscout.co.uk/fpl/price-predictions/"
+    },
+    {
+      "title": "Fantasy Premier League Price Changes",
+      "url": "https://fpldashboard.dev/price-changes"
+    },
+    {
+      "title": "FPL Daily Price Changes - 16/12/2025 | FPLedits",
+      "url": "https://fpledits.com/fpl-price-changes"
     }
   ],
   "soccer travel congestion europe midweek": [
     {
-      "url": "https://www.kitmanlabs.com/blog/verheijen-20-year-study/",
-      "title": "Do mid-week European matches influence European teams ..."
+      "title": "Do mid-week European matches influence European teams ...",
+      "url": "https://www.kitmanlabs.com/blog/verheijen-20-year-study/"
     },
     {
-      "url": "https://www.klcc.org/npr-sports/2024-10-16/soccer-stars-in-europe-are-making-an-unusual-complaint-too-much-soccer",
-      "title": "Soccer stars in Europe are making an unusual complaint: too ..."
+      "title": "Soccer stars in Europe are making an unusual complaint: too ...",
+      "url": "https://www.klcc.org/npr-sports/2024-10-16/soccer-stars-in-europe-are-making-an-unusual-complaint-too-much-soccer"
     },
     {
-      "url": "https://www.espn.com/soccer/story/_/id/40622607/european-leagues-unions-ask-eu-rule-fifa-congestion",
-      "title": "European leagues, unions ask EU to rule on FIFA congestion"
+      "title": "European leagues, unions ask EU to rule on FIFA congestion",
+      "url": "https://www.espn.com/soccer/story/_/id/40622607/european-leagues-unions-ask-eu-rule-fifa-congestion"
     },
     {
-      "url": "https://www.mdpi.com/2075-4663/12/8/212",
-      "title": "The Impact of Match Workload and International Travel on ..."
+      "title": "The Impact of Match Workload and International Travel on ...",
+      "url": "https://www.mdpi.com/2075-4663/12/8/212"
     },
     {
-      "url": "https://journals.sagepub.com/doi/full/10.1177/15270025251369423",
-      "title": "The Impact of Scheduling and Match Congestion on Team ..."
+      "title": "The Impact of Scheduling and Match Congestion on Team ...",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/15270025251369423"
     }
   ],
   "DFS soccer lineup optimizer with xG": [
     {
-      "url": "https://rotogrinders.com/lineuphq",
-      "title": "DFS Lineup Optimizer - Dominate Daily Fantasy Sports With LineupHQ"
+      "title": "DFS Lineup Optimizer - Dominate Daily Fantasy Sports With LineupHQ",
+      "url": "https://rotogrinders.com/lineuphq"
     },
     {
-      "url": "https://www.rotowire.com/daily/soccer/optimizer.php?league=UCL&site=DraftKings",
-      "title": "RotoWire DraftKings Soccer Optimizer"
+      "title": "RotoWire DraftKings Soccer Optimizer",
+      "url": "https://www.rotowire.com/daily/soccer/optimizer.php?league=UCL&site=DraftKings"
+    },
+    {
+      "title": "Bundesliga Soccer - DFS Lineup Picks for FanDuel (5/30/20)",
+      "url": "https://www.rotoballer.com/bundesliga-soccer-dfs-lineup-picks-for-fanduel-matchday-29-5-30-20/740862"
+    },
+    {
+      "title": "DFS Lineup Optimizer with Python",
+      "url": "https://www.linkedin.com/pulse/dfs-lineup-optimizer-python-jarvis-nederlof"
+    },
+    {
+      "title": "GitHub - fadcrush/nba- dfs - optimizer : NBA DFS Lineup Optimizer ...",
+      "url": "https://github.com/fadcrush/nba-dfs-optimizer"
     }
   ],
   "prop lines API Underdog PrizePicks": [
     {
-      "url": "https://app.prizepicks.com/",
-      "title": "app. prizepicks .com"
+      "title": "TOP NFL Prop Bets for Week 15 [Deep Dive - PRIZEPICKS ...]",
+      "url": "https://www.youtube.com/watch?v=rz5VJRcfoT0"
     },
     {
-      "url": "https://www.fantasylabs.com/articles/dfs-pickem-simulation-tool-prizepicks-underdog-fantasy/",
-      "title": "DFS Pick 'em Simulation Tool for PrizePicks , Underdog ... | FantasyLabs"
+      "title": "app. prizepicks .com",
+      "url": "https://app.prizepicks.com/"
+    },
+    {
+      "title": "Apps Like PrizePicks : The 5 Best Alternatives Available Now",
+      "url": "https://rotogrinders.com/fantasy/apps-like-prizepicks"
+    },
+    {
+      "title": "DFS Pick 'em Simulation Tool for PrizePicks , Underdog ... | FantasyLabs",
+      "url": "https://www.fantasylabs.com/articles/dfs-pickem-simulation-tool-prizepicks-underdog-fantasy/"
+    },
+    {
+      "title": "Florida Sends Cease And Desist to PrizePicks , Underdog Fantasy...",
+      "url": "https://www.actionnetwork.com/news/florida-sends-cease-and-desist-to-prizepicks-underdog-fantasy-and-betr"
     }
   ],
   "correlation matrix NFL positions stacking": [
     {
-      "url": "https://www.fantasylabs.com/articles/undervalued-nfl-dfs-correlations/",
-      "title": "The Most Undervalued NFL DFS Correlations | FantasyLabs"
+      "title": "The Most Undervalued NFL DFS Correlations | FantasyLabs",
+      "url": "https://www.fantasylabs.com/articles/undervalued-nfl-dfs-correlations/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=-MO-vX4UgXA",
-      "title": "DFS Army NFL Correlation Matrix Tutorial - YouTube"
+      "title": "NFL Data Analysis: Position Spent and Team Performance",
+      "url": "https://nycdatascience.com/blog/student-works/nfl-analysis-positional-spend-the-impact-on-performance/"
+    },
+    {
+      "title": "NFL Matrix Theory - 2025-26 NFL Computer Predictions and Rankings",
+      "url": "https://www.ff-winners.com/nfl-matrix-theory/"
+    },
+    {
+      "title": "DFS Army NFL Correlation Matrix Tutorial - YouTube",
+      "url": "https://www.youtube.com/watch?v=-MO-vX4UgXA"
+    },
+    {
+      "title": "Introduction to the Correlation Matrix | Built In",
+      "url": "https://builtin.com/data-science/correlation-matrix"
     }
   ],
   "bring back stacks historical ROI": [
     {
-      "url": "https://scripbox.com/mf/return-on-investment/",
-      "title": "What is Return on Investment & How to Calculate ROI ?"
+      "title": "clear ROI history from kcf tracking in opencv - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/40408616/clear-roi-history-from-kcf-tracking-in-opencv"
     },
     {
-      "url": "https://www.linkedin.com/pulse/historical-roi-fed-regulated-program-serious-charles-evans-phd",
-      "title": "Historical ROI - FED Regulated Program - Serious Investors"
+      "title": "Multiple back stacks . A deep dive | by Ian Lake | Android Developers",
+      "url": "https://medium.com/androiddevelopers/multiple-back-stacks-b714d974f134"
+    },
+    {
+      "title": "What is Return on Investment & How to Calculate ROI ?",
+      "url": "https://scripbox.com/mf/return-on-investment/"
+    },
+    {
+      "title": "Historical ROI - FED Regulated Program - Serious Investors",
+      "url": "https://www.linkedin.com/pulse/historical-roi-fed-regulated-program-serious-charles-evans-phd"
+    },
+    {
+      "title": "Polybuzz | Talk to AI Characters & Enjoy Free AI Chat Anytime",
+      "url": "https://www.polybuzz.ai/"
     }
   ],
   "bye week planner tool week 7-14": [
     {
-      "url": "https://byeweeks.com/",
-      "title": "NFL Bye Weeks - 2025 Schedule"
+      "title": "NFL Bye Weeks - 2025 Schedule",
+      "url": "https://byeweeks.com/"
     },
     {
-      "url": "https://fftoolbox.fulltimefantasy.com/football/byeweeks.cfm",
-      "title": "2025 NFL Bye Weeks - FFToolbox.com"
+      "title": "2025 NFL Bye Weeks - FFToolbox.com",
+      "url": "https://fftoolbox.fulltimefantasy.com/football/byeweeks.cfm"
+    },
+    {
+      "title": "Fantasy Football Bye Weeks 2025: Cheat sheet for when top ...",
+      "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-bye-weeks-cheat-sheet-2025/5bc9ee1b8172abc70a98795d"
+    },
+    {
+      "title": "NFL Bye Weeks 2025: Complete list of bye weeks for all 32 ...",
+      "url": "https://www.nbcsports.com/fantasy/football/news/nfl-bye-weeks-2025-complete-list-of-bye-weeks-for-all-32-teams"
+    },
+    {
+      "title": "2025 NFL bye weeks for all 32 teams - ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/45944807/nfl-bye-weeks-every-team-2025"
     }
   ],
   "fantasy playoff schedule weeks 14-17 strength": [
     {
-      "url": "https://www.rotoballer.com/best-worst-fantasy-football-playoff-schedules-matchups-for-weeks-15-17-2025/1761451",
-      "title": "Best/Worst Fantasy Football Playoff Schedules, Matchups for Weeks 15-17 ..."
+      "title": "Best/Worst Fantasy Football Playoff Schedules, Matchups for Weeks 15-17 ...",
+      "url": "https://www.rotoballer.com/best-worst-fantasy-football-playoff-schedules-matchups-for-weeks-15-17-2025/1761451"
     },
     {
-      "url": "https://tools.optimusfantasy.com/playoff-schedules",
-      "title": "Fantasy Playoff Strength of Schedule - Optimus Fantasy"
+      "title": "Fantasy Playoff Strength of Schedule - Optimus Fantasy",
+      "url": "https://tools.optimusfantasy.com/playoff-schedules"
     },
     {
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-playoff-strength-of-schedule-ranking-remaining-games-for-every-teams-passing-offense-from-easiest-to-hardest-180632503.html",
-      "title": "Fantasy Football Playoff Strength of Schedule: Ranking remaining games ..."
+      "title": "Fantasy Football Playoff Strength of Schedule: Ranking remaining games ...",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-playoff-strength-of-schedule-ranking-remaining-games-for-every-teams-passing-offense-from-easiest-to-hardest-180632503.html"
+    },
+    {
+      "title": "Strength of Schedule - DraftSharks",
+      "url": "https://www.draftsharks.com/strength-of-schedule/def"
+    },
+    {
+      "title": "Fantasy Football Matchup Calendar | FantasyPros",
+      "url": "https://www.fantasypros.com/nfl/matchups/dst.php"
     }
   ],
   "DST streamers week 6 pressure rate": [
     {
-      "url": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-week-6-defense-dst-rankings-and-streamers",
-      "title": "Fantasy Football Week 6 Defense (DST) Rankings and Streamers"
+      "title": "Fantasy Football Week 6 Defense (DST) Rankings and Streamers",
+      "url": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-week-6-defense-dst-rankings-and-streamers"
     },
     {
-      "url": "https://fantraxhq.com/fantasy-football-week-6-dst-streamers/",
-      "title": "Fantasy Football Week 6 DST Streamers - FantraxHQ"
+      "title": "Fantasy Football Week 6 DST Streamers - FantraxHQ",
+      "url": "https://fantraxhq.com/fantasy-football-week-6-dst-streamers/"
     },
     {
-      "url": "https://www.rotoballer.com/fantasy-football-defense-d-st-rankings-streamers-for-weeks-3-4-5-6-2025/1696579",
-      "title": "Top Fantasy Football D/ST Rankings (Weeks 3, 4, 5, 6 ..."
+      "title": "Top Fantasy Football D/ST Rankings (Weeks 3, 4, 5, 6 ...",
+      "url": "https://www.rotoballer.com/fantasy-football-defense-d-st-rankings-streamers-for-weeks-3-4-5-6-2025/1696579"
     },
     {
-      "url": "https://www.rotostreetjournal.com/2025/10/06/best-fantasy-football-week-6-defense-streamers-d-st-patriots-dst-packers-dst-should-roll-in-soft-matchups/",
-      "title": "Best Fantasy Football Week 6 Defense Streamers (D/ST ..."
+      "title": "Best Fantasy Football Week 6 Defense Streamers (D/ST ...",
+      "url": "https://www.rotostreetjournal.com/2025/10/06/best-fantasy-football-week-6-defense-streamers-d-st-patriots-dst-packers-dst-should-roll-in-soft-matchups/"
     },
     {
-      "url": "https://www.fantasylife.com/articles/fantasy/defense-dst-streamers-for-week-6-fantasy-football-back-the-pack",
-      "title": "Defense (DST) Streamers For Week 6 Fantasy Football: Back ..."
+      "title": "Defense (DST) Streamers For Week 6 Fantasy Football: Back ...",
+      "url": "https://www.fantasylife.com/articles/fantasy/defense-dst-streamers-for-week-6-fantasy-football-back-the-pack"
     }
   ],
   "kicker weather wind rankings week 9": [
     {
-      "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-kicker-rankings-week-9-2025/a0e11f7204e6ad8bd4186103",
-      "title": "Updated Week 9 Fantasy Kicker Rankings: Who to start, best sleepers ..."
+      "title": "Updated Week 9 Fantasy Kicker Rankings: Who to start, best sleepers ...",
+      "url": "https://www.sportingnews.com/us/fantasy/news/fantasy-football-kicker-rankings-week-9-2025/a0e11f7204e6ad8bd4186103"
     },
     {
-      "url": "https://www.fantasypros.com/2024/10/fantasy-football-kicker-rankings-start-sit-advice-week-9-2024/",
-      "title": "Fantasy Football Kicker Rankings & Start/Sit Advice: Week 9 (2024)"
+      "title": "Fantasy Football Kicker Rankings & Start/Sit Advice: Week 9 (2024)",
+      "url": "https://www.fantasypros.com/2024/10/fantasy-football-kicker-rankings-start-sit-advice-week-9-2024/"
     },
     {
-      "url": "https://www.draftsharks.com/weekly-rankings/9/k",
-      "title": "Week 9 Kicker Rankings 2025 (Updated) - DraftSharks"
+      "title": "Week 9 Kicker Rankings 2025 (Updated) - DraftSharks",
+      "url": "https://www.draftsharks.com/weekly-rankings/9/k"
     },
     {
-      "url": "https://fantasyfootballcalculator.com/rankings/week-9/kicker",
-      "title": "Week 9 Kicker Fantasy Football Rankings"
+      "title": "Week 9 Kicker Fantasy Football Rankings",
+      "url": "https://fantasyfootballcalculator.com/rankings/week-9/kicker"
     },
     {
-      "url": "https://www.usatoday.com/story/sports/nfl/fantasy/2024/10/29/week-9-fantasy-football-kicker-rankings-start-sit/75919009007/",
-      "title": "Fantasy football: Week 9 kicker rankings (2024) - USA TODAY"
+      "title": "Fantasy football: Week 9 kicker rankings (2024) - USA TODAY",
+      "url": "https://www.usatoday.com/story/sports/nfl/fantasy/2024/10/29/week-9-fantasy-football-kicker-rankings-start-sit/75919009007/"
     }
   ],
   "red zone usage dashboard": [
     {
-      "url": "https://app.rz-ops.com/rzio/",
-      "title": "Redzone IO Portal"
+      "title": "Redzone: The #1 Connected Workforce Solution",
+      "url": "https://rzsoftware.com/"
     },
     {
-      "url": "https://rzsoftware.com/product/analytics/",
-      "title": "Manufacturing Analytics Software | Redzone"
+      "title": "Redzone IO Portal",
+      "url": "https://app.rz-ops.com/rzio/"
+    },
+    {
+      "title": "Manufacturing Analytics Software | Redzone",
+      "url": "https://rzsoftware.com/product/analytics/"
+    },
+    {
+      "title": "OEE Software for Manufacturing Productivity | Redzone",
+      "url": "https://rzsoftware.com/product/productivity/"
+    },
+    {
+      "title": "Log in - dev.redzone-hq.com",
+      "url": "https://dev.redzone-hq.com/Identity/Account/Login"
     }
   ],
   "goal line carries leaders": [
     {
-      "url": "https://www.addmorefunds.com/nfl/rushing/",
-      "title": "2025 NFL Rushing Stats - Redzone Attempts - Goal Line Carries ..."
+      "title": "NFL Player Stat Leaders, 2025 Regular Season - ESPN",
+      "url": "https://www.espn.com/nfl/stats"
     },
     {
-      "url": "https://www.statmuse.com/nfl/ask/nfl-goal-line-carry-leaders-this-season",
-      "title": "NFL Goal Line Carry Leaders This Season | StatMuse"
+      "title": "2025 NFL Rushing Stats - Redzone Attempts - Goal Line Carries ...",
+      "url": "https://www.addmorefunds.com/nfl/rushing/"
     },
     {
-      "url": "https://www.fantasypros.com/nfl/red-zone-stats/rb.php?range=full",
-      "title": "2025 NFL Red Zone Stats | Running Backs | FantasyPros"
+      "title": "NFL Goal Line Carry Leaders This Season | StatMuse",
+      "url": "https://www.statmuse.com/nfl/ask/nfl-goal-line-carry-leaders-this-season"
+    },
+    {
+      "title": "Most Carries/Touches by Running Backs in 2025-2026 - eDraft",
+      "url": "https://edraft.com/nfl/fantasy-football/tools/carries/rb/"
+    },
+    {
+      "title": "2025 NFL Red Zone Stats | Running Backs | FantasyPros",
+      "url": "https://www.fantasypros.com/nfl/red-zone-stats/rb.php?range=full"
     }
   ],
   "sticky metrics year over year fantasy": [
     {
-      "url": "https://sumersports.com/the-zone/sticky-football-stats-predictive-nfl-metrics/",
-      "title": "Sticky Stats: Predictive NFL Metrics | SumerSports"
+      "title": "Sticky Stats: Predictive NFL Metrics | SumerSports",
+      "url": "https://sumersports.com/the-zone/sticky-football-stats-predictive-nfl-metrics/"
     },
     {
-      "url": "https://www.thefantasyfootballers.com/articles/whats-sticky-statistics-you-can-rely-on-for-fantasy-football/",
-      "title": "What's Sticky? Statistics You Can Rely On for Fantasy Football"
+      "title": "What's Sticky? Statistics You Can Rely On for Fantasy Football",
+      "url": "https://www.thefantasyfootballers.com/articles/whats-sticky-statistics-you-can-rely-on-for-fantasy-football/"
     },
     {
-      "url": "https://fantasyclassroom.org/Blogs/sticky-stats/qbs-sticky-season-totals.html",
-      "title": "Quarterback Sticky Stats"
+      "title": "Fantasy Football Stats and Leaders | FantasyData",
+      "url": "https://fantasydata.com/nfl/fantasy-football-leaders"
     },
     {
-      "url": "https://www.theringer.com/2019/08/15/nfl/fantasy-football-sticky-stats",
-      "title": "In Fantasy Football, the Stickiest Stats Are the Ones That Count"
+      "title": "Quarterback Sticky Stats",
+      "url": "https://fantasyclassroom.org/Blogs/sticky-stats/qbs-sticky-season-totals.html"
+    },
+    {
+      "title": "In Fantasy Football, the Stickiest Stats Are the Ones That Count",
+      "url": "https://www.theringer.com/2019/08/15/nfl/fantasy-football-sticky-stats"
     }
   ],
   "prior weight tuning projection error analysis": [
     {
-      "url": "https://arxiv.org/html/2411.15224v1",
-      "title": "Parameter Efficient Mamba Tuning via Projector -targeted..."
+      "title": "Parameter Efficient Mamba Tuning via Projector -targeted...",
+      "url": "https://arxiv.org/html/2411.15224v1"
     },
     {
-      "url": "https://github.com/haotian-liu/LLaVA/issues/474",
-      "title": "[Usage] Cannot load the tuned projector weights \u00b7 Issue #474..."
+      "title": "[Usage] Cannot load the tuned projector weights \u00b7 Issue #474...",
+      "url": "https://github.com/haotian-liu/LLaVA/issues/474"
+    },
+    {
+      "title": "Priority Weights \u2014 Airflow 3.1.5 Documentation",
+      "url": "https://airflow.apache.org/docs/apache-airflow/3.1.5/administration-and-deployment/priority-weight.html"
+    },
+    {
+      "title": "Representation Projection Invariance",
+      "url": "https://aclanthology.org/2023.findings-emnlp.975.pdf"
+    },
+    {
+      "title": "A Nonlinear PID Stabilizer With Spherical Projection for Humanoids...",
+      "url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01089549/document"
     }
   ],
   "bootstrap confidence intervals fantasy projections": [
     {
-      "url": "https://www.psychologicalscience.org/observer/finding-bootstrap-confidence-intervals-for-effect-sizes-with-bootes",
-      "title": "Finding Bootstrap Confidence Intervals for Effect Sizes With BootES"
+      "title": "Finding Bootstrap Confidence Intervals for Effect Sizes With BootES",
+      "url": "https://www.psychologicalscience.org/observer/finding-bootstrap-confidence-intervals-for-effect-sizes-with-bootes"
     },
     {
-      "url": "https://arxiv.org/abs/2404.12967",
-      "title": "Bootstrap confidence intervals : A comparative simulation study"
+      "title": "Bootstrap confidence intervals : A comparative simulation study",
+      "url": "https://arxiv.org/abs/2404.12967"
     },
     {
-      "url": "https://stats.stackexchange.com/questions/646569/bootstrapped-confidence-interval-overestimates-variance-in-difference-of-means",
-      "title": "t test - Bootstrapped confidence interval overestimates variance in..."
+      "title": "t test - Bootstrapped confidence interval overestimates variance in...",
+      "url": "https://stats.stackexchange.com/questions/646569/bootstrapped-confidence-interval-overestimates-variance-in-difference-of-means"
     },
     {
-      "url": "https://projecteuclid.org/journals/annals-of-statistics/volume-20/issue-2/On-Bootstrap-Confidence-Intervals-in-Nonparametric-Regression/10.1214/aos/1176348652.full",
-      "title": "On Bootstrap Confidence Intervals in Nonparametric Regression"
+      "title": "On Bootstrap Confidence Intervals in Nonparametric Regression",
+      "url": "https://projecteuclid.org/journals/annals-of-statistics/volume-20/issue-2/On-Bootstrap-Confidence-Intervals-in-Nonparametric-Regression/10.1214/aos/1176348652.full"
     },
     {
-      "url": "https://stackoverflow.com/questions/49363093/bootstrap-weighed-median-and-confidence-interval",
-      "title": "r - Bootstrap weighed median and confidence interval - Stack Overflow"
+      "title": "r - Bootstrap weighed median and confidence interval - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/49363093/bootstrap-weighed-median-and-confidence-interval"
     }
   ],
   "python notebook template for sports analytics": [
     {
-      "url": "https://github.com/johnymontana/python-notebook-template",
-      "title": "GitHub - johnymontana/ python - notebook - template : A template ..."
+      "title": "GitHub - johnymontana/ python - notebook - template : A template ...",
+      "url": "https://github.com/johnymontana/python-notebook-template"
     },
     {
-      "url": "https://jon2anderson.medium.com/python-baseball-savant-lesson-2-e017db6d5dcf",
-      "title": "Python & Baseball Savant \u2014 Lesson #2 | by Jon Anderson | Medium"
+      "title": "Find the insights you need with the power of SQL and Python - Nekt",
+      "url": "https://docs.nekt.com/get-started/build-your-first-transformation"
+    },
+    {
+      "title": "Python & Baseball Savant \u2014 Lesson #2 | by Jon Anderson | Medium",
+      "url": "https://jon2anderson.medium.com/python-baseball-savant-lesson-2-e017db6d5dcf"
+    },
+    {
+      "title": "\u0427\u0442\u0435\u043d\u0438\u0435 CSV \u0444\u0430\u0439\u043b\u043e\u0432 \u0432 Python \u0441 Pandas \u0432 Jupyter Notebook ...",
+      "url": "https://external.software/archives/68916"
+    },
+    {
+      "title": "Jupyter Notebook",
+      "url": "https://nextleap.app/online-compiler/jupyter-notebook"
     }
   ],
   "seaborn color palette for tiers": [
     {
-      "url": "https://seaborn.pydata.org/tutorial/color_palettes.html",
-      "title": "Choosing color palettes \u2014 seaborn 0.13.2 documentation"
+      "title": "Choosing color palettes \u2014 seaborn 0.13.2 documentation",
+      "url": "https://seaborn.pydata.org/tutorial/color_palettes.html"
     },
     {
-      "url": "https://www.practicalpythonfordatascience.com/ap_seaborn_palette",
-      "title": "Seaborn Color Palettes - Practical Python for Data Science"
+      "title": "Seaborn Color Palettes - Practical Python for Data Science",
+      "url": "https://www.practicalpythonfordatascience.com/ap_seaborn_palette"
     },
     {
-      "url": "https://www.datacamp.com/tutorial/seaborn-palettes",
-      "title": "Seaborn Color Palette: Quick Guide to Picking Colors"
+      "title": "How to Change Colors in Seaborn (Custom Palettes and Manual ...",
+      "url": "https://datavizpyr.com/manually-specify-palette-colors-in-seaborn/"
+    },
+    {
+      "title": "Seaborn Color Palette: Quick Guide to Picking Colors",
+      "url": "https://www.datacamp.com/tutorial/seaborn-palettes"
+    },
+    {
+      "title": "A Step-by-Step Guide to Changing Plot Colors in Seaborn",
+      "url": "https://www.geeksforgeeks.org/data-visualization/a-step-by-step-guide-to-changing-plot-colors-in-seaborn/"
     }
   ],
   "Google Sheets importjson fantasy API": [
     {
-      "url": "https://spreadsheetpoint.com/google-sheets-import-json-guide/",
-      "title": "Can Google Sheets Import JSON? - Spreadsheet Point"
+      "title": "Can Google Sheets Import JSON? - Spreadsheet Point",
+      "url": "https://spreadsheetpoint.com/google-sheets-import-json-guide/"
     },
     {
-      "url": "https://workspace.google.com/marketplace/app/importjson_import_json_data_into_google/782573720506",
-      "title": "ImportJSON | Import JSON data into Google Sheets"
+      "title": "ImportJSON | Import JSON data into Google Sheets",
+      "url": "https://workspace.google.com/marketplace/app/importjson_import_json_data_into_google/782573720506"
     },
     {
-      "url": "https://www.thebricks.com/resources/guide-how-to-import-json-into-google-sheets",
-      "title": "How to Import JSON into Google Sheets - thebricks.com"
+      "title": "How to Import JSON into Google Sheets - thebricks.com",
+      "url": "https://www.thebricks.com/resources/guide-how-to-import-json-into-google-sheets"
     },
     {
-      "url": "https://basescripts.com/working-with-json-writing-api-data-into-google-sheets",
-      "title": "Working With JSON & Writing API Data Into Google Sheets"
+      "title": "Working With JSON & Writing API Data Into Google Sheets",
+      "url": "https://basescripts.com/working-with-json-writing-api-data-into-google-sheets"
     },
     {
-      "url": "https://www.lupagedigital.com/blog/json-to-google-sheets/",
-      "title": "Import JSON to Google Sheets (Low-Code Guide) - Lupage Digital"
+      "title": "Import JSON to Google Sheets (Low-Code Guide) - Lupage Digital",
+      "url": "https://www.lupagedigital.com/blog/json-to-google-sheets/"
     }
   ],
   "Zapier Discord webhook lineup reminder": [
     {
-      "url": "https://zapier.com/apps/discord/integrations/webhook",
-      "title": "Discord Webhooks by Zapier Integration - Quick Connect - Zapier"
+      "title": "Connect More to Zapier\u00ae - Automate Your Work in Minutes",
+      "url": "https://www.bing.com/aclick?ld=e8W760tOP-NU9uvnmiFST13jVUCUwMWW76Lj0WpT6XiJUgQeEuoaGM8IiwIa2pF_ltAkR94F3j6LFTCG8WrG4JI8jf1vXGctrl2T1goOY-0DRbYqvrWUmaVykzLlnidrYe1EztwAkIID9386FjHCjcFJcUY2FixPL15-bTHG9Pm98d9cj_OK6-rqKFGawE1g8YQrHSOqRd86XczCU8rHbmWEjwu7Q&u=aHR0cHMlM2ElMmYlMmZ6YXBpZXIuY29tJTJmYXBwcyUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZGJpbmctdXNhLW51YS1zZWFyY2gtYnJhbmQtbG9uZ190YWlsJTI2dXRtX3Rlcm0lM2Rob3clMjUyMHRvJTI1MjB6YXBpZXIlMjZ1dG1fY29udGVudCUzZF9wY3JpZF9fcGt3X2hvdyUyNTIwdG8lMjUyMHphcGllcl9wbXRfcF9wZHZfY19zbGlkX19wZ3JpZF8xMzE5NDE1NDU3ODc3MzUwX3B0YWlkX2t3ZC04MjQ2NDI4MzI0NTczOCUzYWxvYy0xOTBfJTI2dXRtX2Fkc19jYW1wYWlnbl9pZCUzZDQ0MDE3MzgwOSUyNnV0bV9hZHNfYWRzZXRfaWQlM2QxMzE5NDE1NDU3ODc3MzUwJTI2dXRtX2Fkc19hZF9pZCUzZDgyNDYzNzY0NjI5OTgwJTI2bXNjbGtpZCUzZDdjOTMxZDA1ZTJhOTE4ZjllZGNjNzQ0NDM2NTIxM2I4&rlid=7c931d05e2a918f9edcc7444365213b8"
     },
     {
-      "url": "https://gist.github.com/Tommyfoxy2/5bbcbc4ce340b01e00871bd43d67ff36",
-      "title": "Simple Zapier Push to Discord webhook (s) \u00b7 GitHub"
+      "title": "Discord Webhooks by Zapier Integration - Quick Connect - Zapier",
+      "url": "https://zapier.com/apps/discord/integrations/webhook"
     },
     {
-      "url": "https://www.switchlabs.dev/resources/automating-discord-notifications-with-zapier-webhooks:-a-step-by-step-guide",
-      "title": "Automating Discord Notifications with Zapier Webhooks: A Step ..."
+      "title": "Simple Zapier Push to Discord webhook (s) \u00b7 GitHub",
+      "url": "https://gist.github.com/Tommyfoxy2/5bbcbc4ce340b01e00871bd43d67ff36"
     },
     {
-      "url": "https://www.marketingscoop.com/marketing/automating-discord-reminders-for-google-calendar-events/",
-      "title": "Automating Discord Reminders for Google Calendar Events"
+      "title": "Automating Discord Notifications with Zapier Webhooks: A Step ...",
+      "url": "https://www.switchlabs.dev/resources/automating-discord-notifications-with-zapier-webhooks:-a-step-by-step-guide"
+    },
+    {
+      "title": "Automating Discord Reminders for Google Calendar Events",
+      "url": "https://www.marketingscoop.com/marketing/automating-discord-reminders-for-google-calendar-events/"
     }
   ],
   "micro podcast quick hits recording workflow": [
     {
-      "url": "https://riverside.com/",
-      "title": "Riverside: HD Podcast & Video Software | Free Recording & Editing"
+      "title": "Top 6 Editors for Podcast Video Creation... | Code Carbon",
+      "url": "https://codecarbon.com/top-6-editors-for-podcast-video-creation-video-audio-editing-export-that-reddit-podcasters-recommend-for-clean-final-outputs/"
+    },
+    {
+      "title": "10-15 secs: How to introduce yourself in a podcast quickly (2025)",
+      "url": "https://cartmango.com/how-to-introduce-yourself-in-a-podcast/"
+    },
+    {
+      "title": "Riverside: HD Podcast & Video Software | Free Recording & Editing",
+      "url": "https://riverside.com/"
+    },
+    {
+      "title": "The Best AI Podcast Visualizer Solutions: How to Turn Any Podcast to...",
+      "url": "https://filmora.wondershare.com/ai-generation/ai-podcast-visualizer.html"
+    },
+    {
+      "title": "And the winner is\u2026 \u2013 PHD037 by Quick Hits - Podcast ... | Mixcloud",
+      "url": "https://www.mixcloud.com/quickhits-podcasthelpdesk/and-the-winner-is-phd037/"
     }
   ],
   "compress audio podcast noise reduction": [
     {
-      "url": "https://cleanvoice.ai/blog/podcast-compression/",
-      "title": "How to Use Podcast Compression for Balanced Audio: Guided Steps"
+      "title": "How to Use Podcast Compression for Balanced Audio: Guided Steps",
+      "url": "https://cleanvoice.ai/blog/podcast-compression/"
     },
     {
-      "url": "https://podcast.adobe.com/en/enhancespeech",
-      "title": "Enhance Speech v2 from Adobe | Free AI filter for cleaning up spoken audio"
+      "title": "Enhance Speech v2 from Adobe | Free AI filter for cleaning up spoken audio",
+      "url": "https://podcast.adobe.com/en/enhancespeech"
     },
     {
-      "url": "https://elevenlabs.io/blog/how-to-clean-up-audio-for-podcasts",
-      "title": "ElevenLabs \u2014 How to clean up high-quality podcasts"
+      "title": "ElevenLabs \u2014 How to clean up high-quality podcasts",
+      "url": "https://elevenlabs.io/blog/how-to-clean-up-audio-for-podcasts"
     },
     {
-      "url": "https://podcastlaunchhub.com/podcast-editing-compression/",
-      "title": "Understanding Audio Compression for Podcasts"
+      "title": "Understanding Audio Compression for Podcasts",
+      "url": "https://podcastlaunchhub.com/podcast-editing-compression/"
     },
     {
-      "url": "https://www.aiarty.com/ai-video-enhancer/audacity-clean-up-audio.htm",
-      "title": "How to Clean Up Audio in Audacity: A Step-by-Step Guide in 2026"
+      "title": "How to Clean Up Audio in Audacity: A Step-by-Step Guide in 2026",
+      "url": "https://www.aiarty.com/ai-video-enhancer/audacity-clean-up-audio.htm"
     }
   ],
   "Substack newsletter sports template": [
     {
-      "url": "https://mattgiaro.com/substack-newsletter-templates/",
-      "title": "3 Simple Substack Newsletter Templates (That Pulls In Readers ..."
+      "title": "3 Simple Substack Newsletter Templates (That Pulls In Readers ...",
+      "url": "https://mattgiaro.com/substack-newsletter-templates/"
     },
     {
-      "url": "https://flodesk.com/tips/sports-newsletter-template",
-      "title": "Top 5 Sports newsletter templates to boost engagement"
+      "title": "Top 5 Sports newsletter templates to boost engagement",
+      "url": "https://flodesk.com/tips/sports-newsletter-template"
     },
     {
-      "url": "https://create.vista.com/templates/newsletter/sports/",
-      "title": "Sports Newsletter Templates for Free | Make Your Design Online"
+      "title": "Best Sports Substack Newsletters",
+      "url": "https://substackcourse.com/best-sports-substack-newsletters/"
+    },
+    {
+      "title": "Sports - Substack Newsletter Charts - Reletter",
+      "url": "https://reletter.com/charts/substack/sports/free"
+    },
+    {
+      "title": "Sports Newsletter Templates for Free | Make Your Design Online",
+      "url": "https://create.vista.com/templates/newsletter/sports/"
     }
   ],
   "Mailchimp RSS to email automation": [
     {
-      "url": "https://rss.app/blog/how-to-automate-your-newsletter-with-mailchimp-and-rss-qQqAG3",
-      "title": "The Ultimate Guide to Automate your Newsletter with Mailchimp"
+      "title": "Streamline Your Email Marketing Efforts with RSS - to - Email Automation",
+      "url": "https://medium.com/fliprss/streamline-your-email-marketing-efforts-with-rss-to-email-automation-d2537a42cb3f"
     },
     {
-      "url": "https://www.youtube.com/watch?v=lJ-JZvUjRBQ",
-      "title": "How to setup automated emails in mailchimp | RSS to ..."
+      "title": "The Ultimate Guide to Automate your Newsletter with Mailchimp",
+      "url": "https://rss.app/blog/how-to-automate-your-newsletter-with-mailchimp-and-rss-qQqAG3"
     },
     {
-      "url": "https://wpism.com/mailchimp-rss-email-newsletter/",
-      "title": "MailChimp RSS to Email Newsletter - Complete Guide 2025"
+      "title": "How to setup automated emails in mailchimp | RSS to ...",
+      "url": "https://www.youtube.com/watch?v=lJ-JZvUjRBQ"
+    },
+    {
+      "title": "MailChimp RSS to Email Newsletter - Complete Guide 2025",
+      "url": "https://wpism.com/mailchimp-rss-email-newsletter/"
+    },
+    {
+      "title": "Automating Newsletters with RSS - to - Email | JDM Digital",
+      "url": "https://jdmdigital.co/support/wordpress/automating-newsletters-rss/"
     }
   ],
   "vintage sports cards value lookup": [
     {
-      "url": "https://www.sportscardspro.com/",
-      "title": "Sports Card Prices | Free PSA, BGS & Ungraded Price Guide"
+      "title": "Buy & Sell Trading Cards - Buy, Sell, Trade, & Rip Cards",
+      "url": "https://www.bing.com/aclick?ld=e8Rp6LDFSEWHu4c2HRxtgSWTVUCUyJVeprezfmxhDjSVOp7uvifKibf9gIC3pLjd9QuPorGmidSlaTb_b_F1430hCjfOID8pePqrHfJ4z8DqE0dWZn-YfKUAzit9M9iFnVl304ocudImXT9_wn1U6WtCuEAc-DZHmIct5ht536egVlLRwjsn6-Uj6RK3cvSqIVaLOjylv_zMUmdBVAJ9a4SoYG2WI&u=aHR0cHMlM2ElMmYlMmZhcmVuYWNsdWIuY29tJTJmJTNmd3BzcmMlM2RCaW5nJTI1MjBBZHMlMjZ3cGNpZCUzZDQ4Njg5Mjg4MiUyNndwY24lM2QlN2JDYW1wYWlnbiU1YiVlMiU4MCVhNiU1ZHl3b3JkJTNha2V5d29yZF90b29fbG9uZyU3ZCUyNndwa21hdGNoJTNkZSUyNndwc25ldG4lM2RvJTI2bXNjbGtpZCUzZDM1ODA4NjUxNDY3NDE3OTE5MzZmZWYxMDkyOGJhMDI2&rlid=3580865146741791936fef10928ba026"
     },
     {
-      "url": "https://www.psacard.com/priceguide",
-      "title": "Trading Card Values - PSA Price Guide"
+      "title": "Sports Card Prices | Free PSA, BGS & Ungraded Price Guide",
+      "url": "https://www.sportscardspro.com/"
     },
     {
-      "url": "https://vintagecardprices.com/",
-      "title": "VCP Card Prices - Track what your cards are worth"
+      "title": "Trading Card Values - PSA Price Guide",
+      "url": "https://www.psacard.com/priceguide"
     },
     {
-      "url": "https://www.sportscardinvestor.com/cards",
-      "title": "Sports Card Price Guide and Database"
+      "title": "VCP Card Prices - Track what your cards are worth",
+      "url": "https://vintagecardprices.com/"
+    },
+    {
+      "title": "Sports Card Price Guide and Database",
+      "url": "https://www.sportscardinvestor.com/cards"
     }
   ],
   "stat story ideas from classic cards": [
     {
-      "url": "https://www.springhole.net/writing/generate-ideas-with-playing-cards.htm",
-      "title": "How To Generate Ideas With Playing Cards - Springhole.net"
+      "title": "Prompts For Card Game Narrative Themes: Creative Ideas and ...",
+      "url": "https://www.promptsty.com/prompts-for-card-game-narrative-themes"
+    },
+    {
+      "title": "How To Generate Ideas With Playing Cards - Springhole.net",
+      "url": "https://www.springhole.net/writing/generate-ideas-with-playing-cards.htm"
+    },
+    {
+      "title": "Storytelling Card Games- Creative Writing Prompts & Activities",
+      "url": "https://thestorymatic.com/"
+    },
+    {
+      "title": "What are the most innovative stats in strategy card games you ...",
+      "url": "https://www.reddit.com/r/tabletopgamedesign/comments/hlnvrl/what_are_the_most_innovative_stats_in_strategy/"
+    },
+    {
+      "title": "The 7 Best Story-Based Card Tricks (Explained) - Ambitious ...",
+      "url": "https://ambitiouswithcards.com/card-tricks-with-story/"
     }
   ],
   "neutral watch party house rules": [
     {
-      "url": "https://www.reddit.com/r/AskReddit/comments/urk3z/throwing_a_house_party_tonight_what_are_some_good/",
-      "title": "Throwing a house party tonight. What are some good house rules?"
+      "title": "How to Have a Good House Party (with Pictures) - wikiHow",
+      "url": "https://www.wikihow.com/Have-a-Good-House-Party"
     },
     {
-      "url": "https://melissapenfold.com/atmosphere/23-rules-house-party/",
-      "title": "23 RULES OF THE HOUSE PARTY - Melissa Penfold"
+      "title": "Throwing a house party tonight. What are some good house rules?",
+      "url": "https://www.reddit.com/r/AskReddit/comments/urk3z/throwing_a_house_party_tonight_what_are_some_good/"
     },
     {
-      "url": "https://dejli.com/articles/the-ultimate-guide-to-hosting-a-watch-party-like-a-pro",
-      "title": "The Ultimate Guide to Hosting a Watch Party Like a Pro"
+      "title": "23 RULES OF THE HOUSE PARTY - Melissa Penfold",
+      "url": "https://melissapenfold.com/atmosphere/23-rules-house-party/"
+    },
+    {
+      "title": "The Ultimate Guide to Hosting a Watch Party Like a Pro",
+      "url": "https://dejli.com/articles/the-ultimate-guide-to-hosting-a-watch-party-like-a-pro"
+    },
+    {
+      "title": "What Makes a Good House Party? 14 Expert Secrets for 2025",
+      "url": "https://www.partychecklist.app/what-makes-a-good-house-party/"
     }
   ],
   "live hedge etiquette betting group": [
     {
-      "url": "https://www.globalbrandsmagazine.com/sports-betting-etiquette-dos-and-donts/",
-      "title": "Sports Betting Etiquette : Do's and Don'ts - Global Brands Magazine"
+      "title": "Sports Betting Etiquette : Do's and Don'ts - Global Brands Magazine",
+      "url": "https://www.globalbrandsmagazine.com/sports-betting-etiquette-dos-and-donts/"
     },
     {
-      "url": "https://www.bettoredge.com/post/reddit-sports-betting-subreddits-for-bettors",
-      "title": "Reddit Sports Betting : Subreddits for Bettors"
+      "title": "Roulette Etiquette : Essential Dos and Don'ts for Players",
+      "url": "https://www.luckyblock.com/blog/roulette-etiquette/"
+    },
+    {
+      "title": "A Quick Guide to Baccarat Etiquette | Gambling.com",
+      "url": "https://www.gambling.com/uk/online-casinos/strategy/a-quick-guide-to-baccarat-etiquette-2100"
+    },
+    {
+      "title": "How to Win at Football Betting : Tips & Strategies \u2013 Expert Guide",
+      "url": "https://www.africatopsports.com/2025/04/06/how-to-win-at-football-betting-tips-strategies-expert-guide/"
+    },
+    {
+      "title": "Reddit Sports Betting : Subreddits for Bettors",
+      "url": "https://www.bettoredge.com/post/reddit-sports-betting-subreddits-for-bettors"
     }
   ],
   "hedge calculator partial cashout": [
     {
-      "url": "https://www.actionnetwork.com/betting-calculators/betting-hedging-calculator",
-      "title": "Sports Betting Hedging Calculator | The Action Network"
+      "title": "Sports Betting Hedging Calculator | The Action Network",
+      "url": "https://www.actionnetwork.com/betting-calculators/betting-hedging-calculator"
     },
     {
-      "url": "https://calculator.academy/partial-cash-out-calculator/",
-      "title": "Partial Cash Out Calculator - Calculator Academy"
+      "title": "Partial Cash Out Calculator - Calculator Academy",
+      "url": "https://calculator.academy/partial-cash-out-calculator/"
     },
     {
-      "url": "https://calculator.now/hedging-calculator/",
-      "title": "Hedging Calculator | Calculator.now"
+      "title": "Hedging Calculator | Calculator.now",
+      "url": "https://calculator.now/hedging-calculator/"
     },
     {
-      "url": "https://oddsindex.com/guides/hedge-calculator",
-      "title": "Hedge Bet Calculator: Lock In Profit Now | OddsIndex"
+      "title": "Hedge Bet Calculator: Lock In Profit Now | OddsIndex",
+      "url": "https://oddsindex.com/guides/hedge-calculator"
     },
     {
-      "url": "https://hedgecalculator.com/",
-      "title": "Hedge Calculator: Calculate what you need to hedge"
+      "title": "Hedge Calculator: Calculate what you need to hedge",
+      "url": "https://hedgecalculator.com/"
     }
   ],
   "tilt management routine ideas": [
     {
-      "url": "https://calisthenicsassociation.org/blog/how-to-fix-anterior-pelvic-tilt-exercises-stretches",
-      "title": "How to Fix Anterior Pelvic Tilt: 8 Exercises That Work (2025 ..."
+      "title": "How to Fix Anterior Pelvic Tilt: 8 Exercises That Work (2025 ...",
+      "url": "https://calisthenicsassociation.org/blog/how-to-fix-anterior-pelvic-tilt-exercises-stretches"
     },
     {
-      "url": "https://www.precisionmovement.coach/anterior-pelvic-tilt-program/",
-      "title": "6 Minute Anterior Pelvic Tilt Exercise Routine 4 Key Exercises to CONTROL Your Pelvic Tilt (Anterior ... Pelvic Tilt | 7-Minute Corrective Routine | Bend 11 Best Anterior Pelvic Tilt Exercises to Fix Your Posture Corrective Exercise Guide for Anterior Pelvic Tilt"
+      "title": "Tilt\u2019s Leave Management Magic Boosts Morale Without You ...",
+      "url": "https://hellotilt.com/blog/tilts-leave-management-magic-boosts-morale-without-you-lifting-a-finger/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=fCF7GU3wh-E",
-      "title": "4 Key Exercises to CONTROL Your Pelvic Tilt (Anterior ... Pelvic Tilt | 7-Minute Corrective Routine | Bend 11 Best Anterior Pelvic Tilt Exercises to Fix Your Posture Corrective Exercise Guide for Anterior Pelvic Tilt"
+      "title": "6 Minute Anterior Pelvic Tilt Exercise Routine 4 Key Exercises to CONTROL Your Pelvic Tilt (Anterior ... Pelvic Tilt | 7-Minute Corrective Routine | Bend 11 Best Anterior Pelvic Tilt Exercises to Fix Your Posture Corrective Exercise Guide for Anterior Pelvic Tilt",
+      "url": "https://www.precisionmovement.coach/anterior-pelvic-tilt-program/"
     },
     {
-      "url": "https://bend.com/routines/pelvic-tilt",
-      "title": "Pelvic Tilt | 7-Minute Corrective Routine | Bend"
+      "title": "4 Key Exercises to CONTROL Your Pelvic Tilt (Anterior ... Pelvic Tilt | 7-Minute Corrective Routine | Bend 11 Best Anterior Pelvic Tilt Exercises to Fix Your Posture Corrective Exercise Guide for Anterior Pelvic Tilt",
+      "url": "https://www.youtube.com/watch?v=fCF7GU3wh-E"
+    },
+    {
+      "title": "Pelvic Tilt | 7-Minute Corrective Routine | Bend",
+      "url": "https://bend.com/routines/pelvic-tilt"
     }
   ],
   "20 minute walk benefits cognition research": [
     {
-      "url": "https://www.earth.com/news/walk-20-minutes-daily-to-boost-your-brain-power/",
-      "title": "Walk 20 minutes daily to boost your brain power - Earth.com"
+      "title": "Walk 20 minutes daily to boost your brain power - Earth.com",
+      "url": "https://www.earth.com/news/walk-20-minutes-daily-to-boost-your-brain-power/"
     },
     {
-      "url": "https://www.le-journal-catalan.com/en/daily-20-minute-walks-linked-to-38-slower-cognitive-decline-in-seniors-my-doctor-was-stunned/",
-      "title": "Daily 20-minute walks linked to 38% slower cognitive decline in seniors ..."
+      "title": "How Walking Revitalises Your Brain - Oxford Longevity Project",
+      "url": "https://oxfordlongevityproject.org/insights/how-walking-revitalises-your-brain-tips-for-lasting-cognitive-health"
     },
     {
-      "url": "https://www.nature.com/articles/s41598-024-78508-x",
-      "title": "The influence of a walk in nature on human resting brain activity: a ..."
+      "title": "Can Walking Actually Make Your Brain Work Better?",
+      "url": "https://brainhealthuniversity.com/brain-health-insights/can-walking-actually-make-your-brain-work-better/"
+    },
+    {
+      "title": "Daily 20-minute walks linked to 38% slower cognitive decline in seniors ...",
+      "url": "https://www.le-journal-catalan.com/en/daily-20-minute-walks-linked-to-38-slower-cognitive-decline-in-seniors-my-doctor-was-stunned/"
+    },
+    {
+      "title": "The influence of a walk in nature on human resting brain activity: a ...",
+      "url": "https://www.nature.com/articles/s41598-024-78508-x"
     }
   ],
-  "ESPN fantasy duplicate league IDs bug": [],
+  "ESPN fantasy duplicate league IDs bug": [
+    {
+      "title": "Can't Edit ESPN League Settings? The 2025 Fix Guide",
+      "url": "https://eathealthy365.com/why-your-espn-fantasy-settings-are-locked-how-to-fix-it/"
+    },
+    {
+      "title": "Fantasy football free agents: What can you do to replace... - ESPN",
+      "url": "https://www.espn.com/fantasy/football/story/_/id/47312818/fantasy-football-free-agent-pickups-waiver-wire-nfl-week-16"
+    },
+    {
+      "title": "CODM DMZ Recon Bugs Fixed: What You Need To Know",
+      "url": "https://www.sportsdunia.com/gaming/call-of-duty-mobile-dmz-recon-bugs-fixed-update-december-2025"
+    },
+    {
+      "title": "Google News - Fantasy basketball Week 9 schedule analysis - Overview",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTeXRpWUVCRjVsYXI0d241SklTZ0FQAQ?hl=en-NA&gl=NA&ceid=NA:en"
+    },
+    {
+      "title": "Application error: a client-side exception has occurred",
+      "url": "https://fantasy.nfl.com/"
+    }
+  ],
   "Sleeper trade review export endpoint": [
     {
-      "url": "https://sleeper-api-client.readthedocs.io/_/downloads/en/stable/pdf/",
-      "title": "Sleeper API client Documentation - Read the Docs"
+      "title": "How to Trade | Sleeper Support Center",
+      "url": "https://support.sleeper.com/en/articles/3188802-how-to-trade"
+    },
+    {
+      "title": "Sleeper - I have \u201cTime to Review Pending trades\u201d set to none ...",
+      "url": "https://www.reddit.com/r/FFCommish/comments/wznee5/sleeper_i_have_time_to_review_pending_trades_set/"
+    },
+    {
+      "title": "How to Accept a Trade on Sleeper App (Step-by-Step) - YouTube",
+      "url": "https://www.youtube.com/watch?v=eh1BcNyQ9o8"
+    },
+    {
+      "title": "Off Topic - Sleeper Trade Processing Rules - Fantasy Football ...",
+      "url": "https://forums.bettoringreen.com/index.php?/topic/12377-off-topic-sleeper-trade-processing-rules/"
+    },
+    {
+      "title": "Sleeper API client Documentation - Read the Docs",
+      "url": "https://sleeper-api-client.readthedocs.io/_/downloads/en/stable/pdf/"
     }
   ],
   "FanDuel CSV upload format NFL": [
     {
-      "url": "https://www.fanduel.com/csv-edit",
-      "title": "CSV Edit | FanDuel"
+      "title": "CSV Edit | FanDuel",
+      "url": "https://www.fanduel.com/csv-edit"
     },
     {
-      "url": "https://support.fantasylabs.com/hc/en-us/articles/115001985552-Uploading-Lineups-to-FanDuel-DraftKings",
-      "title": "Uploading Lineups to FanDuel & DraftKings - FantasyLabs Support"
+      "title": "Uploading Lineups to FanDuel & DraftKings - FantasyLabs Support",
+      "url": "https://support.fantasylabs.com/hc/en-us/articles/115001985552-Uploading-Lineups-to-FanDuel-DraftKings"
     },
     {
-      "url": "https://dailyfantasyoptimizer.com/tutorials/upload-fanduel",
-      "title": "FanDuel Upload Tutorial - Daily Fantasy Optimizer"
+      "title": "CSV Editing - DraftDime",
+      "url": "https://draftdime.com/2023/07/21/csv-editing/"
+    },
+    {
+      "title": "How do you upload line ups to Fanduel from Excel? | Fantasy Football ...",
+      "url": "https://forums.footballguys.com/threads/how-do-you-upload-line-ups-to-fanduel-from-excel.747686/"
+    },
+    {
+      "title": "FanDuel Upload Tutorial - Daily Fantasy Optimizer",
+      "url": "https://dailyfantasyoptimizer.com/tutorials/upload-fanduel"
     }
   ],
   "DraftKings late swap rules NBA": [
     {
-      "url": "https://dknetwork.draftkings.com/2024/03/14/play-nba-dfs-with-no-late-swap-on-draftkings/",
-      "title": "Play NBA DFS with No Late Swap on DraftKings"
+      "title": "Play NBA DFS with No Late Swap on DraftKings",
+      "url": "https://dknetwork.draftkings.com/2024/03/14/play-nba-dfs-with-no-late-swap-on-draftkings/"
     },
     {
-      "url": "https://rotogrinders.com/articles/draftkings-drops-late-swap-for-nba-1477088",
-      "title": "DraftKings Drops Late Swap for NBA - RotoGrinders DraftKings removes late swap for NBA contests - osga.com No More NBA Late Swap on Draftkings : r/dfsports - Reddit Experts Discuss \"Non Late Swap\" NBA DFS: What To Expect and ... DraftKings - How do I late swap a player? - DraftKings ... Basketball Rules | DraftKings Sportsbook"
+      "title": "DraftKings Drops Late Swap for NBA - RotoGrinders DraftKings removes late swap for NBA contests - osga.com No More NBA Late Swap on Draftkings : r/dfsports - Reddit Experts Discuss \"Non Late Swap\" NBA DFS: What To Expect and ... DraftKings - How do I late swap a player? - DraftKings ... Basketball Rules | DraftKings Sportsbook",
+      "url": "https://rotogrinders.com/articles/draftkings-drops-late-swap-for-nba-1477088"
     },
     {
-      "url": "https://www.osga.com/online_gaming_articles.php?DraftKings-removes-late-swap-for-NBA-contests-17980",
-      "title": "DraftKings removes late swap for NBA contests - osga.com"
+      "title": "DraftKings removes late swap for NBA contests - osga.com",
+      "url": "https://www.osga.com/online_gaming_articles.php?DraftKings-removes-late-swap-for-NBA-contests-17980"
     },
     {
-      "url": "https://www.reddit.com/r/dfsports/comments/57b2ds/no_more_nba_late_swap_on_draftkings/",
-      "title": "No More NBA Late Swap on Draftkings : r/dfsports - Reddit"
+      "title": "No More NBA Late Swap on Draftkings : r/dfsports - Reddit",
+      "url": "https://www.reddit.com/r/dfsports/comments/57b2ds/no_more_nba_late_swap_on_draftkings/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=3ZWY3zxpcb0",
-      "title": "Experts Discuss \"Non Late Swap\" NBA DFS: What To Expect and ... DraftKings - How do I late swap a player? - DraftKings ... Basketball Rules | DraftKings Sportsbook"
+      "title": "Experts Discuss \"Non Late Swap\" NBA DFS: What To Expect and ... DraftKings - How do I late swap a player? - DraftKings ... Basketball Rules | DraftKings Sportsbook",
+      "url": "https://www.youtube.com/watch?v=3ZWY3zxpcb0"
     }
   ],
   "injury report aggregation API free": [
     {
-      "url": "https://www.mysportsfeeds.com/data-feeds",
-      "title": "MySportsFeeds - Free Sports Data API"
+      "title": "12 Best Free Sports API Options for Developers in 2025",
+      "url": "https://www.sportsjobs.online/blogposts/43"
     },
     {
-      "url": "https://api-sports.io/",
-      "title": "API-Sports - Restful API for Sports data"
+      "title": "MySportsFeeds - Free Sports Data API",
+      "url": "https://www.mysportsfeeds.com/data-feeds"
     },
     {
-      "url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
-      "title": "Load Injury Reports \u2014 load_injuries \u2022 nflreadr"
+      "title": "Load Injury Reports \u2014 load_injuries \u2022 nflreadr",
+      "url": "https://nflreadr.nflverse.com/reference/load_injuries.html"
+    },
+    {
+      "title": "API-Sports - Restful API for Sports data",
+      "url": "https://api-sports.io/"
+    },
+    {
+      "title": "Sport Data API \u2014 Free Public API | Public APIs Directory",
+      "url": "https://publicapis.io/sport-data-api"
     }
   ],
   "NFL snap count csv download": [
     {
-      "url": "https://nflreadr.nflverse.com/reference/load_snap_counts.html",
-      "title": "Load Snap Counts from PFR \u2014 load_snap_counts \u2022 nflreadr"
+      "title": "nflverse \u00b7 GitHub",
+      "url": "https://github.com/nflverse"
     },
     {
-      "url": "https://github.com/joshshua989/NFL_DATA/blob/main/ALL_SNAP_COUNTS_2024.csv",
-      "title": "NFL_DATA/ALL_SNAP_COUNTS_2024.csv at main - GitHub"
+      "title": "Data Scraper and Datasets for the NFL : r/NFLstatheads - Reddit",
+      "url": "https://www.reddit.com/r/NFLstatheads/comments/109fvgu/nflscrapy_data_scraper_and_datasets_for_the_nfl/"
+    },
+    {
+      "title": "Load Snap Counts from PFR \u2014 load_snap_counts \u2022 nflreadr",
+      "url": "https://nflreadr.nflverse.com/reference/load_snap_counts.html"
+    },
+    {
+      "title": "NFL Snap Counts - FantasyData",
+      "url": "https://fantasydata.com/nfl/nfl-snap-counts"
+    },
+    {
+      "title": "NFL_DATA/ALL_SNAP_COUNTS_2024.csv at main - GitHub",
+      "url": "https://github.com/joshshua989/NFL_DATA/blob/main/ALL_SNAP_COUNTS_2024.csv"
     }
   ],
   "weekly transparency post example github": [
     {
-      "url": "https://github.blog/tag/github-transparency-report/",
-      "title": "GitHub Transparency Report Archives - The GitHub Blog"
+      "title": "GitHub - CMSgov/price-transparency-guide: The technical ...",
+      "url": "https://github.com/CMSgov/price-transparency-guide"
     },
     {
-      "url": "https://github.com/github/transparency",
-      "title": "GitHub - github/transparency: Structured data files for ..."
+      "title": "GitHub Transparency Report Archives - The GitHub Blog",
+      "url": "https://github.blog/tag/github-transparency-report/"
+    },
+    {
+      "title": "GitHub - github/transparency: Structured data files for ...",
+      "url": "https://github.com/github/transparency"
+    },
+    {
+      "title": "Integration - Github and Discourse for Transparency and ...",
+      "url": "https://forums.ohdsi.org/t/integration-github-and-discourse-for-transparency-and-community-involvement/19504"
+    },
+    {
+      "title": "How GitHub Enhances Transparency in Coding Projects?",
+      "url": "https://www.geeksforgeeks.org/git/how-github-enhances-transparency-in-coding-projects/"
     }
   ],
   "model drift monitoring sports projections": [
     {
-      "url": "https://trustyai.org/docs/main/data-drift-monitoring",
-      "title": "Data Drift Monitoring :: TrustyAI"
+      "title": "Data Drift Monitoring :: TrustyAI",
+      "url": "https://trustyai.org/docs/main/data-drift-monitoring"
     },
     {
-      "url": "https://github.com/Engineer-SHE/Model-Drift-Monitor",
-      "title": "GitHub - Engineer-SHE/ Model - Drift - Monitor : A Model Monitoring ..."
+      "title": "GitHub - Engineer-SHE/ Model - Drift - Monitor : A Model Monitoring ...",
+      "url": "https://github.com/Engineer-SHE/Model-Drift-Monitor"
     },
     {
-      "url": "https://medium.com/infraops-digest/mlops-unleashed-part-5-model-monitoring-drift-detection-and-explainability-9d2dff026f32",
-      "title": "MLOps Unleashed: Part 5 \u2014 Model Monitoring , Drift ... | Medium"
+      "title": "MLOps Unleashed: Part 5 \u2014 Model Monitoring , Drift ... | Medium",
+      "url": "https://medium.com/infraops-digest/mlops-unleashed-part-5-model-monitoring-drift-detection-and-explainability-9d2dff026f32"
     },
     {
-      "url": "https://www.slideshare.net/slideshow/model-drift-monitoring-using-tensorflow-model-analysis/249756001",
-      "title": "Model Drift Monitoring using Tensorflow Model Analysis | PPTX"
+      "title": "Model Drift Monitoring using Tensorflow Model Analysis | PPTX",
+      "url": "https://www.slideshare.net/slideshow/model-drift-monitoring-using-tensorflow-model-analysis/249756001"
     },
     {
-      "url": "https://blog.stackademic.com/what-nobody-tells-you-about-model-drift-in-machine-learning-17fefc8c6ab8",
-      "title": "What Nobody Tells You About Model Drift in Machine... | Stackademic"
+      "title": "What Nobody Tells You About Model Drift in Machine... | Stackademic",
+      "url": "https://blog.stackademic.com/what-nobody-tells-you-about-model-drift-in-machine-learning-17fefc8c6ab8"
     }
   ]
 }

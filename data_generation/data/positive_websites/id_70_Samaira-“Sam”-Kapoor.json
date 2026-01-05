@@ -1,1540 +1,2202 @@
 {
   "talkback gesture cheat sheet 2025": [
     {
-      "url": "https://dequeuniversity.com/screenreaders/talkback-shortcuts",
-      "title": "TalkBack Gestures on Android | Screen Reader Keyboard ..."
+      "title": "TalkBack Gestures on Android | Screen Reader Keyboard ...",
+      "url": "https://dequeuniversity.com/screenreaders/talkback-shortcuts"
     },
     {
-      "url": "https://support.google.com/accessibility/android/answer/6151827?hl=en",
-      "title": "Use TalkBack gestures - Android Accessibility Help - Google Help TalkBack Cheatsheet Android & TalkBack Mobile Accessibility Cheat Sheet Use TalkBack gestures - Android Accessibility Help - Google Use TalkBack gestures - Android Accessibility Help - Google TalkBack Gestures on Android - Deque University Use TalkBack gestures - Android Accessibility Help - Google WCAG Cheat Sheets WAI-ARIA Cheat Sheets & Mobile ..."
+      "title": "Use TalkBack gestures - Android Accessibility Help - Google Help TalkBack Cheatsheet Android & TalkBack Mobile Accessibility Cheat Sheet Use TalkBack gestures - Android Accessibility Help - Google Use TalkBack gestures - Android Accessibility Help - Google TalkBack Gestures on Android - Deque University Use TalkBack gestures - Android Accessibility Help - Google WCAG Cheat Sheets WAI-ARIA Cheat Sheets & Mobile ...",
+      "url": "https://support.google.com/accessibility/android/answer/6151827?hl=en"
     },
     {
-      "url": "https://ally-keys.com/cheatsheets/talkback_cheatsheet.pdf",
-      "title": "TalkBack Cheatsheet"
+      "title": "TalkBack Cheatsheet",
+      "url": "https://ally-keys.com/cheatsheets/talkback_cheatsheet.pdf"
     },
     {
-      "url": "https://www.scribd.com/document/590432608/Android-TalkBack-Mobile-Accessibility-Cheat-Sheet",
-      "title": "Android & TalkBack Mobile Accessibility Cheat Sheet"
+      "title": "Android & TalkBack Mobile Accessibility Cheat Sheet",
+      "url": "https://www.scribd.com/document/590432608/Android-TalkBack-Mobile-Accessibility-Cheat-Sheet"
+    },
+    {
+      "title": "WCAG Cheat Sheets WAI-ARIA Cheat Sheets & Mobile ...",
+      "url": "https://www.digitala11y.com/accessibility-cheat-sheets/"
     }
   ],
   "voiceover rotor custom actions tutorial": [
     {
-      "url": "https://support.apple.com/guide/iphone/control-voiceover-using-the-rotor-iph3e2e3a6d/ios",
-      "title": "Control VoiceOver using the rotor on iPhone - Apple Support"
+      "title": "Control VoiceOver using the rotor on iPhone - Apple Support",
+      "url": "https://support.apple.com/guide/iphone/control-voiceover-using-the-rotor-iph3e2e3a6d/ios"
     },
     {
-      "url": "https://www.youtube.com/watch?v=OhRTfF91FPo",
-      "title": "VOT 02 - VoiceOver Tutorial, Configuring and Using the Rotor ..."
+      "title": "VOT 02 - VoiceOver Tutorial, Configuring and Using the Rotor ...",
+      "url": "https://www.youtube.com/watch?v=OhRTfF91FPo"
     },
     {
-      "url": "https://srt.csb-cde.ca.gov/voiceover/ios/ios-03.1-rotor.html",
-      "title": "iOS Lesson 3: Using the VoiceOver Rotor - California"
+      "title": "Understanding VoiceOver rotor - Create with Swift",
+      "url": "https://www.createwithswift.com/understanding-accessibility-rotors-and-how-to-use-them/"
     },
     {
-      "url": "https://www.prcvi.org/media/1797/voiceover-rotor-customization-ios-prcvi.pdf",
-      "title": "VoiceOver Rotor Customization"
+      "title": "iOS Lesson 3: Using the VoiceOver Rotor - California",
+      "url": "https://srt.csb-cde.ca.gov/voiceover/ios/ios-03.1-rotor.html"
+    },
+    {
+      "title": "VoiceOver Rotor Customization",
+      "url": "https://www.prcvi.org/media/1797/voiceover-rotor-customization-ios-prcvi.pdf"
     }
   ],
   "android low storage simulate adb": [
     {
-      "url": "https://www.javathinking.com/blog/android-test-out-of-storage-space/",
-      "title": "How to Test Out of Storage Space in Android Apps: Simulating File ..."
+      "title": "How to Test Out of Storage Space in Android Apps: Simulating File ...",
+      "url": "https://www.javathinking.com/blog/android-test-out-of-storage-space/"
+    },
+    {
+      "title": "Simulate low battery & low memory in Android - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/3656594/simulate-low-battery-low-memory-in-android"
+    },
+    {
+      "title": "how to simulate low memory condition on the device or emulator.",
+      "url": "https://groups.google.com/g/android-platform/c/LbYC8O7Cv7k"
+    },
+    {
+      "title": "GitHub - SchneeSchmitt/ADB-Android-Optimizer: Rootless (ADB) Android ...",
+      "url": "https://github.com/SchneeSchmitt/ADB-Android-Optimizer"
+    },
+    {
+      "title": "Stress Testing Android Apps with a Bash Script - Medium",
+      "url": "https://medium.com/@gauravprabhakarmca/stress-testing-android-apps-with-a-bash-script-the-ultimate-regression-weapon-cc5f7d51e080"
     }
   ],
   "reset iOS permissions for app settings": [
     {
-      "url": "https://www.addictivetips.com/ios/reset-all-app-permissions-on-ios/",
-      "title": "How to reset all app permissions on iOS - AddictiveTips"
+      "title": "How to reset all app permissions on iOS - AddictiveTips",
+      "url": "https://www.addictivetips.com/ios/reset-all-app-permissions-on-ios/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=rKGK8cN7XfI",
-      "title": "How To Reset All IOS App Permissions? - Be App Savvy"
+      "title": "How to Manage App Permissions on iPhone or iPad Missing \u2018App Permissions\u2019 section on my i\u2026 - Apple Community How To Reset All IOS App Permissions? - Be App Savvy How to manage app permissions on iPhone - Asurion iOS: how to reset all app permissions \u2013 Duopc How to change app permissions on iPhone? - IHowList",
+      "url": "https://www.howtogeek.com/211623/how-to-manage-app-permissions-on-your-iphone-or-ipad/"
+    },
+    {
+      "title": "Missing \u2018App Permissions\u2019 section on my i\u2026 - Apple Community",
+      "url": "https://discussions.apple.com/thread/256012506"
+    },
+    {
+      "title": "How To Reset All IOS App Permissions? - Be App Savvy",
+      "url": "https://www.youtube.com/watch?v=rKGK8cN7XfI"
+    },
+    {
+      "title": "How to manage app permissions on iPhone - Asurion",
+      "url": "https://www.asurion.com/connect/tech-tips/manage-app-permissions-iphone-tt/"
     }
   ],
   "charles proxy ssl pinning test best practice": [
     {
-      "url": "https://stackoverflow.com/questions/3976728/how-to-configure-ssl-certificates-with-charles-web-proxy-and-the-latest-android",
-      "title": "How to configure SSL certificates with Charles Web Proxy and the..."
+      "title": "How to configure SSL certificates with Charles Web Proxy and the...",
+      "url": "https://stackoverflow.com/questions/3976728/how-to-configure-ssl-certificates-with-charles-web-proxy-and-the-latest-android"
     },
     {
-      "url": "http://chls.pro/ssl",
-      "title": "Charles Web Debugging Proxy \u2022 SSL CA Certificate installation"
+      "title": "Charles Web Debugging Proxy \u2022 SSL CA Certificate installation",
+      "url": "http://chls.pro/ssl"
     },
     {
-      "url": "https://www.charlesproxy.com/documentation/using-charles/ssl-certificates/",
-      "title": "SSL Certificates \u2022 Charles Web Debugging Proxy"
+      "title": "SSL Certificates \u2022 Charles Web Debugging Proxy",
+      "url": "https://www.charlesproxy.com/documentation/using-charles/ssl-certificates/"
+    },
+    {
+      "title": "How to decrypt HTTPS traffic using SSL Proxy | Devops Junction",
+      "url": "https://airdata.gitlab.io/blog/blog/how-to-decrypt-https-traffic/index.html"
+    },
+    {
+      "title": "Scan Postman Traffic Through Charles | by Andrey Enin | Medium",
+      "url": "https://adequatica.medium.com/scan-postman-traffic-through-charles-c266cb97914c?source=list-b66735f0b988--------7-------8bac6751ae1d---------------------"
     }
   ],
   "proxyman vs charles for mobile testing": [
     {
-      "url": "https://www.testdevlab.com/blog/mock-and-manipulate-network-traffic-to-test-your-mobile-application-via-charles-and-proxyman",
-      "title": "Test Mobile Apps with Charles & Proxyman: Traffic Test (2024)"
+      "title": "Test Mobile Apps with Charles & Proxyman: Traffic Test (2024)",
+      "url": "https://www.testdevlab.com/blog/mock-and-manipulate-network-traffic-to-test-your-mobile-application-via-charles-and-proxyman"
     },
     {
-      "url": "https://proxyman.com/posts/2019-10-26-Alternatives-for-charles-proxy-and-wireshark",
-      "title": "Proxyman vs Charles Proxy vs Wireshark - Which Web Debugging ..."
+      "title": "Proxyman vs Charles Proxy vs Wireshark - Which Web Debugging ...",
+      "url": "https://proxyman.com/posts/2019-10-26-Alternatives-for-charles-proxy-and-wireshark"
+    },
+    {
+      "title": "That\u2019s a sharp point \u2014 Charles (or Proxyman ... - Medium",
+      "url": "https://medium.com/@developer.hub/thats-a-sharp-point-charles-or-proxyman-fiddler-etc-b0aec721ddb2"
+    },
+    {
+      "title": "Proxyman vs Charles - Professional Software Comparison | Sugggest",
+      "url": "https://sugggest.com/compare/proxyman-vs-charles"
+    },
+    {
+      "title": "Comparative Analysis of Charles and Proxyman by Vlad ... - Prezi",
+      "url": "https://prezi.com/p/s_mbxx3kkpwk/comparative-analysis-of-charles-and-proxyman/"
     }
   ],
   "ios network link conditioner profile download": [
     {
-      "url": "https://www.repeato.app/how-to-install-and-use-apples-network-link-conditioner-tool/",
-      "title": "How to Install and Use Apple's Network Link Conditioner Tool"
+      "title": "How to Install and Use Apple's Network Link Conditioner Tool",
+      "url": "https://www.repeato.app/how-to-install-and-use-apples-network-link-conditioner-tool/"
     },
     {
-      "url": "https://stackoverflow.com/questions/12528986/using-the-network-link-conditioner-on-ios-devices",
-      "title": "Using the Network Link Conditioner on iOS devices"
+      "title": "Using the Network Link Conditioner on iOS devices",
+      "url": "https://stackoverflow.com/questions/12528986/using-the-network-link-conditioner-on-ios-devices"
     },
     {
-      "url": "https://medium.com/macoclock/how-to-simulate-poor-network-conditions-on-ios-simulator-and-iphone-faf35f0da1b5",
-      "title": "How to simulate poor network conditions on iOS Simulator and iPhone"
+      "title": "Network Link Conditioner: Simulating Slow Networking - SwiftLee",
+      "url": "https://www.avanderlee.com/debugging/network-link-conditioner-utility/"
+    },
+    {
+      "title": "What happened to the Network Link \u2026 | Apple Developer Forums",
+      "url": "https://developer.apple.com/forums/thread/690220"
+    },
+    {
+      "title": "How to simulate poor network conditions on iOS Simulator and iPhone",
+      "url": "https://medium.com/macoclock/how-to-simulate-poor-network-conditions-on-ios-simulator-and-iphone-faf35f0da1b5"
     }
   ],
   "android emulator throttle 3g 400ms": [
     {
-      "url": "https://stackoverflow.com/questions/8693117/simulate-low-bandwidth-in-android",
-      "title": "Simulate low bandwidth in android - Stack Overflow Code sample"
+      "title": "Simulate low bandwidth in android - Stack Overflow Code sample",
+      "url": "https://stackoverflow.com/questions/8693117/simulate-low-bandwidth-in-android"
     },
     {
-      "url": "https://www.forasoft.com/blog/article/stimulate-slow-internet-connection-android",
-      "title": "Simulate Slow Internet Connection Android: 5 Essential ..."
+      "title": "Simulate Slow Internet Connection Android: 5 Essential ...",
+      "url": "https://www.forasoft.com/blog/article/stimulate-slow-internet-connection-android"
     },
     {
-      "url": "https://www.kindacode.com/article/how-to-slow-down-internet-speed-on-android-emulator",
-      "title": "How to slow down internet speed on Android Emulator"
+      "title": "How to slow down internet speed on Android Emulator",
+      "url": "https://www.kindacode.com/article/how-to-slow-down-internet-speed-on-android-emulator"
     },
     {
-      "url": "https://www.browserstack.com/guide/how-to-simulate-slow-network-conditions",
-      "title": "How to simulate slow internet connection on iOS & Android ..."
+      "title": "How to simulate slow internet connection on iOS & Android ...",
+      "url": "https://www.browserstack.com/guide/how-to-simulate-slow-network-conditions"
+    },
+    {
+      "title": "Android Emulator cellular speed limits does not work properly",
+      "url": "https://android.stackexchange.com/questions/245667/android-emulator-cellular-speed-limits-does-not-work-properly"
     }
   ],
   "record android screen adb without watermark": [
     {
-      "url": "https://drfone.wondershare.com/screen-recorder/record-android-screen-with-sdk-and-adb.html",
-      "title": "How to Record Android Screen With the Android SDK and..."
+      "title": "adb - How to record Android device's screen on... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/28217333/how-to-record-android-devices-screen-on-android-version-below-4-4-kitkat"
     },
     {
-      "url": "https://stackoverflow.com/questions/28217333/how-to-record-android-devices-screen-on-android-version-below-4-4-kitkat",
-      "title": "adb - How to record Android device's screen on... - Stack Overflow"
+      "title": "How to Record Android Screen With the Android SDK and...",
+      "url": "https://drfone.wondershare.com/screen-recorder/record-android-screen-with-sdk-and-adb.html"
+    },
+    {
+      "title": "[Ultimate Guide] How to Screen Record on Android Without an App?",
+      "url": "https://www.eassiy.com/screen-record-android/screen-record-on-android-without-app.html"
+    },
+    {
+      "title": "Feasible Ways to Record Android Screen",
+      "url": "https://www.apowersoft.com/record-android-screen.html"
+    },
+    {
+      "title": "4 Viable Ways to Record Android Screen on PC without Root",
+      "url": "https://www.mobikin.com/screen-mirror/record-android-screen-on-pc-without-root.html"
     }
   ],
   "ios screen recording show touches overlay": [
     {
-      "url": "https://www.anymp4.com/recorder/show-touches-on-iphone-while-recording.html",
-      "title": "How to Show Touches on iPhone While Screen Recording - AnyMP4"
+      "title": "How to Show Touches on iPhone While Screen Recording - AnyMP4",
+      "url": "https://www.anymp4.com/recorder/show-touches-on-iphone-while-recording.html"
     },
     {
-      "url": "https://discussions.apple.com/thread/254837747",
-      "title": "How to show screen touches on the screen - Apple Community"
+      "title": "How to show screen touches on the screen - Apple Community",
+      "url": "https://discussions.apple.com/thread/254837747"
     },
     {
-      "url": "https://support.screenpal.com/portal/en/kb/articles/show-finger-taps-when-recording-your-screen-on-ios",
-      "title": "Show finger taps when recording your screen on iOS"
+      "title": "Show finger taps when recording your screen on iOS",
+      "url": "https://support.screenpal.com/portal/en/kb/articles/show-finger-taps-when-recording-your-screen-on-ios"
     },
     {
-      "url": "https://www.youtube.com/watch?v=SszRXkTMQlE",
-      "title": "How to Show Touches on iPhone While Screen Recording! (2025 ..."
+      "title": "How to Show Touches on iPhone While Screen Recording! (2025 ...",
+      "url": "https://www.youtube.com/watch?v=SszRXkTMQlE"
     },
     {
-      "url": "https://apple.stackexchange.com/questions/480974/how-do-i-record-my-iphone-screen-with-visible-finger-taps",
-      "title": "ios - How do I record my iPhone screen with visible finger ..."
+      "title": "ios - How do I record my iPhone screen with visible finger ...",
+      "url": "https://apple.stackexchange.com/questions/480974/how-do-i-record-my-iphone-screen-with-visible-finger-taps"
     }
   ],
   "adb shell enable airplane mode command": [
     {
-      "url": "https://stackoverflow.com/questions/10506591/turning-airplane-mode-on-via-adb",
-      "title": "android - Turning airplane mode on via ADB - Stack Overflow"
+      "title": "android - Turning airplane mode on via ADB - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/10506591/turning-airplane-mode-on-via-adb"
     },
     {
-      "url": "https://android-shell.se/android/connectivity/",
-      "title": "Android ADB Shell Connectivity Commands - Nr1 - Android\u2122 Debug..."
+      "title": "Adb useful commands list \u00b7 GitHub",
+      "url": "https://gist.github.com/Pulimet/5013acf2cd5b28e55036c82c91bd56d8?permalink_comment_id=4340609"
+    },
+    {
+      "title": "Top ADB (Android Debug Bridge) Commands Every Android... | Medium",
+      "url": "https://chetan-garg36.medium.com/top-adb-android-debug-bridge-commands-every-android-developer-should-know-8926f70d674f"
+    },
+    {
+      "title": "How to turn on and off the WiFi through ADB (no root)? | XDA Forums",
+      "url": "https://xdaforums.com/t/how-to-turn-on-and-off-the-wifi-through-adb-no-root.4075415/"
+    },
+    {
+      "title": "Android ADB Shell Connectivity Commands - Nr1 - Android\u2122 Debug...",
+      "url": "https://android-shell.se/android/connectivity/"
     }
   ],
   "simulate incoming call during checkout test": [
     {
-      "url": "https://testgrid.io/blog/interruption-testing/",
-      "title": "Interruption Testing: Simulate the Chaos Before Your Mobile Users"
+      "title": "Interruption Testing: Simulate the Chaos Before Your Mobile Users",
+      "url": "https://testgrid.io/blog/interruption-testing/"
     },
     {
-      "url": "https://medium.com/@ali.saranj1384/simulating-an-incoming-call-with-androids-ringtonemanager-and-call-notifications-845160a2f265",
-      "title": "Simulating an Incoming Call with Android's RingtoneManager and Call ..."
+      "title": "Simulating an Incoming Call with Android's RingtoneManager and Call ...",
+      "url": "https://medium.com/@ali.saranj1384/simulating-an-incoming-call-with-androids-ringtonemanager-and-call-notifications-845160a2f265"
     },
     {
-      "url": "https://docs.digital.ai/continuous-testing/docs/te/test-execution-home/mobile-android-and-ios/appium/seetest-appium-extension/device-commands/receiveincomingcall",
-      "title": "ReceiveIncomingCall \u00b7 digital.ai continuous-testing"
+      "title": "ReceiveIncomingCall \u00b7 digital.ai continuous-testing",
+      "url": "https://docs.digital.ai/continuous-testing/docs/te/test-execution-home/mobile-android-and-ios/appium/seetest-appium-extension/device-commands/receiveincomingcall"
     },
     {
-      "url": "https://www.repeato.app/faking-an-incoming-call-on-the-android-emulator/",
-      "title": "Simulating an Incoming Call on Android Emulator - Repeato"
+      "title": "Simulating an Incoming Call on Android Emulator - Repeato",
+      "url": "https://www.repeato.app/faking-an-incoming-call-on-the-android-emulator/"
     },
     {
-      "url": "https://www.headspin.io/blog/simulating-incoming-phone-calls-on-android",
-      "title": "Simulating Incoming Phone Calls On Android - HeadSpin"
+      "title": "Simulating Incoming Phone Calls On Android - HeadSpin",
+      "url": "https://www.headspin.io/blog/simulating-incoming-phone-calls-on-android"
     }
   ],
   "wcag 2.2 mobile checklist pdf": [
     {
-      "url": "https://media.dequeuniversity.com/en/docs/web-accessibility-checklist-wcag-2.2.pdf",
-      "title": "Web Accessibility Checklist, Based on WCAG 2.2 AA | Deque"
+      "title": "Web Accessibility Checklist, Based on WCAG 2.2 AA | Deque",
+      "url": "https://media.dequeuniversity.com/en/docs/web-accessibility-checklist-wcag-2.2.pdf"
     },
     {
-      "url": "https://beaccessible.com/wp-content/uploads/2023/11/WCAG-2.2-Checklst-Be-Accessible.pdf",
-      "title": "WCAG 2.2 Checklst - Be Accessible.docx"
+      "title": "WCAG 2.2 Checklst - Be Accessible.docx",
+      "url": "https://beaccessible.com/wp-content/uploads/2023/11/WCAG-2.2-Checklst-Be-Accessible.pdf"
     },
     {
-      "url": "https://www.levelaccess.com/wp-content/uploads/2025/07/The-Must-Have-WCAG-Checklist.pdf",
-      "title": "The Must-Have WCAG Checklist - levelaccess.com"
+      "title": "Guidance on Applying WCAG 2.2 to Mobile Applications ...",
+      "url": "https://www.w3.org/TR/wcag2mobile-22/"
+    },
+    {
+      "title": "WCAG Checklist 2.1 AA and 2.2 AA - Accessible.org",
+      "url": "https://accessible.org/wcag/"
+    },
+    {
+      "title": "The Must-Have WCAG Checklist - levelaccess.com",
+      "url": "https://www.levelaccess.com/wp-content/uploads/2025/07/The-Must-Have-WCAG-Checklist.pdf"
     }
   ],
   "color contrast checker for android screenshots": [
     {
-      "url": "https://apkpure.com/color-contrast-checker/com.whiteflower10001.Color_Contrast_Checker_Tool_FREE/",
-      "title": "Color Contrast Checker APK for Android Download - APKPure.com"
+      "title": "Color contrast - Android Accessibility Help - Google Help",
+      "url": "https://support.google.com/accessibility/android/answer/7158390?hl=en"
     },
     {
-      "url": "https://www.poper.ai/image-color-contrast-checker/",
-      "title": "Image Color Contrast Checker - Free WCAG Accessibility Tool by Poper"
+      "title": "Top seven free color contrast checkers & analyzers - Axess Lab",
+      "url": "https://axesslab.com/top-color-contrast-checkers/"
     },
     {
-      "url": "https://colrlab.com/tools/image-accessibility-checker",
-      "title": "AI Image Accessibility Scanner | Detect UI Contrast Issues | ColrLab"
+      "title": "Color Contrast Checker APK for Android Download - APKPure.com",
+      "url": "https://apkpure.com/color-contrast-checker/com.whiteflower10001.Color_Contrast_Checker_Tool_FREE/"
+    },
+    {
+      "title": "Image Color Contrast Checker - Free WCAG Accessibility Tool by Poper",
+      "url": "https://www.poper.ai/image-color-contrast-checker/"
+    },
+    {
+      "title": "AI Image Accessibility Scanner | Detect UI Contrast Issues | ColrLab",
+      "url": "https://colrlab.com/tools/image-accessibility-checker"
     }
   ],
   "dynamic type large text testing guide": [
     {
-      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/larger-text-evaluation-criteria",
-      "title": "Larger Text evaluation criteria - App Store Connect - Help ..."
+      "title": "Larger Text evaluation criteria - App Store Connect - Help ...",
+      "url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/larger-text-evaluation-criteria"
     },
     {
-      "url": "https://www.createwithswift.com/supporting-dynamic-type-and-larger-text-in-your-app-to-enhance-accessibility/",
-      "title": "Supporting Dynamic Type and Larger Text in your app to ..."
+      "title": "A product designer\u2019s guide to Dynamic Type in iOS - Medium",
+      "url": "https://medium.com/design-bootcamp/a-product-designers-guide-to-dynamic-type-in-ios-a105dda39a95"
     },
     {
-      "url": "https://www.repeato.app/how-to-test-dynamic-type-in-ios-simulator-for-better-accessibility/",
-      "title": "How to Test Dynamic Type in iOS Simulator for Better ..."
+      "title": "Supporting Dynamic Type and Larger Text in your app to ...",
+      "url": "https://www.createwithswift.com/supporting-dynamic-type-and-larger-text-in-your-app-to-enhance-accessibility/"
+    },
+    {
+      "title": "Making your iOS app more accessible with dynamic type",
+      "url": "https://codakuma.com/dynamic-type/"
+    },
+    {
+      "title": "How to Test Dynamic Type in iOS Simulator for Better ...",
+      "url": "https://www.repeato.app/how-to-test-dynamic-type-in-ios-simulator-for-better-accessibility/"
     }
   ],
   "reduce motion preference iOS detect sample": [
     {
-      "url": "https://www.devicemag.com/motion-and-orientation-access-iphone/",
-      "title": "How to Enable Motion and Orientation Access on Your iPhone? How to reduce motion effects in iOS 17 on your iPhone or iPad How to detect the Reduce Motion accessibility setting"
+      "title": "Reduce screen motion on your iPhone, iPad, or iPod touch",
+      "url": "https://support.apple.com/en-us/111781"
+    },
+    {
+      "title": "How to Make iOS 26 Less Animated - The Mac Observer",
+      "url": "https://www.macobserver.com/tips/how-to/make-ios-26-less-animated/"
+    },
+    {
+      "title": "iOS 17: How to Reduce Motion on iPhone for a Smoother ...",
+      "url": "https://www.techbloat.com/ios-17-how-to-reduce-motion-on-iphone-for-a-smoother-experience.html"
+    },
+    {
+      "title": "What Does Reduce Motion Do on iPhone: A Clear Explanation",
+      "url": "https://decortweaks.com/what-does-reduce-motion-do-on-iphone/"
+    },
+    {
+      "title": "How to Enable Motion and Orientation Access on Your iPhone? How to reduce motion effects in iOS 17 on your iPhone or iPad How to detect the Reduce Motion accessibility setting",
+      "url": "https://www.devicemag.com/motion-and-orientation-access-iphone/"
     }
   ],
   "talkback focus order audit tool": [
     {
-      "url": "https://stackoverflow.com/questions/78293501/manage-focusing-with-android-jetpack-compose-for-talkback",
-      "title": "Manage focusing with Android Jetpack Compose for TalkBack"
+      "title": "A11y audit bookmarklets - A11y Tools",
+      "url": "https://a11y-tools.com/bookmarklets/"
     },
     {
-      "url": "https://developer.android.com/develop/ui/compose/touch-input/focus/change-focus-traversal-order",
-      "title": "Change focus traversal order | Jetpack Compose | Android ..."
+      "title": "Manage focusing with Android Jetpack Compose for TalkBack",
+      "url": "https://stackoverflow.com/questions/78293501/manage-focusing-with-android-jetpack-compose-for-talkback"
     },
     {
-      "url": "https://www.thegreenreport.blog/articles/testing-focus-order-and-visibility-for-wcag-compliance/testing-focus-order-and-visibility-for-wcag-compliance.html",
-      "title": "Testing Focus Order and Visibility for WCAG Compliance"
+      "title": "Change focus traversal order | Jetpack Compose | Android ...",
+      "url": "https://developer.android.com/develop/ui/compose/touch-input/focus/change-focus-traversal-order"
     },
     {
-      "url": "https://livefront.com/writing/talkback-ordering-in-android-jetpack-compose/",
-      "title": "Talkback Ordering in Android Jetpack Compose - Livefront"
+      "title": "Testing Focus Order and Visibility for WCAG Compliance",
+      "url": "https://www.thegreenreport.blog/articles/testing-focus-order-and-visibility-for-wcag-compliance/testing-focus-order-and-visibility-for-wcag-compliance.html"
+    },
+    {
+      "title": "Talkback Ordering in Android Jetpack Compose - Livefront",
+      "url": "https://livefront.com/writing/talkback-ordering-in-android-jetpack-compose/"
     }
   ],
   "voiceover announce traits in swiftui": [
     {
-      "url": "https://mobilea11y.com/guides/swiftui/swiftui-traits/",
-      "title": "SwiftUI Accessibility: Traits - Mobile A11y"
+      "title": "Introduction to supporting VoiceOver in SwiftUI",
+      "url": "https://tanaschita.com/ios-accessibility-voiceover-swiftui-guide/"
     },
     {
-      "url": "https://tanaschita.com/ios-accessibility-voiceover-swiftui-guide/",
-      "title": "Introduction to supporting VoiceOver in SwiftUI"
+      "title": "Accessibility in SwiftUI: VoiceOver, Contrast, and Labels",
+      "url": "https://medium.com/@mhamdouchi/accessibility-in-swiftui-voiceover-contrast-and-labels-5baefebf566d"
+    },
+    {
+      "title": "Overriding default accessibility strings for iOS VoiceOver",
+      "url": "https://stackoverflow.com/questions/79193303/overriding-default-accessibility-strings-for-ios-voiceover"
+    },
+    {
+      "title": "SwiftUI Accessibility: Traits - Mobile A11y",
+      "url": "https://mobilea11y.com/guides/swiftui/swiftui-traits/"
+    },
+    {
+      "title": "Tailor VoiceOver Speech Properties in SwiftUI",
+      "url": "https://www.kodeco.com/books/swiftui-cookbook/v1.0/chapters/9-tailor-voiceover-speech-properties-in-swiftui"
     }
   ],
   "arabic rtl mirroring pitfalls android": [
     {
-      "url": "https://stackoverflow.com/questions/15289474/android-localization-arabic-language",
-      "title": "Android localization arabic language - Stack Overflow"
+      "title": "Android localization arabic language - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/15289474/android-localization-arabic-language"
     },
     {
-      "url": "https://github.com/ankidroid/Anki-Android/issues/1582",
-      "title": "Arabic RTL or reshaping issue in AnkiDroid \u00b7 Issue #1582..."
+      "title": "Arabic RTL or reshaping issue in AnkiDroid \u00b7 Issue #1582...",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/1582"
     },
     {
-      "url": "https://android-developers.googleblog.com/2013/03/native-rtl-support-in-android-42.html",
-      "title": "Android Developers Blog: Native RTL support in Android 4.2"
+      "title": "Localization that Scales \u2014 Dynamic Content, Plurals & RTL ... | Medium",
+      "url": "https://medium.com/@tiger.chirag/how-to-scale-translations-and-survive-rtl-in-a-flutter-412dc357b02e"
     },
     {
-      "url": "https://phrase.com/blog/posts/android-app-development-tutorial-multi-language-support/",
-      "title": "Dos and Don\u2019ts for Developing Multilingual Android Apps | Phrase"
+      "title": "Android Developers Blog: Native RTL support in Android 4.2",
+      "url": "https://android-developers.googleblog.com/2013/03/native-rtl-support-in-android-42.html"
+    },
+    {
+      "title": "Dos and Don\u2019ts for Developing Multilingual Android Apps | Phrase",
+      "url": "https://phrase.com/blog/posts/android-app-development-tutorial-multi-language-support/"
     }
   ],
   "german long strings truncation examples": [
     {
-      "url": "https://cedardb.com/blog/strings_deep_dive/",
-      "title": "A Deep Dive into German Strings - CedarDB"
+      "title": "A Deep Dive into German Strings - CedarDB",
+      "url": "https://cedardb.com/blog/strings_deep_dive/"
     },
     {
-      "url": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
-      "title": "Das Problem mit German Strings - polarsignals.com"
+      "title": "Das Problem mit German Strings - polarsignals.com",
+      "url": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings"
     },
     {
-      "url": "https://www.e6data.com/blog/german-strings-faster-analytics",
-      "title": "German Strings: Turbocharging String Performance in Analytics"
+      "title": "German Strings: Turbocharging String Performance in Analytics",
+      "url": "https://www.e6data.com/blog/german-strings-faster-analytics"
     },
     {
-      "url": "https://cedardb.com/blog/german_strings/",
-      "title": "Why German Strings are Everywhere - CedarDB"
+      "title": "Why German Strings are Everywhere - CedarDB",
+      "url": "https://cedardb.com/blog/german_strings/"
+    },
+    {
+      "title": "Truncation and Wildcards - How to Search the Literature ...",
+      "url": "https://hslmcmaster.libguides.com/c.php?g=716883&p=5201232"
     }
   ],
   "pseudolocalization ios xcstrings setup": [
     {
-      "url": "https://www.scmgalaxy.com/tutorials/mastering-localizable-xcstrings-for-ios-localization/",
-      "title": "Mastering Localizable.xcstrings for iOS Localization - scmGalaxy"
+      "title": "Mastering Localizable.xcstrings for iOS Localization - scmGalaxy",
+      "url": "https://www.scmgalaxy.com/tutorials/mastering-localizable-xcstrings-for-ios-localization/"
     },
     {
-      "url": "https://www.ibabbleon.com/iphone_app_localization.html",
-      "title": "iOS App Localization How-to Tutorial for Xcode 26 GitHub - thillsman/XCStringsLocalizer How to create a localization file in Xcode - Transolve Localizable XCStrings MCP server for AI agents xcstrings - Apple Localization Terms Glossary Understanding XCStrings: The New Localization Format in ..."
+      "title": "iOS App Localization How-to Tutorial for Xcode 26 GitHub - thillsman/XCStringsLocalizer How to create a localization file in Xcode - Transolve Localizable XCStrings MCP server for AI agents xcstrings - Apple Localization Terms Glossary Understanding XCStrings: The New Localization Format in ...",
+      "url": "https://www.ibabbleon.com/iphone_app_localization.html"
+    },
+    {
+      "title": "GitHub - thillsman/XCStringsLocalizer",
+      "url": "https://github.com/thillsman/XCStringsLocalizer"
+    },
+    {
+      "title": "Localizable XCStrings MCP server for AI agents",
+      "url": "https://playbooks.com/mcp/localizable-xcstrings"
+    },
+    {
+      "title": "xcstrings - Apple Localization Terms Glossary",
+      "url": "http://xcstrings.com/"
     }
   ],
   "icu messageformat plural rules android": [
     {
-      "url": "https://developer.android.com/reference/android/icu/text/MessageFormat",
-      "title": "MessageFormat | API reference | Android Developers"
+      "title": "Plurals \u2013 Smartling Help Center",
+      "url": "https://help.smartling.com/hc/en-us/articles/360008144493-Plurals"
     },
     {
-      "url": "https://phrase.com/blog/posts/guide-to-the-icu-message-format/",
-      "title": "A Practical Guide to the ICU Message Format | Phrase"
+      "title": "MessageFormat | API reference | Android Developers",
+      "url": "https://developer.android.com/reference/android/icu/text/MessageFormat"
     },
     {
-      "url": "https://simplelocalize.io/blog/posts/what-is-icu/",
-      "title": "ICU message format : Guide to plurals , dates... | SimpleLocalize"
+      "title": "Plural forms - Loco",
+      "url": "https://localise.biz/help/management/plurals"
+    },
+    {
+      "title": "A Practical Guide to the ICU Message Format | Phrase",
+      "url": "https://phrase.com/blog/posts/guide-to-the-icu-message-format/"
+    },
+    {
+      "title": "ICU message format : Guide to plurals , dates... | SimpleLocalize",
+      "url": "https://simplelocalize.io/blog/posts/what-is-icu/"
     }
   ],
   "base internationalization xcode explained": [
     {
-      "url": "https://www.meandmark.com/base-internationalization/",
-      "title": "Base Internationalization \u00b7 Me and Mark Publishing"
+      "title": "A Guide to Internationalizing XCode Storyboards | Phrase",
+      "url": "https://phrase.com/blog/posts/ios-i18n-internationalizing-storyboards-in-xcode/"
     },
     {
-      "url": "https://stackoverflow.com/questions/51742614/base-internationalisation-with-xcode-10",
-      "title": "localization - Base internationalisation with Xcode 10 - Stack Overflow"
+      "title": "Base Internationalization \u00b7 Me and Mark Publishing",
+      "url": "https://www.meandmark.com/base-internationalization/"
+    },
+    {
+      "title": "iOS/macOS Localization and Internationalization - Soluling",
+      "url": "https://soluling.com/Help/Apple/Index.htm"
+    },
+    {
+      "title": "localization - Base internationalisation with Xcode 10 - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/51742614/base-internationalisation-with-xcode-10"
+    },
+    {
+      "title": "iOS Localization Tutorial. Localization is the process of making | Medium",
+      "url": "https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881"
     }
   ],
   "android resource qualifiers locale-ar-rtl": [
     {
-      "url": "https://developer.android.com/training/basics/supporting-devices/languages",
-      "title": "Support different languages and cultures - Android Developers"
+      "title": "Support different languages and cultures - Android Developers",
+      "url": "https://developer.android.com/training/basics/supporting-devices/languages"
     },
     {
-      "url": "https://stackoverflow.com/questions/7420127/rtl-languages-support-in-android-and-resource-qualifiers",
-      "title": "RTL Languages support in android and resource qualifiers"
+      "title": "RTL Languages support in android and resource qualifiers",
+      "url": "https://stackoverflow.com/questions/7420127/rtl-languages-support-in-android-and-resource-qualifiers"
     },
     {
-      "url": "https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-3-make-your-apps-accessible/lesson-5-localization/5-1a-p-using-resources-for-languages/5-1a-p-using-resources-for-languages.html",
-      "title": "5.1: Using resources for languages \u00b7 GitBook - GitHub Pages"
+      "title": "5.1: Using resources for languages \u00b7 GitBook - GitHub Pages",
+      "url": "https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-3-make-your-apps-accessible/lesson-5-localization/5-1a-p-using-resources-for-languages/5-1a-p-using-resources-for-languages.html"
     },
     {
-      "url": "https://developer.android.com/guide/topics/resources/localization",
-      "title": "Localize your app | App architecture | Android Developers"
+      "title": "How to Check Embedded Resource Languages in Your Android App at Runtime",
+      "url": "https://www.codegenes.net/blog/get-the-application-s-resources-languages/"
+    },
+    {
+      "title": "Localize your app | App architecture | Android Developers",
+      "url": "https://developer.android.com/guide/topics/resources/localization"
     }
   ],
   "perfetto trace startup jank guide": [
     {
-      "url": "https://en.todoandroid.es/Latency-and-jank-with-Perfetto-on-Android:-A-Complete-Guide/",
-      "title": "Latency and jank with Perfetto on Android: a complete guide"
+      "title": "Latency and jank with Perfetto on Android: a complete guide",
+      "url": "https://en.todoandroid.es/Latency-and-jank-with-Perfetto-on-Android:-A-Complete-Guide/"
     },
     {
-      "url": "https://perfetto.dev/docs/getting-started/start-using-perfetto",
-      "title": "How do I start using Perfetto? - Perfetto Tracing Docs"
+      "title": "How do I start using Perfetto? - Perfetto Tracing Docs",
+      "url": "https://perfetto.dev/docs/getting-started/start-using-perfetto"
     },
     {
-      "url": "https://developer.android.com/tools/perfetto",
-      "title": "perfetto | Android Studio | Android Developers perfetto/docs/getting-started/start-using-perfetto.md at main ... Analyzing Perfetto traces at every scale - Tracing Summit Android Developers Blog: Leveling Guide for your Performance ... perfetto /docs/getting-started/start-using- perfetto .md at main - GitHub perfetto | Android Studio | Android Developers How do I start using Perfetto ? - Perfetto Tracing Docs How do I start using Perfetto ? - Perfetto Tracing Docs Fixing Android Animation Jank with Perfetto & Macrobenchmark"
+      "title": "perfetto | Android Studio | Android Developers perfetto/docs/getting-started/start-using-perfetto.md at main ... Analyzing Perfetto traces at every scale - Tracing Summit Android Developers Blog: Leveling Guide for your Performance ... perfetto /docs/getting-started/start-using- perfetto .md at main - GitHub perfetto | Android Studio | Android Developers How do I start using Perfetto ? - Perfetto Tracing Docs How do I start using Perfetto ? - Perfetto Tracing Docs Fixing Android Animation Jank with Perfetto & Macrobenchmark",
+      "url": "https://developer.android.com/tools/perfetto"
     },
     {
-      "url": "https://github.com/google/perfetto/blob/main/docs/getting-started/start-using-perfetto.md",
-      "title": "perfetto/docs/getting-started/start-using-perfetto.md at main ..."
+      "title": "perfetto/docs/getting-started/start-using-perfetto.md at main ...",
+      "url": "https://github.com/google/perfetto/blob/main/docs/getting-started/start-using-perfetto.md"
+    },
+    {
+      "title": "Analyzing Perfetto traces at every scale - Tracing Summit",
+      "url": "https://tracingsummit.org/ts/2022/files/Tracing_Summit_2022-Analyzing_Perfetto_traces_at_every_scale_Lalit_Maganti.pdf"
     }
   ],
   "android startup benchmark library example": [
     {
-      "url": "https://medium.com/@sivavishnu0705/boost-your-apps-performance-with-android-macrobenchmark-ab7c2e566b4a",
-      "title": "Android Macrobenchmark: Optimize App Performance | Medium"
+      "title": "Android Macrobenchmark: Optimize App Performance | Medium",
+      "url": "https://medium.com/@sivavishnu0705/boost-your-apps-performance-with-android-macrobenchmark-ab7c2e566b4a"
     },
     {
-      "url": "https://github.com/hoodunit/clojure_android_startup_benchmarks",
-      "title": "GitHub - hoodunit/clojure_ android _ startup _ benchmarks"
+      "title": "GitHub - hoodunit/clojure_ android _ startup _ benchmarks",
+      "url": "https://github.com/hoodunit/clojure_android_startup_benchmarks"
     },
     {
-      "url": "https://readmedium.com/boosting-your-android-apps-performance-a-guide-to-macrobenchmarking-baseline-profiles-and-61969eff910c",
-      "title": "Boosting Your Android App's Performance: A Guide to..."
+      "title": "Boosting Your Android App's Performance: A Guide to...",
+      "url": "https://readmedium.com/boosting-your-android-apps-performance-a-guide-to-macrobenchmarking-baseline-profiles-and-61969eff910c"
     },
     {
-      "url": "https://www.linkedin.com/pulse/measure-application-performance-via-jetpack-macro-azade-rahmati",
-      "title": "Measure application performance via Jetpack Macro Benchmark"
+      "title": "Debug Baseline Profiles | App quality | Android Developers",
+      "url": "https://developer.android.com/topic/performance/baselineprofiles/debug-baseline-profiles"
+    },
+    {
+      "title": "Measure application performance via Jetpack Macro Benchmark",
+      "url": "https://www.linkedin.com/pulse/measure-application-performance-via-jetpack-macro-azade-rahmati"
     }
   ],
   "systrace vs perfetto differences": [
     {
-      "url": "https://blog.csdn.net/XinCurry/article/details/145857465",
-      "title": "Perfetto \u548c Systrace \u7684\u5dee\u5f02_perfetto\u4e0esystrace\u533a\u522b-CSDN\u535a\u5ba2"
+      "title": "Android Performance Analysis Tool (02) Perfetto - Programmer ...",
+      "url": "https://www.programmersought.com/article/836010836984/"
+    },
+    {
+      "title": "Perfetto \u548c Systrace \u7684\u5dee\u5f02_perfetto\u4e0esystrace\u533a\u522b-CSDN\u535a\u5ba2",
+      "url": "https://blog.csdn.net/XinCurry/article/details/145857465"
+    },
+    {
+      "title": "Perfetto - System profiling, app tracing and trace analysis Advanced System Profiling, Tracing and Trace Analysis with ... Overview of system tracing | App quality | Android Developers Android Performance \u2014 Capture a system trace \u2014 Perfetto Advanced System Profiling, Tracing and Trace Analysis with Perfetto in Perfetto - System profiling, app tracing and trace analysis Android Performance \u2014 Capture a system trace \u2014 Perfetto",
+      "url": "https://android.googlesource.com/platform/external/perfetto/+/refs/heads/master/docs/README.md"
+    },
+    {
+      "title": "Android Performance \u2014 Capture a system trace \u2014 Perfetto",
+      "url": "https://medium.com/@huuphuoc1396/android-performance-capture-a-system-trace-perfetto-c8f33cd7514b"
+    },
+    {
+      "title": "[Performance Optimization] What is the difference between ...",
+      "url": "https://inf.news/en/tech/2b43d2f0ea12a17d4c4f5076cc5cf069.html"
     }
   ],
   "instruments time profiler launch time": [
     {
-      "url": "https://www.kodeco.com/books/swiftui-cookbook/v1.0/chapters/10-understanding-reducing-startup-time-with-instruments",
-      "title": "Understanding & Reducing Startup Time With Instruments"
+      "title": "Xcode Instruments Part 3: Speeding up our app using Time Profiler",
+      "url": "https://medium.com/@mfsaglam1/xcode-instruments-part-3-speeding-up-our-app-using-time-profiler-49547c1979a6"
     },
     {
-      "url": "https://medium.com/@mfsaglam1/xcode-instruments-part-3-speeding-up-our-app-using-time-profiler-49547c1979a6",
-      "title": "Xcode Instruments Part 3: Speeding up our app using Time Profiler"
+      "title": "Understanding & Reducing Startup Time With Instruments",
+      "url": "https://www.kodeco.com/books/swiftui-cookbook/v1.0/chapters/10-understanding-reducing-startup-time-with-instruments"
     },
     {
-      "url": "https://www.donnywals.com/finding-slow-code-with-instruments/",
-      "title": "Finding slow code with Instruments - Donny Wals"
+      "title": "How to use Instruments to profile your SwiftUI code and identify slow ...",
+      "url": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts"
+    },
+    {
+      "title": "Instruments Tutorials | Apple Developer Documentation",
+      "url": "https://docs.developer.apple.com/tutorials/instruments"
+    },
+    {
+      "title": "Finding slow code with Instruments - Donny Wals",
+      "url": "https://www.donnywals.com/finding-slow-code-with-instruments/"
     }
   ],
   "ios metrickit launch metrics tutorial": [
     {
-      "url": "https://developer.apple.com/documentation/metrickit",
-      "title": "MetricKit | Apple Developer Documentation"
+      "title": "MetricKit | Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/metrickit"
     },
     {
-      "url": "https://dev.to/mtmorozov/measurements-with-metrickit-4239",
-      "title": "Measurements with MetricKit - DEV Community"
+      "title": "Measurements with MetricKit - DEV Community",
+      "url": "https://dev.to/mtmorozov/measurements-with-metrickit-4239"
     },
     {
-      "url": "https://medium.com/simform-engineering/unlocking-metrickit-see-what-your-app-is-really-doing-on-users-devices-1292026bdef0",
-      "title": "Unlocking MetricKit: See What Your App Is Really Doing on ..."
+      "title": "Unlocking MetricKit: See What Your App Is Really Doing on ...",
+      "url": "https://medium.com/simform-engineering/unlocking-metrickit-see-what-your-app-is-really-doing-on-users-devices-1292026bdef0"
     },
     {
-      "url": "https://www.avanderlee.com/swift/metrickit-launch-time/",
-      "title": "Using MetricKit to monitor user data like launch times Monitoring app performance with MetricKit | Swift with Majid Optimize your iOS app perfomance using MetricKit | Bugfender MetricKit | Apple Developer Documentation Measurements with MetricKit - DEV Community Using MetricKit to monitor user data like launch times - SwiftLee Using MetricKit to monitor user data like launch times - SwiftLee Using MetricKit - Wesley de Groot"
+      "title": "Using MetricKit to monitor user data like launch times Monitoring app performance with MetricKit | Swift with Majid Optimize your iOS app perfomance using MetricKit | Bugfender MetricKit | Apple Developer Documentation Measurements with MetricKit - DEV Community Using MetricKit to monitor user data like launch times - SwiftLee Using MetricKit to monitor user data like launch times - SwiftLee Using MetricKit - Wesley de Groot",
+      "url": "https://www.avanderlee.com/swift/metrickit-launch-time/"
     },
     {
-      "url": "https://swiftwithmajid.com/2025/12/09/monitoring-app-performance-with-metrickit/",
-      "title": "Monitoring app performance with MetricKit | Swift with Majid"
+      "title": "Monitoring app performance with MetricKit | Swift with Majid",
+      "url": "https://swiftwithmajid.com/2025/12/09/monitoring-app-performance-with-metrickit/"
     }
   ],
   "battery drain test methodology mobile": [
     {
-      "url": "https://www.headspin.io/blog/battery-drain-testing-guide",
-      "title": "How to Master Battery Drain Testing - HeadSpin"
+      "title": "How to Master Battery Drain Testing - HeadSpin",
+      "url": "https://www.headspin.io/blog/battery-drain-testing-guide"
     },
     {
-      "url": "https://mobileenerlytics.com/power-modeling/",
-      "title": "Essentials of Battery Drain Testing \u2014 Part I: Model-based ..."
+      "title": "Essentials of Battery Drain Testing \u2014 Part I: Model-based ...",
+      "url": "https://mobileenerlytics.com/power-modeling/"
     },
     {
-      "url": "https://www.pcloudy.com/android-app-testing-for-battery-drain/",
-      "title": "Android App Testing for Battery Drain - Tips and Tricks - pCloudy"
+      "title": "How To Test For Battery Drain: Quick And Easy Tips!",
+      "url": "https://poweruptips.com/how-to-test-for-battery-drain/"
     },
     {
-      "url": "https://keysight-docs.s3-us-west-2.amazonaws.com/keysight-pdfs/66321D/Using+Battery+Drain+Analysis+to+Improve+Mobile-.pdf",
-      "title": "Using Battery Drain Analysis to Improve Mobile-Device ..."
+      "title": "Android App Testing for Battery Drain - Tips and Tricks - pCloudy",
+      "url": "https://www.pcloudy.com/android-app-testing-for-battery-drain/"
+    },
+    {
+      "title": "Using Battery Drain Analysis to Improve Mobile-Device ...",
+      "url": "https://keysight-docs.s3-us-west-2.amazonaws.com/keysight-pdfs/66321D/Using+Battery+Drain+Analysis+to+Improve+Mobile-.pdf"
     }
   ],
   "android doze mode testing checklist": [
     {
-      "url": "https://developer.android.com/training/monitoring-device-state/doze-standby",
-      "title": "Optimize for Doze and App Standby - Android Developers"
+      "title": "Optimize for Doze and App Standby - Android Developers",
+      "url": "https://developer.android.com/training/monitoring-device-state/doze-standby"
     },
     {
-      "url": "https://stackoverflow.com/questions/43048010/how-to-test-doze-mode-on-android",
-      "title": "How to test Doze Mode on Android? - Stack Overflow"
+      "title": "How to test Doze Mode on Android? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/43048010/how-to-test-doze-mode-on-android"
     },
     {
-      "url": "https://wolkowicz-mateusz.medium.com/simple-android-doze-mode-testing-365acf127ab4",
-      "title": "Simple Android DOZE MODE testing - Medium"
+      "title": "Simple Android DOZE MODE testing - Medium",
+      "url": "https://wolkowicz-mateusz.medium.com/simple-android-doze-mode-testing-365acf127ab4"
     },
     {
-      "url": "https://gist.github.com/AsmaaAlamrawy/c8a16e2cb4e8e990f5ed21537e013463",
-      "title": "ADB commands to test Doze mode and App Standby on android devices"
+      "title": "ADB commands to test Doze mode and App Standby on android devices",
+      "url": "https://gist.github.com/AsmaaAlamrawy/c8a16e2cb4e8e990f5ed21537e013463"
     },
     {
-      "url": "https://www.oreilly.com/library/view/expert-android-programming/9781786468956/8328c0a6-7e19-46e9-8fa9-4b7a48753c03.xhtml",
-      "title": "Testing with Doze and App Standby - Expert Android Programming [Book]"
+      "title": "Testing with Doze and App Standby - Expert Android Programming [Book]",
+      "url": "https://www.oreilly.com/library/view/expert-android-programming/9781786468956/8328c0a6-7e19-46e9-8fa9-4b7a48753c03.xhtml"
     }
   ],
   "background fetch ios testing steps": [
     {
-      "url": "https://medium.com/@vialyx/ios-dev-course-background-modes-fetch-70c18f9f58d5",
-      "title": "iOS Dev Course: Background Modes ( Fetch ) | by Maksim... | Medium"
+      "title": "iOS Dev Course: Background Modes ( Fetch ) | by Maksim... | Medium",
+      "url": "https://medium.com/@vialyx/ios-dev-course-background-modes-fetch-70c18f9f58d5"
     },
     {
-      "url": "https://www.kodeco.com/34269507-background-modes-tutorial-getting-started?page=3",
-      "title": "Background Modes Tutorial: Getting Started | Kodeco"
+      "title": "Background Modes Tutorial: Getting Started | Kodeco",
+      "url": "https://www.kodeco.com/34269507-background-modes-tutorial-getting-started?page=3"
     },
     {
-      "url": "https://www.rapidvaluesolutions.com/tech_blog/background-fetch-implementation/",
-      "title": "Background Fetch Implementation"
+      "title": "Background Fetch Implementation",
+      "url": "https://www.rapidvaluesolutions.com/tech_blog/background-fetch-implementation/"
     },
     {
-      "url": "https://mobisoftinfotech.com/resources/mguide/background-fetch-ios",
-      "title": "Implementing Background Fetch in iOS - Mobisoft"
+      "title": "Implementing Background Fetch in iOS - Mobisoft",
+      "url": "https://mobisoftinfotech.com/resources/mguide/background-fetch-ios"
     },
     {
-      "url": "https://stackoverflow.com/questions/29596618/ios-background-fetch-not-working-even-though-correct-background-mode-configured",
-      "title": "xcode - iOS Background Fetch Not Working Even... - Stack Overflow"
+      "title": "xcode - iOS Background Fetch Not Working Even... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/29596618/ios-background-fetch-not-working-even-though-correct-background-mode-configured"
     }
   ],
   "workmanager constraints testing offline": [
     {
-      "url": "https://developer.android.com/develop/background-work/background-tasks/testing/persistent/integration-testing",
-      "title": "Integration tests with WorkManager - Android Developers"
+      "title": "Integration tests with WorkManager - Android Developers",
+      "url": "https://developer.android.com/develop/background-work/background-tasks/testing/persistent/integration-testing"
     },
     {
-      "url": "https://www.momentslog.com/development/android/mastering-android-workmanager-constraints-handling-constraints-for-background-tasks",
-      "title": "Mastering Android WorkManager Constraints: Handling Constraints for ..."
+      "title": "Mastering Android WorkManager Constraints: Handling Constraints for ...",
+      "url": "https://www.momentslog.com/development/android/mastering-android-workmanager-constraints-handling-constraints-for-background-tasks"
+    },
+    {
+      "title": "WorkManager in Android: Complete Guide for Periodic & One-Time ... - Medium",
+      "url": "https://medium.com/@chetanshingare2991/mastering-workmanager-in-android-the-ultimate-guide-to-reliable-background-tasks-9e62025cda69"
+    },
+    {
+      "title": "Offload Network Calls in Android with WorkManager | MoldStud",
+      "url": "https://moldstud.com/articles/p-efficiently-offload-network-calls-in-android-using-workmanager"
+    },
+    {
+      "title": "Android Jetpack - WorkManager with Example - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/kotlin/android-jetpack-workmanager-with-example/"
     }
   ],
-  "crashlytics pii redaction best practices": [],
-  "app tracking transparency prompt timing ux": [
+  "crashlytics pii redaction best practices": [
     {
-      "url": "https://www.adjust.com/blog/opt-in-design-for-apple-app-tracking-transparency-att-ios14/",
-      "title": "Opt-in design do\u2019s and don\u2019ts for Apple\u2019s App Tracking Trans ..."
+      "title": "PII Redaction Best Practices: Safeguard Customer Data Across All ...",
+      "url": "https://www.tungstenautomation.com/learn/blog/pii-redaction-best-practices-how-to-protect-customer-data-across-all-formats"
     },
     {
-      "url": "https://tyrads.com/att-prompt/",
-      "title": "What Is the ATT Prompt? Complete Guide for iOS Marketers ..."
+      "title": "CaseGuard | How to Redact PII and PHI for Legal Compliance",
+      "url": "https://caseguard.com/articles/how-to-redact-pii-and-phi-for-legal-compliance/"
+    },
+    {
+      "title": "Top PII Data Masking Techniques: Pros, Cons, & Use Cases",
+      "url": "https://www.protecto.ai/blog/top-5-pii-data-masking-techniques/"
+    },
+    {
+      "title": "PII Redaction: Essential Strategies to Protect Your Data Privacy",
+      "url": "https://intrasleep.com/blog/article/pii-redaction-essential-strategies-to-protect-your-data-privacy"
+    },
+    {
+      "title": "Data Redaction: Techniques, Best Practices, and Compliance in 2025",
+      "url": "https://www.strac.io/blog/data-redaction"
+    }
+  ],
+  "app tracking transparency prompt timing ux": [
+    {
+      "title": "If an app asks to track your activity - Apple Support",
+      "url": "https://support.apple.com/en-us/102420"
+    },
+    {
+      "title": "Opt-in design do\u2019s and don\u2019ts for Apple\u2019s App Tracking Trans ...",
+      "url": "https://www.adjust.com/blog/opt-in-design-for-apple-app-tracking-transparency-att-ios14/"
+    },
+    {
+      "title": "What Is the ATT Prompt? Complete Guide for iOS Marketers ...",
+      "url": "https://tyrads.com/att-prompt/"
+    },
+    {
+      "title": "Configuring App Tracking Transparency Prompts for Mobile Apps",
+      "url": "https://my.onetrust.com/s/article/UUID-8c72913e-ab36-b84e-d5f4-de32011931d5?language=en_US"
+    },
+    {
+      "title": "What is App Tracking Transparency (ATT) and how it affects you?",
+      "url": "https://www.appsflyer.com/glossary/app-tracking-transparency/"
     }
   ],
   "privacy nutrition label app store generator": [
     {
-      "url": "https://developer.apple.com/videos/play/wwdc2022/10167/",
-      "title": "Create your Privacy Nutrition Label - WWDC22... - Apple Developer"
+      "title": "Create your Privacy Nutrition Label - WWDC22... - Apple Developer",
+      "url": "https://developer.apple.com/videos/play/wwdc2022/10167/"
+    },
+    {
+      "title": "[2306.10923v1] Toward the Cure of Privacy Policy Reading Phobia...",
+      "url": "https://arxiv.org/abs/2306.10923v1"
+    },
+    {
+      "title": "Handling iOS- Privacy -Manifest. All iOS apps and SDKs are... | Medium",
+      "url": "https://medium.com/@meera.13raveendran/handling-ios-privacy-manifest-96213951016a"
+    },
+    {
+      "title": "Understanding Challenges for Developers to Create Accurate Privacy ...",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3491102.3502012?cookieSet=1"
+    },
+    {
+      "title": "What are Privacy Nutrition Labels ? | Adjust",
+      "url": "https://www.adjust.com/glossary/privacy-nutrition-labels/"
     }
   ],
   "google play data safety form examples": [
     {
-      "url": "https://support.google.com/googleplay/android-developer/answer/10787469?hl=en",
-      "title": "Provide information for Google Play 's Data safety section - Play ..."
+      "title": "Provide information for Google Play 's Data safety section - Play ...",
+      "url": "https://support.google.com/googleplay/android-developer/answer/10787469?hl=en"
     },
     {
-      "url": "https://docs.tracker.my.com/en/privacy-and-security/google-data-safety",
-      "title": "MyTracker \u2013 Multi-platform Analytics and Attribution"
+      "title": "MyTracker \u2013 Multi-platform Analytics and Attribution",
+      "url": "https://docs.tracker.my.com/en/privacy-and-security/google-data-safety"
     },
     {
-      "url": "https://support.appsflyer.com/hc/en-us/articles/4417197430289-Fill-out-Google-safety-section-form",
-      "title": "Fill out Google safety section form \u2013 Help Center"
+      "title": "Fill out Google safety section form \u2013 Help Center",
+      "url": "https://support.appsflyer.com/hc/en-us/articles/4417197430289-Fill-out-Google-safety-section-form"
     },
     {
-      "url": "https://doc.batch.com/guides-and-best-practices/privacy-and-gdpr/how-to-fill-the-google-play-data-safety-in-the-play-console",
-      "title": "How to fill the Google Play Data Safety in the Play Console?"
+      "title": "How to fill the Google Play Data Safety in the Play Console?",
+      "url": "https://doc.batch.com/guides-and-best-practices/privacy-and-gdpr/how-to-fill-the-google-play-data-safety-in-the-play-console"
+    },
+    {
+      "title": "Google Play Data Safety : What You Need To Know - CleverTap",
+      "url": "https://clevertap.com/blog/google-play-data-safety/"
     }
   ],
   "intercept graphql on mobile charles map local": [
     {
-      "url": "https://requestly.com/blog/how-to-use-map-local-tool-in-charle-proxy/",
-      "title": "How to use Map Local tool in Charle Proxy"
+      "title": "How to use Map Local tool in Charle Proxy",
+      "url": "https://requestly.com/blog/how-to-use-map-local-tool-in-charle-proxy/"
     },
     {
-      "url": "https://stackoverflow.com/questions/66800982/charles-proxy-rewrite-maplocal-how-to-match-exact-query",
-      "title": "Charles Proxy Rewrite & MapLocal - how to match exact query"
+      "title": "Charles Proxy Rewrite & MapLocal - how to match exact query",
+      "url": "https://stackoverflow.com/questions/66800982/charles-proxy-rewrite-maplocal-how-to-match-exact-query"
     },
     {
-      "url": "https://wilcovanes.ch/articles/mocking-api-requests-and-responses-through-charles-proxy/",
-      "title": "Mocking API requests and responses through Charles Proxy Map Local Tool \u2022 Charles Web Debugging Proxy What We Can Test in a Mobile App Using Charles Proxy Charles Proxy Rewrite & MapLocal - how to match exact query Test Mobile Apps with Charles & Proxyman: Traffic Test (2024) What We Can Test in a Mobile App Using Charles Proxy Test Mobile Apps with Charles & Proxyman: Traffic Test (2024) Test Mobile Apps with Charles & Proxyman: Traffic Test (2024)"
+      "title": "Map Local (File) - Proxyman",
+      "url": "https://docs.proxyman.com/advanced-features/map-local"
     },
     {
-      "url": "https://www.charlesproxy.com/documentation/tools/map-local/",
-      "title": "Map Local Tool \u2022 Charles Web Debugging Proxy"
+      "title": "Mocking API requests and responses through Charles Proxy Map Local Tool \u2022 Charles Web Debugging Proxy What We Can Test in a Mobile App Using Charles Proxy Charles Proxy Rewrite & MapLocal - how to match exact query Test Mobile Apps with Charles & Proxyman: Traffic Test (2024) What We Can Test in a Mobile App Using Charles Proxy Test Mobile Apps with Charles & Proxyman: Traffic Test (2024) Test Mobile Apps with Charles & Proxyman: Traffic Test (2024)",
+      "url": "https://wilcovanes.ch/articles/mocking-api-requests-and-responses-through-charles-proxy/"
+    },
+    {
+      "title": "Map Local Tool \u2022 Charles Web Debugging Proxy",
+      "url": "https://www.charlesproxy.com/documentation/tools/map-local/"
     }
   ],
   "http toolkit mobile proxy setup": [
     {
-      "url": "https://httptoolkit.com/docs/guides/android/",
-      "title": "Intercepting Android HTTP - HTTP Toolkit"
+      "title": "Intercepting Android HTTP - HTTP Toolkit",
+      "url": "https://httptoolkit.com/docs/guides/android/"
     },
     {
-      "url": "https://github.com/httptoolkit/httptoolkit-android",
-      "title": "Automatic Android interception & debugging with HTTP Toolkit ... HTTP Toolkit Free: Getting Started - A Beginner's Guide How to Install HTTP Toolkit & Connect Android \u2013 Step by Step ..."
+      "title": "Proxy Setup | httptoolkit/httptoolkit-android | DeepWiki",
+      "url": "https://deepwiki.com/httptoolkit/httptoolkit-android/5-proxy-setup"
     },
     {
-      "url": "https://deepwiki.com/httptoolkit/httptoolkit-android/5-proxy-setup",
-      "title": "Proxy Setup | httptoolkit/httptoolkit-android | DeepWiki"
+      "title": "Intercepting Traffic for Mobile Applications that Bypass the ...",
+      "url": "https://www.blackhillsinfosec.com/intercepting-traffic-for-mobile-applications/"
     },
     {
-      "url": "https://stackoverflow.com/questions/79716041/run-http-toolkit-proxy-and-rewrite-requests-locally-on-rooted-android",
-      "title": "Run HTTP Toolkit proxy and rewrite requests locally on rooted ..."
+      "title": "Run HTTP Toolkit proxy and rewrite requests locally on rooted ...",
+      "url": "https://stackoverflow.com/questions/79716041/run-http-toolkit-proxy-and-rewrite-requests-locally-on-rooted-android"
+    },
+    {
+      "title": "Automatic Android interception & debugging with HTTP Toolkit ... HTTP Toolkit Free: Getting Started - A Beginner's Guide How to Install HTTP Toolkit & Connect Android \u2013 Step by Step ...",
+      "url": "https://github.com/httptoolkit/httptoolkit-android"
     }
   ],
   "mitmproxy iOS trust certificate steps": [
     {
-      "url": "https://docs.mitmproxy.org/stable/concepts/certificates/",
-      "title": "Certificates - mitmproxy"
+      "title": "Certificates - mitmproxy",
+      "url": "https://docs.mitmproxy.org/stable/concepts/certificates/"
     },
     {
-      "url": "https://github.com/mitmproxy/mitmproxy/discussions/7194",
-      "title": "iOS 18: \u201cEnable full trust for root certificates\u201d \u00b7 mitmproxy ..."
+      "title": "iOS 18: \u201cEnable full trust for root certificates\u201d \u00b7 mitmproxy ...",
+      "url": "https://github.com/mitmproxy/mitmproxy/discussions/7194"
     },
     {
-      "url": "https://www.mrpbennett.dev/intercepting-ios-app-traffic-with-mitmproxy-cli-and-web-ui-guide",
-      "title": "Intercepting iOS App Traffic with mitmproxy CLI & Web UI Guide"
+      "title": "Intercepting iOS App Traffic with mitmproxy CLI & Web UI Guide",
+      "url": "https://www.mrpbennett.dev/intercepting-ios-app-traffic-with-mitmproxy-cli-and-web-ui-guide"
     },
     {
-      "url": "https://medium.com/ios-essentials/how-to-debug-ios-and-macos-apps-using-mitm-proxy-in-5-easy-steps-f88ff45f5cc7",
-      "title": "How to Debug iOS Apps Using MITM Proxy in 5 Easy Steps"
+      "title": "How to Debug iOS Apps Using MITM Proxy in 5 Easy Steps",
+      "url": "https://medium.com/ios-essentials/how-to-debug-ios-and-macos-apps-using-mitm-proxy-in-5-easy-steps-f88ff45f5cc7"
     },
     {
-      "url": "https://blog.sayan.page/mitm-proxy-on-ios/",
-      "title": "Setting up mitmproxy on iOS | Sayan\u2019s Blog"
+      "title": "Setting up mitmproxy on iOS | Sayan\u2019s Blog",
+      "url": "https://blog.sayan.page/mitm-proxy-on-ios/"
     }
   ],
   "certificate pinning testing strategy ethical": [
     {
-      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Pinning_Cheat_Sheet.html",
-      "title": "Pinning - OWASP Cheat Sheet Series Certificate Pinning Testing in Mobile Applications: SSL/TLS ... Android Bug Bounty Hunting: Hunt Like a Rat - EC-Council Learning Uncovering Hidden Threats: Mitigating Web Application SSL ... iOS SSL Bypass & Real-Time Traffic Monitor - GitHub SSL Pinning for Mobile Apps Guide - MOSS"
+      "title": "Certificate Pinning: A Philosophical IT Perspective",
+      "url": "https://www.numberanalytics.com/blog/certificate-pinning-philosophy-it"
     },
     {
-      "url": "https://yrkan.com/blog/certificate-pinning-testing/",
-      "title": "Certificate Pinning Testing in Mobile Applications: SSL/TLS ..."
+      "title": "Pinning - OWASP Cheat Sheet Series Certificate Pinning Testing in Mobile Applications: SSL/TLS ... Android Bug Bounty Hunting: Hunt Like a Rat - EC-Council Learning Uncovering Hidden Threats: Mitigating Web Application SSL ... iOS SSL Bypass & Real-Time Traffic Monitor - GitHub SSL Pinning for Mobile Apps Guide - MOSS",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Pinning_Cheat_Sheet.html"
     },
     {
-      "url": "https://moss.sh/ssl-security/ssl-pinning-for-mobile-apps-guide/",
-      "title": "SSL Pinning for Mobile Apps Guide - MOSS"
+      "title": "Certificate Pinning Testing in Mobile Applications: SSL/TLS ...",
+      "url": "https://yrkan.com/blog/certificate-pinning-testing/"
+    },
+    {
+      "title": "SSL Pinning for Mobile Apps Guide - MOSS",
+      "url": "https://moss.sh/ssl-security/ssl-pinning-for-mobile-apps-guide/"
+    },
+    {
+      "title": "Android Bug Bounty Hunting: Hunt Like a Rat - EC-Council Learning",
+      "url": "https://learn.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat?logged=false"
     }
   ],
   "network caching headers verify tool": [
     {
-      "url": "https://www.debugbear.com/test/website-cache-checker",
-      "title": "Website Cache Checker: Test HTTP Caching Headers"
+      "title": "Network Bandwidth Management - Perfect Traffic Analysis Tool",
+      "url": "https://www.bing.com/aclick?ld=e8oevszYbb3X6mLNsZe0ridzVUCUyIPgdixkYqPJCU8u_0ajHBabs9l_DLKXp-um3VtV3enQY-mYvXx6nqnqg4kcSXYKlBmP_bgo7Phn4sX3aPR177D2xaumFepauw7cGcOZt40Y_LxCzHI0YluHISXfwGSQzuy3k9_zYfv_XfZxyooIPN0RuCFUb7eaSqmNuP994ZnBMuZF_DwZ2ZMtQDX2mqK_4&u=aHR0cHMlM2ElMmYlMmZ3d3cubWFuYWdlZW5naW5lLmNvbSUyZnByb2R1Y3RzJTJmbmV0ZmxvdyUyZiUzZm5ldHdvcmslM2RvJTI2ZGV2aWNlJTNkYyUyNmtleXdvcmQlM2RuZXR3b3JrJTI1MjBhbmFseXplciUyNmNhbXBhaWduaWQlM2Q0MDEzNzM3MzglMjZjcmVhdGl2ZSUzZCUyNm1hdGNodHlwZSUzZHAlMjZhZHBvc2l0aW9uJTNkJTI2cGxhY2VtZW50JTNkJTI2YWRncm91cCUzZDEzMDYyMjAwNjY5NzMwNjYlMjZ0YXJnZXRpZCUzZGt3ZC04MTYzODkwNDUxNDM1MCUzYWxvYy0xOTAlMjZsb2NhdGlvbiUzZDU4MTYyJTI2bXNjbGtpZCUzZDZlMzQ2MmRhZGQwODFiNDVjMTllMGI5YjEyOGZmZjI1JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkTkZBJTI1MjAtJTI1MjBVU0ElMjUyMC0lMjUyMFNlYXJjaCUyNTIwLSUyNTIwUGhyYXNlJTI1MkZCTU0lMjUyMC0lMjUyMEwxQmluZyUyNnV0bV90ZXJtJTNkbmV0d29yayUyNTIwYW5hbHl6ZXIlMjZ1dG1fY29udGVudCUzZE5GQSUyNTIwLSUyNTIwTmV0d29yayUyNTIwQW5hbHl6ZXIlMjUyMC0lMjUyMEwx&rlid=6e3462dadd081b45c19e0b9b128fff25"
     },
     {
-      "url": "https://dnschecker.org/server-headers-check.php",
-      "title": "HTTP Header Checker | Check HTTP Headers Cache Header Checker - Internet Toolset How to Check Cache Headers - Servebolt Best No 1 HTTP Header Checker Tool By Ciphertronix - Fast ..."
+      "title": "Website Cache Checker: Test HTTP Caching Headers",
+      "url": "https://www.debugbear.com/test/website-cache-checker"
     },
     {
-      "url": "https://www.internettoolset.com/performance/cache-header-checker",
-      "title": "Cache Header Checker - Internet Toolset"
+      "title": "Analyse your HTTP response headers",
+      "url": "https://securityheaders.com/"
+    },
+    {
+      "title": "HTTP Header Checker | Check HTTP Headers Cache Header Checker - Internet Toolset How to Check Cache Headers - Servebolt Best No 1 HTTP Header Checker Tool By Ciphertronix - Fast ...",
+      "url": "https://dnschecker.org/server-headers-check.php"
+    },
+    {
+      "title": "Cache Header Checker - Internet Toolset",
+      "url": "https://www.internettoolset.com/performance/cache-header-checker"
     }
   ],
   "offline first android test cases": [
     {
-      "url": "https://www.codestudy.net/blog/android-instrumentation-test-offline-cases/",
-      "title": "Android Instrumentation Tests: How to Handle Offline Cases Without ..."
+      "title": "The Complete Guide to Offline-First Architecture in Android",
+      "url": "https://androidengineers.substack.com/p/the-complete-guide-to-offline-first"
+    },
+    {
+      "title": "Build an offline-first app | App architecture | Android Developers",
+      "url": "https://developer.android.com/topic/architecture/data-layer/offline-first"
+    },
+    {
+      "title": "Android Interview Mastery: Offline-First Architecture Deep Dive",
+      "url": "https://medium.com/codetodeploy/android-interview-mastery-offline-first-architecture-deep-dive-5dca408693d2"
+    },
+    {
+      "title": "Android Instrumentation Tests: How to Handle Offline Cases Without ...",
+      "url": "https://www.codestudy.net/blog/android-instrumentation-test-offline-cases/"
+    },
+    {
+      "title": "Mastering Offline-First Architecture in Android Development",
+      "url": "https://www.dhiwise.com/post/offline-first-android-architecture-a-practical-guide"
     }
   ],
   "retry with exponential backoff mobile pattern": [
     {
-      "url": "https://www.yaircarreno.com/2021/03/exponential-backoff-and-retry-patterns.html",
-      "title": "Exponential Backoff and Retry Patterns in Mobile ~ Yair Carreno"
+      "title": "Exponential Backoff and Retry Patterns in Mobile ~ Yair Carreno",
+      "url": "https://www.yaircarreno.com/2021/03/exponential-backoff-and-retry-patterns.html"
+    },
+    {
+      "title": "Retry with backoff pattern - AWS Prescriptive Guidance",
+      "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/retry-backoff.html"
+    },
+    {
+      "title": "Implementing Exponential Backoff in the Retry Pattern",
+      "url": "https://laciusang.com/post/how-to-apply-the-retry-pattern-with-exponential-backoff/"
+    },
+    {
+      "title": "Implement retries with exponential backoff - .NET | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/implement-retries-exponential-backoff"
+    },
+    {
+      "title": "How I implemented the exponential back-off retry system",
+      "url": "https://medium.com/@nikhilhk/how-we-implemented-the-exponential-back-off-retry-system-e9a822f9c0fb"
     }
   ],
   "cold start time definition tti mobile": [
     {
-      "url": "https://developer.android.com/topic/performance/vitals/launch-time",
-      "title": "App startup time | App quality | Android Developers"
+      "title": "App startup time | App quality | Android Developers",
+      "url": "https://developer.android.com/topic/performance/vitals/launch-time"
     },
     {
-      "url": "https://medium.com/@andriyo/correctly-measuring-cold-app-start-latency-in-android-apps-b487040c33c2",
-      "title": "Correctly measuring cold app start latency in Android apps"
+      "title": "Correctly measuring cold app start latency in Android apps",
+      "url": "https://medium.com/@andriyo/correctly-measuring-cold-app-start-latency-in-android-apps-b487040c33c2"
     },
     {
-      "url": "https://dev.to/theplebdev/my-notes-on-andorid-optimization-part-1-measuring-startup-time-42l3",
-      "title": "My notes on Android optimization. Part 1. Measuring startup time"
+      "title": "My notes on Android optimization. Part 1. Measuring startup time",
+      "url": "https://dev.to/theplebdev/my-notes-on-andorid-optimization-part-1-measuring-startup-time-42l3"
     },
     {
-      "url": "https://docs.newrelic.com/docs/mobile-monitoring/new-relic-mobile/get-started/introduction-app-launch-times/",
-      "title": "Overview of app launch times | New Relic Documentation"
+      "title": "Overview of app launch times | New Relic Documentation",
+      "url": "https://docs.newrelic.com/docs/mobile-monitoring/new-relic-mobile/get-started/introduction-app-launch-times/"
     },
     {
-      "url": "https://www.luciq.ai/blog/what-is-a-cold-start",
-      "title": "What is a Cold Start? Mobile App Launches Explained | Luciq"
+      "title": "What is a Cold Start? Mobile App Launches Explained | Luciq",
+      "url": "https://www.luciq.ai/blog/what-is-a-cold-start"
     }
   ],
   "time to first frame flutter measure": [
     {
-      "url": "https://stackoverflow.com/questions/57879839/measure-flutter-application-startup-time",
-      "title": "Measure flutter application startup time - Stack Overflow Usage example"
+      "title": "Performance metrics - Flutter",
+      "url": "https://docs.flutter.dev/perf/metrics"
     },
     {
-      "url": "https://medium.com/@reach.subhanu/optimizing-flutter-app-startup-cold-launch-to-ready-in-2-seconds-4ed32fa7a95f",
-      "title": "Optimizing Flutter App Startup: Cold Launch to Ready in 2 ..."
+      "title": "Measure flutter application startup time - Stack Overflow Usage example",
+      "url": "https://stackoverflow.com/questions/57879839/measure-flutter-application-startup-time"
     },
     {
-      "url": "https://github.com/flutter/flutter/issues/13156",
-      "title": "measure the time from flutter run to first frame #13156 - GitHub"
+      "title": "Optimizing Flutter App Startup: Cold Launch to Ready in 2 ...",
+      "url": "https://medium.com/@reach.subhanu/optimizing-flutter-app-startup-cold-launch-to-ready-in-2-seconds-4ed32fa7a95f"
+    },
+    {
+      "title": "measure the time from flutter run to first frame #13156 - GitHub",
+      "url": "https://github.com/flutter/flutter/issues/13156"
+    },
+    {
+      "title": "Flutter App Performance Metrics to Track and Improve Speed ...",
+      "url": "https://moldstud.com/articles/p-boost-your-app-essential-flutter-performance-metrics-to-measure-and-improve"
     }
   ],
   "flutter accessibility semantics tutorial": [
     {
-      "url": "https://medium.com/theotherdev-s/mastering-flutter-semantics-672440bc8bc8",
-      "title": "Mastering Flutter : Semantics . Accessibility is a hard... | Medium"
+      "title": "Mastering Flutter : Semantics . Accessibility is a hard... | Medium",
+      "url": "https://medium.com/theotherdev-s/mastering-flutter-semantics-672440bc8bc8"
     },
     {
-      "url": "https://docs.flutter.dev/ui/accessibility-and-internationalization/accessibility?ref=sfeir.dev",
-      "title": "Information on Flutter 's accessibility support."
+      "title": "Information on Flutter 's accessibility support.",
+      "url": "https://docs.flutter.dev/ui/accessibility-and-internationalization/accessibility?ref=sfeir.dev"
     },
     {
-      "url": "https://vibe-studio.ai/insights/advanced-accessibility-semantic-nodes-and-custom-actions",
-      "title": "Flutter Advanced Accessibility : Semantic Nodes and Custom Actions"
+      "title": "Flutter Advanced Accessibility : Semantic Nodes and Custom Actions",
+      "url": "https://vibe-studio.ai/insights/advanced-accessibility-semantic-nodes-and-custom-actions"
     },
     {
-      "url": "https://blog.stackademic.com/flutters-semantics-widget-for-accessibility-96122ed8e27a",
-      "title": "Flutter \u2019s Semantics Widget for Accessibility | Stackademic"
+      "title": "Flutter \u2019s Semantics Widget for Accessibility | Stackademic",
+      "url": "https://blog.stackademic.com/flutters-semantics-widget-for-accessibility-96122ed8e27a"
     },
     {
-      "url": "https://apps.theodo.com/article/accessibility-with-flutter-the-basics-of-semantics",
-      "title": "Accessibility with Flutter : the Basics of Semantics"
+      "title": "Accessibility with Flutter : the Basics of Semantics",
+      "url": "https://apps.theodo.com/article/accessibility-with-flutter-the-basics-of-semantics"
     }
   ],
   "swiftui accessibility actions example": [
     {
-      "url": "https://developer.apple.com/documentation/swiftui/view/accessibilityactions(_:)",
-      "title": "accessibilityActions(_:) | Apple Developer Documentation"
+      "title": "accessibilityActions(_:) | Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/swiftui/view/accessibilityactions(_:)"
     },
     {
-      "url": "https://www.w3schools.com/swift/swift_ui_accessibility_labels_actions.asp",
-      "title": "SwiftUI Accessibility: Labels & Actions - W3Schools"
+      "title": "SwiftUI Accessibility: Labels & Actions - W3Schools",
+      "url": "https://www.w3schools.com/swift/swift_ui_accessibility_labels_actions.asp"
     },
     {
-      "url": "https://www.matrixprojects.net/p/swiftui-multiple-accessibility-actions/",
-      "title": "Defining Multiple Accessibility Actions in SwiftUI - Matrix Projects"
+      "title": "Defining Multiple Accessibility Actions in SwiftUI - Matrix Projects",
+      "url": "https://www.matrixprojects.net/p/swiftui-multiple-accessibility-actions/"
     },
     {
-      "url": "https://appt.org/en/docs/swiftui/samples",
-      "title": "SwiftUI accessibility code samples | Appt"
+      "title": "SwiftUI accessibility code samples | Appt",
+      "url": "https://appt.org/en/docs/swiftui/samples"
+    },
+    {
+      "title": "Introduction to accessibility with SwiftUI - a free SwiftUI by Example ...",
+      "url": "https://www.hackingwithswift.com/quick-start/swiftui/introduction-to-accessibility-with-swiftui"
     }
   ],
   "jetpack compose accessibility testing": [
     {
-      "url": "https://www.droidcon.com/2023/06/23/accessibility-testing-in-jetpack-compose/",
-      "title": "Accessibility & Testing in Jetpack Compose - droidcon"
+      "title": "Accessibility in Jetpack Compose | Android Developers",
+      "url": "https://developer.android.com/develop/ui/compose/accessibility"
     },
     {
-      "url": "https://testset.suitest.net/docs/application/jetpack-compose/",
-      "title": "Jetpack Compose / Accessibility elements :: Suitest documentation"
+      "title": "Mastering Accessibility in Jetpack Compose UI: The... | Medium",
+      "url": "https://medium.com/@sharmapraveen91/mastering-accessibility-in-jetpack-compose-ui-the-ultimate-guide-for-2025-825e419ab359"
     },
     {
-      "url": "https://www.deque.com/blog/building-accessible-android-apps-with-jetpack-compose-real-time-examples/",
-      "title": "Building Accessible Android Apps With JetPack Compose | Deque"
+      "title": "Accessibility & Testing in Jetpack Compose - droidcon",
+      "url": "https://www.droidcon.com/2023/06/23/accessibility-testing-in-jetpack-compose/"
+    },
+    {
+      "title": "Building Accessible Android Apps With JetPack Compose | Deque",
+      "url": "https://www.deque.com/blog/building-accessible-android-apps-with-jetpack-compose-real-time-examples/"
+    },
+    {
+      "title": "Jetpack Compose / Accessibility elements :: Suitest documentation",
+      "url": "https://testset.suitest.net/docs/application/jetpack-compose/"
     }
   ],
   "native screen reader vs custom tts comparison": [
     {
-      "url": "https://speechify.com/blog/text-to-speech-vs-screen-reader/",
-      "title": "Text to speech vs screen reader . What's the difference? | Speechify"
+      "title": "Text to speech vs screen reader . What's the difference? | Speechify",
+      "url": "https://speechify.com/blog/text-to-speech-vs-screen-reader/"
     },
     {
-      "url": "https://stackoverflow.com/questions/55630509/custom-screen-reader-with-custom-tts-in-ios",
-      "title": "text to speech - Custom Screen Reader with custom TTS in iOS"
+      "title": "Ultimate Guide To TTS Software For Screen Reading | The Digital...",
+      "url": "https://besttexttospeech.net/ultimate-guide-to-tts-software-for-screen-reading/"
+    },
+    {
+      "title": "Read Aloud: A Text to Speech Voice Reader - Chrome Web Store",
+      "url": "https://chromewebstore.google.com/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp"
+    },
+    {
+      "title": "text to speech - Custom Screen Reader with custom TTS in iOS",
+      "url": "https://stackoverflow.com/questions/55630509/custom-screen-reader-with-custom-tts-in-ios"
+    },
+    {
+      "title": "GLM- TTS Complete Guide 2025: Revolutionary... - DEV Community",
+      "url": "https://dev.to/czmilo/glm-tts-complete-guide-2025-revolutionary-zero-shot-voice-cloning-with-reinforcement-learning-m8m"
     }
   ],
   "appium vs espresso for android ui tests": [
     {
-      "url": "https://www.linkedin.com/pulse/appium-vs-espresso-which-one-use-automating-android-app-wadhwani-aghcf",
-      "title": "Appium vs . Espresso \u2014 Which one to use for automating Android ..."
+      "title": "Appium vs . Espresso \u2014 Which one to use for automating Android ...",
+      "url": "https://www.linkedin.com/pulse/appium-vs-espresso-which-one-use-automating-android-app-wadhwani-aghcf"
     },
     {
-      "url": "https://saucelabs-prod.vercel.app/resources/blog/appium-vs-espresso",
-      "title": "Appium vs . Espresso : What's the difference?"
+      "title": "Appium vs . Espresso : What's the difference?",
+      "url": "https://saucelabs-prod.vercel.app/resources/blog/appium-vs-espresso"
     },
     {
-      "url": "https://www.browserstack.com/guide/appium-vs-espresso",
-      "title": "Appium vs Espresso : Key Differences | BrowserStack"
+      "title": "Appium vs Espresso : Key Differences | BrowserStack",
+      "url": "https://www.browserstack.com/guide/appium-vs-espresso"
     },
     {
-      "url": "https://smartbear.com/blog/appium-vs-espresso-which-framework-to-use/",
-      "title": "Appium vs . Espresso : Which Framework to Use for Automated..."
+      "title": "Appium vs . Espresso : Which Framework to Use for Automated...",
+      "url": "https://smartbear.com/blog/appium-vs-espresso-which-framework-to-use/"
     },
     {
-      "url": "https://testgrid.io/blog/appium-vs-espresso/",
-      "title": "Appium vs Espresso for Mobile App Testing : Guide"
+      "title": "Appium vs Espresso for Mobile App Testing : Guide",
+      "url": "https://testgrid.io/blog/appium-vs-espresso/"
     }
   ],
   "xctest ui testing tips 2025": [
     {
-      "url": "https://tanaschita.com/testing-ui-swiftui-xctest-framework/",
-      "title": "Getting started with UI Testing for SwiftUI"
+      "title": "Getting started with UI Testing for SwiftUI",
+      "url": "https://tanaschita.com/testing-ui-swiftui-xctest-framework/"
     },
     {
-      "url": "https://www.headspin.io/blog/xctest-a-complete-guide",
-      "title": "XCTest : A Complete Guide | HeadSpin"
+      "title": "XCTest : A Complete Guide | HeadSpin",
+      "url": "https://www.headspin.io/blog/xctest-a-complete-guide"
     },
     {
-      "url": "https://www.appcoda.com/ui-testing-swiftui-xctest/",
-      "title": "Introduction to UI Testing in SwiftUI Using XCTest Framework"
+      "title": "Introduction to UI Testing in SwiftUI Using XCTest Framework",
+      "url": "https://www.appcoda.com/ui-testing-swiftui-xctest/"
     },
     {
-      "url": "https://medium.com/swiftable/how-to-automation-test-swift-ios-apps-using-xctest-32557cb834fa?responsesOpen=true",
-      "title": "Automating iOS Apps with XCTest in Swift | by Chelsea... | Medium"
+      "title": "ios - What is the difference between \"Swift Testing with XCTest UI ...\"",
+      "url": "https://stackoverflow.com/questions/79046002/what-is-the-difference-between-swift-testing-with-xctest-ui-tests-and-xctest"
+    },
+    {
+      "title": "Automating iOS Apps with XCTest in Swift | by Chelsea... | Medium",
+      "url": "https://medium.com/swiftable/how-to-automation-test-swift-ios-apps-using-xctest-32557cb834fa?responsesOpen=true"
     }
   ],
   "detox react native flakiness fixes": [
     {
-      "url": "https://wix.github.io/Detox/docs/troubleshooting/flakiness/",
-      "title": "Dealing With Flakiness in Tests | Detox - GitHub Pages"
+      "title": "Dealing With Flakiness in Tests | Detox - GitHub Pages",
+      "url": "https://wix.github.io/Detox/docs/troubleshooting/flakiness/"
     },
     {
-      "url": "https://www.mindfulchase.com/explore/troubleshooting-tips/testing-frameworks/troubleshooting-detox-flaky-tests,-emulator-failures,-and-ci-integration-in-mobile-e2e-testing.html",
-      "title": "Troubleshooting Detox: Flaky Tests, Emulator Failures, and CI ..."
+      "title": "GitHub - wix/Detox: Gray box end-to-end testing and automation ...",
+      "url": "https://github.com/wix/Detox"
+    },
+    {
+      "title": "Troubleshooting Detox: Flaky Tests, Emulator Failures, and CI ...",
+      "url": "https://www.mindfulchase.com/explore/troubleshooting-tips/testing-frameworks/troubleshooting-detox-flaky-tests,-emulator-failures,-and-ci-integration-in-mobile-e2e-testing.html"
+    },
+    {
+      "title": "React Native end-to-end testing with Detox - LogRocket Blog",
+      "url": "https://blog.logrocket.com/react-native-end-to-end-testing-detox/"
+    },
+    {
+      "title": "End to End Detox Testing Tutorial - BrowserStack",
+      "url": "https://www.browserstack.com/guide/detox-testing-tutorial"
     }
   ],
   "firebase test lab real devices pricing": [
     {
-      "url": "https://firebase.google.com/docs/test-lab/usage-quotas-pricing",
-      "title": "Usage levels, quotas, and pricing for Test Lab | Firebase Test Lab"
+      "title": "Usage levels, quotas, and pricing for Test Lab | Firebase Test Lab",
+      "url": "https://firebase.google.com/docs/test-lab/usage-quotas-pricing"
+    },
+    {
+      "title": "Compare AWS Device Farm vs. Google Firebase Test Lab | G2",
+      "url": "https://www.g2.com/compare/aws-device-farm-vs-google-firebase-test-lab"
+    },
+    {
+      "title": "Firebase Device Farm / Firebase Test Labs | by Yuvraj Kale | Medium",
+      "url": "https://yuvrajkale.medium.com/firebase-device-farm-firebase-test-labs-2a35d2ee2ee4?source=user_profile---------1----------------------------"
+    },
+    {
+      "title": "Device testing with Firebase",
+      "url": "https://docs.bitrise.io/en/bitrise-ci/testing/device-testing-with-firebase.html"
+    },
+    {
+      "title": "Speed up your Android Espresso Tests with Firebase TestLab and...",
+      "url": "https://www.inovex.de/de/blog/android-espresso-tests-firebase-testlab-flank/"
     }
   ],
   "browserstack app live low-end device list": [
     {
-      "url": "https://www.browserstack.com/list-of-browsers-and-platforms/app_live",
-      "title": "Android & iOS Real Devices for Manual App ... - BrowserStack"
+      "title": "Android & iOS Real Devices for Manual App ... - BrowserStack",
+      "url": "https://www.browserstack.com/list-of-browsers-and-platforms/app_live"
+    },
+    {
+      "title": "BrowserStack App Live Plugin for Android Studio | JetBrains ... Do You Also Have A Vault Of Mobile Devices ... - Testsmith BrowserStack App Live: Mobile App Testing on Real Devices App Live - BrowserStack Docs BrowserStack MCP Server - GitHub Testing Android and iOS Mobile Applications on real devices ...",
+      "url": "https://plugins.jetbrains.com/plugin/24173-browserstack-app-live"
+    },
+    {
+      "title": "Do You Also Have A Vault Of Mobile Devices ... - Testsmith",
+      "url": "https://www.testsmith.io/blog/do-you-also-have-a-vault-of-mobile-devices"
+    },
+    {
+      "title": "BrowserStack App Live: Mobile App Testing on Real Devices",
+      "url": "https://bug0.com/knowledge-base/browserstack-app-live"
+    },
+    {
+      "title": "App Live - BrowserStack Docs",
+      "url": "https://www.browserstack.com/docs/app-live"
     }
   ],
   "jira bug report template mobile qa": [
     {
-      "url": "https://www.atlassian.com/software/jira/templates/bug-report",
-      "title": "Bug report template | Jira"
+      "title": "Bug report template | Jira",
+      "url": "https://www.atlassian.com/software/jira/templates/bug-report"
     },
     {
-      "url": "https://appliger.com/jira-templates/bug-report-template/",
-      "title": "Jira Bug Report Template - appliger"
+      "title": "14 Bug Report Templates to Copy for QA Testing [2025]",
+      "url": "https://marker.io/blog/bug-report-template"
+    },
+    {
+      "title": "15 Bug Report Templates & Examples To Improve Your QA Process",
+      "url": "https://usersnap.com/blog/bug-report-template/"
+    },
+    {
+      "title": "Jira Bug Report Template - appliger",
+      "url": "https://appliger.com/jira-templates/bug-report-template/"
+    },
+    {
+      "title": "Jira Bug Report Guide | TitanApps Blog",
+      "url": "https://titanapps.io/blog/jira-bug-report/"
     }
   ],
   "github issue template for app bugs": [
     {
-      "url": "https://github.com/soxoj/maigret/blob/main/.github/ISSUE_TEMPLATE/bug.md",
-      "title": "maigret/. github / ISSUE _ TEMPLATE / bug .md at main \u00b7 soxoj/maigret"
+      "title": "maigret/. github / ISSUE _ TEMPLATE / bug .md at main \u00b7 soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret/blob/main/.github/ISSUE_TEMPLATE/bug.md"
     },
     {
-      "url": "https://embeddedartistry.com/blog/2017/08/18/a-github-issue-template-for-your-projects/",
-      "title": "A GitHub Issue Template for Your Projects - Embedded Artistry"
+      "title": "A GitHub Issue Template for Your Projects - Embedded Artistry",
+      "url": "https://embeddedartistry.com/blog/2017/08/18/a-github-issue-template-for-your-projects/"
     },
     {
-      "url": "https://egghead-io-nextjs-git-cp-fix-missing-tag-on-n-fae0be-eggheadio1.vercel.app/lessons/github-create-a-github-issue-template",
-      "title": "Create a GitHub Issue Template | egghead.io"
+      "title": "Create a GitHub Issue Template | egghead.io",
+      "url": "https://egghead-io-nextjs-git-cp-fix-missing-tag-on-n-fae0be-eggheadio1.vercel.app/lessons/github-create-a-github-issue-template"
+    },
+    {
+      "title": "Add 2 issue templates - Githubissues",
+      "url": "https://githubissues.com/gitautoai/sample-flutter/2"
+    },
+    {
+      "title": "Added issue templates [no ci] \u00b7 andreped/neukit at 663b005",
+      "url": "https://huggingface.co/spaces/andreped/neukit/commit/663b0059bfb6eb09f819031224934ce313736d17"
     }
   ],
   "notion ux friction log template": [
     {
-      "url": "https://www.notion.com/templates/path-of-ux",
-      "title": "Path of Least Resistance UX Board Template | Notion Marketplace"
+      "title": "Path of Least Resistance UX Board Template | Notion Marketplace",
+      "url": "https://www.notion.com/templates/path-of-ux"
     },
     {
-      "url": "https://www.adora.so/blog/friction-logging-playbook-template",
-      "title": "Friction Logging Playbook + Template"
+      "title": "Notion Templates for UX Designers: All FREE - UX Planet",
+      "url": "https://uxplanet.org/notion-templates-for-ux-designers-all-free-cef277191bb6"
+    },
+    {
+      "title": "Friction Logging Playbook + Template",
+      "url": "https://www.adora.so/blog/friction-logging-playbook-template"
+    },
+    {
+      "title": "10+ Notion Templates UX/UI Designers Use to Organize Projects (And Stop ...",
+      "url": "https://nimblegot.com/notion-templates-for-ux-ui-designers/"
+    },
+    {
+      "title": "How to: friction logs - sbensu",
+      "url": "https://blog.sbensu.com/posts/friction-logs/"
     }
   ],
   "screen capture to gif mac shortcuts": [
     {
-      "url": "https://clearnightsky.com/how-to-screen-record-gif-mac-p161/",
-      "title": "Easy GIF Creation: How to Screen Record on Mac - Clearnightsky"
+      "title": "Easy GIF Creation: How to Screen Record on Mac - Clearnightsky",
+      "url": "https://clearnightsky.com/how-to-screen-record-gif-mac-p161/"
     },
     {
-      "url": "https://support.apple.com/guide/mac-help/take-a-screenshot-mh26782/mac",
-      "title": "Take screenshots or screen recordings on Mac - Apple Support [Updated] Record GIF on Mac with 5 Recorders in 2025 - EaseUS Record Screen to GIF on Mac in 4 Easy Ways - Nabla Mind Best 7 Apps to Record Screen to GIF on Mac in 2025 Mac screen capture to gif - blog.darrenxu.com"
+      "title": "Take screenshot on Mac: How to make screenshots and recordings",
+      "url": "https://www.cultofmac.com/how-to/take-screenshot-on-mac"
     },
     {
-      "url": "https://recorder.easeus.com/screen-recording-tips/record-gif-on-mac.html",
-      "title": "[Updated] Record GIF on Mac with 5 Recorders in 2025 - EaseUS"
+      "title": "Take screenshots or screen recordings on Mac - Apple Support [Updated] Record GIF on Mac with 5 Recorders in 2025 - EaseUS Record Screen to GIF on Mac in 4 Easy Ways - Nabla Mind Best 7 Apps to Record Screen to GIF on Mac in 2025 Mac screen capture to gif - blog.darrenxu.com",
+      "url": "https://support.apple.com/guide/mac-help/take-a-screenshot-mh26782/mac"
     },
     {
-      "url": "https://www.nablamind.com/record-screen/record-gif-mac.html",
-      "title": "Record Screen to GIF on Mac in 4 Easy Ways - Nabla Mind"
+      "title": "[Updated] Record GIF on Mac with 5 Recorders in 2025 - EaseUS",
+      "url": "https://recorder.easeus.com/screen-recording-tips/record-gif-on-mac.html"
+    },
+    {
+      "title": "Record Screen to GIF on Mac in 4 Easy Ways - Nabla Mind",
+      "url": "https://www.nablamind.com/record-screen/record-gif-mac.html"
     }
   ],
   "compress screen recordings without quality loss": [
     {
-      "url": "https://www.bing.com/aclick?ld=e8SYT6vVBSycf6aDJR820p9DVUCUxVWd_VnpXmAJQZC05cv4FvhBFBcIAzSwLLSV2usXcy6aFeT_djWgjQF4uv1Efan35GBwLeUVUO_agCZ2nyOWhHhLj6Tx0-1EAcIws2seI6GOlU9wFRshwF1P8DD-fu4K5pghq9woZ3pnDmoYwjoakzImMmvLn_zkY7bxK5mq8MVZ3CePkaDeb6IAa2EpM1xOI&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2YlMjYlMjZkc19lX2FkaWQlM2QlMjZkc19lX21hdGNodHlwZSUzZHNlYXJjaCUyNmRzX2VfZGV2aWNlJTNkYyUyNmRzX2VfbmV0d29yayUzZG8lMjYlMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmdmlkZW9jb252ZXJ0ZXIud29uZGVyc2hhcmUubmV0JTJmYWQlMmZ2aWRlby1jb21wcmVzc29yLmh0bWwlM2ZnY2xzcmMlM2Rhdy5kcyUyNiUyNm1zY2xraWQlM2Q2NjZiNzM2NDRhMTMxNzZjY2FlYjFhMjU4NTg0YTMxNCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFZDX1NTX0VOX1VTX1BpZCgxNDIzNilfRk5fV0lOX05FV182LjgtNi4xNl9CaW5nJTI2dXRtX3Rlcm0lM2Rob3clMjUyMHRvJTI1MjBjb21wcmVzcyUyNTIwdmlkZW9zJTI2dXRtX2NvbnRlbnQlM2QyLWNvbXByZXNzLWhvdyUyNTIwdmlkZW8&rlid=666b73644a13176ccaeb1a258584a314",
-      "title": "how to compress videos - No Quality Loss Compression"
+      "title": "how to compress videos - No Quality Loss Compression",
+      "url": "https://www.bing.com/aclick?ld=e8SYT6vVBSycf6aDJR820p9DVUCUxVWd_VnpXmAJQZC05cv4FvhBFBcIAzSwLLSV2usXcy6aFeT_djWgjQF4uv1Efan35GBwLeUVUO_agCZ2nyOWhHhLj6Tx0-1EAcIws2seI6GOlU9wFRshwF1P8DD-fu4K5pghq9woZ3pnDmoYwjoakzImMmvLn_zkY7bxK5mq8MVZ3CePkaDeb6IAa2EpM1xOI&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2YlMjYlMjZkc19lX2FkaWQlM2QlMjZkc19lX21hdGNodHlwZSUzZHNlYXJjaCUyNmRzX2VfZGV2aWNlJTNkYyUyNmRzX2VfbmV0d29yayUzZG8lMjYlMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmdmlkZW9jb252ZXJ0ZXIud29uZGVyc2hhcmUubmV0JTJmYWQlMmZ2aWRlby1jb21wcmVzc29yLmh0bWwlM2ZnY2xzcmMlM2Rhdy5kcyUyNiUyNm1zY2xraWQlM2Q2NjZiNzM2NDRhMTMxNzZjY2FlYjFhMjU4NTg0YTMxNCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFZDX1NTX0VOX1VTX1BpZCgxNDIzNilfRk5fV0lOX05FV182LjgtNi4xNl9CaW5nJTI2dXRtX3Rlcm0lM2Rob3clMjUyMHRvJTI1MjBjb21wcmVzcyUyNTIwdmlkZW9zJTI2dXRtX2NvbnRlbnQlM2QyLWNvbXByZXNzLWhvdyUyNTIwdmlkZW8&rlid=666b73644a13176ccaeb1a258584a314"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8UU7ranojOb8SvXHXPQCagDVUCUwwxnCZdLuiiAUeVNspCgA3GVq4YExvLLT8EY3QCBq1VjLEYEzOpS6IkdCGXqHnAnT6jtlQ2G80hbkR9p0iniwNHx0Rb_NRXgEpasiofIivVdlSP9djGFPKaMsBi6ki_V7y2wZlVuicLYsLnaYNI3dmKTYsRkd5WQJYdeAm3bl41ntbXL73vVGkIIiRMWLgUHQ&u=aHR0cHMlM2ElMmYlMmZ3d3cudmVlZC5pbyUyZnRvb2xzJTJmdmlkZW8tY29tcHJlc3NvciUzZnV0bV9pZCUzZDQ4NjY4OTY1MyUyNnV0bV90ZXJtJTNkY29tcHJlc3MlMjUyMHZpZGVvJTI1MjB3aXRob3V0JTI1MjBsb3NpbmclMjUyMHF1YWxpdHklMjZ1dG1fY2FtcGFpZ24lM2RvX1VTLUVOLUdlbmVyaWNfU2VhcmNoLUFsbC1OZXclMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY29udGVudCUzZDEyMzE0NTQxNjI4MDc4NDZfJTI2bXNjbGtpZCUzZDUzNTg1NGJjZjkyZDFkM2NmYmUwM2RmZDM2YmE4NTdl&rlid=535854bcf92d1d3cfbe03dfd36ba857e",
-      "title": "No Quality Loss Compression - Compress Your Video"
+      "title": "No Quality Loss Compression - Compress Your Video",
+      "url": "https://www.bing.com/aclick?ld=e8UU7ranojOb8SvXHXPQCagDVUCUwwxnCZdLuiiAUeVNspCgA3GVq4YExvLLT8EY3QCBq1VjLEYEzOpS6IkdCGXqHnAnT6jtlQ2G80hbkR9p0iniwNHx0Rb_NRXgEpasiofIivVdlSP9djGFPKaMsBi6ki_V7y2wZlVuicLYsLnaYNI3dmKTYsRkd5WQJYdeAm3bl41ntbXL73vVGkIIiRMWLgUHQ&u=aHR0cHMlM2ElMmYlMmZ3d3cudmVlZC5pbyUyZnRvb2xzJTJmdmlkZW8tY29tcHJlc3NvciUzZnV0bV9pZCUzZDQ4NjY4OTY1MyUyNnV0bV90ZXJtJTNkY29tcHJlc3MlMjUyMHZpZGVvJTI1MjB3aXRob3V0JTI1MjBsb3NpbmclMjUyMHF1YWxpdHklMjZ1dG1fY2FtcGFpZ24lM2RvX1VTLUVOLUdlbmVyaWNfU2VhcmNoLUFsbC1OZXclMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY29udGVudCUzZDEyMzE0NTQxNjI4MDc4NDZfJTI2bXNjbGtpZCUzZDUzNTg1NGJjZjkyZDFkM2NmYmUwM2RmZDM2YmE4NTdl&rlid=535854bcf92d1d3cfbe03dfd36ba857e"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8viSquWIPdrQxScYpam7JVzVUCUyew7aV8yLtmo8Zk9xdtiRk7I4-4cfg6dYn-67ZJ8tmd6gb5qJaZt6H9P1c6grOP5lsjDs7dOPLGHbzcobVcgUbghbU5oKi1Wm30JnWl8bXRIdX9NWNS1jf67krLVlRT-u44US8sdV6JKoSRp9gwxd5XDo7tG1Fj-i8eIoK_PEZpUdVtvPUeFCxwjjWqMEVhnI&u=aHR0cHMlM2ElMmYlMmZyZXZpZXdlZC5hcHAlMmZhcHAlMmZ2aWRlby1jb21wcmVzc29yLWNvbnZlcnRlciUyZiUzZnV0bV9jYW1wYWlnbiUzZDUzMzExMTYzMSUyNnV0bV9jb250ZW50JTNkMTM2MDA5ODU2Mjc1NzMwNyUyNnV0bV90ZXJtJTNka3dkLTg1MDA3Mzc3NjQ0MjI4JTNhbG9jLTE5MCUyNmFkSWQlM2Q4NTAwNjU3NzY3NzM0MSUyNm1zY2xraWQlM2Q1ZmY1ZWEyMjI1MjUxOTlhZWY0NjgzNjNlYWIyZjUyNiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYw&rlid=5ff5ea222525199aef468363eab2f526",
-      "title": "Quick Video Compression - Free Video Compressor"
+      "title": "Quick Video Compression - Free Video Compressor",
+      "url": "https://www.bing.com/aclick?ld=e8viSquWIPdrQxScYpam7JVzVUCUyew7aV8yLtmo8Zk9xdtiRk7I4-4cfg6dYn-67ZJ8tmd6gb5qJaZt6H9P1c6grOP5lsjDs7dOPLGHbzcobVcgUbghbU5oKi1Wm30JnWl8bXRIdX9NWNS1jf67krLVlRT-u44US8sdV6JKoSRp9gwxd5XDo7tG1Fj-i8eIoK_PEZpUdVtvPUeFCxwjjWqMEVhnI&u=aHR0cHMlM2ElMmYlMmZyZXZpZXdlZC5hcHAlMmZhcHAlMmZ2aWRlby1jb21wcmVzc29yLWNvbnZlcnRlciUyZiUzZnV0bV9jYW1wYWlnbiUzZDUzMzExMTYzMSUyNnV0bV9jb250ZW50JTNkMTM2MDA5ODU2Mjc1NzMwNyUyNnV0bV90ZXJtJTNka3dkLTg1MDA3Mzc3NjQ0MjI4JTNhbG9jLTE5MCUyNmFkSWQlM2Q4NTAwNjU3NzY3NzM0MSUyNm1zY2xraWQlM2Q1ZmY1ZWEyMjI1MjUxOTlhZWY0NjgzNjNlYWIyZjUyNiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYw&rlid=5ff5ea222525199aef468363eab2f526"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8aUk_4NuRlEao4hyoNYiuZTVUCUyaldCla8ECjbm0lTcoBPNkiizdLUWsoQhq1HD-NUbW9j15mG64wNbz0k8A2BPMv6HZCWXjs52dJ34gTgMGhNwmc-0J-IbrP3T7PvTINC-8U7Ov87cBY6RiPeufn0Cw_wg8AL83Xxp6xS_cFeVGoqmRB-FLs7VKnZe47YpMpNneHDu1PUJrLPOo5EozKN2P5WU&u=aHR0cHMlM2ElMmYlMmZ3d3cubW92YXZpLmNvbSUyZmFkdiUyZnZpZGVvLWNvbXByZXNzaW9uLXZlLmh0bWwlM2Z1dG1fY2FtcGFpZ24lM2Q0ODY2NDEyODIlMjZ1dG1fY2FtcGFpZ25pZCUzZDQ4NjY0MTI4MiUyNnV0bV9hZGdyb3VwaWQlM2QxMjMwMzU0NjQ1MzgzNTczJTI2bXNjbGtpZCUzZDdkZDY1MWFkNjc0NjFmMGZkNzNjMzhlY2E4ZDFjZmFmJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX3Rlcm0lM2Rob3clMjUyMHRvJTI1MjBjb21wcmVzcyUyNTIwdmlkZW8lMjUyMHdpdGhvdXQlMjUyMGxvc2luZyUyNTIwcXVhbGl0eSUyNnV0bV9jb250ZW50JTNkQ09NUFJFU1MlMjUyMFZJREVPJTI1MjBBTEwlMjUyMC0lMjUyMFVSTCUyNTIwa2V5d29yZHM&rlid=7dd651ad67461f0fd73c38eca8d1cfaf",
-      "title": "How to compress video without losing quality - No Quality Loss"
+      "title": "How to compress video without losing quality - No Quality Loss",
+      "url": "https://www.bing.com/aclick?ld=e8aUk_4NuRlEao4hyoNYiuZTVUCUyaldCla8ECjbm0lTcoBPNkiizdLUWsoQhq1HD-NUbW9j15mG64wNbz0k8A2BPMv6HZCWXjs52dJ34gTgMGhNwmc-0J-IbrP3T7PvTINC-8U7Ov87cBY6RiPeufn0Cw_wg8AL83Xxp6xS_cFeVGoqmRB-FLs7VKnZe47YpMpNneHDu1PUJrLPOo5EozKN2P5WU&u=aHR0cHMlM2ElMmYlMmZ3d3cubW92YXZpLmNvbSUyZmFkdiUyZnZpZGVvLWNvbXByZXNzaW9uLXZlLmh0bWwlM2Z1dG1fY2FtcGFpZ24lM2Q0ODY2NDEyODIlMjZ1dG1fY2FtcGFpZ25pZCUzZDQ4NjY0MTI4MiUyNnV0bV9hZGdyb3VwaWQlM2QxMjMwMzU0NjQ1MzgzNTczJTI2bXNjbGtpZCUzZDdkZDY1MWFkNjc0NjFmMGZkNzNjMzhlY2E4ZDFjZmFmJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX3Rlcm0lM2Rob3clMjUyMHRvJTI1MjBjb21wcmVzcyUyNTIwdmlkZW8lMjUyMHdpdGhvdXQlMjUyMGxvc2luZyUyNTIwcXVhbGl0eSUyNnV0bV9jb250ZW50JTNkQ09NUFJFU1MlMjUyMFZJREVPJTI1MjBBTEwlMjUyMC0lMjUyMFVSTCUyNTIwa2V5d29yZHM&rlid=7dd651ad67461f0fd73c38eca8d1cfaf"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8FR4VVDow30Dn9TzfmqeOoDVUCUxLMayF51YyopGjW2KMJwxwzpdlk4l-EAn2uh9ReTs0GNpyZVf6fiKniInlyO9NiMjPRI-fmw55Ux-E_CiiqO2xKWNTZkjW1IrEoicrV98AyA0DQE6gUlgn9x-URlLJFfmRaLOZO4OZYg7hK2Bizj-S7rr38r3V8oASf0A8CZ1wgK5MubKEnd5qLoi6dWfDmGo&u=aHR0cHMlM2ElMmYlMmZ3d3cuaGl0cGF3Lm5ldCUyZnNlbSUyZmJpbmclMmZ2aWRlby1jb252ZXJ0ZXItY29tcHJlc3MuaHRtbCUzZm1zY2xraWQlM2RmMWUxYjUwZTAxOTQxYjE0Nzc1N2RjNGZjZTAzNWFmMiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEhWQ19FTl9TZWFyY2hfQ29tcHJlc3NfU19QSUQ5NDAwJTI2dXRtX3Rlcm0lM2RtaW5pbWl6ZSUyNTIwdmlkZW8lMjUyMGZpbGUlMjUyMHNpemUlMjZ1dG1fY29udGVudCUzZHZpZGVvLW1pbmltaXpl&rlid=f1e1b50e01941b147757dc4fce035af2",
-      "title": "No Quality Loss - All-in-one Video Compress"
+      "title": "No Quality Loss - All-in-one Video Compress",
+      "url": "https://www.bing.com/aclick?ld=e8FR4VVDow30Dn9TzfmqeOoDVUCUxLMayF51YyopGjW2KMJwxwzpdlk4l-EAn2uh9ReTs0GNpyZVf6fiKniInlyO9NiMjPRI-fmw55Ux-E_CiiqO2xKWNTZkjW1IrEoicrV98AyA0DQE6gUlgn9x-URlLJFfmRaLOZO4OZYg7hK2Bizj-S7rr38r3V8oASf0A8CZ1wgK5MubKEnd5qLoi6dWfDmGo&u=aHR0cHMlM2ElMmYlMmZ3d3cuaGl0cGF3Lm5ldCUyZnNlbSUyZmJpbmclMmZ2aWRlby1jb252ZXJ0ZXItY29tcHJlc3MuaHRtbCUzZm1zY2xraWQlM2RmMWUxYjUwZTAxOTQxYjE0Nzc1N2RjNGZjZTAzNWFmMiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEhWQ19FTl9TZWFyY2hfQ29tcHJlc3NfU19QSUQ5NDAwJTI2dXRtX3Rlcm0lM2RtaW5pbWl6ZSUyNTIwdmlkZW8lMjUyMGZpbGUlMjUyMHNpemUlMjZ1dG1fY29udGVudCUzZHZpZGVvLW1pbmltaXpl&rlid=f1e1b50e01941b147757dc4fce035af2"
     }
   ],
   "share testflight public link instructions": [
     {
-      "url": "https://departures.to/about/guides/how-to-create-a-testflight-public-link",
-      "title": "How to Create a TestFlight Public Link - Departures"
+      "title": "How to Create a TestFlight Public Link - Departures",
+      "url": "https://departures.to/about/guides/how-to-create-a-testflight-public-link"
     },
     {
-      "url": "https://stackoverflow.com/questions/52530797/how-to-share-testflight-testers-with-a-public-link",
-      "title": "How to share TestFlight testers with a public link"
+      "title": "How to share TestFlight testers with a public link",
+      "url": "https://stackoverflow.com/questions/52530797/how-to-share-testflight-testers-with-a-public-link"
     },
     {
-      "url": "https://www.webtonative.com/blog/step-by-step-guide-how-to-invite-testers-to-testflight",
-      "title": "Step-by-Step Guide to Invite Testers to TestFlight - WebToNative"
+      "title": "Step-by-Step Guide to Invite Testers to TestFlight - WebToNative",
+      "url": "https://www.webtonative.com/blog/step-by-step-guide-how-to-invite-testers-to-testflight"
     },
     {
-      "url": "https://www.youtube.com/watch?v=AcJ-x2NZgug",
-      "title": "How to create public link for Testflight (2025) I DOUBLE Z TestFlight - Apple Developer Invite Beta Testers with a TestFlight Public Link - AppAspect How to Create a TestFlight Public Link - Departures How to Create a TestFlight Public Link - Departures Step-by-Step Guide to Invite Testers to TestFlight - WebToNative How to Create a TestFlight Public Link - Departures How to share TestFlight testers with a public link"
+      "title": "How to create public link for Testflight (2025) I DOUBLE Z TestFlight - Apple Developer Invite Beta Testers with a TestFlight Public Link - AppAspect How to Create a TestFlight Public Link - Departures How to Create a TestFlight Public Link - Departures Step-by-Step Guide to Invite Testers to TestFlight - WebToNative How to Create a TestFlight Public Link - Departures How to share TestFlight testers with a public link",
+      "url": "https://www.youtube.com/watch?v=AcJ-x2NZgug"
     },
     {
-      "url": "https://developer.apple.com/testflight/",
-      "title": "TestFlight - Apple Developer Invite Beta Testers with a TestFlight Public Link - AppAspect How to Create a TestFlight Public Link - Departures How to Create a TestFlight Public Link - Departures Step-by-Step Guide to Invite Testers to TestFlight - WebToNative How to Create a TestFlight Public Link - Departures How to share TestFlight testers with a public link"
+      "title": "TestFlight - Apple Developer Invite Beta Testers with a TestFlight Public Link - AppAspect How to Create a TestFlight Public Link - Departures How to Create a TestFlight Public Link - Departures Step-by-Step Guide to Invite Testers to TestFlight - WebToNative How to Create a TestFlight Public Link - Departures How to share TestFlight testers with a public link",
+      "url": "https://developer.apple.com/testflight/"
     }
   ],
   "android internal app sharing how to": [
     {
-      "url": "https://stackoverflow.com/questions/57478894/how-to-enable-internal-app-sharing-for-android",
-      "title": "How to Enable Internal App Sharing for Android? - Stack Overflow"
+      "title": "How to Enable Internal App Sharing for Android? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/57478894/how-to-enable-internal-app-sharing-for-android"
     },
     {
-      "url": "https://support.google.com/googleplay/android-developer/answer/9844679?hl=en",
-      "title": "Share app bundles and APKs internally - Play Console Help"
+      "title": "Share app bundles and APKs internally - Play Console Help",
+      "url": "https://support.google.com/googleplay/android-developer/answer/9844679?hl=en"
     },
     {
-      "url": "https://www.mangidik.com/2025/01/enable-internal-app-sharing-android.html",
-      "title": "How to Enable Internal App Sharing on the Google Play Store"
+      "title": "How to Enable Internal App Sharing on the Google Play Store",
+      "url": "https://www.mangidik.com/2025/01/enable-internal-app-sharing-android.html"
     },
     {
-      "url": "https://medium.com/@munbonecci/how-to-share-your-app-bundle-or-apk-internally-and-download-it-in-the-play-store-on-android-99e9454a0079",
-      "title": "How to share your app Bundle or APK internally and download it in the ..."
+      "title": "How to share your app Bundle or APK internally and download it in the ...",
+      "url": "https://medium.com/@munbonecci/how-to-share-your-app-bundle-or-apk-internally-and-download-it-in-the-play-store-on-android-99e9454a0079"
     },
     {
-      "url": "https://m.youtube.com/watch?v=_ytVtzCEySA",
-      "title": "How to Enable Internal App Sharing on Google Play Store"
+      "title": "How to Enable Internal App Sharing on Google Play Store",
+      "url": "https://m.youtube.com/watch?v=_ytVtzCEySA"
     }
   ],
   "adb pull logs from non rooted device": [
     {
-      "url": "https://developer.android.com/studio/debug/bug-report",
-      "title": "Capture and read bug reports - Android Developers Creating a PCAP file on an Android devices (root/non-root) rooting - How to extract data from non-rooted phone via ADB ... [MOD] [NO ROOT] SuperShell ADB + Shell Over Mobile Data A Guide to ADB Push and ADB Pull Commands - TheCustomDroid How do I get the logfile from an Android device? - Stack Overflow"
+      "title": "Android Device Forensics: A Practical ADB Guide - GitHub",
+      "url": "https://github.com/Outoftheashes/AndroidForensicshomebrew"
     },
     {
-      "url": "https://android.stackexchange.com/questions/242511/how-to-extract-data-from-non-rooted-phone-via-adb",
-      "title": "rooting - How to extract data from non-rooted phone via ADB ..."
+      "title": "Capture and read bug reports - Android Developers Creating a PCAP file on an Android devices (root/non-root) rooting - How to extract data from non-rooted phone via ADB ... [MOD] [NO ROOT] SuperShell ADB + Shell Over Mobile Data A Guide to ADB Push and ADB Pull Commands - TheCustomDroid How do I get the logfile from an Android device? - Stack Overflow",
+      "url": "https://developer.android.com/studio/debug/bug-report"
+    },
+    {
+      "title": "Creating a PCAP file on an Android devices (root/non-root)",
+      "url": "https://0xteamsec.blogspot.com/2025/01/creating-pcap-file-on-android-devices.html"
+    },
+    {
+      "title": "rooting - How to extract data from non-rooted phone via ADB ...",
+      "url": "https://android.stackexchange.com/questions/242511/how-to-extract-data-from-non-rooted-phone-via-adb"
+    },
+    {
+      "title": "[MOD] [NO ROOT] SuperShell ADB + Shell Over Mobile Data",
+      "url": "https://xdaforums.com/t/mod-no-root-supershell-adb-shell-over-mobile-data.4706512/"
     }
   ],
   "collect sysdiagnose iOS shortcut": [
     {
-      "url": "https://support.addigy.com/hc/en-us/articles/15849050849427-Gathering-a-Sysdiagnose-from-an-iPadOS-or-iOS-device",
-      "title": "Gathering a Sysdiagnose from an iPadOS or iOS device \u2013 Addigy"
+      "title": "Gathering a Sysdiagnose from an iPadOS or iOS device \u2013 Addigy",
+      "url": "https://support.addigy.com/hc/en-us/articles/15849050849427-Gathering-a-Sysdiagnose-from-an-iPadOS-or-iOS-device"
     },
     {
-      "url": "https://podcasters.apple.com/assets/iOS-sysdiagnose-logging-instructions.pdf",
-      "title": "sysdiagnose Logging Instructions"
+      "title": "How to Generate a Sysdiagnose in macOS",
+      "url": "https://support.kandji.io/kb/how-to-generate-a-sysdiagnose-in-macos"
     },
     {
-      "url": "https://www.jessesquires.com/blog/2018/02/08/how-to-sysdiagnose-ios/",
-      "title": "How to run sysdiagnose on iOS \u00b7 Jesse Squires"
+      "title": "Extracting and Analyzing Apple sysdiagnose Logs | ElcomSoft blog",
+      "url": "https://blog.elcomsoft.com/2025/06/extracting-and-analyzing-apple-unified-logs/"
+    },
+    {
+      "title": "sysdiagnose Logging Instructions",
+      "url": "https://podcasters.apple.com/assets/iOS-sysdiagnose-logging-instructions.pdf"
+    },
+    {
+      "title": "How to run sysdiagnose on iOS \u00b7 Jesse Squires",
+      "url": "https://www.jessesquires.com/blog/2018/02/08/how-to-sysdiagnose-ios/"
     }
   ],
   "iOS console logs filter by subsystem": [
     {
-      "url": "https://useyourloaf.com/blog/xcode-console-and-unified-logging/",
-      "title": "Xcode Console and Unified Logging - Use Your Loaf"
+      "title": "Xcode Console and Unified Logging - Use Your Loaf",
+      "url": "https://useyourloaf.com/blog/xcode-console-and-unified-logging/"
     },
     {
-      "url": "https://www.testdevlab.com/blog/how-to-create-categorize-and-filter-ios-logs",
-      "title": "How to Create, Categorize and Filter iOS Logs - TestDevLab Blog"
+      "title": "How to Create, Categorize and Filter iOS Logs - TestDevLab Blog",
+      "url": "https://www.testdevlab.com/blog/how-to-create-categorize-and-filter-ios-logs"
     },
     {
-      "url": "https://nilcoalescing.com/blog/FilteringLogsInXcode15/",
-      "title": "Filtering logs in Xcode 15 - Nil Coalescing"
+      "title": "Filtering logs in Xcode 15 - Nil Coalescing",
+      "url": "https://nilcoalescing.com/blog/FilteringLogsInXcode15/"
     },
     {
-      "url": "https://stackoverflow.com/questions/47269212/how-to-see-ios-device-logs-in-console-app-using-os-log",
-      "title": "how to see iOS device logs in Console app using os_log"
+      "title": "how to see iOS device logs in Console app using os_log",
+      "url": "https://stackoverflow.com/questions/47269212/how-to-see-ios-device-logs-in-console-app-using-os-log"
     },
     {
-      "url": "https://developer.apple.com/documentation/os/oslog",
-      "title": "OSLog | Apple Developer Documentation"
+      "title": "OSLog | Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/os/oslog"
     }
   ],
   "android logcat regex for network errors": [
     {
-      "url": "https://developer.android.com/studio/debug/logcat",
-      "title": "View logs with Logcat | Android Studio | Android Developers"
+      "title": "View logs with Logcat | Android Studio | Android Developers",
+      "url": "https://developer.android.com/studio/debug/logcat"
     },
     {
-      "url": "https://rifqimfahmi.dev/blog/using-regex-filter-on-android-logcat-stream",
-      "title": "Using Regex Filter on Android Logcat Stream - rifqimfahmi.dev"
+      "title": "Using Regex Filter on Android Logcat Stream - rifqimfahmi.dev",
+      "url": "https://rifqimfahmi.dev/blog/using-regex-filter-on-android-logcat-stream"
     },
     {
-      "url": "https://medium.com/@begunova/mastering-adb-logcat-options-filters-advanced-debugging-techniques-10331a73532f",
-      "title": "Mastering ADB logcat: Options, Filters & Advanced ... - Medium"
+      "title": "Mastering ADB logcat: Options, Filters & Advanced ... - Medium",
+      "url": "https://medium.com/@begunova/mastering-adb-logcat-options-filters-advanced-debugging-techniques-10331a73532f"
     },
     {
-      "url": "https://stackoverflow.com/questions/32864471/filter-out-certain-logs-from-logcat",
-      "title": "android - Filter out certain logs from logcat - Stack Overflow Usage example"
+      "title": "android - Filter out certain logs from logcat - Stack Overflow Usage example",
+      "url": "https://stackoverflow.com/questions/32864471/filter-out-certain-logs-from-logcat"
     },
     {
-      "url": "https://regex101.com/r/Qmd8lP/1",
-      "title": "regex101: Android Logcat - Filter out lines containing word(s)"
+      "title": "regex101: Android Logcat - Filter out lines containing word(s)",
+      "url": "https://regex101.com/r/Qmd8lP/1"
     }
   ],
   "ANR investigation play console traces": [
     {
-      "url": "https://developer.android.com/topic/performance/anrs/diagnose-and-fix-anrs",
-      "title": "Diagnose and fix ANRs | App quality | Android Developers"
+      "title": "How to Analyze and Debug Flutter ANR Reports: Tracing Java ...",
+      "url": "https://www.w3tutorials.net/blog/how-to-analyze-and-debug-anr-in-a-flutter-app/"
     },
     {
-      "url": "https://codingtechroom.com/question/-understanding-anr-stack-trace-google-play",
-      "title": "How to Analyze an ANR Stack Trace from Google Play"
+      "title": "Diagnose and fix ANRs | App quality | Android Developers",
+      "url": "https://developer.android.com/topic/performance/anrs/diagnose-and-fix-anrs"
     },
     {
-      "url": "https://www.w3tutorials.net/blog/how-to-analyze-and-debug-anr-in-a-flutter-app/",
-      "title": "How to Analyze and Debug Flutter ANR Reports: Tracing Java ..."
+      "title": "How to Fix Android ANR (App Not Responding) issues?",
+      "url": "https://androiddevs.substack.com/p/how-to-fix-android-anrapp-not-responding"
+    },
+    {
+      "title": "Google Play Console: Missing Exception Messages in Stack ...",
+      "url": "https://www.codestudy.net/blog/google-play-console-exception-message-issue/"
+    },
+    {
+      "title": "How to Analyze an ANR Stack Trace from Google Play",
+      "url": "https://codingtechroom.com/question/-understanding-anr-stack-trace-google-play"
     }
   ],
   "flutter frame drops profiling devtools": [
     {
-      "url": "https://docs.flutter.dev/perf/ui-performance",
-      "title": "Flutter performance profiling"
+      "title": "Flutter performance profiling",
+      "url": "https://docs.flutter.dev/perf/ui-performance"
     },
     {
-      "url": "https://medium.com/@workflow094093/profiling-flutter-apps-like-a-pro-from-devtools-to-custom-tracing-e18f95fca56e",
-      "title": "Profiling Flutter Apps Like a Pro: From DevTools to Custom Tracing"
+      "title": "Profiling Flutter Apps Like a Pro: From DevTools to Custom Tracing",
+      "url": "https://medium.com/@workflow094093/profiling-flutter-apps-like-a-pro-from-devtools-to-custom-tracing-e18f95fca56e"
     },
     {
-      "url": "https://dev.to/piggyinabag/optimizing-my-code-editor-with-flutter-profiling-tools-4ebd",
-      "title": "Optimizing My Code Editor with Flutter Profiling Tools"
+      "title": "StackFiltered - How to Optimize Performance in Flutter Apps",
+      "url": "https://www.stackfiltered.com/explore/how_to_optimize_performance_in_flutter_apps"
+    },
+    {
+      "title": "Optimizing My Code Editor with Flutter Profiling Tools",
+      "url": "https://dev.to/piggyinabag/optimizing-my-code-editor-with-flutter-profiling-tools-4ebd"
+    },
+    {
+      "title": "Measuring and Testing Performance Bottlenecks in Flutter Apps | MoldStud",
+      "url": "https://moldstud.com/articles/p-performance-bottlenecks-how-to-measure-and-test-your-flutter-app-effectively"
     }
   ],
   "swift concurrency performance pitfalls mobile": [
     {
-      "url": "https://flyingharley.dev/posts/swift-concurrency-is-great-but-part-1",
-      "title": "Swift Concurrency is great, but... - Part 1 - flyingharley.dev"
+      "title": "Swift Concurrency is great, but... - Part 1 - flyingharley.dev",
+      "url": "https://flyingharley.dev/posts/swift-concurrency-is-great-but-part-1"
     },
     {
-      "url": "https://medium.com/@lucasmrowskovskypaim/common-swift-concurrency-mistakes-that-can-be-killing-your-app-performance-b180a7ede4df",
-      "title": "Common Swift-Concurrency mistakes that can be killing your ..."
+      "title": "Common Swift-Concurrency mistakes that can be killing your ...",
+      "url": "https://medium.com/@lucasmrowskovskypaim/common-swift-concurrency-mistakes-that-can-be-killing-your-app-performance-b180a7ede4df"
     },
     {
-      "url": "https://softwarepatternslexicon.com/swift/performance-optimization-patterns/concurrency-for-performance/",
-      "title": "Concurrency for Performance in Swift | 16. Performance ..."
+      "title": "WWDC 2025 Deep Dive: Mastering Swift Concurrency's Evolution ...",
+      "url": "https://dev.to/arshtechpro/wwdc-2025-deep-dive-mastering-swift-concurrencys-evolution-path-3mpj"
+    },
+    {
+      "title": "Enterprise Troubleshooting Guide: Swift Memory, Concurrency ...",
+      "url": "https://www.mindfulchase.com/explore/troubleshooting-tips/programming-languages/enterprise-troubleshooting-guide-swift-memory,-concurrency,-and-build-issues.html"
+    },
+    {
+      "title": "Concurrency for Performance in Swift | 16. Performance ...",
+      "url": "https://softwarepatternslexicon.com/swift/performance-optimization-patterns/concurrency-for-performance/"
     }
   ],
   "kotlin coroutines cancellation leaks test": [
     {
-      "url": "https://kotlinlang.org/docs/cancellation-and-timeouts.html",
-      "title": "Cancellation and timeouts | Kotlin Documentation"
+      "title": "Cancellation and timeouts | Kotlin Documentation",
+      "url": "https://kotlinlang.org/docs/cancellation-and-timeouts.html"
     },
     {
-      "url": "https://medium.com/evangelist-apps/best-practices-for-coroutine-cancellation-and-non-cancellation-in-kotlin-d4b8b4c5447c",
-      "title": "Best Practices for Coroutine Cancellation and Non ... - Medium"
+      "title": "Best Practices for Coroutine Cancellation and Non ... - Medium",
+      "url": "https://medium.com/evangelist-apps/best-practices-for-coroutine-cancellation-and-non-cancellation-in-kotlin-d4b8b4c5447c"
     },
     {
-      "url": "https://stackoverflow.com/questions/78907010/how-to-prevent-coroutine-resource-leaks-after-object-deletion-in-kotlin",
-      "title": "How to Prevent Coroutine Resource Leaks After Object Deletion ..."
+      "title": "How to Prevent Coroutine Resource Leaks After Object Deletion ...",
+      "url": "https://stackoverflow.com/questions/78907010/how-to-prevent-coroutine-resource-leaks-after-object-deletion-in-kotlin"
     },
     {
-      "url": "https://developer.android.com/kotlin/coroutines/test",
-      "title": "Testing Kotlin coroutines on Android Cancellable Flows in Kotlin Coroutines: The Complete Guide to ... Cancellable Flows in Kotlin Coroutines : The Complete Guide to Flow Testing Flow in Kotlin - Baeldung Testing Kotlin coroutines on Android Cancellation and timeouts | Kotlin Documentation Troubleshooting Coroutine Memory Leaks in Kotlin Applications"
+      "title": "Testing Flow in Kotlin | Baeldung on Kotlin",
+      "url": "https://www.baeldung.com/kotlin/flow-testing"
+    },
+    {
+      "title": "Testing Kotlin coroutines on Android Cancellable Flows in Kotlin Coroutines: The Complete Guide to ... Cancellable Flows in Kotlin Coroutines : The Complete Guide to Flow Testing Flow in Kotlin - Baeldung Testing Kotlin coroutines on Android Cancellation and timeouts | Kotlin Documentation Troubleshooting Coroutine Memory Leaks in Kotlin Applications",
+      "url": "https://developer.android.com/kotlin/coroutines/test"
     }
   ],
   "push notification testing apns sandbox": [
     {
-      "url": "https://developer.apple.com/documentation/usernotifications/sending-push-notifications-using-command-line-tools",
-      "title": "Sending push notifications using command-line tools"
+      "title": "Sending push notifications using command-line tools",
+      "url": "https://developer.apple.com/documentation/usernotifications/sending-push-notifications-using-command-line-tools"
     },
     {
-      "url": "https://medium.com/@ndwdm/testing-push-notifications-in-ios-simulator-and-real-devices-13b9cf1d77aa",
-      "title": "Testing Push Notifications in iOS: Simulator and Real Devices"
+      "title": "Testing Push Notifications in iOS: Simulator and Real Devices",
+      "url": "https://medium.com/@ndwdm/testing-push-notifications-in-ios-simulator-and-real-devices-13b9cf1d77aa"
     },
     {
-      "url": "https://stackoverflow.com/questions/56725874/apple-push-notification-apn-when-to-use-sandbox-and-production",
-      "title": "Apple Push Notification (APN) - when to use sandbox and ..."
+      "title": "Apple Push Notification (APN) - when to use sandbox and ...",
+      "url": "https://stackoverflow.com/questions/56725874/apple-push-notification-apn-when-to-use-sandbox-and-production"
     },
     {
-      "url": "https://apnspush.com/",
-      "title": "Test Apple Push Notifications (APNs) Online | APNsPush"
+      "title": "Test Push Notification Online | Free Testing Tool",
+      "url": "https://a2z.tools/push-notification-tester"
+    },
+    {
+      "title": "Test Apple Push Notifications (APNs) Online | APNsPush",
+      "url": "https://apnspush.com/"
     }
   ],
   "fcm test message to specific device": [
     {
-      "url": "https://medium.com/@betterengineers/test-fcm-push-to-android-device-34eb2f51b8bb",
-      "title": "Test FCM Push to Android Device . In this document i will tell... | Medium"
+      "title": "Test FCM Push to Android Device . In this document i will tell... | Medium",
+      "url": "https://medium.com/@betterengineers/test-fcm-push-to-android-device-34eb2f51b8bb"
     },
     {
-      "url": "https://fcmtest.com/",
-      "title": "Firebase Cloud Messaging ( FCM ) Push Notifications Tester"
+      "title": "dart - Flutter app only receiving FCM messages to specific token",
+      "url": "https://stackoverflow.com/questions/65234322/flutter-app-only-receiving-fcm-messages-to-specific-token"
     },
     {
-      "url": "https://blog.stackademic.com/every-android-developer-needs-this-trick-to-test-firebase-notifications-safely-47ac4a26c543",
-      "title": "Every Android Developer Needs This Trick to Test ... | Stackademic"
+      "title": "Firebase Cloud Messaging ( FCM ) Push Notifications Tester",
+      "url": "https://fcmtest.com/"
     },
     {
-      "url": "https://raaviblog.com/how-to-test-firebase-cloud-messaging-fcm-push-notification-to-android-devices-using-postman-and-aws-simple-notification-service-sns/",
-      "title": "How to test Firebase Cloud Messaging ( FCM ) Push Notification to..."
+      "title": "Every Android Developer Needs This Trick to Test ... | Stackademic",
+      "url": "https://blog.stackademic.com/every-android-developer-needs-this-trick-to-test-firebase-notifications-safely-47ac4a26c543"
+    },
+    {
+      "title": "How to test Firebase Cloud Messaging ( FCM ) Push Notification to...",
+      "url": "https://raaviblog.com/how-to-test-firebase-cloud-messaging-fcm-push-notification-to-android-devices-using-postman-and-aws-simple-notification-service-sns/"
     }
   ],
   "local notifications permission flow design": [
     {
-      "url": "https://tanaschita.com/ios-local-notifications-guide/",
-      "title": "Quick guide on local notifications for iOS"
+      "title": "Quick guide on local notifications for iOS",
+      "url": "https://tanaschita.com/ios-local-notifications-guide/"
     },
     {
-      "url": "https://pub.dev/packages/flutter_local_notifications",
-      "title": "flutter_ local _ notifications | Flutter package"
+      "title": "flutter_ local _ notifications | Flutter package",
+      "url": "https://pub.dev/packages/flutter_local_notifications"
     },
     {
-      "url": "https://cocoacasts.com/local-notifications-with-the-user-notifications-framework",
-      "title": "Local Notifications With the User Notifications ... - Cocoacasts"
+      "title": "Local Notifications With the User Notifications ... - Cocoacasts",
+      "url": "https://cocoacasts.com/local-notifications-with-the-user-notifications-framework"
     },
     {
-      "url": "https://medium.com/@lachlanmiller_52885/local-notifications-in-swift-5-and-ios-13-with-unusernotificationcenter-190e654a5615",
-      "title": "Local Notifications in Swift 5 and iOS 13 with... | Medium"
+      "title": "Local Notifications in Swift 5 and iOS 13 with... | Medium",
+      "url": "https://medium.com/@lachlanmiller_52885/local-notifications-in-swift-5-and-ios-13-with-unusernotificationcenter-190e654a5615"
     },
     {
-      "url": "https://www.freecodecamp.org/news/local-notifications-in-flutter/",
-      "title": "How to Set Up Local Notifications in Flutter"
+      "title": "How to Set Up Local Notifications in Flutter",
+      "url": "https://www.freecodecamp.org/news/local-notifications-in-flutter/"
     }
   ],
   "permission rationales best copy examples": [
     {
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713547",
-      "title": "Permission Rationales in the Web Ecosystem: An Exploration of Rationale ..."
+      "title": "Permission Rationales in the Web Ecosystem: An Exploration of Rationale ...",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713547"
     },
     {
-      "url": "https://www.ndss-symposium.org/wp-content/uploads/2025-544-paper.pdf",
-      "title": "PDF The Power of Words: A Comprehensive Analysis of Rationales and Their ..."
+      "title": "PDF The Power of Words: A Comprehensive Analysis of Rationales and Their ...",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2025-544-paper.pdf"
     },
     {
-      "url": "https://trouge.net/papers/permission_rationales_chi2025.pdf",
-      "title": "PDF Permission Rationales in the Web Ecosystem: An Exploration of Rationale ..."
+      "title": "PDF Permission Rationales in the Web Ecosystem: An Exploration of Rationale ...",
+      "url": "https://trouge.net/papers/permission_rationales_chi2025.pdf"
     },
     {
-      "url": "https://prezi.com/p/sn0ofxajgbjg/permission-rationales-in-the-web-ecosystem-an-exploration-of-rationale-text-and-design-patterns/",
-      "title": "Permission Rationales in the Web Ecosystem: An Exploration of ... - Prezi"
+      "title": "Permission Rationales in the Web Ecosystem: An Exploration of ... - Prezi",
+      "url": "https://prezi.com/p/sn0ofxajgbjg/permission-rationales-in-the-web-ecosystem-an-exploration-of-rationale-text-and-design-patterns/"
     },
     {
-      "url": "https://securityboulevard.com/2025/11/ndss-2025-a-comprehensive-analysis-of-rationales-and-their-effects-on-users-permission-decisions/",
-      "title": "NDSS 2025 - A Comprehensive Analysis of Rationales and Their Effects on ..."
+      "title": "NDSS 2025 - A Comprehensive Analysis of Rationales and Their Effects on ...",
+      "url": "https://securityboulevard.com/2025/11/ndss-2025-a-comprehensive-analysis-of-rationales-and-their-effects-on-users-permission-decisions/"
     }
   ],
   "subscription paywall ux teardown examples": [
     {
-      "url": "https://apphud.com/blog/design-high-converting-subscription-app-paywalls",
-      "title": "How to Design a High-Converting Subscription App Paywall ..."
+      "title": "How to Design a High-Converting Subscription App Paywall ...",
+      "url": "https://apphud.com/blog/design-high-converting-subscription-app-paywalls"
     },
     {
-      "url": "https://qonversion.io/blog/paywall-design-uiux-examples/",
-      "title": "Paywall design UI/UX rules and Paywall Examples for your app"
+      "title": "Paywall design UI/UX rules and Paywall Examples for your app",
+      "url": "https://qonversion.io/blog/paywall-design-uiux-examples/"
     },
     {
-      "url": "https://theaudiencers.com/50-paywall-examples-to-inspire-your-subscription-strategy/",
-      "title": "160+ paywall examples to inspire your subscription strategy"
+      "title": "160+ paywall examples to inspire your subscription strategy",
+      "url": "https://theaudiencers.com/50-paywall-examples-to-inspire-your-subscription-strategy/"
     },
     {
-      "url": "https://www.purchasely.com/paywall-gallery",
-      "title": "Paywall Optimization: 100+ paywall examples of great ..."
+      "title": "Paywall Optimization: 100+ paywall examples of great ...",
+      "url": "https://www.purchasely.com/paywall-gallery"
     },
     {
-      "url": "https://www.paywallscreens.com/",
-      "title": "10228+ Paywall examples, designs & UX for mobile apps"
+      "title": "10228+ Paywall examples, designs & UX for mobile apps",
+      "url": "https://www.paywallscreens.com/"
     }
   ],
   "onboarding checklist mobile apps": [
     {
-      "url": "https://www.appcues.com/blog/best-checklist-examples",
-      "title": "User Onboarding Checklists: 6 Examples and How-to Guide - Appcues App Onboarding Checklist: 7 Key Steps for 2025 Success App Onboarding Guide: Top 10 Onboarding Flow Examples 2025 Top 15 Mobile Onboarding Examples to Enhance User Experience Master Mobile App Onboarding: Best Practices & Examples"
+      "title": "The Ultimate Mobile App Onboarding Guide (2025) | VWO",
+      "url": "https://vwo.com/blog/mobile-app-onboarding-guide/"
     },
     {
-      "url": "https://nextnative.dev/blog/app-onboarding-checklist",
-      "title": "App Onboarding Checklist: 7 Key Steps for 2025 Success"
+      "title": "User Onboarding Checklists: 6 Examples and How-to Guide - Appcues App Onboarding Checklist: 7 Key Steps for 2025 Success App Onboarding Guide: Top 10 Onboarding Flow Examples 2025 Top 15 Mobile Onboarding Examples to Enhance User Experience Master Mobile App Onboarding: Best Practices & Examples",
+      "url": "https://www.appcues.com/blog/best-checklist-examples"
+    },
+    {
+      "title": "App Onboarding Checklist: 7 Key Steps for 2025 Success",
+      "url": "https://nextnative.dev/blog/app-onboarding-checklist"
+    },
+    {
+      "title": "Top 15 Mobile Onboarding Examples to Enhance User Experience",
+      "url": "https://userpilot.com/blog/mobile-onboarding-examples/"
+    },
+    {
+      "title": "Master Mobile App Onboarding: Best Practices & Examples",
+      "url": "https://www.netguru.com/blog/mobile-app-onboarding"
     }
   ],
   "compare apple sign in vs google sign in ux": [
     {
-      "url": "https://www.techpals.org/blog/is-it-better-to-sign-in-with-google-or-apple-heres-what-to-know",
-      "title": "Sign\u2011In: Google vs. Apple \u2014 Which Should You Choose? - TechPals"
+      "title": "Sign\u2011In: Google vs. Apple \u2014 Which Should You Choose? - TechPals",
+      "url": "https://www.techpals.org/blog/is-it-better-to-sign-in-with-google-or-apple-heres-what-to-know"
     },
     {
-      "url": "https://dev.to/maximsaplin/the-art-of-simplicity-apple-id-vs-google-account-kb2",
-      "title": "The Art of Simplicity | Apple ID vs Google Account"
+      "title": "What Is \"Sign in with Apple\" and Should I Use It? | Wirecutter",
+      "url": "https://www.nytimes.com/wirecutter/blog/what-is-sign-in-with-apple-and-should-i-use-it/"
     },
     {
-      "url": "https://www.nytimes.com/wirecutter/blog/what-is-sign-in-with-apple-and-should-i-use-it/",
-      "title": "What Is \"Sign in with Apple\" and Should I Use It? | Wirecutter"
+      "title": "The Art of Simplicity | Apple ID vs Google Account",
+      "url": "https://dev.to/maximsaplin/the-art-of-simplicity-apple-id-vs-google-account-kb2"
+    },
+    {
+      "title": "Apple vs Google in 10 honest graphics - UX Collective",
+      "url": "https://uxdesign.cc/apple-vs-google-in-10-honest-graphics-8d6dff8b1dc6"
+    },
+    {
+      "title": "Why is Sign Up/Sign In With Apple significantly less popular ... - Reddit",
+      "url": "https://www.reddit.com/r/apple/comments/10xw7nz/why_is_sign_upsign_in_with_apple_significantly/"
     }
   ],
   "ethical sponsorship disclosure examples": [
     {
-      "url": "https://www.saleshub.ca/social-media-ad-disclosures-that-keep-you-ftc-compliant-with-real-examples/",
-      "title": "Social Media Ad Disclosures That Keep You FTC... - SalesHub"
+      "title": "Ethical Sponsorship Practices",
+      "url": "https://www.linkedin.com/top-content/corporate-social-responsibility/social-responsibility-in-marketing/ethical-sponsorship-practices/"
     },
     {
-      "url": "https://uppromote.com/blog/affiliate-disclosure-examples/",
-      "title": "15 Best Affiliate Disclosure Examples & Best Practices - UpPromote"
+      "title": "Social Media Ad Disclosures That Keep You FTC... - SalesHub",
+      "url": "https://www.saleshub.ca/social-media-ad-disclosures-that-keep-you-ftc-compliant-with-real-examples/"
     },
     {
-      "url": "https://medium.com/@brianedmondson/full-disclosure-how-to-properly-disclose-your-affiliate-and-paid-sponsorships-408f2b7941c3",
-      "title": "Full Disclosure : How to Properly Disclose Your Affiliate and... | Medium"
+      "title": "15 Best Affiliate Disclosure Examples & Best Practices - UpPromote",
+      "url": "https://uppromote.com/blog/affiliate-disclosure-examples/"
+    },
+    {
+      "title": "Full Disclosure : How to Properly Disclose Your Affiliate and... | Medium",
+      "url": "https://medium.com/@brianedmondson/full-disclosure-how-to-properly-disclose-your-affiliate-and-paid-sponsorships-408f2b7941c3"
+    },
+    {
+      "title": "Donor Ethics & Sponsorship Ethics in Museums: Transparency in...",
+      "url": "https://garanord.md/7-donor-and-corporate-ethics-in-museums-navigating-conflicts-of-interest-and-transparency/"
     }
   ],
   "ftc influencer disclosure guidelines mobile": [
     {
-      "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
-      "title": "Disclosures 101 for Social Media Influencers | Federal Trade ..."
+      "title": "Disclosures 101 for Social Media Influencers | Federal Trade ...",
+      "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers"
     },
     {
-      "url": "https://influencermarketinghub.com/ftc-disclosure-checklist-by-platform/",
-      "title": "FTC Disclosure Checklist by Platform (2025 Update)"
+      "title": "FTC Disclosure Checklist by Platform (2025 Update)",
+      "url": "https://influencermarketinghub.com/ftc-disclosure-checklist-by-platform/"
     },
     {
-      "url": "https://www.influencers-time.com/ftcs-2025-influencer-disclosure-rules-stay-compliant/",
-      "title": "FTC\u2019s 2025 Influencer Disclosure Rules: Stay Compliant"
+      "title": "FTC\u2019s 2025 Influencer Disclosure Rules: Stay Compliant",
+      "url": "https://www.influencers-time.com/ftcs-2025-influencer-disclosure-rules-stay-compliant/"
     },
     {
-      "url": "https://thesocialmedialawfirm.com/blog/influencer-law/what-are-ftc-disclosure-rules-for-influencers-in-2025/",
-      "title": "What Are FTC Disclosure Rules for Influencers in 2025?"
+      "title": "What Are FTC Disclosure Rules for Influencers in 2025?",
+      "url": "https://thesocialmedialawfirm.com/blog/influencer-law/what-are-ftc-disclosure-rules-for-influencers-in-2025/"
     },
     {
-      "url": "https://inbeat.agency/blog/ftc-guidelines-for-influencers",
-      "title": "FTC Guidelines for Influencers: Everything You Need to Know ..."
+      "title": "FTC Guidelines for Influencers: Everything You Need to Know ...",
+      "url": "https://inbeat.agency/blog/ftc-guidelines-for-influencers"
     }
   ],
   "obs setup for phone screen capture hdmi": [
     {
-      "url": "https://www.kingshiper.com/screen-mirroring/obs-phone-screen-capture.html",
-      "title": "How to Capture Phone Screen on OBS: 3 Ways (Android/iOS)"
+      "title": "How to Capture Phone Screen on OBS: 3 Ways (Android/iOS)",
+      "url": "https://www.kingshiper.com/screen-mirroring/obs-phone-screen-capture.html"
     },
     {
-      "url": "https://alive-project.com/en/streamer-magazine/article/4579/",
-      "title": "How to Stream Your Phone Screen in High Quality with Low ..."
+      "title": "How to Stream Your Phone Screen in High Quality with Low ...",
+      "url": "https://alive-project.com/en/streamer-magazine/article/4579/"
     },
     {
-      "url": "https://www.obsbot.com/blog/obs/capture-hdmi",
-      "title": "How to Capture HDMI with OBS Studio in 2025 - obsbot.com"
+      "title": "How to Capture HDMI with OBS Studio in 2025 - obsbot.com",
+      "url": "https://www.obsbot.com/blog/obs/capture-hdmi"
+    },
+    {
+      "title": "How To Capture & Share Your PHONE SCREEN for FREE in OBS How to output to an HDMI Output? | OBS Forums How to display your iPhone screen on obs? - California ... How to Stream Your Phone Screen in High Quality with Low Latency Usi\u2026 How to Capture HDMI with OBS Studio in 2025 - obsbot.com 2025 Fixed! Check How to Open Phone Screen Capture on OBS - iMobie How to Stream Your Phone Screen in High Quality with Low Latency Usi\u2026 How to Open Phone Screen Capture on OBS with Easy Steps",
+      "url": "https://www.youtube.com/watch?v=h0WZkjM-nl8"
+    },
+    {
+      "title": "How to output to an HDMI Output? | OBS Forums",
+      "url": "https://obsproject.com/forum/threads/how-to-output-to-an-hdmi-output.125838/"
     }
   ],
   "iphone usb-c to hdmi capture card lag": [
     {
-      "url": "https://www.tiktok.com/discover/how-to-fix-laggy-capture-card",
-      "title": "How to Fix Laggy Capture Card | TikTok"
+      "title": "How to Fix Laggy Capture Card | TikTok",
+      "url": "https://www.tiktok.com/discover/how-to-fix-laggy-capture-card"
     },
     {
-      "url": "https://www.resolume.com/forum/viewtopic.php?t=20795",
-      "title": "Looking for Assistance with HDMI Capture Card Lag /Latency | Forum"
+      "title": "Use your broken phone again, USB C to HDMI and VGA... - YouTube",
+      "url": "https://www.youtube.com/watch?v=Vs8mSDQSObI"
+    },
+    {
+      "title": "How to Use USB - C to HDMI Android Seamlessly 2025 - Anker US",
+      "url": "https://www.anker.com/blogs/hubs-and-docks/how-to-use-usb-c-to-hdmi-android"
+    },
+    {
+      "title": "Looking for Assistance with HDMI Capture Card Lag /Latency | Forum",
+      "url": "https://www.resolume.com/forum/viewtopic.php?t=20795"
+    },
+    {
+      "title": "\u041a\u0430\u043a \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c USB - C \u043a HDMI ? \u041e\u0431\u0437\u043e\u0440 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u043d\u0438\u043a\u043e\u0432 USB...",
+      "url": "https://rutube.ru/video/022cec02928c253b4f2ba5e43942ae48/"
     }
   ],
   "android usb-c capture card recommendations": [
     {
-      "url": "https://www.amazon.com/Capture-Card-Phone/s?k=Capture+Card+for+Phone",
-      "title": "Amazon.com: Capture Card For Phone"
+      "title": "Amazon.com: Capture Card For Phone",
+      "url": "https://www.amazon.com/Capture-Card-Phone/s?k=Capture+Card+for+Phone"
     },
     {
-      "url": "https://obsproject.com/forum/threads/looking-for-rca-video-capture-usb-c-device.172255/",
-      "title": "Looking for RCA/Video capture / USB - C device | OBS Forums"
+      "title": "capture card | Newegg.com",
+      "url": "https://www.newegg.com/p/pl?d=capture+card"
+    },
+    {
+      "title": "Video Capture Card Recommendations (technically... - Linus Tech Tips",
+      "url": "https://linustechtips.com/topic/1417311-video-capture-card-recommendations-technically-its-storage-right/"
+    },
+    {
+      "title": "15 Best Capture Cards You Can Buy (2020) | Beebom",
+      "url": "https://beebom.com/best-capture-cards/"
+    },
+    {
+      "title": "Looking for RCA/Video capture / USB - C device | OBS Forums",
+      "url": "https://obsproject.com/forum/threads/looking-for-rca-video-capture-usb-c-device.172255/"
     }
   ],
   "captions for short tech videos auto generate": [
     {
-      "url": "https://elevenlabs.io/caption-generator",
-      "title": "AI Caption Generator \u2014 Auto-Generate Captions for Videos in Seconds"
+      "title": "AI Caption Generator \u2014 Auto-Generate Captions for Videos in Seconds",
+      "url": "https://elevenlabs.io/caption-generator"
     },
     {
-      "url": "https://flixier.com/tools/auto-subtitle-generator/captions-maker",
-      "title": "Free AI Caption Generator | Generate Captions with AI - Flixier"
+      "title": "Free AI Caption Generator | Generate Captions with AI - Flixier",
+      "url": "https://flixier.com/tools/auto-subtitle-generator/captions-maker"
     },
     {
-      "url": "https://www.canva.com/features/auto-caption/",
-      "title": "Auto Caption Generator: Generate auto captions with AI | Canva"
+      "title": "Auto Caption Generator: Generate auto captions with AI | Canva",
+      "url": "https://www.canva.com/features/auto-caption/"
     },
     {
-      "url": "https://www.veed.io/tools/auto-subtitle-generator-online/video-caption-generator",
-      "title": "Video Caption Generator - Add Captions Automatically - VEED.IO"
+      "title": "Video Caption Generator - Add Captions Automatically - VEED.IO",
+      "url": "https://www.veed.io/tools/auto-subtitle-generator-online/video-caption-generator"
     },
     {
-      "url": "https://www.short.ai/ai-caption-generator/auto-caption-generator",
-      "title": "AI Auto Caption Generator \u2014 99.8% Accuracy with 14+ Styles"
+      "title": "AI Auto Caption Generator \u2014 99.8% Accuracy with 14+ Styles",
+      "url": "https://www.short.ai/ai-caption-generator/auto-caption-generator"
     }
   ],
   "descript vs capcut for captions": [
     {
-      "url": "https://www.descript.com/compare/descript-vs-capcut",
-      "title": "Descript vs. CapCut"
+      "title": "Descript vs. CapCut",
+      "url": "https://www.descript.com/compare/descript-vs-capcut"
     },
     {
-      "url": "https://www.opus.pro/blog/descript-vs-capcut",
-      "title": "Descript vs. CapCut: Which Video Editor Should You Use?"
+      "title": "Descript vs. CapCut: Which Video Editor Should You Use?",
+      "url": "https://www.opus.pro/blog/descript-vs-capcut"
     },
     {
-      "url": "https://wavel.ai/compare/descript-vs-capcut",
-      "title": "2025 Comparison: Descript or Capcut \u2013 Which One to Choose?"
+      "title": "2025 Comparison: Descript or Capcut \u2013 Which One to Choose?",
+      "url": "https://wavel.ai/compare/descript-vs-capcut"
     },
     {
-      "url": "https://pointofai.com/compare/descript-vs-capcut",
-      "title": "Descript vs CapCut: Which is Better for video in 2025?"
+      "title": "Descript vs CapCut: Which is Better for video in 2025?",
+      "url": "https://pointofai.com/compare/descript-vs-capcut"
     },
     {
-      "url": "https://techdigitalminds.com/descript-vs-capcut-ai-tools-for-content-creators/",
-      "title": "Descript vs. CapCut: AI Tools for Content Creators"
+      "title": "Descript vs. CapCut: AI Tools for Content Creators",
+      "url": "https://techdigitalminds.com/descript-vs-capcut-ai-tools-for-content-creators/"
     }
   ],
   "mastodon crosspost from twitter automation": [
     {
-      "url": "https://nuelink.com/features/crosspost-twitter-to-mastodon",
-      "title": "Crosspost from Twitter to Mastodon - nuelink.com"
+      "title": "Crosspost from Twitter to Mastodon - nuelink.com",
+      "url": "https://nuelink.com/features/crosspost-twitter-to-mastodon"
     },
     {
-      "url": "https://ifttt.com/explore/how-to-crosspost-mastodon-twitter",
-      "title": "How to crosspost Mastodon to Twitter using IFTTT How to cross-post tweets from any Twitter account to Mastodon How to crosspost on Twitter and Mastodon for Free | appsntips Mastodon-Twitter Crossposter - GitHub How to Crosspost to Mastodon and X (Twitter) At the Same Time How to crosspost Mastodon to Twitter using IFTTT - IFTTT Mastodon Twitter Crossposter Review \u00b7 The New Leaf Journal How to crosspost Mastodon to Twitter using IFTTT - IFTTT GitHub - kruijs/mastwit: Crossposter to post statuses between Mastodon How to automate cross posting between Mastodon and Twitter ..."
+      "title": "How to crosspost Mastodon to Twitter using IFTTT How to cross-post tweets from any Twitter account to Mastodon How to crosspost on Twitter and Mastodon for Free | appsntips Mastodon-Twitter Crossposter - GitHub How to Crosspost to Mastodon and X (Twitter) At the Same Time How to crosspost Mastodon to Twitter using IFTTT - IFTTT Mastodon Twitter Crossposter Review \u00b7 The New Leaf Journal How to crosspost Mastodon to Twitter using IFTTT - IFTTT GitHub - kruijs/mastwit: Crossposter to post statuses between Mastodon How to automate cross posting between Mastodon and Twitter ...",
+      "url": "https://ifttt.com/explore/how-to-crosspost-mastodon-twitter"
     },
     {
-      "url": "https://idoo.substack.com/p/how-to-cross-post-somebody-else-account",
-      "title": "How to cross-post tweets from any Twitter account to Mastodon"
+      "title": "How to cross-post tweets from any Twitter account to Mastodon",
+      "url": "https://idoo.substack.com/p/how-to-cross-post-somebody-else-account"
     },
     {
-      "url": "https://www.appsntips.com/learn/crosspost-twitter-mastodon-free/",
-      "title": "How to crosspost on Twitter and Mastodon for Free | appsntips"
+      "title": "How to crosspost on Twitter and Mastodon for Free | appsntips",
+      "url": "https://www.appsntips.com/learn/crosspost-twitter-mastodon-free/"
     },
     {
-      "url": "https://github.com/kruijs/mastwit",
-      "title": "Mastodon-Twitter Crossposter - GitHub"
+      "title": "Mastodon-Twitter Crossposter - GitHub",
+      "url": "https://github.com/kruijs/mastwit"
     }
   ],
   "youtube shorts resolution and aspect ratio": [
     {
-      "url": "https://vidiq.com/blog/post/youtube-shorts-vertical-video/",
-      "title": "YouTube Shorts Ratio and Size: Perfect Vertical Size - vidIQ"
+      "title": "YouTube Shorts Ratio and Size: Perfect Vertical Size - vidIQ",
+      "url": "https://vidiq.com/blog/post/youtube-shorts-vertical-video/"
     },
     {
-      "url": "https://www.opus.pro/blog/youtube-shorts-dimensions",
-      "title": "YouTube Shorts Dimensions, Length & More: Create the Perfect YT Short"
+      "title": "YouTube Shorts Dimensions, Length & More: Create the Perfect YT Short",
+      "url": "https://www.opus.pro/blog/youtube-shorts-dimensions"
     },
     {
-      "url": "https://borisfx.com/blog/best-youtube-short-aspect-ratio-resolution/",
-      "title": "Best YouTube Short Aspect Ratio and Resolution 2025 | Boris FX"
+      "title": "Best YouTube Short Aspect Ratio and Resolution 2025 | Boris FX",
+      "url": "https://borisfx.com/blog/best-youtube-short-aspect-ratio-resolution/"
     },
     {
-      "url": "https://www.learningrevolution.net/youtube-video-dimensions/",
-      "title": "YouTube Video Dimensions & Aspect Ratios For Shorts & Videos"
+      "title": "YouTube Video Dimensions & Aspect Ratios For Shorts & Videos",
+      "url": "https://www.learningrevolution.net/youtube-video-dimensions/"
     },
     {
-      "url": "https://www.haulpack.com/blog/youtube-shorts-size-guide/",
-      "title": "YouTube Shorts Size Guide: Best Dimensions & Resolution 2025"
+      "title": "YouTube Shorts Size Guide: Best Dimensions & Resolution 2025",
+      "url": "https://www.haulpack.com/blog/youtube-shorts-size-guide/"
     }
   ],
   "community bug bash agenda template": [
     {
-      "url": "https://www.notion.com/templates/category/bug-bash",
-      "title": "Bug Bash Meeting templates - Notion"
+      "title": "Bug Bash Meeting templates - Notion",
+      "url": "https://www.notion.com/templates/category/bug-bash"
     },
     {
-      "url": "https://coda.io/@qa-pro/bug-bash-template",
-      "title": "Bug Bash Template - Coda"
+      "title": "Bug Bash Template - Coda",
+      "url": "https://coda.io/@qa-pro/bug-bash-template"
     },
     {
-      "url": "https://www.meegle.com/en_us/advanced-templates/cross-functional/collaborative_bug_basher_agenda",
-      "title": "Meegle | Free Download Collaborative Bug Basher Agenda"
+      "title": "Meegle | Free Download Collaborative Bug Basher Agenda",
+      "url": "https://www.meegle.com/en_us/advanced-templates/cross-functional/collaborative_bug_basher_agenda"
     },
     {
-      "url": "https://miro.com/templates/bug-bash-template/",
-      "title": "Bug Bash Template - Miro"
+      "title": "Bug Bash Template - Miro",
+      "url": "https://miro.com/templates/bug-bash-template/"
+    },
+    {
+      "title": "How to run an awesome bug bash - Jam Blog WriteEdge - The #1 writing tool for engineers The Conclusive Bug Bash Testing Guide (+ Download Bundle) The Conclusive Bug Bash Testing Guide (+ Download Bundle) Bug Bash Template - Coda Bug Bash Template - Coda The Conclusive Bug Bash Testing Guide (+ Download Bundle)",
+      "url": "https://jam.dev/blog/how-to-run-a-bug-bash/"
     }
   ],
   "discord stage channel live demo settings": [
     {
-      "url": "https://support.discord.com/hc/en-us/articles/1500005513722-Stage-Channels-FAQ",
-      "title": "Stage Channels FAQ - Discord"
+      "title": "Stage Channels FAQ - Discord",
+      "url": "https://support.discord.com/hc/en-us/articles/1500005513722-Stage-Channels-FAQ"
     },
     {
-      "url": "https://www.geeksforgeeks.org/websites-apps/how-to-create-and-set-up-a-stage-channel-in-discord/",
-      "title": "How to Create and Set Up a Stage Channel in Discord"
+      "title": "How to Create and Set Up a Stage Channel in Discord",
+      "url": "https://www.geeksforgeeks.org/websites-apps/how-to-create-and-set-up-a-stage-channel-in-discord/"
     },
     {
-      "url": "https://www.clrn.org/how-to-set-up-a-stage-channel-on-discord/",
-      "title": "How to set up a stage channel on discord? - California Learning ..."
+      "title": "How to set up a stage channel on discord? - California Learning ...",
+      "url": "https://www.clrn.org/how-to-set-up-a-stage-channel-on-discord/"
     },
     {
-      "url": "https://www.go2share.net/article/discord-stage-channel",
-      "title": "Learn How to Use Discord Stage Channel Settings Easily - Go2Share"
+      "title": "Learn How to Use Discord Stage Channel Settings Easily - Go2Share",
+      "url": "https://www.go2share.net/article/discord-stage-channel"
     },
     {
-      "url": "https://umatechnology.org/discord-stage-channels-everything-you-need-to-know-2/",
-      "title": "Discord Stage Channels: Everything You Need to Know"
+      "title": "Discord Stage Channels: Everything You Need to Know",
+      "url": "https://umatechnology.org/discord-stage-channels-everything-you-need-to-know-2/"
     }
   ],
   "miro board for bug triage template": [
     {
-      "url": "https://miro.com/templates/bug-triaging/",
-      "title": "Bug Triaging Template | Miroverse"
+      "title": "Bug Triaging Template | Miroverse",
+      "url": "https://miro.com/templates/bug-triaging/"
+    },
+    {
+      "title": "Miroverse | Explore 7,000+ Templates to Power Your Next Big Idea",
+      "url": "https://ru.pinterest.com/pin/miro-templates-library--610800768235841350/"
+    },
+    {
+      "title": "QA Bug Triage Template by desbyseb | Notion Marketplace",
+      "url": "https://www.notion.com/templates/qa-bug-triage"
+    },
+    {
+      "title": "Bug Triage : How to Organize, Filter, and Prioritize Bugs",
+      "url": "https://marker.io/blog/bug-triage"
+    },
+    {
+      "title": "Bug Triage Meeting in Agile: What You Need to Know | Careerist Blog",
+      "url": "https://www.careerist.com/insights/bug-triage-meeting-in-agile-what-you-need-to-know"
     }
   ],
-  "product hunt feedback etiquette examples": [],
+  "product hunt feedback etiquette examples": [
+    {
+      "title": "5 Real-Life Product Feedback Examples and Ideas - Hotjar",
+      "url": "https://contentsquare.com/guides/product-feedback/examples/"
+    },
+    {
+      "title": "7 Real-Life Product Feedback Examples + Practical Tips Images 6 Great Product Feedback Examples (+6 different types of surveys) Product Feedback Examples: How Successful Companies Do It 37 Examples of Product Feedback Survey Questions to Ask - Whatfix A Guide to Collecting Product Feedback - Mopinion 6 Great Product Feedback Examples (+6 different types of surveys) 7 Real-Life Product Feedback Examples + Practical Tips 6 Great Product Feedback Examples (+6 different types of surveys) 37 Examples of Product Feedback Survey Questions to Ask - Whatfix Best Product Feedback Form Examples For Collecting Feedback",
+      "url": "https://survicate.com/blog/product-feedback-examples/"
+    },
+    {
+      "title": "6 Great Product Feedback Examples (+6 different types of surveys)",
+      "url": "https://userguiding.com/blog/product-feedback-examples"
+    },
+    {
+      "title": "Product Feedback Examples: How Successful Companies Do It",
+      "url": "https://www.zonkafeedback.com/blog/product-feedback-examples"
+    },
+    {
+      "title": "37 Examples of Product Feedback Survey Questions to Ask - Whatfix",
+      "url": "https://whatfix.com/blog/product-feedback-survey-questions/"
+    }
+  ],
   "indie app test plan one pager": [
     {
-      "url": "https://www.ministryoftesting.com/articles/the-one-page-test-plan",
-      "title": "The one page test plan | Ministry of Testing"
+      "title": "The one page test plan | Ministry of Testing",
+      "url": "https://www.ministryoftesting.com/articles/the-one-page-test-plan"
     },
     {
-      "url": "https://ontestingproducts.substack.com/p/the-one-page-test-plan-canvas",
-      "title": "The One-Page Test Plan Canvas - by testable"
+      "title": "The One-Page Test Plan Canvas - by testable",
+      "url": "https://ontestingproducts.substack.com/p/the-one-page-test-plan-canvas"
     },
     {
-      "url": "https://www.qatouch.com/blog/test-a-reusable-one-page-test-plan-template/",
-      "title": "Test A Reusable One-Page Test Plan Template - QA Touch"
+      "title": "Test A Reusable One-Page Test Plan Template - QA Touch",
+      "url": "https://www.qatouch.com/blog/test-a-reusable-one-page-test-plan-template/"
     },
     {
-      "url": "https://ludi.co/templates/one-page-test-plan-template",
-      "title": "One Page Test Plan Template | Ludi"
+      "title": "One Page Test Plan Template | Ludi",
+      "url": "https://ludi.co/templates/one-page-test-plan-template"
     },
     {
-      "url": "https://www.infometis.ch/blog/one-page-test-plan",
-      "title": "One-Page Test Plan - Infometis One-Page Test Plan | Write Your Plan in Minutes \u201eOne Page\u201d Test Plan: What is? Benefits and examples"
+      "title": "One-Page Test Plan - Infometis One-Page Test Plan | Write Your Plan in Minutes \u201eOne Page\u201d Test Plan: What is? Benefits and examples",
+      "url": "https://www.infometis.ch/blog/one-page-test-plan"
     }
   ],
   "figma interactive prototype mobile gestures": [
     {
-      "url": "https://uncoverlab.co/blog/how-to-add-touch-gestures-in-figma-prototypes",
-      "title": "How to Add Touch Gestures in Figma Prototypes - uncoverLAB"
+      "title": "How to Add Touch Gestures in Figma Prototypes - uncoverLAB",
+      "url": "https://uncoverlab.co/blog/how-to-add-touch-gestures-in-figma-prototypes"
     },
     {
-      "url": "https://www.linkedin.com/pulse/representing-touch-gestures-interactive-prototypes-apps-aaron-usiskin-j0xve",
-      "title": "Representing touch gestures in interactive prototypes for ..."
+      "title": "Representing touch gestures in interactive prototypes for ...",
+      "url": "https://www.linkedin.com/pulse/representing-touch-gestures-interactive-prototypes-apps-aaron-usiskin-j0xve"
     },
     {
-      "url": "https://www.figma.com/community/file/1194246053469721093/animated-mobile-gestures-pack",
-      "title": "Animated mobile gestures pack - Figma"
+      "title": "Animated mobile gestures pack - Figma",
+      "url": "https://www.figma.com/community/file/1194246053469721093/animated-mobile-gestures-pack"
     },
     {
-      "url": "https://designilo.com/2025/07/31/how-to-do-swipe-effect-on-figma/",
-      "title": "How to Do Swipe Effect on Figma \u2013 Designilo"
+      "title": "How to Do Swipe Effect on Figma \u2013 Designilo",
+      "url": "https://designilo.com/2025/07/31/how-to-do-swipe-effect-on-figma/"
     },
     {
-      "url": "https://aj-graphics.org/2025/03/17/how-to-create-interactive-prototypes-in-figma/",
-      "title": "How to Create Interactive Prototypes in Figma - AJ Graphics"
+      "title": "How to Create Interactive Prototypes in Figma - AJ Graphics",
+      "url": "https://aj-graphics.org/2025/03/17/how-to-create-interactive-prototypes-in-figma/"
     }
   ],
   "flutter quick widget prototype layout": [
     {
-      "url": "https://docs.flutter.dev/get-started/fundamentals/layout",
-      "title": "Layouts - Flutter"
+      "title": "Layouts - Flutter",
+      "url": "https://docs.flutter.dev/get-started/fundamentals/layout"
     },
     {
-      "url": "https://coderscratchpad.com/building-layouts-in-flutter/",
-      "title": "Building Layouts in Flutter - coderscratchpad.com"
+      "title": "Building Layouts in Flutter - coderscratchpad.com",
+      "url": "https://coderscratchpad.com/building-layouts-in-flutter/"
     },
     {
-      "url": "https://devthantzin.medium.com/flutter-responsive-screen-widgets-and-layout-techniques-for-modern-apps-29af3c58177a",
-      "title": "Flutter Responsive Screen Widgets and Layout Techniques for Modern Apps"
+      "title": "Flutter Responsive Screen Widgets and Layout Techniques for Modern Apps",
+      "url": "https://devthantzin.medium.com/flutter-responsive-screen-widgets-and-layout-techniques-for-modern-apps-29af3c58177a"
     },
     {
-      "url": "https://dev.to/thinnakrit/understanding-layout-widgets-in-flutter-52ki",
-      "title": "Understanding Layout Widgets in Flutter - DEV Community"
+      "title": "Understanding Layout Widgets in Flutter - DEV Community",
+      "url": "https://dev.to/thinnakrit/understanding-layout-widgets-in-flutter-52ki"
     },
     {
-      "url": "https://docs.flutter.dev/ui/widgets/layout",
-      "title": "Layout widgets - Flutter"
+      "title": "Layout widgets - Flutter",
+      "url": "https://docs.flutter.dev/ui/widgets/layout"
     }
   ],
   "compare haptics guidelines android vs ios": [
     {
-      "url": "https://developer.android.com/develop/ui/views/haptics/haptics-principles",
-      "title": "Haptics design principles | Views | Android Developers"
+      "title": "Haptics design principles | Views | Android Developers",
+      "url": "https://developer.android.com/develop/ui/views/haptics/haptics-principles"
     },
     {
-      "url": "https://developer.apple.com/design/human-interface-guidelines/playing-haptics",
-      "title": "Playing haptics | Apple Developer Documentation"
+      "title": "2025 Guide to Haptics: Enhancing Mobile UX with Tactile ...",
+      "url": "https://saropa-contacts.medium.com/2025-guide-to-haptics-enhancing-mobile-ux-with-tactile-feedback-676dd5937774"
+    },
+    {
+      "title": "Playing haptics | Apple Developer Documentation",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/playing-haptics"
+    },
+    {
+      "title": "9 Differences Between iOS and Android UI Design | UXPin",
+      "url": "https://www.uxpin.com/studio/blog/ios-vs-andoid-ui-design-for-mobile/"
+    },
+    {
+      "title": "A Guide To Designing For Mobile (iOS, Android) \u2014 Smart ...",
+      "url": "https://smart-interface-design-patterns.com/articles/designing-for-mobile-ios-android-guide/"
     }
   ],
   "reduce app size proguard r8 tips": [
     {
-      "url": "https://carrion.dev/en/posts/reducing-app-size/",
-      "title": "Reducing App Size: Proguard, R8, App Bundles & Resource Shrinking"
+      "title": "Reducing App Size: Proguard, R8, App Bundles & Resource Shrinking",
+      "url": "https://carrion.dev/en/posts/reducing-app-size/"
     },
     {
-      "url": "https://android-developers.googleblog.com/2025/11/use-r8-to-shrink-optimize-and-fast.html",
-      "title": "Use R8 to shrink, optimize, and fast-track your app"
+      "title": "Use R8 to shrink, optimize, and fast-track your app",
+      "url": "https://android-developers.googleblog.com/2025/11/use-r8-to-shrink-optimize-and-fast.html"
     },
     {
-      "url": "https://medium.com/@manishkumar_75473/proguard-vs-r8-in-android-complete-guide-to-code-shrinking-and-obfuscation-5a34a64adbb7",
-      "title": "ProGuard vs R8 in Android: Complete Guide to Code Shrinking and ..."
+      "title": "ProGuard vs R8 in Android: Complete Guide to Code Shrinking and ...",
+      "url": "https://medium.com/@manishkumar_75473/proguard-vs-r8-in-android-complete-guide-to-code-shrinking-and-obfuscation-5a34a64adbb7"
     },
     {
-      "url": "https://towardsdev.com/mastering-proguard-and-r8-optimizing-and-securing-your-jetpack-compose-android-app-e391d841d447",
-      "title": "Mastering ProGuard and R8: Optimizing and Securing Your Jetpack Compose ..."
+      "title": "Enable app optimization | App quality | Android Developers",
+      "url": "https://developer.android.com/topic/performance/app-optimization/enable-app-optimization"
+    },
+    {
+      "title": "Mastering ProGuard and R8: Optimizing and Securing Your Jetpack Compose ...",
+      "url": "https://towardsdev.com/mastering-proguard-and-r8-optimizing-and-securing-your-jetpack-compose-android-app-e391d841d447"
     }
   ],
   "ios app thinning slices test": [
     {
-      "url": "https://direct.appcoda.com/app-thinning/",
-      "title": "Working with App Thinning in iOS"
+      "title": "iOS App Size Secrets: Thinning , Optimisation & Lean Swift... | Medium",
+      "url": "https://erbittuu.medium.com/ios-app-size-secrets-thinning-optimisation-lean-swift-builds-2025-edition-120mb-73-mb-81989cf44527"
     },
     {
-      "url": "https://erbittuu.medium.com/ios-app-size-secrets-thinning-optimisation-lean-swift-builds-2025-edition-120mb-73-mb-81989cf44527",
-      "title": "iOS App Size Secrets: Thinning , Optimisation & Lean Swift... | Medium"
+      "title": "itunes - App Slicing Thinning : Pre determine actual true size & space...",
+      "url": "https://apple.stackexchange.com/questions/234506/app-slicing-thinning-pre-determine-actual-true-size-space-taken-by-app-instal"
     },
     {
-      "url": "https://eng.zemosolabs.com/ios-app-thinning-reducing-size-of-the-app-aebb3b92c3ec?source=user_profile---------3----------------------------&responsesOpen=true",
-      "title": "iOS App thinning (reducing size of the app ) | by ZeMoSo Labs"
+      "title": "Working with App Thinning in iOS",
+      "url": "https://direct.appcoda.com/app-thinning/"
+    },
+    {
+      "title": "Understanding and Comparing Apple's App Thinning Feature with...",
+      "url": "https://www.linkedin.com/pulse/understanding-comparing-apples-app-thinning-feature-other-joshi"
+    },
+    {
+      "title": "iOS App thinning (reducing size of the app ) | by ZeMoSo Labs",
+      "url": "https://eng.zemosolabs.com/ios-app-thinning-reducing-size-of-the-app-aebb3b92c3ec?source=user_profile---------3----------------------------&responsesOpen=true"
     }
   ],
   "background location permission ux patterns": [
     {
-      "url": "https://developer.android.com/develop/sensors-and-location/location/background",
-      "title": "Access location in the background - Android Developers"
+      "title": "Access location in the background - Android Developers",
+      "url": "https://developer.android.com/develop/sensors-and-location/location/background"
     },
     {
-      "url": "https://support.google.com/googleplay/android-developer/answer/9799150?hl=en",
-      "title": "Understanding location in the background permissions"
+      "title": "Understanding location in the background permissions",
+      "url": "https://support.google.com/googleplay/android-developer/answer/9799150?hl=en"
     },
     {
-      "url": "https://developer.android.google.cn/develop/sensors-and-location/location/background?hl=en",
-      "title": "Access location in the background | Sensors and location | Android ..."
+      "title": "Access location in the background | Sensors and location | Android ...",
+      "url": "https://developer.android.google.cn/develop/sensors-and-location/location/background?hl=en"
     },
     {
-      "url": "https://github.com/warting/permissions-ui",
-      "title": "Background location permissions request helper - GitHub"
+      "title": "Permission review Google Play for access to background location",
+      "url": "https://stackoverflow.com/questions/61635589/permission-review-google-play-for-access-to-background-location"
+    },
+    {
+      "title": "Background location permissions request helper - GitHub",
+      "url": "https://github.com/warting/permissions-ui"
     }
   ],
   "health data privacy checklist mobile": [
     {
-      "url": "https://www.hhs.gov/sites/default/files/hph-mobile-device-security-checklist-tlpclear.pdf",
-      "title": "HC3: HPH Mobile Device Security Checklist - HHS.gov"
+      "title": "Cape: Privacy First Mobile - Keep Your Data To Yourself",
+      "url": "https://www.bing.com/aclick?ld=e8m5GibHZSn47Lf5RCSXazIjVUCUz2pLxEJTV6van9CxlpjR1MWaVm_p4nNtHv35ZIq5FuCuKKbFfu9EZYfm7-cGKrWhAXC9VVyCHpTOa5ujBsTGC760Dr-m-5yMMfU6PXQ_dSjrz4jeVlkto_BhNZQJAZzhJzCkgDHTE7NfdK20UovBELW-ecBzImPtFRBe6lCsizWvp7uv3Pk4R8UR2dA_fU2Ug&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2FwZS5jbyUyZiUzZnV0bV9zb3VyY2UlM2RtaWNyb3NvZnQlMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkbXNmdF9kZGclMjZtc2Nsa2lkJTNkMDBlMGVlNzVhNzI2MTVhYWFmZTc4NzM0Njg5ZTkxOTA&rlid=00e0ee75a72615aaafe78734689e9190"
     },
     {
-      "url": "https://www.healthit.gov/sites/default/files/mobile_devices_and_health_information_privacy_and_security.pdf",
-      "title": "Mobile Devices and Health Information Privacy and Security ..."
+      "title": "Hippa risk assessment - ManageEngine DataSecurity Plus",
+      "url": "https://www.bing.com/aclick?ld=e8KN8K3cyhxeaIP9q0vfyUhDVUCUzX02xAvwG610mouPx5EFZoc4VXjF1KqADoTKvNPVJEvHObEw4Tl3cIHPy8tSLsyuotKTD3J7bA8ywEowYEGAWtIaT23VKrwZQgSRVHtzobzbVvhgjtOPlmFP1mrQu0nJnjow87_oc48BMsIELgGp1IGFgUzv42AiInBPrMryoWN-ct8nwb7NbrDXWJ4x4Z_6g&u=aHR0cHMlM2ElMmYlMmZ3d3cubWFuYWdlZW5naW5lLmNvbSUyZmRhdGEtc2VjdXJpdHklMmZyaXNrLWFuYWx5c2lzJTJmZGF0YS1yaXNrLWFzc2Vzc21lbnQuaHRtbCUzZmNhbWlkJTNkNDMyNjI4NDE2JTI2YWRnaWQlM2QxMzAxODIyOTk0NzY2MTE4JTI2a3dkJTNkZGF0YSUyNTIwcHJpdmFjeSUyNTIwcmlzayUyNTIwYXNzZXNzbWVudCUyNm1hdGNodHlwZSUzZHAlMjZhZGlkJTNkJTI2bmV0d29yayUzZG8lMjZhZHBvc2l0aW9uJTNkJTI2bG9jJTNkNTgxNjIlMjZwbGFjZW1lbnQlM2QlMjZ0YXJnZXQlM2QlMjZzZWFyY2hxdWVyeSUzZGhlYWx0aCUyNTIwZGF0YSUyNTIwcHJpdmFjeSUyNTIwY2hlY2tsaXN0JTI1MjBtb2JpbGUlMjZrd2RtYXRjaHR5cGUlM2RicCUyNm1zY2xraWQlM2RhYjBhYmFhNDY2ZGUxYjNjMjA4NGQzZTVhOTY2Y2RmMg&rlid=ab0abaa466de1b3c2084d3e5a966cdf2"
     },
     {
-      "url": "https://health.usnews.com/wellness/articles/how-to-protect-your-data-when-using-health-tracking-apps",
-      "title": "How to Protect Your Data When Using Health Tracking Apps"
+      "title": "HC3: HPH Mobile Device Security Checklist - HHS.gov",
+      "url": "https://www.hhs.gov/sites/default/files/hph-mobile-device-security-checklist-tlpclear.pdf"
+    },
+    {
+      "title": "Mobile Devices and Health Information Privacy and Security ...",
+      "url": "https://www.healthit.gov/sites/default/files/mobile_devices_and_health_information_privacy_and_security.pdf"
+    },
+    {
+      "title": "How to Protect Your Data When Using Health Tracking Apps",
+      "url": "https://health.usnews.com/wellness/articles/how-to-protect-your-data-when-using-health-tracking-apps"
     }
   ],
   "privacy manifest iOS requirements overview": [
     {
-      "url": "https://medium.com/@itsshaiksohail/get-to-know-apple-privacy-manifest-ce7e23dcfa0c",
-      "title": "Get to Know Apple Privacy Manifest | by Sohail Ur Rahman... | Medium"
+      "title": "Get to Know Apple Privacy Manifest | by Sohail Ur Rahman... | Medium",
+      "url": "https://medium.com/@itsshaiksohail/get-to-know-apple-privacy-manifest-ce7e23dcfa0c"
     },
     {
-      "url": "https://developer.adobe.com/client-sdks/resources/privacy-manifest/",
-      "title": "iOS 17 Privacy Manifest Requirements"
+      "title": "iOS 17 Privacy Manifest Requirements",
+      "url": "https://developer.adobe.com/client-sdks/resources/privacy-manifest/"
     },
     {
-      "url": "https://en.docs.monaca.io/release_notes/privacy-manifest-requirement-for-ios-apps",
-      "title": "Privacy Manifest Requirement for iOS Apps | Monaca Docs"
+      "title": "Privacy Manifest Requirement for iOS Apps | Monaca Docs",
+      "url": "https://en.docs.monaca.io/release_notes/privacy-manifest-requirement-for-ios-apps"
     },
     {
-      "url": "https://developer.apple.com/documentation/bundleresources/privacy-manifest-files",
-      "title": "Privacy manifest files | Apple Developer Documentation"
+      "title": "Privacy manifest files | Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/bundleresources/privacy-manifest-files"
     },
     {
-      "url": "https://docs.expo.dev/guides/apple-privacy/",
-      "title": "Learn about configuring iOS privacy manifests for your mobile app."
+      "title": "Learn about configuring iOS privacy manifests for your mobile app.",
+      "url": "https://docs.expo.dev/guides/apple-privacy/"
     }
   ],
   "postmortem template for mobile incident": [
     {
-      "url": "https://www.atlassian.com/incident-management/postmortem/templates",
-      "title": "Incident Postmortem Templates: Improve Response Process ..."
+      "title": "Rapid Incident Management - Accelerate Your Service Desk",
+      "url": "https://www.bing.com/aclick?ld=e8ZUj3UY_kWDri1jUtZdHHsDVUCUw5sPlK-3WwA5rG0rKy-cxXZORvfLsyQIgwDOJTa8OLi20g8loN8zyBZ3dlsC7CWk6-bkY7kI7bIbyUed1WH8swoTPfjzwgIa8IlTeaz_xSLuq57qT_HVIIFBBcX3PAiegub2LOWJ51D-OPu4i7wBZ5smldIS-bb9HVzmSOYx5INWYWE8xCCRcae9VCnLvjA1Y&u=aHR0cHMlM2ElMmYlMmZ3d3cuYXRsYXNzaWFuLmNvbSUyZnNvZnR3YXJlJTJmamlyYSUyZnNlcnZpY2UtbWFuYWdlbWVudCUzZmNhbXBhaWduJTNkNDcwMDk3Mjg5JTI2YWRncm91cCUzZDEyOTc0MjQxNTgwMzAwMzQlMjZ0YXJnZXRpZCUzZGt3ZC04MTA4OTI0OTQyNTIxMyUzYWxvYy0xOTAlMjZtYXRjaHR5cGUlM2RwJTI2bmV0d29yayUzZG8lMjZkZXZpY2UlM2RjJTI2ZGV2aWNlX21vZGVsJTNkJTI2Y3JlYXRpdmUlM2QlMjZrZXl3b3JkJTNkaXQlMjUyMGluY2lkZW50JTI1MjByZXBvcnRpbmclMjZwbGFjZW1lbnQlM2QlMjZ0YXJnZXQlM2QlMjZkc19laWQlM2Q3MDAwMDAwMDE3MjExOTglMjZkc19lMSUzZEdPT0dMRSUyNm1zY2xraWQlM2QwZDAyOGQ5ZWNmZDYxZmQ5YmNhMGU0ZGYwMDZmZTM4MQ&rlid=0d028d9ecfd61fd9bca0e4df006fe381"
     },
     {
-      "url": "https://oneuptime.com/blog/post/2025-09-09-effective-incident-postmortem-templates-ready-to-use-examples/view",
-      "title": "Effective Incident Postmortem Templates: Ready-to-Use Examples"
+      "title": "Incident Postmortem Templates: Improve Response Process ...",
+      "url": "https://www.atlassian.com/incident-management/postmortem/templates"
     },
     {
-      "url": "https://incident.io/hubs/post-mortem/incident-post-mortem-template",
-      "title": "Our simple-to-use incident post-mortem template"
+      "title": "Effective Incident Postmortem Templates: Ready-to-Use Examples",
+      "url": "https://oneuptime.com/blog/post/2025-09-09-effective-incident-postmortem-templates-ready-to-use-examples/view"
     },
     {
-      "url": "https://www.ilert.com/blog/postmortem-template-to-optimize-your-incident-response",
-      "title": "Postmortem Template to Optimize Your Incident Response"
+      "title": "Our simple-to-use incident post-mortem template",
+      "url": "https://incident.io/hubs/post-mortem/incident-post-mortem-template"
+    },
+    {
+      "title": "Postmortem Template to Optimize Your Incident Response",
+      "url": "https://www.ilert.com/blog/postmortem-template-to-optimize-your-incident-response"
     }
   ]
 }

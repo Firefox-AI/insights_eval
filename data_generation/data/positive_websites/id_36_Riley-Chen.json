@@ -1,1341 +1,2202 @@
 {
   "portland bike crash data open data portal": [
     {
-      "url": "https://www.portland.gov/open-data-statistics-and-maps",
-      "title": "Open Data, Statistics, and Maps - Portland.gov"
+      "title": "Open Data, Statistics, and Maps - Portland.gov",
+      "url": "https://www.portland.gov/open-data-statistics-and-maps"
     },
     {
-      "url": "https://www.oregonmetro.gov/resources/crash-data",
-      "title": "Crash data | Metro"
+      "title": "Crash data | Metro",
+      "url": "https://www.oregonmetro.gov/resources/crash-data"
     },
     {
-      "url": "https://gis-pdx.opendata.arcgis.com/datasets/PDX::high-crash-network/explore",
-      "title": "High Crash Network - ArcGIS"
+      "title": "High Crash Network - ArcGIS",
+      "url": "https://gis-pdx.opendata.arcgis.com/datasets/PDX::high-crash-network/explore"
+    },
+    {
+      "title": "PBOT unveils new open data portal to track Biketown and e ...",
+      "url": "https://bikeportland.org/2021/12/16/pbot-unveils-new-open-data-portal-to-track-biketown-and-e-scooter-usage-342513"
+    },
+    {
+      "title": "City of Portland | Micromobility Dashboard - Ride Report",
+      "url": "https://public.ridereport.com/pdx"
     }
   ],
   "safe bike route se portland to downtown gpx": [
     {
-      "url": "https://www.bbbike.org/Portland/",
-      "title": "BBBike @ Portland - Cycle Route Planner Portland"
+      "title": "BBBike @ Portland - Cycle Route Planner Portland",
+      "url": "https://www.bbbike.org/Portland/"
     },
     {
-      "url": "https://ridewithgps.com/routes/new",
-      "title": "Bike Route Planner - Ride with GPS"
+      "title": "Bike Route Planner - Ride with GPS",
+      "url": "https://ridewithgps.com/routes/new"
     },
     {
-      "url": "https://www.bikemap.net/en/routeplanner/",
-      "title": "The ultimate route planner for cycling - Bikemap"
+      "title": "Bike and Walk Maps of Portland The ultimate route planner for cycling - Bikemap Maps & Routes - Portland State University Top 10 Bike Rides and Cycling Routes around Portland | Komoot Bike and Walk Maps of Portland Bike and Walk Maps of Portland Tools for finding my way around Portland by bike Bike Route Planner - Ride with GPS Tools for finding my way around Portland by bike \u2013 BikePortland",
+      "url": "https://www.portland.gov/transportation/walking-biking-transit-safety/bike-and-walk-maps-portland"
+    },
+    {
+      "title": "The ultimate route planner for cycling - Bikemap",
+      "url": "https://www.bikemap.net/en/routeplanner/"
+    },
+    {
+      "title": "Maps & Routes - Portland State University",
+      "url": "https://www.pdx.edu/bikehub/maps-routes"
     }
   ],
   "oregon bike light law front rear requirements": [
     {
-      "url": "https://oregon.public.law/statutes/ors_815.280",
-      "title": "ORS 815.280 - Violation of bicycle equipment requirements; penalty"
+      "title": "ORS 815.280 - Violation of bicycle equipment requirements; penalty",
+      "url": "https://oregon.public.law/statutes/ors_815.280"
     },
     {
-      "url": "https://www.oregon.gov/odot/DMV/Pages/Online_Bicycle_Manual/Section_3.aspx",
-      "title": "Oregon Department of Transportation : Section 3 - Required Safety ..."
+      "title": "Oregon Department of Transportation : Section 3 - Required Safety ...",
+      "url": "https://www.oregon.gov/odot/DMV/Pages/Online_Bicycle_Manual/Section_3.aspx"
     },
     {
-      "url": "https://www.oregonbikelawyer.com/oregon-bicycle-law-quick-guide",
-      "title": "A Guide to Oregon Bicycle Laws"
+      "title": "A Guide to Oregon Bicycle Laws",
+      "url": "https://www.oregonbikelawyer.com/oregon-bicycle-law-quick-guide"
     },
     {
-      "url": "https://www.bicyclelaw.com/oregon-bicycle-equipment-laws-lights-reflectors/",
-      "title": "Oregon Bicycle Lights & Reflectors Law | Lights on Bikes Law"
+      "title": "Oregon Bicycle Lights & Reflectors Law | Lights on Bikes Law",
+      "url": "https://www.bicyclelaw.com/oregon-bicycle-equipment-laws-lights-reflectors/"
     },
     {
-      "url": "https://www.bikelaw.com/laws/oregon/",
-      "title": "Oregon Bicycle Laws | Bike Law"
+      "title": "Oregon Bicycle Laws | Bike Law",
+      "url": "https://www.bikelaw.com/laws/oregon/"
     }
   ],
   "best u lock vs chain lock anti theft portland": [
     {
-      "url": "https://discerningcyclist.com/chain-lock-vs-u-lock/",
-      "title": "Chain Lock vs U - Lock : Which is Best for Bike Commuters?"
+      "title": "Chain Lock vs U - Lock : Which is Best for Bike Commuters?",
+      "url": "https://discerningcyclist.com/chain-lock-vs-u-lock/"
     },
     {
-      "url": "https://thebestbikelock.com/best-bike-lock/u-lock-vs-chain-lock/",
-      "title": "U - lock vs Chain lock : Which is best ? | The Best Bike Lock"
+      "title": "U - lock vs Chain lock : Which is best ? | The Best Bike Lock",
+      "url": "https://thebestbikelock.com/best-bike-lock/u-lock-vs-chain-lock/"
+    },
+    {
+      "title": "Amazon.com : Seatylock Mason Bike U Lock and Mount Holder Kit...",
+      "url": "https://www.amazon.com/Seatylock-Mason-Bike-Mount-Holder/dp/B0DXFTC2XH"
+    },
+    {
+      "title": "How to Lock Escooter Using Master U Lock | TikTok",
+      "url": "https://www.tiktok.com/discover/how-to-lock-escooter-using-master-u-lock"
+    },
+    {
+      "title": "Chain Lock Vs Cable Lock at Lawrence Jeanette blog",
+      "url": "https://storage.googleapis.com/djfnkksujwmpce/chain-lock-vs-cable-lock.html"
     }
   ],
   "how to lock a bike securely video": [
     {
-      "url": "https://www.youtube.com/watch?v=nsjW2GzDo5M",
-      "title": "Bike Security 101: How to Properly Lock Your Bike and Keep It ... How to lock a bike securely in five simple steps - BikeRadar How to lock your bike (properly) - The Best Bike Lock How to Lock Your Bike Correctly: Best Safety Tips - wikiHow How to Lock Up a Bike Securely: Best Methods to Prevent Theft How to Lock a Bike Securely | Helpful Examples (2025) Bicycle Lock Guide: How to Lock Your Bike Securely Bicycle Lock Guide: How to Lock Your Bike Securely How to lock a bike securely in five simple steps How to lock a bike securely in five simple steps Bicycle Lock Guide: How to Lock Your Bike Securely"
+      "title": "Bike Security 101: How to Properly Lock Your Bike and Keep It ... How to lock a bike securely in five simple steps - BikeRadar How to lock your bike (properly) - The Best Bike Lock How to Lock Your Bike Correctly: Best Safety Tips - wikiHow How to Lock Up a Bike Securely: Best Methods to Prevent Theft How to Lock a Bike Securely | Helpful Examples (2025) Bicycle Lock Guide: How to Lock Your Bike Securely Bicycle Lock Guide: How to Lock Your Bike Securely How to lock a bike securely in five simple steps How to lock a bike securely in five simple steps Bicycle Lock Guide: How to Lock Your Bike Securely",
+      "url": "https://www.youtube.com/watch?v=nsjW2GzDo5M"
+    },
+    {
+      "title": "How to lock a bike securely in five simple steps - BikeRadar",
+      "url": "https://www.bikeradar.com/advice/skills/how-to-lock-a-bike"
+    },
+    {
+      "title": "How to lock your bike (properly) - The Best Bike Lock How to Lock Your Bike Correctly: Best Safety Tips - wikiHow How to Lock Up a Bike Securely: Best Methods to Prevent Theft How to Lock a Bike Securely | Helpful Examples (2025) Bicycle Lock Guide: How to Lock Your Bike Securely Bicycle Lock Guide: How to Lock Your Bike Securely How to lock a bike securely in five simple steps How to lock a bike securely in five simple steps Bicycle Lock Guide: How to Lock Your Bike Securely",
+      "url": "https://thebestbikelock.com/how-to-lock-your-bike/"
+    },
+    {
+      "title": "How to Lock Your Bike Correctly: Best Safety Tips - wikiHow",
+      "url": "https://www.wikihow.com/Lock-Your-Bike"
+    },
+    {
+      "title": "How to Lock Up a Bike Securely: Best Methods to Prevent Theft",
+      "url": "https://bikestreak.com/how-to-lock-up-a-bike/"
     }
   ],
   "portland bike theft heatmap 2025": [
     {
-      "url": "https://bikeportland.org/cats/bike-theft",
-      "title": "Bike Theft \u2013 BikePortland"
+      "title": "Bike theft booming in Portland : Even in Bike City... - oregonlive.com",
+      "url": "https://www.oregonlive.com/portland/2015/02/bike_theft.html"
     },
     {
-      "url": "https://bikeindex.org/",
-      "title": "Bike Index - Bike registration that works"
+      "title": "Bike Theft \u2013 BikePortland",
+      "url": "https://bikeportland.org/cats/bike-theft"
     },
     {
-      "url": "https://register.bike/",
-      "title": "Register. Bike - Because We Care | Stolen bike search engine"
+      "title": "Where Is the Safest Place to Live in Portland ( 2025 )?",
+      "url": "https://eathealthy365.com/portland-s-safest-neighborhoods-a-data-driven-guide/"
+    },
+    {
+      "title": "Bike Index - Bike registration that works",
+      "url": "https://bikeindex.org/"
+    },
+    {
+      "title": "Register. Bike - Because We Care | Stolen bike search engine",
+      "url": "https://register.bike/"
     }
   ],
   "winter cycling clothing budget layers pacific northwest": [
     {
-      "url": "https://cyclinginfo.co.uk/blog/2254/cycling/riding-through-winter/index.html",
-      "title": "Riding Through Winter | Cycling UK"
+      "title": "Riding Through Winter | Cycling UK",
+      "url": "https://cyclinginfo.co.uk/blog/2254/cycling/riding-through-winter/index.html"
     },
     {
-      "url": "https://mrmamil.com/layer-winter-riding/",
-      "title": "The Proven Methods Pros Use to Stay Warm Riding This Winter"
+      "title": "The Proven Methods Pros Use to Stay Warm Riding This Winter",
+      "url": "https://mrmamil.com/layer-winter-riding/"
+    },
+    {
+      "title": "Discount clothes for winter hiking New Arrivals What to Wear Hiking in...",
+      "url": "https://www.geoia.net/24ge1470064-category.html"
+    },
+    {
+      "title": "Winter Carnival in a Western Town : Identity... - DOKUMEN.PUB",
+      "url": "https://dokumen.pub/winter-carnival-in-a-western-town-identity-change-and-the-good-of-the-community-9780874218305-9780874218497.html"
+    },
+    {
+      "title": "As warm atmospheric rivers slide gradually southward along Pacific ...",
+      "url": "https://weatherwest.com/archives/43624"
     }
   ],
   "commute by bike rain fenders recommendations": [
     {
-      "url": "https://emporiumbikes.com/10-fenders-for-urban-commuter-bikes-in-rainy-weather.html",
-      "title": "10 Fenders for Urban Commuter Bikes in Rainy Weather"
+      "title": "10 Fenders for Urban Commuter Bikes in Rainy Weather",
+      "url": "https://emporiumbikes.com/10-fenders-for-urban-commuter-bikes-in-rainy-weather.html"
     },
     {
-      "url": "https://bikepush.com/bike-fenders-commuting/",
-      "title": "8 Best Bike Fenders for Commuting [2025 REVIEW] - BikePush"
+      "title": "8 Best Bike Fenders for Commuting [2025 REVIEW] - BikePush",
+      "url": "https://bikepush.com/bike-fenders-commuting/"
     },
     {
-      "url": "https://bikersays.com/best-bike-fenders-commuting/",
-      "title": "Best Bike Fenders Commuting [Update: December 2025]"
+      "title": "Best Bike Fenders Commuting [Update: December 2025]",
+      "url": "https://bikersays.com/best-bike-fenders-commuting/"
+    },
+    {
+      "title": "Rain gear for bike commuting recommendations! : r/bikecommuting - Reddit",
+      "url": "https://www.reddit.com/r/bikecommuting/comments/yumd09/rain_gear_for_bike_commuting_recommendations/"
+    },
+    {
+      "title": "Gear for Foul-Weather Bike Commuting | Reviews by Wirecutter",
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-rain-gear-for-biking/"
     }
   ],
   "free gpx editor merge split tracks": [
     {
-      "url": "https://gpx-zone.com/",
-      "title": "Free GPX File Tools, Editor, Visualizer, Simplifier and more."
+      "title": "Free GPX File Tools, Editor, Visualizer, Simplifier and more.",
+      "url": "https://gpx-zone.com/"
     },
     {
-      "url": "https://gpx.studio/",
-      "title": "gpx.studio \u2014 the online GPX file editor"
+      "title": "gpx.studio \u2014 the online GPX file editor",
+      "url": "https://gpx.studio/"
     },
     {
-      "url": "https://gpxto.com/gpx-merge",
-      "title": "GPX merge - Merge GPX files online - Combine GPX files - GPXto"
+      "title": "GPX Weaver - Simple GPX Editor",
+      "url": "http://www.gpxweaver.com/"
     },
     {
-      "url": "https://listoffreeware.com/free-gpx-editor-software-windows/",
-      "title": "14 Best Free GPX Editor Software For Windows"
+      "title": "GPX merge - Merge GPX files online - Combine GPX files - GPXto",
+      "url": "https://gpxto.com/gpx-merge"
+    },
+    {
+      "title": "14 Best Free GPX Editor Software For Windows",
+      "url": "https://listoffreeware.com/free-gpx-editor-software-windows/"
     }
   ],
   "openstreetmap create custom bike map tutorial": [
     {
-      "url": "https://stackoverflow.com/questions/26370178/create-custom-map-with-osmosis-for-android-mapsforge",
-      "title": "openstreetmap - Create custom map with osmosis... - Stack Overflow"
+      "title": "openstreetmap - Create custom map with osmosis... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/26370178/create-custom-map-with-osmosis-for-android-mapsforge"
     },
     {
-      "url": "https://gis.stackexchange.com/questions/176043/create-custom-osm-map-file",
-      "title": "openstreetmap - Create custom OSM map file - Geographic..."
+      "title": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/"
+    },
+    {
+      "title": "openstreetmap - Create custom OSM map file - Geographic...",
+      "url": "https://gis.stackexchange.com/questions/176043/create-custom-osm-map-file"
+    },
+    {
+      "title": "CyclOSM: OpenStreetMap -based bicycle map",
+      "url": "https://www.cyclosm.org/"
+    },
+    {
+      "title": "OpenCycleMap.org - the OpenStreetMap Cycle Map",
+      "url": "https://www.opencyclemap.org/"
     }
   ],
   "pbot neighborhood greenways project map": [
     {
-      "url": "https://www.portland.gov/transportation/pbot-projects/construction/60s-bikeway-mt-tabor-springwater-corridor-trail",
-      "title": "60s Bikeway: Mt. Tabor to Springwater Corridor Trail | Portland.gov"
+      "title": "$4.5 million 70s Neighborhood Greenway project headed to bid, will...",
+      "url": "https://bikeportland.org/2021/06/01/4-5-million-70s-neighborhood-greenway-project-headed-to-bid-will-be-built-this-fall-333015"
     },
     {
-      "url": "https://static1.squarespace.com/static/59e5266e6f4ca359ba695789/t/63a36b47a5bb2f352867ef46/1671654217714/PBOT+Hawthorne+Neighborhood+Greenways+presentation.pdf",
-      "title": "PowerPoint Presentation"
+      "title": "Portland Neighborhood Greenway Signs | News Radio 1190 KEX",
+      "url": "https://1190kex.iheart.com/featured/portland-local-news/content/2023-01-20-portland-neighborhood-greenway-signs/"
+    },
+    {
+      "title": "Portland's Neighborhood Greenways - Travel Oregon",
+      "url": "https://traveloregon.com/things-to-do/outdoor-recreation/bicycling/portlands-neighborhood-greenways/"
+    },
+    {
+      "title": "60s Bikeway: Mt. Tabor to Springwater Corridor Trail | Portland.gov",
+      "url": "https://www.portland.gov/transportation/pbot-projects/construction/60s-bikeway-mt-tabor-springwater-corridor-trail"
+    },
+    {
+      "title": "PowerPoint Presentation",
+      "url": "https://static1.squarespace.com/static/59e5266e6f4ca359ba695789/t/63a36b47a5bb2f352867ef46/1671654217714/PBOT+Hawthorne+Neighborhood+Greenways+presentation.pdf"
     }
   ],
   "trimet bikes on max rules 2025": [
     {
-      "url": "https://trimet.org/bikes/",
-      "title": "Bikes and TriMet"
+      "title": "Transportation Time Machine: TriMet bike permits \u2013 BikePortland",
+      "url": "https://bikeportland.org/2022/10/14/transportation-time-machine-trimet-bike-permits-365449"
+    },
+    {
+      "title": "Bikes and TriMet",
+      "url": "https://trimet.org/bikes/"
+    },
+    {
+      "title": "Can You Bring A Bike On A Trimet Bus? Transportation Policies",
+      "url": "https://www.valuesbustour.com/can-you-bring-a-bike-on-trimet-bus/"
+    },
+    {
+      "title": "It's time to ban bikes on MAX trains - oregonlive.com",
+      "url": "https://www.oregonlive.com/opinion/2012/10/its_time_to_ban_bikes_on_max_t.html"
+    },
+    {
+      "title": "Posts about bikes on trimet written by Adron | Transit Sleuth",
+      "url": "https://transitsleuth.com/tag/bikes-on-trimet/"
     }
   ],
-  "reducing duplicate threads discourse plugin": [],
+  "reducing duplicate threads discourse plugin": [
+    {
+      "title": "Is It Possible to Bulk Create Threads for Many... - Discourse Meta",
+      "url": "https://meta.discourse.org/t/is-it-possible-to-bulk-create-threads-for-many-wordpress-posts-sql-maybe/201210"
+    },
+    {
+      "title": "Discourse - nannying software or empowering the poster?",
+      "url": "https://boards.straightdope.com/t/discourse-nannying-software-or-empowering-the-poster/942901"
+    },
+    {
+      "title": "Publish to Discourse Post Update Guide - WoW Lazy Macros",
+      "url": "https://wowlazymacros.com/t/publish-to-discourse-post-update-guide/41125"
+    },
+    {
+      "title": "Build a Discourse Plug - In to convert Forum... - RARI Foundation",
+      "url": "https://forum.rari.foundation/t/build-a-discourse-plug-in-to-convert-forum-discussions-into-clear-proposal-revisions-with-community-sourced-justifications/2304/25"
+    },
+    {
+      "title": "[SOLVED] Discourse Plugin - Suggestions & Feedback - PlayCanvas...",
+      "url": "https://forum.playcanvas.com/t/solved-discourse-plugin/22957"
+    }
+  ],
   "stack exchange canonical answer guidelines": [
     {
-      "url": "https://meta.stackexchange.com/questions/75130/where-to-post-a-canonical-answer-when-its-not-in-response-to-a-specific-quest",
-      "title": "Where to post a \" canonical answer \" when it's not in response to....."
+      "title": "' canonical - answer ' Top Users - Ask Ubuntu Meta",
+      "url": "https://meta.askubuntu.com/tags/canonical-answer/topusers"
+    },
+    {
+      "title": "Where to post a \" canonical answer \" when it's not in response to.....",
+      "url": "https://meta.stackexchange.com/questions/75130/where-to-post-a-canonical-answer-when-its-not-in-response-to-a-specific-quest"
+    },
+    {
+      "title": "LaTeX table positioning - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/1673942/latex-table-positioning"
+    },
+    {
+      "title": "DNS. Non-authoritative answer . canonical name - Server Fault",
+      "url": "https://serverfault.com/questions/890656/dns-non-authoritative-answer-canonical-name"
+    },
+    {
+      "title": "Web Scraping Stack Exchange Questions | by b | Medium",
+      "url": "https://medium.com/@_-/web-scraping-stack-exchange-questions-b15687461ed4"
     }
   ],
   "discourse tag synonyms setup": [
     {
-      "url": "https://meta.discourse.org/t/admin-guide-to-tags-in-discourse/121041",
-      "title": "Admin guide to tags in Discourse"
+      "title": "Admin guide to tags in Discourse",
+      "url": "https://meta.discourse.org/t/admin-guide-to-tags-in-discourse/121041"
+    },
+    {
+      "title": "Tags On Discourse: A Brief Guide - discourse.ubuntu.com",
+      "url": "https://discourse.ubuntu.com/t/tags-on-discourse-a-brief-guide/61674"
+    },
+    {
+      "title": "Tag synonyms - Site discussion - MetaBrainz Community Discourse",
+      "url": "https://community.metabrainz.org/t/tag-synonyms/454909"
+    },
+    {
+      "title": "'discourse' Tag Synonyms - Stack Overflow",
+      "url": "https://stackoverflow.com/tags/discourse/synonyms"
+    },
+    {
+      "title": "What are tag synonyms and merged tags? How do they work?",
+      "url": "https://meta.stackexchange.com/questions/70710/what-are-tag-synonyms-and-merged-tags-how-do-they-work"
     }
   ],
-  "rss feed for unanswered questions discourse": [],
+  "rss feed for unanswered questions discourse": [
+    {
+      "title": "Unanswered ' feed ' Questions - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/tagged/feed?tab=Unanswered"
+    },
+    {
+      "title": "Add an RSS feed for unanswered questions - Meta Stack Exchange",
+      "url": "https://meta.stackexchange.com/questions/42525/add-an-rss-feed-for-unanswered-questions"
+    },
+    {
+      "title": "RSS Feed | Hypixel Forums",
+      "url": "https://hypixel.net/threads/rss-feed.4485365/"
+    },
+    {
+      "title": "Unanswered ' feed ' Questions - Super User",
+      "url": "https://superuser.com/questions/tagged/feed?sort=unanswered"
+    },
+    {
+      "title": "RSS Feed for Unanswered Questions is broken... - FMForums.com",
+      "url": "https://fmforums.com/topic/95712-rss-feed-for-unanswered-questions-is-broken-after-site-upgrade/"
+    }
+  ],
   "zapier digest of forum posts weekly": [
     {
-      "url": "https://help.zapier.com/hc/en-us/articles/8496309901453-Compile-data-in-a-digest-in-Zaps",
-      "title": "Compile data in a digest in Zaps - Zapier"
+      "title": "Compile data in a digest in Zaps - Zapier",
+      "url": "https://help.zapier.com/hc/en-us/articles/8496309901453-Compile-data-in-a-digest-in-Zaps"
     },
     {
-      "url": "https://zapier.com/blog/digest-by-zapier-guide/",
-      "title": "Digest by Zapier: Deliver notifications in batches"
+      "title": "Digest by Zapier: Deliver notifications in batches",
+      "url": "https://zapier.com/blog/digest-by-zapier-guide/"
     },
     {
-      "url": "https://www.marketingscoop.com/marketing/the-complete-guide-to-digest-by-zapier/",
-      "title": "The Complete Guide to Digest by Zapier - Marketing Scoop"
+      "title": "The Complete Guide to Digest by Zapier - Marketing Scoop",
+      "url": "https://www.marketingscoop.com/marketing/the-complete-guide-to-digest-by-zapier/"
     },
     {
-      "url": "https://jimmyrose.me/daily-summary-digest-by-zapier/",
-      "title": "How to create a daily summary email for almost anything with Digest by ..."
+      "title": "How to create a daily summary email for almost anything with Digest by ...",
+      "url": "https://jimmyrose.me/daily-summary-digest-by-zapier/"
     },
     {
-      "url": "https://community.zapier.com/featured-articles-65/send-yourself-a-weekly-digest-of-newly-added-zapier-integrations-12489",
-      "title": "Send Yourself a Weekly Digest of Newly Added Zapier Integrations"
+      "title": "Send Yourself a Weekly Digest of Newly Added Zapier Integrations",
+      "url": "https://community.zapier.com/featured-articles-65/send-yourself-a-weekly-digest-of-newly-added-zapier-integrations-12489"
     }
   ],
   "ifttt reddit new post to google sheet": [
     {
-      "url": "https://ifttt.com/applets/CW4zLu9j-reddit-post-to-tracking-sheet",
-      "title": "Reddit Post to Tracking Sheet - IFTTT"
+      "title": "If post saved in Reddit then send image to Google Drive - IFTTT",
+      "url": "https://ifttt.com/applets/dLX8hZUc-if-post-saved-in-reddit-then-send-image-to-google-drive"
+    },
+    {
+      "title": "Reddit Post to Tracking Sheet - IFTTT",
+      "url": "https://ifttt.com/applets/CW4zLu9j-reddit-post-to-tracking-sheet"
+    },
+    {
+      "title": "Post New TikTok Videos from a Google Sheet | IFTTT ... - TheVCF.com",
+      "url": "https://blog.thevcf.com/2024/11/17/post-new-tiktok-videos-from-a-google-sheet-ifttt-tutorial-2/"
+    },
+    {
+      "title": "How to connect Twitter and Reddit - App Integrations - Stackreaction",
+      "url": "https://stackreaction.com/twitter/integrations/reddit"
+    },
+    {
+      "title": "Google",
+      "url": "http://www.l.google.com/?hl=en"
     }
   ],
   "obsidian dataview example queries for tags": [
     {
-      "url": "https://obsidian.rocks/resources-dataview-cheatsheet/",
-      "title": "Dataview Cheatsheet - Obsidian Rocks"
+      "title": "Dataview Cheatsheet - Obsidian Rocks",
+      "url": "https://obsidian.rocks/resources-dataview-cheatsheet/"
     },
     {
-      "url": "https://willcodefor.beer/posts/dataview",
-      "title": "Practical dataview examples for Obsidian - willcodefor.beer GitHub - seburbandev/obsidian-dataview-cheatsheet: This ... 6 Essential Dataview Queries to Improve Your Obsidian ... Practical dataview examples for Obsidian - willcodefor.beer Dataview in Obsidian : A Beginner\u2019s Guide Dataview in Obsidian : A Beginner\u2019s Guide Dataview in Obsidian : A Beginner\u2019s Guide Dataview in Obsidian: A Beginner's Guide - Obsidian Rocks"
+      "title": "Practical dataview examples for Obsidian - willcodefor.beer GitHub - seburbandev/obsidian-dataview-cheatsheet: This ... 6 Essential Dataview Queries to Improve Your Obsidian ... Practical dataview examples for Obsidian - willcodefor.beer Dataview in Obsidian : A Beginner\u2019s Guide Dataview in Obsidian : A Beginner\u2019s Guide Dataview in Obsidian : A Beginner\u2019s Guide Dataview in Obsidian: A Beginner's Guide - Obsidian Rocks",
+      "url": "https://willcodefor.beer/posts/dataview"
     },
     {
-      "url": "https://github.com/seburbandev/obsidian-dataview-cheatsheet",
-      "title": "GitHub - seburbandev/obsidian-dataview-cheatsheet: This ..."
+      "title": "GitHub - seburbandev/obsidian-dataview-cheatsheet: This ...",
+      "url": "https://github.com/seburbandev/obsidian-dataview-cheatsheet"
     },
     {
-      "url": "https://www.geeky-gadgets.com/dataview-queries-for-obsidian-workflow/",
-      "title": "6 Essential Dataview Queries to Improve Your Obsidian ..."
+      "title": "6 Essential Dataview Queries to Improve Your Obsidian ...",
+      "url": "https://www.geeky-gadgets.com/dataview-queries-for-obsidian-workflow/"
+    },
+    {
+      "title": "Dataview in Obsidian: A Beginner's Guide - Obsidian Rocks",
+      "url": "https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/"
     }
   ],
   "obsidian templater checklist template": [
     {
-      "url": "https://forum.obsidian.md/t/minimal-checklist-options-templater-template/83068",
-      "title": "Minimal checklist options templater template - Obsidian Forum"
+      "title": "Minimal checklist options templater template - Obsidian Forum",
+      "url": "https://forum.obsidian.md/t/minimal-checklist-options-templater-template/83068"
+    },
+    {
+      "title": "6 amazing Obsidian templates that improved my note-taking",
+      "url": "https://www.xda-developers.com/obsidian-templates-improved-note-taking/"
+    },
+    {
+      "title": "Ultimate Guide to Obsidian Templates (with Examples)",
+      "url": "https://facedragons.com/productivity/obsidian-templates-with-examples/"
+    },
+    {
+      "title": "lguenth/obsidian-templates: A collection of templates for Obsidian - GitHub",
+      "url": "https://github.com/lguenth/obsidian-templates"
+    },
+    {
+      "title": "How to Create and Use Templates in Obsidian - Planet Tash",
+      "url": "https://planettash.com/2025/05/29/how-to-create-and-use-templates-in-obsidian/"
     }
   ],
   "personal knowledge base tagging conventions examples": [
     {
-      "url": "https://fortelabs.com/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/",
-      "title": "A Complete Guide to Tagging for Personal Knowledge Management"
+      "title": "Value of Knowledge Management - See ServiceNow\u00ae in Action",
+      "url": "https://www.bing.com/aclick?ld=e8lB7az8VH4h6_jju54DtUtDVUCUz9SjG0P4Ur5I5jNnp2ctGg8SNxzxc8Ofj66SjZWRcg24UZ2R93UQ399nFftWqquY-gkFprTtOboNGjXsiEmTP-4NqtHSCNl6fwo5zGFi3g3Wj7Hj9Qw3mTE4wpCN0pS1piP4nlEb1Js21w_JuUMM6YKvyaJgnhN1_mCKjn10VWdsFeiPPVuoolYnm7b7a2NLI&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mjk5Njk5NzI1MSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODk4MjkwNDA5MyUyNmRzX2FfY2lkJTNkNzM3OTg5MjY5NyUyNmRzX2FfY2FpZCUzZDIzMzE5MDk1OTI4JTI2ZHNfYV9hZ2lkJTNkMTkyMjgyNTM2NTI5JTI2ZHNfYV9saWQlM2Rrd2QtMTIxNTg3NDk4OTc4NiUyNiUyNmRzX2VfYWRpZCUzZDgxMDIwNDAzMjMwMTY4JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODEwMjA2NDkwMzQwNzAlM2Fsb2MtMTkwJTI2JTI2ZHNfZV9uZXR3b3JrJTNkbyUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuc2VydmljZW5vdy5jb20lMmZwcm9kdWN0cyUyZmtub3dsZWRnZS1tYW5hZ2VtZW50Lmh0bWwlM2ZnY2xpZCUzZGJkYWY3MGRkNzY1YjFjMzcwZmNiMTk5YzkxNzE3ODI1JTI2Z2Nsc3JjJTNkM3AuZHMlMjYlMjZtc2Nsa2lkJTNkYmRhZjcwZGQ3NjViMWMzNzBmY2IxOTljOTE3MTc4MjUlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCSU5HX0FNU19BTExfRU5fREVNQU5ER0VOX0NTTVRfUFJTUF9Ob25CcmFuZF9QSFJfRURVJTI2dXRtX3Rlcm0lM2RjbGllbnQlMjUyMGtub3dsZWRnZSUyNTIwbWFuYWdlbWVudCUyNnV0bV9jb250ZW50JTNkS25vd2xlZGdlJTI1MjBNYW5hZ2VtZW50X0VEVV9QSFI&rlid=bdaf70dd765b1c370fcb199c91717825"
     },
     {
-      "url": "https://www.dsebastien.net/2022-05-17-why-and-how-to-tag-notes-in-your-pkm/",
-      "title": "Best Practices for Tagging Notes in a PKM System"
+      "title": "A Complete Guide to Tagging for Personal Knowledge Management",
+      "url": "https://fortelabs.com/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/"
+    },
+    {
+      "title": "How to Organize a Knowledge Base in 7 Steps (With Examples) Images Knowledge Base Tag Management: 10 Critical Mistakes to Avoid Best Practices for Tagging Notes in a PKM System Why and how to tag notes in your PKM | by S\u00e9bastien Dubois ... Best practices for tag lifecycle management: Tag strategy and ... Structuring Team Knowledge: Categories, Tags, and Collections ...",
+      "url": "https://capacity.com/learn/knowledge-base/how-to-organize-a-knowledge-base/"
+    },
+    {
+      "title": "Knowledge Base Tag Management: 10 Critical Mistakes to Avoid",
+      "url": "https://blog.happyfox.com/knowledge-base-tag-management-mistakes/"
+    },
+    {
+      "title": "Best Practices for Tagging Notes in a PKM System",
+      "url": "https://www.dsebastien.net/2022-05-17-why-and-how-to-tag-notes-in-your-pkm/"
     }
   ],
   "write good alt text for charts examples": [
     {
-      "url": "https://academy.datawrapper.de/article/330-how-to-write-good-alternative-descriptions-for-your-data-visualization",
-      "title": "How to write good alternative descriptions for your data visualization..."
+      "title": "Everything you need to know to write effective alt text - Microsoft...",
+      "url": "https://support.microsoft.com/en-us/office/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2"
+    },
+    {
+      "title": "How to write good alternative descriptions for your data visualization...",
+      "url": "https://academy.datawrapper.de/article/330-how-to-write-good-alternative-descriptions-for-your-data-visualization"
+    },
+    {
+      "title": "Alt text for Accessibility Examples , Tips & Best Practices",
+      "url": "https://www.levelaccess.com/blog/alt-text-for-accessibility/"
+    },
+    {
+      "title": "Accessible PowerPoint: Alternative Text | Student Disability Resource...",
+      "url": "https://sdrc.ucr.edu/powerpoint/accessible-powerpoint-alternative-text"
+    },
+    {
+      "title": "Community Helps Add Alt Texts to our Lesson Images | The Carpentries",
+      "url": "https://carpentries.org/blog/2022/11/accathon/"
     }
   ],
   "gif accessibility best practices alt text": [
     {
-      "url": "https://www.w3.org/WAI/tutorials/images/tips/",
-      "title": "Tips and Tricks | Web Accessibility Initiative (WAI) | W3C"
+      "title": "Tips and Tricks | Web Accessibility Initiative (WAI) | W3C",
+      "url": "https://www.w3.org/WAI/tutorials/images/tips/"
     },
     {
-      "url": "https://www.accessibilitychecker.org/guides/alt-text/",
-      "title": "The Complete Guide to Alt Text for SEO and Accessibility"
+      "title": "The Complete Guide to Alt Text for SEO and Accessibility",
+      "url": "https://www.accessibilitychecker.org/guides/alt-text/"
     },
     {
-      "url": "https://accessibilitypartners.ca/alt-text-best-practices/",
-      "title": "A Complete Guide to ALT Text Best Practices for Web Accessibility"
+      "title": "A Complete Guide to ALT Text Best Practices for Web Accessibility",
+      "url": "https://accessibilitypartners.ca/alt-text-best-practices/"
     },
     {
-      "url": "https://www.allaccessible.org/blog/how-to-add-alternative-text-alt-text-descriptions-to-images-for-screen-readers",
-      "title": "Alt Text Best Practices 2025: Complete Guide + AI Automation"
+      "title": "Alt Text Best Practices 2025: Complete Guide + AI Automation",
+      "url": "https://www.allaccessible.org/blog/how-to-add-alternative-text-alt-text-descriptions-to-images-for-screen-readers"
     },
     {
-      "url": "https://fastmakergif.com/blog/accessible-animated-gifs-wcag",
-      "title": "Creating Accessible Animated GIFs: WCAG 2.2 Guidelines (2025)"
+      "title": "Creating Accessible Animated GIFs: WCAG 2.2 Guidelines (2025)",
+      "url": "https://fastmakergif.com/blog/accessible-animated-gifs-wcag"
     }
   ],
   "add captions to screen recording free tools": [
     {
-      "url": "https://screenpal.com/tool/captions",
-      "title": "Video Captions Generator - ScreenPal"
+      "title": "Video Captions Generator - ScreenPal",
+      "url": "https://screenpal.com/tool/captions"
     },
     {
-      "url": "https://www.canva.com/features/add-subtitles-to-video/",
-      "title": "Add Subtitles to Video: Video Captions Generator | Canva"
+      "title": "Add Subtitles to Video: Video Captions Generator | Canva",
+      "url": "https://www.canva.com/features/add-subtitles-to-video/"
     },
     {
-      "url": "https://createandgo.com/closed-captioning-software",
-      "title": "7 Best Closed Captioning Software In 2025 (Free And Paid)"
+      "title": "7 Best Closed Captioning Software In 2025 (Free And Paid)",
+      "url": "https://createandgo.com/closed-captioning-software"
     },
     {
-      "url": "https://turboscribe.ai/u/tools/generate-captions-for-videos",
-      "title": "Generate Captions for Videos Automatically | TurboScribe"
+      "title": "Generate Captions for Videos Automatically | TurboScribe",
+      "url": "https://turboscribe.ai/u/tools/generate-captions-for-videos"
     },
     {
-      "url": "https://screenapp.io/features/live-caption-tool",
-      "title": "Live Caption Tool - screenapp.io"
+      "title": "Live Caption Tool - screenapp.io",
+      "url": "https://screenapp.io/features/live-caption-tool"
     }
   ],
   "auto caption open source mac windows": [
     {
-      "url": "https://vocalremover.easeus.com/ai-article/open-source-subtitle-generators.html",
-      "title": "10 Free Open Source Subtitle Generators in 2025 - EaseUS"
+      "title": "10 Free Open Source Subtitle Generators in 2025 - EaseUS",
+      "url": "https://vocalremover.easeus.com/ai-article/open-source-subtitle-generators.html"
     },
     {
-      "url": "https://github.com/m1guelpf/auto-subtitle",
-      "title": "GitHub - m1guelpf/auto-subtitle: Automatically generate and ... Top 9 Best Video Caption Generators in 2025 - CyberLink AutoCaption - Desktop App for Mac, Windows (PC) - WebCatalog Subtitld - Open Source Subtitle Editor Top Free & Open-Source Captioning Tools for Your Videos 2025 Top Free Tools to Automatically Add Captions to Your Videos"
+      "title": "GitHub - m1guelpf/auto-subtitle: Automatically generate and ... Top 9 Best Video Caption Generators in 2025 - CyberLink AutoCaption - Desktop App for Mac, Windows (PC) - WebCatalog Subtitld - Open Source Subtitle Editor Top Free & Open-Source Captioning Tools for Your Videos 2025 Top Free Tools to Automatically Add Captions to Your Videos",
+      "url": "https://github.com/m1guelpf/auto-subtitle"
+    },
+    {
+      "title": "Top 9 Best Video Caption Generators in 2025 - CyberLink",
+      "url": "https://www.cyberlink.com/blog/the-top-video-editors/995/video-subtitle-generator"
+    },
+    {
+      "title": "AutoCaption - Desktop App for Mac, Windows (PC) - WebCatalog",
+      "url": "https://webcatalog.io/en/apps/autocaption"
+    },
+    {
+      "title": "Subtitld - Open Source Subtitle Editor",
+      "url": "https://subtitld.org/en"
     }
   ],
   "color contrast checker wcag 2.2": [
     {
-      "url": "https://snook.ca/technical/colour_contrast/colour.html",
-      "title": "Colour Contrast Check - snook.ca"
+      "title": "Colour Contrast Check - snook.ca",
+      "url": "https://snook.ca/technical/colour_contrast/colour.html"
     },
     {
-      "url": "https://webaim.org/resources/contrastchecker/",
-      "title": "WebAIM: Contrast Checker"
+      "title": "WebAIM: Contrast Checker",
+      "url": "https://webaim.org/resources/contrastchecker/"
     },
     {
-      "url": "https://chromewebstore.google.com/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe?hl=de&gl=CH",
-      "title": "Colour Contrast Checker - Chrome Web Store"
+      "title": "Colour Contrast Checker - Chrome Web Store",
+      "url": "https://chromewebstore.google.com/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe?hl=de&gl=CH"
     },
     {
-      "url": "https://accessible-colors.com/",
-      "title": "Accessible Colors | WCAG 2 .0 AA and AAA color contrast checker"
+      "title": "Accessible Colors | WCAG 2 .0 AA and AAA color contrast checker",
+      "url": "https://accessible-colors.com/"
     },
     {
-      "url": "https://coolors.co/contrast-checker",
-      "title": "Color Contrast Checker - Coolors"
+      "title": "Color Contrast Checker - Coolors",
+      "url": "https://coolors.co/contrast-checker"
     }
   ],
   "keyboard only navigation checklist web app": [
     {
-      "url": "https://webaim.org/techniques/keyboard/",
-      "title": "Keyboard Accessibility - WebAIM"
+      "title": "Keyboard Accessibility - WebAIM",
+      "url": "https://webaim.org/techniques/keyboard/"
     },
     {
-      "url": "https://blog.openreplay.com/tips-better-keyboard-navigation-web-apps/",
-      "title": "Tips for Better Keyboard Navigation in Web Apps"
+      "title": "Tips for Better Keyboard Navigation in Web Apps",
+      "url": "https://blog.openreplay.com/tips-better-keyboard-navigation-web-apps/"
     },
     {
-      "url": "https://www.accessibilitychecker.org/blog/keyboard-navigation-accessibility/",
-      "title": "How to Implement Keyboard Navigation Accessibility"
+      "title": "How to Implement Keyboard Navigation Accessibility",
+      "url": "https://www.accessibilitychecker.org/blog/keyboard-navigation-accessibility/"
     },
     {
-      "url": "https://keypress.io/resources/keyboard-accessibility-web",
-      "title": "Keyboard Accessibility in Web Applications - Complete Guide"
+      "title": "Keyboard Accessibility in Web Applications - Complete Guide",
+      "url": "https://keypress.io/resources/keyboard-accessibility-web"
     },
     {
-      "url": "https://www.accessibility-developer-guide.com/knowledge/keyboard-only/browsing-websites/",
-      "title": "How to browse websites using a keyboard only - ADG"
+      "title": "How to browse websites using a keyboard only - ADG",
+      "url": "https://www.accessibility-developer-guide.com/knowledge/keyboard-only/browsing-websites/"
     }
   ],
   "screen reader testing with nvda quickstart": [
     {
-      "url": "https://accessibility.huit.harvard.edu/nvda",
-      "title": "Getting Started Testing with NVDA | Digital Accessibility Services"
+      "title": "Getting Started Testing with NVDA | Digital Accessibility Services",
+      "url": "https://accessibility.huit.harvard.edu/nvda"
     },
     {
-      "url": "https://www.afb.org/aw/spring2024/getting-started-nvda-web-accessibility",
-      "title": "Using the NVDA Screen Reader to Test Web Accessibility"
+      "title": "Using the NVDA Screen Reader to Test Web Accessibility",
+      "url": "https://www.afb.org/aw/spring2024/getting-started-nvda-web-accessibility"
     },
     {
-      "url": "https://m.youtube.com/watch?v=aAh1PFsgcBY",
-      "title": "NVDA Screen Reader Tutorial: How to Use It for Accessibility Testing ..."
+      "title": "NVDA Screen Reader Tutorial: How to Use It for Accessibility Testing ...",
+      "url": "https://m.youtube.com/watch?v=aAh1PFsgcBY"
     },
     {
-      "url": "https://webaim.org/articles/nvda/",
-      "title": "WebAIM: Using NVDA to Evaluate Web Accessibility"
+      "title": "WebAIM: Using NVDA to Evaluate Web Accessibility",
+      "url": "https://webaim.org/articles/nvda/"
     },
     {
-      "url": "https://www.testing101.net/post/nvda-screen-reader-tutorial-how-to-use-it-for-accessibility-testing",
-      "title": "NVDA Screen Reader Tutorial: How to Use It for Accessibility Testing"
+      "title": "NVDA Screen Reader Tutorial: How to Use It for Accessibility Testing",
+      "url": "https://www.testing101.net/post/nvda-screen-reader-tutorial-how-to-use-it-for-accessibility-testing"
     }
   ],
   "aria live region examples polite assertive": [
     {
-      "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regions",
-      "title": "ARIA live regions - MDN Web Docs"
+      "title": "ARIA live regions - MDN Web Docs",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regions"
     },
     {
-      "url": "https://rightsaidjames.com/2025/08/aria-live-regions-when-to-use-polite-assertive/",
-      "title": "ARIA-live announcements cheatsheet - assertive, polite or none?"
+      "title": "ARIA-live announcements cheatsheet - assertive, polite or none?",
+      "url": "https://rightsaidjames.com/2025/08/aria-live-regions-when-to-use-polite-assertive/"
     },
     {
-      "url": "https://www.uxpin.com/studio/blog/aria-live-regions-for-dynamic-content/",
-      "title": "ARIA Live Regions for Dynamic Content | UXPin"
+      "title": "ARIA Live Regions for Dynamic Content | UXPin",
+      "url": "https://www.uxpin.com/studio/blog/aria-live-regions-for-dynamic-content/"
     },
     {
-      "url": "https://www.linkedin.com/pulse/understanding-aria-live-regions-assertive-polite-mohd-irfan-cpacc-gghkc",
-      "title": "Understanding ARIA Live Regions: Assertive, Polite, Alert ..."
+      "title": "Understanding ARIA Live Regions: Assertive, Polite, Alert ...",
+      "url": "https://www.linkedin.com/pulse/understanding-aria-live-regions-assertive-polite-mohd-irfan-cpacc-gghkc"
     },
     {
-      "url": "https://a11y.ing/en/technical-accessibility/wai-aria/aria-live-regions/",
-      "title": "ARIA live regions - I would if I could - A11ying with Sanna"
+      "title": "ARIA live regions - I would if I could - A11ying with Sanna",
+      "url": "https://a11y.ing/en/technical-accessibility/wai-aria/aria-live-regions/"
     }
   ],
   "skip link implementation example code": [
     {
-      "url": "https://github.com/mitevskasara/skip-link-demo",
-      "title": "GitHub - mitevskasara/skip-link-demo"
+      "title": "GitHub - mitevskasara/skip-link-demo",
+      "url": "https://github.com/mitevskasara/skip-link-demo"
     },
     {
-      "url": "https://www.w3schools.com/accessibility/accessibility_skip_links.php",
-      "title": "Accessibility Skip links - W3Schools Code sample"
+      "title": "Straight to the Point: A Guide to Skip Links in ... - Medium",
+      "url": "https://medium.com/uxmm/straight-to-the-point-a-guide-to-skip-links-in-accessibility-205a2626ae6a"
     },
     {
-      "url": "https://www.geeksforgeeks.org/html/how-to-add-skip-navigation-links-for-better-web-accessibility-in-html/",
-      "title": "How to Add Skip Navigation Links for Better ... - GeeksforGeeks"
+      "title": "Accessibility Skip links - W3Schools Code sample",
+      "url": "https://www.w3schools.com/accessibility/accessibility_skip_links.php"
     },
     {
-      "url": "https://www.accessibility.build/wcag/2-4-1",
-      "title": "WCAG 2.4.1 Bypass Blocks - Interactive Skip Link Demo & Tools"
+      "title": "How to Add Skip Navigation Links for Better ... - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/html/how-to-add-skip-navigation-links-for-better-web-accessibility-in-html/"
+    },
+    {
+      "title": "WCAG 2.4.1 Bypass Blocks - Interactive Skip Link Demo & Tools",
+      "url": "https://www.accessibility.build/wcag/2-4-1"
     }
   ],
   "accessible ui audit template google docs": [
     {
-      "url": "https://www.allaccessible.org/blog/website-accessibility-audit-guide-wcag-template",
-      "title": "Website Accessibility Audit: Complete 2025 WCAG 2.2 Guide + Free Template"
+      "title": "Download Our Sample Accessibility Audit Report",
+      "url": "https://accessible.org/sample-accessibility-audit-report/"
     },
     {
-      "url": "https://github.com/digitala11y/Free-Web-Accessibility-Audit-Report-Template-by-DigitalA11Y.com",
-      "title": "GitHub - digitala11y/Free-Web-Accessibility-Audit-Report-Template-by ..."
+      "title": "Website Accessibility Audit: Complete 2025 WCAG 2.2 Guide + Free Template",
+      "url": "https://www.allaccessible.org/blog/website-accessibility-audit-guide-wcag-template"
     },
     {
-      "url": "https://resource.prometsource.com/accessibility-audit-template",
-      "title": "Manual Accessibility Audit Template | Promet Source"
+      "title": "GitHub - digitala11y/Free-Web-Accessibility-Audit-Report-Template-by ...",
+      "url": "https://github.com/digitala11y/Free-Web-Accessibility-Audit-Report-Template-by-DigitalA11Y.com"
     },
     {
-      "url": "https://docs.google.com/document/d/1ntS48cAACKPY0lYmIBtyiguc6DMbb3tIOKa8ZnYCv_Q/edit",
-      "title": "Site Audit Template - Google Docs"
+      "title": "Manual Accessibility Audit Template | Promet Source",
+      "url": "https://resource.prometsource.com/accessibility-audit-template"
+    },
+    {
+      "title": "Site Audit Template - Google Docs",
+      "url": "https://docs.google.com/document/d/1ntS48cAACKPY0lYmIBtyiguc6DMbb3tIOKa8ZnYCv_Q/edit"
     }
   ],
   "wcag 2.2 summary plain language": [
     {
-      "url": "https://www.wcag.com/resource/what-is-wcag/",
-      "title": "A Guide to WCAG | Web Accessibility Guidelines Overview"
+      "title": "A Guide to WCAG | Web Accessibility Guidelines Overview",
+      "url": "https://www.wcag.com/resource/what-is-wcag/"
     },
     {
-      "url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
-      "title": "WCAG 2 Overview | Web Accessibility Initiative (WAI) | W3C"
+      "title": "WCAG 2 Overview | Web Accessibility Initiative (WAI) | W3C",
+      "url": "https://www.w3.org/WAI/standards-guidelines/wcag/"
+    },
+    {
+      "title": "Plain language | A11ying with Sanna - I would if I could",
+      "url": "https://a11y.ing/en/content-accessibility/text-content/plain-language/"
+    },
+    {
+      "title": "Accessibility: Support of WCAG 2 . 2 compliant scroll... - Issue Tracker",
+      "url": "https://issuetracker.google.com/issues/327142742"
+    },
+    {
+      "title": "Frontend Mentor | Vue 3, Pinia, Astro, WCAG 2 . 2 , Accessibility coding...",
+      "url": "https://www.frontendmentor.io/solutions/vue-3-pinia-astro-wcag-22-accessibility-mNmVrT8te7"
     }
   ],
   "plain language rewrite tool readability": [
     {
-      "url": "https://www.evalacademy.com/articles/tools-to-write-in-plain-language",
-      "title": "Tools To Write In Plain Language - Eval Academy"
+      "title": "Rewrite tool ai - AI Detect And Rewrite Tool",
+      "url": "https://www.bing.com/aclick?ld=e8T2OU-DcaDoFw83SDQXckFzVUCUwiNrlbmQG9tf_qTHzPQYC5Ktrws0n_-CIecVquUJh97uuimDyx9LuiVwEEsnmKvf6aXi2LhgN6HSb3Yyf7FRXcDR1Ljb4q2pCANmOf_u5kPrsqDtR2AWQBOY3iek2df5UqRu6v8jVgMK0jj-LDsbXwe1QHU8jpygzf0hc2beV7O8oMwdelv99Dwa5Ex6J-X_I&u=aHR0cHMlM2ElMmYlMmZzaWRla2lja2VyLmFpJTJmJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkNDg2NzQ1MjY1JTI2dXRtX2NvbnRlbnQlM2QxMjM1ODUyMjIzOTY3NDAyJTI2dXRtX2Fkc2V0X2lkJTNkMTIzNTg1MjIyMzk2NzQwMiUyNnV0bV90ZXJtJTNkcmV3cml0ZSUyNTIwdG9vbCUyNTIwYWklMjZ1dG1fbmV0d29yayUzZG8lMjZ1dG1fbWF0Y2h0eXBlJTNkcCUyNm1zY2xraWQlM2Q5YzU2NjM3MzhiNjAxNGY0MjZmNTBhMzI2YzU0ODY5Yg&rlid=9c5663738b6014f426f50a326c54869b"
     },
     {
-      "url": "https://accessibility-test.org/blog/services/testing/grammarly-vs-hemingway-vs-plain-language-accessibility-tools/",
-      "title": "Grammarly vs Hemingway vs Plain Language | Accessibility Tools"
+      "title": "Free AI Paragraph Rewriter - Ahrefs",
+      "url": "https://ahrefs.com/writing-tools/paragraph-rewriter"
     },
     {
-      "url": "https://textbuddy.com/",
-      "title": "AI Rewriter & Plain English Editor - Free Without Login"
+      "title": "Tools To Write In Plain Language - Eval Academy",
+      "url": "https://www.evalacademy.com/articles/tools-to-write-in-plain-language"
+    },
+    {
+      "title": "Grammarly vs Hemingway vs Plain Language | Accessibility Tools",
+      "url": "https://accessibility-test.org/blog/services/testing/grammarly-vs-hemingway-vs-plain-language-accessibility-tools/"
+    },
+    {
+      "title": "AI Rewriter & Plain English Editor - Free Without Login",
+      "url": "https://textbuddy.com/"
     }
   ],
   "nonviolent communication quick guide pdf": [
     {
-      "url": "https://learning.survivoralliance.org/USER-FILES/70-ben-site/media/6-Nonviolent_Communication_Resources_updated.pdf",
-      "title": "PDF Nonviolent Communication: Quick Reference Guide"
+      "title": "PDF Nonviolent Communication: Quick Reference Guide",
+      "url": "https://learning.survivoralliance.org/USER-FILES/70-ben-site/media/6-Nonviolent_Communication_Resources_updated.pdf"
     },
     {
-      "url": "https://cts.stagones.org/wp-content/uploads/2022/03/Nonviolent-Communication-Quick-Reference-Guide.pdf",
-      "title": "PDF Nonviolent Communication Quick Reference Guide"
+      "title": "PDF Nonviolent Communication Quick Reference Guide",
+      "url": "https://cts.stagones.org/wp-content/uploads/2022/03/Nonviolent-Communication-Quick-Reference-Guide.pdf"
+    },
+    {
+      "title": "PDF Nonviolent Communication",
+      "url": "https://med-fom-learningcircle.sites.olt.ubc.ca/files/2015/11/NVC.pdf"
+    },
+    {
+      "title": "PDF Nonviolent nt communication co - SoFA",
+      "url": "https://learn.sociocracyforall.org/wp-content/uploads/2021/08/sociocracy-for-all-nvc-activity-book.pdf"
+    },
+    {
+      "title": "PDF nonviolent_communication",
+      "url": "https://citizenshandbook.org/nonviolent_communication.pdf"
     }
   ],
   "de escalation phrases for moderators": [
     {
-      "url": "https://uploads-ssl.webflow.com/60129aa0de82235a505a0fca/62e0edaeb4bd5e4bc49a884d_Unity+Effect_+Useful+Phrases+for+Moderators+&+Facilitators.pdf",
-      "title": "Unity Effect: Useful Phrases for Moderators & Facilitators"
+      "title": "The De-escalation Toolkit: Essential Phrases Every Frontline ...",
+      "url": "https://de-escalateai.com/en/blog/the-de-escalation-toolkit-essential-phrases-every-frontline-worker-should-know"
+    },
+    {
+      "title": "Unity Effect: Useful Phrases for Moderators & Facilitators",
+      "url": "https://uploads-ssl.webflow.com/60129aa0de82235a505a0fca/62e0edaeb4bd5e4bc49a884d_Unity+Effect_+Useful+Phrases+for+Moderators+&+Facilitators.pdf"
+    },
+    {
+      "title": "Phrases That Diffuse Tense Moments: De-escalation Tips",
+      "url": "https://dougnoll.com/news/phrases-that-diffuse-tense-moments/"
+    },
+    {
+      "title": "16 Classy Phrases That Can De-Escalate A Conflict At Work",
+      "url": "https://listickle.co/16-classy-phrases-that-can-de-escalate-a-conflict-at-work/"
+    },
+    {
+      "title": "DE-ESCALATION - A USER GUIDE - Power Shift Network",
+      "url": "https://www.powershift.org/sites/default/files/resources/files/Handout-De-escalation.pdf"
     }
   ],
   "steelman technique examples online debates": [
     {
-      "url": "https://thebrightdelights.com/strawman-fallacy-vs-steelman-technique-learn-to-argue-better/",
-      "title": "Strawman Fallacy vs. Steelman Technique: Learn to Argue Better"
+      "title": "Strawman Fallacy vs. Steelman Technique: Learn to Argue Better",
+      "url": "https://thebrightdelights.com/strawman-fallacy-vs-steelman-technique-learn-to-argue-better/"
     },
     {
-      "url": "https://thestudyjournal.com/steelman-your-opponent-a-students-guide-to-stronger-arguments/",
-      "title": "Steelman Your Opponent: A Student\u2019s Guide to Stronger ..."
+      "title": "Steelman Your Opponent: A Student\u2019s Guide to Stronger ...",
+      "url": "https://thestudyjournal.com/steelman-your-opponent-a-students-guide-to-stronger-arguments/"
     },
     {
-      "url": "https://umbrex.com/resources/tools-for-thinking/what-is-steelmanning/",
-      "title": "What is Steelmanning? Tools for Thinking"
+      "title": "What is Steelmanning? Tools for Thinking",
+      "url": "https://umbrex.com/resources/tools-for-thinking/what-is-steelmanning/"
     },
     {
-      "url": "https://simplicable.com/en/steel-man",
-      "title": "5 Examples of a Steel Man - Simplicable"
+      "title": "5 Examples of a Steel Man - Simplicable",
+      "url": "https://simplicable.com/en/steel-man"
+    },
+    {
+      "title": "The Steel Man Technique and AI: A Powerful Tool for Critical ...",
+      "url": "https://aiadvisoryboards.wordpress.com/2025/03/16/the-steel-man-technique-and-ai-a-powerful-tool-for-critical-thinking-in-the-classroom/"
     }
   ],
   "community forum code of conduct template": [
     {
-      "url": "https://www.template.net/edit-online/366475/code-of-conduct-for-communities",
-      "title": "Free Code of Conduct for Communities Template to Edit Online"
+      "title": "Don't Wing It: How to Build a Forum Code of Conduct That Actually Works",
+      "url": "https://theforumlauncher.com/2025/05/dont-wing-it-how-to-build-a-forum-code-of-conduct-that-actually-works/"
     },
     {
-      "url": "https://www.liverpool.ac.uk/media/livacuk/centre-for-innovation-in-education/diy-guides/example-code-of-conduct-online-discussion-forums/example-code-of-conduct-for-online-discussion-forums.pdf",
-      "title": "PDF Example Code of Conduct for Online Discussion Forums"
+      "title": "Free Code of Conduct for Communities Template to Edit Online",
+      "url": "https://www.template.net/edit-online/366475/code-of-conduct-for-communities"
     },
     {
-      "url": "https://www.communitydirectors.com.au/policies/code-of-conduct",
-      "title": "Code of Conduct Template\u2026 - Institute of Community Directors ..."
+      "title": "PDF Example Code of Conduct for Online Discussion Forums",
+      "url": "https://www.liverpool.ac.uk/media/livacuk/centre-for-innovation-in-education/diy-guides/example-code-of-conduct-online-discussion-forums/example-code-of-conduct-for-online-discussion-forums.pdf"
+    },
+    {
+      "title": "Code of Conduct Template\u2026 - Institute of Community Directors ...",
+      "url": "https://www.communitydirectors.com.au/policies/code-of-conduct"
+    },
+    {
+      "title": "Creating a Community Code of Conduct: Essential Checklist",
+      "url": "https://thehiveindex.com/blog/creating-a-community-code-of-conduct-essential-checklist/"
     }
   ],
   "beginner friendly thread prompts examples": [
     {
-      "url": "https://blog.hootsuite.com/instagram-threads-ideas/",
-      "title": "80+ Instagram Threads ideas [plus free Threads ideas generator] - Hootsuite"
+      "title": "80+ Instagram Threads ideas [plus free Threads ideas generator] - Hootsuite",
+      "url": "https://blog.hootsuite.com/instagram-threads-ideas/"
     },
     {
-      "url": "https://socialpost.ai/blog/50-threads-prompts-to-grow-your-audience-even-if-youre-stuck",
-      "title": "50 Creative Threads Prompts to Boost Your Social Media Engagement"
+      "title": "50 Creative Threads Prompts to Boost Your Social Media Engagement",
+      "url": "https://socialpost.ai/blog/50-threads-prompts-to-grow-your-audience-even-if-youre-stuck"
     },
     {
-      "url": "https://www.nichepursuits.com/instagram-threads-ideas/",
-      "title": "117+ Engaging Instagram Threads Ideas to Grow Your Following in 2025"
+      "title": "117+ Engaging Instagram Threads Ideas to Grow Your Following in 2025",
+      "url": "https://www.nichepursuits.com/instagram-threads-ideas/"
     },
     {
-      "url": "https://www.sendible.com/insights/threads-post-ideas",
-      "title": "49 Ready-to-Use Threads Post Ideas for Businesses and Creators"
+      "title": "49 Ready-to-Use Threads Post Ideas for Businesses and Creators",
+      "url": "https://www.sendible.com/insights/threads-post-ideas"
     },
     {
-      "url": "https://inspiretothrive.com/instagram-threads-ideas/",
-      "title": "Instagram Threads Ideas to Boost Engagement in 2025"
+      "title": "Instagram Threads Ideas to Boost Engagement in 2025",
+      "url": "https://inspiretothrive.com/instagram-threads-ideas/"
     }
   ],
   "moderation escalation policy sample": [
     {
-      "url": "https://hyperping.com/blog/escalation-policies-guide",
-      "title": "Proven escalation policy framework (w/ templates & checklists)"
+      "title": "Proven escalation policy framework (w/ templates & checklists)",
+      "url": "https://hyperping.com/blog/escalation-policies-guide"
     },
     {
-      "url": "https://docs.alertops.com/docs/escalation-policy-examples",
-      "title": "Escalation Policy Examples - Escalation Policies - AlertOps"
+      "title": "Escalation Policy Examples - Escalation Policies - AlertOps",
+      "url": "https://docs.alertops.com/docs/escalation-policy-examples"
     },
     {
-      "url": "https://docs.sciencelogic.com/latest/Content/Web_Best_Practices_and_examples/Best_Practices_Escalation/escalation_processes_and_example.htm",
-      "title": "Escalation Processes and Example Escalation Policy - ScienceLogic"
+      "title": "PDF DE-ESCALATION POLICY SAMPLE - Center for Care Innovations",
+      "url": "https://www.careinnovations.org/wp-content/uploads/EM-Consulting-Sample-De-escalation-policy.pdf"
     },
     {
-      "url": "https://www.lawinsider.com/clause/escalation-policy",
-      "title": "Escalation Policy Sample Clauses | Law Insider"
+      "title": "Escalation Processes and Example Escalation Policy - ScienceLogic",
+      "url": "https://docs.sciencelogic.com/latest/Content/Web_Best_Practices_and_examples/Best_Practices_Escalation/escalation_processes_and_example.htm"
+    },
+    {
+      "title": "Escalation Policy Sample Clauses | Law Insider",
+      "url": "https://www.lawinsider.com/clause/escalation-policy"
     }
   ],
   "conflict resolution circle process steps": [
     {
-      "url": "https://legalclarity.org/restorative-circles-principles-process-and-applications/",
-      "title": "Restorative Circles: Principles, Process, and Applications"
+      "title": "Restorative Circles: Principles, Process, and Applications",
+      "url": "https://legalclarity.org/restorative-circles-principles-process-and-applications/"
     },
     {
-      "url": "https://mediatorsbeyondborders.org/what-we-do/conflict-literacy-framework/circle-process/",
-      "title": "Circle Process - Mediators Beyond Borders International"
+      "title": "Circle Process - Mediators Beyond Borders International",
+      "url": "https://mediatorsbeyondborders.org/what-we-do/conflict-literacy-framework/circle-process/"
     },
     {
-      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/ohns/School-Health-and-Safety/RJ-Segment-7-Circle-Process.pdf?rev=fa13e39809fa4f0c95fb9f6519f13d8d&hash=20737630D91B75D6AC3E24900EED55AC",
-      "title": "PDF Michigan Department of Education Segment 7: Circle Process"
+      "title": "Conflict Resolution - University of Chicago Education Lab",
+      "url": "https://educationlab.uchicago.edu/curriculum/conflict-resolution-2/"
     },
     {
-      "url": "https://we.riseup.net/assets/5565/circle+process.pdf",
-      "title": "PDF rock dove conflict tip sheet - Riseup"
+      "title": "PDF Michigan Department of Education Segment 7: Circle Process",
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/ohns/School-Health-and-Safety/RJ-Segment-7-Circle-Process.pdf?rev=fa13e39809fa4f0c95fb9f6519f13d8d&hash=20737630D91B75D6AC3E24900EED55AC"
+    },
+    {
+      "title": "PDF rock dove conflict tip sheet - Riseup",
+      "url": "https://we.riseup.net/assets/5565/circle+process.pdf"
     }
   ],
-  "cooperative housing portland legal overview": [],
+  "cooperative housing portland legal overview": [
+    {
+      "title": "First phase of large affordable housing project gets... | Mainebiz.biz",
+      "url": "https://www.mainebiz.biz/article/first-phase-of-large-affordable-housing-project-gets-underway-in-portlands-north-deering"
+    },
+    {
+      "title": "Portland Trying to Make Abolition of Single-Family-Only Zoning Stick",
+      "url": "https://reason.com/2022/06/13/portland-legalized-missing-middle-housing-now-its-trying-to-make-it-easy-to-build/"
+    },
+    {
+      "title": "Libbytown complex with affordable housing wins approval",
+      "url": "https://www.pressherald.com/2022/05/30/libbytown-complex-with-affordable-housing-wins-approval/"
+    },
+    {
+      "title": "Portland housing market: Everything you need to know",
+      "url": "https://mortagely.com/portland-housing-market-everything-you-need-to-know/"
+    },
+    {
+      "title": "Apartments For Rent in Portland OR - 5820 Rentals | Zillow",
+      "url": "https://www.zillow.com/portland-or/apartments/"
+    }
+  ],
   "limited equity housing cooperative bylaws template": [
     {
-      "url": "https://www.theselc.org/templates",
-      "title": "Legal Templates - Sustainable Economies Law Center"
+      "title": "Legal Templates - Sustainable Economies Law Center",
+      "url": "https://www.theselc.org/templates"
     },
     {
-      "url": "https://www.nasco.coop/resources/bylaws",
-      "title": "Bylaws - NASCO"
+      "title": "Limited equity cooperatives - Local Housing Solutions",
+      "url": "https://www.localhousingsolutions.org/housing-policy-library/limited-equity-cooperatives/"
     },
     {
-      "url": "https://coophousing.org/bylaws/",
-      "title": "Bylaws - National Association of Housing Cooperatives"
+      "title": "Bylaws - NASCO",
+      "url": "https://www.nasco.coop/resources/bylaws"
+    },
+    {
+      "title": "PDF Limited Equity Housing Cooperative",
+      "url": "https://calalhfa.org/wp-content/uploads/2023/06/CCCD_Session.pdf"
+    },
+    {
+      "title": "Bylaws - National Association of Housing Cooperatives",
+      "url": "https://coophousing.org/bylaws/"
     }
   ],
   "oregon housing co-op statute cite": [
     {
-      "url": "https://oregon.public.law/statutes/ors_chapter_62",
-      "title": "ORS Chapter 62 - Cooperatives - OregonLaws"
+      "title": "ORS Chapter 62 - Cooperatives - OregonLaws",
+      "url": "https://oregon.public.law/statutes/ors_chapter_62"
     },
     {
-      "url": "https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx",
-      "title": "Bills and Laws Oregon Revised Statutes"
+      "title": "Bills and Laws Oregon Revised Statutes",
+      "url": "https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx"
     },
     {
-      "url": "https://ncbaclusa.coop/images/StateCooperativeStatutes/Oregon-General-Cooperative-Statutes.pdf",
-      "title": "PDF Oregon General Cooperative Statutes - NCBA CLUSA"
+      "title": "Key Housing Statutes and Legislation - Oregon.gov",
+      "url": "https://www.oregon.gov/lcd/Housing/Pages/Statutes-Legislation.aspx"
+    },
+    {
+      "title": "PDF Oregon General Cooperative Statutes - NCBA CLUSA",
+      "url": "https://ncbaclusa.coop/images/StateCooperativeStatutes/Oregon-General-Cooperative-Statutes.pdf"
+    },
+    {
+      "title": "Oregon Legislative Concepts for Cooperative Housing",
+      "url": "https://www.squareonevillages.org/single-post/oregon-legislative-concepts-for-cooperative-housing"
     }
   ],
   "community land trust vs co-op comparison": [
     {
-      "url": "https://www.bayareaclt.org/clts-vs-co-ops-resources",
-      "title": "CLTs vs. Co-ops Resources \u2014 Bay Area Community Land Trust"
+      "title": "CLTs vs. Co-ops Resources \u2014 Bay Area Community Land Trust",
+      "url": "https://www.bayareaclt.org/clts-vs-co-ops-resources"
     },
     {
-      "url": "https://dowidth.com/real-estate/housing-cooperatives-vs-community-land-trusts",
-      "title": "Community Land Trusts vs Housing Cooperatives in Real Estate"
+      "title": "Community Land Trusts vs Housing Cooperatives in Real Estate",
+      "url": "https://dowidth.com/real-estate/housing-cooperatives-vs-community-land-trusts"
     },
     {
-      "url": "https://www.womenspress.com/land-trusts-and-co-op-housing-building-better-neighborhoods/",
-      "title": "Land Trusts and Co-op Housing: Building Better Neighborhoods"
+      "title": "Land Trusts and Co-op Housing: Building Better Neighborhoods",
+      "url": "https://www.womenspress.com/land-trusts-and-co-op-housing-building-better-neighborhoods/"
     },
     {
-      "url": "https://shelterforce.org/2021/08/03/cooperatives-and-community-land-trusts-natural-partners/",
-      "title": "Cooperatives and Community Land Trusts: Natural Partners? Limited Equity Co-ops by Community Land Trusts Limited Equity Co-ops and Community Land Trusts Community Land Trusts Explained: Benefits, Drawbacks, and ..."
+      "title": "Cooperatives and Community Land Trusts: Natural Partners? Limited Equity Co-ops by Community Land Trusts Limited Equity Co-ops and Community Land Trusts Community Land Trusts Explained: Benefits, Drawbacks, and ...",
+      "url": "https://shelterforce.org/2021/08/03/cooperatives-and-community-land-trusts-natural-partners/"
     },
     {
-      "url": "https://groundedsolutions.org/wp-content/uploads/2018-11/Limited+Equity+Co-ops+by+Community+Land+Trusts.pdf",
-      "title": "Limited Equity Co-ops by Community Land Trusts"
+      "title": "Limited Equity Co-ops by Community Land Trusts",
+      "url": "https://groundedsolutions.org/wp-content/uploads/2018-11/Limited+Equity+Co-ops+by+Community+Land+Trusts.pdf"
     }
   ],
   "consent decision making sociocracy cheat sheet": [
     {
-      "url": "https://patterns.sociocracy30.org/consent-decision-making.html",
-      "title": "Consent Decision - Making"
+      "title": "Consent Decision - Making",
+      "url": "https://patterns.sociocracy30.org/consent-decision-making.html"
     },
     {
-      "url": "https://www.sociocracyforall.org/consent-decision-making/",
-      "title": "Consent Decision Making - Sociocracy For All"
+      "title": "Consent Decision Making - Sociocracy For All",
+      "url": "https://www.sociocracyforall.org/consent-decision-making/"
     },
     {
-      "url": "https://enliveningedge.org/tools-practices/3-tools-sociocracy-use-right-away-plus-magic-phrases-part-3-consent-decision-making/",
-      "title": "3 tools from sociocracy : consent decision - making process"
+      "title": "Sociocracy : Consent Decision - Making Zones",
+      "url": "https://www.linkedin.com/pulse/sociocracy-consent-decision-making-zones-adrian-zarif-ybgxf"
+    },
+    {
+      "title": "3 tools from sociocracy : consent decision - making process",
+      "url": "https://enliveningedge.org/tools-practices/3-tools-sociocracy-use-right-away-plus-magic-phrases-part-3-consent-decision-making/"
+    },
+    {
+      "title": "How Consent -Based Decision - Making Works",
+      "url": "https://www.talkspirit.com/blog/how-consent-based-decision-making-works"
     }
   ],
   "facilitation methods inclusive meetings small groups": [
     {
-      "url": "https://meetingcalc.com/inclusive-meetings",
-      "title": "Inclusive Meeting Guide | Diversity & Inclusion Best Practices ..."
+      "title": "Inclusive Meeting Guide | Diversity & Inclusion Best Practices ...",
+      "url": "https://meetingcalc.com/inclusive-meetings"
     },
     {
-      "url": "https://commonslibrary.org/facilitating-meetings-a-guide-to-making-your-meetings-effective-inclusive-and-enjoyable/",
-      "title": "Facilitating Meetings: A Guide to Making your Meetings Effective ..."
+      "title": "Facilitating Meetings: A Guide to Making your Meetings Effective ...",
+      "url": "https://commonslibrary.org/facilitating-meetings-a-guide-to-making-your-meetings-effective-inclusive-and-enjoyable/"
     },
     {
-      "url": "https://langevin.com/inclusive-facilitation-making-space-for-every-voice/",
-      "title": "Inclusive Facilitation: Making Space for Every Voice"
+      "title": "Inclusive Facilitation: Making Space for Every Voice",
+      "url": "https://langevin.com/inclusive-facilitation-making-space-for-every-voice/"
     },
     {
-      "url": "https://www.developmentwithoutlimits.org/news/2023/12/13/8-facilitation-strategies-for-small-groups",
-      "title": "8 Facilitation Strategies for Small Groups - Development Without Limits"
+      "title": "8 Facilitation Strategies for Small Groups - Development Without Limits",
+      "url": "https://www.developmentwithoutlimits.org/news/2023/12/13/8-facilitation-strategies-for-small-groups"
     },
     {
-      "url": "https://content.sph.harvard.edu/wwwhsph/sites/2597/2021/08/Inclusive-Meeting-Guide-small-scale_ODIBcouncil.pdf",
-      "title": "PDF Inclusive Meeting Guide small scale Draft 3"
+      "title": "PDF Inclusive Meeting Guide small scale Draft 3",
+      "url": "https://content.sph.harvard.edu/wwwhsph/sites/2597/2021/08/Inclusive-Meeting-Guide-small-scale_ODIBcouncil.pdf"
     }
   ],
   "tool library software open source": [
     {
-      "url": "https://github.com/openitu/STL",
-      "title": "GitHub - openitu/STL: The ITU-T Software Tool Library (G.191)"
+      "title": "List of PDF software - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_PDF_software"
+    },
+    {
+      "title": "8 Open Source Tools Every Developer Should... - DEV Community",
+      "url": "https://dev.to/anthonymax/8-open-source-tools-every-developer-should-know-jk0"
+    },
+    {
+      "title": "GitHub - openitu/STL: The ITU-T Software Tool Library (G.191)",
+      "url": "https://github.com/openitu/STL"
+    },
+    {
+      "title": "Why libraries are intrinsically open and should... | Opensource .com",
+      "url": "https://opensource.com/education/13/2/open-source-libraries"
+    },
+    {
+      "title": "Open Source Windows Software | AlternativeTo",
+      "url": "https://alternativeto.net/platform/windows/?license=opensource"
     }
   ],
   "barcode inventory diy raspberry pi": [
     {
-      "url": "https://raspians.com/how-to-set-up-and-use-raspberry-pi-barcode-scanner/",
-      "title": "How to Set Up And Use Raspberry Pi Barcode Scanner ryanthackston/Simple-Inventory-Management-System-by-Barcode ... How To Set Up A Raspberry Pi-powered Spirit Inventory Tracker ... Build Your Own Barcode Scanner with Raspberry Pi \u2013 A DIY ... Building Your Own Raspberry Pi Handheld Barcode Scanner: A ... How to Set Up And Use Raspberry Pi Barcode Scanner Raspberry Pi Barcode Scanner in Python: Steps and Products Python Barcode Generator | Create Barcode in Python - Aspose Blog Raspberry Pi Barcode Scanner - RTscan Build Your Own Barcode System with Raspberry Pi Best Barcode Inventory Apps - Find Barcode Inventory Apps Inventory App to Exact Needs - Free, Fast, Starter Templates"
+      "title": "Best Barcode Inventory Apps - Find Barcode Inventory Apps",
+      "url": "https://www.bing.com/aclick?ld=e8IR9yqcyLNkr9jClmlwj9RTVUCUx6LhlvcTxpxPV0waFvkz_VUsyWi3NF3ytQCGwsA-ZXfav0Lr660_-7iEsw4lILOW3cZgQpdAiyPYzXUEo_9k-1KayOSLcD6d_Iyr_0D_8AUD3j6uIxHeMkjrT_JoCFeY9K1Vfhdb7XQERV-lMTUufR7iuQKBhjrm0I6V4e0Kh5MM8Q58Phiuo3o_ha2pbIy0g&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2FwdGVycmEuY29tJTJmbXNuY2xpY2slM2Z1cmwlM2RpbnZlbnRvcnktbWFuYWdlbWVudC1zb2Z0d2FyZSUyNmhlYWRsaW5lJTNkQmFyY29kZSUyNTIwSW52ZW50b3J5JTI1MjBBcHBsaWNhdGlvbnMlMjZjb21wYXJlX3NscCUzZHRydWUlMjZwdHlwZSUzZGJpbmclMjZhY2NvdW50X2NhbXBhaWduX2lkJTNkNjk4MTM2MTY2JTI2YWNjb3VudF9hZGdyb3VwX2lkJTNkMTI1MTI0NTUzNDYyNjM5MiUyNnRhcmdldCUzZGludmVudG9yeSUyNTIwcmVjb3JkJTI1MjBzeXN0ZW0lMjZhZF9pZCUzZCUyNm1hdGNodHlwZSUzZHAlMjZ1dG1fc291cmNlJTNkcHMtYmluZyUyNnV0bV9tZWRpdW0lM2RwcGMlMjZ1dG1fY2FtcGFpZ24lM2QlM2ExJTNhQ0FQJTNhMiUzYUNPTSUzYTMlM2FBbGwlM2E0JTNhVVMlM2E1JTNhQkFVJTNhNiUzYVNPRiUzYTclM2FEZXNrdG9wJTNhOCUzYUJSJTNhOSUzYUludmVudG9yeV9NYW5hZ2VtZW50JTI2bmV0d29yayUzZG8lMjZtc2Nsa2lkJTNkZjA4MWI2MmM4YWRmMWYzNzVlNzRkZjZkNmQ5YzhmMmU&rlid=f081b62c8adf1f375e74df6d6d9c8f2e"
     },
     {
-      "url": "https://github.com/ryanthackston/Simple-Inventory-Management-System-by-Barcode-Scanner",
-      "title": "ryanthackston/Simple-Inventory-Management-System-by-Barcode ..."
+      "title": "Inventory App to Exact Needs - Free, Fast, Starter Templates",
+      "url": "https://www.bing.com/aclick?ld=e8NKv7KvQsXAx6-g6fHQ0zaTVUCUyTn0ja3rZaLsRN6vw16qAYnzbUqdjjDr5zKfKYiEZCskkSiDEUBzr5NLYwcbHYyy5Oere9loc1sQO_z2KmYUXC2aNUkqWi0jDwT-R_gflBKdmLdRL5ZmRvx4-wKFfwtKf_vZphhdvTAXJwLaowdAzi5uxKwZAHyF07d85E6ACiEzpnL390S8pNzn3fbUZFWgg&u=aHR0cHMlM2ElMmYlMmZnby5jYXNwaW8uY29tJTJmaW52ZW50b3J5LW1hbmFnZW1lbnQtcGxhdGZvcm0lM2Ztc2Nsa2lkJTNkNGI4MDE5OTMyNDljMWU1ZmViNjk3MGQyYzNkZjEwNDAlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RNU0ZUJTI1MjAtJTI1MjBBMSUyNTIwLSUyNTIwU2VhcmNoJTI1MjAtJTI1MjBVUyUyNTIwKE1BSU4pJTI2dXRtX3Rlcm0lM2RESVklMjUyMGludmVudG9yeSUyNTIwbWFuYWdlbWVudCUyNTIwc3lzdGVtJTI2dXRtX2NvbnRlbnQlM2RVc2UlMjUyMENhc2UlMjUyMC0lMjUyMEludmVudG9yeSUyNTIwTWFuYWdlbWVudA&rlid=4b801993249c1e5feb6970d2c3df1040"
     },
     {
-      "url": "https://www.alibaba.com/product-insights/how-to-set-up-a-raspberry-pi-powered-spirit-inventory-tracker-with-barcode-scanning.html",
-      "title": "How To Set Up A Raspberry Pi-powered Spirit Inventory Tracker ..."
+      "title": "How to Set Up And Use Raspberry Pi Barcode Scanner ryanthackston/Simple-Inventory-Management-System-by-Barcode ... How To Set Up A Raspberry Pi-powered Spirit Inventory Tracker ... Build Your Own Barcode Scanner with Raspberry Pi \u2013 A DIY ... Building Your Own Raspberry Pi Handheld Barcode Scanner: A ... How to Set Up And Use Raspberry Pi Barcode Scanner Raspberry Pi Barcode Scanner in Python: Steps and Products Python Barcode Generator | Create Barcode in Python - Aspose Blog Raspberry Pi Barcode Scanner - RTscan Build Your Own Barcode System with Raspberry Pi Best Barcode Inventory Apps - Find Barcode Inventory Apps Inventory App to Exact Needs - Free, Fast, Starter Templates",
+      "url": "https://raspians.com/how-to-set-up-and-use-raspberry-pi-barcode-scanner/"
+    },
+    {
+      "title": "ryanthackston/Simple-Inventory-Management-System-by-Barcode ...",
+      "url": "https://github.com/ryanthackston/Simple-Inventory-Management-System-by-Barcode-Scanner"
+    },
+    {
+      "title": "How To Set Up A Raspberry Pi-powered Spirit Inventory Tracker ...",
+      "url": "https://www.alibaba.com/product-insights/how-to-set-up-a-raspberry-pi-powered-spirit-inventory-tracker-with-barcode-scanning.html"
     }
   ],
   "repair log template spreadsheet tools": [
     {
-      "url": "https://www.excelstemplates.com/maintenance-and-repair-log-template",
-      "title": "Maintenance And Repair Log Template | 11+ Free Docs, Xlsx & PDF..."
+      "title": "Maintenance And Repair Log Template | 11+ Free Docs, Xlsx & PDF...",
+      "url": "https://www.excelstemplates.com/maintenance-and-repair-log-template"
     },
     {
-      "url": "https://www.xltemplates.org/maintenance-and-repair-log/",
-      "title": "Maintenance and Repair Log Template for Excel | Download"
+      "title": "Maintenance and Repair Log Template for Excel | Download",
+      "url": "https://www.xltemplates.org/maintenance-and-repair-log/"
     },
     {
-      "url": "https://www.vertex42.com/ExcelTemplates/vehicle-maintenance-log.html",
-      "title": "Free Vehicle Maintenance Log Template for Excel"
+      "title": "Free Vehicle Maintenance Log Template for Excel",
+      "url": "https://www.vertex42.com/ExcelTemplates/vehicle-maintenance-log.html"
     },
     {
-      "url": "https://www.fleetio.com/tools/fleet-maintenance-spreadsheet",
-      "title": "Fleet Maintenance Spreadsheet Template (Free Download)"
+      "title": "Tractor Maintenance Log Template Excel",
+      "url": "https://www.pinterest.com/ideas/tractor-maintenance-log-template-excel/938248036419/"
+    },
+    {
+      "title": "Fleet Maintenance Spreadsheet Template (Free Download)",
+      "url": "https://www.fleetio.com/tools/fleet-maintenance-spreadsheet"
     }
   ],
   "bike workshop parts list basic tune up": [
     {
-      "url": "https://bikingbro.com/diy-bike-tune-up/",
-      "title": "The Complete DIY Bike Tune Up Guide (+ a Handy Checklist)"
+      "title": "The Complete DIY Bike Tune Up Guide (+ a Handy Checklist)",
+      "url": "https://bikingbro.com/diy-bike-tune-up/"
     },
     {
-      "url": "https://bikebesties.com/basic-bike-tune-up/",
-      "title": "Basic Bike Tune Up: Step-by-Step Guide to DIY Maintenance"
+      "title": "Basic Bike Tune Up: Step-by-Step Guide to DIY Maintenance",
+      "url": "https://bikebesties.com/basic-bike-tune-up/"
     },
     {
-      "url": "https://www.rei.com/learn/expert-advice/bike-maintenance.html",
-      "title": "Bike Maintenance: 101 Basics Guide | REI Expert Advice"
+      "title": "Bike Maintenance: 101 Basics Guide | REI Expert Advice",
+      "url": "https://www.rei.com/learn/expert-advice/bike-maintenance.html"
     },
     {
-      "url": "https://www.reddit.com/r/bikewrench/comments/11v2i6b/what_goes_into_a_basic_tuneupsafety_check_for/",
-      "title": "what goes into a basic tuneup/safety check for bikes?"
+      "title": "what goes into a basic tuneup/safety check for bikes?",
+      "url": "https://www.reddit.com/r/bikewrench/comments/11v2i6b/what_goes_into_a_basic_tuneupsafety_check_for/"
     },
     {
-      "url": "https://www.bicyclebluebook.com/articles/bike-tune-up-check-list/?viewport=desktop",
-      "title": "Bike Tune-Up Checklist: How to Tune Up Your Road or Mountain Bike"
+      "title": "Bike Tune-Up Checklist: How to Tune Up Your Road or Mountain Bike",
+      "url": "https://www.bicyclebluebook.com/articles/bike-tune-up-check-list/?viewport=desktop"
     }
   ],
   "arduino soil moisture sensor low power build": [
     {
-      "url": "https://electronics.stackexchange.com/questions/585236/soil-moisture-sensor-power-issues",
-      "title": "arduino - Soil Moisture Sensor Power Issues - Electrical Engineering..."
+      "title": "arduino - Soil Moisture Sensor Power Issues - Electrical Engineering...",
+      "url": "https://electronics.stackexchange.com/questions/585236/soil-moisture-sensor-power-issues"
     },
     {
-      "url": "https://circuitdigest.com/microcontroller-projects/interfacing-soil-moisture-sensor-with-arduino-uno",
-      "title": "Soil Moisture Sensor Arduino : Circuit Diagram, Code & Projects Guide"
+      "title": "Soil Moisture Sensor Arduino : Circuit Diagram, Code & Projects Guide",
+      "url": "https://circuitdigest.com/microcontroller-projects/interfacing-soil-moisture-sensor-with-arduino-uno"
     },
     {
-      "url": "https://engineeringfactsz.com/build-a-soil-moisture-sensor-with-arduino/",
-      "title": "Build a Soil Moisture Sensor With Arduino | Complete Guide"
+      "title": "Build a Soil Moisture Sensor With Arduino | Complete Guide",
+      "url": "https://engineeringfactsz.com/build-a-soil-moisture-sensor-with-arduino/"
     },
     {
-      "url": "https://arduinogetstarted.com/tutorials/arduino-soil-moisture-sensor",
-      "title": "Arduino - Soil Moisture Sensor | Arduino Tutorial"
+      "title": "Arduino - Soil Moisture Sensor | Arduino Tutorial",
+      "url": "https://arduinogetstarted.com/tutorials/arduino-soil-moisture-sensor"
+    },
+    {
+      "title": "DIY Soil Moisture Monitor With Arduino and a Nokia... - Instructables",
+      "url": "https://www.instructables.com/DIY-Soil-Moisture-Monitor-With-Nokia-5110-Display/"
     }
   ],
   "capacitive soil sensor vs resistive accuracy": [
     {
-      "url": "https://elecsynergy.com/resistive-vs-capacitive-soil-moisture-sensor/",
-      "title": "Resistive vs. Capacitive Soil Moisture Sensor \u2013 Which One ..."
+      "title": "Soil Water Potential Sensor - TEROS 22 | METER Group",
+      "url": "https://www.bing.com/aclick?ld=e8ufVGeFeXJRkoslfNX1izujVUCUyL4iY9gAElJt8HlNTOCpH-NO5xUeC8vdp639zSABrKHpB4txbrwvrZQ1YQN7pcIRR9d3kES022Qo2J-xNzZjLrGOnqKj_GIsbjPHQL3vhwQiBqNVbPyq3jy4K410mfjoH97HTp4SAaE8CwSsUIlEWjk4dbNMA0tcll9vb-AgB4qiuB9boVm8bQrWcxgLSoCPk&u=aHR0cHMlM2ElMmYlMmZtZXRlcmdyb3VwLmNvbSUyZnByb2R1Y3RzJTJmdGVyb3MtMjIlMmYlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2R0ZXJvcy0yMiUyNnV0bV9jb250ZW50JTNkZXZlcmdyZWVuJTI2bXNjbGtpZCUzZDNiODRkYTZlYjg5MTEzNGFiZWRjYjMyZjVmZDc4M2JiJTI2dXRtX3Rlcm0lM2RhZ3JpY3VsdHVyYWwlMjUyMHNlbnNvcg&rlid=3b84da6eb891134abedcb32f5fd783bb"
     },
     {
-      "url": "https://www.niubol.com/Product-knowledge/capacitive-vs-resistive-soil-moisture-sensor.html",
-      "title": "Capacitive vs resistive soil moisture sensor - niubol.com"
+      "title": "Resistive vs. Capacitive Soil Moisture Sensor \u2013 Which One ...",
+      "url": "https://elecsynergy.com/resistive-vs-capacitive-soil-moisture-sensor/"
     },
     {
-      "url": "https://www.hackster.io/devashish-gupta/capacitive-v-s-resistive-soil-moisture-sensor-e241f2",
-      "title": "Capacitive v/s Resistive Soil Moisture Sensor - Hackster.io Comparative Analysis and Calibration of Low Cost Resistive ... Assessment of Low-Cost and Higher-End Soil Moisture Sensors ... Soil moisture sensors\u2014How they work. Why some are not ... Recalibration and performance comparison of soil moisture ..."
+      "title": "Capacitive vs resistive soil moisture sensor - niubol.com",
+      "url": "https://www.niubol.com/Product-knowledge/capacitive-vs-resistive-soil-moisture-sensor.html"
+    },
+    {
+      "title": "Capacitive v/s Resistive Soil Moisture Sensor - Hackster.io Comparative Analysis and Calibration of Low Cost Resistive ... Assessment of Low-Cost and Higher-End Soil Moisture Sensors ... Soil moisture sensors\u2014How they work. Why some are not ... Recalibration and performance comparison of soil moisture ...",
+      "url": "https://www.hackster.io/devashish-gupta/capacitive-v-s-resistive-soil-moisture-sensor-e241f2"
+    },
+    {
+      "title": "Comparative Analysis and Calibration of Low Cost Resistive ...",
+      "url": "https://arxiv.org/pdf/2210.03019v1"
     }
   ],
   "weatherproof enclosure ip rating explained": [
     {
-      "url": "https://www.nemaenclosures.com/blog/ingress-protection-ratings/",
-      "title": "IP Ratings Explained - What Are IP Ratings? | NEMA Enclosures"
+      "title": "IP Ratings Explained - What Are IP Ratings? | NEMA Enclosures",
+      "url": "https://www.nemaenclosures.com/blog/ingress-protection-ratings/"
     },
     {
-      "url": "https://www.eabel.com/what-is-the-ip-rating-for-a-weatherproof-enclosure/",
-      "title": "What is the IP Rating for a weatherproof enclosure? - E-Abel"
+      "title": "What is the IP Rating for a weatherproof enclosure? - E-Abel",
+      "url": "https://www.eabel.com/what-is-the-ip-rating-for-a-weatherproof-enclosure/"
     },
     {
-      "url": "https://indexenclosures.com/ip-ratings-guide/",
-      "title": "IP Ratings \u2013 A Comprehensive Guide"
+      "title": "IP Ratings \u2013 A Comprehensive Guide",
+      "url": "https://indexenclosures.com/ip-ratings-guide/"
     },
     {
-      "url": "https://rainfordsolutions.com/wp-content/uploads/2023/03/RS033-Guide-IP-Ratings-Explained-v1.1_Web.pdf",
-      "title": "A GUIDE TO INGRESS PROTECTION RATINGS FOR OUTDOOR ENCLOSURES"
+      "title": "A GUIDE TO INGRESS PROTECTION RATINGS FOR OUTDOOR ENCLOSURES",
+      "url": "https://rainfordsolutions.com/wp-content/uploads/2023/03/RS033-Guide-IP-Ratings-Explained-v1.1_Web.pdf"
     },
     {
-      "url": "https://www.iec.ch/ip-ratings",
-      "title": "Ingress Protection (IP) ratings"
+      "title": "Ingress Protection (IP) ratings",
+      "url": "https://www.iec.ch/ip-ratings"
     }
   ],
   "solar power 5v microcontroller sizing calculator": [
     {
-      "url": "https://solarmathlab.com/content/builder/full-off-grid-system-sizing-calculator.html",
-      "title": "Full Off-Grid System Sizing Calculator | SolarMathLab"
+      "title": "Calculate Solar Panel Savings - Solar Calculator",
+      "url": "https://www.bing.com/aclick?ld=e8SrgkbrnaM95kBQtD-EIETTVUCUwfpzSnHXz9k1MHOOPv9Q1JnkCR-1nxrJltDg4WkdGrmAmPeG-zaL4V20vwEDUlKj-u9Wv_tSRmlWLyDdHWhGXbxOgr1z5HisEVvKcJYssxOni5OnWffKZOpyUHj2EqI4ezOCjeylIVUOLcLV6-fIoD9YruMaw0IlQLdMWSVAN3wcF4Nstyb32wm5myqyCdzvM&u=aHR0cHMlM2ElMmYlMmZ3d3cucmV2aXNpb25lbmVyZ3kuY29tJTJmc29sYXItaW5mb3JtYXRpb24lMmZzb2xhci1yZXNvdXJjZXMlMmZzb2xhci1jYWxjdWxhdG9yJTNmdXRtX3Rlcm0lM2RjYWxjdWxhdGUlMjUyMHNvbGFyJTI2dXRtX2NhbXBhaWduJTNkc2VhcmNoX25oX3NvbGFyX21pY3Jvc29mdCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jb250ZW50JTNkZTVhOWU0YjYtNmE2Ni1lYjExLWE4MTItMDAwZDNhNTNlYTM3JTI2bXNjbGtpZCUzZGUwYWU0MzdiMDFkMjFjYzA2MmQ2MmEzYWU2OWFjYzVl&rlid=e0ae437b01d21cc062d62a3ae69acc5e"
     },
     {
-      "url": "https://explorist.life/solar-charge-controller-calculator/",
-      "title": "Solar Charge Controller Calculator - EXPLORIST.life"
+      "title": "Use This Solar Calculator - Try Our Free Solar Calculator",
+      "url": "https://www.bing.com/aclick?ld=e8iSD38Vv9vpdm7JmCqtRMGjVUCUzDkpFxfrqKfI9JBy11C2rIjD1TmBv2Oy7qSXjkgU0H05Tzw25PgjgG2rec_V9Lk8YfAe4PIFBv3WnDYvFiMTaUgtF39bFCErm15V7mP-hNFsP-CCUSnlN-jJngffiPYS7JP9XSkWoslMiojqX6al1nzdR2tOOzD4Tfc0WsRTro1HYifaOIZY9xpY7MWASjTGE&u=aHR0cHMlM2ElMmYlMmZ3d3cuZW5lcmd5YmlsbGNydW5jaGVyLmNvbSUyZmxhJTJmJTNmdGdfcmVmJTNkNjYzNTY1MjAxJTI2Y2FtcF9pZCUzZDEyMzY5NTE4Nzc5NzAwNDMlMjZrZXl3b3JkJTNkc29sYXIlMjUyMHBvd2VyJTI1MjBzeXN0ZW0lMjZzdWIyJTNkJTI2Z2NhbXBpZCUzZDY2MzU2NTIwMSUyNmZlZWRpdGVtaWQlM2QlMjZ0YXJnZXRpZCUzZGt3ZC03NzMwOTkzNDcyMTk2MCUzYWxvYy00MTEyJTI2bG9jX2ludGVyZXN0X21zJTNkJTI2bG9jX3BoeXNpY2FsX21zJTNkNTgxNjIlMjZtYXRjaHR5cGUlM2RwJTI2bmV0d29yayUzZG8lMjZkZXZpY2UlM2RjJTI2ZGV2aWNlbW9kZWwlM2QlMjZwbGFjZW1lbnQlM2QlMjZhZHBvc2l0aW9uJTNkJTI2dGFyZ2V0JTNkJTI2cGFnX3JlZiUzZGdlbl9uYSUyNnRnX3JlZiUzZDY2MzU2NTIwMSUyNm1zY2xraWQlM2RiMmM3NTM3NzA2NjkxMWU0MzI4YjNhMzZlMTIxYWVlZiUyNmNhbXBfaWQlM2QxMjM2OTUxODc3OTcwMDQzJTI2a2V5d29yZCUzZHNvbGFyJTI1MjBwb3dlciUyNTIwc3lzdGVtJTI2c3ViMiUzZDc3MzA5NjM0MDM2NTI3JTI2bWNhbXBpZCUzZDY2MzU2NTIwMSUyNm9yZGVyaXRlbWlkJTNkNzczMDk5MzQ3MjE5NjAlMjZ0YXJnZXRpZCUzZGt3ZC03NzMwOTkzNDcyMTk2MCUzYWxvYy00MTEyJTI2bWF0Y2h0eXBlJTNkcCUyNmJtYXRjaHR5cGUlM2RiYiUyNm5ldHdvcmslM2RvJTI2ZGV2aWNlJTNkYyUyNmZlZWRpdGVtaWQlM2QlMjZsb2NfaW50ZXJlc3RfbXMlM2QlMjZsb2NfcGh5c2ljYWxfbXMlM2Q1ODE2MiUyNnF1ZXJ5c3RyaW5nJTNkc29sYXIlMjUyMHBvd2VyJTI1MjA1diUyNTIwbWljcm9jb250cm9sbGVyJTI1MjBzaXppbmclMjUyMGNhbGN1bGF0b3IlMjZvcmRlcml0ZW1pZCUzZDc3MzA5OTM0NzIxOTYwJTI2dGFjdGljJTNkc2VhcmNo&rlid=b2c75377066911e4328b3a36e121aeef"
+    },
+    {
+      "title": "PVcase: Solar PV Design Tool - Shade Free Layouts",
+      "url": "https://www.bing.com/aclick?ld=e8t7U6n1JZyUDeLSQ9nkplSjVUCUzfqfftjEsqv13W-wWPFqI0fGUAt_9vJRAZgepV05hNWbbUJZAykVCgwgGC5nJA55wb3zOJVJhHU0HpEak130JCwDMMCBvsD_DVLrdxBnQDqegggAh8X0lN0qxW1Sv8WWYjYvuCwqUkBCunwvC-4aoNsVOIVqaQ6uMvEbgURKRMAhUmHhe_yGbqN6um1ljk0eU&u=aHR0cHMlM2ElMmYlMmZnZXQucHZjYXNlLmNvbSUyZnB2Y2FzZS1nbSUyZiUzZnV0bV9jYW1wYWlnbiUzZDQuMF9CX1NfSW5kdXN0cnlfVVNfTEclMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fa2V5d29yZCUzZHNvbGFyJTI1MjBwb3dlciUyNTIwY2FsY3VsYXRvciUyNnV0bV90ZXJtJTNkc29sYXIlMjUyMHBvd2VyJTI1MjBjYWxjdWxhdG9yJTI2dXRtX2NhbXBhaWduJTNkNC4wX0dfU19JbmR1c3RyeV9VU19MRyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNmhzYV9hY2MlM2Q3MzU2MTgyOTk0JTI2aHNhX2NhbSUzZDIwMjE4OTgzMTEwJTI2aHNhX2dycCUzZDEzMzcwMDg1MTAzODkxMjYlMjZoc2FfYWQlM2QlMjZoc2Ffc3JjJTNkbyUyNmhzYV90Z3QlM2Rrd2QtODM1NjQxODkzMDYyNjIlM2Fsb2MtMTkwJTI2aHNhX2t3JTNkc29sYXIlMjUyMHBvd2VyJTI1MjBjYWxjdWxhdG9yJTI2aHNhX210JTNkcCUyNmhzYV9uZXQlM2RhZHdvcmRzJTI2aHNhX3ZlciUzZDMlMjZtc2Nsa2lkJTNkZGY5NTNhNWExMzBjMWI3MTYyZDQ1MzFiZjQ0NDZkNzE&rlid=df953a5a130c1b7162d4531bf4446d71"
+    },
+    {
+      "title": "Full Off-Grid System Sizing Calculator | SolarMathLab",
+      "url": "https://solarmathlab.com/content/builder/full-off-grid-system-sizing-calculator.html"
+    },
+    {
+      "title": "Solar Charge Controller Calculator - EXPLORIST.life",
+      "url": "https://explorist.life/solar-charge-controller-calculator/"
     }
   ],
   "lora range urban garden use case": [
     {
-      "url": "https://www.hexnut.net/2016/02/lora-range-experiments-urban-test.html",
-      "title": "LoRa range experiments Urban test"
+      "title": "LoRa - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/LoRa"
     },
     {
-      "url": "https://scisimple.com/en/articles/2025-04-24-revolutionizing-urban-gardening-with-tinyml-and-lora--a3oq21w",
-      "title": "Revolutionizing Urban Gardening with TinyML and LoRa"
+      "title": "LoRa \u2014 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f",
+      "url": "https://ru.wikipedia.org/wiki/LoRa"
+    },
+    {
+      "title": "LoRa range experiments Urban test",
+      "url": "https://www.hexnut.net/2016/02/lora-range-experiments-urban-test.html"
+    },
+    {
+      "title": "Revolutionizing Urban Gardening with TinyML and LoRa",
+      "url": "https://scisimple.com/en/articles/2025-04-24-revolutionizing-urban-gardening-with-tinyml-and-lora--a3oq21w"
+    },
+    {
+      "title": "LoRa Module VS nRF24 VS Generic RF Module || Range ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=nP6YuwNVoPU"
     }
   ],
   "esp32 deep sleep example battery life": [
     {
-      "url": "https://microcontrollerslab.com/esp32-deep-sleep-wake-up-sources-arduino-ide/",
-      "title": "ESP 32 Deep Sleep and Wake Up Sources Examples using Arduino IDE"
+      "title": "ESP 32 Deep Sleep and Wake Up Sources Examples using Arduino IDE",
+      "url": "https://microcontrollerslab.com/esp32-deep-sleep-wake-up-sources-arduino-ide/"
     },
     {
-      "url": "https://www.hackster.io/nickthegreek82/esp32-deep-sleep-tutorial-4398a7",
-      "title": "ESP 32 Deep Sleep Tutorial - Hackster.io"
+      "title": "ESP 32 Deep Sleep Tutorial - Hackster.io",
+      "url": "https://www.hackster.io/nickthegreek82/esp32-deep-sleep-tutorial-4398a7"
     },
     {
-      "url": "https://randomnerdtutorials.com/esp32-deep-sleep-arduino-ide-wake-up-sources/",
-      "title": "ESP 32 Deep Sleep with Arduino IDE and... | Random Nerd Tutorials"
+      "title": "ESP 32 Deep Sleep with Arduino IDE and... | Random Nerd Tutorials",
+      "url": "https://randomnerdtutorials.com/esp32-deep-sleep-arduino-ide-wake-up-sources/"
     },
     {
-      "url": "https://www.engineersgarage.com/micropython-esp32-modem-light-deep-sleep-modes-timer-external-touch-wake-up/",
-      "title": "How to use ESP 32 's sleep and wake-up modes in MicroPython"
+      "title": "How to use ESP 32 's sleep and wake-up modes in MicroPython",
+      "url": "https://www.engineersgarage.com/micropython-esp32-modem-light-deep-sleep-modes-timer-external-touch-wake-up/"
     },
     {
-      "url": "https://arduinokitproject.com/esp32-deep-sleep-wakeup-sources/",
-      "title": "Maximizing Power Efficiency: ESP 32 Deep Sleep Explained"
+      "title": "Maximizing Power Efficiency: ESP 32 Deep Sleep Explained",
+      "url": "https://arduinokitproject.com/esp32-deep-sleep-wakeup-sources/"
     }
   ],
   "ota firmware update arduino safe rollout": [
     {
-      "url": "https://memfault.com/blog/ota-update-checklist-for-embedded-devices/",
-      "title": "OTA Update Checklist for Embedded Devices | Secure Rollout Guide"
+      "title": "OTA Update Checklist for Embedded Devices | Secure Rollout Guide",
+      "url": "https://memfault.com/blog/ota-update-checklist-for-embedded-devices/"
     },
     {
-      "url": "https://myembeddedsystems.com/how-to-tutorials/how-to-implement-secure-ota-firmware-updates-on-esp32-with-arduino-ide/",
-      "title": "How to Implement Secure OTA Firmware Updates on ESP32 with ..."
+      "title": "ESP32 OTA Updates: A Complete Guide to ArduinoOTA and ...",
+      "url": "https://www.sunfounder.com/blogs/news/esp32-ota-updates-a-complete-guide-to-arduinoota-and-elegantota-firmware-upgrades"
     },
     {
-      "url": "https://www.sunfounder.com/blogs/news/esp32-ota-updates-a-complete-guide-to-arduinoota-and-elegantota-firmware-upgrades",
-      "title": "ESP32 OTA Updates: A Complete Guide to ArduinoOTA and ..."
+      "title": "Why do OTA updates matter in IoT? - Arduino Blog",
+      "url": "https://blog.arduino.cc/2024/06/13/why-do-ota-updates-matter-in-iot/"
     },
     {
-      "url": "https://www.compilenrun.com/docs/iot/arduino/arduino-iot/arduino-over-the-air-updates/",
-      "title": "Arduino Over-the-Air Updates - Compile N Run"
+      "title": "Arduino Over-the-Air Updates - Compile N Run",
+      "url": "https://www.compilenrun.com/docs/iot/arduino/arduino-iot/arduino-over-the-air-updates/"
+    },
+    {
+      "title": "How to Implement Secure OTA Firmware Updates on ESP32 with ...",
+      "url": "https://myembeddedsystems.com/how-to-tutorials/how-to-implement-secure-ota-firmware-updates-on-esp32-with-arduino-ide/"
     }
   ],
   "calibrating soil moisture sensor potting mix": [
     {
-      "url": "https://www.academia.edu/27528178/Soil_moisture_sensor_calibration_for_organic_soil_surface_layers",
-      "title": "Soil moisture sensor calibration for organic soil surface layers"
+      "title": "Soil moisture sensor calibration for organic soil surface layers",
+      "url": "https://gi.copernicus.org/articles/5/109/2016/gi-5-109-2016.pdf"
     },
     {
-      "url": "https://www.academia.edu/27528178/Soil_moisture_sensor_calibration_for_organic_soil_surface_layers",
-      "title": "Soil moisture sensor calibration for organic soil surface layers"
+      "title": "Soil moisture sensor calibration for organic soil surface layers",
+      "url": "https://www.academia.edu/27528178/Soil_moisture_sensor_calibration_for_organic_soil_surface_layers"
     },
     {
-      "url": "https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino",
-      "title": "Capacitive Soil Moisture Sensor Calibration with Arduino \u2014 Maker..."
+      "title": "Capacitive Soil Moisture Sensor Calibration with Arduino \u2014 Maker...",
+      "url": "https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino"
     },
     {
-      "url": "https://www.researchgate.net/publication/301739336_Soil_moisture_sensor_calibration_for_organic_soil_surface_layers",
-      "title": "(PDF) Soil moisture sensor calibration for organic soil surface layers"
+      "title": "(PDF) Soil moisture sensor calibration for organic soil surface layers",
+      "url": "https://www.researchgate.net/publication/301739336_Soil_moisture_sensor_calibration_for_organic_soil_surface_layers"
     },
     {
-      "url": "https://www.protocols.io/view/+laboratory-calibration-of-soil-moisture-sensors-in-x54v9xjmv3eq/v2?step=6",
-      "title": "Laboratory calibration of soil moisture sensors in porous media..."
+      "title": "Laboratory calibration of soil moisture sensors in porous media...",
+      "url": "https://www.protocols.io/view/+laboratory-calibration-of-soil-moisture-sensors-in-x54v9xjmv3eq/v2?step=6"
     }
   ],
   "grafana dashboard garden sensors tutorial": [
     {
-      "url": "https://www.youtube.com/watch?v=kQQF9QzSSS4",
-      "title": "How to Setup a Grafana Dashboard Step-by-Step | Grafana Tutorial ..."
+      "title": "Modify dashboard settings | Grafana documentation",
+      "url": "https://grafana.com/docs/grafana/latest/visualizations/dashboards/build-dashboards/modify-dashboard-settings/"
     },
     {
-      "url": "https://adrelien.com/how-to-visualize-the-things-network-data-in-grafana-real-time-easy/",
-      "title": "How to Visualize The Things Network Data in Grafana (Real-Time...)"
+      "title": "How to Setup a Grafana Dashboard Step-by-Step | Grafana Tutorial ...",
+      "url": "https://www.youtube.com/watch?v=kQQF9QzSSS4"
+    },
+    {
+      "title": "How to Visualize The Things Network Data in Grafana (Real-Time...)",
+      "url": "https://adrelien.com/how-to-visualize-the-things-network-data-in-grafana-real-time-easy/"
+    },
+    {
+      "title": "How To Add a Prometheus Dashboard to Grafana | DigitalOcean",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana"
+    },
+    {
+      "title": "GitHub - tarantool/ grafana - dashboard : Dashboard for Tarantool...",
+      "url": "https://github.com/tarantool/grafana-dashboard"
     }
   ],
   "home assistant mqtt integration basics": [
     {
-      "url": "https://www.home-assistant.io/integrations/mqtt",
-      "title": "MQTT - Home Assistant"
+      "title": "MQTT - Home Assistant",
+      "url": "https://www.home-assistant.io/integrations/mqtt"
     },
     {
-      "url": "https://www.youtube.com/watch?v=_tU8qYrmCMg",
-      "title": "Easy MQTT Setup for Home Assistant Beginners! (Full Tutorial) Adding an MQTT Device to Home Assistant Beginners Integrating and Mastering MQTT with Home Assistant for ... Home Assistant and ESP Home: How to use MQTT Integration for ... Home Assistant with the MQTT integration Integrating and Mastering MQTT with Home Assistant for Flexible Dev\u2026 MQTT - Home Assistant Home Assistant and ESP Home : How to use MQTT Integration for Dyn\u2026 Adding an MQTT Device to Home Assistant Beginners MQTT Device Integrations | home-assistant/home-assistant.io ..."
+      "title": "Easy MQTT Setup for Home Assistant Beginners! (Full Tutorial) Adding an MQTT Device to Home Assistant Beginners Integrating and Mastering MQTT with Home Assistant for ... Home Assistant and ESP Home: How to use MQTT Integration for ... Home Assistant with the MQTT integration Integrating and Mastering MQTT with Home Assistant for Flexible Dev\u2026 MQTT - Home Assistant Home Assistant and ESP Home : How to use MQTT Integration for Dyn\u2026 Adding an MQTT Device to Home Assistant Beginners MQTT Device Integrations | home-assistant/home-assistant.io ...",
+      "url": "https://www.youtube.com/watch?v=_tU8qYrmCMg"
     },
     {
-      "url": "https://stevessmarthomeguide.com/adding-an-mqtt-device-to-home-assistant/",
-      "title": "Adding an MQTT Device to Home Assistant Beginners"
+      "title": "Adding an MQTT Device to Home Assistant Beginners",
+      "url": "https://stevessmarthomeguide.com/adding-an-mqtt-device-to-home-assistant/"
     },
     {
-      "url": "https://newerest.space/integrating-mastering-mqtt-home-assistant/",
-      "title": "Integrating and Mastering MQTT with Home Assistant for ..."
+      "title": "Integrating and Mastering MQTT with Home Assistant for ...",
+      "url": "https://newerest.space/integrating-mastering-mqtt-home-assistant/"
     },
     {
-      "url": "https://admantium.com/blog/iot16_home_assistant_mqtt_integration/",
-      "title": "Home Assistant and ESP Home: How to use MQTT Integration for ..."
+      "title": "Home Assistant and ESP Home: How to use MQTT Integration for ...",
+      "url": "https://admantium.com/blog/iot16_home_assistant_mqtt_integration/"
     }
   ],
   "portland community garden waitlist map": [
     {
-      "url": "https://cultivatingcommunity.org/community-gardens/",
-      "title": "Community Gardens - Cultivating Community"
+      "title": "Community Gardens - Cultivating Community",
+      "url": "https://cultivatingcommunity.org/community-gardens/"
     },
     {
-      "url": "https://growinggardens.org/communitygardens/",
-      "title": "Community Gardens \u2013 Growing Gardens"
+      "title": "Community Garden Program - Montgomery Parks",
+      "url": "https://montgomeryparks.org/community-gardens/"
+    },
+    {
+      "title": "Portland Community Garden - YouTube",
+      "url": "https://www.youtube.com/@portlandcommunitygarden3165"
+    },
+    {
+      "title": "Community Gardens \u2013 Growing Gardens",
+      "url": "https://growinggardens.org/communitygardens/"
+    },
+    {
+      "title": "\u041c\u0430\u0440\u0448\u0440\u0443\u0442 \u0432 Errol Heights Community Garden , SE Tenino Ct... - Waze",
+      "url": "https://www.waze.com/ru/live-map/directions/errol-heights-community-garden-se-tenino-ct-4841-portland?to=place.w.155582919.1555763650.621777"
     }
   ],
   "skill share event template agenda": [
     {
-      "url": "https://elfsight.com/event-calendar-widget/templates/event-agenda/",
-      "title": "Embed Free Event Agenda template on Your Website"
+      "title": "Embed Free Event Agenda template on Your Website",
+      "url": "https://elfsight.com/event-calendar-widget/templates/event-agenda/"
     },
     {
-      "url": "https://docsandslides.com/google-docs/event-agenda-template/",
-      "title": "Free Event Agenda Template For Google Docs"
+      "title": "Meeting Agenda Templates",
+      "url": "https://thegoodocs.com/freebies/agendas-template/"
     },
     {
-      "url": "https://www.hubilo.com/blog/how-to-write-an-event-agenda-tips-template-and-sample",
-      "title": "How To Create an Event Agenda : Template and Example | Hubilo"
+      "title": "Free Editable Agenda Templates in Google Docs to Download",
+      "url": "https://www.template.net/agenda/google-docs"
+    },
+    {
+      "title": "Free Event Agenda Template For Google Docs",
+      "url": "https://docsandslides.com/google-docs/event-agenda-template/"
+    },
+    {
+      "title": "How To Create an Event Agenda : Template and Example | Hubilo",
+      "url": "https://www.hubilo.com/blog/how-to-write-an-event-agenda-tips-template-and-sample"
     }
   ],
   "ada checklist for community events": [
     {
-      "url": "https://adachecklist.org/sites/default/files/documents/ada-checklist.pdf",
-      "title": "Checklist"
+      "title": "Checklist",
+      "url": "https://adachecklist.org/sites/default/files/documents/ada-checklist.pdf"
+    },
+    {
+      "title": "The Americans with Disabilities Act | ADA .gov",
+      "url": "https://www.ada.gov/"
+    },
+    {
+      "title": "Accessibility and the Americans with Disabilities Act ( ADA )",
+      "url": "https://www.sos.wa.gov/accessibility-and-americans-disabilities-act-ada"
+    },
+    {
+      "title": "Quietly Indo Abg Viral Dua Hati Tanpa Ada Tuan - nafsungaco",
+      "url": "https://nafsungaco.store/quietly-indo-abg-viral-dua-hati-tanpa-ada-tuan/"
+    },
+    {
+      "title": "European Accessibility Act Requirements Checklist | Accessibly",
+      "url": "https://accessiblyapp.com/blog/eaa-checklist/"
     }
   ],
   "accessible slide templates high contrast": [
     {
-      "url": "https://www.digitalofficepro.com/ppt/high-contrast-powerpoint-templates.html",
-      "title": "20+ High contrast PowerPoint Templates - PowerPoint Backgrounds..."
+      "title": "20+ High contrast PowerPoint Templates - PowerPoint Backgrounds...",
+      "url": "https://www.digitalofficepro.com/ppt/high-contrast-powerpoint-templates.html"
     },
     {
-      "url": "https://github.com/Gorcenski/accessible-slides",
-      "title": "GitHub - Gorcenski/ accessible - slides : A repository for some..."
+      "title": "GitHub - Gorcenski/ accessible - slides : A repository for some...",
+      "url": "https://github.com/Gorcenski/accessible-slides"
     },
     {
-      "url": "https://www.presentermedia.com/powerpoint-template/high-contrast-pid-28078",
-      "title": "Design Shape PowerPoint Photo Slides Template"
+      "title": "Design Shape PowerPoint Photo Slides Template",
+      "url": "https://www.presentermedia.com/powerpoint-template/high-contrast-pid-28078"
+    },
+    {
+      "title": "Google Slides Accessibility | Accessibility | USU",
+      "url": "https://www.usu.edu/accessibility/documents/google-slides-accessibility"
+    },
+    {
+      "title": "Google Slides Accessibility",
+      "url": "https://www.csun.edu/sites/default/files/Google-Slides-Accessibility.pdf"
     }
   ],
   "caption microphone alternatives portable": [
     {
-      "url": "https://www.hollyland.com/blog/microphone/portable-microphones",
-      "title": "23 Best Portable Microphones for Creators in 2025 [Wireless ..."
+      "title": "23 Best Portable Microphones for Creators in 2025 [Wireless ...",
+      "url": "https://www.hollyland.com/blog/microphone/portable-microphones"
     },
     {
-      "url": "https://gatheringsound.com/external-microphones-for-captioning-apps/",
-      "title": "external mics for captioning apps - Gathering Sound"
+      "title": "external mics for captioning apps - Gathering Sound",
+      "url": "https://gatheringsound.com/external-microphones-for-captioning-apps/"
     },
     {
-      "url": "https://forum.hearingtracker.com/t/which-live-caption-apps-work-without-the-phones-microphone/102772",
-      "title": "Which live caption apps work without the phone's microphone?"
+      "title": "Home - Caption Companion\u2122- Universal Captioning Device",
+      "url": "https://captioncompanion.com/"
+    },
+    {
+      "title": "Which live caption apps work without the phone's microphone?",
+      "url": "https://forum.hearingtracker.com/t/which-live-caption-apps-work-without-the-phones-microphone/102772"
+    },
+    {
+      "title": "Top 5 Mini Wireless Microphones in 2025 \u2014 Find Your Best ...",
+      "url": "https://www.nearstream.us/blog/best-5-wireless-mic-for-vlogger-content-creator-streamer"
     }
   ],
   "portland bike mechanic ama outreach email template": [
     {
-      "url": "https://roojet.com/email-outreach-templates/",
-      "title": "16 Email Outreach Templates You Can Use for every Scenario"
+      "title": "16 Email Outreach Templates You Can Use for every Scenario",
+      "url": "https://roojet.com/email-outreach-templates/"
     },
     {
-      "url": "https://unlayer.com/email-templates/outreach",
-      "title": "Free Outreach Email Templates | Unlayer"
+      "title": "Free Outreach Email Templates | Unlayer",
+      "url": "https://unlayer.com/email-templates/outreach"
     },
     {
-      "url": "https://woodpecker.co/blog/outreach-email-examples/",
-      "title": "13 Amazing Outreach Email Examples for Cold Sales"
+      "title": "13 Amazing Outreach Email Examples for Cold Sales",
+      "url": "https://woodpecker.co/blog/outreach-email-examples/"
     },
     {
-      "url": "https://www.writecream.com/free-pr-outreach-email-template-pdf-doc-google-doc/",
-      "title": "Free PR Outreach Email Template (PDF/DOC/Google Doc)"
+      "title": "Free PR Outreach Email Template (PDF/DOC/Google Doc)",
+      "url": "https://www.writecream.com/free-pr-outreach-email-template-pdf-doc-google-doc/"
     },
     {
-      "url": "https://backlinkmanager.io/blog/best-pr-outreach-email-templates/",
-      "title": "22 Best PR Outreach Email Template That Work Effectively in 2024"
+      "title": "22 Best PR Outreach Email Template That Work Effectively in 2024",
+      "url": "https://backlinkmanager.io/blog/best-pr-outreach-email-templates/"
     }
   ],
   "co op lawyer portland pro bono": [
     {
-      "url": "https://www.lawinfopedia.com/pro-bono/me/portland/",
-      "title": "Pro Bono Offices in Portland , Maine - Locations and... - LawInfoPedia"
+      "title": "Portland Attorney Michael Fuller's Career - Michael Fuller",
+      "url": "https://underdoglawyer.com/portland-attorney/"
     },
     {
-      "url": "https://www.mainebiz.biz/article/pro-bono-work-a-labor-of-love-for-portland-attorney-stacey-neumann",
-      "title": "Pro bono work a labor of love for Portland attorney... | Mainebiz.biz"
+      "title": "Pro Bono Offices in Portland , Maine - Locations and... - LawInfoPedia",
+      "url": "https://www.lawinfopedia.com/pro-bono/me/portland/"
+    },
+    {
+      "title": "Pro Bono Opportunities - Suffolk University",
+      "url": "https://www.suffolk.edu/law/academics-clinics/clinics-experiential-opportunities/pro-bono-opportunities"
+    },
+    {
+      "title": "Foster Garvey PC: Law Firm - Attorneys - Seattle - Portland ...",
+      "url": "https://www.foster.com/?refPageViewId=8d7ae06ad7749d66"
+    },
+    {
+      "title": "Pro bono work a labor of love for Portland attorney... | Mainebiz.biz",
+      "url": "https://www.mainebiz.biz/article/pro-bono-work-a-labor-of-love-for-portland-attorney-stacey-neumann"
     }
   ],
   "accessibility advocate speaker stipend rates": [
     {
-      "url": "https://amberhinds.com/",
-      "title": "Amber Hinds - Entrepreneur, Accessibility Advocate , Speaker"
+      "title": "Amber Hinds - Entrepreneur, Accessibility Advocate , Speaker",
+      "url": "https://amberhinds.com/"
     },
     {
-      "url": "https://www.law.uchicago.edu/students/organizations/handbook/speakerlogistics",
-      "title": "Speaker Logistics: Travel Stipends & Accommodations | University of..."
+      "title": "Stipend Rates - Cornell University Graduate School : Graduate School",
+      "url": "https://gradschool.cornell.edu/financial-support/stipend-rates/"
+    },
+    {
+      "title": "Speaker Logistics: Travel Stipends & Accommodations | University of...",
+      "url": "https://www.law.uchicago.edu/students/organizations/handbook/speakerlogistics"
+    },
+    {
+      "title": "Stipend Rates - Graduate Assistant Handbook",
+      "url": "https://uwm.edu/graduate-assistants/handbook/appointments-and-benefits/stipend-rates/"
+    },
+    {
+      "title": "Stipend Rates & Benefits - Macon & Joan Brock Virginia Health...",
+      "url": "https://www.evms.edu/medicine/residencies/combined_internal_medicine__geriatrics_residency/stipend_rates__benefits/"
     }
   ],
-  "gif screen capture linux mac cross platform": [],
+  "gif screen capture linux mac cross platform": [
+    {
+      "title": "Capture screenshots programmatically. Cross-platform, with ...",
+      "url": "https://github.com/jonschlinkert/cross-capture"
+    },
+    {
+      "title": "Open Source Lightshot Alternatives for Mac: Top 16 Screenshot ...",
+      "url": "https://alternativeto.net/software/lightshot/?license=opensource&platform=mac"
+    },
+    {
+      "title": "Flameshot | Open Source Screenshot Software",
+      "url": "https://flameshot.org/"
+    },
+    {
+      "title": "Free Best Open Source Screenshot Tool for Windows/Mac/Linux",
+      "url": "https://recorder.easeus.com/screen-recording-tips/open-source-screenshot-tool.html"
+    },
+    {
+      "title": "Cross-Capture - Programmatically Capture ... - GitHub",
+      "url": "https://github.com/djbade/cross-capture"
+    }
+  ],
   "audacity remove background noise field recordings": [
     {
-      "url": "https://support.audacityteam.org/repairing-audio/noise-reduction-removal",
-      "title": "Noise reduction & removal | Audacity Support"
+      "title": "Noise reduction & removal | Audacity Support",
+      "url": "https://support.audacityteam.org/repairing-audio/noise-reduction-removal"
     },
     {
-      "url": "https://www.computerhope.com/issues/ch001961.htm",
-      "title": "How to Remove Unwanted Noise in Audacity - Computer Hope"
+      "title": "How to Remove Unwanted Noise in Audacity - Computer Hope",
+      "url": "https://www.computerhope.com/issues/ch001961.htm"
     },
     {
-      "url": "https://www.aiarty.com/ai-video-enhancer/audacity-clean-up-audio.htm",
-      "title": "How to Clean Up Audio in Audacity: A Step-by-Step Guide in 2026"
+      "title": "How to Clean Up Audio in Audacity: A Step-by-Step Guide in 2026",
+      "url": "https://www.aiarty.com/ai-video-enhancer/audacity-clean-up-audio.htm"
     },
     {
-      "url": "https://borisfx.com/blog/how-to-clean-up-audio-in-audacity-in-5-steps/",
-      "title": "How to Clean Up Audio in Audacity in 5 Steps | Boris FX"
+      "title": "How to Clean Up Audio in Audacity in 5 Steps | Boris FX",
+      "url": "https://borisfx.com/blog/how-to-clean-up-audio-in-audacity-in-5-steps/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=jw_Qu2_zpfc",
-      "title": "How To Get Rid Of Background Noise In Audacity - YouTube How to Remove Noise and Background Sounds in Audacity How to Clean Up Audio in Audacity in 5 Steps | Boris FX How to Remove Noise and Background Sounds in Audacity How to Remove Unwanted Noise in Audacity - Computer Hope How to Remove Background Noise in Audacity | Quick Fix! How to Remove Background Noise in Audacity | Quick Fix!"
+      "title": "How To Get Rid Of Background Noise In Audacity - YouTube How to Remove Noise and Background Sounds in Audacity How to Clean Up Audio in Audacity in 5 Steps | Boris FX How to Remove Noise and Background Sounds in Audacity How to Remove Unwanted Noise in Audacity - Computer Hope How to Remove Background Noise in Audacity | Quick Fix! How to Remove Background Noise in Audacity | Quick Fix!",
+      "url": "https://www.youtube.com/watch?v=jw_Qu2_zpfc"
     }
   ],
   "reaper discounted license terms noncommercial": [
     {
-      "url": "https://www.reaper.fm/purchase.php",
-      "title": "REAPER | Purchase"
+      "title": "REAPER | Purchase",
+      "url": "https://www.reaper.fm/purchase.php"
     },
     {
-      "url": "https://www.reddit.com/r/Reaper/comments/ecs0z1/discounted_license_vs_commercial_license/",
-      "title": "Discounted License vs Commercial License : r/Reaper - Reddit"
+      "title": "Discounted License vs Commercial License : r/Reaper - Reddit",
+      "url": "https://www.reddit.com/r/Reaper/comments/ecs0z1/discounted_license_vs_commercial_license/"
     },
     {
-      "url": "https://forum.cockos.com/archive/index.php/t-72911.html",
-      "title": "Which license is the one for me? [Archive] - Cockos ..."
+      "title": "Which license is the one for me? [Archive] - Cockos ...",
+      "url": "https://forum.cockos.com/archive/index.php/t-72911.html"
     },
     {
-      "url": "https://promixacademy.com/blog/how-much-does-reaper-cost/",
-      "title": "How Much Does REAPER Cost? (Explained) - Pro Mix Academy"
+      "title": "How Much Does REAPER Cost? (Explained) - Pro Mix Academy",
+      "url": "https://promixacademy.com/blog/how-much-does-reaper-cost/"
     },
     {
-      "url": "https://nolabelnoproducernolimits.com/indie/production/reaper/reaper-license/",
-      "title": "Reaper License: All You Need To Know - No Label, No Producer ..."
+      "title": "Reaper License: All You Need To Know - No Label, No Producer ...",
+      "url": "https://nolabelnoproducernolimits.com/indie/production/reaper/reaper-license/"
     }
   ],
   "creative commons licenses choose cc": [
     {
-      "url": "https://creativecommons.org/chooser/",
-      "title": "Chooser - Creative Commons"
+      "title": "Creative Commons license - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Creative_Commons_license"
     },
     {
-      "url": "https://help.oapolicy.universityofcalifornia.edu/support/solutions/articles/9000226762-which-creative-commons-license-should-i-choose-",
-      "title": "Which Creative Commons license should I choose? : UC ..."
+      "title": "Chooser - Creative Commons",
+      "url": "https://creativecommons.org/chooser/"
     },
     {
-      "url": "https://research.lib.buffalo.edu/creative-commons/choosing-cc-license",
-      "title": "Choosing & Applying a Creative Commons License - Creative ..."
+      "title": "Which Creative Commons license should I choose? : UC ...",
+      "url": "https://help.oapolicy.universityofcalifornia.edu/support/solutions/articles/9000226762-which-creative-commons-license-should-i-choose-"
     },
     {
-      "url": "https://libguides.montgomerycollege.edu/c.php?g=675396&p=9885877",
-      "title": "Six Creative Commons (CC) License Types - Share Your Work ..."
+      "title": "Choosing & Applying a Creative Commons License - Creative ...",
+      "url": "https://research.lib.buffalo.edu/creative-commons/choosing-cc-license"
     },
     {
-      "url": "https://en.wikipedia.org/wiki/Creative_Commons_license",
-      "title": "Creative Commons license - Wikipedia"
+      "title": "Six Creative Commons (CC) License Types - Share Your Work ...",
+      "url": "https://libguides.montgomerycollege.edu/c.php?g=675396&p=9885877"
     }
   ],
   "cc by vs cc by sa differences": [
     {
-      "url": "https://en.wikipedia.org/wiki/Creative_Commons_license",
-      "title": "Creative Commons license - Wikipedia"
+      "title": "Creative Commons license - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Creative_Commons_license"
     },
     {
-      "url": "https://ru.wikipedia.org/wiki/\u041b\u0438\u0446\u0435\u043d\u0437\u0438\u0438_\u0438_\u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b_Creative_Commons",
-      "title": "\u041b\u0438\u0446\u0435\u043d\u0437\u0438\u0438 \u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b Creative Commons \u2014 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+      "title": "\u041b\u0438\u0446\u0435\u043d\u0437\u0438\u0438 \u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b Creative Commons \u2014 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f",
+      "url": "https://ru.wikipedia.org/wiki/\u041b\u0438\u0446\u0435\u043d\u0437\u0438\u0438_\u0438_\u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b_Creative_Commons"
+    },
+    {
+      "title": "Choosing an Open Data License - ODC BY vs . CC BY | Forum",
+      "url": "https://forum.openmod.org/t/choosing-an-open-data-license-odc-by-vs-cc-by/640"
+    },
+    {
+      "title": "mail.python.org/pipermail/python-legal-sig/2013-November.txt",
+      "url": "https://mail.python.org/pipermail/python-legal-sig/2013-November.txt"
+    },
+    {
+      "title": "punctuation - Using a comma before \"but\" - English Language & Usag...",
+      "url": "https://english.stackexchange.com/questions/28277/using-a-comma-before-but/28281"
     }
   ],
   "upload field recordings freesound how to": [
     {
-      "url": "https://web.archive.org/web/20220816095932/https://freesound.org/",
-      "title": "Freesound - Freesound"
+      "title": "Freesound - Freesound",
+      "url": "https://web.archive.org/web/20220816095932/https://freesound.org/"
+    },
+    {
+      "title": "The Freesound Blog | All things Freesound",
+      "url": "https://blog.freesound.org/"
+    },
+    {
+      "title": "Page 2 - Free Fieldrecording Sound Effects Download - Pixabay",
+      "url": "https://pixabay.com/sound-effects/search/fieldrecording/?pagi=2"
+    },
+    {
+      "title": "Freesound \u2014 Wikipedia Republished // WIKI 2",
+      "url": "https://wiki2.org/en/Freesound"
+    },
+    {
+      "title": "Freesound reviews. Is Freesound good? - SaaSHub",
+      "url": "https://www.saashub.com/freesound"
     }
   ],
   "best portable recorder under 200 windscreen": [
     {
-      "url": "https://audiofu.com/best/portable-recorders/under-200",
-      "title": "Best Portable Recorders Under $200 2025 - Budget Guide | Audiofu"
+      "title": "Top 10 Rated spy audio recorder - See our #1 Pick for 2025",
+      "url": "https://www.bing.com/aclick?ld=e8RcGGvTldkHuPrdECO_PE0jVUCUzWEJOLVPB5H50dX7dQMPeU-Wvtnu1MNVnxTU3Jh_N-tX3Tvb2-DZkrywv9QA5kzUPbNy2QrXXkNWc7-xyCugJfsVL-j-5-E2-9pGMJCYzNWYUY3b2FGbJ6ImVnyT6FD77dS3jr55PXSgsslzDgsvA6bwpxd5ugNEzCaapB56Uz5DJQUxjOTQ5Unn4BbNf17_k&u=aHR0cHMlM2ElMmYlMmZ3d3cuYmVzdHByb2R1Y3RzcmV2aWV3cy5jb20lMmZzcHktYXVkaW8tcmVjb3JkZXIlM2Z0YXJnZXRpZCUzZGt3ZC04NDM4ODgyMjcwMzU0MiUzYWxvYy0xOTAlMjZtYXRjaHR5cGUlM2RiJTI2ZGV2aWNlJTNkYyUyNmNhbXBhaWduaWQlM2Q1MzA4ODU4MTklMjZjcmVhdGl2ZSUzZCUyNmFkZ3JvdXBpZCUzZDEzNTAyMDI3ODgwODk5ODYlMjZmZWVkaXRlbWlkJTNkJTI2bG9jX3BoeXNpY2FsX21zJTNkNTgxNjIlMjZsb2NfaW50ZXJlc3RfbXMlM2QlMjZuZXR3b3JrJTNkbyUyNmRldmljZW1vZGVsJTNkJTI2cGxhY2VtZW50JTNkJTI2a2V5d29yZCUzZCUyNHNweSUyNTIwYXVkaW8lMjUyMHJlY29yZGVyJTI2dGFyZ2V0JTNkJTI2YWRwb3NpdGlvbiUzZCUyNnRyYWNraWQlM2R1c19hbGxfdG9wXzJfYmluZyUyNm1JZCUzZEgxNDkwMDNDUU4lMjZtc2Nsa2lkJTNkYzY4YWE3NmVlMmNkMTNkYjc5NDZjZTJmMDU5NzZlMmU&rlid=c68aa76ee2cd13db7946ce2f05976e2e"
     },
     {
-      "url": "https://www.reddit.com/r/LocationSound/comments/ha7sjg/affordable_under_200_recorder_for_recording_in/",
-      "title": "Affordable (under $200) recorder for recording in nature? : r ..."
+      "title": "Portable Audio Recorders - In Stock & Ready to Ship",
+      "url": "https://www.bing.com/aclick?ld=e8TepK-7hcnkSW3FNNYCQNHTVUCUxZqjfJIkAud2zq_Jb3NjvFtr6THfWtpvGqr49qUzWZQKvaF_k0D_SX97C2439_II68dWFiwsg9_myl0Bx8_3ayUoLiyY0eJKwYcpFas_bd134ZmvtIQr2y96US2KR15aiQWC-5yPhLHcMKZBIWAOOQD6TvGLdFtZHgo-SWED1uv4AKw7DLVqNnQ5f6E_awhXY&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MjA5MDMwMDM2MiUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODkwMjA2NzMwMiUyNmRzX2FfY2lkJTNkNDA1NTI3OTIxJTI2ZHNfYV9jYWlkJTNkMjI2MTYyNDAyOTIlMjZkc19hX2FnaWQlM2QxODE0MDAzNjI0OTglMjZkc19hX2xpZCUzZGt3ZC00NTY5MzAwNiUyNiUyNmRzX2VfYWRpZCUzZDc4NjE1Mjk4NjE5NDY5JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtNzg2MTU1NDc4OTMxOTYlM2Fsb2MtMTkwJTI2JTI2ZHNfZV9uZXR3b3JrJTNkbyUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuc3dlZXR3YXRlci5jb20lMmZjMTAwNi0tUG9ydGFibGVfUmVjb3JkZXJzJTNmbXJrZ2FkaWQlM2QlMjZtcmtnY2wlM2QyOCUyNm1ya2dlbiUzZCUyNm1ya2diZmxhZyUzZCUyNm1ya2djYXQlM2QlMjZhY2N0aWQlM2QyMTcwMDAwMDAwMTY0NTM4OCUyNmRza2V5d29yZGlkJTNkNDU2OTMwMDYlMjZsaWQlM2Q0MzcwMDA4MjA5MDMwMDM2MiUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODkwMjA2NzMwMiUyNmRzX2FfY2lkJTNkNDA1NTI3OTIxJTI2ZHNfYV9jYWlkJTNkMjI2MTYyNDAyOTIlMjZkc19hX2FnaWQlM2QxODE0MDAzNjI0OTglMjZkc19hX2xpZCUzZGt3ZC00NTY5MzAwNiUyNmRldmljZSUzZGMlMjZuZXR3b3JrJTNkbyUyNm1hdGNodHlwZSUzZHAlMjZhZHBvcyUzZGxhcmdlbnVtYmVyJTI2bG9jYXRpb25pZCUzZDU4MTYyJTI2Y3JlYXRpdmUlM2QlMjZ0YXJnZXRpZCUzZGt3ZC03ODYxNTU0Nzg5MzE5NiUzYWxvYy0xOTAlMjZjYW1wYWlnbmlkJTNkNjk4MjUyMDQ3JTI2YXdzZWFyY2hjcGMlM2QxJTI2Z2NsaWQlM2RhYzdmYTlhYTA1ZjgxYzU1MTA1NWMwZWJlMmEyM2Q4YiUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZGFjN2ZhOWFhMDVmODFjNTUxMDU1YzBlYmUyYTIzZDhiJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkYWFUZXh0JTI1MjAtJTI1MjBQcm8lMjUyMEF1ZGlvJTI1MjAtJTI1MjBBdWRpbyUyNTIwUmVjb3JkZXJzJTI1MjAtJTI1MjAlMjU1QkNvbnNvbGlkYXRlZCUyNTVEJTI2dXRtX3Rlcm0lM2Rwb3J0YWJsZSUyNTIwYXVkaW8lMjUyMHJlY29yZGVycyUyNnV0bV9jb250ZW50JTNkQXVkaW8lMjUyMFJlY29yZGVycyUyNTIwLSUyNTIwUG9ydGFibGUlMjUyMFJlY29yZGVycyUyNTIwLSUyNTIwJTI1NUJCcm9hZCUyNTVE&rlid=ac7fa9aa05f81c551055c0ebe2a23d8b"
+    },
+    {
+      "title": "Portable Recorder Windscreen - See Customer Ratings",
+      "url": "https://www.bing.com/aclick?ld=e8k62FlfyoTAvKy8IK_zvd9TVUCUwgVUTiBhP6ps5ocFFtzjbRf1ZPPLO1oteqQSpCKl4vEZ72R1JTegRiyEvp_iWGzTBakC51173M-A0Xu8r-ehokuyklNu3SPjp75NPxEv4BFMSFJQRkHb9Ul0zJs7BjpWI_9Vlb1N_fxdZpiLin2sa0MeYeCa9qI1CB9Ppdyv0XYl6u98MuJRmEQcECbdYzSNk&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHBvcnRhYmxlJTJicmVjb3JkZXIlMmJ3aW5kc2NyZWVuJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfMXc1NHgxdDZ5N19wJTI2YWRncnBpZCUzZDEzMzA0MDk2NDA0Mjk5NjglMjZodmFkaWQlM2Q4MzE1MDkyNTY5NTY2MyUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODMxNTA5NjA5NzQzNTUlM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDI5MjEzXzE0NjEwMjkwJTI2bWNpZCUzZGVhZDJhMDcxMmMxNzM3NTY5YjU5NmQ5MDJiNDE0Y2Y0JTI2bXNjbGtpZCUzZDE5NmYxM2IwNWQ2YzE0M2U5M2VkN2FmMWJhMzY2OGU3&rlid=196f13b05d6c143e93ed7af1ba3668e7"
+    },
+    {
+      "title": "Best Portable Recorders Under $200 2025 - Budget Guide | Audiofu",
+      "url": "https://audiofu.com/best/portable-recorders/under-200"
+    },
+    {
+      "title": "Affordable (under $200) recorder for recording in nature? : r ...",
+      "url": "https://www.reddit.com/r/LocationSound/comments/ha7sjg/affordable_under_200_recorder_for_recording_in/"
     }
   ],
   "portland quiet places field recording": [
     {
-      "url": "http://portlandsoundmap.com/",
-      "title": "Portland Sound Map"
+      "title": "Living on Earth: A Quest for Quiet - loe.org",
+      "url": "https://loe.org/shows/segments.html?programID=25-P13-00013&segmentID=3"
     },
     {
-      "url": "https://www.reddit.com/r/askportland/comments/1bwtbwl/cool_areas_to_do_field_recordings/",
-      "title": "Cool areas to do field recordings? : r/askportland - Reddit"
+      "title": "Portland Sound Map",
+      "url": "http://portlandsoundmap.com/"
+    },
+    {
+      "title": "Where is the quietest place in Oregon? OPB\u2019s \u201cOregon Field ... Oregon Soundscapes - John Hartog Oregon Field Guide | The Quietest Place in Oregon | Season 36 ... Cool areas to do field recordings? : r/askportland - Reddit Quiet Places - Quiet Parks International",
+      "url": "https://www.facebook.com/oregonpublicbroadcasting/videos/discovering-oregons-quietest-place-a-journey-into-the-desert\ufe0f/1316050696325940/"
+    },
+    {
+      "title": "Oregon Field Guide | The Quietest Place in Oregon | Season 36 ...",
+      "url": "https://watch.opb.org/video/the-quietest-place-in-oregon-e5terv/"
+    },
+    {
+      "title": "Cool areas to do field recordings? : r/askportland - Reddit",
+      "url": "https://www.reddit.com/r/askportland/comments/1bwtbwl/cool_areas_to_do_field_recordings/"
     }
   ],
   "ambient mix mastering tips beginner": [
     {
-      "url": "https://www.reddit.com/r/audioengineering/comments/ex9q35/any_tips_for_mixing_and_mastering_ambient_music/",
-      "title": "Any tips for mixing and mastering ambient music? : r ... - Reddit"
+      "title": "Any tips for mixing and mastering ambient music? : r ... - Reddit",
+      "url": "https://www.reddit.com/r/audioengineering/comments/ex9q35/any_tips_for_mixing_and_mastering_ambient_music/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=3RQNnO2G33I",
-      "title": "Here's my SECRETS for Mixing AMBIENT Music - YouTube The Fundamentals of Sound Engineering: A Beginner\u2019s Guide to ... How to Mix and Master - A Beginner's Guide - Deviant Noise Mixing and Mastering 101: Basics for Beginners - MixProdMasters What Is Ambient Music and How to Make It: A Beginner\u2019s Guide The Fundamentals of Sound Engineering: A Beginner \u2019s Guide to Mixin\u2026 What Is Ambient Music and How to Make It: A Beginner\u2019s Guide How to Mix and Master - A Beginner 's Guide - Deviant Noise How to Mix and Master - A Beginner 's Guide - Deviant Noise Crafting Tranquility: A Beginner's Guide to Creating Ambient ..."
+      "title": "Here's my SECRETS for Mixing AMBIENT Music - YouTube The Fundamentals of Sound Engineering: A Beginner\u2019s Guide to ... How to Mix and Master - A Beginner's Guide - Deviant Noise Mixing and Mastering 101: Basics for Beginners - MixProdMasters What Is Ambient Music and How to Make It: A Beginner\u2019s Guide The Fundamentals of Sound Engineering: A Beginner \u2019s Guide to Mixin\u2026 What Is Ambient Music and How to Make It: A Beginner\u2019s Guide How to Mix and Master - A Beginner 's Guide - Deviant Noise How to Mix and Master - A Beginner 's Guide - Deviant Noise Crafting Tranquility: A Beginner's Guide to Creating Ambient ...",
+      "url": "https://www.youtube.com/watch?v=3RQNnO2G33I"
     },
     {
-      "url": "https://www.lalal.ai/blog/how-to-make-ambient-music/",
-      "title": "What Is Ambient Music and How to Make It: A Beginner\u2019s Guide"
+      "title": "The Fundamentals of Sound Engineering: A Beginner\u2019s Guide to ...",
+      "url": "https://serenademagazine.com/the-fundamentals-of-sound-engineering-a-beginners-guide-to-mixing-and-mastering-like-a-pro/"
+    },
+    {
+      "title": "Mixing and Mastering 101: Basics for Beginners - MixProdMasters",
+      "url": "https://mixprodmasters.com/audio/mixing-and-mastering-101-basics-for-beginners/"
+    },
+    {
+      "title": "What Is Ambient Music and How to Make It: A Beginner\u2019s Guide",
+      "url": "https://www.lalal.ai/blog/how-to-make-ambient-music/"
     }
   ],
   "normalize vs limit audio explanation": [
     {
-      "url": "http://forum.cakewalk.com/Normalize-vs-Limit-m3680565.aspx",
-      "title": "Normalize vs Limit | Cakewalk Forums"
+      "title": "Normalize vs Limit | Cakewalk Forums",
+      "url": "http://forum.cakewalk.com/Normalize-vs-Limit-m3680565.aspx"
     },
     {
-      "url": "https://www.magix.info/us/forum/normalization-vs-loudness-adjustment-vs-limiter--1136732/",
-      "title": "normalization vs loudness adjustment vs limiter | Forum"
+      "title": "normalization vs loudness adjustment vs limiter | Forum",
+      "url": "https://www.magix.info/us/forum/normalization-vs-loudness-adjustment-vs-limiter--1136732/"
     },
     {
-      "url": "https://podcastengineeringschool.com/normalization-vs-compression-vs-limiting-with-audio-examples-ep-245/",
-      "title": "Normalization vs Compression vs Limiting (With Audio Examples)..."
+      "title": "Normalization vs Compression vs Limiting (With Audio Examples)...",
+      "url": "https://podcastengineeringschool.com/normalization-vs-compression-vs-limiting-with-audio-examples-ep-245/"
     },
     {
-      "url": "https://taperssection.com/index.php?topic=151727.0",
-      "title": "Hard Limiter vs . Normalization ? | Forum"
+      "title": "Normalize vs Loudness Normalization in Audacity - YouTube",
+      "url": "https://www.youtube.com/watch?v=RR7fCquUDAM"
+    },
+    {
+      "title": "Hard Limiter vs . Normalization ? | Forum",
+      "url": "https://taperssection.com/index.php?topic=151727.0"
     }
   ],
   "kimchi soft texture troubleshooting": [
     {
-      "url": "https://allfoodfaq.com/why-is-my-kimchi-soft/",
-      "title": "Why is My Kimchi Soft? Uncovering the Reasons Behind the Loss ..."
+      "title": "Why is My Kimchi Soft? Uncovering the Reasons Behind the Loss ...",
+      "url": "https://allfoodfaq.com/why-is-my-kimchi-soft/"
     },
     {
-      "url": "https://cookingmelt.com/troubleshooting-common-kimchi-fermentation-problems",
-      "title": "Kimchi Crisis Solved: Troubleshooting Common Fermentation ..."
+      "title": "Kimchi Crisis Solved: Troubleshooting Common Fermentation ...",
+      "url": "https://cookingmelt.com/troubleshooting-common-kimchi-fermentation-problems"
     },
     {
-      "url": "https://www.quickimchi.com/blogs/quickimchi/how-to-avoid-kimchi-failures-common-problems-and-their-solutions",
-      "title": "How to Avoid Kimchi Failures: Common Problems and Their ..."
+      "title": "How to Avoid Kimchi Failures: Common Problems and Their ...",
+      "url": "https://www.quickimchi.com/blogs/quickimchi/how-to-avoid-kimchi-failures-common-problems-and-their-solutions"
+    },
+    {
+      "title": "11 Mistakes To Avoid That Will Ruin Your Homemade Kimchi",
+      "url": "https://www.chowhound.com/1734884/mistakes-ruin-homemade-kimchi/"
+    },
+    {
+      "title": "12 Mistakes You Must Avoid When Making Kimchi - Tasting Table",
+      "url": "https://www.tastingtable.com/1503178/mistakes-to-avoid-when-making-kimchi/"
     }
   ],
   "kombucha continuous brew safety ph": [
     {
-      "url": "https://fermentaholics.com/continuous-brew-kombucha/",
-      "title": "Continuous Kombucha Brewing : A Complete Step-by-Step Guide"
+      "title": "Continuous Kombucha Brewing : A Complete Step-by-Step Guide",
+      "url": "https://fermentaholics.com/continuous-brew-kombucha/"
     },
     {
-      "url": "https://www.kombuchakamp.com/topic/more-about-continuous-brewing-how-does-it-work",
-      "title": "More about Continuous Brewing : How Does It... - Kombucha Kamp"
+      "title": "More about Continuous Brewing : How Does It... - Kombucha Kamp",
+      "url": "https://www.kombuchakamp.com/topic/more-about-continuous-brewing-how-does-it-work"
     },
     {
-      "url": "https://nourishedkitchen.com/continuous-brew-kombucha/",
-      "title": "How to Make Continuous Brew Kombucha - Nourished Kitchen"
+      "title": "How to Make Continuous Brew Kombucha - Nourished Kitchen",
+      "url": "https://nourishedkitchen.com/continuous-brew-kombucha/"
+    },
+    {
+      "title": "Your Step-By-Step Guide To Making And Caring For Kombucha",
+      "url": "https://www.tastingtable.com/1497549/guide-to-making-kombucha/"
+    },
+    {
+      "title": "6 reasons I love continuous kombucha brewing",
+      "url": "https://www.thenourishinggourmet.com/6-reasons-i-love-continuous-kombucha-brewing/"
     }
   ],
   "starter culture source portland fermentation supply": [
     {
-      "url": "https://fermentaholics.com/product/cultured-buttermilk-starter-culture/",
-      "title": "Cultured Buttermilk Starter Culture"
+      "title": "Portland Fermentation Festival celebrates second year back... - OPB",
+      "url": "https://www.opb.org/article/2024/10/04/portland-fermentation-festival-stinkfest/"
+    },
+    {
+      "title": "Impacts of starter culture on Nutritional and Sensory attributes of io",
+      "url": "https://esmat.ned.gov.ng/ai/esmat/view_abstract_v1.php?ref=28941-effects-of-starter-culture-on-nutritional-content-and-sensory-evaluation-of-iruworo"
+    },
+    {
+      "title": "The Portland Fermentation Festival Cultivates Culture Among People...",
+      "url": "https://www.wweek.com/food/2024/10/01/the-portland-fermentation-festival-cultivates-culture-among-people-bacteria/"
+    },
+    {
+      "title": "Dairy Starter Culture Market Chart | Size, Growth & Forecast...",
+      "url": "https://www.linkedin.com/pulse/dairy-starter-culture-market-chart-size-growth-forecast-xoq4e"
+    },
+    {
+      "title": "Cultured Buttermilk Starter Culture",
+      "url": "https://fermentaholics.com/product/cultured-buttermilk-starter-culture/"
     }
   ],
   "food safety ph meter budget accurate": [
     {
-      "url": "https://thermometer.co.uk/ph-meters-testers/1064-8100-ph-temperature-meter-kit.html",
-      "title": "8100 Dual Function pH & Temperature Meter Kit | ETI 860-810"
+      "title": "Budget pH Meter (). Budget pH meter used for measuring the pH of...",
+      "url": "https://www.1-hydroponics.co.uk/budget-ph-meter.html"
     },
     {
-      "url": "https://hydroponicharvests.com/waterproof-food-ph-meter-review/",
-      "title": "Waterproof Food pH Meter review - Hydroponic Gardening"
+      "title": "8100 Dual Function pH & Temperature Meter Kit | ETI 860-810",
+      "url": "https://thermometer.co.uk/ph-meters-testers/1064-8100-ph-temperature-meter-kit.html"
     },
     {
-      "url": "https://foodtechsafety.com/ph-meter-for-food-safety-how-to-use/",
-      "title": "pH Meter for Food Safety - How to use? - FoodTechSafety"
+      "title": "Waterproof Food pH Meter review - Hydroponic Gardening",
+      "url": "https://hydroponicharvests.com/waterproof-food-ph-meter-review/"
     },
     {
-      "url": "https://www.amazon.co.uk/Accuracy-Measurement-Portable-Household-Hydroponics/dp/B0F4KP8RYR",
-      "title": "Ph Tester, Digital PH Tester Meter , 0.01 pH High Accuracy PH Tester..."
+      "title": "pH Meter for Food Safety - How to use? - FoodTechSafety",
+      "url": "https://foodtechsafety.com/ph-meter-for-food-safety-how-to-use/"
+    },
+    {
+      "title": "Ph Tester, Digital PH Tester Meter , 0.01 pH High Accuracy PH Tester...",
+      "url": "https://www.amazon.co.uk/Accuracy-Measurement-Portable-Household-Hydroponics/dp/B0F4KP8RYR"
     }
   ],
   "cooperative board games for 6 players list": [
     {
-      "url": "https://www.gamesradar.com/games/board-games/best-cooperative-board-games-tested-and-reviewed-by-experts/",
-      "title": "I review board games for a living and think these cooperative board ..."
+      "title": "Cooperative board game - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cooperative_board_game"
     },
     {
-      "url": "https://boardgamegeek.com/geeklist/256028/list-of-the-best-cooperative-adventure-role-playin",
-      "title": "List of The Best Cooperative Adventure / Role- Playing / Story Board ..."
+      "title": "I review board games for a living and think these cooperative board ...",
+      "url": "https://www.gamesradar.com/games/board-games/best-cooperative-board-games-tested-and-reviewed-by-experts/"
     },
     {
-      "url": "https://coopboardgames.com/rankings/top-40-cooperative-board-games/",
-      "title": "Top 40 Cooperative Board Games (2025) | Best Co -op Board Games"
+      "title": "List of The Best Cooperative Adventure / Role- Playing / Story Board ...",
+      "url": "https://boardgamegeek.com/geeklist/256028/list-of-the-best-cooperative-adventure-role-playin"
     },
     {
-      "url": "https://www.happierhuman.com/cooperative-board-games/",
-      "title": "35 Best Cooperative Board Games for Group Bonding"
+      "title": "Top 40 Cooperative Board Games (2025) | Best Co -op Board Games",
+      "url": "https://coopboardgames.com/rankings/top-40-cooperative-board-games/"
+    },
+    {
+      "title": "35 Best Cooperative Board Games for Group Bonding",
+      "url": "https://www.happierhuman.com/cooperative-board-games/"
     }
   ],
   "co op games that teach collaboration": [
     {
-      "url": "https://www.gamesradar.com/10-co-op-games-that-actually-require-cooperation/",
-      "title": "10 co - op games that actually require cooperation | GamesRadar+"
+      "title": "Best Online Co - op Games 2025 Ranked by GG.deals users",
+      "url": "https://gg.deals/games/online-co-op/"
+    },
+    {
+      "title": "10 co - op games that actually require cooperation | GamesRadar+",
+      "url": "https://www.gamesradar.com/10-co-op-games-that-actually-require-cooperation/"
+    },
+    {
+      "title": "Co - op Games Play on CrazyGames",
+      "url": "https://www.crazygames.com/t/co-op"
+    },
+    {
+      "title": "The 31 Best Co - Op Games To Play In 2025 - GameSpot",
+      "url": "https://www.gamespot.com/gallery/best-co-op-games/2900-5361/"
+    },
+    {
+      "title": "Retro 3-Player Co - Op Games That Are Still Great",
+      "url": "https://gamerant.com/best-retro-3-player-co-op-games-still-great/"
     }
   ],
   "facilitating board game night ground rules": [
     {
-      "url": "https://umatechnology.org/heres-how-to-host-a-board-game-night-your-friends-will-love/",
-      "title": "Here\u2019s How to Host a Board Game Night Your... - UMA Technology"
+      "title": "How Can Board Games Combat Loneliness In... - BestBoardGameNews",
+      "url": "https://bestboardgamenews.com/how-can-board-games-combat-loneliness-in-senior-communities/"
+    },
+    {
+      "title": "Here\u2019s How to Host a Board Game Night Your... - UMA Technology",
+      "url": "https://umatechnology.org/heres-how-to-host-a-board-game-night-your-friends-will-love/"
+    },
+    {
+      "title": "Ground Rules for Guys\u2019 Night Out \u2013 Mamiverse",
+      "url": "https://mamiverse.com/guys-night-out-ground-rules-58652/"
+    },
+    {
+      "title": "Ground Rules for Panelists During Panel Discussions - Powerful Panels",
+      "url": "https://www.powerfulpanels.com/ground-rules-panelists-panel-discussions/"
+    },
+    {
+      "title": "Top Family Game Activities for Fun Bonding Moments Today",
+      "url": "https://lifeasmama.com/family-game-activities-top-picks-for-fun-bonding-moments/"
     }
   ],
   "gpx to cue sheet converter": [
     {
-      "url": "https://www.runsheet.run/",
-      "title": "RunSheet - GPX to Printable Cue Sheet"
+      "title": "RunSheet - GPX to Printable Cue Sheet",
+      "url": "https://www.runsheet.run/"
     },
     {
-      "url": "http://www.poi2cue.com/",
-      "title": "POI2CUE: Create Excel Cue Sheets from GPX Files with POIs"
+      "title": "I made a printable cue sheet generator for cycling climbs on ...",
+      "url": "https://www.trainerroad.com/forum/t/i-made-a-printable-cue-sheet-generator-for-cycling-climbs-on-your-route-race/93014"
+    },
+    {
+      "title": "POI2CUE: Create Excel Cue Sheets from GPX Files with POIs",
+      "url": "http://www.poi2cue.com/"
+    },
+    {
+      "title": "Cue Sheet Maker - White Clay Bicycle Club",
+      "url": "https://whiteclaybicycleclub.org/bob-wheeler/bicycle-cue-sheets-and-gps-files/cue-sheet-maker/"
+    },
+    {
+      "title": "Cuesheets - Ride with GPS Help Center",
+      "url": "https://support.ridewithgps.com/hc/en-us/articles/4419011474843-Cuesheets"
     }
   ],
   "bike route mapping se portland hills low traffic": [
     {
-      "url": "https://www.portland.gov/transportation/walking-biking-transit-safety/bike-and-walk-maps-portland",
-      "title": "Bike and Walk Maps of Portland"
+      "title": "Bike and Walk Maps of Portland",
+      "url": "https://www.portland.gov/transportation/walking-biking-transit-safety/bike-and-walk-maps-portland"
     },
     {
-      "url": "https://bikeportland.org/2024/03/19/tools-for-finding-my-way-around-portland-by-bike-384887",
-      "title": "Tools for finding my way around Portland by bike \u2013 BikePortland"
+      "title": "Tools for finding my way around Portland by bike \u2013 BikePortland",
+      "url": "https://bikeportland.org/2024/03/19/tools-for-finding-my-way-around-portland-by-bike-384887"
     },
     {
-      "url": "https://gis-pdx.opendata.arcgis.com/datasets/PDX::recommended-bicycle-routes",
-      "title": "Recommended Bicycle Routes | City of Portland, Oregon 2025"
+      "title": "Recommended Bicycle Routes | City of Portland, Oregon 2025",
+      "url": "https://gis-pdx.opendata.arcgis.com/datasets/PDX::recommended-bicycle-routes"
     },
     {
-      "url": "https://www.bikemap.net/en/l/5746545/",
-      "title": "The best cycling routes and bike trails in and around Portland"
+      "title": "The best cycling routes and bike trails in and around Portland",
+      "url": "https://www.bikemap.net/en/l/5746545/"
     },
     {
-      "url": "https://map.bikecitizens.net/us-portland",
-      "title": "Bike Citizens Cycle Route Planner Portland"
+      "title": "Bike Citizens Cycle Route Planner Portland",
+      "url": "https://map.bikecitizens.net/us-portland"
     }
   ],
   "bike accident reporting portland how to": [
     {
-      "url": "https://www.pdx.edu/environmental-health-safety/accident-reporting",
-      "title": "Accident Reporting | Portland State University"
+      "title": "Winter Driving in Portland : How to Handle Motor Vehicle Accidents ...",
+      "url": "https://www.pacificcascadelegal.com/blog/2025/january/winter-driving-in-portland-how-to-handle-motor-v/"
+    },
+    {
+      "title": "Accident Reporting | Portland State University",
+      "url": "https://www.pdx.edu/environmental-health-safety/accident-reporting"
+    },
+    {
+      "title": "T5 Accident Portland Oregon | TikTok",
+      "url": "https://www.tiktok.com/discover/t5-accident-portland-oregon"
+    },
+    {
+      "title": "The Top Accident Prone Areas in Portland ... - D'Amore Law Group",
+      "url": "https://damorelaw.com/accident-prone-areas-in-portland-oregon/"
+    },
+    {
+      "title": "Hit-and-run driver in Portland bike accident urged to... - oregonlive.com",
+      "url": "https://www.oregonlive.com/portland/2013/06/hit-and-run_driver_in_portland.html"
     }
   ],
   "oregon crosswalk laws for cyclists": [
     {
-      "url": "https://oregonbikelaw.com/bicyclists-walk-bikes-crosswalks/",
-      "title": "Do bicyclists have to walk their bikes in... - OREGON BIKE LAW"
+      "title": "2006 Oregon Law On Crosswalks",
+      "url": "https://www.tcnf.legal/crosswalks/"
     },
     {
-      "url": "https://oregon.public.law/statutes/ors_801.220",
-      "title": "ORS 801.220 \u2013 \u201c Crosswalk .\u201d"
+      "title": "Do bicyclists have to walk their bikes in... - OREGON BIKE LAW",
+      "url": "https://oregonbikelaw.com/bicyclists-walk-bikes-crosswalks/"
     },
     {
-      "url": "https://bikeportland.org/2013/01/04/clearing-up-confusion-around-oregons-crosswalk-law-81541",
-      "title": "Clearing up confusion around Oregon \u2019s crosswalk law \u2013 BikePortland"
+      "title": "ORS 801.220 \u2013 \u201c Crosswalk .\u201d",
+      "url": "https://oregon.public.law/statutes/ors_801.220"
     },
     {
-      "url": "https://www.tcnf.legal/crosswalks/",
-      "title": "2006 Oregon Law On Crosswalks"
+      "title": "Clearing up confusion around Oregon \u2019s crosswalk law \u2013 BikePortland",
+      "url": "https://bikeportland.org/2013/01/04/clearing-up-confusion-around-oregons-crosswalk-law-81541"
+    },
+    {
+      "title": "Oregon Pedestrian Laws - A Quick Reference Guide",
+      "url": "https://www.oregonpedestrianlaw.com/oregonpedestrianlawsexplained"
     }
   ],
-  "reddit r/Portland biking weekly thread": [],
+  "reddit r/Portland biking weekly thread": [
+    {
+      "title": "Bikey Stuff about Portland - Reddit",
+      "url": "https://www.reddit.com/r/BikePortland/"
+    },
+    {
+      "title": "Is Portland really a good city for cycling? : r ... - Reddit",
+      "url": "https://www.reddit.com/r/askportland/comments/peqdyh/is_portland_really_a_good_city_for_cycling/"
+    },
+    {
+      "title": "Getting into biking-advice? : r/askportland - Reddit",
+      "url": "https://www.reddit.com/r/askportland/comments/1c1gjgg/getting_into_bikingadvice/"
+    },
+    {
+      "title": "BikePortland \u2013 Portland Oregon bicycle news, events, culture ...",
+      "url": "https://bikeportland.org/"
+    },
+    {
+      "title": "r/askportland on Reddit: What do I need to know before ...",
+      "url": "https://www.reddit.com/r/askportland/comments/13b4fpb/what_do_i_need_to_know_before_traversing_around/"
+    }
+  ],
   "mastodon cycling community hashtags": [
     {
-      "url": "https://top-hashtags.com/blog/category/mastodon/",
-      "title": "Mastodon Archives - Top Hashtags"
+      "title": "110+ Cycling Hashtags To Grow Your Instagram & TikTok",
+      "url": "https://www.hashtagie.com/cycling-hashtags/"
+    },
+    {
+      "title": "Mastodon Archives - Top Hashtags",
+      "url": "https://top-hashtags.com/blog/category/mastodon/"
+    },
+    {
+      "title": "Avatars from the Mastodon accounts are not displayed in the NNW...",
+      "url": "https://github.com/Ranchero-Software/NetNewsWire/issues/3764"
+    },
+    {
+      "title": "What is Mastodon ? Twitter users are switching social network",
+      "url": "https://www.thenationalnews.com/business/technology/2022/11/07/what-is-mastodon-twitter-users-are-switching-social-network/"
+    },
+    {
+      "title": "Cycling is not dangerous \u2013 it\u2019s bad driving - the ubiquitous blog",
+      "url": "https://kimharding.net/blog/cycling-is-not-dangerous-\u2013-it\u2019s-bad-driving/"
     }
   ],
   "matrix vs slack community moderation tools": [
     {
-      "url": "https://sugggest.com/compare/matrix-org-vs-slack",
-      "title": "Matrix .org vs Slack - Professional Software Comparison | Sugggest"
+      "title": "Matrix .org vs Slack - Professional Software Comparison | Sugggest",
+      "url": "https://sugggest.com/compare/matrix-org-vs-slack"
     },
     {
-      "url": "https://slashdot.org/software/comparison/Discord-vs-Matrix-vs-Slack/",
-      "title": "Compare Discord vs . Matrix vs . Slack in 2025"
+      "title": "Compare Discord vs . Matrix vs . Slack in 2025",
+      "url": "https://slashdot.org/software/comparison/Discord-vs-Matrix-vs-Slack/"
     },
     {
-      "url": "https://sourceforge.net/software/compare/Matrix-vs-Slack/",
-      "title": "Matrix vs . Slack Comparison"
+      "title": "Matrix vs . Slack Comparison",
+      "url": "https://sourceforge.net/software/compare/Matrix-vs-Slack/"
     },
     {
-      "url": "https://www.saashub.com/compare-slack-vs-matrix-org",
-      "title": "Slack VS Matrix .org - compare differences & reviews?"
+      "title": "Slack Alternatives: 25+ Online Group Chat Apps | AlternativeTo",
+      "url": "https://alternativeto.net/software/slack/?platform=online"
+    },
+    {
+      "title": "Slack VS Matrix .org - compare differences & reviews?",
+      "url": "https://www.saashub.com/compare-slack-vs-matrix-org"
     }
   ],
   "discourse theme accessibility audit": [
     {
-      "url": "https://meta.discourse.org/t/ramp-accessibility-issues/164000",
-      "title": "RAMP accessibility issues - UX - Discourse Meta"
+      "title": "Theme accessibility audit guidelines update \u2013 Make WordPress...",
+      "url": "https://make.wordpress.org/accessibility/2013/03/19/theme-accessibility-audit-guidelines-update/"
+    },
+    {
+      "title": "RAMP accessibility issues - UX - Discourse Meta",
+      "url": "https://meta.discourse.org/t/ramp-accessibility-issues/164000"
+    },
+    {
+      "title": "GitHub - wpaccessibility/wp- theme - auditor : Accessibility auditing ...",
+      "url": "https://github.com/wpaccessibility/wp-theme-auditor"
+    },
+    {
+      "title": "Accessibility Audit Exercise - Website... | Frontend Masters",
+      "url": "https://frontendmasters.com/courses/accessibility-v3/accessibility-audit-exercise/"
+    },
+    {
+      "title": "Themes in Discourse Analysis... - Discourse Analyzer AI Toolkit",
+      "url": "https://discourseanalyzer.com/themes-in-discourse-analysis/"
     }
   ],
   "video caption editor keyboard shortcuts": [
     {
-      "url": "https://help.syncwords.com/vod/caption-editor-keyboard-shortcuts",
-      "title": "Caption Editor Keyboard Shortcuts - SyncWords Support"
+      "title": "Free Desktop Video Editor - CapCut Desktop Video Editor",
+      "url": "https://www.bing.com/aclick?ld=e8pNoaaYsJMpoBqH2Ab0PgqDVUCUylFSyPOxz-nhO1Ua3XH8egmwH2xylv3fYZHzD5vJyAhQK3xBpYjjV0QRvgMze9sjnYZHEAsPZAiI-xZS5_0v4UKqcIiZUgW-XiY8owhjl5u45wX-z3xlU4tDmayl9jg7PnZfH-1kYPZoY7gPzlTliCkkBejvUcJWskWPRRBFXmxSAweLmLnx-AEEG0RmIMajc&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2FwY3V0LmNvbSUyZnRvb2xzJTJmZGVza3RvcC12aWRlby1lZGl0b3IlM2Z1dG1fbWVkaXVtJTNkc2VtJTI2dXRtX3NvdXJjZSUzZGJpbmdhZHNfaW50JTI2cGlkJTNkMzU5Mjg5JTI2YWZfY19pZCUzZDQ4NjA0OTMyMSUyNmFkc2V0X2lkJTNkMTIyOTI1NTIzMjA1NzczMiUyNmFkX2lkJTNkJTI2cGxhY2VtZW50JTNkJTI2a2V5d29yZF9uYW1lJTNkZWRpdGluZyUyNTIwdmlkZW8lMjUyMHNvZnR3YXJlJTI2dGFyZ2V0aWQlM2Rrd2QtNzY4Mjg4NzQ2ODY2MTYlM2Fsb2MtMTkwJTI2bWF0Y2h0eXBlJTNkcCUyNk1TQ0xLSUQlM2RiNmExZTE5OWRjODExNjJlMjdkZTg4ZDgzYmVhM2U4OCUyNnV0bV9jYW1wYWlnbiUzZFN1cHBvcnRpbmdfMzU5Mjg5X1VTX2VuX2NjcGNfUENkb3dubG9hZF8yMzExMTZfamlqaW5lbmdfU0VNX29jX0dlbmVyaWMlMjZ1dG1fdGVybSUzZGVkaXRpbmclMjUyMHZpZGVvJTI1MjBzb2Z0d2FyZSUyNnV0bV9jb250ZW50JTNkamlqaW5lbmdfUENfZG93bmxvYWRfMjUwOTExX3ZpZGVvZWRpdG9yX0Jyb2Fk&rlid=b6a1e199dc81162e27de88d83bea3e88"
     },
     {
-      "url": "https://support.captionhub.com/creating-and-editing-captions/uz47hySTrT5PGcSv3hNgUj/keyboard-shortcuts/eT1uEPWHA1yKp87BZbuTeN",
-      "title": "Keyboard shortcuts \u2013 CaptionHub | Knowledgebase"
+      "title": "Caption Generator - Free Video Editor - Your Go-to Video Editor",
+      "url": "https://www.bing.com/aclick?ld=e86AONZ0Eyexrf-3qTm6edmzVUCUxQpHzIJuEbjr6UH1eBCmftt-gQ8ZD-RsR5ncJ_AkCbZTqHQ2Uzefg3kp_RWpnPkSERYLQfyXUnpfmgtaOI0gtPnguY3JphONC3Id3w7ChQ4e_EzDcJmKyn3CxshZLO6EWQyaW6F4_n5Hqd2eUtgYASa5m-e-39mC_GRPc3n7akOfBm3MlZ2h1VTmUJgJ4PxvQ&u=aHR0cHMlM2ElMmYlMmZ3d3cubW92YXZpLmNvbSUyZnN1cHBvcnQlMmZob3ctdG8lMmZob3ctdG8tYWRkLWF1dG8tc3VidGl0bGVzLmh0bWwlM2Z1dG1fY2FtcGFpZ24lM2Q0ODYwOTk2NDglMjZ1dG1fY2FtcGFpZ25pZCUzZDQ4NjA5OTY0OCUyNnV0bV9hZGdyb3VwaWQlM2QxMjQxMzQ5NzAzOTAxOTE5JTI2bXNjbGtpZCUzZDQ3YTdiZDZhM2FmNDEzM2NjZmJiZDQyYmRkOWYwZDZjJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX3Rlcm0lM2RjYXB0aW9uJTI1MjBnZW5lcmF0b3IlMjZ1dG1fY29udGVudCUzZEFVVE9DQVBUSU9OUw&rlid=47a7bd6a3af4133ccfbbd42bdd9f0d6c"
     },
     {
-      "url": "https://adamabramsdesign.com/secret-shortcuts-for-adding-subtitles-on-youtube/",
-      "title": "Secret shortcuts for adding subtitles on YouTube | Adam ..."
+      "title": "Caption Editor Keyboard Shortcuts - SyncWords Support",
+      "url": "https://help.syncwords.com/vod/caption-editor-keyboard-shortcuts"
+    },
+    {
+      "title": "Keyboard shortcuts \u2013 CaptionHub | Knowledgebase",
+      "url": "https://support.captionhub.com/creating-and-editing-captions/uz47hySTrT5PGcSv3hNgUj/keyboard-shortcuts/eT1uEPWHA1yKp87BZbuTeN"
+    },
+    {
+      "title": "Secret shortcuts for adding subtitles on YouTube | Adam ...",
+      "url": "https://adamabramsdesign.com/secret-shortcuts-for-adding-subtitles-on-youtube/"
     }
   ],
   "alt text character limit twitter bluesky": [
     {
-      "url": "https://github.com/bluesky-social/social-app/issues/4998",
-      "title": "Increase character limit for alt text \u00b7 Issue #4998 \u00b7 bluesky ..."
+      "title": "Increase character limit for alt text \u00b7 Issue #4998 \u00b7 bluesky ...",
+      "url": "https://github.com/bluesky-social/social-app/issues/4998"
     },
     {
-      "url": "https://socialbee.com/blog/bluesky-content-guidelines/",
-      "title": "Bluesky content guidelines: media sizes, limits & more"
+      "title": "Bluesky content guidelines: media sizes, limits & more",
+      "url": "https://socialbee.com/blog/bluesky-content-guidelines/"
+    },
+    {
+      "title": "Bluesky API - Ayrshare API Documentation",
+      "url": "https://www.ayrshare.com/docs/apis/post/social-networks/bluesky"
+    },
+    {
+      "title": "Everyone else is talking about Bluesky so I might as well too",
+      "url": "https://spedwybabs.medium.com/everyone-else-is-talking-about-bluesky-so-i-might-as-well-too-5b503bcd8c21"
+    },
+    {
+      "title": "New Character Limit Now Available! - Bluesky",
+      "url": "https://bsky.social/about/blog/04-01-2025-april-fools"
     }
   ],
   "website performance and accessibility budgets": [
     {
-      "url": "https://speaking.scottgruber.me/ZCyKdQ",
-      "title": "Web Design Accessibility , Performance and Aesthetics"
+      "title": "How Small E-Commerce Brands Can Compete and Win Through...",
+      "url": "https://www.elitesiteoptimizer.com/blog/how-small-e-commerce-brands-can-compete-through-better-accessibility/"
+    },
+    {
+      "title": "Web Design Accessibility , Performance and Aesthetics",
+      "url": "https://speaking.scottgruber.me/ZCyKdQ"
+    },
+    {
+      "title": "What is Web Accessibility & How to Achieve It | DesignRush",
+      "url": "https://www.designrush.com/agency/software-development/trends/what-is-web-accessibility-testing"
+    },
+    {
+      "title": "5 Reasons Custom Website Design Will Lead 2026",
+      "url": "https://www.webmoghuls.com/custom-website-design-dominates-2026/"
+    },
+    {
+      "title": "Web Design in Hamilton: Pricing, Examples, and What Works in 2025",
+      "url": "https://www.codemastersinc.com/post/web-design-in-hamilton-pricing-examples-and-what-works-in-2025"
     }
   ],
   "plain language checklist government style": [
     {
-      "url": "https://www.usda.gov/sites/default/files/documents/plain-language-writers-checklist.pdf",
-      "title": "Plain Language Writers Checklist"
+      "title": "Plain Language Writers Checklist",
+      "url": "https://www.usda.gov/sites/default/files/documents/plain-language-writers-checklist.pdf"
     },
     {
-      "url": "https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/writing-guide/plain-language",
-      "title": "Plain language checklist - Province of British Columbia"
+      "title": "Plain language checklist - Province of British Columbia",
+      "url": "https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/writing-guide/plain-language"
+    },
+    {
+      "title": "Plain Language Materials & Resources | Health Literacy | CDC",
+      "url": "https://www.cdc.gov/health-literacy/php/develop-materials/plain-language.html"
+    },
+    {
+      "title": "PLAIN",
+      "url": "https://www.ecala.org/wp-content/uploads/2023/03/Plain-Language-Guide-MP95-2-1-1994-eng.pdf"
+    },
+    {
+      "title": "What the Heck is Plain Language ?",
+      "url": "https://granicus.com/blog/what-the-heck-is-plain-language/"
     }
   ],
   "evidence grading explaining meta analysis layperson": [
     {
-      "url": "http://cgf.cochrane.org/sites/cgf.cochrane.org/files/uploads/uploads/how_to_grade.pdf",
-      "title": "How to GRADE the quality of the evidence - Cochrane"
+      "title": "How to GRADE the quality of the evidence - Cochrane",
+      "url": "http://cgf.cochrane.org/sites/cgf.cochrane.org/files/uploads/uploads/how_to_grade.pdf"
     },
     {
-      "url": "https://guides.lib.vt.edu/SRMA/assesscertainty",
-      "title": "Assess Certainty - Systematic Reviews and Meta-Analyses ..."
+      "title": "GRADE pearls and pitfalls-Part 1: Systematic reviews and meta ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38351600/"
+    },
+    {
+      "title": "GRADE pearls and pitfalls\u2014Part 1: Systematic reviews and meta ...",
+      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/aas.14386"
+    },
+    {
+      "title": "Assess Certainty - Systematic Reviews and Meta-Analyses ...",
+      "url": "https://guides.lib.vt.edu/SRMA/assesscertainty"
+    },
+    {
+      "title": "Assessing the certainty of the evidence in systematic reviews ...",
+      "url": "https://academic.oup.com/aje/article/194/6/1681/7746729"
     }
   ],
   "google scholar alert setup tutorial": [
     {
-      "url": "https://academiainsider.com/google-scholar-alerts/",
-      "title": "Google Scholar Alerts: What Is It And How To Create Alert How to create an alert in Google scholar: Never miss new ... Create a Google Search Alert - Google Scholar Optimization ... Google Scholar Alerts - Google Scholar Help Guide - Library ... Google Scholar - Setting Up Citation Alerts for Library ... Search Alert: How do I setup a Google Scholar alert for my ... Search Alert : How do I setup a Google Scholar alert for my research? \u2026 Google Scholar Alerts: What Is It And How To Create Alert Google Scholar Search: How to use it for Research Purposes? - GreyB Setting Up Citation Alerts for Library Databases: Google Scholar Google Alerts - Google Scholar Tips - LibGuides at Graduate ..."
+      "title": "Google Scholar Alerts: What Is It And How To Create Alert How to create an alert in Google scholar: Never miss new ... Create a Google Search Alert - Google Scholar Optimization ... Google Scholar Alerts - Google Scholar Help Guide - Library ... Google Scholar - Setting Up Citation Alerts for Library ... Search Alert: How do I setup a Google Scholar alert for my ... Search Alert : How do I setup a Google Scholar alert for my research? \u2026 Google Scholar Alerts: What Is It And How To Create Alert Google Scholar Search: How to use it for Research Purposes? - GreyB Setting Up Citation Alerts for Library Databases: Google Scholar Google Alerts - Google Scholar Tips - LibGuides at Graduate ...",
+      "url": "https://academiainsider.com/google-scholar-alerts/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Tyaae00toj0",
-      "title": "How to create an alert in Google scholar: Never miss new ... Create a Google Search Alert - Google Scholar Optimization ... Google Scholar Alerts - Google Scholar Help Guide - Library ... Google Scholar - Setting Up Citation Alerts for Library ... Search Alert: How do I setup a Google Scholar alert for my ... Search Alert : How do I setup a Google Scholar alert for my research? \u2026 Google Scholar Alerts: What Is It And How To Create Alert Google Scholar Search: How to use it for Research Purposes? - GreyB Setting Up Citation Alerts for Library Databases: Google Scholar Google Alerts - Google Scholar Tips - LibGuides at Graduate ..."
+      "title": "How to create an alert in Google scholar: Never miss new ... Create a Google Search Alert - Google Scholar Optimization ... Google Scholar Alerts - Google Scholar Help Guide - Library ... Google Scholar - Setting Up Citation Alerts for Library ... Search Alert: How do I setup a Google Scholar alert for my ... Search Alert : How do I setup a Google Scholar alert for my research? \u2026 Google Scholar Alerts: What Is It And How To Create Alert Google Scholar Search: How to use it for Research Purposes? - GreyB Setting Up Citation Alerts for Library Databases: Google Scholar Google Alerts - Google Scholar Tips - LibGuides at Graduate ...",
+      "url": "https://www.youtube.com/watch?v=Tyaae00toj0"
     },
     {
-      "url": "https://guides.lib.uw.edu/hsl/google-scholar/alert",
-      "title": "Google Scholar Alerts - Google Scholar Help Guide - Library ..."
+      "title": "Create a Google Search Alert - Google Scholar Optimization ...",
+      "url": "https://cmhshealth.libguides.com/c.php?g=1054887&p=8989492"
     },
     {
-      "url": "https://guides.libs.uga.edu/c.php?g=349639&p=2691568",
-      "title": "Google Scholar - Setting Up Citation Alerts for Library ..."
+      "title": "Google Scholar Alerts - Google Scholar Help Guide - Library ...",
+      "url": "https://guides.lib.uw.edu/hsl/google-scholar/alert"
+    },
+    {
+      "title": "Google Scholar - Setting Up Citation Alerts for Library ...",
+      "url": "https://guides.libs.uga.edu/c.php?g=349639&p=2691568"
     }
   ],
   "portland coworking spaces with bike parking and showers": [
     {
-      "url": "https://www.coworker.com/united-states/oregon/portland",
-      "title": "Best Coworking Spaces in Portland | Coworker.com"
+      "title": "Best Coworking Spaces in Portland | Coworker.com",
+      "url": "https://www.coworker.com/united-states/oregon/portland"
     },
     {
-      "url": "https://kiln.com/communities/portland/",
-      "title": "Coworking , Office, Meeting, and Event Space for Rent in Portland | Kiln"
+      "title": "Your Guide to Portland Coworking Spaces | Mac's List",
+      "url": "https://www.macslist.org/working-in-portland/portland-coworking-space"
     },
     {
-      "url": "https://www.wework.com/l/coworking-space/portland--OR",
-      "title": "Coworking Space & Shared Offices in Portland | WeWork"
+      "title": "10 Best coworking spaces in Portland , Oregon | Surf Office",
+      "url": "https://www.surfoffice.com/coworking/portland"
+    },
+    {
+      "title": "Coworking , Office, Meeting, and Event Space for Rent in Portland | Kiln",
+      "url": "https://kiln.com/communities/portland/"
+    },
+    {
+      "title": "Coworking Space & Shared Offices in Portland | WeWork",
+      "url": "https://www.wework.com/l/coworking-space/portland--OR"
     }
   ]
 }

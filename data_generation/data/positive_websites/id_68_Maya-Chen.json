@@ -1,1302 +1,2202 @@
 {
   "measuring touch latency high speed camera method": [
     {
-      "url": "https://www.adaptarobotics.com/blog/touchscreen-response-time-measurement/",
-      "title": "Touch Screen Response Time Measurement Automation"
+      "title": "Touch Screen Response Time Measurement Automation",
+      "url": "https://www.adaptarobotics.com/blog/touchscreen-response-time-measurement/"
+    },
+    {
+      "title": "What is touch response time and why is it important for LCD...",
+      "url": "https://huaxianjing.com/what-is-touch-response-time-and-why-is-it-important-for-lcd-touchscreens/"
+    },
+    {
+      "title": "Reducing the Latency of Touch Tracking on Ad-hoc Surfaces",
+      "url": "https://www.robertxiao.ca/pubs/2022_ISS_LowLatencyTouch.pdf"
+    },
+    {
+      "title": "What is the touch latency of a resistive touch screen? - Blog",
+      "url": "https://www.polcd-digital.com/blog/what-is-the-touch-latency-of-a-resistive-touch-screen-222794.html"
+    },
+    {
+      "title": "HaloTouch: Using IR Multi-path Interference to Support Touch ...",
+      "url": "https://arxiv.org/pdf/2503.01197"
     }
   ],
   "shutter lag measurement smartphone 240fps tutorial": [
     {
-      "url": "https://photo.stackexchange.com/questions/45284/determining-lag-between-pushing-the-button-taking-a-shot",
-      "title": "shutter lag - Determining lag between pushing the button & taking..."
+      "title": "shutter lag - Determining lag between pushing the button & taking...",
+      "url": "https://photo.stackexchange.com/questions/45284/determining-lag-between-pushing-the-button-taking-a-shot"
+    },
+    {
+      "title": "S22 Ultra Shutter Lag | TikTok",
+      "url": "https://www.tiktok.com/discover/s22-ultra-shutter-lag"
+    },
+    {
+      "title": "How to Fix Shutter Lag Causing Blurry Photos on... - Seber Tech",
+      "url": "https://www.sebertech.com/how-to-fix-shutter-lag-causing-blurry-photos-on-samsung-galaxy-s25-ultra-camera/"
+    },
+    {
+      "title": "Don\u2019t Like the Shutter Lag on the Galaxy S24 Ultra? - TechBloat",
+      "url": "https://www.techbloat.com/dont-like-the-shutter-lag-on-the-galaxy-s24-ultra-heres-a-simple-fix.html"
+    },
+    {
+      "title": "Shutter lag comments from Jesko von Oeynhausen - Leica M11...",
+      "url": "https://www.l-camera-forum.com/topic/334121-shutter-lag-comments-from-jesko-von-oeynhausen/"
     }
   ],
   "android adb script battery drain test": [
     {
-      "url": "https://gist.github.com/Pulimet/5013acf2cd5b28e55036c82c91bd56d8",
-      "title": "Adb useful commands list \u00b7 GitHub"
+      "title": "3 Ways to Run ADB Commands on Android without PC or Root",
+      "url": "https://technastic.com/run-adb-commands-android-without-pc/"
+    },
+    {
+      "title": "Adb useful commands list \u00b7 GitHub",
+      "url": "https://gist.github.com/Pulimet/5013acf2cd5b28e55036c82c91bd56d8"
+    },
+    {
+      "title": "Redmi K40 Battery Drain Test | TikTok",
+      "url": "https://www.tiktok.com/discover/redmi-k40-battery-drain-test"
+    },
+    {
+      "title": "A Guide to Mastering Battery Drain Testing .pdf",
+      "url": "https://www.slideshare.net/slideshow/a-guide-to-mastering-battery-drain-testing-pdf/272028193"
+    },
+    {
+      "title": "Battery drain tests (3G vs 4G vs screen vs idle) | Early Bird Club",
+      "url": "https://forum.earlybird.club/threads/battery-drain-tests-3g-vs-4g-vs-screen-vs-idle.502036/"
     }
   ],
   "iOS Shortcuts loop playback screen on battery test": [
     {
-      "url": "https://www.appsntips.com/home/best-siri-shortcuts-ios/",
-      "title": "30 Best iOS Shortcuts for iPhone Shortcuts App in 2025"
+      "title": "iOS 26 vs iOS 18 BATTERY Test on iPhone 16, 15, 14, 13... - YouTube",
+      "url": "https://www.youtube.com/watch?v=LLkjVv0-g0U"
     },
     {
-      "url": "https://goblue.mintlify.app/guides/ios-shortcuts-setup",
-      "title": "iOS Shortcuts Setup Guide - GoBlue Documentation"
+      "title": "30 Best iOS Shortcuts for iPhone Shortcuts App in 2025",
+      "url": "https://www.appsntips.com/home/best-siri-shortcuts-ios/"
+    },
+    {
+      "title": "iOS Shortcuts Setup Guide - GoBlue Documentation",
+      "url": "https://goblue.mintlify.app/guides/ios-shortcuts-setup"
+    },
+    {
+      "title": "Battery Drain on iOS 26 and iOS 26.0.1. - Apple Community",
+      "url": "https://discussions.apple.com/thread/256153355"
+    },
+    {
+      "title": "Xiaomi 15 Battery Test | TikTok",
+      "url": "https://www.tiktok.com/discover/xiaomi-15-battery-test"
     }
   ],
   "usb pd analyzer recommendations PPS logging": [
     {
-      "url": "https://community.infineon.com/t5/Knowledge-Base-Articles/Capture-USB-Power-Delivery-USB-PD-traffic-for-analysis-during-application/ta-p/268587",
-      "title": "Capture USB Power Delivery (USB PD) traffic for analysis ..."
+      "title": "Microsoft Word - QuadraMAX PPS Test Manual - USB-IF",
+      "url": "https://www.usb.org/sites/default/files/QuadraMAX+PPS+Test+Manual.pdf"
     },
     {
-      "url": "https://www.ti.com/tool/TI-PD-ANALYZER",
-      "title": "TI-PD-ANALYZER Evaluation board | TI.com"
+      "title": "Capture USB Power Delivery (USB PD) traffic for analysis ...",
+      "url": "https://community.infineon.com/t5/Knowledge-Base-Articles/Capture-USB-Power-Delivery-USB-PD-traffic-for-analysis-during-application/ta-p/268587"
     },
     {
-      "url": "https://www.totalphase.com/support/articles/217474437-usb-power-delivery-analyzer-user-manual/",
-      "title": "USB Power Delivery Analyzer User Manual - Total Phase GitHub - tejv/USBCx: USB Power Delivery Protocol Analyzer GUI How to use Acroname\u2019s USBHub3c hub for USB Power Delivery ... PassMark USB Power Delivery Tester PRO FAQ"
+      "title": "TI-PD-ANALYZER Evaluation board | TI.com",
+      "url": "https://www.ti.com/tool/TI-PD-ANALYZER"
     },
     {
-      "url": "https://github.com/tejv/USBCx",
-      "title": "GitHub - tejv/USBCx: USB Power Delivery Protocol Analyzer GUI"
+      "title": "USB Power Delivery Analyzer User Manual - Total Phase GitHub - tejv/USBCx: USB Power Delivery Protocol Analyzer GUI How to use Acroname\u2019s USBHub3c hub for USB Power Delivery ... PassMark USB Power Delivery Tester PRO FAQ",
+      "url": "https://www.totalphase.com/support/articles/217474437-usb-power-delivery-analyzer-user-manual/"
+    },
+    {
+      "title": "GitHub - tejv/USBCx: USB Power Delivery Protocol Analyzer GUI",
+      "url": "https://github.com/tejv/USBCx"
     }
   ],
   "PD EPR 240W trigger board review": [
     {
-      "url": "https://www.chargerlab.com/chargerlab-power-z-sink240-a-compact-usb-pd3-1-48v-trigger-board/",
-      "title": "ChargerLAB POWER-Z SINK240: A Compact USB PD3.1 48V Trigger Board"
+      "title": "Pd Trigger Board - See Reviews & Ratings",
+      "url": "https://www.bing.com/aclick?ld=e8nAsHxQsVVkttf9Ec0UUd4jVUCUwpEc0S29x4MLa8oDiqQqJmgceLeW1szOGrGxvszbVKSg-BralqLbbQ1NeLnS_FUZfXDJgIUGdPuCozK1TjGa_k6Mi9VlIqcfUlqao_mrPO6tjTb0M7yTBBnzKIADRuuO0x2E0KzWJX-dRJulF4KtQHGmETyErmbZGz_qEIECzbwyIv_FFNBq0cAsu_aYjcNmo&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHBkJTJidHJpZ2dlciUyYmJvYXJkJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfM3JseGpqYnJsdl9wJTI2YWRncnBpZCUzZDEzMzQ4MDc4NTQ4Nzg5MDAlMjZodmFkaWQlM2Q4MzQyNTY5NDg0MTMzMyUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODM0MjU5NTU0OTU2NjclM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDkyMV8xMDE0OTUwODgzJTI2bWNpZCUzZDE4MWY2M2VmMmEzNjMxODJiODNjYzMyYzFmY2RlNDk2JTI2bXNjbGtpZCUzZDY5ODM4NGY1NDY4YjEwZGJlNWY2ZWRiNDg4ZThiZTcw&rlid=698384f5468b10dbe5f6edb488e8be70"
+    },
+    {
+      "title": "ChargerLAB POWER-Z SINK240: A Compact USB PD3.1 48V Trigger Board",
+      "url": "https://www.chargerlab.com/chargerlab-power-z-sink240-a-compact-usb-pd3-1-48v-trigger-board/"
+    },
+    {
+      "title": "Are there any 240w USB-C decoy trigger modules? - Reddit",
+      "url": "https://www.reddit.com/r/UsbCHardware/comments/177vjqp/are_there_any_240w_usbc_decoy_trigger_modules/"
+    },
+    {
+      "title": "USB-C PD 3.1 EPR: A Full System Design Solution, Wall to ...",
+      "url": "https://www.eetimes.com/usb-c-pd-3-1-epr-a-full-system-design-solution-wall-to-battery/"
+    },
+    {
+      "title": "USB Extended Power Range on REF_XDPS2222_240W1 reference board",
+      "url": "https://community.infineon.com/t5/Knowledge-Base-Articles/USB-Extended-Power-Range-on-REF-XDPS2222-240W1-reference-board/ta-p/895906"
     }
   ],
   "monsoon power monitor alternatives open source": [
     {
-      "url": "https://brave.com/research/files/2019_HotNets__BatteryLab.pdf",
-      "title": "BatteryLab, A Distributed Power Monitoring Platform For Mobile..."
+      "title": "High Voltage Power Monitor | Monsoon Solutions | Bellevue",
+      "url": "https://www.msoon.com/high-voltage-power-monitor"
     },
     {
-      "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.229.2351&rep=rep1&type=pdf",
-      "title": "Demo: Phone Power Monitoring with BattOr"
+      "title": "Monsoon Power Monitor Python Library",
+      "url": "https://awesomeopensource.com/project/msoon/PyMonsoon"
+    },
+    {
+      "title": "GitHub - farleylai/MonsoonPowerToolWS: Monsoon PowerTool Web...",
+      "url": "https://github.com/farleylai/MonsoonPowerToolWS"
+    },
+    {
+      "title": "BatteryLab, A Distributed Power Monitoring Platform For Mobile...",
+      "url": "https://brave.com/research/files/2019_HotNets__BatteryLab.pdf"
+    },
+    {
+      "title": "Demo: Phone Power Monitoring with BattOr",
+      "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.229.2351&rep=rep1&type=pdf"
     }
   ],
   "idle drain test protocol smartphone": [
     {
-      "url": "https://www.headspin.io/blog/battery-drain-testing-guide",
-      "title": "How to Master Battery Drain Testing - HeadSpin"
+      "title": "How to Master Battery Drain Testing - HeadSpin",
+      "url": "https://www.headspin.io/blog/battery-drain-testing-guide"
     },
     {
-      "url": "https://medium.com/@baluriy.dw136th237/a-guide-to-mastering-battery-drain-testing-68a461ef686a",
-      "title": "A Guide to Mastering Battery Drain Testing - Medium"
+      "title": "Why is phone idle draining my battery quickly? is there a fix? Images A Guide to Mastering Battery Drain Testing - Medium Phone idle battery drain issue. - Google Pixel Community How To Test For Battery Drain: Quick And Easy Tips! Android App Testing for Battery Drain - Tips and Tricks - pCloudy How to Automate App Battery Drain Testing using Eagle Tester?",
+      "url": "https://www.reddit.com/r/Xiaomi/comments/11hr0ph/why_is_phone_idle_draining_my_battery_quickly_is/"
     },
     {
-      "url": "https://poweruptips.com/how-to-test-for-battery-drain/",
-      "title": "How To Test For Battery Drain: Quick And Easy Tips!"
+      "title": "A Guide to Mastering Battery Drain Testing - Medium",
+      "url": "https://medium.com/@baluriy.dw136th237/a-guide-to-mastering-battery-drain-testing-68a461ef686a"
+    },
+    {
+      "title": "Phone idle battery drain issue. - Google Pixel Community",
+      "url": "https://support.google.com/pixelphone/thread/188690269/phone-idle-battery-drain-issue?hl=en"
+    },
+    {
+      "title": "How To Test For Battery Drain: Quick And Easy Tips!",
+      "url": "https://poweruptips.com/how-to-test-for-battery-drain/"
     }
   ],
   "thermal throttling test 3DMark wildlife stress interpretation": [
     {
-      "url": "https://hothardware.com/news/ul-benchmarks-3dmark-wildlife-stress-test-benchmark-iphone-android",
-      "title": "3 DMark WildLife Benchmark Shows iPhones Thrashing... | HotHardware"
+      "title": "3 DMark WildLife Benchmark Shows iPhones Thrashing... | HotHardware",
+      "url": "https://hothardware.com/news/ul-benchmarks-3dmark-wildlife-stress-test-benchmark-iphone-android"
     },
     {
-      "url": "https://www.youtube.com/watch?v=QKqUFMhd8xc",
-      "title": "Is The Tab S8 Ultra A Thermal THROTTLING Mess? 3 DMark ..."
+      "title": "Does the Apple iPhone 12 has a thermal throttling problem? | Medium",
+      "url": "https://ixeo.medium.com/does-the-apple-iphone-12-has-a-thermal-throttling-problem-1e226b24c70"
+    },
+    {
+      "title": "Is The Tab S8 Ultra A Thermal THROTTLING Mess? 3 DMark ...",
+      "url": "https://www.youtube.com/watch?v=QKqUFMhd8xc"
+    },
+    {
+      "title": "Pixel 9\u2019s Tensor G4 Tested : Heating, CPU Throttling ... | wanderwords",
+      "url": "https://wanderwords.pages.dev/posts/pixel-9-s-tensor-g4-tested-heating-cpu-throttling-geekbench-and-antutu-benchmark/"
+    },
+    {
+      "title": "iPhone 12 Pro Vs Mi 10T Pro Vs Mi 10 Ultra Vs Poco F2 Pro Thermal ...",
+      "url": "https://phonels.com/article/iphone-12-pro-vs-mi-10t-pro-vs-mi-10-ultra-vs-poco-f2-pro-thermal-throttling-test.39584"
     }
   ],
   "cpu throttling test app accuracy debate": [
     {
-      "url": "https://beebom.com/how-test-smartphone-throttling/",
-      "title": "How to Test Smartphone Throttling [ CPU and GPU] | Beebom"
+      "title": "CPU Throttling Test APK Download for Android - Latest Version",
+      "url": "https://apkpure.net/cpu-throttling-test/skynet.cputhrottlingtest"
+    },
+    {
+      "title": "How to Test Smartphone Throttling [ CPU and GPU] | Beebom",
+      "url": "https://beebom.com/how-test-smartphone-throttling/"
+    },
+    {
+      "title": "\u0421\u043a\u0430\u0447\u0430\u0442\u044c CPU Throttling Test 1.3.4 \u0434\u043b\u044f Android",
+      "url": "https://trashbox.ru/link/cpu-throttling-test-android"
+    },
+    {
+      "title": "CPU Throttling Test - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.texts.throttlebench&hl=en_US"
+    },
+    {
+      "title": "CPU Throttling Test APK for Android - Download",
+      "url": "https://cpu-throttling-test.en.softonic.com/"
     }
   ],
   "FLIR camera smartphone throttling hotspots detection best practices": [
     {
-      "url": "https://www.thermalimaging.ae/detecting-hotspots-in-ev-chargers-with-flir-thermal-imaging-cameras-in-uae/",
-      "title": "Detecting Hotspots in EV Chargers with FLIR Thermal Imaging..."
+      "title": "Detecting Hotspots in EV Chargers with FLIR Thermal Imaging...",
+      "url": "https://www.thermalimaging.ae/detecting-hotspots-in-ev-chargers-with-flir-thermal-imaging-cameras-in-uae/"
     },
     {
-      "url": "https://www.wired.com/gallery/best-thermal-cameras-for-phones/",
-      "title": "Best Thermal Cameras for Phones (2022): Flir , Seek... | WIRED"
+      "title": "Best Thermal Cameras for Phones (2022): Flir , Seek... | WIRED",
+      "url": "https://www.wired.com/gallery/best-thermal-cameras-for-phones/"
+    },
+    {
+      "title": "Thermal Camera Installation at Balco: Hot Spot Detection in Coal...",
+      "url": "https://agilemicrosys.com/projects/balco/"
+    },
+    {
+      "title": "Next-Gen Tech for Bed Bug Detection : Best Thermal Cameras , AI...",
+      "url": "https://bedbugdetected.com/next-gen-tech-for-bed-bug-detection-best-thermal-cameras-ai-scanners-sensors-that-actually-work/"
+    },
+    {
+      "title": "Best thermal cameras for early fire detection",
+      "url": "https://movitherm.com/blog/best-thermal-cameras-for-early-fire-detection-and-how-to-choose-the-right-one/"
     }
   ],
   "display colorimeter vs spectrophotometer for phones": [
     {
-      "url": "https://www.avsforum.com/threads/spectrophotometers-vs-colorimeters-for-calibrating-oled-screens.3271986/",
-      "title": "Spectrophotometers vs Colorimeters for calibrating... | AVS Forum"
+      "title": "What's better for screen calbiration: Colorimeter or... | Forum",
+      "url": "https://forum.luminous-landscape.com/index.php?topic=111822.0"
     },
     {
-      "url": "https://forum.luminous-landscape.com/index.php?topic=111822.0",
-      "title": "What's better for screen calbiration: Colorimeter or... | Forum"
+      "title": "Spectrophotometer vs . Colorimeter for Color Management",
+      "url": "https://shotkit.com/spectrophotometer-vs-colorimeter/"
+    },
+    {
+      "title": "Spectrophotometer vs . Colorimeter : What\u2019s the Difference?",
+      "url": "https://www.linkedin.com/pulse/spectrophotometer-vs-colorimeter-whats-difference-hunterlab-zcbjf"
+    },
+    {
+      "title": "Spectrophotometers vs Colorimeters for calibrating... | AVS Forum",
+      "url": "https://www.avsforum.com/threads/spectrophotometers-vs-colorimeters-for-calibrating-oled-screens.3271986/"
+    },
+    {
+      "title": "Colorimeters vs . Spectrophotometers | Konica Minolta Sensing",
+      "url": "https://sensing.konicaminolta.us/us/blog/colorimeters-vs-spectrophotometers/"
     }
   ],
   "calibrate color meter sRGB P3 workflow": [
     {
-      "url": "https://devblogs.microsoft.com/directx/auto-color-management/",
-      "title": "Advancing the State of Color Management in Windows - DirectX..."
+      "title": "Advancing the State of Color Management in Windows - DirectX...",
+      "url": "https://devblogs.microsoft.com/directx/auto-color-management/"
     },
     {
-      "url": "https://techsynchron.com/how-to-optimize-windows-color-management-for-content-creation/",
-      "title": "How To Optimize Windows Color Management For Content Creation..."
+      "title": "How To Optimize Windows Color Management For Content Creation...",
+      "url": "https://techsynchron.com/how-to-optimize-windows-color-management-for-content-creation/"
     },
     {
-      "url": "https://truhu.app/blog/windows-color-management-settings/",
-      "title": "Guide to Color Management Settings in Windows 10 and 11 - TruHu"
+      "title": "Photos and Color Profiles: The Quickly Approaching Move... | PetaPixel",
+      "url": "https://petapixel.com/2017/08/25/photos-color-profiles-quickly-approaching-move-wide-gamut/"
+    },
+    {
+      "title": "Web browsers color management (solved)... - discuss.pixls.us",
+      "url": "https://discuss.pixls.us/t/web-browsers-color-management-solved/15071"
+    },
+    {
+      "title": "Guide to Color Management Settings in Windows 10 and 11 - TruHu",
+      "url": "https://truhu.app/blog/windows-color-management-settings/"
     }
   ],
   "deltaE target for consumer displays": [
     {
-      "url": "https://www.viewsonic.com/library/creative-work/what-is-delta-e-and-why-is-it-important-for-color-accuracy/",
-      "title": "What Is Delta E? And Why Is It Important for Color Accuracy?"
+      "title": "What Is Delta E? And Why Is It Important for Color Accuracy?",
+      "url": "https://www.viewsonic.com/library/creative-work/what-is-delta-e-and-why-is-it-important-for-color-accuracy/"
     },
     {
-      "url": "https://www.portrait.com/resource-center/about-deltae-e/",
-      "title": "About DeltaE (\u0394E) - Portrait Displays"
+      "title": "About DeltaE (\u0394E) - Portrait Displays",
+      "url": "https://www.portrait.com/resource-center/about-deltae-e/"
     },
     {
-      "url": "https://www.xp-pen.com/blog/delta-e-color-accuracy.html",
-      "title": "Delta E Unveiled: The Science behind Monitor Color Accuracy"
+      "title": "Color Accuracy and Delta E Explained: Considerations for ...",
+      "url": "https://formlabs.com/global/blog/color-accuracy-delta-e/"
     },
     {
-      "url": "https://www.arzopa.com/blogs/guide/understanding-delta-e",
-      "title": "Understanding Delta E: The Ultimate Guide to Color Accuracy"
+      "title": "Delta E Unveiled: The Science behind Monitor Color Accuracy",
+      "url": "https://www.xp-pen.com/blog/delta-e-color-accuracy.html"
+    },
+    {
+      "title": "Understanding Delta E: The Ultimate Guide to Color Accuracy",
+      "url": "https://www.arzopa.com/blogs/guide/understanding-delta-e"
     }
   ],
   "pwm dimming detection smartphone flicker oscilloscope": [
     {
-      "url": "https://ledstrain.org/d/2589-products-to-try-or-avoid-pwm-flicker-and-temporal-dithering-testing",
-      "title": "Products to try or avoid? PWM Flicker and Temporal Dithering ..."
+      "title": "What is PWM dimming, and what are the alternatives?",
+      "url": "https://www.androidcentral.com/phones/what-is-pwm-display-flicker-tips-and-tricks"
     },
     {
-      "url": "https://sites.google.com/view/screentech-guides/screen-technology-insights-trends/detecting-pwm-flicker-and-temporal-dimming-patterns-using-solid-black-and-w",
-      "title": "Detecting PWM Flicker and Temporal Dimming Patterns Using ..."
+      "title": "Products to try or avoid? PWM Flicker and Temporal Dithering ...",
+      "url": "https://ledstrain.org/d/2589-products-to-try-or-avoid-pwm-flicker-and-temporal-dithering-testing"
+    },
+    {
+      "title": "Detecting PWM Flicker and Temporal Dimming Patterns Using ...",
+      "url": "https://sites.google.com/view/screentech-guides/screen-technology-insights-trends/detecting-pwm-flicker-and-temporal-dimming-patterns-using-solid-black-and-w"
+    },
+    {
+      "title": "PWM \u2013 Is your phone making you sick? (smartphone guide)",
+      "url": "https://cybershack.com.au/guides/pwm-is-your-phone-making-you-sick-smartphone-guide/"
+    },
+    {
+      "title": "Eye care: prevent PWM and or temporal dithering - GitHub",
+      "url": "https://github.com/waydabber/BetterDisplay/wiki/Eye-care:-prevent-PWM-and-or-temporal-dithering"
     }
   ],
   "oled burn in long term tests data": [
     {
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/21-months-and-5-000-hours-in-this-long-term-oled-monitor-burn-in-test-finds-that-panel-degradation-slows-after-six-months/",
-      "title": "21 months and 5,000 hours in, this long - term OLED monitor burn - in ..."
+      "title": "21 months and 5,000 hours in, this long - term OLED monitor burn - in ...",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/21-months-and-5-000-hours-in-this-long-term-oled-monitor-burn-in-test-finds-that-panel-degradation-slows-after-six-months/"
     },
     {
-      "url": "https://www.notebookcheck.net/Long-term-OLED-monitor-burn-in-test-shows-visible-issues-but-gamers-have-nothing-to-worry-about.1109807.0.html",
-      "title": "Long - term OLED monitor burn - in test ... - NotebookCheck.net News"
+      "title": "Long - term OLED monitor burn - in test ... - NotebookCheck.net News",
+      "url": "https://www.notebookcheck.net/Long-term-OLED-monitor-burn-in-test-shows-visible-issues-but-gamers-have-nothing-to-worry-about.1109807.0.html"
     },
     {
-      "url": "https://www.techspot.com/article/2958-oled-burn-in-test/",
-      "title": "techspot.com/article/2958- oled - burn - in - test"
+      "title": "techspot.com/article/2958- oled - burn - in - test",
+      "url": "https://www.techspot.com/article/2958-oled-burn-in-test/"
     },
     {
-      "url": "https://www.rtings.com/tv/learn/permanent-image-retention-burn-in-lcd-oled",
-      "title": "20/7 Burn - In Test : OLED vs LCD VA vs LCD IPS - RTINGS.com"
+      "title": "20/7 Burn - In Test : OLED vs LCD VA vs LCD IPS - RTINGS.com",
+      "url": "https://www.rtings.com/tv/learn/permanent-image-retention-burn-in-lcd-oled"
+    },
+    {
+      "title": "OLED Burn - In Test : No Screen Burn After 6 Months of... - YouTube",
+      "url": "https://www.youtube.com/watch?v=SlP2kwNqXNA"
     }
   ],
   "android privacy defaults disable telemetry guide": [
     {
-      "url": "https://en.androidsis.com/Android-security-settings-that-should-be-disabled-and-how-to-fine-tune-them/",
-      "title": "Android Security: Settings You Should Disable and How to Fine ..."
+      "title": "Android Security: Settings You Should Disable and How to Fine ...",
+      "url": "https://en.androidsis.com/Android-security-settings-that-should-be-disabled-and-how-to-fine-tune-them/"
     },
     {
-      "url": "https://www.geeksforgeeks.org/techtips/android-settings-you-need-to-turn-off/",
-      "title": "10 Android Settings You Need To Turn Off Now - GeeksforGeeks"
+      "title": "10 Android Settings You Need To Turn Off Now - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/techtips/android-settings-you-need-to-turn-off/"
     },
     {
-      "url": "https://www.gadgetgyani.com/dangerous-android-settings-turn-off-privacy-2025/",
-      "title": "Is Your Phone Spying on You? 5 Android Settings to Disable ..."
+      "title": "Is Your Phone Spying on You? 5 Android Settings to Disable ...",
+      "url": "https://www.gadgetgyani.com/dangerous-android-settings-turn-off-privacy-2025/"
     },
     {
-      "url": "https://www.makeuseof.com/change-these-default-android-privacy-settings/",
-      "title": "Your Android Phone\u2019s Default Settings Are a Privacy Nightmare ..."
+      "title": "Your Android Phone\u2019s Default Settings Are a Privacy Nightmare ...",
+      "url": "https://www.makeuseof.com/change-these-default-android-privacy-settings/"
     },
     {
-      "url": "https://ssd.eff.org/module/how-to-get-to-know-android-privacy-and-security-settings",
-      "title": "How to: Get to Know Android Privacy and Security Settings"
+      "title": "How to: Get to Know Android Privacy and Security Settings",
+      "url": "https://ssd.eff.org/module/how-to-get-to-know-android-privacy-and-security-settings"
     }
   ],
   "ios analytics off turn off ad tracking 2025": [
     {
-      "url": "https://www.youtube.com/watch?v=lb2pvs2vTGU",
-      "title": "How to Disable Ad Tracking on iPhone (2025 Privacy Settings ... Change These iPhone Settings to Stop Apple From Collecting ... 8 iPhone Settings You Need to Turn Off IMMEDIATELY! How to Disable Ad Tracking on All Devices in 2025 - PrivacySavvy How to turn off Analytics on Mac, iPhone, and iPad to protect ... iOS Privacy Updates: How to Handle App Tracking and User ... Why and How to Turn Off \u201cShare iPhone Analytics\u201d and \u201cApple ..."
+      "title": "How to Disable Ad Tracking on iPhone (2025 Privacy Settings ... Change These iPhone Settings to Stop Apple From Collecting ... 8 iPhone Settings You Need to Turn Off IMMEDIATELY! How to Disable Ad Tracking on All Devices in 2025 - PrivacySavvy How to turn off Analytics on Mac, iPhone, and iPad to protect ... iOS Privacy Updates: How to Handle App Tracking and User ... Why and How to Turn Off \u201cShare iPhone Analytics\u201d and \u201cApple ...",
+      "url": "https://www.youtube.com/watch?v=lb2pvs2vTGU"
     },
     {
-      "url": "https://privacysavvy.com/security/safe-browsing/disable-ad-tracking/",
-      "title": "How to Disable Ad Tracking on All Devices in 2025 - PrivacySavvy How to turn off Analytics on Mac, iPhone, and iPad to protect ... iOS Privacy Updates: How to Handle App Tracking and User ... Why and How to Turn Off \u201cShare iPhone Analytics\u201d and \u201cApple ..."
+      "title": "8 iPhone Settings You Need to Turn Off IMMEDIATELY!",
+      "url": "https://www.geeky-gadgets.com/8-iphone-settings-you-need-to-turn-off-immediately/"
     },
     {
-      "url": "https://www.intego.com/mac-security-blog/how-to-turn-off-analytics-on-mac-iphone-and-ipad-to-protect-your-privacy/",
-      "title": "How to turn off Analytics on Mac, iPhone, and iPad to protect ..."
+      "title": "How to Disable Ad Tracking on All Devices in 2025 - PrivacySavvy How to turn off Analytics on Mac, iPhone, and iPad to protect ... iOS Privacy Updates: How to Handle App Tracking and User ... Why and How to Turn Off \u201cShare iPhone Analytics\u201d and \u201cApple ...",
+      "url": "https://privacysavvy.com/security/safe-browsing/disable-ad-tracking/"
+    },
+    {
+      "title": "How to turn off Analytics on Mac, iPhone, and iPad to protect ...",
+      "url": "https://www.intego.com/mac-security-blog/how-to-turn-off-analytics-on-mac-iphone-and-ipad-to-protect-your-privacy/"
+    },
+    {
+      "title": "iOS Privacy Updates: How to Handle App Tracking and User ...",
+      "url": "https://medium.com/mobile-innovation-network/ios-privacy-updates-how-to-handle-app-tracking-and-user-consent-in-2025-69fef6579edf"
     }
   ],
   "router telemetry opt out eero google nest": [
     {
-      "url": "https://addies-newsletter.beehiiv.com/p/is-your-router-secretly-spying-on-you-at-home-2d7a",
-      "title": "How Your Router Is Spying on You Without a Camera"
+      "title": "Wi-Fi 7 Mesh Router Showdown: Eero Max 7 vs. Google Nest Wi-Fi...",
+      "url": "https://ts2.tech/en/wi-fi-7-mesh-router-showdown-eero-max-7-vs-google-nest-wi-fi-pro-7-vs-tp-link-deco-be95-which-reigns-supreme-in-2025/"
     },
     {
-      "url": "https://www.historytools.org/docs/reasons-to-avoid-amazon-eero",
-      "title": "Why You Should Avoid Amazon Eero Mesh WiFi Routers : An..."
+      "title": "Google Nest Protect connectivity issues with Eero wifi",
+      "url": "https://www.googlenestcommunity.com/t5/Nest-Protect/Google-Nest-Protect-connectivity-issues-with-Eero-wifi/m-p/718846"
+    },
+    {
+      "title": "Amazon Eero Review: Whole-home Mesh Wi-Fi for... - Tech Advisor",
+      "url": "https://www.techadvisor.com/article/721526/amazon-eero-mesh-wi-fi-review.html"
+    },
+    {
+      "title": "How Your Router Is Spying on You Without a Camera",
+      "url": "https://addies-newsletter.beehiiv.com/p/is-your-router-secretly-spying-on-you-at-home-2d7a"
+    },
+    {
+      "title": "Why You Should Avoid Amazon Eero Mesh WiFi Routers : An...",
+      "url": "https://www.historytools.org/docs/reasons-to-avoid-amazon-eero"
     }
   ],
   "openwrt basic privacy hardening dns over https": [
     {
-      "url": "https://openwrt.org/docs/guide-user/services/dns/dot_dnsmasq_dnsproxy?s[]=adguard&s[]=dns",
-      "title": "[OpenWrt Wiki] DoH/DoH3, DoT, DoQ and DNSCrypt with Dnsmasq ..."
+      "title": "[OpenWrt Wiki] DoH/DoH3, DoT, DoQ and DNSCrypt with Dnsmasq ...",
+      "url": "https://openwrt.org/docs/guide-user/services/dns/dot_dnsmasq_dnsproxy?s[]=adguard&s[]=dns"
     },
     {
-      "url": "https://amiscreant.github.io/tutorials/OpenWrt/hardening",
-      "title": "Hardening OpenWrt | NullOrigin"
+      "title": "Hardening OpenWrt | NullOrigin",
+      "url": "https://amiscreant.github.io/tutorials/OpenWrt/hardening"
     },
     {
-      "url": "https://www.japerre.xyz/posts/dns-over-https-for-my-whole-family-with-openwrt/",
-      "title": "DNS Over Https for My Whole Family With OpenWRT"
+      "title": "DNS Over Https for My Whole Family With OpenWRT",
+      "url": "https://www.japerre.xyz/posts/dns-over-https-for-my-whole-family-with-openwrt/"
     },
     {
-      "url": "https://www.pablogarcor.com/dns-over-https-openwrt/",
-      "title": "DNS over HTTPS on OpenWRT - pablogarcor.com"
+      "title": "DNS over HTTPS on OpenWRT - pablogarcor.com",
+      "url": "https://www.pablogarcor.com/dns-over-https-openwrt/"
     },
     {
-      "url": "https://github.com/chuacw/DNS-over-HTTPS-for-OpenWRT",
-      "title": "DNS over HTTPS for OpenWRT/LEDE routers - GitHub"
+      "title": "DNS over HTTPS for OpenWRT/LEDE routers - GitHub",
+      "url": "https://github.com/chuacw/DNS-over-HTTPS-for-OpenWRT"
     }
   ],
   "nextdns vs pihole mobile devices comparison": [
     {
-      "url": "https://www.standsapp.org/blog/nextdns-vs-pihole/",
-      "title": "NextDNS vs Pihole: Key Differences Explained"
+      "title": "NextDNS vs Pihole: Key Differences Explained",
+      "url": "https://www.standsapp.org/blog/nextdns-vs-pihole/"
     },
     {
-      "url": "https://appmus.com/vs/pi-hole-vs-nextdns",
-      "title": "Pi-hole vs NextDNS Comparison (2025) | Feature by Feature"
+      "title": "Pi-hole vs NextDNS Comparison (2025) | Feature by Feature",
+      "url": "https://appmus.com/vs/pi-hole-vs-nextdns"
     },
     {
-      "url": "https://taurit.pl/pi-hole-alternative/",
-      "title": "PiHole alternative: PiHole and NextDNS compared"
+      "title": "PiHole alternative: PiHole and NextDNS compared",
+      "url": "https://taurit.pl/pi-hole-alternative/"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=22718670",
-      "title": "I recently spent a bunch of time comparing NextDNS vs PiHole ..."
+      "title": "I recently spent a bunch of time comparing NextDNS vs PiHole ...",
+      "url": "https://news.ycombinator.com/item?id=22718670"
     },
     {
-      "url": "https://thisvsthat.io/nextdns-vs-pi-hole",
-      "title": "NextDNS vs. Pi-Hole - What's the Difference? | This vs. That"
+      "title": "NextDNS vs. Pi-Hole - What's the Difference? | This vs. That",
+      "url": "https://thisvsthat.io/nextdns-vs-pi-hole"
     }
   ],
   "aptx adaptive vs ldac stability crowded train": [
     {
-      "url": "https://www.digitaltrends.com/home-theater/aptx-adaptive-vs-aptx-hd-vs-ldac-best-codec/",
-      "title": "AptX Adaptive vs . aptX HD vs . LDAC : Which... - Digital Trends"
+      "title": "LDAC vs aptX vs LHDC: The Best Bluetooth Codec in 2025?",
+      "url": "https://www.baseus.com/blogs/content/ldac-vs-aptx-vs-lhdc-the-best-bluetooth-codec-in-2025"
     },
     {
-      "url": "https://audioengine.com/explore/complete-guide-to-bluetooth-codecs-what-is-the-difference-aptx-vs-aptx-hd-aptx-adaptive-aac-ldac-lossless-bluetooth-5-2/",
-      "title": "Complete Guide To Bluetooth Codecs: aptX vs ... \u2014 Audioengine"
+      "title": "AptX Adaptive vs . aptX HD vs . LDAC : Which... - Digital Trends",
+      "url": "https://www.digitaltrends.com/home-theater/aptx-adaptive-vs-aptx-hd-vs-ldac-best-codec/"
     },
     {
-      "url": "https://www.baseus.com/blogs/content/ldac-vs-aptx-vs-lhdc-the-best-bluetooth-codec-in-2025",
-      "title": "LDAC vs aptX vs LHDC: The Best Bluetooth Codec in 2025?"
+      "title": "Bluetooth Audio Quality Showdown! LDAC vs APTX HD vs ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=YOIozUxy7Uo"
+    },
+    {
+      "title": "Complete Guide To Bluetooth Codecs: aptX vs ... \u2014 Audioengine",
+      "url": "https://audioengine.com/explore/complete-guide-to-bluetooth-codecs-what-is-the-difference-aptx-vs-aptx-hd-aptx-adaptive-aac-ldac-lossless-bluetooth-5-2/"
+    },
+    {
+      "title": "aptX vs . LDAC : What's the Difference?",
+      "url": "https://www.makeuseof.com/aptx-vs-ldac-whats-the-difference/"
     }
   ],
   "bluetooth multipoint reliability test protocol": [
     {
-      "url": "https://www.embien.com/blog/bluetooth-device-testing-methodologies",
-      "title": "Bluetooth device testing methodologies - Embien"
+      "title": "BR/EDR Radio Physical Layer (RF) - files.bluetooth.com",
+      "url": "https://files.bluetooth.com/wp-content/uploads/dlm_uploads/2025/02/RF.TS_.p35.pdf"
     },
     {
-      "url": "https://www.test-and-measurement-world.com/equipments/wireless/bluetooth-testing-tools-techniques",
-      "title": "Bluetooth Testing: Tools and Techniques for RF and PHY ..."
+      "title": "Bluetooth Testing: Tools and Techniques for RF and PHY ...",
+      "url": "https://www.test-and-measurement-world.com/equipments/wireless/bluetooth-testing-tools-techniques"
+    },
+    {
+      "title": "Bluetooth device testing methodologies - Embien",
+      "url": "https://www.embien.com/blog/bluetooth-device-testing-methodologies"
+    },
+    {
+      "title": "Redefining testing for Bluetooth Low Energy R",
+      "url": "https://www.rohde-schwarz.taipei/data/activity/file/1720072670250272281.pdf"
+    },
+    {
+      "title": "BLE Direct Test Mode Through 2-wire UART Interface",
+      "url": "https://www.engeniustech.com/technical-papers/BLE-direct-test.pdf"
     }
   ],
   "LE Audio LC3 earbuds list 2025": [
     {
-      "url": "https://support.avantree.com/hc/en-us/articles/49261448191001-Up-To-Date-Le-Audio-Bluetooth-Earbuds-Headphones-Hearing-Aids-List",
-      "title": "Up-To-Date Le Audio Bluetooth Earbuds / Headphones & Hearing ..."
+      "title": "Earbuds 5 Star Rating - Essentials Electronic Devices",
+      "url": "https://www.bing.com/aclick?ld=e8iePT25jExl5wMATbMD2SrTVUCUwTdd4k0Ul076VdL8N6jP6kZcgAEr6Osp_G6TB5ISKZo2WxVOndFk4KP3OonOdDbTn5vTyvldKKkUmqHSeD0tDACBp9zPfTqCu0zaQv0wSRODc0n08SGGwfoj7A5n2jmEQZVioJKt_olw96fo5nNQ4C2vBxIc8fi7jQcEghkdUIGD0wmluWNqxi6TjHTL8yJZQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGVhcmJ1ZHMlMmI1JTJic3RhciUyYnJhdGluZyUyNmluZGV4JTNkZWxlY3Ryb25pY3MlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfMjFudnczbGNhdV9iJTI2YWRncnBpZCUzZDEzNDY5MDQyOTM0NjcwMjMlMjZodmFkaWQlM2Q4NDE4MTgwMDE3MTM4MyUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZGIlMjZodmJtdCUzZGJiJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODQxODI3MTgyODgxNzUlM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDE5MTMyXzEzMzUxNjAyJTI2bWNpZCUzZGFkNDU0NTJhNDdlYjMyMTk4NzA3NDMyODIyYzVhMjE1JTI2bXNjbGtpZCUzZGU3YjYwOTUwMzAwMjEzOWM0NTVlNjAxMWZlNzBhNjlj&rlid=e7b609503002139c455e6011fe70a69c"
     },
     {
-      "url": "https://www.reddit.com/r/Earbuds/comments/1804kzf/looking_for_earbuds_that_support_lc3_le_audio/",
-      "title": "Looking for earbuds that support LC3 (LE Audio) - Reddit"
+      "title": "Top 10 Best Earbuds 2023 of 2025 - View the Best Products of 2025",
+      "url": "https://www.bing.com/aclick?ld=e8yVZucOYAvdyaIXodhNioHzVUCUwH6gvxJEnWfjoJk2RUYVb1JEdOQb2mMoWD6ISCMtc17F2BswKJI-Mra7n6iJ6vVwxhtSexeZll2OQnEcbhjJWJ3FINcPP6Re0BC3qsOn_kE02Q_iqNVNdDc2OEHv3HJm_lIV3AbSFHpR_Rb-znUo401Efv1leBRyC3B1w3lQ2o4HLCkrbtmeDYFee_urVs4jM&u=aHR0cHMlM2ElMmYlMmZ3d3cuYmVzdHByb2R1Y3RzcmV2aWV3cy5jb20lMmZiZXN0LWVhcmJ1ZHMtMjAyMyUzZnRhcmdldGlkJTNka3dkLTg0Mzg4ODEwODYyODQwJTNhbG9jLTE5MCUyNm1hdGNodHlwZSUzZGIlMjZkZXZpY2UlM2RjJTI2Y2FtcGFpZ25pZCUzZDUzMDg4NTgxOSUyNmNyZWF0aXZlJTNkJTI2YWRncm91cGlkJTNkMTM1MDIwMjc4ODA4OTk4NiUyNmZlZWRpdGVtaWQlM2QlMjZsb2NfcGh5c2ljYWxfbXMlM2Q1ODE2MiUyNmxvY19pbnRlcmVzdF9tcyUzZCUyNm5ldHdvcmslM2RvJTI2ZGV2aWNlbW9kZWwlM2QlMjZwbGFjZW1lbnQlM2QlMjZrZXl3b3JkJTNkJTI0YmVzdCUyNTIwZWFyYnVkcyUyNTIwMjAyMyUyNnRhcmdldCUzZCUyNmFkcG9zaXRpb24lM2QlMjZ0cmFja2lkJTNkdXNfYWxsX3RvcF8yX2JpbmclMjZtSWQlM2RIMTQ5MDAzQ1FOJTI2bXNjbGtpZCUzZDAwMmYwYjU1ZDQ3OTFjZTY5ZjczNjIxNDFhMGI0MWM2&rlid=002f0b55d4791ce69f7362141a0b41c6"
+    },
+    {
+      "title": "Up-To-Date Le Audio Bluetooth Earbuds / Headphones & Hearing ...",
+      "url": "https://support.avantree.com/hc/en-us/articles/49261448191001-Up-To-Date-Le-Audio-Bluetooth-Earbuds-Headphones-Hearing-Aids-List"
+    },
+    {
+      "title": "Bluetooth LE Audio vs LDAC in 2025: Sound Quality, Latency ...",
+      "url": "https://besttechradar.com/bluetooth-le-audio-vs-ldac/"
+    },
+    {
+      "title": "Looking for earbuds that support LC3 (LE Audio) - Reddit",
+      "url": "https://www.reddit.com/r/Earbuds/comments/1804kzf/looking_for_earbuds_that_support_lc3_le_audio/"
     }
   ],
-  "auracast public venues seattle": [],
+  "auracast public venues seattle": [
+    {
+      "title": "Auracast - For public locations | Bluetooth\u00ae Technology Website",
+      "url": "https://www.bluetooth.com/auracast/public-locations/"
+    },
+    {
+      "title": "The 16 Best Cheap Party Venues for Rent in Seattle ... | Tagvenue USA",
+      "url": "https://www.tagvenue.com/us/hire/cheap-party-venues/seattle"
+    },
+    {
+      "title": "36 Best Party Venues for Rent in Seattle , WA | Peerspace",
+      "url": "https://www.peerspace.com/venues/seattle--wa/party-venue"
+    },
+    {
+      "title": "Bluetooth Adds \u2018 Auracast \u2019 Public Audio \u2013 rAVe [PUBS]",
+      "url": "https://www.ravepubs.com/bluetooth-auracast-public-audio/"
+    },
+    {
+      "title": "As the First Public Auracast \u2122 Broadcast Audio Solutions Arrive, How...",
+      "url": "https://www.abiresearch.com/market-research/insight/7784329-as-the-first-public-auracasttm-broadcast-a"
+    }
+  ],
   "standardized ANC test noise tracks download": [
     {
-      "url": "https://www.listeninc.com/resources/test-sequences/",
-      "title": "Test Sequences - Listen, Inc."
+      "title": "Track Downloads - D'Amore Engineering",
+      "url": "https://damoreengineering.com/pages/track-downloads"
     },
     {
-      "url": "https://www.audiocheck.net/testtones_highdefinitionaudio.php",
-      "title": "High Definition Audio Test Files"
+      "title": "Test Tones & Test & Setup Track Repository - Please ...",
+      "url": "https://www.diymobileaudio.com/threads/test-tones-test-setup-track-repository-please-contribute-tracks-techniques.416219/"
     },
     {
-      "url": "https://www.soundonsound.com/techniques/sos-audio-test-files",
-      "title": "The SOS Audio Test Files - Sound On Sound"
+      "title": "Test Sequences - Listen, Inc.",
+      "url": "https://www.listeninc.com/resources/test-sequences/"
+    },
+    {
+      "title": "High Definition Audio Test Files",
+      "url": "https://www.audiocheck.net/testtones_highdefinitionaudio.php"
+    },
+    {
+      "title": "The SOS Audio Test Files - Sound On Sound",
+      "url": "https://www.soundonsound.com/techniques/sos-audio-test-files"
     }
   ],
   "IEC 60268 noise measurements headphones": [
     {
-      "url": "https://standards.iteh.ai/catalog/standards/sist/b8020e5d-52b2-4004-b972-e907c255914f/sist-en-iec-60268-24-2024",
-      "title": "SIST EN IEC 60268 -24:2024 - Sound system equipment - Part 24..."
+      "title": "SIST EN IEC 60268 -24:2024 - Sound system equipment - Part 24...",
+      "url": "https://standards.iteh.ai/catalog/standards/sist/b8020e5d-52b2-4004-b972-e907c255914f/sist-en-iec-60268-24-2024"
     },
     {
-      "url": "https://www.bsbedge.com/standard/sound-system-equipment-headphones-and-earphones-active-acoustic-noise-cancelling-characteristics-bs-en-iec-60268-24-2024/BSI30433336",
-      "title": "BS EN IEC 60268 -24:2024 Sound system equipment - Headphones ..."
+      "title": "BS EN IEC 60268 -24:2024 Sound system equipment - Headphones ...",
+      "url": "https://www.bsbedge.com/standard/sound-system-equipment-headphones-and-earphones-active-acoustic-noise-cancelling-characteristics-bs-en-iec-60268-24-2024/BSI30433336"
     },
     {
-      "url": "https://www.vde-verlag.de/iec-standards/252346/iec-60268-24-2023.html",
-      "title": "IEC 60268 -24:2023 - IEC Standards - VDE Publishing House"
+      "title": "IEC 60268 -24:2023 - IEC Standards - VDE Publishing House",
+      "url": "https://www.vde-verlag.de/iec-standards/252346/iec-60268-24-2023.html"
     },
     {
-      "url": "https://www.boutique.afnor.org/en-gb/standard/iec-6026872010/sound-system-equipment-part-7-headphones-and-earphones/xs121622/247879",
-      "title": "International standard IEC 60268 -7:2010"
+      "title": "International standard IEC 60268 -7:2010",
+      "url": "https://www.boutique.afnor.org/en-gb/standard/iec-6026872010/sound-system-equipment-part-7-headphones-and-earphones/xs121622/247879"
     },
     {
-      "url": "https://dps.gov.al/en/project/show/iec:proj:104624",
-      "title": "IEC 60268 -24:2023 ED1"
+      "title": "IEC 60268 -24:2023 ED1",
+      "url": "https://dps.gov.al/en/project/show/iec:proj:104624"
     }
   ],
-  "SPL meter calibration 94 dB 1 kHz procedure": [],
+  "SPL meter calibration 94 dB 1 kHz procedure": [
+    {
+      "title": "splMeter - Measure sound pressure level of audio signal - MATLAB",
+      "url": "https://ch.mathworks.com/help/audio/ref/splmeter-system-object.html"
+    },
+    {
+      "title": "SPL Meter | PCE Instruments",
+      "url": "https://www.pce-instruments.com/english/measuring-instruments/test-meters/spl-meter-kat_162322_1.htm"
+    },
+    {
+      "title": "Free Online Decibel Meter \u2013 Measure Sound & Noise in Real-Time",
+      "url": "https://sound-decibelmeter.online/"
+    },
+    {
+      "title": "Portable Digital Sound Level Meter Awa6221a Type Class 1 Noise...",
+      "url": "https://www.bossgoo.com/product-detail/portable-digital-sound-level-meter-awa6221a-66516003.html"
+    },
+    {
+      "title": "Max SPL seems low, how to increase it? | Home Theater Forum and...",
+      "url": "https://www.hometheatershack.com/threads/max-spl-seems-low-how-to-increase-it.75242/"
+    }
+  ],
   "recording wind noise simulation lab setup": [
     {
-      "url": "https://github.com/audiolabs/SC-Wind-Noise-Generator",
-      "title": "GitHub - audiolabs/SC-Wind-Noise-Generator: Generate ..."
+      "title": "Noise Nuisance Recorder - Shop Noise Nuisance Recorder",
+      "url": "https://www.bing.com/aclick?ld=e8aJBpTNkMfAGDIrkQZOgoCjVUCUycliy3igaJyHptbuAu0VfyyaTmsGa57qptaZ4ZRz0P-8h98Rhztj3EGOOLAnwFYR8qMfVH8GM_m1A7JJQ06J9aB-zvON37RuuJJZlPBdmUgnN_QD3NrluYKSBDEeG3OHQLz-awRTtuaxo45deYY3JK3uOsYcit9diNLIVMFRTYzXhVd3Zd66CryH4lUcqrsfg&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZG5vaXNlJTJibnVpc2FuY2UlMmJyZWNvcmRlciUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzZid28yazl4bXRfYiUyNmFkZ3JwaWQlM2QxMzMxNTA5MTUwODk5MTY5JTI2aHZhZGlkJTNkODMyMTk1NjIzMTA4ODUlMjZodm5ldHclM2RvJTI2aHZxbXQlM2RiJTI2aHZibXQlM2RiYiUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzMjE5Njc4MDI5Mjg4JTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2Q5ODBfMTAxNDk4NzA2MCUyNm1jaWQlM2Q2ODQxZTRhMTNlMDAzNzgwYjNiYzFhMzhmNTYwZWUyZA&rlid=b018cd0c86121a901838a44d48641736"
     },
     {
-      "url": "https://www.audiolabs-erlangen.de/resources/2022-IWAENC-SWN",
-      "title": "AudioLabs - Simulating wind noise with airflow speed ..."
+      "title": "GitHub - audiolabs/SC-Wind-Noise-Generator: Generate ...",
+      "url": "https://github.com/audiolabs/SC-Wind-Noise-Generator"
     },
     {
-      "url": "https://trepo.tuni.fi/bitstream/handle/10024/131219/HonkakunnasAapo.pdf?sequence=2",
-      "title": "CHARACTERIZING AND DETECTING WIND NOISE IN AUDIO RECORDINGS"
+      "title": "AudioLabs - Simulating wind noise with airflow speed ...",
+      "url": "https://www.audiolabs-erlangen.de/resources/2022-IWAENC-SWN"
     },
     {
-      "url": "https://www.head-acoustics.com/products/playback-simulation/hae-bgn",
-      "title": "HAE-BGN \u2013 Equalization and Playback in a Lab - HEAD acoustics"
+      "title": "CHARACTERIZING AND DETECTING WIND NOISE IN AUDIO RECORDINGS",
+      "url": "https://trepo.tuni.fi/bitstream/handle/10024/131219/HonkakunnasAapo.pdf?sequence=2"
+    },
+    {
+      "title": "HAE-BGN \u2013 Equalization and Playback in a Lab - HEAD acoustics",
+      "url": "https://www.head-acoustics.com/products/playback-simulation/hae-bgn"
     }
   ],
   "microphone sample dataset hosting best practices wav": [
     {
-      "url": "https://store-restack.vercel.app/p/ai-tools-knowledge-best-practices-speech-recognition-cat-ai",
-      "title": "Best Practices For AI Speech Recognition | Restackio"
+      "title": "Download Sample CSV Files for free - Datablist - Datablist",
+      "url": "https://www.datablist.com/learn/csv/download-sample-csv-files"
+    },
+    {
+      "title": "Data Science WAV (Wrangle/Analyze/Visualize) project \u00b7 GitHub",
+      "url": "https://github.com/DSC-WAV"
+    },
+    {
+      "title": "bayartsogt/ wav 2vec2-large-xlsr-mongolian \u00b7 Hugging Face",
+      "url": "https://huggingface.co/bayartsogt/wav2vec2-large-xlsr-mongolian"
+    },
+    {
+      "title": "Best Practices For AI Speech Recognition | Restackio",
+      "url": "https://store-restack.vercel.app/p/ai-tools-knowledge-best-practices-speech-recognition-cat-ai"
+    },
+    {
+      "title": "Free Public Datasets for Data Science Projects",
+      "url": "https://datascientyst.com/datasets/"
     }
   ],
   "git lfs bandwidth limits audio": [
     {
-      "url": "https://docs.github.com/en/billing/concepts/product-billing/git-lfs",
-      "title": "Git Large File Storage billing - GitHub Docs"
+      "title": "Git Large File Storage billing - GitHub Docs",
+      "url": "https://docs.github.com/en/billing/concepts/product-billing/git-lfs"
     },
     {
-      "url": "https://github.com/git-lfs/git-lfs/discussions/4588",
-      "title": "I need to store large audio files, but can't \u00b7 git-lfs git ..."
+      "title": "I need to store large audio files, but can't \u00b7 git-lfs git ...",
+      "url": "https://github.com/git-lfs/git-lfs/discussions/4588"
     },
     {
-      "url": "https://stackoverflow.com/questions/59223469/how-to-reset-git-lfs-bandwidth",
-      "title": "github - How to reset Git LFS bandwidth? - Stack Overflow"
+      "title": "github - How to reset Git LFS bandwidth? - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/59223469/how-to-reset-git-lfs-bandwidth"
+    },
+    {
+      "title": "How to Solve GitHub\u2019s Large\u2011File Limit with Git LFS | Codearmo",
+      "url": "https://www.codearmo.com/blog/github-lfs-solved"
+    },
+    {
+      "title": "Git Large File Storage | Git Large File Storage (LFS ...",
+      "url": "https://git-lfs.com/"
     }
   ],
   "free cdn for datasets github pages workaround": [
     {
-      "url": "https://transloadit.com/devtips/free-image-cdn-setup-with-github-pages-javascript-cdn/",
-      "title": "Free image CDN setup with Github Pages & Javascript CDN"
+      "title": "Free image CDN setup with Github Pages & Javascript CDN",
+      "url": "https://transloadit.com/devtips/free-image-cdn-setup-with-github-pages-javascript-cdn/"
     },
     {
-      "url": "https://gist.github.com/jcubic/a8b8c979d200ffde13cc08505f7a6436",
-      "title": "How to setup a literally free CDN \u00b7 GitHub"
+      "title": "How to setup a literally free CDN \u00b7 GitHub",
+      "url": "https://gist.github.com/jcubic/a8b8c979d200ffde13cc08505f7a6436"
     },
     {
-      "url": "https://blog.blazingcdn.com/en-us/best-free-cdn-options-open-source-personal-sites",
-      "title": "Best Free CDN Options for Open Source and Personal Sites"
+      "title": "Best Free CDN Options for Open Source and Personal Sites",
+      "url": "https://blog.blazingcdn.com/en-us/best-free-cdn-options-open-source-personal-sites"
     },
     {
-      "url": "https://www.youtube.com/watch?v=aBzhq9V2WAg",
-      "title": "How to Use GitHub as a Free CDN (Host Files) - YouTube GaaC - Github as a CDN jsDelivr - A free, fast, and reliable CDN for JS and open source Best Free CDN Options for Open Source and Personal Sites GaaC - Github as a CDN Free image CDN setup with Github Pages & Javascript CDN Best Free CDN Options for Open Source and Personal Sites Simple CDN example powered by Github pages + tutorial."
+      "title": "How to Use GitHub as a Free CDN (Host Files) - YouTube GaaC - Github as a CDN jsDelivr - A free, fast, and reliable CDN for JS and open source Best Free CDN Options for Open Source and Personal Sites GaaC - Github as a CDN Free image CDN setup with Github Pages & Javascript CDN Best Free CDN Options for Open Source and Personal Sites Simple CDN example powered by Github pages + tutorial.",
+      "url": "https://www.youtube.com/watch?v=aBzhq9V2WAg"
     },
     {
-      "url": "https://gaac.vercel.app/",
-      "title": "GaaC - Github as a CDN"
+      "title": "GaaC - Github as a CDN",
+      "url": "https://gaac.vercel.app/"
     }
   ],
   "colorblind safe palettes viridis cividis examples": [
     {
-      "url": "https://answers.opencv.org/question/213711/which-are-color-blind-safe-palettes/",
-      "title": "Which are color blind safe palettes ? - OpenCV Q&A Forum"
+      "title": "Which are color blind safe palettes ? - OpenCV Q&A Forum",
+      "url": "https://answers.opencv.org/question/213711/which-are-color-blind-safe-palettes/"
     },
     {
-      "url": "https://info5940.infosci.cornell.edu/notes/geoviz/optimal-color-palettes/",
-      "title": "Selecting optimal color palettes | Computing for Information Science"
+      "title": "Selecting optimal color palettes | Computing for Information Science",
+      "url": "https://info5940.infosci.cornell.edu/notes/geoviz/optimal-color-palettes/"
     },
     {
-      "url": "https://cran.r-project.org/web/packages/viridisLite/viridisLite.pdf",
-      "title": "viridisLite: Colorblind -Friendly Color Maps (Lite Version)"
+      "title": "viridisLite: Colorblind -Friendly Color Maps (Lite Version)",
+      "url": "https://cran.r-project.org/web/packages/viridisLite/viridisLite.pdf"
     },
     {
-      "url": "https://www.getgalaxy.io/learn/glossary/accessible-color-palettes-in-data-visualization",
-      "title": "Most Accessible Color Palettes for Data Visualization | Galaxy"
+      "title": "Most Accessible Color Palettes for Data Visualization | Galaxy",
+      "url": "https://www.getgalaxy.io/learn/glossary/accessible-color-palettes-in-data-visualization"
+    },
+    {
+      "title": "R: Color Palettes",
+      "url": "https://stat.ethz.ch/R-manual/R-devel/library/grDevices/html/palettes.html"
     }
   ],
   "accessible chart captions examples": [
     {
-      "url": "https://theaccessibilityguy.com/making-charts-and-graphs-accessible-section-508-for-word/",
-      "title": "Accessible Charts and Graphs: Word Document Guide"
+      "title": "Accessible Charts and Graphs: Word Document Guide",
+      "url": "https://theaccessibilityguy.com/making-charts-and-graphs-accessible-section-508-for-word/"
     },
     {
-      "url": "https://a11y.ing/en/content-accessibility/media-content/chart-accessibility/",
-      "title": "Chart accessibility | A11ying with Sanna - I would if I could"
+      "title": "How to Make HTML5 Tables and Charts Accessible",
+      "url": "https://www.linkedin.com/advice/0/how-can-you-make-html5-tables-charts-accessible-skills-html5"
+    },
+    {
+      "title": "How do I make an Org Chart accessible ? | Digital Accessibility",
+      "url": "https://dap.berkeley.edu/get-help/how-do-i-common-questions/how-do-i-make-org-chart-accessible"
+    },
+    {
+      "title": "Chart accessibility | A11ying with Sanna - I would if I could",
+      "url": "https://a11y.ing/en/content-accessibility/media-content/chart-accessibility/"
+    },
+    {
+      "title": "How to Create Accessible Designs [Tips + Examples ] - Venngage",
+      "url": "https://venngage.com/blog/accessible-design/"
     }
   ],
   "alt text guidelines for complex charts": [
     {
-      "url": "https://accessibility.engin.umich.edu/alt-text-for-complex-images-data-visuals/",
-      "title": "Alt Text for Complex Images/ Data Visuals \u2013 Accessibility"
+      "title": "Alt Text for Complex Images/ Data Visuals \u2013 Accessibility",
+      "url": "https://accessibility.engin.umich.edu/alt-text-for-complex-images-data-visuals/"
     },
     {
-      "url": "https://www.w3.org/WAI/tutorials/images/complex/",
-      "title": "Complex Images | Web Accessibility Initiative (WAI) | W3C"
+      "title": "Complex Images | Web Accessibility Initiative (WAI) | W3C",
+      "url": "https://www.w3.org/WAI/tutorials/images/complex/"
     },
     {
-      "url": "https://a11ykat.medium.com/see-the-unseen-mastering-alt-text-for-images-and-charts-6d3dbe36553b",
-      "title": "Mastering Alt Text for Images and Charts - Medium"
+      "title": "Mastering Alt Text for Images and Charts - Medium",
+      "url": "https://a11ykat.medium.com/see-the-unseen-mastering-alt-text-for-images-and-charts-6d3dbe36553b"
     },
     {
-      "url": "https://equidox.co/blog/beyond-basic-alt-text-charts-maps-and-diagrams/",
-      "title": "Beyond Basic Alt Text - Charts, Maps, and Diagrams - Equidox Charts & Diagrams Alt Text - University of South Carolina Accessible images: complex image guidelines | ASU IT ... Alternative text and long description \u2013 Best practices"
+      "title": "Beyond Basic Alt Text - Charts, Maps, and Diagrams - Equidox Charts & Diagrams Alt Text - University of South Carolina Accessible images: complex image guidelines | ASU IT ... Alternative text and long description \u2013 Best practices",
+      "url": "https://equidox.co/blog/beyond-basic-alt-text-charts-maps-and-diagrams/"
     },
     {
-      "url": "https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/alternative_text/charts-diagrams/index.php",
-      "title": "Charts & Diagrams Alt Text - University of South Carolina"
+      "title": "Charts & Diagrams Alt Text - University of South Carolina",
+      "url": "https://sc.edu/about/offices_and_divisions/digital-accessibility/toolbox/best_practices/alternative_text/charts-diagrams/index.php"
     }
   ],
   "ftc affiliate disclosure examples blog": [
     {
-      "url": "https://impact.com/influencer/affiliate-link-disclosure/",
-      "title": "Affiliate Link Disclosures: 2025 Compliance Guide (+ Examples)"
+      "title": "Affiliate Link Disclosures: 2025 Compliance Guide (+ Examples)",
+      "url": "https://impact.com/influencer/affiliate-link-disclosure/"
     },
     {
-      "url": "https://topmostads.com/affiliate-disclosure-examples-blogs-copy-paste-templates/",
-      "title": "Affiliate Disclosure Examples for Blogs: Copy-Paste Templates ..."
+      "title": "Affiliate Disclosure Examples for Blogs: Copy-Paste Templates ...",
+      "url": "https://topmostads.com/affiliate-disclosure-examples-blogs-copy-paste-templates/"
     },
     {
-      "url": "https://www.referralcandy.com/blog/ftc-affiliate-disclosure",
-      "title": "FTC Affiliate Disclosure: Rules, Examples, and a 2025 Checklist"
+      "title": "FTC Affiliate Disclosure: Rules, Examples, and a 2025 Checklist",
+      "url": "https://www.referralcandy.com/blog/ftc-affiliate-disclosure"
     },
     {
-      "url": "https://www.linkjolt.io/blog/affiliate-link-disclosure-examples",
-      "title": "7 Top Affiliate Link Disclosure Examples for 2025 - linkjolt.io"
+      "title": "7 Top Affiliate Link Disclosure Examples for 2025 - linkjolt.io",
+      "url": "https://www.linkjolt.io/blog/affiliate-link-disclosure-examples"
     },
     {
-      "url": "https://afflr.io/blog/affiliate-disclosure-examples/",
-      "title": "Affiliate Disclosure Example: Templates & Best Practices for 2025"
+      "title": "Affiliate Disclosure Example: Templates & Best Practices for 2025",
+      "url": "https://afflr.io/blog/affiliate-disclosure-examples/"
     }
   ],
-  ".com disclosures pdf 2024 update": [],
-  "sponsorship disclosure template independent reviewer": [
+  ".com disclosures pdf 2024 update": [
     {
-      "url": "https://www.lawinsider.com/clause/disclosure-of-sponsorship",
-      "title": "Disclosure of Sponsorship Sample Clauses | Law Insider"
+      "title": "What's New on PDF Guru - July 2024 Update - PDF Guru",
+      "url": "https://pdfguru.com/blog/july-news-pdf-guru"
     },
     {
-      "url": "https://www.lawinsider.com/clause/disclosure-by-sponsor",
-      "title": "Disclosure by Sponsor Sample Clauses | Law Insider"
+      "title": "PMCI - Disclosures , Mission Statement",
+      "url": "https://pmcicareers.com/disclosures"
+    },
+    {
+      "title": "Tesla Investor Relations",
+      "url": "https://ir.tesla.com/"
+    },
+    {
+      "title": "Irs-counsel | Internal Revenue Service",
+      "url": "https://www.irs.gov/downloads/irs-counsel"
+    },
+    {
+      "title": "Policies and References | TD Canada Trust",
+      "url": "https://www.td.com/ca/en/about-td/for-investors/policies-and-references"
+    }
+  ],
+  "sponsorship disclosure template independent reviewer": [
+    {
+      "title": "Disclosure of Sponsorship Sample Clauses | Law Insider",
+      "url": "https://www.lawinsider.com/clause/disclosure-of-sponsorship"
+    },
+    {
+      "title": "Section 4 Agent Resource Independent Review Tab 3-2014.pdf",
+      "url": "https://corporate.moneygram.com/Documents/Corp+site+docs/Compliance/US+Agents/blank_form_3.pdf/"
+    },
+    {
+      "title": "Free Sponsorship Commitment Form Template - DoxFlowy",
+      "url": "https://doxflowy.com/contracts/independent-contractor/sponsorship-commitment-form/"
+    },
+    {
+      "title": "Disclosure by Sponsor Sample Clauses | Law Insider",
+      "url": "https://www.lawinsider.com/clause/disclosure-by-sponsor"
+    },
+    {
+      "title": "Sponsorship Disclosure in Social Media Influencer Marketing ...",
+      "url": "https://journals.sagepub.com/doi/10.1177/20563051231196870"
     }
   ],
   "repairability scoring frameworks comparison ifixit france index": [
     {
-      "url": "https://www.ifixit.com/News/80361/ifixit-vs-french-repairability-score",
-      "title": "iFixit\u2019s Repairability Score vs. the French Index"
+      "title": "iFixit\u2019s Repairability Score vs. the French Index",
+      "url": "https://www.ifixit.com/News/80361/ifixit-vs-french-repairability-score"
     },
     {
-      "url": "https://www.sciencedirect.com/science/article/pii/S0921344925000904",
-      "title": "Empirical evaluation of reparability scoring systems for ..."
+      "title": "Empirical evaluation of reparability scoring systems for ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0921344925000904"
     },
     {
-      "url": "https://repair-ability.eu/en/comparison-of-reparability-scores/",
-      "title": "Comparison of reparability scores - Le logiciel pro de ..."
+      "title": "Comparison of reparability scores - Le logiciel pro de ...",
+      "url": "https://repair-ability.eu/en/comparison-of-reparability-scores/"
     },
     {
-      "url": "https://vbn.aau.dk/ws/portalfiles/portal/535716597/J_of_Industrial_Ecology_2023_Barros_Smartphone_repairability_indexes_in_practice_Linking_repair_scores_to_industrial.pdf",
-      "title": "Smartphone repairability indexes in practice: Linking repair ..."
+      "title": "Smartphone repairability indexes in practice: Linking repair ...",
+      "url": "https://vbn.aau.dk/ws/portalfiles/portal/535716597/J_of_Industrial_Ecology_2023_Barros_Smartphone_repairability_indexes_in_practice_Linking_repair_scores_to_industrial.pdf"
     },
     {
-      "url": "https://www.researchgate.net/publication/370224942_Smartphone_repairability_indexes_in_practice_Linking_repair_scores_to_industrial_design_features",
-      "title": "(PDF) Smartphone repairability indexes in practice: Linking ..."
+      "title": "(PDF) Smartphone repairability indexes in practice: Linking ...",
+      "url": "https://www.researchgate.net/publication/370224942_Smartphone_repairability_indexes_in_practice_Linking_repair_scores_to_industrial_design_features"
     }
   ],
   "french repairability index methodology english": [
     {
-      "url": "https://repair-ability.eu/en/french-reparability-index-assessment-system/",
-      "title": "French reparability index assessment system - Le logiciel pro ..."
+      "title": "The French repairability index - HOP",
+      "url": "https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf"
     },
     {
-      "url": "https://www.ifixit.com/News/80361/ifixit-vs-french-repairability-score",
-      "title": "iFixit\u2019s Repairability Score vs. the French Index"
+      "title": "French reparability index assessment system - Le logiciel pro ...",
+      "url": "https://repair-ability.eu/en/french-reparability-index-assessment-system/"
     },
     {
-      "url": "https://repair.eu/news/the-french-repair-index-challenges-and-opportunities/",
-      "title": "The French repair index: challenges and opportunities"
+      "title": "iFixit\u2019s Repairability Score vs. the French Index",
+      "url": "https://www.ifixit.com/News/80361/ifixit-vs-french-repairability-score"
+    },
+    {
+      "title": "What it does REPAIRABILITY - oneplanetnetwork.org",
+      "url": "https://www.oneplanetnetwork.org/sites/default/files/from-crm/23_02_02_Case_Index.pdf"
+    },
+    {
+      "title": "The French repair index: challenges and opportunities",
+      "url": "https://repair.eu/news/the-french-repair-index-challenges-and-opportunities/"
     }
   ],
   "EU ecodesign smartphone repair rules 2025": [
     {
-      "url": "https://www.idc.com/resource-center/blog/the-eu-ecodesign-legislation-a-strategic-shift-for-smartphone-manufacturers/",
-      "title": "IDC - The EU Ecodesign Legislation: A Strategic Shift for Smartphone ..."
+      "title": "IDC - The EU Ecodesign Legislation: A Strategic Shift for Smartphone ...",
+      "url": "https://www.idc.com/resource-center/blog/the-eu-ecodesign-legislation-a-strategic-shift-for-smartphone-manufacturers/"
     },
     {
-      "url": "https://www.heise.de/en/news/Ecodesign-Regulation-EU-softens-directive-for-display-repairs-10464563.html",
-      "title": "Ecodesign Regulation: EU softens directive for display repairs"
+      "title": "Ecodesign Regulation: EU softens directive for display repairs",
+      "url": "https://www.heise.de/en/news/Ecodesign-Regulation-EU-softens-directive-for-display-repairs-10464563.html"
     },
     {
-      "url": "https://energyworld.ro/2025/06/23/new-eu-rules-for-durable-energy-efficient-and-repairable-smartphones-and-tablets-start-applying/",
-      "title": "New EU rules for durable, energy-efficient and repairable ..."
+      "title": "Ecodesign for Sustainable Products Regulation - European ...",
+      "url": "https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/ecodesign-sustainable-products-regulation_en"
+    },
+    {
+      "title": "New EU rules for durable, energy-efficient and repairable ...",
+      "url": "https://energyworld.ro/2025/06/23/new-eu-rules-for-durable-energy-efficient-and-repairable-smartphones-and-tablets-start-applying/"
+    },
+    {
+      "title": "What Greener Design for Smartphones Could Do for the Earth - iFixit",
+      "url": "https://www.ifixit.com/News/49466/ecodesign-study-smartphones"
     }
   ],
   "parts pairing iphone face id true tone explanation": [
     {
-      "url": "https://www.youtube.com/watch?v=lfNc2GL7sxo",
-      "title": "JCID V1s PRO(v1.08) \u043e\u0431\u0437\u043e\u0440 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u0442\u043e\u0440\u0430 \u0434\u043b\u044f \u0440\u0435\u043c\u043e\u043d\u0442\u0430 iPhone ..."
+      "title": "JCID V1s PRO(v1.08) \u043e\u0431\u0437\u043e\u0440 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u0442\u043e\u0440\u0430 \u0434\u043b\u044f \u0440\u0435\u043c\u043e\u043d\u0442\u0430 iPhone ...",
+      "url": "https://www.youtube.com/watch?v=lfNc2GL7sxo"
     },
     {
-      "url": "https://www.tiktok.com/discover/how-to-get-true-tone-after-screen-is-replaced",
-      "title": "How to Get True Tone After Screen Is Replaced | TikTok"
+      "title": "How to Get True Tone After Screen Is Replaced | TikTok",
+      "url": "https://www.tiktok.com/discover/how-to-get-true-tone-after-screen-is-replaced"
     },
     {
-      "url": "https://www.drive2.ru/c/677930558336017616/",
-      "title": "\u041f\u0440\u043e\u043f\u0430\u043b\u0438 Face ID \u0438 True Tone \u043d\u0430 IPhone 11. \u2014 \u0421\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e..."
+      "title": "Can You Unlock Face ID with a Picture? Full Guide Here",
+      "url": "https://www.tuneskit.com/unlock-ios/can-you-unlock-face-id-with-picture.html"
+    },
+    {
+      "title": "\u041f\u0440\u043e\u043f\u0430\u043b\u0438 Face ID \u0438 True Tone \u043d\u0430 IPhone 11. \u2014 \u0421\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e...",
+      "url": "https://www.drive2.ru/c/677930558336017616/"
+    },
+    {
+      "title": "\u041d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 Face ID | \u0427\u0442\u043e \u0434\u0435\u043b\u0430\u0442\u044c? | \u0422\u043e\u043f 3 \u0440\u0435\u0448\u0435\u043d\u0438\u044f. | Fix Tips",
+      "url": "https://fixtips.ru/blog-o-iphone/ne-rabotaet-face-id/"
     }
   ],
   "samsung self repair program parts availability usa": [
     {
-      "url": "https://www.samsung.com/us/support/self-repair/",
-      "title": "Samsung Self-Repair | Samsung US Support"
+      "title": "Samsung Self-Repair | Samsung US Support",
+      "url": "https://www.samsung.com/us/support/self-repair/"
     },
     {
-      "url": "https://samsungpartsusa.com/pages/self-repair",
-      "title": "Self repair\u2013 Samsung Parts USA"
+      "title": "Self repair\u2013 Samsung Parts USA",
+      "url": "https://samsungpartsusa.com/pages/self-repair"
     },
     {
-      "url": "https://www.ifixit.com/collaborations/samsung",
-      "title": "Samsung + iFixit Self-Repair Program for Galaxy S20, S21, Tab S7+"
+      "title": "Samsung + iFixit Self-Repair Program for Galaxy S20, S21, Tab S7+",
+      "url": "https://www.ifixit.com/collaborations/samsung"
     },
     {
-      "url": "https://news.samsung.com/us/samsung-self-repair-program-now-available-galaxy-customers/?nrtv_cid=03c71c16d4ee71bbc8d233404724a4c5ea73991e8644a1effdb184a844746d14&utm",
-      "title": "Samsung Self-Repair Program Now Available for Galaxy Customers"
+      "title": "Self Repair Services - Samsung Parts USA",
+      "url": "https://samsungpartsusa.com/pages/self-repair-services"
+    },
+    {
+      "title": "Samsung Self-Repair Program Now Available for Galaxy Customers",
+      "url": "https://news.samsung.com/us/samsung-self-repair-program-now-available-galaxy-customers/?nrtv_cid=03c71c16d4ee71bbc8d233404724a4c5ea73991e8644a1effdb184a844746d14&utm"
     }
   ],
   "google pixel genuine parts where to buy": [
     {
-      "url": "https://www.ifixit.com/Parts/Google_Phone",
-      "title": "Genuine Google Pixel Parts and Repair Kits - iFixit"
+      "title": "Genuine Google Pixel Parts and Repair Kits - iFixit",
+      "url": "https://www.ifixit.com/Parts/Google_Phone"
     },
     {
-      "url": "https://support.google.com/pixelphone/answer/10227672?hl=en",
-      "title": "Find an authorized repair partner for your Pixel phone ... Google Pixel Replacement Parts \u2013 Repairs Universe Google Pixel Parts Amazon.com: Google Pixel Parts Cell Phone & Smartphone Parts for Google Pixel - eBay Google Pixel Repair Parts Google Pixel Spare Parts & Accessories - Maxbhi.com Google Pixel Spare Parts & Accessories - Maxbhi.com T-Mobile vs Verizon: Should you switch? What you need to know Find an authorized repair partner for your Pixel phone"
+      "title": "Find an authorized repair partner for your Pixel phone ... Google Pixel Replacement Parts \u2013 Repairs Universe Google Pixel Parts Amazon.com: Google Pixel Parts Cell Phone & Smartphone Parts for Google Pixel - eBay Google Pixel Repair Parts Google Pixel Spare Parts & Accessories - Maxbhi.com Google Pixel Spare Parts & Accessories - Maxbhi.com T-Mobile vs Verizon: Should you switch? What you need to know Find an authorized repair partner for your Pixel phone",
+      "url": "https://support.google.com/pixelphone/answer/10227672?hl=en"
+    },
+    {
+      "title": "Google Pixel Replacement Parts \u2013 Repairs Universe",
+      "url": "https://www.repairsuniverse.com/collections/google-pixel-replacement-parts"
+    },
+    {
+      "title": "Google Pixel Parts",
+      "url": "https://www.deviceparts.com/c/google-pixel-parts/"
+    },
+    {
+      "title": "Amazon.com: Google Pixel Parts",
+      "url": "https://www.amazon.com/google-pixel-parts/s?k=google+pixel+parts"
     }
   ],
   "fairphone repairability resources": [
     {
-      "url": "https://www.ifixit.com/Device/Fairphone",
-      "title": "Fairphone Repair Help: Learn How to Fix It Yourself."
+      "title": "Fairphone Repair Help: Learn How to Fix It Yourself.",
+      "url": "https://www.ifixit.com/Device/Fairphone"
+    },
+    {
+      "title": "iFixit gives Fairphone 6 top marks for repairability \u2022 The ...",
+      "url": "https://www.theregister.com/2025/07/05/ifixit_gives_fairphone_10/"
+    },
+    {
+      "title": "Fairphone 6 earns perfect 10 from iFixit for repairability",
+      "url": "https://gadgetbond.com/fairphone-6-ifixit-teardown-repairability-score/"
+    },
+    {
+      "title": "Fairphone 6 gets a 10/10 on repairability - The Verge",
+      "url": "https://www.theverge.com/news/698363/fairphone-6-ifixit-teardown-repairability-perfect-score"
+    },
+    {
+      "title": "Fairphone 6: iFixit awards a 10/10 for repairability | heise ...",
+      "url": "https://www.heise.de/en/news/Fairphone-6-iFixit-awards-a-10-10-for-repairability-10478361.html"
     }
   ],
   "framework laptop spare parts store shipping us": [
     {
-      "url": "https://frame.work/marketplace/laptops",
-      "title": "Framework | Framework Marketplace | Framework Laptops"
+      "title": "Framework | Framework Marketplace | Framework Laptops",
+      "url": "https://frame.work/marketplace/laptops"
+    },
+    {
+      "title": "Framework | Framework Laptop 16 pre-orders are now open!",
+      "url": "https://frame.work/laptop16"
+    },
+    {
+      "title": "Buy a Used Framework Laptop \u2013 Affordable... - Tech X Worth",
+      "url": "https://techxworth.com/used-framework-laptop/"
+    },
+    {
+      "title": "Amazon.com: Lenovo Sparepart Laptop Motherboard for AMD Ryzen...",
+      "url": "https://www.amazon.com/Lenovo-Sparepart-Laptop-Motherboard-FRU5B20R56763/dp/B07V3HYS16"
+    },
+    {
+      "title": "Framework Laptop 16, six months later | The Verge",
+      "url": "https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review"
     }
   ],
   "seattle independent phone repair shops list": [
     {
-      "url": "https://www.yelp.com/search?find_desc=phone+repair&find_loc=Seattle,+WA",
-      "title": "TOP 10 BEST Phone Repair in Seattle, WA - Updated 2025 - Yelp Top 10 Best Phone Repair Near Me in Seattle WA Phone Repair in Seattle-Tacoma, Washington - 35 Locations ... The 10 Best Cell Phone Repair Services in Seattle, WA 2025 5 Best Mobile Phone Repair Services In Seattle (2025) Top 10 Best Phone repair technicians in Seattle, WA | Angi Mobile Device Repair in Seattle, WA - The Real Yellow Pages"
+      "title": "Phone System Repair Experts - Just Enter Your Zip",
+      "url": "https://www.bing.com/aclick?ld=e8qZ-bPZWSIdzP741rCNUmuTVUCUyA3RelwWI-FtuFMDUQ0yn5WZZ71z4SaWEC_cOwqQXlL7uib8fywCd5WaKx8P0kOBlwbdfJqLJ0QcxRYQ6d0NhOQtCFVtI9LzOMNiym3l4jZfelH5hbPHfUOYtRb8LLuNm5ElsKk-A6gIY2c2IBBAdjyMhQbqe3sFVY97c6L1pHQD39L180QerizLddhgtMgvo&u=aHR0cHMlM2ElMmYlMmZtYXRjaC5hbmdpLmNvbSUyZmRtdG0lMmYzODA4NDU3MyUzZmt3X2lkJTNkNzg5NTkyNjYyMDU3NzklMjZjX2lkJTNkNzg5NTg4ODM0NTQzNDclMjZnYXRjJTNkYnAlMjZlbnRyeV9wb2ludF9pZCUzZDM4MDg0NTczJTI2aXZfJTNkX19pdl9tX3BfY183ODk1ODg4MzQ1NDM0N19rXzc4OTU5MjY2MjA1Nzc5X3dfa3dkLTc4OTU5MjY2MjA1Nzc5JTNhbG9jLTE5MF9nXzEyNjMzMzk4NTE3OTgzMDdfbl9vX2VfX2hfNTgxNjJfaWlfNjc1NjBfcV9zZWF0dGxlJTI1MjBpbmRlcGVuZGVudCUyNTIwcGhvbmUlMjUyMHJlcGFpciUyNTIwc2hvcHMlMjUyMGxpc3RfcF8yX2JfYnBfZF9jX3ZpX18lMjYlM2ZtJTNkY2FtbWJpbmdzZW1hbCUyNmVudHJ5X3BvaW50X2lkJTNkMzgwODQ1NzMlMjZtc2Nsa2lkJTNkMWRlZDAwNGFjZTU1MTAzNjkzYjQ2OTBiMDBkZDg3MGQlMjZkaXNhYmxlZ3RtJTNkdHJ1ZSUyNmdjbGlkJTNkMWRlZDAwNGFjZTU1MTAzNjkzYjQ2OTBiMDBkZDg3MGQlMjZnY2xzcmMlM2QzcC5kcyUyNnNlbSUzZHRydWU&rlid=1ded004ace55103693b4690b00dd870d"
     },
     {
-      "url": "https://www.repairbros.com/phone-repair/seattle-wa/",
-      "title": "Top 10 Best Phone Repair Near Me in Seattle WA"
+      "title": "Phone Technicians - Just Enter Your Zip Code",
+      "url": "https://www.bing.com/aclick?ld=e805Mf34rWsnsDwO04r-jRazVUCUwtnrkrW3QQF5sf0lorQ5payRtfYouRj_247Ww0ExapsoQ6Pt6wgWA9Bxb4VY3SCwvhuJY-pUiOt32req0J5qkM224GJC3wePWxE9pWd_p05QnWMbHuFd_adhexwI9Us8c0H6aIdWVSYfcGx-veSe5-6u_TtskK_TT02iXxU0uweD7jV9Gyq2lBC4M08AwhhPA&u=aHR0cHMlM2ElMmYlMmZ3d3cuaG9tZWFkdmlzb3IuY29tJTJmZXh0JTJmMzgwMDY5MTMlM2Zrd19pZCUzZDgxNDMyODUwMzI0NDUzJTI2Y19pZCUzZDgxNDMyNjk3NjAxMzk1JTI2Z2F0YyUzZGJwJTI2ZW50cnlfcG9pbnRfaWQlM2QzODAwNjkxMyUyNml2XyUzZF9faXZfbV9wX2NfODE0MzI2OTc2MDEzOTVfa184MTQzMjg1MDMyNDQ1M193X2t3ZC04MTQzMjg1MDMyNDQ1MyUzYWxvYy0xOTBfZ18xMzAyOTIxNzE5MDc0NzU5X25fb19lX19oXzU4MTYyX2lpXzY3NTYwX3Ffc2VhdHRsZSUyNTIwaW5kZXBlbmRlbnQlMjUyMHBob25lJTI1MjByZXBhaXIlMjUyMHNob3BzJTI1MjBsaXN0X3BfMl9iX2JwX2RfY192aV9fJTI2bSUzZGNhbW1iaW5nc2VtaGElMjZlbnRyeV9wb2ludF9pZCUzZDM4MDA2OTEzJTI2bXNjbGtpZCUzZGMyMDk4ZmM5MzgxNjE0Nzc1NGNiZTY4OGY2OWU3MGNmJTI2ZGlzYWJsZWd0bSUzZHRydWUlMjZnY2xpZCUzZGMyMDk4ZmM5MzgxNjE0Nzc1NGNiZTY4OGY2OWU3MGNmJTI2Z2Nsc3JjJTNkM3AuZHMlMjZzZW0lM2R0cnVl&rlid=c2098fc93816147754cbe688f69e70cf"
     },
     {
-      "url": "https://swappa.com/repair/near-seattle-tacoma",
-      "title": "Phone Repair in Seattle-Tacoma, Washington - 35 Locations ..."
+      "title": "TOP 10 BEST Phone Repair in Seattle, WA - Updated 2025 - Yelp Top 10 Best Phone Repair Near Me in Seattle WA Phone Repair in Seattle-Tacoma, Washington - 35 Locations ... The 10 Best Cell Phone Repair Services in Seattle, WA 2025 5 Best Mobile Phone Repair Services In Seattle (2025) Top 10 Best Phone repair technicians in Seattle, WA | Angi Mobile Device Repair in Seattle, WA - The Real Yellow Pages",
+      "url": "https://www.yelp.com/search?find_desc=phone+repair&find_loc=Seattle,+WA"
+    },
+    {
+      "title": "Top 10 Best Phone Repair Near Me in Seattle WA",
+      "url": "https://www.repairbros.com/phone-repair/seattle-wa/"
+    },
+    {
+      "title": "Phone Repair in Seattle-Tacoma, Washington - 35 Locations ...",
+      "url": "https://swappa.com/repair/near-seattle-tacoma"
     }
   ],
   "right to repair washington state status": [
     {
-      "url": "https://newswatchtv.com/2025/05/27/right-to-repair-washington-state-finally-fix-your-own-electronics-without-hassle/",
-      "title": "Right to Repair Washington State : Fix Your Own Electronics"
+      "title": "Right to Repair Washington State : Fix Your Own Electronics",
+      "url": "https://newswatchtv.com/2025/05/27/right-to-repair-washington-state-finally-fix-your-own-electronics-without-hassle/"
+    },
+    {
+      "title": "Testimony: Tarah Wheeler, New America \u2013 securepairs.org",
+      "url": "https://securepairs.org/testimony-tarah-wheeler-new-america/"
+    },
+    {
+      "title": "MacDailyNews on Tumblr - # Right to Repair",
+      "url": "https://www.tumblr.com/macdailynews/tagged/Right+to+Repair"
+    },
+    {
+      "title": "Application Status | Washington State Department of Health",
+      "url": "https://doh.wa.gov/licenses-permits-and-certificates/professions-new-renew-or-update/application-status"
+    },
+    {
+      "title": "Washington HOA Laws, Information & Resources \u2014 Homeowners...",
+      "url": "https://www.hopb.co/washington"
     }
   ],
   "new york digital fair repair law summary": [
     {
-      "url": "https://www.clm.com/latent-ambiguities-in-new-yorks-digital-fair-repair-act-as-finally-enacted/",
-      "title": "Latent Ambiguities in New York \u2019s Digital Fair Repair Act as Finally..."
+      "title": "Right to repair - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Right_to_repair"
     },
     {
-      "url": "https://www.oneidadispatch.com/2024/02/01/ag-james-reminds-new-yorkers-digital-fair-repair-act-in-effect-statewide/",
-      "title": "AG James reminds New Yorkers Digital Fair Repair Act in effect..."
+      "title": "Latent Ambiguities in New York \u2019s Digital Fair Repair Act as Finally...",
+      "url": "https://www.clm.com/latent-ambiguities-in-new-yorks-digital-fair-repair-act-as-finally-enacted/"
+    },
+    {
+      "title": "AG James reminds New Yorkers Digital Fair Repair Act in effect...",
+      "url": "https://www.oneidadispatch.com/2024/02/01/ag-james-reminds-new-yorkers-digital-fair-repair-act-in-effect-statewide/"
+    },
+    {
+      "title": "Repair monopolies stories at Techdirt.",
+      "url": "https://www.techdirt.com/tag/repair-monopolies/"
+    },
+    {
+      "title": "\" New York 's Right to Repair law , the Digital Fair Repair Act, has...&q...",
+      "url": "https://twitter.com/PhoneArena/status/1608680367820574720"
     }
   ],
   "adhesive removal techniques electronics teardown": [
     {
-      "url": "https://www.ifixit.com/Guide/How+to+Use+iFixit+Adhesive+Remover/116993",
-      "title": "How to Use iFixit Adhesive Remover - iFixit Repair Guide"
+      "title": "How to Use iFixit Adhesive Remover - iFixit Repair Guide",
+      "url": "https://www.ifixit.com/Guide/How+to+Use+iFixit+Adhesive+Remover/116993"
     },
     {
-      "url": "https://www.youtube.com/watch?v=MXkv9L3foWI",
-      "title": "How To Avoid Damage When Taking Apart Electronics? How To Remove Glue From Electronics - CitizenSide How to Remove and Replace Non-Conductive Epoxy Adhesive Glue ... iPhone 16's Battery Teardown Shows Electrically Debondable ... iPhone 16 teardown shows off a new way to attach a phone ..."
+      "title": "How To Avoid Damage When Taking Apart Electronics? How To Remove Glue From Electronics - CitizenSide How to Remove and Replace Non-Conductive Epoxy Adhesive Glue ... iPhone 16's Battery Teardown Shows Electrically Debondable ... iPhone 16 teardown shows off a new way to attach a phone ...",
+      "url": "https://www.youtube.com/watch?v=MXkv9L3foWI"
     },
     {
-      "url": "https://citizenside.com/technology/how-to-remove-glue-from-electronics/",
-      "title": "How To Remove Glue From Electronics - CitizenSide"
+      "title": "How To Remove Glue From Electronics - CitizenSide",
+      "url": "https://citizenside.com/technology/how-to-remove-glue-from-electronics/"
     },
     {
-      "url": "https://www.electronicadhesive.com/how-to-remove-and-replace-non-conductive-epoxy-adhesive-glue-for-electronic-repairs/",
-      "title": "How to Remove and Replace Non-Conductive Epoxy Adhesive Glue ..."
+      "title": "How to Remove and Replace Non-Conductive Epoxy Adhesive Glue ...",
+      "url": "https://www.electronicadhesive.com/how-to-remove-and-replace-non-conductive-epoxy-adhesive-glue-for-electronic-repairs/"
     },
     {
-      "url": "https://www.itechpost.com/articles/123648/20240922/iphone-16s-battery-teardown-shows-electrically-debondable-adhesive-here-s.htm",
-      "title": "iPhone 16's Battery Teardown Shows Electrically Debondable ..."
+      "title": "iPhone 16's Battery Teardown Shows Electrically Debondable ...",
+      "url": "https://www.itechpost.com/articles/123648/20240922/iphone-16s-battery-teardown-shows-electrically-debondable-adhesive-here-s.htm"
     }
   ],
   "best heat gun settings phone adhesive": [
     {
-      "url": "https://www.ifixit.com/Guide/How+to+Use+a+Heat+Gun+to+Soften+Adhesive/151116",
-      "title": "How to Use a Heat Gun to Soften Adhesive - iFixit Repair Guide"
+      "title": "How to Use a Heat Gun to Soften Adhesive - iFixit Repair Guide",
+      "url": "https://www.ifixit.com/Guide/How+to+Use+a+Heat+Gun+to+Soften+Adhesive/151116"
     },
     {
-      "url": "https://www.reddit.com/r/mobilerepair/comments/dfahbw/suggested_maximum_heat_level_to_loosen_adhesive/",
-      "title": "Suggested Maximum Heat Level to Loosen Adhesive? - Reddit"
+      "title": "Best Heat Gun for Cell Phone Repair: Expert Picks 2025",
+      "url": "https://heaterguides.com/best-heat-gun-for-cell-phone-repair/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Eajx1l_8iM0",
-      "title": "What Are The Ideal Heat Gun Settings For Phone Repair ... I Tested the Top Heat Guns for Phone Repair and Here\u2019s What ... Best Heat Guns for Phone Repair With Variable Temperature ... How to Use a Heat Gun for Phone Repair - Engineer Fix"
+      "title": "Suggested Maximum Heat Level to Loosen Adhesive? - Reddit",
+      "url": "https://www.reddit.com/r/mobilerepair/comments/dfahbw/suggested_maximum_heat_level_to_loosen_adhesive/"
+    },
+    {
+      "title": "What Are The Ideal Heat Gun Settings For Phone Repair ... I Tested the Top Heat Guns for Phone Repair and Here\u2019s What ... Best Heat Guns for Phone Repair With Variable Temperature ... How to Use a Heat Gun for Phone Repair - Engineer Fix",
+      "url": "https://www.youtube.com/watch?v=Eajx1l_8iM0"
+    },
+    {
+      "title": "I Tested the Top Heat Guns for Phone Repair and Here\u2019s What ...",
+      "url": "https://explainthispaper.com/heat-gun-for-phone-repair/"
     }
   ],
   "tri point y000 screwdriver quality brands": [
     {
-      "url": "https://www.amazon.com/tri-point-y000-screwdriver/s?k=tri-point+y000+screwdriver",
-      "title": "Amazon.com: Tri-point Y000 Screwdriver"
+      "title": "Tri-point Y00 Screwdriver - View Ratings and Reviews",
+      "url": "https://www.bing.com/aclick?ld=e8YHR91OZ5IyfQBRL3AFKSnzVUCUz7i-SOWj0INGc5bXITQvJwuttaRAPs9pwKn1B-_VjWXCuEPimocpnLPqCAAWnb5OfrIkJVIu2OItCXMRu0kmUAvgp7xjjWJsJma5-I4606IRgUjpRxIh4JWVYhlJ9oDK4VBC7xaR76U4iq3QVztGv9ouyqEDjxLaeMfPFNsFiArZdqyi6a5rreBynt1XK1do4&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHRyaS1wb2ludCUyYnkwMCUyYnNjcmV3ZHJpdmVyJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfM2ppa21jZ2Ywb19wJTI2YWRncnBpZCUzZDEzNDQ3MDMyODc1ODE0ODUlMjZodmFkaWQlM2Q4NDA0NDE5NDMxNTAzNCUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODQwNDQzMDYzOTUwMjklM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDE2NDJfMTM0NTgwNzQlMjZtY2lkJTNkMGZkYWU4NjdlN2ZiMzMzMDhkNmViOTk0MTdiMWE3NjI&rlid=b96e57ce00d217323d5b3e8fce5f4e4c"
     },
     {
-      "url": "https://www.findthisbest.com/best-screwdrivers/tri-point",
-      "title": "Best Tri-Point Screwdrivers of 2025 - FindThisBest Images Y000 Tripoint Screwdriver - Walmart.com Wiha 26601 Precision Tri-Wing #000 Tri-Point Y000 Screwdriver for iPhone 7, Apple Watch and More Wiha Y-Type Y000 Precision PicoFinish Screwdriver Tri-Point ... Understanding Tri-Point Screw Sizes: A Comprehensive Guide Tri-point Y00 Screwdriver - View Ratings and Reviews Top 5 Best Tri-point Y0 Screwdriver"
+      "title": "Top 5 Best Tri-point Y0 Screwdriver",
+      "url": "https://www.bing.com/aclick?ld=e8quif-d6_8NZEezEQ0KqI3DVUCUyN5C1H0-4nLkVnp79yt7hyE1dr3jlktlchOqAOYhdWEFMEOnEq2uevWFkAMoGDs5_oF93982Fr86JG5sopzzaPhyZVueMccuq6nV77LVUCZ5ZcmPwc50FZWKISVVj4SP9S-YNe0H-yvNPIaAV2AmT-Bopvbho_Tw1B75ql2wMkTOoMYk7OlceMk0lSNKho1N4&u=aHR0cHMlM2ElMmYlMmZ0b3A1YmVzdC5jb20lMmZ0cmktcG9pbnQteTAtc2NyZXdkcml2ZXIlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q2NDg1JTI2bXNjbGtpZCUzZDlmZmU0MWI5N2M5ZDExYTIwNWVmMjhmOGIyMTBkMTcx&rlid=9ffe41b97c9d11a205ef28f8b210d171"
     },
     {
-      "url": "https://www.walmart.com/c/kp/y000-tripoint-screwdriver",
-      "title": "Y000 Tripoint Screwdriver - Walmart.com"
+      "title": "Amazon.com: Tri-point Y000 Screwdriver",
+      "url": "https://www.amazon.com/tri-point-y000-screwdriver/s?k=tri-point+y000+screwdriver"
+    },
+    {
+      "title": "Best Tri-Point Screwdrivers of 2025 - FindThisBest Images Y000 Tripoint Screwdriver - Walmart.com Wiha 26601 Precision Tri-Wing #000 Tri-Point Y000 Screwdriver for iPhone 7, Apple Watch and More Wiha Y-Type Y000 Precision PicoFinish Screwdriver Tri-Point ... Understanding Tri-Point Screw Sizes: A Comprehensive Guide Tri-point Y00 Screwdriver - View Ratings and Reviews Top 5 Best Tri-point Y0 Screwdriver",
+      "url": "https://www.findthisbest.com/best-screwdrivers/tri-point"
+    },
+    {
+      "title": "Y000 Tripoint Screwdriver - Walmart.com",
+      "url": "https://www.walmart.com/c/kp/y000-tripoint-screwdriver"
     }
   ],
   "esd mat wrist strap best value": [
     {
-      "url": "https://www.alibaba.com/showroom/esd-mat-wrist-strap.html",
-      "title": "Ensure Workplace Safety with Essential esd mat wrist strap Solutions"
+      "title": "Ensure Workplace Safety with Essential esd mat wrist strap Solutions",
+      "url": "https://www.alibaba.com/showroom/esd-mat-wrist-strap.html"
     },
     {
-      "url": "https://www.newegg.com/p/pl?d=anti+static+mat+with+wrist+strap",
-      "title": "anti static mat with wrist strap | Newegg.com"
+      "title": "anti static mat with wrist strap | Newegg.com",
+      "url": "https://www.newegg.com/p/pl?d=anti+static+mat+with+wrist+strap"
     },
     {
-      "url": "https://www.amazon.com/StarTech-com-Static-Wrist-Strap-Grounding/dp/B0C98Z143W",
-      "title": "Amazon.com: StarTech.com Anti Static Mat & ESD Wrist Strap with..."
+      "title": "Amazon.com: StarTech.com Anti Static Mat & ESD Wrist Strap with...",
+      "url": "https://www.amazon.com/StarTech-com-Static-Wrist-Strap-Grounding/dp/B0C98Z143W"
     },
     {
-      "url": "https://www.leenol.com/Anti-static-Table-Mat-Grounding-Cord-ESD-Wrist-Strap-pd43469133.html",
-      "title": "Anti-static Table Mat Grounding Cord ESD Wrist Strap from... - Leenol"
+      "title": "Anti-static Table Mat Grounding Cord ESD Wrist Strap from... - Leenol",
+      "url": "https://www.leenol.com/Anti-static-Table-Mat-Grounding-Cord-ESD-Wrist-Strap-pd43469133.html"
+    },
+    {
+      "title": "Steel ESD Anti Static Wrist Strap Rubber Mat Buckle 2pc/Set",
+      "url": "https://www.esdsafematerials.com/quality-14407177-steel-esd-anti-static-wrist-strap-rubber-mat-buckle-2pc-set"
     }
   ],
   "torx standoff screw bits phone laptops": [
     {
-      "url": "https://www.amazon.com/computer-torx-screwdriver/s?k=computer+torx+screwdriver",
-      "title": "Amazon.com: Computer Torx Screwdriver"
+      "title": "Amazon.com: Computer Torx Screwdriver",
+      "url": "https://www.amazon.com/computer-torx-screwdriver/s?k=computer+torx+screwdriver"
     },
     {
-      "url": "https://www.staples.com/buy/laptop-screwdriver-sets-0akz00a",
-      "title": "Laptop Screwdriver Sets - Staples"
+      "title": "Laptop Screwdriver Sets - Staples",
+      "url": "https://www.staples.com/buy/laptop-screwdriver-sets-0akz00a"
     },
     {
-      "url": "https://www.walmart.com/ip/Precision-Screwdriver-Set-Smart-Phone-Laptop-Gadget-Repair-Includes-Tamperproof-Security-Bits-ESD-Tweezers-Extension-Bar-45-1-Tool-Kit/5757799487",
-      "title": "Precision Screwdriver Set for Smart Phone, Laptop, Gadget ... Best Precision Screwdriver Set for PC, Laptop, Phone Repair ... 145-in-1 Precision Screwdriver Set Professional Mobile Phone ... 10 Best Torx Screwdriver For Laptop 2025 in the US | There's ... Computer Repair Screwdriver Set - Staples"
+      "title": "Precision Screwdriver Set for Smart Phone, Laptop, Gadget ... Best Precision Screwdriver Set for PC, Laptop, Phone Repair ... 145-in-1 Precision Screwdriver Set Professional Mobile Phone ... 10 Best Torx Screwdriver For Laptop 2025 in the US | There's ... Computer Repair Screwdriver Set - Staples",
+      "url": "https://www.walmart.com/ip/Precision-Screwdriver-Set-Smart-Phone-Laptop-Gadget-Repair-Includes-Tamperproof-Security-Bits-ESD-Tweezers-Extension-Bar-45-1-Tool-Kit/5757799487"
     },
     {
-      "url": "https://www.amazon.com/Precision-Screwdriver-Professional-Computer-Pentalobe/dp/B0CWDJSY39",
-      "title": "145-in-1 Precision Screwdriver Set Professional Mobile Phone ..."
+      "title": "145-in-1 Precision Screwdriver Set Professional Mobile Phone ...",
+      "url": "https://www.amazon.com/Precision-Screwdriver-Professional-Computer-Pentalobe/dp/B0CWDJSY39"
     },
     {
-      "url": "https://www.bestreviews.guide/torx-screwdriver-for-laptop",
-      "title": "10 Best Torx Screwdriver For Laptop 2025 in the US | There's ..."
+      "title": "10 Best Torx Screwdriver For Laptop 2025 in the US | There's ...",
+      "url": "https://www.bestreviews.guide/torx-screwdriver-for-laptop"
     }
   ],
   "iopener vs heat gun safety battery": [
     {
-      "url": "https://www.ifixit.com/Answers/View/359267/iOpener+vs.+Heat+Gun",
-      "title": "SOLVED: iOpener vs . Heat Gun - MacBook Unibody Model... - iFixit"
+      "title": "SOLVED: iOpener vs . Heat Gun - MacBook Unibody Model... - iFixit",
+      "url": "https://www.ifixit.com/Answers/View/359267/iOpener+vs.+Heat+Gun"
     },
     {
-      "url": "https://www.tpsearchtool.com/web/iopener-vs-heat-gun",
-      "title": "Iopener Vs Heat Gun"
+      "title": "DIY iOpener heat pad, The Hot Sock - YouTube",
+      "url": "https://www.youtube.com/watch?v=Q9spEYgHDbM"
+    },
+    {
+      "title": "Iopener Vs Heat Gun",
+      "url": "https://www.tpsearchtool.com/web/iopener-vs-heat-gun"
+    },
+    {
+      "title": "iPod Screen Removal with iFixIt iOpener & Essential Electronics...",
+      "url": "https://rutube.ru/video/7bb3ba36725e34e2e9502e36acf71943/"
+    },
+    {
+      "title": "Miami Heat vs Milwaukee Bucks Live Streams - Buffstreams",
+      "url": "https://buffstreams.plus/nba/miami-heat-milwaukee-bucks/983590"
     }
   ],
   "qmk firmware bluetooth latency tips": [
     {
-      "url": "https://docs.qmk.fm/features/wireless",
-      "title": "Wireless / Bluetooth | QMK Firmware"
+      "title": "Wireless / Bluetooth | QMK Firmware",
+      "url": "https://docs.qmk.fm/features/wireless"
     },
     {
-      "url": "https://www.reddit.com/r/Keychron/comments/1bb5avp/keychron_bluetooth_with_qmk_firmware_lessons/",
-      "title": "Keychron bluetooth with QMK firmware - lessons learned : r ..."
+      "title": "Keychron bluetooth with QMK firmware - lessons learned : r ...",
+      "url": "https://www.reddit.com/r/Keychron/comments/1bb5avp/keychron_bluetooth_with_qmk_firmware_lessons/"
     },
     {
-      "url": "https://deskthority.net/viewtopic.php?t=16637",
-      "title": "[Q] Status of Bluetooth support for TMK/QMK - deskthority"
+      "title": "Reduce Keyboard Input Lag with QMK - keebsforall.com",
+      "url": "https://keebsforall.com/blogs/mechanical-keyboards-101/reduce-keyboard-input-lag-with-qmk"
+    },
+    {
+      "title": "GitHub - paulmassen/QMK-Tips-and-tricks: A collection of ...",
+      "url": "https://github.com/paulmassen/QMK-Tips-and-tricks"
+    },
+    {
+      "title": "[Q] Status of Bluetooth support for TMK/QMK - deskthority",
+      "url": "https://deskthority.net/viewtopic.php?t=16637"
     }
   ],
   "zmk vs qmk for low power keyboards": [
     {
-      "url": "https://www.bbkeyboard.com/blog/zmk-vs-qmk-for-mini-keyboards-which-firmware-should-you-use/",
-      "title": "ZMK vs QMK for Mini Keyboards : Which Firmware... - BB Keyboard"
+      "title": "ZMK vs QMK for Mini Keyboards : Which Firmware... - BB Keyboard",
+      "url": "https://www.bbkeyboard.com/blog/zmk-vs-qmk-for-mini-keyboards-which-firmware-should-you-use/"
     },
     {
-      "url": "https://zmk.dev/docs/faq",
-      "title": "FAQs | ZMK Firmware"
+      "title": "Keyboard Input Latency Compared: Wireless BLE ZMK , QMK , and...",
+      "url": "https://www.youtube.com/watch?v=jWL4nU-vtWs"
+    },
+    {
+      "title": "FAQs | ZMK Firmware",
+      "url": "https://zmk.dev/docs/faq"
+    },
+    {
+      "title": "qmkbuilder vs qmk -to- zmk - compare differences and reviews? | LibHunt",
+      "url": "https://www.libhunt.com/compare-qmkbuilder-vs-qmk-to-zmk"
+    },
+    {
+      "title": "Best Ergonomic Split Keyboards | Prevent Carpal Tunnel & RSI",
+      "url": "https://ocdevel.com/ergo/keyboards"
     }
   ],
   "bluetooth hid latency measurement arduino rig": [
     {
-      "url": "https://www.academia.edu/6819935/Using_Arduino_Microcontroller_Boards_to_Measure_Response_Latencies",
-      "title": "Using Arduino Microcontroller Boards to Measure Response Latencies ."
+      "title": "Bluetooth Controlled Robot Using Arduino - LearningBix",
+      "url": "https://blog.learningbix.com/bluetooth-controlled-robot-using-arduino/"
     },
     {
-      "url": "https://www.academia.edu/6819935/Using_Arduino_Microcontroller_Boards_to_Measure_Response_Latencies",
-      "title": "Using Arduino Microcontroller Boards to Measure Response Latencies ."
+      "title": "Using Arduino Microcontroller Boards to Measure Response Latencies .",
+      "url": "https://jurnal-singkat.blogspot.com/2021/08/using-arduino-microcontroller-boards-to.html"
+    },
+    {
+      "title": "Using Arduino Microcontroller Boards to Measure Response Latencies .",
+      "url": "https://www.academia.edu/6819935/Using_Arduino_Microcontroller_Boards_to_Measure_Response_Latencies"
+    },
+    {
+      "title": "Using Arduino and Bluetooth control a two-drive car... | ELECFREAKS",
+      "url": "https://www.elecfreaks.com/blog/post/using-arduino-and-bluetooth-control-a-two-drive-car.html"
+    },
+    {
+      "title": "Grove Electromagnet Latency - Science and... - Arduino Forum",
+      "url": "https://forum.arduino.cc/t/grove-electromagnet-latency/562670"
     }
   ],
   "nvidia ldat availability price": [
     {
-      "url": "https://developer.nvidia.com/nvidia-latency-display-analysis-tool",
-      "title": "NVIDIA Latency and Display Analysis Tool"
+      "title": "NVIDIA Latency and Display Analysis Tool",
+      "url": "https://developer.nvidia.com/nvidia-latency-display-analysis-tool"
     },
     {
-      "url": "https://www.aliexpress.com/w/wholesale-nvidia-ldat.html",
-      "title": "nvidia ldat - Buy nvidia ldat with free shipping on AliExpress"
+      "title": "Our 10 Best Nvidia Ldat for 2025 [US] | OneClearWinner.com",
+      "url": "https://reviews.oneclearwinner.com/product/nvidia-ldat/"
     },
     {
-      "url": "https://www.reddit.com/r/nvidia/comments/10fkl4s/looking_to_purchase_nvidia_ldat_v2_latency/",
-      "title": "Looking To Purchase NVIDIA LDAT V2 Latency ... - Reddit"
+      "title": "nvidia ldat - Buy nvidia ldat with free shipping on AliExpress",
+      "url": "https://www.aliexpress.com/w/wholesale-nvidia-ldat.html"
+    },
+    {
+      "title": "Pricing \u2014 NVIDIA Enterprise Licensing Guide",
+      "url": "https://docs.nvidia.com/ai-enterprise/planning-resource/licensing-guide/latest/pricing.html"
+    },
+    {
+      "title": "Looking To Purchase NVIDIA LDAT V2 Latency ... - Reddit",
+      "url": "https://www.reddit.com/r/nvidia/comments/10fkl4s/looking_to_purchase_nvidia_ldat_v2_latency/"
     }
   ],
   "high speed camera 960fps affordable models": [
     {
-      "url": "https://nofilmschool.com/2013/09/shoot-18000-fps-edgertronic-slow-motion-high-speed",
-      "title": "Want to Shoot Video at 18,000FPS? Affordable ... | No Film School"
+      "title": "Sony FX3 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sony_FX3"
+    },
+    {
+      "title": "Want to Shoot Video at 18,000FPS? Affordable ... | No Film School",
+      "url": "https://nofilmschool.com/2013/09/shoot-18000-fps-edgertronic-slow-motion-high-speed"
+    },
+    {
+      "title": "4k and 120 fps affordable camera ? | DPReview Forums",
+      "url": "https://www.dpreview.com/forums/threads/4k-and-120fps-affordable-camera.4148284/"
+    },
+    {
+      "title": "ELP 12MP Webcam Auto Focus USB Camera Module 1080P 60FPS...",
+      "url": "https://www.svpro.cc/product/elp-12mp-webcam-auto-focus-usb-camera-module-1080p-60fps-4k-30fps-mini-lightburn-camera-with-60degree-lens-for-face-recognition/"
+    },
+    {
+      "title": "Retrogaming Input lag comparaison ( 960 FPS camera ...) - YouTube",
+      "url": "https://www.youtube.com/watch?v=NyrcPyZtfMg"
     }
   ],
   "solenoid key tapper diy guide": [
     {
-      "url": "https://forum.pianoworld.com/ubbthreads.php/topics/3257085/key-tapper.html",
-      "title": "Key Tapper - Piano World Piano & Digital Piano Forums"
+      "title": "Make A Homemade Tapping Machine | DIY Tapping Guide - YouTube",
+      "url": "https://www.youtube.com/watch?v=YQTEp9u0Iq4"
+    },
+    {
+      "title": "Make A Homemade Tapping Machine | DIY Tapping Guide",
+      "url": "https://ru.pinterest.com/pin/make-a-homemade-tapping-machine--811140582866145054/"
+    },
+    {
+      "title": "Key Tapper - Piano World Piano & Digital Piano Forums",
+      "url": "https://forum.pianoworld.com/ubbthreads.php/topics/3257085/key-tapper.html"
+    },
+    {
+      "title": "How to Do EFT Tapping : Your Guide to the Tapping Technique",
+      "url": "https://www.thetappingsolution.com/blog/how-to-do-eft-tapping-your-complete-guide-to-the-tapping-technique-and-the-basic-tapping-sequence/"
+    },
+    {
+      "title": "Free Key for Happ/V2ray/Hiddify/Outline. Status: WORK.",
+      "url": "https://freevpnkeys.com/vpn-keys/\ud83c\uddfa\ud83c\uddf8-telegavpn557-trojan-united-states/"
     }
   ],
   "two months later firmware follow up checklist": [
     {
-      "url": "https://arstechnica.com/gadgets/2009/03/app-store-lessons-firmware-followup/",
-      "title": "iPhone firmware followup : the numbers - Ars Technica"
+      "title": "iPhone firmware followup : the numbers - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2009/03/app-store-lessons-firmware-followup/"
+    },
+    {
+      "title": "Firmware update problem - Deeper Network Talk",
+      "url": "https://deepernetwork.cc/d/46-firmware-update-problem/8"
+    },
+    {
+      "title": "Redmi Note 12 Turbo/POCO F5 (marble)... | XM Firmware Updater",
+      "url": "https://xmfirmwareupdater.com/firmware/marble/"
+    },
+    {
+      "title": "Nikon | Download center | Z 9 Firmware",
+      "url": "https://downloadcenter.nikonimglib.com/en/download/fw/580.html"
+    },
+    {
+      "title": "PSA: Nothing's latest firmware update make the... - SoundGuys",
+      "url": "https://www.soundguys.com/psa-nothings-latest-firmware-update-make-the-headphone-1-sound-worse-to-some-users-143832/"
     }
   ],
   "friction journal template ux": [
     {
-      "url": "https://tomhipwell.co/blog/friction_log/",
-      "title": "Friction Log Template - Tom Hipwell"
+      "title": "Friction Log Template - Tom Hipwell",
+      "url": "https://tomhipwell.co/blog/friction_log/"
     },
     {
-      "url": "https://www.adora.so/blog/friction-logging-playbook-template",
-      "title": "Friction Logging Playbook + Template"
+      "title": "Friction Logging Playbook + Template",
+      "url": "https://www.adora.so/blog/friction-logging-playbook-template"
     },
     {
-      "url": "https://www.figma.com/community/file/1569955902855850212/friction-logging-template-adora",
-      "title": "Friction Logging Template - Adora - Figma"
+      "title": "Friction Logging Template - Adora - Figma",
+      "url": "https://www.figma.com/community/file/1569955902855850212/friction-logging-template-adora"
     },
     {
-      "url": "https://sprig.com/template/spot-ux-friction-points",
-      "title": "Template to spot UX friction points | Sprig Template Gallery"
+      "title": "Template to spot UX friction points | Sprig Template Gallery",
+      "url": "https://sprig.com/template/spot-ux-friction-points"
+    },
+    {
+      "title": "Positive Friction: How You Can Use It to Create Better ... Friction Logs for UX Problem Identification | Boost Website UX How to quantify and reduce friction in user experiences",
+      "url": "https://www.interaction-design.org/literature/article/positive-friction-how-you-can-use-it-to-create-better-experiences"
     }
   ],
   "golden hour times seattle today": [
     {
-      "url": "https://www.timeanddate.com/worldclock/usa/seattle",
-      "title": "Current Local Time in Seattle , Washington, USA"
+      "title": "Current Local Time in Seattle , Washington, USA",
+      "url": "https://www.timeanddate.com/worldclock/usa/seattle"
     },
     {
-      "url": "https://time.is/Seattle",
-      "title": "Time in Seattle , Washington, United States now"
+      "title": "Time in Seattle , Washington, United States now",
+      "url": "https://time.is/Seattle"
+    },
+    {
+      "title": "The Seattle Times | Local news, sports, business, politics...",
+      "url": "https://www.seattletimes.com/"
+    },
+    {
+      "title": "Ice Spotting Seattle | TikTok",
+      "url": "https://www.tiktok.com/discover/ice-spotting-seattle"
+    },
+    {
+      "title": "Google News - Seattle - Latest",
+      "url": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR1E1YW5JU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en"
     }
   ],
   "skin tone rendering test scenes download": [
     {
-      "url": "https://github.com/LuxCoreRender/LuxCoreTestScenes",
-      "title": "A repository of complex LuxCore test scenes - GitHub"
+      "title": "A repository of complex LuxCore test scenes - GitHub",
+      "url": "https://github.com/LuxCoreRender/LuxCoreTestScenes"
     },
     {
-      "url": "https://benedikt-bitterli.me/resources/",
-      "title": "Rendering Resources | Benedikt Bitterli's Portfolio"
+      "title": "How to Get Cinematic Skin Tones Every Time - YouTube",
+      "url": "https://www.youtube.com/watch?v=MNaEEaweq_w"
     },
     {
-      "url": "https://80.lv/articles/can-this-be-the-best-downloadable-blender-skin-shader-ever-made",
-      "title": "Download a New Ultra-Realistic Skin Shader For Blender - 80"
+      "title": "Rendering Resources | Benedikt Bitterli's Portfolio",
+      "url": "https://benedikt-bitterli.me/resources/"
+    },
+    {
+      "title": "Download Professional Blender Scenes & Environments",
+      "url": "https://www.cgibackgrounds.com/posts/download-professional-blender-scenes-for-rendering"
+    },
+    {
+      "title": "Download a New Ultra-Realistic Skin Shader For Blender - 80",
+      "url": "https://80.lv/articles/can-this-be-the-best-downloadable-blender-skin-shader-ever-made"
     }
   ],
   "hdr tone mapping test patterns mobile": [
     {
-      "url": "https://www.youtube.com/watch?v=tBG1zKYcVuw",
-      "title": "HDR10 test patterns: Tone Mapping/Clipping test 240-1000 nits Images Tone Mapping HDR Luminance to an SDR-compatible Range HDR10 test patterns set | Page 12 | AVS Forum HDR Tone Mapping Package - DXOMARK - Imaging Quality Test ... VideoQ HDR Test Patterns Presentation HDR10 UltraHD Test Patterns - Diversified Video Solutions HDR -10 - UltraHD Test Patterns Tone mapping - Wikipedia Tone Mapping HDR Luminance to an SDR-compatible Range HDR -10 - UltraHD Test Patterns Test Patterns \u2013 AVPro Global - MURIDEO"
+      "title": "HDR10 test patterns: Tone Mapping/Clipping test 240-1000 nits Images Tone Mapping HDR Luminance to an SDR-compatible Range HDR10 test patterns set | Page 12 | AVS Forum HDR Tone Mapping Package - DXOMARK - Imaging Quality Test ... VideoQ HDR Test Patterns Presentation HDR10 UltraHD Test Patterns - Diversified Video Solutions HDR -10 - UltraHD Test Patterns Tone mapping - Wikipedia Tone Mapping HDR Luminance to an SDR-compatible Range HDR -10 - UltraHD Test Patterns Test Patterns \u2013 AVPro Global - MURIDEO",
+      "url": "https://www.youtube.com/watch?v=tBG1zKYcVuw"
     },
     {
-      "url": "https://source.android.com/docs/core/display/tone-mapping",
-      "title": "Tone Mapping HDR Luminance to an SDR-compatible Range HDR10 test patterns set | Page 12 | AVS Forum HDR Tone Mapping Package - DXOMARK - Imaging Quality Test ... VideoQ HDR Test Patterns Presentation HDR10 UltraHD Test Patterns - Diversified Video Solutions HDR -10 - UltraHD Test Patterns Tone mapping - Wikipedia Tone Mapping HDR Luminance to an SDR-compatible Range HDR -10 - UltraHD Test Patterns Test Patterns \u2013 AVPro Global - MURIDEO"
+      "title": "Tone Mapping HDR Luminance to an SDR-compatible Range HDR10 test patterns set | Page 12 | AVS Forum HDR Tone Mapping Package - DXOMARK - Imaging Quality Test ... VideoQ HDR Test Patterns Presentation HDR10 UltraHD Test Patterns - Diversified Video Solutions HDR -10 - UltraHD Test Patterns Tone mapping - Wikipedia Tone Mapping HDR Luminance to an SDR-compatible Range HDR -10 - UltraHD Test Patterns Test Patterns \u2013 AVPro Global - MURIDEO",
+      "url": "https://source.android.com/docs/core/display/tone-mapping"
     },
     {
-      "url": "https://www.avsforum.com/threads/hdr10-test-patterns-set.2943380/page-12",
-      "title": "HDR10 test patterns set | Page 12 | AVS Forum"
+      "title": "HDR10 test patterns set | Page 12 | AVS Forum",
+      "url": "https://www.avsforum.com/threads/hdr10-test-patterns-set.2943380/page-12"
     },
     {
-      "url": "https://videoq.com/Downloads/VideoQ_HDR_Test_Patterns_Training_Presentation_PPT.pdf",
-      "title": "VideoQ HDR Test Patterns Presentation"
+      "title": "HDR Tone Mapping Package - DXOMARK - Imaging Quality Test ...",
+      "url": "https://corp.dxomark.com/catalog/testing-tools/product-type/packages/hdr-tone-mapping/"
+    },
+    {
+      "title": "VideoQ HDR Test Patterns Presentation",
+      "url": "https://videoq.com/Downloads/VideoQ_HDR_Test_Patterns_Training_Presentation_PPT.pdf"
     }
   ],
-  "autofocus tracking stickiness test protocol": [],
+  "autofocus tracking stickiness test protocol": [
+    {
+      "title": "APPLICATION NOTE pull away test on a rotational rheometer ...",
+      "url": "https://cdn.technologynetworks.com/TN/Resources/PDF/AN150527AssessingTackinessPullAway.pdf"
+    },
+    {
+      "title": "Measure stickiness/adhesiveness | Texture Analyser test",
+      "url": "https://www.stablemicrosystems.com/properties/stickiness-adhesiveness/"
+    },
+    {
+      "title": "Understanding Tack Tests with Kinexus - Analyzing & Testing",
+      "url": "https://analyzing-testing.netzsch.com/en/application-literature/understanding-tack-tests-with-kinexus"
+    },
+    {
+      "title": "Test Methods to Evaluate Tack - SpecialChem",
+      "url": "https://www.specialchem.com/adhesives/guide/test-methods-to-evaluate-tack"
+    },
+    {
+      "title": "How to Perform ASTM D6195 Adhesive Loop Tack Strength Test",
+      "url": "https://www.packqc.com/perform-astm-d6195-adhesive-loop-tack-strength-test/"
+    }
+  ],
   "rolling shutter measurement smartphone video": [
     {
-      "url": "https://hal.science/hal-03177322/document",
-      "title": "Using a smartphone camera to analyse rotating and vibrating systems..."
+      "title": "Using a smartphone camera to analyse rotating and vibrating systems...",
+      "url": "https://hal.science/hal-03177322/document"
+    },
+    {
+      "title": "RnGCam: High-speed video from rolling & global shutter ...",
+      "url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Tandi_RnGCam_High-speed_video_from_rolling__global_shutter_measurements_ICCV_2025_paper.pdf"
+    },
+    {
+      "title": "FYI: Z8/Z9 rolling shutter in 60fps/120fps... | DPReview Forums",
+      "url": "https://www.dpreview.com/forums/threads/fyi-z8-z9-rolling-shutter-in-60fps-120fps-continuous-modes.4752433/"
+    },
+    {
+      "title": "Samsung NX1: Here is the rolling shutter measurement",
+      "url": "https://www.dvxuser.com/threads/samsung-nx1-here-is-the-rolling-shutter-measurement.338002/"
+    },
+    {
+      "title": "Sony FX9 Lab Test Part 1 \u2013 Rolling Shutter , Dynamic Range... | CineD",
+      "url": "https://www.cined.com/lab-test-sony-fx9-rolling-shutter-dynamic-range-latitude/"
     }
   ],
   "x-rite colorchecker card buy": [
     {
-      "url": "https://www.bing.com/aclick?ld=e8dudDuPbiS06P4w05wZFPJzVUCUwOnDaClitrOH44AsvghwdW0eKOdw-ig5mv6tbEzsV4Nv4m1SKhRSRzYOkf05iDOMNyWNaRsBySeMPdtRyzWxtIcdbnpb0ydd_dYvmU4LgYjTdP8wpErKGBuHnzvMzafJs5ny9jVy9q58arhHzfHQ7EK-XvTul1bLr0MLRFJ0WHuitIvs0QEyW8w4s_iwo5FPI&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHgtcml0ZSUyYmNvbG9yY2hlY2tlciUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzgybzcybXg5ZDlfcCUyNmFkZ3JwaWQlM2QxMzQwMzA1MjQ0MjA2ODczJTI2aHZhZGlkJTNkODM3NjkyOTIzOTA3MjglMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzNzY5NDM0OTc0NTM2JTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2QxODQ0OV8xMzQ0MzI3MyUyNm1jaWQlM2RkZTE5ZmU3Y2Q4ODMzOTBiYWMyN2ExNjBiMDZlZGJhMCUyNm1zY2xraWQlM2QxN2NkNmVkYzlmYmExNTBhOTEzNzA3OWQ1MTIxYjhlYw&rlid=17cd6edc9fba150a9137079d5121b8ec",
-      "title": "X-rite Colorchecker - Deals on X-rite Colorchecker"
+      "title": "X-rite Colorchecker - Deals on X-rite Colorchecker",
+      "url": "https://www.bing.com/aclick?ld=e8dudDuPbiS06P4w05wZFPJzVUCUwOnDaClitrOH44AsvghwdW0eKOdw-ig5mv6tbEzsV4Nv4m1SKhRSRzYOkf05iDOMNyWNaRsBySeMPdtRyzWxtIcdbnpb0ydd_dYvmU4LgYjTdP8wpErKGBuHnzvMzafJs5ny9jVy9q58arhHzfHQ7EK-XvTul1bLr0MLRFJ0WHuitIvs0QEyW8w4s_iwo5FPI&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHgtcml0ZSUyYmNvbG9yY2hlY2tlciUyNmluZGV4JTNkYXBzJTI2dGFnJTNkbWgwYi0yMCUyNnJlZiUzZHBkX3NsXzgybzcybXg5ZDlfcCUyNmFkZ3JwaWQlM2QxMzQwMzA1MjQ0MjA2ODczJTI2aHZhZGlkJTNkODM3NjkyOTIzOTA3MjglMjZodm5ldHclM2RvJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzNzY5NDM0OTc0NTM2JTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2QxODQ0OV8xMzQ0MzI3MyUyNm1jaWQlM2RkZTE5ZmU3Y2Q4ODMzOTBiYWMyN2ExNjBiMDZlZGJhMCUyNm1zY2xraWQlM2QxN2NkNmVkYzlmYmExNTBhOTEzNzA3OWQ1MTIxYjhlYw&rlid=17cd6edc9fba150a9137079d5121b8ec"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8NIyVSMEtiMxnRopKahREbDVUCUxh9d3E978gVg9IBa2dR_KkfIcpZ_B95GUel2jrMo0u1RxmIGnw4mJ3vTKLSS504FUzSbCGrx1TiM2BtpdBjS_zmnOoZTVfcFvuD_913_jOBGgYEJsmpoYhodMIrrRXlBRVcjuwwzt4-bDgycs8czaE0YoGtZWQQPZl_MZm_S34K5V4XG8JuFmSCa6NnhUl3y0&u=aHR0cHMlM2ElMmYlMmZ3d3cuYmhwaG90b3ZpZGVvLmNvbSUyZmMlMmZzZWFyY2glM2ZOdHQlM2R4cml0ZSUyNTIwY29sb3JjaGVja2VyJTI1MjBwYXNzcG9ydCUyNTIwdmlkZW8lMjZOJTNkMCUyNkluaXRpYWxTZWFyY2glM2R5ZXMlMjZrdyUzZHhyaXRlJTI1MjBjb2xvcmNoZWNrZXIlMjUyMHBhc3Nwb3J0JTI1MjB2aWRlbyUyNkJJJTNkMTk0MTUlMjZtc2Nsa2lkJTNkZmRhMzQzZGUyNGY2MWZkMzY1ZDcyYTlmZWE2ZDM3Yzc&rlid=fda343de24f61fd365d72a9fea6d37c7",
-      "title": "XRITE Colorchecker Passport Video - Lowest Price Free Express Ship"
+      "title": "XRITE Colorchecker Passport Video - Lowest Price Free Express Ship",
+      "url": "https://www.bing.com/aclick?ld=e8NIyVSMEtiMxnRopKahREbDVUCUxh9d3E978gVg9IBa2dR_KkfIcpZ_B95GUel2jrMo0u1RxmIGnw4mJ3vTKLSS504FUzSbCGrx1TiM2BtpdBjS_zmnOoZTVfcFvuD_913_jOBGgYEJsmpoYhodMIrrRXlBRVcjuwwzt4-bDgycs8czaE0YoGtZWQQPZl_MZm_S34K5V4XG8JuFmSCa6NnhUl3y0&u=aHR0cHMlM2ElMmYlMmZ3d3cuYmhwaG90b3ZpZGVvLmNvbSUyZmMlMmZzZWFyY2glM2ZOdHQlM2R4cml0ZSUyNTIwY29sb3JjaGVja2VyJTI1MjBwYXNzcG9ydCUyNTIwdmlkZW8lMjZOJTNkMCUyNkluaXRpYWxTZWFyY2glM2R5ZXMlMjZrdyUzZHhyaXRlJTI1MjBjb2xvcmNoZWNrZXIlMjUyMHBhc3Nwb3J0JTI1MjB2aWRlbyUyNkJJJTNkMTk0MTUlMjZtc2Nsa2lkJTNkZmRhMzQzZGUyNGY2MWZkMzY1ZDcyYTlmZWE2ZDM3Yzc&rlid=fda343de24f61fd365d72a9fea6d37c7"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8RD7y25iSNyklWgwW15nTmDVUCUxYXqS_AvzFSyOum6GsdwFpnIH4HwJlC9k9jpk0t2-aPvghZLkvHW3fp9e2-U-wbL2L0RTL2Qqf0VyvagdfAuTYAXvE1Iqd7CzlKhvNjMcs6ACsYg6x0Dkv4mEe9RcFsivDo53IZaXppDuwPBOJL15YtsVqFwwD93iGX7HQDQuXGvmWMrxub6pcTrNmuiiRybQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZzY2glMmZpLmh0bWwlM2Zfbmt3JTNkeC1yaXRlJTI1MjBjb2xvcmNoZWNrZXIlMjZub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzExLTE3NDU5NS04MDMzNjQtMSUyNm1rY2lkJTNkMiUyNm1rc2NpZCUzZDEwMiUyNmtleXdvcmQlM2R4LXJpdGUlMjUyMGNvbG9yY2hlY2tlciUyNmNybHAlM2RfJTI2TVRfSUQlM2QlMjZnZW9faWQlM2QlMjZybHNhdGFyZ2V0JTNka3dkLTc3MTcyNDI5NzM5OTU1JTNhbG9jLTE5MCUyNmFkcG9zJTNkJTI2ZGV2aWNlJTNkYyUyNm1rdHlwZSUzZCUyNmxvYyUzZDU4MTYyJTI2cG9pJTNkJTI2YWJjSWQlM2QxMDI4NjYwNyUyNmNtcGduJTNkNjA1NDgwMzc3JTI2c2l0ZWxuayUzZCUyNmFkZ3JvdXBpZCUzZDEyMzQ3NTI2NzU1NjY5NjklMjZuZXR3b3JrJTNkbyUyNm1hdGNodHlwZSUzZHAlMjZtc2Nsa2lkJTNkMDY4NzFlYjg1NTIxMWFjYmE4ZjM3N2Y5OWJiYTExMzU&rlid=06871eb855211acba8f377f99bba1135",
-      "title": "X-rite Colorchecker - X-rite Colorchecker On eBay"
+      "title": "X-rite Colorchecker - X-rite Colorchecker On eBay",
+      "url": "https://www.bing.com/aclick?ld=e8RD7y25iSNyklWgwW15nTmDVUCUxYXqS_AvzFSyOum6GsdwFpnIH4HwJlC9k9jpk0t2-aPvghZLkvHW3fp9e2-U-wbL2L0RTL2Qqf0VyvagdfAuTYAXvE1Iqd7CzlKhvNjMcs6ACsYg6x0Dkv4mEe9RcFsivDo53IZaXppDuwPBOJL15YtsVqFwwD93iGX7HQDQuXGvmWMrxub6pcTrNmuiiRybQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZzY2glMmZpLmh0bWwlM2Zfbmt3JTNkeC1yaXRlJTI1MjBjb2xvcmNoZWNrZXIlMjZub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzExLTE3NDU5NS04MDMzNjQtMSUyNm1rY2lkJTNkMiUyNm1rc2NpZCUzZDEwMiUyNmtleXdvcmQlM2R4LXJpdGUlMjUyMGNvbG9yY2hlY2tlciUyNmNybHAlM2RfJTI2TVRfSUQlM2QlMjZnZW9faWQlM2QlMjZybHNhdGFyZ2V0JTNka3dkLTc3MTcyNDI5NzM5OTU1JTNhbG9jLTE5MCUyNmFkcG9zJTNkJTI2ZGV2aWNlJTNkYyUyNm1rdHlwZSUzZCUyNmxvYyUzZDU4MTYyJTI2cG9pJTNkJTI2YWJjSWQlM2QxMDI4NjYwNyUyNmNtcGduJTNkNjA1NDgwMzc3JTI2c2l0ZWxuayUzZCUyNmFkZ3JvdXBpZCUzZDEyMzQ3NTI2NzU1NjY5NjklMjZuZXR3b3JrJTNkbyUyNm1hdGNodHlwZSUzZHAlMjZtc2Nsa2lkJTNkMDY4NzFlYjg1NTIxMWFjYmE4ZjM3N2Y5OWJiYTExMzU&rlid=06871eb855211acba8f377f99bba1135"
     },
     {
-      "url": "https://www.amazon.com/x-rite-colorchecker/s?k=x-rite+colorchecker",
-      "title": "Amazon.com: X-rite Colorchecker"
+      "title": "Amazon.com: X-rite Colorchecker",
+      "url": "https://www.amazon.com/x-rite-colorchecker/s?k=x-rite+colorchecker"
     },
     {
-      "url": "https://www.ebay.com/shop/color-checker-x-rite?_nkw=color+checker+x+rite",
-      "title": "Color Checker X Rite - eBay"
+      "title": "Color Checker X Rite - eBay",
+      "url": "https://www.ebay.com/shop/color-checker-x-rite?_nkw=color+checker+x+rite"
     }
   ],
   "light box high cri 95 led for testing": [
     {
-      "url": "https://www.amazon.com/PHSUREO-Professional-Photo-Light-Box/dp/B0FMF1YL3X",
-      "title": "Amazon.com : PHSUREO Professional Photo Light Box - 12Inch..."
+      "title": "Amazon.com : PHSUREO Professional Photo Light Box - 12Inch...",
+      "url": "https://www.amazon.com/PHSUREO-Professional-Photo-Light-Box/dp/B0FMF1YL3X"
+    },
+    {
+      "title": "LED Chip Cri 95 - High Efficiency for Photography Lights",
+      "url": "https://www.alibaba.com/showroom/led-chip-cri-95.html"
+    },
+    {
+      "title": "White Adjustable 2216 High CRI > 95 LED Strip, 240/m, 12V/24V",
+      "url": "https://www.ledlightinghut.com/white-adjustable-2216-high-cri-led-strip.html"
+    },
+    {
+      "title": "High Cri 95 Led Strip Lights For Food Refresh, High Quality High Cri ...",
+      "url": "https://www.bossgoo.com/product-detail/high-cri-95-led-strip-lights-66463853.html"
+    },
+    {
+      "title": "Full Rgb Led Studio Light High 150w Cri 95 2000 - 10000k Color...",
+      "url": "https://www.led-studiolights.com/sale-10973525-full-rgb-led-studio-light-high-150w-cri-95-2000-10000k-color-termperature.html"
     }
   ],
   "led flicker measurement smartphone camera": [
     {
-      "url": "https://www.asmlighting.com/smartphone-flicker-tests-about-led-lighting/",
-      "title": "Why Smartphone Flicker Tests Don\u2019t Tell the Whole Story About LED ..."
+      "title": "Contechity \u2013 Light & Color Measurement Smartphone Apps",
+      "url": "https://contechity.com/"
+    },
+    {
+      "title": "LEDs Flicker : Main Causes and Best Solutions",
+      "url": "https://www.linkedin.com/pulse/leds-flicker-main-causes-best-solutions-martin-wan-khl7c"
+    },
+    {
+      "title": "Why Smartphone Flicker Tests Don\u2019t Tell the Whole Story About LED ...",
+      "url": "https://www.asmlighting.com/smartphone-flicker-tests-about-led-lighting/"
+    },
+    {
+      "title": "LED Flicker Measurement and LED Inspection",
+      "url": "https://www.azom.com/article.aspx?ArticleID=12599"
+    },
+    {
+      "title": "Looking for tool to measure flicker (need help) - LEDStrain Forum",
+      "url": "https://ledstrain.org/d/1408-looking-for-tool-to-measure-flicker-need-help"
     }
   ],
   "nas for datasets truenas vs synology review": [
     {
-      "url": "https://nascompares.com/guide/100-reasons-diy-nas-truenas-unraid-proxmox-are-better-than-turnkey-synology-qnap-etc/",
-      "title": "100 Reasons DIY NAS ( TrueNAS , UnRAID, Proxmox) are BETTER..."
+      "title": "100 Reasons DIY NAS ( TrueNAS , UnRAID, Proxmox) are BETTER...",
+      "url": "https://nascompares.com/guide/100-reasons-diy-nas-truenas-unraid-proxmox-are-better-than-turnkey-synology-qnap-etc/"
     },
     {
-      "url": "https://yandex.ru/video/preview/4551249573490268375",
-      "title": "TrueNAS vs Synology NAS DSM - Which is Best for You?"
+      "title": "TrueNAS vs Synology NAS DSM - Which is Best for You?",
+      "url": "https://yandex.ru/video/preview/4551249573490268375"
     },
     {
-      "url": "https://forums.lawrencesystems.com/t/truenas-vs-synology/23351",
-      "title": "TrueNAS VS Synology - Computer Hardware & Server Infrastructure..."
+      "title": "TrueNAS VS Synology - Computer Hardware & Server Infrastructure...",
+      "url": "https://forums.lawrencesystems.com/t/truenas-vs-synology/23351"
     },
     {
-      "url": "https://flipboard.com/article/unraid-vs-synology-vs-truenas-review-which-is-the-best---9to5toys/f-e078df086b/9to5toys.com",
-      "title": "Should you build your own NAS or buy one? Unraid vs . TrueNAS vs ...."
+      "title": "Should you build your own NAS or buy one? Unraid vs . TrueNAS vs ....",
+      "url": "https://flipboard.com/article/unraid-vs-synology-vs-truenas-review-which-is-the-best---9to5toys/f-e078df086b/9to5toys.com"
+    },
+    {
+      "title": "TrueNAS vs Unraid - Which one is the BEST NAS OS for... - YouTube",
+      "url": "https://www.youtube.com/watch?v=4p-INidMqxY"
     }
   ],
   "ups integration nut truenas guide": [
     {
-      "url": "https://www.truenas.com/docs/core/13.0/coretutorials/services/configureups/",
-      "title": "Configuring UPS Service | TrueNAS Documentation Hub"
+      "title": "Configuring UPS Service | TrueNAS Documentation Hub",
+      "url": "https://www.truenas.com/docs/core/13.0/coretutorials/services/configureups/"
     },
     {
-      "url": "https://www.wundertech.net/how-to-set-up-truenas-as-a-nut-server/",
-      "title": "How to Set Up TrueNAS as a NUT Server - WunderTech Configuring NUT UPS Monitor on TrueNas and Debian Building a Reliable NAS and Integrating UPS Monitoring with ... TrueNAS Scale and CyberPower UPS - jackburgess.dev UPS | TrueNAS Documentation Hub UPS | TrueNAS Documentation Hub How to Set Up TrueNAS as a NUT Server - WunderTech Configuring UPS Service | TrueNAS Documentation Hub Configuring UPS Service | TrueNAS Documentation Hub Setting up a UPS with TrueNAS - Unix Server Tech"
+      "title": "How to Set Up TrueNAS as a NUT Server - WunderTech Configuring NUT UPS Monitor on TrueNas and Debian Building a Reliable NAS and Integrating UPS Monitoring with ... TrueNAS Scale and CyberPower UPS - jackburgess.dev UPS | TrueNAS Documentation Hub UPS | TrueNAS Documentation Hub How to Set Up TrueNAS as a NUT Server - WunderTech Configuring UPS Service | TrueNAS Documentation Hub Configuring UPS Service | TrueNAS Documentation Hub Setting up a UPS with TrueNAS - Unix Server Tech",
+      "url": "https://www.wundertech.net/how-to-set-up-truenas-as-a-nut-server/"
     },
     {
-      "url": "https://docs.autechnet.com/2021/07/11/configuring-nut-ups-monitor-on-truenas-and-debian/",
-      "title": "Configuring NUT UPS Monitor on TrueNas and Debian"
+      "title": "Configuring NUT UPS Monitor on TrueNas and Debian",
+      "url": "https://docs.autechnet.com/2021/07/11/configuring-nut-ups-monitor-on-truenas-and-debian/"
     },
     {
-      "url": "https://dev.to/kubenetic/building-a-reliable-nas-and-integrating-ups-monitoring-with-truenas-and-home-assistant-1j7j",
-      "title": "Building a Reliable NAS and Integrating UPS Monitoring with ..."
+      "title": "Building a Reliable NAS and Integrating UPS Monitoring with ...",
+      "url": "https://dev.to/kubenetic/building-a-reliable-nas-and-integrating-ups-monitoring-with-truenas-and-home-assistant-1j7j"
     },
     {
-      "url": "https://jackburgess.dev/blog/truenas-cyberpower-ups",
-      "title": "TrueNAS Scale and CyberPower UPS - jackburgess.dev"
+      "title": "TrueNAS Scale and CyberPower UPS - jackburgess.dev",
+      "url": "https://jackburgess.dev/blog/truenas-cyberpower-ups"
     }
   ],
   "rclone s3 glacier cold storage costs": [
     {
-      "url": "https://ryansouthgate.com/rclone-cheap-backups/",
-      "title": "Ridiculously cheap offsite backups using rclone and AWS S3 ..."
+      "title": "Ridiculously cheap offsite backups using rclone and AWS S3 ...",
+      "url": "https://ryansouthgate.com/rclone-cheap-backups/"
     },
     {
-      "url": "https://aws.amazon.com/s3/glacier/pricing/",
-      "title": "Amazon S3 Glacier API Pricing | Amazon Web Services"
+      "title": "Amazon S3 Glacier API Pricing | Amazon Web Services",
+      "url": "https://aws.amazon.com/s3/glacier/pricing/"
     },
     {
-      "url": "https://noellh.com/rclone-to-s3-glacier/",
-      "title": "rclone to S3 Glacier class: A remote backup horror/fairy tale"
+      "title": "rclone to S3 Glacier class: A remote backup horror/fairy tale",
+      "url": "https://noellh.com/rclone-to-s3-glacier/"
     },
     {
-      "url": "https://www.dchost.com/blog/en/my-friendly-playbook-for-rclone-to-s3-backblaze-b2-encryption-lifecycle-and-glacier-moves-that-cut-backup-costs/",
-      "title": "My Friendly Playbook For Rclone To S3/Backblaze B2 ..."
+      "title": "My Friendly Playbook For Rclone To S3/Backblaze B2 ...",
+      "url": "https://www.dchost.com/blog/en/my-friendly-playbook-for-rclone-to-s3-backblaze-b2-encryption-lifecycle-and-glacier-moves-that-cut-backup-costs/"
+    },
+    {
+      "title": "What are the cheapest Cloud storage providers currently? S3 ...",
+      "url": "https://www.reddit.com/r/DataHoarder/comments/yo3bgh/what_are_the_cheapest_cloud_storage_providers/"
     }
   ],
   "shucking drives smr vs cmr list 2025": [
     {
-      "url": "https://www.wumeicn.com/hc550-hard-drive-shucking-for-20tb-in-2025/",
-      "title": "HC550 Hard Drive Shucking for 20TB+ in 2025 \u2013 WMCN"
+      "title": "HC550 Hard Drive Shucking for 20TB+ in 2025 \u2013 WMCN",
+      "url": "https://www.wumeicn.com/hc550-hard-drive-shucking-for-20tb-in-2025/"
     },
     {
-      "url": "https://www.servethehome.com/wd-red-smr-vs-cmr-tested-avoid-red-smr/",
-      "title": "WD Red SMR vs CMR Tested Avoid Red SMR - ServeTheHome"
+      "title": "CMR vs SMR Hard Drives -What\u2019s Different and Which Is... - YouTube",
+      "url": "https://www.youtube.com/watch?v=PeRxBgsrv8E"
+    },
+    {
+      "title": "WD Red SMR vs CMR Tested Avoid Red SMR - ServeTheHome",
+      "url": "https://www.servethehome.com/wd-red-smr-vs-cmr-tested-avoid-red-smr/"
+    },
+    {
+      "title": "Know Your Drives : CMR vs SMR \u2013 Don\u2019t Let Storage Choices Kill...",
+      "url": "https://www.linkedin.com/pulse/know-your-drives-cmr-vs-smr-dont-let-storage-xx78f"
+    },
+    {
+      "title": "Best Hard Drives 2025 : Our top HDD picks for... | Tom's Hardware",
+      "url": "https://www.tomshardware.com/best-picks/best-hard-drives"
     }
   ],
   "smartmontools long test schedule best practice": [
     {
-      "url": "https://www.thomas-krenn.com/en/wiki/SMART_tests_with_smartctl",
-      "title": "SMART tests with smartctl - Thomas-Krenn-Wiki-en Smartmontools - Community Help Wiki Question about SMART Extended Tests : r/DataHoarder - Reddit [smartmontools-support] How often to run self-tests? Monitoring hard disk health with Smartmontools - fredshack.com Setting up SMART scheduled tests for your drives \u2013 Note to self S.M.A.R.T (smartctl) commands and test - Knowledgebase - BigBox"
+      "title": "SMART tests with smartctl - Thomas-Krenn-Wiki-en Smartmontools - Community Help Wiki Question about SMART Extended Tests : r/DataHoarder - Reddit [smartmontools-support] How often to run self-tests? Monitoring hard disk health with Smartmontools - fredshack.com Setting up SMART scheduled tests for your drives \u2013 Note to self S.M.A.R.T (smartctl) commands and test - Knowledgebase - BigBox",
+      "url": "https://www.thomas-krenn.com/en/wiki/SMART_tests_with_smartctl"
     },
     {
-      "url": "https://help.ubuntu.com/community/Smartmontools",
-      "title": "Smartmontools - Community Help Wiki"
+      "title": "Smartmontools - Community Help Wiki",
+      "url": "https://help.ubuntu.com/community/Smartmontools"
     },
     {
-      "url": "https://www.reddit.com/r/DataHoarder/comments/y2sjyk/question_about_smart_extended_tests/",
-      "title": "Question about SMART Extended Tests : r/DataHoarder - Reddit"
+      "title": "Question about SMART Extended Tests : r/DataHoarder - Reddit",
+      "url": "https://www.reddit.com/r/DataHoarder/comments/y2sjyk/question_about_smart_extended_tests/"
     },
     {
-      "url": "https://smartmontools-support.narkive.com/vkRQteOj/how-often-to-run-self-tests",
-      "title": "[smartmontools-support] How often to run self-tests?"
+      "title": "[smartmontools-support] How often to run self-tests?",
+      "url": "https://smartmontools-support.narkive.com/vkRQteOj/how-often-to-run-self-tests"
     },
     {
-      "url": "http://www.fredshack.com/docs/smartmontools.html",
-      "title": "Monitoring hard disk health with Smartmontools - fredshack.com"
+      "title": "Monitoring hard disk health with Smartmontools - fredshack.com",
+      "url": "http://www.fredshack.com/docs/smartmontools.html"
     }
   ],
   "mesh wifi handoff test 802.11k v r": [
     {
-      "url": "https://help-wifi.com/poleznoe-i-interesnoe/besshovnyj-wi-fi-i-mesh-sistemy-bystryj-rouming-802-11r-v-nastrojkax-wi-fi-mesh-sistem/",
-      "title": "\u0411\u0435\u0441\u0448\u043e\u0432\u043d\u044b\u0439 Wi - Fi . \u0411\u044b\u0441\u0442\u0440\u044b\u0439 \u0440\u043e\u0443\u043c\u0438\u043d\u0433 ( 802 . 11 r ) \u0432 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u0445 Wi - Fi ..."
+      "title": "\u0411\u0435\u0441\u0448\u043e\u0432\u043d\u044b\u0439 Wi - Fi . \u0411\u044b\u0441\u0442\u0440\u044b\u0439 \u0440\u043e\u0443\u043c\u0438\u043d\u0433 ( 802 . 11 r ) \u0432 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u0445 Wi - Fi ...",
+      "url": "https://help-wifi.com/poleznoe-i-interesnoe/besshovnyj-wi-fi-i-mesh-sistemy-bystryj-rouming-802-11r-v-nastrojkax-wi-fi-mesh-sistem/"
     },
     {
-      "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/network/fast-roaming-with-802-11k--802-11v--and-802-11r",
-      "title": "Fast Roaming in Windows 10 with 802 . 11 k , 802 . 11 v , and..."
+      "title": "WiFi calling when on a mesh wifi network - Apple Community",
+      "url": "https://discussions.apple.com/thread/8213146"
     },
     {
-      "url": "https://www.prowesswireless.com/post/2017/09/25/wifi-client-roaming-simplified",
-      "title": "WiFi Client Roaming Simplified"
+      "title": "Fast Roaming in Windows 10 with 802 . 11 k , 802 . 11 v , and...",
+      "url": "https://learn.microsoft.com/en-us/windows-hardware/drivers/network/fast-roaming-with-802-11k--802-11v--and-802-11r"
+    },
+    {
+      "title": "\u0412\u044b\u0431\u0440\u043e\u0441\u0438\u043b \u043f\u043e\u0447\u0442\u0438 10000 \u0440\u0443\u0431\u043b\u0435\u0439 \u043d\u0430 Mesh -\u0441\u0438\u0441\u0442\u0435\u043c\u0443... / iXBT Live",
+      "url": "https://www.ixbt.com/live/nw/vybrosil-pochti-10000-rubley-na-mesh-sistemu-a-internet-luchshe-ne-stal-pochemu-besshovnyy-wi-fi-ne-opravdal-nadezhd.html"
+    },
+    {
+      "title": "WiFi Client Roaming Simplified",
+      "url": "https://www.prowesswireless.com/post/2017/09/25/wifi-client-roaming-simplified"
     }
   ],
   "wifi roaming logs android adb commands": [
     {
-      "url": "https://support.google.com/android/thread/204506128/what-is-an-easy-way-to-get-wifi-logs?hl=en",
-      "title": "What is an easy way to get WiFi logs? - Android Community"
+      "title": "What is an easy way to get WiFi logs? - Android Community",
+      "url": "https://support.google.com/android/thread/204506128/what-is-an-easy-way-to-get-wifi-logs?hl=en"
     },
     {
-      "url": "https://source.android.com/docs/core/connect/wifi-debug",
-      "title": "Test, debug, and tune Wi-Fi | Android Open Source Project"
+      "title": "GitHub - shivamprasad1001/adb-wireless-toolkit: A complete ...",
+      "url": "https://github.com/shivamprasad1001/adb-wireless-toolkit"
+    },
+    {
+      "title": "Test, debug, and tune Wi-Fi | Android Open Source Project",
+      "url": "https://source.android.com/docs/core/connect/wifi-debug"
+    },
+    {
+      "title": "ADB Over WiFi Debug Android Apps over WiFi - tutorend.com",
+      "url": "https://tutorend.com/tutorials/adb-over-wifi"
+    },
+    {
+      "title": "A Quick Guide to Wireless Android Debugging [Updated 2025]",
+      "url": "https://www.airdroid.com/file-transfer/connect-adb-over-wi-fi/"
     }
   ],
   "iperf3 throughput script roaming test": [
     {
-      "url": "https://thelinuxcode.com/iperf3-commands/",
-      "title": "A Complete Guide to iperf3 Network Throughput Testing"
+      "title": "A Complete Guide to iperf3 Network Throughput Testing",
+      "url": "https://thelinuxcode.com/iperf3-commands/"
     },
     {
-      "url": "https://woshub.com/testing-network-bandwidth-using-iperf/",
-      "title": "Using iPerf to Test Network Speed and Bandwidth - Windows OS Hub How to use iperf3 to test network throughput - ExtraVM Network Throughput Testing with iPerf - MCNC CNE How to use iPerf3 to test network bandwidth - TechTarget Continuous iperf3 Network Performance Testing - GitHub How to use iperf3 to test network throughput - ExtraVM How to use iperf3 to test network throughput - ExtraVM Using iPerf to Test Network Speed and Bandwidth - Windows A Complete Guide to iperf3 Network Throughput Testing How to test network throughput using iperf3 tool - CloudCone"
+      "title": "Using iPerf to Test Network Speed and Bandwidth - Windows OS Hub How to use iperf3 to test network throughput - ExtraVM Network Throughput Testing with iPerf - MCNC CNE How to use iPerf3 to test network bandwidth - TechTarget Continuous iperf3 Network Performance Testing - GitHub How to use iperf3 to test network throughput - ExtraVM How to use iperf3 to test network throughput - ExtraVM Using iPerf to Test Network Speed and Bandwidth - Windows A Complete Guide to iperf3 Network Throughput Testing How to test network throughput using iperf3 tool - CloudCone",
+      "url": "https://woshub.com/testing-network-bandwidth-using-iperf/"
     },
     {
-      "url": "https://extravm.com/billing/knowledgebase/182/How-to-use-iperf3-to-test-network-throughput.html",
-      "title": "How to use iperf3 to test network throughput - ExtraVM"
+      "title": "How to use iperf3 to test network throughput - ExtraVM",
+      "url": "https://extravm.com/billing/knowledgebase/182/How-to-use-iperf3-to-test-network-throughput.html"
     },
     {
-      "url": "https://cne.mcnc.org/posts/throughput-testing/",
-      "title": "Network Throughput Testing with iPerf - MCNC CNE"
+      "title": "Network Throughput Testing with iPerf - MCNC CNE",
+      "url": "https://cne.mcnc.org/posts/throughput-testing/"
     },
     {
-      "url": "https://www.techtarget.com/searchnetworking/tip/How-to-use-iPerf-to-measure-throughput",
-      "title": "How to use iPerf3 to test network bandwidth - TechTarget"
+      "title": "How to use iPerf3 to test network bandwidth - TechTarget",
+      "url": "https://www.techtarget.com/searchnetworking/tip/How-to-use-iPerf-to-measure-throughput"
     }
   ],
   "dfs channels interference seattle radar map": [
     {
-      "url": "https://community.tp-link.com/us/home/forum/topic/195894?sortDir=ASC&page=2",
-      "title": "AX3000 can't stay on all the DFS channels - Home Network Community"
+      "title": "Bellingcat Radar Interference Tracker",
+      "url": "https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker"
     },
     {
-      "url": "https://www.youtube.com/watch?v=ZbrbRUAfpac",
-      "title": "Radar Detect and DFS on MikroTik - YouTube"
+      "title": "AX3000 can't stay on all the DFS channels - Home Network Community",
+      "url": "https://community.tp-link.com/us/home/forum/topic/195894?sortDir=ASC&page=2"
     },
     {
-      "url": "https://zoom.earth/maps/satellite/",
-      "title": "Weather Satellite & Radar Map | Zoom Earth"
+      "title": "Re: Does 6GHz channel interfere with 5GHz channels on an RS700?",
+      "url": "https://community.netgear.com/t5/Nighthawk-with-WiFi-7-BE/Does-6GHz-channel-interfere-with-5GHz-channels-on-an-RS700/m-p/2397095"
+    },
+    {
+      "title": "Radar Detect and DFS on MikroTik - YouTube",
+      "url": "https://www.youtube.com/watch?v=ZbrbRUAfpac"
+    },
+    {
+      "title": "Weather Satellite & Radar Map | Zoom Earth",
+      "url": "https://zoom.earth/maps/satellite/"
     }
   ],
   "wifi 7 routers roaming performance reviews": [
     {
-      "url": "https://dongknows.com/best-dual-band-wi-fi-7-routers/",
-      "title": "Best Dual-band Wi - Fi 7 Routers : The Top 5 | Dong Knows Tech"
+      "title": "More than double the speed? Through AFC, this WiFi 7 router aced...",
+      "url": "https://edgeup.asus.com/2025/more-than-double-the-bandwidth-through-afc-this-wifi-7-router-aced-our-6ghz-torture-test/"
     },
     {
-      "url": "https://www.sslshopper.com/reviews/products/best-wifi-7-routers/",
-      "title": "The 8 Best WiFi 7 Routers of 2025... - SSL Shopper Product Reviews"
+      "title": "Best Dual-band Wi - Fi 7 Routers : The Top 5 | Dong Knows Tech",
+      "url": "https://dongknows.com/best-dual-band-wi-fi-7-routers/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Mo6rSycUML4",
-      "title": "TP Link Archer BE230 Router Review | WiFi 7 without... - YouTube"
+      "title": "The 8 Best WiFi 7 Routers of 2025... - SSL Shopper Product Reviews",
+      "url": "https://www.sslshopper.com/reviews/products/best-wifi-7-routers/"
     },
     {
-      "url": "https://www.tiktok.com/discover/orbi-wifi-7-review",
-      "title": "Orbi Wifi 7 Review | TikTok"
+      "title": "TP Link Archer BE230 Router Review | WiFi 7 without... - YouTube",
+      "url": "https://www.youtube.com/watch?v=Mo6rSycUML4"
+    },
+    {
+      "title": "Orbi Wifi 7 Review | TikTok",
+      "url": "https://www.tiktok.com/discover/orbi-wifi-7-review"
     }
   ],
   "eero vs deco vs nest mesh backhaul ethernet": [
     {
-      "url": "https://ts2.tech/en/wi-fi-7-mesh-router-showdown-eero-max-7-vs-google-nest-wi-fi-pro-7-vs-tp-link-deco-be95-which-reigns-supreme-in-2025/",
-      "title": "Wi-Fi 7 Mesh Router Showdown: Eero Max 7 vs. Google Nest Wi ..."
+      "title": "Ethernet Backhaul Mesh - Pick the Right Device For You",
+      "url": "https://www.bing.com/aclick?ld=e8rx92mWOmpaqJuCfaPFWK3jVUCUx0xqopHhqNTnFpmtVGscmrJfnXF9aTX3WUqmfjt6-in9fbRzTKdiYb3DIGaEY-loErGsZXmc3vp53i1lcjDTVqd7hL4ooj61Wnjy2kyMHmVNvthLIjf8qSYoDUtrlYpSiKhoDnwBcz6e9GbCIDdXbmxAfsbPxPzdYTfByT6eI36ZU34JdcBd8NQ05ilOvojE0&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGV0aGVybmV0JTJiYmFja2hhdWwlMmJtZXNoJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfOG9hemp1Z2xtc19iJTI2YWRncnBpZCUzZDEzMzA0MTE1OTE5MjMyODAlMjZodmFkaWQlM2Q4MzE1MTAwMTU3MzMwOSUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZGIlMjZodmJtdCUzZGJiJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODMxNTE4OTE1NTExNjclM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDI0MTM5XzEzNTE1MDUwJTI2bWNpZCUzZGNmMDQ2ZGY0MzFlMjMwNWE5MDE4ZDQxODk2NTBhZTJiJTI2bXNjbGtpZCUzZDFjNjUwNzczNDBhZTEyYWRhOWZiNmUzMjhlMDhhODdl&rlid=1c65077340ae12ada9fb6e328e08a87e"
     },
     {
-      "url": "https://glennsaid.com/tp-link-deco-vs-eero/",
-      "title": "TP-Link Deco Vs. Eero: In-depth Difference \u2013 Glenn Said"
+      "title": "Top 10 Mesh Router of 2025 - Best Mesh Router 2025",
+      "url": "https://www.bing.com/aclick?ld=e8MuX_A4bSOD5-GSne_CDPXTVUCUzt2yxceuNJ6rIh0UYJpUA6_rek8SfPVT0x27yAnklDruRvrZD-_e5t5T5VNtlS5dIXgjAECYd5o3looeIPXGe8vVgncmR1OUCZd_DPXWvjIjHkNMF4nuFlOf1v5YC4XSOXXE_RtuEb0F56wYGmTuQouIb4uZuLDuBkqgCtDVOn7v_tfF-NtguF4GsJ064d0OY&u=aHR0cHMlM2ElMmYlMmZ3d3cuYmVzdHByb2R1Y3RzcmV2aWV3cy5jb20lMmZtZXNoLXJvdXRlciUzZnRhcmdldGlkJTNka3dkLTg0MjUxNDIyOTEyMzYyJTNhbG9jLTE5MCUyNm1hdGNodHlwZSUzZHAlMjZkZXZpY2UlM2RjJTI2Y2FtcGFpZ25pZCUzZDUzMjAyNDU2NiUyNmNyZWF0aXZlJTNkJTI2YWRncm91cGlkJTNkMTM0ODAwMzgxODYzMTU4NCUyNmZlZWRpdGVtaWQlM2QlMjZsb2NfcGh5c2ljYWxfbXMlM2Q1ODE2MiUyNmxvY19pbnRlcmVzdF9tcyUzZCUyNm5ldHdvcmslM2RvJTI2ZGV2aWNlbW9kZWwlM2QlMjZwbGFjZW1lbnQlM2QlMjZrZXl3b3JkJTNkJTI0bWVzaCUyNTIwcm91dGVyJTI2dGFyZ2V0JTNkJTI2YWRwb3NpdGlvbiUzZCUyNnRyYWNraWQlM2R1c19hbGxfdG9wXzJfYmluZyUyNm1JZCUzZEgxNDkwMDNDUU4lMjZtc2Nsa2lkJTNkOTViMmIzODBkZWFjMTJjNDMxN2FkYWMxMTAwYWI1Y2Y&rlid=95b2b380deac12c4317adac1100ab5cf"
+    },
+    {
+      "title": "Top 5 Mesh WiFi Systems - Top Rated Mesh Systems Dec'25",
+      "url": "https://www.bing.com/aclick?ld=e8TaEI8IiYwq_Egmyy9OiU_jVUCUwHV4eRDHIkXc96naFGrjtCeRXvNo0hbuezUM_7BvH6NgaEshkhR42rlNXOEC4j0ydGUta4NnMGV6pOiEVm542eNM_iV8F8MY8tiGawkvpd92QeF3QPVdGLNnvjVndjO6M4v6yVwfRFOjD5rsAdpVPwGiZCNxywRkLNUHAT1jcb-RLShdjT_gqd1xI1nVqlpbU&u=aHR0cHMlM2ElMmYlMmZ3d3cucGNtYWcuY29tJTJmbGlzdHMlMmZiZXN0LW1lc2gtd2lmaS1zeXN0ZW1zJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX3Rlcm0lM2RtZXNoJTI1MjB3aXJlbGVzcyUyNTIwc3lzdGVtJTI2dXRtX2NhbXBhaWduJTNkMzk2NTk5MjMxJTI2dXRtX2NvbnRlbnQlM2QxMjU3ODQxODg1NDQ4MzM0JTI2Y3FfbmV0JTNkbyUyNm1zY2xraWQlM2Q0YmU3ZjI3ZTZiZjYxZmJlZjg3ZDliM2ZhNTUwMGRlMw&rlid=4be7f27e6bf61fbef87d9b3fa5500de3"
+    },
+    {
+      "title": "Wi-Fi 7 Mesh Router Showdown: Eero Max 7 vs. Google Nest Wi ...",
+      "url": "https://ts2.tech/en/wi-fi-7-mesh-router-showdown-eero-max-7-vs-google-nest-wi-fi-pro-7-vs-tp-link-deco-be95-which-reigns-supreme-in-2025/"
+    },
+    {
+      "title": "TP-Link Deco Vs. Eero: In-depth Difference \u2013 Glenn Said",
+      "url": "https://glennsaid.com/tp-link-deco-vs-eero/"
     }
   ],
   "cadence sensor accuracy rain test setup": [
     {
-      "url": "https://geekyelectronics.com/best-cadence-sensor/",
-      "title": "BEST CADENCE SENSOR : ACCURACY ... - GeekyElectronics"
+      "title": "BEST CADENCE SENSOR : ACCURACY ... - GeekyElectronics",
+      "url": "https://geekyelectronics.com/best-cadence-sensor/"
     },
     {
-      "url": "https://www.researchgate.net/publication/273432347_Long_Term_Expanding-Disk_Rain_Sensor_Accuracy",
-      "title": "(PDF) Long Term Expanding-Disk Rain Sensor Accuracy"
+      "title": "7 Best Bike Cadence Sensors of 2026",
+      "url": "https://thinkindoor.com/best-bike-cadence-sensor/"
+    },
+    {
+      "title": "Poll - Did you upgrade from Cadence Sensing to Torque Sensing ?",
+      "url": "https://forums.electricbikereview.com/threads/poll-did-you-upgrade-from-cadence-sensing-to-torque-sensing.54341/"
+    },
+    {
+      "title": "(PDF) Long Term Expanding-Disk Rain Sensor Accuracy",
+      "url": "https://www.researchgate.net/publication/273432347_Long_Term_Expanding-Disk_Rain_Sensor_Accuracy"
+    },
+    {
+      "title": "The Difference Between Torque and Cadence Sensing | Story Bikes",
+      "url": "https://storybicycles.com/blogs/ebike-blog/what-s-the-difference-between-torque-and-cadence-sensing"
     }
   ],
   "gps accuracy urban canyon test route seattle": [
     {
-      "url": "https://www.hackster.io/news/researchers-turn-to-sidewalk-matching-to-fix-the-gps-urban-canyon-problem-improve-accuracy-193a94d2b64b",
-      "title": "Researchers Turn to \"Sidewalk Matching\" to Fix the GPS Urban ..."
+      "title": "Researchers Turn to \"Sidewalk Matching\" to Fix the GPS Urban ...",
+      "url": "https://www.hackster.io/news/researchers-turn-to-sidewalk-matching-to-fix-the-gps-urban-canyon-problem-improve-accuracy-193a94d2b64b"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/36850738/",
-      "title": "Position and Attitude Determination in Urban Canyon with Tightly..."
+      "title": "5 Factors Evaluating Map Performance: Urban vs Rural... - Map Library",
+      "url": "https://www.maplibrary.org/9719/5-factors-evaluating-map-performance-urban-vs-rural/"
     },
     {
-      "url": "https://www.researchgate.net/publication/325394158_Improvement_of_GPS_Precise_Point_Positioning_Accuracy_in_Urban_Canyons_by_Using_Barometric_Pressure_Sensor",
-      "title": "Improvement of GPS Precise Point Positioning Accuracy in Urban ..."
+      "title": "Position and Attitude Determination in Urban Canyon with Tightly...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36850738/"
+    },
+    {
+      "title": "What Is GPS & How do Global Positioning Systems Work? | Geotab",
+      "url": "https://www.geotab.com/blog/what-is-gps/"
+    },
+    {
+      "title": "Improvement of GPS Precise Point Positioning Accuracy in Urban ...",
+      "url": "https://www.researchgate.net/publication/325394158_Improvement_of_GPS_Precise_Point_Positioning_Accuracy_in_Urban_Canyons_by_Using_Barometric_Pressure_Sensor"
     }
   ],
   "ipx5 spray nozzle spec buy": [
     {
-      "url": "https://www.ipcodetesting.com/product/IPX5-IPX6-Water-Ingress-Protection-Testing-Brass-Spray-Nozzle.html",
-      "title": "IPX5 IPX6 Water Ingress Protection Testing Brass Spray Nozzle"
+      "title": "Ipx5 Nozzle on eBay - Get Your Ipx5 Nozzle - eBay Official Site",
+      "url": "https://www.bing.com/aclick?ld=e8WY9jS-Lh85SiQ-c5vYa1jzVUCUwTrJKglONt7qk5PYGOSnDrkPhjC5qpbFtDGYJpf93GNIHO7sAwAqxzevQeWAXy77n0VFZS9QH-bl0R0VzAsRQq7Fi53NCosVng4s3aNgLMZBYSpvupveAcPqfpb-cRKVV386WktYTJfVEKEDKkytIHyOIE5VfsZoDe6HmHCefcjjJo7DD0ZnJyFOeLYO0Subc&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZzY2glMmZpLmh0bWwlM2Zfbmt3JTNkaXB4NSUyNTIwbm96emxlJTI2bm9yb3ZlciUzZDElMjZta2V2dCUzZDElMjZta3JpZCUzZDcxMS0zNDAwMi0xMzA3OC0wJTI2bWtjaWQlM2QyJTI2bWtzY2lkJTNkMTAyJTI2a2V5d29yZCUzZGlweDUlMjUyMG5venpsZSUyNmNybHAlM2RfJTI2TVRfSUQlM2QlMjZnZW9faWQlM2QlMjZybHNhdGFyZ2V0JTNka3dkLTc3NTE1OTA2MDMyNDgyJTNhbG9jLTE5MCUyNmFkcG9zJTNkJTI2ZGV2aWNlJTNkYyUyNm1rdHlwZSUzZCUyNmxvYyUzZDU4MTYyJTI2cG9pJTNkJTI2YWJjSWQlM2QlMjZjbXBnbiUzZDQxODMzMzQxNCUyNnNpdGVsbmslM2QlMjZhZGdyb3VwaWQlM2QxMjQwMjUwMTI4OTc1NjQ2JTI2bmV0d29yayUzZG8lMjZtYXRjaHR5cGUlM2RwJTI2bXNjbGtpZCUzZGIyNWYyZWM0MmJiNjEwNWIzZDQ5NDc4NWU1MWYyYjBi&rlid=b25f2ec42bb6105b3d494785e51f2b0b"
     },
     {
-      "url": "https://www.premierin.com/products/Bis-Nozzle.php",
-      "title": "IP X3 & IP X4 Spray Nozzles and IP X5 & IP X6 Jet Nozzles for ..."
+      "title": "IPX5 IPX6 Water Ingress Protection Testing Brass Spray Nozzle",
+      "url": "https://www.ipcodetesting.com/product/IPX5-IPX6-Water-Ingress-Protection-Testing-Brass-Spray-Nozzle.html"
     },
     {
-      "url": "https://www.amazon.com/Specimen-Protection-Waterproof-Electrical-Enclosure/dp/B083CTX75Q",
-      "title": "ANSI/IEC 60529 IPX3/IPX4/IPX5/IPX6 water jet nozzle for a ..."
+      "title": "IP X3 & IP X4 Spray Nozzles and IP X5 & IP X6 Jet Nozzles for ...",
+      "url": "https://www.premierin.com/products/Bis-Nozzle.php"
     },
     {
-      "url": "https://www.ormity.com/product-page/ipx5-ipx6-nozzle-set",
-      "title": "Jet Nozzle Set IPX5 IPX6 | Ormity | Montr\u00e9al, QC, CA"
+      "title": "ANSI/IEC 60529 IPX3/IPX4/IPX5/IPX6 water jet nozzle for a ...",
+      "url": "https://www.amazon.com/Specimen-Protection-Waterproof-Electrical-Enclosure/dp/B083CTX75Q"
+    },
+    {
+      "title": "Jet Nozzle Set IPX5 IPX6 | Ormity | Montr\u00e9al, QC, CA",
+      "url": "https://www.ormity.com/product-page/ipx5-ipx6-nozzle-set"
     }
   ],
   "rain test protocol ipx3 ipx5": [
     {
-      "url": "https://www.hielectrics.com/blog/testing-method-for-waterproof-performance-of-lighting-electrical-ready-board",
-      "title": "Testing Method For Waterproof Performance Of Lighting Electrical..."
+      "title": "Water Test - Designplan Lighting",
+      "url": "https://www.designplan.co.uk/about-us/designplan-laboratory/water-test/"
     },
     {
-      "url": "https://www.reliatestlabs.com/dont-wait-for-a-cloudy-day-rain-test/",
-      "title": "Don\u2019t wait for a Cloudy Day, Rain Test your products today!"
+      "title": "Testing Method For Waterproof Performance Of Lighting Electrical...",
+      "url": "https://www.hielectrics.com/blog/testing-method-for-waterproof-performance-of-lighting-electrical-ready-board"
     },
     {
-      "url": "https://yandex.ru/video/preview/2848256239380016083",
-      "title": "IPX1 IPX2 IPX 3 IPX 4 IPX 5 IPX6 Rain Test Chamber - \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c..."
+      "title": "Don\u2019t wait for a Cloudy Day, Rain Test your products today!",
+      "url": "https://www.reliatestlabs.com/dont-wait-for-a-cloudy-day-rain-test/"
     },
     {
-      "url": "https://www.acstestchambers.com/en-in/environmental-test-chambers/rain-test-chambers/",
-      "title": "Rain test Chambers - Angelantoni Test Technologies"
+      "title": "IPX1 IPX2 IPX 3 IPX 4 IPX 5 IPX6 Rain Test Chamber - \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c...",
+      "url": "https://yandex.ru/video/preview/2848256239380016083"
+    },
+    {
+      "title": "Rain test Chambers - Angelantoni Test Technologies",
+      "url": "https://www.acstestchambers.com/en-in/environmental-test-chambers/rain-test-chambers/"
     }
   ],
   "ebike display waterproof rating explanation": [
     {
-      "url": "https://www.haytrix-display.com/en_gb/waterproof-ratings-ebike-display-durability/",
-      "title": "How Waterproof Ratings Impact E-Bike Display Durability | Haytrix"
+      "title": "Ebike Digital Display - Customer Reviews & Ratings",
+      "url": "https://www.bing.com/aclick?ld=e8cgMinjcSys4OgNKzon3ZCTVUCUyeh7DgadndOxf4yupA0pBUNi31LeNgEreUJckS27TRHwjIJJoZ5D1p6zcWRxHHCnR8YF5Q6ttNGMt2EX8v8EWZ3upypW4w4P1Ro9bUmTew3zL-WKOcL5DUxQJRmHD0vdjb7btsgYS4itp2zAXIfROkSaaU9eQao2B0IHoQeUEmUMGMLSxDa6-IircCMnVcErk&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGViaWtlJTJiZGlnaXRhbCUyYmRpc3BsYXklMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF83bXRhN3B4d20xX3AlMjZhZGdycGlkJTNkMTM0MjUwNDkwMzg0NjkzOSUyNmh2YWRpZCUzZDgzOTA2OTAyOTg3MzQzJTI2aHZuZXR3JTNkbyUyNmh2cW10JTNkcCUyNmh2Ym10JTNkYnAlMjZodmRldiUzZGMlMjZodmxvY2ludCUzZCUyNmh2bG9jcGh5JTNkNTgxNjIlMjZodnRhcmdpZCUzZGt3ZC04MzkwNzM0ODUzMTQzMiUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkMTI5ODZfMTM2Mjk1ODElMjZtY2lkJTNkMzY3MzcyMDgzYzQwMzlkNWIzYjUzODkyZDE2YjIxZGMlMjZtc2Nsa2lkJTNkODNjNjY5NjU4M2U3MTk3NjM5M2MwMDI0NGQ0YmM1YjI&rlid=83c6696583e71976393c00244d4bc5b2"
     },
     {
-      "url": "https://www.freeskycycle.com/blogs/news/understanding-e-bike-waterproof-ratings-ip-codes-explained",
-      "title": "Understanding E-Bike Waterproof Ratings: IP Codes Explained"
+      "title": "How Waterproof Ratings Impact E-Bike Display Durability | Haytrix",
+      "url": "https://www.haytrix-display.com/en_gb/waterproof-ratings-ebike-display-durability/"
     },
     {
-      "url": "https://leoguarbikes.com/blogs/news/are-electric-bikes-waterproof-ip-ratings",
-      "title": "Water Resistant vs Waterproof: What E-Bike IP Ratings Really ..."
+      "title": "Understanding E-Bike Waterproof Ratings: IP Codes Explained",
+      "url": "https://www.freeskycycle.com/blogs/news/understanding-e-bike-waterproof-ratings-ip-codes-explained"
+    },
+    {
+      "title": "Water Resistant vs Waterproof: What E-Bike IP Ratings Really ...",
+      "url": "https://leoguarbikes.com/blogs/news/are-electric-bikes-waterproof-ip-ratings"
+    },
+    {
+      "title": "Can Water Damage an LCD Display on an Electric Bike? - EBIKE ...",
+      "url": "https://ebikedelight.com/can-water-damage-an-lcd-display-on-an-electric-bike/"
     }
   ],
   "strava vs garmin gps smoothing comparison": [
     {
-      "url": "https://healthunlocked.com/bridgeto10k/posts/144048709/garmin-vs-strava-recording",
-      "title": "Garmin vs strava recording : I wondered what... - Bridge to 10K"
+      "title": "Fitness Tracker Showdown: Garmin Connect vs Strava",
+      "url": "https://getthematic.com/insights/garmin-connect-vs-strava"
     },
     {
-      "url": "https://www.bikeforums.net/road-cycling/1108665-gps-app-accuracy-garmin-vs-strava-vs-ridewithgps.html",
-      "title": "GPS App accuracy. Garmin vs Strava vs RidewithGPS - Bike Forums"
+      "title": "Garmin vs strava recording : I wondered what... - Bridge to 10K",
+      "url": "https://healthunlocked.com/bridgeto10k/posts/144048709/garmin-vs-strava-recording"
+    },
+    {
+      "title": "Strava Vs Runna Vs Garmin Time | TikTok",
+      "url": "https://www.tiktok.com/discover/strava-vs-runna-vs-garmin-time"
+    },
+    {
+      "title": "GPS App accuracy. Garmin vs Strava vs RidewithGPS - Bike Forums",
+      "url": "https://www.bikeforums.net/road-cycling/1108665-gps-app-accuracy-garmin-vs-strava-vs-ridewithgps.html"
+    },
+    {
+      "title": "The $1400 GPS Watch You WANT But Don't NEED! - Garmin Tactix...",
+      "url": "https://www.youtube.com/watch?v=78aQhHFyx8E"
     }
   ],
   "sunday battery marathon automation repo": [
     {
-      "url": "https://github.com/AU-Eco-Shell-Marathon/BatteryManagementSystem",
-      "title": "AU-Eco-Shell-Marathon/BatteryManagementSystem - GitHub"
+      "title": "NoBatteryDrain | Thunderstore - The R.E.P.O. Mod Database AU-Eco-Shell-Marathon/BatteryManagementSystem - GitHub R.E.P.O. - Speedrun.com Satisfactory Sunday - Get your automation fix! - YouTube Repository and Automation explained - Simple Explaining Overview - Marathon blueprints_repo/low_battery_notification/low_battery ... - GitHub",
+      "url": "https://thunderstore.io/c/repo/p/abrikosechek/NoBatteryDrain/"
+    },
+    {
+      "title": "AU-Eco-Shell-Marathon/BatteryManagementSystem - GitHub",
+      "url": "https://github.com/AU-Eco-Shell-Marathon/BatteryManagementSystem"
+    },
+    {
+      "title": "Satisfactory Sunday - Get your automation fix! - YouTube",
+      "url": "https://www.youtube.com/watch?v=tXQwgge9G1I"
+    },
+    {
+      "title": "Repository and Automation explained - Simple Explaining",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3217639085"
+    },
+    {
+      "title": "Overview - Marathon",
+      "url": "https://docs.marathonlabs.io/runner/intro/overview/"
     }
   ],
   "android battery historian use without root": [
     {
-      "url": "https://github.com/google/battery-historian",
-      "title": "GitHub - google/ battery - historian : Battery Historian is a tool to..."
+      "title": "GitHub - google/ battery - historian : Battery Historian is a tool to...",
+      "url": "https://github.com/google/battery-historian"
     },
     {
-      "url": "https://developer.android.com/topic/performance/power/setup-battery-historian",
-      "title": "Profile battery usage with Batterystats and Battery Historian"
+      "title": "Profile battery usage with Batterystats and Battery Historian",
+      "url": "https://developer.android.com/topic/performance/power/setup-battery-historian"
     },
     {
-      "url": "https://ph0b.com/battery-historian-2-0-windows/",
-      "title": "Getting Battery Historian 2.0 to work on Windows \u2013 ph0b.com..."
+      "title": "Battery Historian download | SourceForge.net",
+      "url": "https://sourceforge.net/projects/battery-historian.mirror/"
+    },
+    {
+      "title": "Getting Battery Historian 2.0 to work on Windows \u2013 ph0b.com...",
+      "url": "https://ph0b.com/battery-historian-2-0-windows/"
+    },
+    {
+      "title": "Optimise battery usage of Android Applications",
+      "url": "https://tech.autoscout24.com/blog/posts/optimise-battery-usage-of-android-applications/"
     }
   ],
   "ios sysdiagnose battery logs tutorial": [
     {
-      "url": "https://it-training.apple.com/tutorials/support/sup270/",
-      "title": "Using Sysdiagnose on iPhone or iPad \u2014 Apple Device Support ..."
+      "title": "Using Sysdiagnose on iPhone or iPad \u2014 Apple Device Support ...",
+      "url": "https://it-training.apple.com/tutorials/support/sup270/"
     },
     {
-      "url": "https://hcsonline.com/images/PDFs/Sysdiagnose.pdf",
-      "title": "How to Initiate a Sysdiagnose on your Apple Devices"
+      "title": "How to Initiate a Sysdiagnose on your Apple Devices",
+      "url": "https://hcsonline.com/images/PDFs/Sysdiagnose.pdf"
     },
     {
-      "url": "https://tutorials.one-sec.app/en/articles/3972418",
-      "title": "Capturing a Sysdiagnose on iOS - tutorials.one-sec.app"
+      "title": "Capturing a Sysdiagnose on iOS - tutorials.one-sec.app",
+      "url": "https://tutorials.one-sec.app/en/articles/3972418"
     },
     {
-      "url": "https://blog.elcomsoft.com/2025/06/extracting-and-analyzing-apple-unified-logs/",
-      "title": "Extracting and Analyzing Apple sysdiagnose Logs"
+      "title": "iOS Battery Health Analyzer - GitHub",
+      "url": "https://github.com/3dnow/BatteryCycleiOS"
+    },
+    {
+      "title": "Extracting and Analyzing Apple sysdiagnose Logs",
+      "url": "https://blog.elcomsoft.com/2025/06/extracting-and-analyzing-apple-unified-logs/"
     }
   ],
   "charge curve plotting python notebook examples": [
     {
-      "url": "https://pythonforelectroanalysis.substack.com/p/how-to-calculate-charge-and-e-from",
-      "title": "How to Calculate Charge and \u0394E\u209a from Your CV Curve (in Python)"
+      "title": "Simulating electrostatic fields in 2-dimensions using Python3",
+      "url": "https://www.geeksforgeeks.org/python/simulating-electrostatic-fields-in-2-dimensions-using-python3/"
     },
     {
-      "url": "https://codepal.ai/code-generator/query/nYDTWIM0/python-function-plot-capacitor-charging-discharging",
-      "title": "Python Function to Plot Capacitor Charging and Discharging Curves"
+      "title": "How to Calculate Charge and \u0394E\u209a from Your CV Curve (in Python)",
+      "url": "https://pythonforelectroanalysis.substack.com/p/how-to-calculate-charge-and-e-from"
+    },
+    {
+      "title": "pycharge/examples/stationary_charge.py at master ... - GitHub",
+      "url": "https://github.com/MatthewFilipovich/pycharge/blob/master/examples/stationary_charge.py"
+    },
+    {
+      "title": "Stationary Charge Fields - PyCharge Documentation",
+      "url": "https://pycharge.readthedocs.io/en/latest/getting_started/stationary_charge/"
+    },
+    {
+      "title": "Python Function to Plot Capacitor Charging and Discharging Curves",
+      "url": "https://codepal.ai/code-generator/query/nYDTWIM0/python-function-plot-capacitor-charging-discharging"
     }
   ],
   "trickle charging behavior overnight ios android": [
     {
-      "url": "https://www.tomsguide.com/phones/does-charging-overnight-damage-your-phone-battery",
-      "title": "Does charging overnight damage your phone battery? 3 features ..."
+      "title": "Why Charging Your Phone Overnight Is Bad - MSN",
+      "url": "https://www.msn.com/en-us/news/technology/why-charging-your-phone-overnight-is-bad/ar-AA1xDSfB"
     },
     {
-      "url": "https://www.pcmag.com/articles/charging-your-phone-overnight-battery-myths-debunked",
-      "title": "Should You Charge Your Phone Overnight? Common ... - PCMag"
+      "title": "Avoid Charging Phone Overnight: Truth or Myth About Battery ...",
+      "url": "https://thedroidguy.com/avoid-charging-phone-overnight-truth-or-myth-about-battery-life-1261029"
+    },
+    {
+      "title": "Does charging overnight damage your phone battery? 3 features ...",
+      "url": "https://www.tomsguide.com/phones/does-charging-overnight-damage-your-phone-battery"
+    },
+    {
+      "title": "The Hidden Dangers of Overnight Phone Charging",
+      "url": "https://doityourselves.com/the-hidden-dangers-of-overnight-phone-charging/"
+    },
+    {
+      "title": "Should You Charge Your Phone Overnight? Common ... - PCMag",
+      "url": "https://www.pcmag.com/articles/charging-your-phone-overnight-battery-myths-debunked"
     }
   ],
   "usb c cable e marker tester": [
     {
-      "url": "https://treedix.com/products/treedix-usb-cable-tester-usb-c-cable-tester-usb-tester-for-data-transmission-and-power-transmission-cable-testing-resistor-testing-type-c-emarker-for-usb-a-micro-b-micro-b-3-0-type-c-lighting-mini-b",
-      "title": "Treedix USB Cable Tester with 2.4\" Color Screen for eMarker ..."
+      "title": "Shop Usb-c Cable Checker - Low prices Usb-c cable checker",
+      "url": "https://www.bing.com/aclick?ld=e8osQgmQcBNWsk2Tbl5_1xxDVUCUxSG26eTO_qoZni6wLVgWd8bp0_-62GliV3gcqJDMvVCce037O5NBngIk6GrSMRvarcmpp7fseOyVJpTsB_dhtFwojyw3bQE1_fny45aHXJFwXwbbhLpEs7VM7LJCMv4chKOWIGIaF8MrQQzTiKQ1P90Ml1yqUiJO3gU62BA4DOGOFdPqTWIt9F2mpspyk8JDs&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHVzYi1jJTJiY2FibGUlMmJjaGVja2VyJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfNWMwbXU4c3d3NV9wJTI2YWRncnBpZCUzZDEzNDY5MDQyOTIyMDcyMTUlMjZodmFkaWQlM2Q4NDE4MTc5OTg0MjY1MCUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDU4MTYyJTI2aHZ0YXJnaWQlM2Rrd2QtODQxODI3MTI5NDgxMDglM2Fsb2MtMTkwJTI2aHlkYWRjciUzZDE5MTA5XzEzNDE4OTQ2JTI2bWNpZCUzZDhiZmE2ZjQzODFlYTM1MmY5ZTQ0YTM3MDE5Njg4Yjk3JTI2bXNjbGtpZCUzZDY2MGRjMDI0ODg1YTFjNzlkOGI5YTk2NTQ2ZWI5Zjk1&rlid=660dc024885a1c79d8b9a96546eb9f95"
     },
     {
-      "url": "https://www.youtube.com/watch?v=IDLuhtcCeTo",
-      "title": "How to Do a USB-C E-Marker Test with FNIRSI FNB58 USB Tester? Is there a good USB C cable tester? : r/UsbCHardware - Reddit Images E-Marker Test for High-End Thunderbolt 4 and Magsafe 3 Cables ... Amazon.com: Usb C Cable Tester What is an E-Marker in a USB Type-C Cable and How Does It ... How To Test A Usb C Cable? - YUXUN Shop Usb-c Cable Checker - Save on Usb-c cable checker Usb cable tester tool - Best Brands Side by Side Usb C Digital Tester - Usb C Digital Tester On eBay"
+      "title": "Usb C Digital Tester - Usb C Digital Tester On eBay",
+      "url": "https://www.bing.com/aclick?ld=e8XXG1AMyLaXthf14znVeKBTVUCUwv0BhItXHqusayZBiljXY8BhIm9nVmSJxi70KTAxpo9Va7W3wVqQS0s0FhJxlYd3LV3X7XYWK8C6n86W7y-_iWdt0OQ1lPDqx66AohITpWkMaMCl_9D0hCxH4eOQZxaouT1xosyxRljkzGpp6W-trmf5YUb5oeR7O_NE5caxrHbX0h1O3yRT-A5FQg3NEmcLg&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZzY2glMmZpLmh0bWwlM2Zfbmt3JTNkdXNiJTI1MjBjJTI1MjBkaWdpdGFsJTI1MjB0ZXN0ZXIlMjZub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzExLTM0MDAyLTEzMDc4LTAlMjZta2NpZCUzZDIlMjZta3NjaWQlM2QxMDIlMjZrZXl3b3JkJTNkdXNiJTI1MjBjJTI1MjBkaWdpdGFsJTI1MjB0ZXN0ZXIlMjZjcmxwJTNkXyUyNk1UX0lEJTNkJTI2Z2VvX2lkJTNkJTI2cmxzYXRhcmdldCUzZGt3ZC03NjgyODYxMDMxNzQ5MiUzYWxvYy0xOTAlMjZhZHBvcyUzZCUyNmRldmljZSUzZGMlMjZta3R5cGUlM2QlMjZsb2MlM2Q1ODE2MiUyNnBvaSUzZCUyNmFiY0lkJTNkJTI2Y21wZ24lM2QzOTU0MTE2OTAlMjZzaXRlbG5rJTNkJTI2YWRncm91cGlkJTNkMTIyOTI1NDI3OTEwNDA2OCUyNm5ldHdvcmslM2RvJTI2bWF0Y2h0eXBlJTNkcCUyNm1zY2xraWQlM2QzOTAxZDc3MzQ1NjAxZGRmOGQ2MWJlMzI4YmQxMGNhYw&rlid=3901d77345601ddf8d61be328bd10cac"
     },
     {
-      "url": "https://www.reddit.com/r/UsbCHardware/comments/16qlkd2/is_there_a_good_usb_c_cable_tester/",
-      "title": "Is there a good USB C cable tester? : r/UsbCHardware - Reddit"
+      "title": "Treedix USB Cable Tester with 2.4\" Color Screen for eMarker ...",
+      "url": "https://treedix.com/products/treedix-usb-cable-tester-usb-c-cable-tester-usb-tester-for-data-transmission-and-power-transmission-cable-testing-resistor-testing-type-c-emarker-for-usb-a-micro-b-micro-b-3-0-type-c-lighting-mini-b"
+    },
+    {
+      "title": "How to Do a USB-C E-Marker Test with FNIRSI FNB58 USB Tester? Is there a good USB C cable tester? : r/UsbCHardware - Reddit Images E-Marker Test for High-End Thunderbolt 4 and Magsafe 3 Cables ... Amazon.com: Usb C Cable Tester What is an E-Marker in a USB Type-C Cable and How Does It ... How To Test A Usb C Cable? - YUXUN Shop Usb-c Cable Checker - Save on Usb-c cable checker Usb cable tester tool - Best Brands Side by Side Usb C Digital Tester - Usb C Digital Tester On eBay",
+      "url": "https://www.youtube.com/watch?v=IDLuhtcCeTo"
+    },
+    {
+      "title": "Is there a good USB C cable tester? : r/UsbCHardware - Reddit",
+      "url": "https://www.reddit.com/r/UsbCHardware/comments/16qlkd2/is_there_a_good_usb_c_cable_tester/"
     }
   ],
   "pps samsung super fast charging 2.0 verification": [
     {
-      "url": "https://www.androidauthority.com/samsung-super-fast-charging-1015778/",
-      "title": "What is Samsung Super Fast Charging and how fast is it?"
+      "title": "What is Samsung Super Fast Charging and how fast is it?",
+      "url": "https://www.androidauthority.com/samsung-super-fast-charging-1015778/"
     },
     {
-      "url": "https://www.ozbargain.com.au/node/802525",
-      "title": "Super Fast 2 . 0 Charger for Samsung Galaxy... - OzBargain Forums"
+      "title": "Amazon.com: 45W PPS Charger Type C Super Fast Charging ...",
+      "url": "https://www.amazon.com/Charger-Charging-Android-Samsung-Galaxy/dp/B0DHRHBCZ2"
+    },
+    {
+      "title": "Samsung Super Fast Charging 2 . 0 Travel Adapter Charger ...",
+      "url": "https://www.olx.com.pk/item/samsung-super-fast-charging-2-0-travel-adapter-charger-pd-3-0-pps-max-usb-c-45w-usb-a-15w-with-type-c-cable-for-galaxy-tabs-and-note-series-iid-ev336294-1"
+    },
+    {
+      "title": "Super Fast 2 . 0 Charger for Samsung Galaxy... - OzBargain Forums",
+      "url": "https://www.ozbargain.com.au/node/802525"
+    },
+    {
+      "title": "UGREEN Car Charger 63W for Samsung S24 Ultra, Type C Fast ...",
+      "url": "https://www.amazon.ae/UGREEN-Charger-Samsung-Charging-Adapter/dp/B0B3CKYSMR"
     }
   ],
   "sealed sound booth small room build stc": [
     {
-      "url": "https://soundproofspaces.com/diy-guide-constructing-a-soundproof-booth-at-home/",
-      "title": "DIY Guide: Constructing a Soundproof Booth at Home"
+      "title": "Sound Proof Mini Booth - Deals On Sound Proof Mini Booth",
+      "url": "https://www.bing.com/aclick?ld=e8d97qGQ2AT5Cwo6AZYaOm5DVUCUxnIH0T6U46oAWYLgzmr3Y6KnAWqTP231rqWwa6c2lj9Mnm7OTAdLdkGsoDurabuxAndyTS_c7qOoZ9j8t2oS_CJwvmEI0fG3n22UcI5fCd8gtNE5Ui24HqKrm9z1e_fEHhvxWuAycVfauMj2vpln-IdZFjB6X3AqaAu2X8rg7Hsv-Pw7d4fI7Pl5yU4cWuYlM&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHNvdW5kJTJicHJvb2YlMmJtaW5pJTJiYm9vdGglMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF85cG40amk3OXZsX3AlMjZhZGdycGlkJTNkMTMzNDgwODY0NjM3MzMxNiUyNmh2YWRpZCUzZDgzNDI1NzcyNDcyOTUwJTI2aHZuZXR3JTNkbyUyNmh2cW10JTNkcCUyNmh2Ym10JTNkYnAlMjZodmRldiUzZGMlMjZodmxvY2ludCUzZCUyNmh2bG9jcGh5JTNkNTgxNjIlMjZodnRhcmdpZCUzZGt3ZC04MzQyNjUwNTc0MDEyOCUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkMjEzMDJfMTMyOTQwODIlMjZtY2lkJTNkZTQ4MmZkNTRkNjNkMzkxYmJkYWNiZjY2MTc3OWQxZjElMjZtc2Nsa2lkJTNkZjJhNjY3MTZhZDNkMWFjNzU4YWIwZTU3NjM4OWI2YTg&rlid=f2a66716ad3d1ac758ab0e576389b6a8"
     },
     {
-      "url": "https://decibelpeak.com/how-to-build-a-soundproof-booth/",
-      "title": "How To Build a Soundproof Booth for a Home Recording Studio"
+      "title": "DIY Guide: Constructing a Soundproof Booth at Home",
+      "url": "https://soundproofspaces.com/diy-guide-constructing-a-soundproof-booth-at-home/"
     },
     {
-      "url": "https://engineerfix.com/how-to-build-a-soundproof-studio-room/",
-      "title": "How to Build a Soundproof Studio Room - Engineer Fix"
+      "title": "How To Build a Soundproof Booth for a Home Recording Studio",
+      "url": "https://decibelpeak.com/how-to-build-a-soundproof-booth/"
     },
     {
-      "url": "https://acousticalsolutions.com/diy-soundproof-booth",
-      "title": "How to Build a Soundproof Booth DIY (And When to Buy One Instead)"
+      "title": "How to Build a Soundproof Studio Room - Engineer Fix",
+      "url": "https://engineerfix.com/how-to-build-a-soundproof-studio-room/"
+    },
+    {
+      "title": "How to Build a Soundproof Booth DIY (And When to Buy One Instead)",
+      "url": "https://acousticalsolutions.com/diy-soundproof-booth"
     }
   ],
   "acoustic treatment vs soundproofing difference": [
     {
-      "url": "https://www.linkedin.com/pulse/acoustic-treatment-vs-soundproofing-whats-difference-umair-mahmood-jkzkf",
-      "title": "Acoustic Treatment vs . Soundproofing : What\u2019s the Difference ?"
+      "title": "Acoustic Treatment vs . Soundproofing : What\u2019s the Difference ?",
+      "url": "https://www.linkedin.com/pulse/acoustic-treatment-vs-soundproofing-whats-difference-umair-mahmood-jkzkf"
     },
     {
-      "url": "https://www.whisperroom.com/blog/the-difference-between-sound-treatment-and-soundproofing",
-      "title": "The Difference Between Sound Treatment and Soundproofing"
+      "title": "The Difference Between Sound Treatment and Soundproofing",
+      "url": "https://www.whisperroom.com/blog/the-difference-between-sound-treatment-and-soundproofing"
     },
     {
-      "url": "https://www.gikacoustics.com/blogs/knowledge-base/acoustic-treatment-vs-soundproofing",
-      "title": "The difference between soundproofing vs acoustic ... - GIK Acoustics"
+      "title": "The difference between soundproofing vs acoustic ... - GIK Acoustics",
+      "url": "https://www.gikacoustics.com/blogs/knowledge-base/acoustic-treatment-vs-soundproofing"
     },
     {
-      "url": "https://portablepartitions.com.au/acoustic-treatment-vs-soundproofing/",
-      "title": "Acoustic Treatment vs Soundproofing : Differences & Which is Best"
+      "title": "Acoustic Treatment vs Soundproofing : Differences & Which is Best",
+      "url": "https://portablepartitions.com.au/acoustic-treatment-vs-soundproofing/"
     },
     {
-      "url": "https://www.secondskinaudio.com/acoustics/soundproofing-vs-acoustics/",
-      "title": "Soundproofing vs Acoustic Treatment - Second Skin Audio"
+      "title": "Soundproofing vs Acoustic Treatment - Second Skin Audio",
+      "url": "https://www.secondskinaudio.com/acoustics/soundproofing-vs-acoustics/"
     }
   ],
   "household noise library washing machine subway": [
     {
-      "url": "https://www.avosound.com/en/sound-effects/search/machine/washing-machine/",
-      "title": "Washing Machine Sound Effect - 29 Sound Effects | Avosound"
+      "title": "Washing Machine : Making Loud Banging Noise When Filling with Water",
+      "url": "https://www.parkerandsons.com/blog/washing-machine--making-loud-banging-noise-when-filling-with-wat"
     },
     {
-      "url": "https://musportal.pro/track/614635513-sound-effects-library-washing-machine-large-front-loading-washing-machine-drain-and-spin-cycle-large-household-appliances",
-      "title": "\u0421\u043b\u0443\u0448\u0430\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d \u0438 \u0441\u043a\u0430\u0447\u0430\u0442\u044c Sound Effects Library - Washing ..."
+      "title": "Washing Machine Sound Effect - 29 Sound Effects | Avosound",
+      "url": "https://www.avosound.com/en/sound-effects/search/machine/washing-machine/"
+    },
+    {
+      "title": "Refrigerator Hum with Washing Machine Noise ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=EH1mlQVJkTc"
+    },
+    {
+      "title": "Help Library : Help Library : [ Washing Machine ] Noise 2 | LG Nepal",
+      "url": "https://www.lg.com/np/support/product-help/CT40009270-1401088193712"
+    },
+    {
+      "title": "\u0421\u043b\u0443\u0448\u0430\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d \u0438 \u0441\u043a\u0430\u0447\u0430\u0442\u044c Sound Effects Library - Washing ...",
+      "url": "https://musportal.pro/track/614635513-sound-effects-library-washing-machine-large-front-loading-washing-machine-drain-and-spin-cycle-large-household-appliances"
     }
   ],
   "privacy respecting default settings checklist": [
     {
-      "url": "https://asklyer.com/tech/smartphone-privacy-security-settings-checklist",
-      "title": "Beginner's Guide to Smartphone Privacy & Security Settings Checklist"
+      "title": "Beginner's Guide to Smartphone Privacy & Security Settings Checklist",
+      "url": "https://asklyer.com/tech/smartphone-privacy-security-settings-checklist"
+    },
+    {
+      "title": "How do I make outlook RESPECT DEFAULT ... - Microsoft Q&A",
+      "url": "https://learn.microsoft.com/en-us/answers/questions/2040784/how-do-i-make-outlook-respect-default-browser"
+    },
+    {
+      "title": "What's the Best Web Browser for Privacy in 2020?",
+      "url": "https://pixelperfectly.com/the-best-web-browser-for-privacy/"
+    },
+    {
+      "title": "PrivacyDev - Recommendations",
+      "url": "https://privacydev.net/recommendations.html"
+    },
+    {
+      "title": "iThemes Security Settings Checklist How To Set Up the iTh",
+      "url": "https://s3.amazonaws.com/downloads.ithemes.com/public/ebooks/ithemes-security-setup-checklist.pdf"
     }
   ],
   "community repairability longevity index design survey": [
     {
-      "url": "https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf",
-      "title": "The French repairability index - HOP"
+      "title": "The French repairability index - HOP",
+      "url": "https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf"
     },
     {
-      "url": "https://www.researchgate.net/profile/Kevin-Boissie/publication/393404939_Repair_Index_A_Tool_for_Assessing_PCBA_Repairability_During_the_Design_Phase/links/6867f919b991270ef301981a/Repair-Index-A-Tool-for-Assessing-PCBA-Repairability-During-the-Design-Phase.pdf",
-      "title": "Repair Index: A Tool for Assessing PCBA Repairability During ..."
+      "title": "Repair Index: A Tool for Assessing PCBA Repairability During ...",
+      "url": "https://www.researchgate.net/profile/Kevin-Boissie/publication/393404939_Repair_Index_A_Tool_for_Assessing_PCBA_Repairability_During_the_Design_Phase/links/6867f919b991270ef301981a/Repair-Index-A-Tool-for-Assessing-PCBA-Repairability-During-the-Design-Phase.pdf"
     },
     {
-      "url": "https://www.oneplanetnetwork.org/sites/default/files/from-crm/23_02_02_Case_Index.pdf",
-      "title": "What it does REPAIRABILITY - oneplanetnetwork.org"
+      "title": "What it does REPAIRABILITY - oneplanetnetwork.org",
+      "url": "https://www.oneplanetnetwork.org/sites/default/files/from-crm/23_02_02_Case_Index.pdf"
     },
     {
-      "url": "https://news.sustainability-directory.com/circularity/european-repair-index-mandates-product-longevity-and-design-transparency/",
-      "title": "European Repair Index Mandates Product Longevity and Design ..."
+      "title": "European Repair Index Mandates Product Longevity and Design ...",
+      "url": "https://news.sustainability-directory.com/circularity/european-repair-index-mandates-product-longevity-and-design-transparency/"
     },
     {
-      "url": "https://assets.amazon.science/96/01/f14b7c3b4041963afa4a66fbd9c1/the-need-for-a-durability-index-framework-for-electrical-and-electronic-equipment-to-support-a-circular-economy.pdf",
-      "title": "The Need for a Durability Index Framework for Electrical and ..."
+      "title": "The Need for a Durability Index Framework for Electrical and ...",
+      "url": "https://assets.amazon.science/96/01/f14b7c3b4041963afa4a66fbd9c1/the-need-for-a-durability-index-framework-for-electrical-and-electronic-equipment-to-support-a-circular-economy.pdf"
     }
   ]
 }

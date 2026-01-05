@@ -1,1220 +1,2202 @@
 {
   "CTA Red Line arrivals Argyle southbound real time": [
     {
-      "url": "https://www.transitchicago.com/traintracker/",
-      "title": "Train Tracker - CTA - Chicago Transit Authority"
+      "title": "Train Tracker - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/traintracker/"
+    },
+    {
+      "title": "Train Red Line: Up-to-date Real-Time Schedules and All the Information ...",
+      "url": "https://ctaline.com/train-red-line/"
+    },
+    {
+      "title": "RED LINE Route: Schedules, Stops & Maps - 95th/Dan Ryan (Updated) - Moovit",
+      "url": "https://moovitapp.com/index/en/public_transit-line-RED_LINE-Chicago_IL-81-322-211566-0"
+    },
+    {
+      "title": "CTA Red 'L' - Chicago - Transit app",
+      "url": "https://transitapp.com/en/region/chicago/cta/-l-red"
+    },
+    {
+      "title": "Red Line CTA Schedule",
+      "url": "https://rideschedules.com/red-line-cta-1817.html"
     }
   ],
   "Clark/Lake transfer time Red to Green morning": [
     {
-      "url": "https://www.transitchicago.com/station/clkl/",
-      "title": "Clark/Lake Station Information - CTA - Chicago Transit Authority"
+      "title": "Clark/Lake Station Information - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/station/clkl/"
     },
     {
-      "url": "https://www.transitchicago.com/assets/1/6/rail-tt_green.pdf.pdf",
-      "title": "PDF Clark/Lake: Blue, Brown, Orange, Pink, To Harlem To Ashland/63rd ..."
+      "title": "GREEN LINE Route: Schedules, Stops & Maps - Towards 63rd (Updated) - Moovit",
+      "url": "https://moovitapp.com/index/en/public_transit-line-green_line-Chicago_IL-81-322-211570-0"
     },
     {
-      "url": "https://moovitapp.com/index/en/public_transit-line-green_line-Chicago_IL-81-322-211570-0",
-      "title": "GREEN LINE Route: Schedules, Stops & Maps - Towards 63rd (Updated) - Moovit"
+      "title": "PDF Clark/Lake: Blue, Brown, Orange, Pink, To Harlem To Ashland/63rd ...",
+      "url": "https://www.transitchicago.com/assets/1/6/rail-tt_green.pdf.pdf"
+    },
+    {
+      "title": "CTA Green 'L' - Chicago",
+      "url": "https://transitapp.com/en/region/chicago/cta/-l-green"
+    },
+    {
+      "title": "PDF GREEN LINE Chicago 'L' time schedule & line route map",
+      "url": "https://appassets.mvtdev.com/map/41/l/81/211570.pdf"
     }
   ],
   "Clinton Green line next trains inbound": [
     {
-      "url": "https://www.transitchicago.com/station/clil/",
-      "title": "Clinton (Green & Pink Line Station) Station Information - CTA Green Line | Subway | MBTA Subway | Schedules & Maps | MBTA Clinton station (CTA Green and Pink Lines) - Wikipedia Clinton - CTA Green & Pink Lines - The SubwayNut"
+      "title": "Clinton station (CTA Green and Pink Lines) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clinton_station_(CTA_Green_and_Pink_Lines)"
+    },
+    {
+      "title": "Clinton (Green & Pink Line Station) Station Information - CTA Green Line | Subway | MBTA Subway | Schedules & Maps | MBTA Clinton station (CTA Green and Pink Lines) - Wikipedia Clinton - CTA Green & Pink Lines - The SubwayNut",
+      "url": "https://www.transitchicago.com/station/clil/"
+    },
+    {
+      "title": "Green Line | Subway | MBTA",
+      "url": "https://www.mbta.com/schedules/Green/alerts"
+    },
+    {
+      "title": "Clinton - CTA Green & Pink Lines - The SubwayNut",
+      "url": "https://subwaynut.com/chicago/pink_line/clinton/"
+    },
+    {
+      "title": "Commuter Rail | Schedules & Maps | MBTA",
+      "url": "https://www.mbta.com/schedules/commuter-rail"
     }
   ],
   "Metra UP-N Ravenswood to Ogilvie weekday schedule": [
     {
-      "url": "https://metra.com/schedules",
-      "title": "Train Schedules | Metra"
+      "title": "Ogilvie Transportation Center - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ogilvie_Transportation_Center"
     },
     {
-      "url": "https://transitapp.com/en/region/chicago/metra/commuter-rail-up-n",
-      "title": "Metra UP - N commuter rail - Chicago"
+      "title": "Train Schedules | Metra",
+      "url": "https://metra.com/schedules"
+    },
+    {
+      "title": "Metra UP - N commuter rail - Chicago",
+      "url": "https://transitapp.com/en/region/chicago/metra/commuter-rail-up-n"
+    },
+    {
+      "title": "Ogilvie Transportation Center to Lincoln Square - 4 ways to travel via...",
+      "url": "https://www.rome2rio.com/s/Ogilvie-Transportation-Center/Lincoln-Square"
+    },
+    {
+      "title": "Travel Guides and Train Schedules \u2013 The Yard Social Club",
+      "url": "https://yard-social.com/weekend-schedules/"
     }
   ],
   "Divvy station availability West Loop morning rush": [
     {
-      "url": "https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-All-Map/bk89-9dk7",
-      "title": "Divvy Bicycle Stations Map | City of Chicago | Data Portal"
+      "title": "Transportation Benefits | Student Resources | RUSH University",
+      "url": "https://www.rushu.rush.edu/student-life/student-affairs/essential-needs-support/transportation-benefits"
     },
     {
-      "url": "https://www.declankramper.com/writes/which-divvy-bike-station-needs-another-rack",
-      "title": "Which Divvy bike station needs another rack? | Declan Kramper"
+      "title": "Divvy Bicycle Stations Map | City of Chicago | Data Portal",
+      "url": "https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-All-Map/bk89-9dk7"
+    },
+    {
+      "title": "Divvy - City of Chicago",
+      "url": "https://www.chicago.gov/city/en/depts/cdot/divvy.html"
+    },
+    {
+      "title": "Which Divvy bike station needs another rack? | Declan Kramper",
+      "url": "https://www.declankramper.com/writes/which-divvy-bike-station-needs-another-rack"
+    },
+    {
+      "title": "Visitor Information | About Rush University | Rush University",
+      "url": "https://www.rushu.rush.edu/about-rush-university/visitor-information"
     }
   ],
   "CTA service alerts Red Brown Purple today": [
     {
-      "url": "https://www.transitchicago.com/alerts/",
-      "title": "System Status & Alerts - CTA - Chicago Transit Authority"
+      "title": "System Status & Alerts - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/alerts/"
     },
     {
-      "url": "https://www.cbsnews.com/chicago/news/cta-red-purple-line-service-medical-emergency/",
-      "title": "CTA Red, Purple Line trains running with significant delays ..."
+      "title": "Chicago Transit Authority current status and delays CTA Rail Ops - Chicago Transit Authority - Broadcastify CTA Red, Purple Line trains running with significant delays ... CTA Line CTA Brown, Purple Line delays today: Man on tracks near ... CTA reports minor derailment, trains stopped on Purple, Red ...",
+      "url": "https://downdetector.com/status/chicago-transit-authority/"
     },
     {
-      "url": "https://abc7chicago.com/post/cta-brown-purple-line-delays-today-man-tracks-illinois-franklin-river-north-prompts-emergency-response-stops-trains/16076423/",
-      "title": "CTA Brown, Purple Line delays today: Man on tracks near ..."
+      "title": "CTA Red, Purple Line trains running with significant delays ...",
+      "url": "https://www.cbsnews.com/chicago/news/cta-red-purple-line-service-medical-emergency/"
+    },
+    {
+      "title": "CTA Line",
+      "url": "https://ctaline.com/"
+    },
+    {
+      "title": "CTA Brown, Purple Line delays today: Man on tracks near ...",
+      "url": "https://abc7chicago.com/post/cta-brown-purple-line-delays-today-man-tracks-illinois-franklin-river-north-prompts-emergency-response-stops-trains/16076423/"
     }
   ],
   "Jackson pedway Red to Blue fastest route": [
     {
-      "url": "https://gridchicago.com/2012/notes-from-the-underground-a-subterranean-safari-in-the-pedway/",
-      "title": "Notes from the Underground: A Subterranean Safari in the Pedway ..."
+      "title": "Notes from the Underground: A Subterranean Safari in the Pedway ...",
+      "url": "https://gridchicago.com/2012/notes-from-the-underground-a-subterranean-safari-in-the-pedway/"
     },
     {
-      "url": "https://secretchicago.com/es/la-guia-definitiva-del-sistema-pedway-de-chicago/",
-      "title": "La gu\u00eda definitiva del Pedway de Chicago"
+      "title": "La gu\u00eda definitiva del Pedway de Chicago",
+      "url": "https://secretchicago.com/es/la-guia-definitiva-del-sistema-pedway-de-chicago/"
+    },
+    {
+      "title": "Edmonton starts new pedway identification system to support aid in...",
+      "url": "https://heartlandnews.ca/2025/09/16/edmonton-starts-new-pedway-identification-system-to-support-aid-in-emergencies/"
+    },
+    {
+      "title": "CHICAGO PEDWAY : Tutto quello che c'\u00e8 da sapere (2025)",
+      "url": "https://www.tripadvisor.it/Attraction_Review-g35805-d2536003-Reviews-Chicago_Pedway-Chicago_Illinois.html"
+    },
+    {
+      "title": "List Of Blue States And Red States In The United States (2025)",
+      "url": "https://gkgigs.com/list-of-blue-states-and-red-states/"
     }
   ],
   "Ogilvie Station entrances hours Canal vs Madison": [
     {
-      "url": "https://metra.com/train-lines/stations/ogilvie-transportation-center",
-      "title": "Ogilvie Transportation Center | Metra"
+      "title": "Ogilvie Transportation Center - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ogilvie_Transportation_Center"
     },
     {
-      "url": "https://metraschedule.info/metra-ogilvie-transportation-center/",
-      "title": "Metra Ogilvie Transportation Center - Schedules, Parking & Access"
+      "title": "Ogilvie Transportation Center | Metra",
+      "url": "https://metra.com/train-lines/stations/ogilvie-transportation-center"
+    },
+    {
+      "title": "Union Station Entrance Question - Chicago Forum - Tripadvisor",
+      "url": "https://www.tripadvisor.com/ShowTopic-g35805-i32-k7317154-Union_Station_Entrance_Question-Chicago_Illinois.html"
+    },
+    {
+      "title": "Ogilvie - Union Station Passenger Walkway? - RAILROAD.NET",
+      "url": "https://railroad.net/ogilvie-union-station-passenger-walkway-t70580.html"
+    },
+    {
+      "title": "Metra Ogilvie Transportation Center - Schedules, Parking & Access",
+      "url": "https://metraschedule.info/metra-ogilvie-transportation-center/"
     }
   ],
   "CTA bus 8 Halsted frequency AM peak": [
     {
-      "url": "https://www.transitchicago.com/bus/8/",
-      "title": "8 Halsted (Bus Route Info) - CTA - Chicago Transit Authority"
+      "title": "8 Halsted (Bus Route Info) - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/bus/8/"
     },
     {
-      "url": "https://moovitapp.com/index/en/public_transit-line-8-Chicago_IL-81-321-211448-4",
-      "title": "8 Route: Schedules, Stops & Maps - Halsted & Pershing (South) (Updated)"
+      "title": "CTA 8 bus - Chicago - Transit app",
+      "url": "https://transitapp.com/en/region/chicago/cta/bus-8"
+    },
+    {
+      "title": "8 Route: Schedules, Stops & Maps - Halsted & Pershing (South) (Updated)",
+      "url": "https://moovitapp.com/index/en/public_transit-line-8-Chicago_IL-81-321-211448-4"
+    },
+    {
+      "title": "Bus 8 Halsted: Up-to-date Real-Time Schedules and All the Information ...",
+      "url": "https://ctaline.com/bus-8-halsted/"
+    },
+    {
+      "title": "SELECTED STOP | Halsted & 66th Street (Northbound) - ETA - CTA Bus Tracker",
+      "url": "https://www.ctabustracker.com/bustime/wireless/html/eta.jsp?route=8&direction=Northbound&id=5878"
     }
   ],
   "I-90/94 downtown incident report morning": [
     {
-      "url": "https://roadnow.com/i94/accidents.php",
-      "title": "I-94 Accidents/Incidents - Roadnow"
+      "title": "I-94 Accidents/Incidents - Roadnow",
+      "url": "https://roadnow.com/i94/accidents.php"
     },
     {
-      "url": "https://www.navbug.com/accident_on/",
-      "title": "I-90 Accident Reports - Navbug"
+      "title": "I-90 Accident Reports - Navbug",
+      "url": "https://www.navbug.com/accident_on/"
     },
     {
-      "url": "https://roadnow.com/i90/i-90-chicago-traffic-il.html",
-      "title": "I-90 chicago Traffic Condition and Accident Report - Roadnow"
+      "title": "View Live Wisconsin Incidents - 511WI",
+      "url": "https://511wi.gov/list/events/incidents"
+    },
+    {
+      "title": "I-90 chicago Traffic Condition and Accident Report - Roadnow",
+      "url": "https://roadnow.com/i90/i-90-chicago-traffic-il.html"
+    },
+    {
+      "title": "Traffic Updates & Coverage - WCVB NewsCenter 5",
+      "url": "https://www.wcvb.com/traffic"
     }
   ],
   "Lakefront Trail closure alerts winter": [
     {
-      "url": "https://chilftbot.streicher.io/",
-      "title": "Chicago Lakefront Trail Conditions"
+      "title": "Delaware Water Gap Winter Closures - New York-New Jersey Trail Conference",
+      "url": "https://www.nynjtc.org/trail-alerts/delaware-water-gap-winter-closures/"
     },
     {
-      "url": "https://activetrans.org/resources/lakefront-trail-conditions/",
-      "title": "Lakefront trail conditions - Active Transportation Alliance"
+      "title": "Chicago Lakefront Trail Conditions",
+      "url": "https://chilftbot.streicher.io/"
     },
     {
-      "url": "https://www.chicagoparkdistrict.com/lakefront-trail",
-      "title": "Lakefront Trail - Chicago Park District"
+      "title": "Lakefront trail conditions - Active Transportation Alliance",
+      "url": "https://activetrans.org/resources/lakefront-trail-conditions/"
+    },
+    {
+      "title": "Alerts, Closures, & Construction | Five Rivers MetroParks",
+      "url": "https://www.metroparks.org/park-alerts/"
+    },
+    {
+      "title": "Lakefront Trail - Chicago Park District",
+      "url": "https://www.chicagoparkdistrict.com/lakefront-trail"
     }
   ],
   "Red Line car position for Jackson transfer stairs": [
     {
-      "url": "https://en.wikipedia.org/wiki/Jackson_station_(CTA_Red_Line)",
-      "title": "Jackson station (CTA Red Line) - Wikipedia"
+      "title": "Jackson station (CTA Red Line) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jackson_station_(CTA_Red_Line)"
     },
     {
-      "url": "https://www.chicago-l.org/stations/jackson-state.html",
-      "title": "Chicago ''L''.org: Stations - Jackson/State"
+      "title": "Best Station to Catch the Red Line from the Blue Line - Tripadvisor",
+      "url": "https://www.tripadvisor.com/ShowTopic-g35805-i32-k7184849-Best_Station_to_Catch_the_Red_Line_from_the_Blue_Line-Chicago_Illinois.html"
     },
     {
-      "url": "https://www.transitchicago.com/station/jacr/",
-      "title": "Jackson (Red Line Subway Station) Station Information - CTA"
+      "title": "Chicago ''L''.org: Stations - Jackson/State",
+      "url": "https://www.chicago-l.org/stations/jackson-state.html"
     },
     {
-      "url": "https://subwaynut.com/chicago/red_line/jackson/p2.php",
-      "title": "Jackson - CTA Red Line - The SubwayNut"
+      "title": "Jackson (Red Line Subway Station) Station Information - CTA",
+      "url": "https://www.transitchicago.com/station/jacr/"
+    },
+    {
+      "title": "Jackson - CTA Red Line - The SubwayNut",
+      "url": "https://subwaynut.com/chicago/red_line/jackson/p2.php"
     }
   ],
   "Clinton station exit to Ogilvie which side": [
     {
-      "url": "https://en.wikipedia.org/wiki/Clinton_station_(CTA_Green_and_Pink_Lines)",
-      "title": "Clinton station (CTA Green and Pink Lines) - Wikipedia"
+      "title": "Clinton station (CTA Green and Pink Lines) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clinton_station_(CTA_Green_and_Pink_Lines)"
     },
     {
-      "url": "https://www.city-data.com/forum/chicago/2547869-green-line-clinton-stop-metra-ogilvie.html",
-      "title": "Green line Clinton stop to Metra Ogilvie? (Washington: street, between ..."
+      "title": "Ogilvie Transportation Center to Clinton Station (CTA Blue Line)",
+      "url": "https://www.rome2rio.com/s/Ogilvie-Transportation-Center/Clinton-Station-CTA-Blue-Line"
     },
     {
-      "url": "https://www.transitchicago.com/station/clil/",
-      "title": "Clinton (Green & Pink Line Station) Station Information - CTA"
+      "title": "Green line Clinton stop to Metra Ogilvie? (Washington: street, between ...",
+      "url": "https://www.city-data.com/forum/chicago/2547869-green-line-clinton-stop-metra-ogilvie.html"
     },
     {
-      "url": "https://subwaynut.com/chicago/pink_line/clinton/index.php",
-      "title": "Clinton - CTA Green & Pink Lines - The SubwayNut"
+      "title": "Clinton (Green & Pink Line Station) Station Information - CTA",
+      "url": "https://www.transitchicago.com/station/clil/"
+    },
+    {
+      "title": "Clinton - CTA Green & Pink Lines - The SubwayNut",
+      "url": "https://subwaynut.com/chicago/pink_line/clinton/index.php"
     }
   ],
   "Pink vs Green to West Loop from Clark/Lake": [
     {
-      "url": "https://www.transitchicago.com/the-cta-announces-plans-for-major-changes-at-the-clarklake-loop-elevated-station-/",
-      "title": "The CTA Announces Plans for Major Changes at the Clark / Lake Loop ..."
+      "title": "The CTA Announces Plans for Major Changes at the Clark / Lake Loop ...",
+      "url": "https://www.transitchicago.com/the-cta-announces-plans-for-major-changes-at-the-clarklake-loop-elevated-station-/"
     },
     {
-      "url": "https://www.subwaynut.com/chicago/the_loop/clark_lake/p3.php",
-      "title": "Clark / Lake - CTA Purple Line Express and Green ... - The SubwayNut"
+      "title": "Clark Lake to Hwy 123, Michigan - 9 Reviews, Map | AllTrails",
+      "url": "https://www.alltrails.com/trail/us/michigan/clark-lake-to-hwy-123"
+    },
+    {
+      "title": "Clark / Lake - CTA Purple Line Express and Green ... - The SubwayNut",
+      "url": "https://www.subwaynut.com/chicago/the_loop/clark_lake/p3.php"
+    },
+    {
+      "title": "Clark Lakes via Rush Creek Trail | Mono County | California",
+      "url": "https://hiiker.app/trails/california/mono-county/clark-lakes-via-rush-creek-trail"
+    },
+    {
+      "title": "Exploring the Blue Line A Ride Through Chicago's Northwestern...",
+      "url": "https://www.mightytravels.com/2024/05/exploring-the-blue-line-a-ride-through-chicagos-northwestern-corridors/"
     }
   ],
   "Ventra card low balance notification setup": [
     {
-      "url": "https://www.ventrachicago.com/",
-      "title": "Home Page | Ventra"
+      "title": "Home Page | Ventra",
+      "url": "https://www.ventrachicago.com/"
     },
     {
-      "url": "https://manualzz.com/doc/27228671/ventra-card-user-manual",
-      "title": "Ventra Card User Manual | AI Chat & PDF Access | Manualzz"
+      "title": "Ventracker is an Android app that enables you to track the balance of ...",
+      "url": "https://github.com/mcrepeau/Ventracker"
+    },
+    {
+      "title": "The Complete Guide to Using Your Ventra Card on Mobile Devices Easily ...",
+      "url": "https://smart.dhgate.com/the-complete-guide-to-using-your-ventra-card-on-mobile-devices-easily-and-securely/"
+    },
+    {
+      "title": "Ventra Chicago - Set up autoload on your #Ventra Card and ... - Facebook",
+      "url": "https://www.facebook.com/VentraChicago/posts/set-up-autoload-on-your-ventra-card-and-youll-never-have-to-worry-about-adding-f/1801163980057112/"
+    },
+    {
+      "title": "Ventra Card User Manual | AI Chat & PDF Access | Manualzz",
+      "url": "https://manualzz.com/doc/27228671/ventra-card-user-manual"
     }
   ],
   "Metra on-time performance UP-N monthly report": [
     {
-      "url": "https://metra.com/time-performance-reports-2016",
-      "title": "On - Time Performance Reports 2016 | Metra"
+      "title": "Metra \u2019s on - time performance is slipping, but one train line is late more...",
+      "url": "https://www.chicagotribune.com/2019/12/11/metras-on-time-performance-is-slipping-but-one-train-line-is-late-more-often-than-any-other/"
+    },
+    {
+      "title": "Metra UP -NW commuter rail - Chicago",
+      "url": "https://transitapp.com/en/region/chicago/metra/commuter-rail-up-nw"
+    },
+    {
+      "title": "Metra 's on - time performance improves after... - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/city-hall/2014/5/16/18584450/metra-s-on-time-performance-improves-after-brutal-winter"
+    },
+    {
+      "title": "Metra On - Time Performance Streak Hits Two Years | Mass Transit",
+      "url": "https://www.masstransitmag.com/rail/press-release/12317348/metra-metra-on-time-performance-streak-hits-two-years"
+    },
+    {
+      "title": "On - Time Performance Reports 2016 | Metra",
+      "url": "https://metra.com/time-performance-reports-2016"
     }
   ],
   "Lyft fare estimate Uptown to West Loop 8am": [
     {
-      "url": "https://lyftrideestimate.com/",
-      "title": "Free Lyft Fare Estimator & Ride Price Calculator"
+      "title": "Free Lyft Fare Estimator & Ride Price Calculator",
+      "url": "https://lyftrideestimate.com/"
     },
     {
-      "url": "https://247calculator.com/lyft-estimate-calculator/",
-      "title": "Lyft Estimate Calculator - 247 Calculator"
+      "title": "Lyft Estimate Calculator - 247 Calculator",
+      "url": "https://247calculator.com/lyft-estimate-calculator/"
     },
     {
-      "url": "https://calculator.now/lyft-calculator/",
-      "title": "Lyft Calculator | Calculator.now"
+      "title": "Lyft Calculator | Calculator.now",
+      "url": "https://calculator.now/lyft-calculator/"
     },
     {
-      "url": "https://help.lyft.com/hc/en-us/all/articles/115013080308-How-to-estimate-the-cost-of-a-Lyft-ride",
-      "title": "How to estimate the cost of a Lyft ride"
+      "title": "How to estimate the cost of a Lyft ride",
+      "url": "https://help.lyft.com/hc/en-us/all/articles/115013080308-How-to-estimate-the-cost-of-a-Lyft-ride"
     },
     {
-      "url": "https://bravecalculator.com/lyft-fare-calculator/",
-      "title": "Lyft Fare Calculator"
+      "title": "Lyft Fare Calculator",
+      "url": "https://bravecalculator.com/lyft-fare-calculator/"
     }
   ],
   "Uber upfront fare Uptown to Ogilvie compare": [
     {
-      "url": "https://www.uber.com/global/en/price-estimate/",
-      "title": "Uber Estimate - Get a Price Estimate in Your City | Uber"
+      "title": "Uber Estimate - Get a Price Estimate in Your City | Uber",
+      "url": "https://www.uber.com/global/en/price-estimate/"
     },
     {
-      "url": "https://247calculator.com/uber-estimate-calculator/",
-      "title": "Uber Estimate Calculator - 247 Calculator"
+      "title": "Uber Estimate Calculator - 247 Calculator",
+      "url": "https://247calculator.com/uber-estimate-calculator/"
     },
     {
-      "url": "https://uberfarefinder.com/",
-      "title": "Uber Fare Finder - Uber Estimate & Cost Calculator"
+      "title": "Uber Fare Finder - Uber Estimate & Cost Calculator",
+      "url": "https://uberfarefinder.com/"
     },
     {
-      "url": "https://rideestimate.com/",
-      "title": "Ride Estimate - Real-Time Fare & Price Calculator"
+      "title": "Ride Estimate - Real-Time Fare & Price Calculator",
+      "url": "https://rideestimate.com/"
     },
     {
-      "url": "https://fareestimate.com/",
-      "title": "Fare Estimate: Compare Ride-Sharing Apps"
+      "title": "Fare Estimate: Compare Ride-Sharing Apps",
+      "url": "https://fareestimate.com/"
     }
   ],
   "CTA safety tips crowded trains winter": [
     {
-      "url": "https://www.travelgumbo.com/essential-safety-tips-for-train-travelers-in-chicago/",
-      "title": "Essential Safety Tips for Train Travelers in Chicago"
+      "title": "How we prepare for winter - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/winterprep/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=jf0a5NdPUX8",
-      "title": "How Can I Avoid CTA Train Overcrowding In Chicago? - YouTube City of Chicago :: Protocol - Transit Safety Winter Transit Safety: Tips for Public Transportation in ..."
+      "title": "Essential Safety Tips for Train Travelers in Chicago",
+      "url": "https://www.travelgumbo.com/essential-safety-tips-for-train-travelers-in-chicago/"
+    },
+    {
+      "title": "Do you feel safe on the CTA? : r/AskChicago - Reddit",
+      "url": "https://www.reddit.com/r/AskChicago/comments/1262iyn/do_you_feel_safe_on_the_cta/"
+    },
+    {
+      "title": "CTA prepares for winter weather to ensure safe and efficient ...",
+      "url": "https://www.globalrailwayreview.com/news/196678/cta-prepares-for-winter-weather-to-ensure-safe-and-efficient-service/"
+    },
+    {
+      "title": "How Can I Avoid CTA Train Overcrowding In Chicago? - YouTube City of Chicago :: Protocol - Transit Safety Winter Transit Safety: Tips for Public Transportation in ...",
+      "url": "https://www.youtube.com/watch?v=jf0a5NdPUX8"
     }
   ],
   "Best folding bike allowed on CTA rules peak hours": [
     {
-      "url": "https://eathealthy365.com/can-i-take-my-bicycle-on-cta-buses-and-l-trains/",
-      "title": "Bikes on CTA (2025): Your Guide to Buses & Trains"
+      "title": "bicycling .com/ bikes -gear/a20048132/ best - folding - bikes",
+      "url": "https://www.bicycling.com/bikes-gear/a20048132/best-folding-bikes/"
+    },
+    {
+      "title": "Bikes on CTA (2025): Your Guide to Buses & Trains",
+      "url": "https://eathealthy365.com/can-i-take-my-bicycle-on-cta-buses-and-l-trains/"
+    },
+    {
+      "title": "Metro-North and folding bikes during peak hours ? - Bike Forums",
+      "url": "https://www.bikeforums.net/northeast/614837-metro-north-folding-bikes-during-peak-hours.html"
+    },
+    {
+      "title": "Can You Bring a Folding Bike on a Train?",
+      "url": "https://foldingbiking.com/can-you-bring-a-folding-bike-on-a-train/"
+    },
+    {
+      "title": "Any advice on rail travel with a bike with S&S couplers | Forum",
+      "url": "https://forum.cyclinguk.org/viewtopic.php?t=46855"
     }
   ],
   "Divvy ebike surcharges explained Chicago": [
     {
-      "url": "https://divvybikes.com/pricing/ebikes",
-      "title": "divvybikes.com/pricing/ ebikes"
+      "title": "Should you use Divvy bikes? | Chicago 's bike share system - YouTube",
+      "url": "https://www.youtube.com/watch?v=_GH-EtFo82A"
     },
     {
-      "url": "https://chi.streetsblog.org/2022/04/11/lyft-provided-details-on-the-new-divvy-pricing-structure-and-its-better-than-we-thought",
-      "title": "Lyft provided details on the new Divvy pricing structure, and it's better....."
+      "title": "divvybikes.com/pricing/ ebikes",
+      "url": "https://divvybikes.com/pricing/ebikes"
+    },
+    {
+      "title": "Lyft provided details on the new Divvy pricing structure, and it's better.....",
+      "url": "https://chi.streetsblog.org/2022/04/11/lyft-provided-details-on-the-new-divvy-pricing-structure-and-its-better-than-we-thought"
+    },
+    {
+      "title": "Divvy e - bikes are hitting Chicago 's streets this week",
+      "url": "https://www.timeout.com/chicago/news/e-bikes-are-officially-joining-the-divvy-fleet-this-week-072820"
+    },
+    {
+      "title": "CDOT, Divvy launch new pedal-assist ebikes across... - ABC7 Chicago",
+      "url": "https://abc7chicago.com/post/divvy-rolls-out-new-pedal-assist-ebikes-across-chicago/6340058/"
     }
   ],
-  "Divvy rack near Ogilvie with most docks": [],
+  "Divvy rack near Ogilvie with most docks": [
+    {
+      "title": "Ogilvie City Offices - Ogilvie , MN 56358",
+      "url": "https://www.yellowpages.com/ogilvie-mn/mip/ogilvie-city-offices-14713550"
+    },
+    {
+      "title": "Luggage Storage Chicago Ogilvie Transportation... | Radical Storage",
+      "url": "https://radicalstorage.com/luggage-storage/chicago/ogilvie-transportation-center"
+    },
+    {
+      "title": "Ogilvie Weather Forecast",
+      "url": "https://www.weather-forecast.com/locations/Ogilvie-4/forecasts/latest"
+    },
+    {
+      "title": "6 Ogilvie St, Alexandra Hills, Qld 4161 - House for... - realestate.com.au",
+      "url": "https://www.realestate.com.au/property-house-qld-alexandra+hills-443176544"
+    },
+    {
+      "title": "Words that Start with D | List of 3600+ Common Words... - ESL Forums",
+      "url": "https://eslforums.com/words-that-start-with-d/"
+    }
+  ],
   "Bike route Uptown to West Loop low stress map": [
     {
-      "url": "https://ridewithgps.com/routes/new",
-      "title": "Bike Route Planner - Ride with GPS"
+      "title": "White Oak Mtn Biology Trails Mountain Bike Trail in Collegedale...",
+      "url": "https://www.singletracks.com/bike-trails/white-oak-mtn-biology-trails/"
+    },
+    {
+      "title": "Bike Route Planner - Ride with GPS",
+      "url": "https://ridewithgps.com/routes/new"
+    },
+    {
+      "title": "Khmer Temple-Hopping Motorbike Loop | Tra Vinh \u2013 Vietnam Coracle...",
+      "url": "https://www.vietnamcoracle.com/khmer-temple-hopping-motorbike-loop-tra-vinh/"
+    },
+    {
+      "title": "Pinellas Trail Loop . E-Z Map , 100+ Photos. 100floridatrails.com",
+      "url": "https://www.100floridatrails.com/trails/pinellas_trail_loop.htm"
+    },
+    {
+      "title": "Thunder in Paradise Loop - BIKEPACKING.com",
+      "url": "https://bikepacking.com/routes/thunder-in-paradise/"
     }
   ],
   "Reflective backpack cover best reviews": [
     {
-      "url": "https://www.cyclingweekly.com/reviews/bike-accessories/hump-duo-tone-reflective-backpack-cover-review",
-      "title": "Hump Duo Tone reflective backpack cover review | Cycling Weekly"
+      "title": "Hump Duo Tone reflective backpack cover review | Cycling Weekly",
+      "url": "https://www.cyclingweekly.com/reviews/bike-accessories/hump-duo-tone-reflective-backpack-cover-review"
     },
     {
-      "url": "https://www.amazon.com/product-reviews/B07KYM2GH1",
-      "title": "Customer reviews : Salzmann 3M Reflective Backpack Cover"
+      "title": "Customer reviews : Salzmann 3M Reflective Backpack Cover",
+      "url": "https://www.amazon.com/product-reviews/B07KYM2GH1"
+    },
+    {
+      "title": "Best Reflective Backpack for Cycling to Work [Top 4]",
+      "url": "https://discerningcyclist.com/best-reflective-backpack-for-cycling-to-work/"
+    },
+    {
+      "title": "12 Best Backpack Rain Covers of 2025",
+      "url": "https://www.caminoadventures.com/blog/best-backpack-rain-covers/"
+    },
+    {
+      "title": "Best Backpack Rain Cover - Make Adventure Happen",
+      "url": "https://makeadventurehappen.com/best-backpack-rain-covers/"
     }
   ],
   "Compact poncho windproof Chicago": [
     {
-      "url": "https://www.amazon.com/onewind-Backpack-Poncho-Ultralight-Raincoat/dp/B0921PD24Q",
-      "title": "onewind Hooded Rain Poncho, Silnylon Rain Coat Versatile ... Images Compact Rain Ponchos - DICK'S Sporting Goods WinCraft Chicago Bears Rain Poncho | Academy WinCraft MLB Compact Chicago Cubs Team Rain Poncho (Women's ... 8 Best Rain Ponchos of 2025 - backpackers.com Hooded Rain Poncho w/Extended Cuffs for Backpacking Hiking ... onewind Hooded Rain Poncho , Silnylon Camping Rain Coat Versatile 8 Best Rain Ponchos of 2025 - backpackers.com onewind Hooded Rain Poncho , Silnylon Camping Rain Coat Versatile 8 Best Rain Ponchos of 2025 - backpackers.com ANYOO Hooded Rain Poncho for Adults Waterproof Lightweight ..."
+      "title": "Poncho Compact - Amazon\u00ae Official Site",
+      "url": "https://www.bing.com/aclick?ld=e86m4QMYL4m9fYjBTNTZErxTVUCUwjjNZ3z_OhwDf36UFWe-DSTF0gZDUvhdga-KRIp1dAlruw55glJ_sTPtjsmx2KmDn8z8s7c9hCuE-95TFbi3qLo3wfJaoS6UAe6_quMp-TG7XcH9EEVct0LlBBxZXWtnjz1EUS2cPnrNuzbvlYG2l-iseN87HBOF-jZFHJNL4sPB0qDbq3-JE1rET2XRaS1_o&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHBvbmNobyUyYmNvbXBhY3QlMjZpbmRleCUzZGFwcyUyNnRhZyUzZG1oMGItMjAlMjZyZWYlM2RwZF9zbF84anUwNDEwbHJlX3AlMjZhZGdycGlkJTNkMTM0MTQwNDc1MDAzODg3NCUyNmh2YWRpZCUzZDgzODM4MDM2MDE4NTU1JTI2aHZuZXR3JTNkbyUyNmh2cW10JTNkcCUyNmh2Ym10JTNkYnAlMjZodmRldiUzZGMlMjZodmxvY2ludCUzZDQ4NzkyJTI2aHZsb2NwaHklM2Q1ODE2MiUyNmh2dGFyZ2lkJTNka3dkLTgzODM4MTQxNTY5NTAxJTNhbG9jLTE5MCUyNmh5ZGFkY3IlM2QyODM1XzEzNTMzNDY2JTI2bWNpZCUzZDM5OTAwYmUyM2MwNjMyYjVhMTFhODNiOGFkYTFkOTI4JTI2bXNjbGtpZCUzZDBkMWVhNDM4ZmM2ODFlYjc5OTFhY2Q3OTE4MzFmZTI4&rlid=0d1ea438fc681eb7991acd791831fe28"
     },
     {
-      "url": "https://www.dickssportinggoods.com/a/compact-rain-poncho-0ayz55a.html",
-      "title": "Compact Rain Ponchos - DICK'S Sporting Goods"
+      "title": "onewind Hooded Rain Poncho, Silnylon Rain Coat Versatile ... Images Compact Rain Ponchos - DICK'S Sporting Goods WinCraft Chicago Bears Rain Poncho | Academy WinCraft MLB Compact Chicago Cubs Team Rain Poncho (Women's ... 8 Best Rain Ponchos of 2025 - backpackers.com Hooded Rain Poncho w/Extended Cuffs for Backpacking Hiking ... onewind Hooded Rain Poncho , Silnylon Camping Rain Coat Versatile 8 Best Rain Ponchos of 2025 - backpackers.com onewind Hooded Rain Poncho , Silnylon Camping Rain Coat Versatile 8 Best Rain Ponchos of 2025 - backpackers.com ANYOO Hooded Rain Poncho for Adults Waterproof Lightweight ...",
+      "url": "https://www.amazon.com/onewind-Backpack-Poncho-Ultralight-Raincoat/dp/B0921PD24Q"
     },
     {
-      "url": "https://www.academy.com/p/wincraft-chicago-bears-rain-poncho",
-      "title": "WinCraft Chicago Bears Rain Poncho | Academy"
+      "title": "Compact Rain Ponchos - DICK'S Sporting Goods",
+      "url": "https://www.dickssportinggoods.com/a/compact-rain-poncho-0ayz55a.html"
     },
     {
-      "url": "https://www.walmart.com/ip/WinCraft-MLB-Compact-Chicago-Cubs-Team-Rain-Poncho-Women-s-One-Size/5123796785",
-      "title": "WinCraft MLB Compact Chicago Cubs Team Rain Poncho (Women's ..."
+      "title": "WinCraft Chicago Bears Rain Poncho | Academy",
+      "url": "https://www.academy.com/p/wincraft-chicago-bears-rain-poncho"
+    },
+    {
+      "title": "WinCraft MLB Compact Chicago Cubs Team Rain Poncho (Women's ...",
+      "url": "https://www.walmart.com/ip/WinCraft-MLB-Compact-Chicago-Cubs-Team-Rain-Poncho-Women-s-One-Size/5123796785"
     }
   ],
   "Touchscreen winter gloves best for commuters": [
     {
-      "url": "https://aromatherapynaturals.com/best-touchscreen-gloves/",
-      "title": "The 5 Best Touchscreen Gloves of 2025... - Aromatherapy Naturals"
+      "title": "The 5 Best Touchscreen Gloves of 2025... - Aromatherapy Naturals",
+      "url": "https://aromatherapynaturals.com/best-touchscreen-gloves/"
     },
     {
-      "url": "https://www.amazon.com/OnWander-Windproof-Touchscreen-Anti-Slip-Commuting/dp/B0FPGMZHLR",
-      "title": "Amazon.com: OnWander Winter Gloves for Women Men Cold..."
+      "title": "Amazon.com: OnWander Winter Gloves for Women Men Cold...",
+      "url": "https://www.amazon.com/OnWander-Windproof-Touchscreen-Anti-Slip-Commuting/dp/B0FPGMZHLR"
     },
     {
-      "url": "https://dridrigelato.com/best-touchscreen-gloves/",
-      "title": "5 Best Touchscreen Gloves That Keep Your Hands... - Dri Dri Gelato"
+      "title": "5 Best Touchscreen Gloves That Keep Your Hands... - Dri Dri Gelato",
+      "url": "https://dridrigelato.com/best-touchscreen-gloves/"
     },
     {
-      "url": "https://energylast.com/vetted/best-touchscreen-gloves/",
-      "title": "10 Best Touchscreen Gloves That Keep Your Hands... - EnergyLast"
+      "title": "10 Best Touchscreen Gloves That Keep Your Hands... - EnergyLast",
+      "url": "https://energylast.com/vetted/best-touchscreen-gloves/"
     },
     {
-      "url": "https://domystats.com/vetted/best-touchscreen-gloves/",
-      "title": "5 Best Touchscreen Gloves That Keep Your Hands... - Do My Stats"
+      "title": "5 Best Touchscreen Gloves That Keep Your Hands... - Do My Stats",
+      "url": "https://domystats.com/vetted/best-touchscreen-gloves/"
     }
   ],
   "Shoe traction for ice walk to station": [
     {
-      "url": "https://gearjunkie.com/winter/best-winter-traction-devices",
-      "title": "The Best Winter Traction Devices of 2025 - GearJunkie"
+      "title": "The Best Winter Traction Devices of 2025 - GearJunkie",
+      "url": "https://gearjunkie.com/winter/best-winter-traction-devices"
     },
     {
-      "url": "https://www.amazon.com/shoe-traction-ice/s?k=shoe+traction+for+ice",
-      "title": "Amazon.com: Shoe Traction For Ice"
+      "title": "Amazon.com: Shoe Traction For Ice",
+      "url": "https://www.amazon.com/shoe-traction-ice/s?k=shoe+traction+for+ice"
     },
     {
-      "url": "https://backpackingguys.com/best-traction-winter-boots/",
-      "title": "10 Best Traction Winter Boots to Keep You Safe on Ice and Snow"
+      "title": "10 Best Traction Winter Boots to Keep You Safe on Ice and Snow",
+      "url": "https://backpackingguys.com/best-traction-winter-boots/"
     },
     {
-      "url": "https://www.nytimes.com/wirecutter/reviews/best-ice-cleats/",
-      "title": "The 4 Best Ice Cleats for Shoes of 2025 | Reviews by Wirecutter"
+      "title": "Best Winter Running Traction Devices of 2025 - iRunFar",
+      "url": "https://www.irunfar.com/best-winter-running-traction-devices"
+    },
+    {
+      "title": "The 4 Best Ice Cleats for Shoes of 2025 | Reviews by Wirecutter",
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-ice-cleats/"
     }
   ],
   "Portable battery 10k mah lightest": [
     {
-      "url": "https://www.amazon.com/Portable-10000mAh-High-Speed-Charging-Powerbank/dp/B0DJ2BYT27",
-      "title": "Amazon.com: Portable Charger, 10000 mAh 22.5W Power Bank, USB..."
+      "title": "Amazon.com: Portable Charger, 10000 mAh 22.5W Power Bank, USB...",
+      "url": "https://www.amazon.com/Portable-10000mAh-High-Speed-Charging-Powerbank/dp/B0DJ2BYT27"
     },
     {
-      "url": "https://www.macworld.com/article/2917401/baseus-picogo-magnetic-power-bank-am61-review.html",
-      "title": "Baseus PicoGo 10000 mAh Power Bank (AM61) review... | Macworld"
+      "title": "Baseus PicoGo 10000 mAh Power Bank (AM61) review... | Macworld",
+      "url": "https://www.macworld.com/article/2917401/baseus-picogo-magnetic-power-bank-am61-review.html"
     },
     {
-      "url": "https://www.bestbuy.com/site/reviews/anker-733-10k-mah-2-in-1-portable-battery-with-gan-and-65w-fast-wall-charger-for-iphone-samsung-tablets-and-laptops-black/6517672",
-      "title": "Customer Reviews: Anker 733 10 k mAh 2-in-1 Portable Battery with..."
+      "title": "Customer Reviews: Anker 733 10 k mAh 2-in-1 Portable Battery with...",
+      "url": "https://www.bestbuy.com/site/reviews/anker-733-10k-mah-2-in-1-portable-battery-with-gan-and-65w-fast-wall-charger-for-iphone-samsung-tablets-and-laptops-black/6517672"
     },
     {
-      "url": "https://www.papita.co/ae/product/anker-633-magnetic-10k-mah-battery-power-bank-white/",
-      "title": "Anker 633 Magnetic 10 k mAh Battery Power Bank White - PAPITA UAE"
+      "title": "Anker 633 Magnetic 10 k mAh Battery Power Bank White - PAPITA UAE",
+      "url": "https://www.papita.co/ae/product/anker-633-magnetic-10k-mah-battery-power-bank-white/"
     },
     {
-      "url": "https://www.notebookcheck.net/Iniu-s-new-10-000-mAh-wireless-Qi2-25W-power-bank-appears.1187051.0.html",
-      "title": "Iniu\u2019s new 10,000 mAh wireless... - NotebookCheck.net News"
+      "title": "Iniu\u2019s new 10,000 mAh wireless... - NotebookCheck.net News",
+      "url": "https://www.notebookcheck.net/Iniu-s-new-10-000-mAh-wireless-Qi2-25W-power-bank-appears.1187051.0.html"
     }
   ],
   "Small tire patch kit how to use": [
     {
-      "url": "https://simpletire.com/learn/tire-maintenance-safety/tire-patch-kits",
-      "title": "Tire Patch Kits: How to Use Them Effectively - SimpleTire"
+      "title": "Tire Patch Kits: How to Use Them Effectively - SimpleTire",
+      "url": "https://simpletire.com/learn/tire-maintenance-safety/tire-patch-kits"
     },
     {
-      "url": "https://www.youtube.com/watch?v=pTojCFh-XTc",
-      "title": "Patch Your Car Tire in 5 Minutes! - YouTube Images How to Use a Tire Repair Kit? Step-by-Step Guide (+Video ... How To Use A Tire Plug Kit The Right Way - NAPA Know How Blog How To Use A Tire Patch Kit: A Step-by-Step Guide How to Patch a Tire Like a Pro: A Mechanic's Guide to Perfect ... How To Use Tire Patches | Step-by-step Guide - TireDepth"
+      "title": "Patch Your Car Tire in 5 Minutes! - YouTube Images How to Use a Tire Repair Kit? Step-by-Step Guide (+Video ... How To Use A Tire Plug Kit The Right Way - NAPA Know How Blog How To Use A Tire Patch Kit: A Step-by-Step Guide How to Patch a Tire Like a Pro: A Mechanic's Guide to Perfect ... How To Use Tire Patches | Step-by-step Guide - TireDepth",
+      "url": "https://www.youtube.com/watch?v=pTojCFh-XTc"
     },
     {
-      "url": "https://tirecrunch.com/how-to-use-a-tire-repair-kit/",
-      "title": "How to Use a Tire Repair Kit? Step-by-Step Guide (+Video ..."
+      "title": "How to Use a Tire Repair Kit? Step-by-Step Guide (+Video ...",
+      "url": "https://tirecrunch.com/how-to-use-a-tire-repair-kit/"
     },
     {
-      "url": "https://knowhow.napaonline.com/how-to-use-a-tire-plug-kit-the-right-way/",
-      "title": "How To Use A Tire Plug Kit The Right Way - NAPA Know How Blog How To Use A Tire Patch Kit: A Step-by-Step Guide How to Patch a Tire Like a Pro: A Mechanic's Guide to Perfect ... How To Use Tire Patches | Step-by-step Guide - TireDepth"
+      "title": "How To Use A Tire Plug Kit The Right Way - NAPA Know How Blog How To Use A Tire Patch Kit: A Step-by-Step Guide How to Patch a Tire Like a Pro: A Mechanic's Guide to Perfect ... How To Use Tire Patches | Step-by-step Guide - TireDepth",
+      "url": "https://knowhow.napaonline.com/how-to-use-a-tire-plug-kit-the-right-way/"
     },
     {
-      "url": "https://trailblisshub.com/how-to-use-a-tire-patch-kit/",
-      "title": "How To Use A Tire Patch Kit: A Step-by-Step Guide"
+      "title": "How To Use A Tire Patch Kit: A Step-by-Step Guide",
+      "url": "https://trailblisshub.com/how-to-use-a-tire-patch-kit/"
     }
   ],
   "Notion commute log template door to door": [
     {
-      "url": "https://www.notion.com/templates/collections/top-10-free-work-log-templates-in-notion",
-      "title": "Top 10 Free Work Log Templates | Notion Template Marketplace"
+      "title": "Top 10 Free Work Log Templates | Notion Template Marketplace",
+      "url": "https://www.notion.com/templates/collections/top-10-free-work-log-templates-in-notion"
+    },
+    {
+      "title": "99 FREE Notion Templates for Everything [2025]",
+      "url": "https://www.notioneverything.com/blog/free-notion-templates"
+    },
+    {
+      "title": "The 70 Best & Free Notion Templates You Need [2025] - Gridfiti Free Notion Templates | Notionbase 19 Free Notion Templates for Work and Life - easlo.co 75+ Top Free Notion Templates for 2025 Top 25+ Notion Templates: Organise Your Work and Goals",
+      "url": "https://gridfiti.com/free-notion-templates/"
+    },
+    {
+      "title": "Free Notion Templates | Notionbase",
+      "url": "https://thenotionbase.com/free-notion-templates"
+    },
+    {
+      "title": "19 Free Notion Templates for Work and Life - easlo.co",
+      "url": "https://www.easlo.co/blog/19-free-notion-templates-for-work-and-life"
     }
   ],
   "Google Sheets script log CTA arrival times": [
     {
-      "url": "https://developers.google.com/apps-script/guides/logging",
-      "title": "Logging | Apps Script | Google for Developers"
+      "title": "javascript - Travel time based on arrival time (Using Google ...",
+      "url": "https://stackoverflow.com/questions/57810486/travel-time-based-on-arrival-time-using-google-spreadsheet-function"
     },
     {
-      "url": "https://apptivasoftware.com/blog/how-to-write-google-apps-script-logs-into-google-sheets/",
-      "title": "How to write Google Apps Script logs into Google Sheets"
+      "title": "GitHub - clerkin/commute-times: Simple utility to log commute times ...",
+      "url": "https://github.com/clerkin/commute-times"
+    },
+    {
+      "title": "Track time spent at specific locations in a Google Spreadsheet",
+      "url": "https://ifttt.com/applets/yRi9VBDL-track-time-spent-at-specific-locations-in-a-google-spreadsheet"
+    },
+    {
+      "title": "Logging | Apps Script | Google for Developers",
+      "url": "https://developers.google.com/apps-script/guides/logging"
+    },
+    {
+      "title": "How to write Google Apps Script logs into Google Sheets",
+      "url": "https://apptivasoftware.com/blog/how-to-write-google-apps-script-logs-into-google-sheets/"
     }
   ],
   "Calculate rolling average commute Notion formula": [
     {
-      "url": "https://www.notionry.com/tutorials/advanced-notion-formulas-rollups-for-system-automation-tutorial",
-      "title": "Advanced Notion Formulas & Rollups for System Automation Tutorial"
+      "title": "How to calculate a rolling average in R - GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/r-language/how-to-calculate-a-rolling-average-in-r/"
+    },
+    {
+      "title": "Formula to Calculate Rolling Average based on the current Week of...",
+      "url": "https://community.smartsheet.com/discussion/65254/formula-to-calculate-rolling-average-based-on-the-current-week-of-the-year"
+    },
+    {
+      "title": "Advanced Notion Formulas & Rollups for System Automation Tutorial",
+      "url": "https://www.notionry.com/tutorials/advanced-notion-formulas-rollups-for-system-automation-tutorial"
+    },
+    {
+      "title": "google sheets - Calculate rolling average based on... - Stack Overflow",
+      "url": "https://stackoverflow.com/questions/70292574/calculate-rolling-average-based-on-date-range"
+    },
+    {
+      "title": "offset formula to calculate rolling average | Forum",
+      "url": "https://www.excelforum.com/excel-formulas-and-functions/1386309-offset-formula-to-calculate-rolling-average.html"
     }
   ],
-  "GTFS-rt CTA alerts endpoint URL": [],
+  "GTFS-rt CTA alerts endpoint URL": [
+    {
+      "title": "GTFS Specification : Static and Realtime Data Standards - LegalClarity",
+      "url": "https://legalclarity.org/gtfs-specification-static-and-realtime-data-standards/"
+    },
+    {
+      "title": "GTFS Realtime Access",
+      "url": "https://metrolinktrains.com/about/gtfs/gtfs-rt-access/"
+    },
+    {
+      "title": "204 No Content response on / alerts endpoint with valid... - Githubissues",
+      "url": "https://githubissues.com/opentripplanner/OpenTripPlanner/5819"
+    },
+    {
+      "title": "Move StopLocationTypeValidator to gtfs -validator library \u00b7 Issue #126...",
+      "url": "https://github.com/CUTR-at-USF/gtfs-realtime-validator/issues/126"
+    },
+    {
+      "title": "Qu'est-ce que le flux GTFS - RT ?",
+      "url": "https://web.pysae.com/fonctionnalites/flux-gtfs-rt"
+    }
+  ],
   "Metra GTFS feed documentation": [
     {
-      "url": "https://metra.com/developers",
-      "title": "For Developers - Metra"
+      "title": "For Developers - Metra",
+      "url": "https://metra.com/developers"
     },
     {
-      "url": "https://metra.com/metra-gtfs-api",
-      "title": "Metra GTFS API"
+      "title": "Reference - General Transit Feed Specification - gtfs.org",
+      "url": "https://gtfs.org/documentation/schedule/reference/"
     },
     {
-      "url": "https://www.transit.land/feeds/f-dp3-metra",
-      "title": "Transitland \u2022 Metra \u2022 GTFS feed details: f-dp3-metra"
+      "title": "Transitland \u2022 Metra \u2022 GTFS feed details: f-dp3-metra",
+      "url": "https://www.transit.land/feeds/f-dp3-metra"
+    },
+    {
+      "title": "GTFS for Metruvia",
+      "url": "https://www.metruvia.com/gtfs-for-metruvia"
+    },
+    {
+      "title": "Metra GTFS API",
+      "url": "https://metra.com/metra-gtfs-api"
     }
   ],
   "Divvy GBFS station status API": [
     {
-      "url": "https://divvybikes.com/system-data",
-      "title": "Divvy Data"
+      "title": "Divvy GraphQL API Documentation",
+      "url": "https://developers.divvy.co/"
+    },
+    {
+      "title": "GitHub - iandees/divvyapiapi: An API for the Divvy bike share ...",
+      "url": "https://github.com/iandees/divvyapiapi"
+    },
+    {
+      "title": "Divvy Data",
+      "url": "https://divvybikes.com/system-data"
+    },
+    {
+      "title": "get_station_status: Grab the station_status feed. in gbfs ...",
+      "url": "https://rdrr.io/cran/gbfs/man/get_station_status.html"
+    },
+    {
+      "title": "Get started - General Bikeshare Feed Specification - GBFS",
+      "url": "https://gbfs.org/get-started/"
     }
   ],
   "iOS Shortcuts parse JSON transit alerts tutorial": [
     {
-      "url": "https://support.apple.com/guide/shortcuts/parsing-json-apdde2dfe749/ios",
-      "title": "Parsing JSON in Shortcuts from an API request - Apple Support"
+      "title": "Parsing JSON in Shortcuts from an API request - Apple Support",
+      "url": "https://support.apple.com/guide/shortcuts/parsing-json-apdde2dfe749/ios"
     },
     {
-      "url": "https://anotioneer.substack.com/p/using-json-data-in-apple-shortcuts",
-      "title": "Using JSON Data In Apple Shortcuts - by Alex Sherwood"
+      "title": "Using JSON Data In Apple Shortcuts - by Alex Sherwood",
+      "url": "https://anotioneer.substack.com/p/using-json-data-in-apple-shortcuts"
     },
     {
-      "url": "https://medium.com/@richardmoult75/parsing-json-api-lists-with-shortcuts-20df08aedf09",
-      "title": "Parsing JSON API lists with Shortcuts - Medium"
+      "title": "Parsing JSON API lists with Shortcuts - Medium",
+      "url": "https://medium.com/@richardmoult75/parsing-json-api-lists-with-shortcuts-20df08aedf09"
     },
     {
-      "url": "https://the-plot.com/blog/?p=1615",
-      "title": "iOS Shortcuts: Get Dictionary Value and working with JSON"
+      "title": "iOS Shortcuts: Get Dictionary Value and working with JSON",
+      "url": "https://the-plot.com/blog/?p=1615"
+    },
+    {
+      "title": "Inspecting JSON Files on iOS with Jayson - MacStories",
+      "url": "https://www.macstories.net/reviews/inspecting-json-files-on-ios-with-jayson/"
     }
   ],
   "NFC tag iPhone trigger share ETA shortcut": [
     {
-      "url": "https://discussions.apple.com/thread/253186716",
-      "title": "How to turn on NFC tag reader on iPhone - Apple Community"
+      "title": "How to turn on NFC tag reader on iPhone - Apple Community",
+      "url": "https://discussions.apple.com/thread/253186716"
     },
     {
-      "url": "https://www.guidingtech.com/how-to-use-the-nfc-tag-reader-on-an-iphone/",
-      "title": "How to Use the NFC Tag Reader on an iPhone - Guiding Tech"
+      "title": "How to Use the NFC Tag Reader on an iPhone - Guiding Tech",
+      "url": "https://www.guidingtech.com/how-to-use-the-nfc-tag-reader-on-an-iphone/"
     },
     {
-      "url": "https://seritag.com/learn/using-nfc/how-to-read-nfc-tags-with-an-iphone",
-      "title": "How To Read NFC Tags With An iPhone - Seritag"
+      "title": "How To Read NFC Tags With An iPhone - Seritag",
+      "url": "https://seritag.com/learn/using-nfc/how-to-read-nfc-tags-with-an-iphone"
     },
     {
-      "url": "https://www.youtube.com/watch?v=C7OkDbN16UE",
-      "title": "How to share a Spotify playlist using an NFC Tag - YouTube"
+      "title": "Ler Tag Nfc No Iphone 16 | TikTok",
+      "url": "https://www.tiktok.com/discover/ler-tag-nfc-no-iphone-16"
+    },
+    {
+      "title": "How to share a Spotify playlist using an NFC Tag - YouTube",
+      "url": "https://www.youtube.com/watch?v=C7OkDbN16UE"
     }
   ],
   "Home Assistant Chicago transit integration": [
     {
-      "url": "https://github.com/mmkiwi/ha_cta",
-      "title": "Dev Environment for Chicago Transportation Authority integration"
+      "title": "Dev Environment for Chicago Transportation Authority integration",
+      "url": "https://github.com/mmkiwi/ha_cta"
     },
     {
-      "url": "https://www.home-assistant.io/integrations/gtfs/",
-      "title": "General Transit Feed Specification (GTFS) - Home Assistant"
+      "title": "General Transit Feed Specification (GTFS) - Home Assistant",
+      "url": "https://www.home-assistant.io/integrations/gtfs/"
     },
     {
-      "url": "https://transit-tracker.eastsideurbanism.org/docs/user-manual/home-assistant",
-      "title": "Connecting to Home Assistant | Transit Tracker"
+      "title": "Integrate CTA API with Your Chicago Transit Assistant",
+      "url": "https://www.openassistantgpt.io/integrations/api-integrations/transportation/transport-for-chicago-us"
     },
     {
-      "url": "https://github.com/mark1foley/ha-gtfs-rt-v2",
-      "title": "GitHub - mark1foley/ha-gtfs-rt-v2: Real-time transit ..."
+      "title": "Connecting to Home Assistant | Transit Tracker",
+      "url": "https://transit-tracker.eastsideurbanism.org/docs/user-manual/home-assistant"
+    },
+    {
+      "title": "GitHub - mark1foley/ha-gtfs-rt-v2: Real-time transit ...",
+      "url": "https://github.com/mark1foley/ha-gtfs-rt-v2"
     }
   ],
   "Filter low impact service alerts rules examples": [
     {
-      "url": "https://transtechnologyweb.com/blog/mastering-grafana-alert-rules-examples",
-      "title": "Mastering Grafana Alert Rules : Examples & Setup Guide"
+      "title": "Mastering Grafana Alert Rules : Examples & Setup Guide",
+      "url": "https://transtechnologyweb.com/blog/mastering-grafana-alert-rules-examples"
     },
     {
-      "url": "https://signoz.io/guides/how-do-i-add-alerts-to-prometheus/",
-      "title": "How Do I Add Alerts to Prometheus - Step-by-Step Guide | SigNoz"
+      "title": "How Do I Add Alerts to Prometheus - Step-by-Step Guide | SigNoz",
+      "url": "https://signoz.io/guides/how-do-i-add-alerts-to-prometheus/"
+    },
+    {
+      "title": "Identify and Manage AI Agent Risks in Business Workflows",
+      "url": "https://trailhead.salesforce.com/content/learn/modules/threat-modeling-for-ai-agents/identify-and-manage-ai-agent-risks"
+    },
+    {
+      "title": "Custom Alert Routing in frontend error boundaries... - UMA Technology",
+      "url": "https://umatechnology.org/custom-alert-routing-in-frontend-error-boundaries-used-in-container-observability/"
+    },
+    {
+      "title": "Thanos - Highly available Prometheus setup with long term storage...",
+      "url": "https://thanos.io/v0.8/components/rule/"
     }
   ],
   "CTA Red Line construction Lawrence station update": [
     {
-      "url": "https://www.nbcchicago.com/news/local/cta-to-open-four-reconstructed-stations-on-the-red-line-next-month/3773025/",
-      "title": "CTA to open four reconstructed stations on the Red Line next month"
+      "title": "CTA to open four reconstructed stations on the Red Line next month",
+      "url": "https://www.nbcchicago.com/news/local/cta-to-open-four-reconstructed-stations-on-the-red-line-next-month/3773025/"
     },
     {
-      "url": "https://www.exp.com/timeline/exp-celebrates-cta-red-purple-modernization-phase-one-project-milestone-four-new-red-line-stations-at-lawrence-argyle-berwyn-and-bryn-mawr/",
-      "title": "EXP celebrates CTA Red Purple Modernization Phase One... | EXP"
+      "title": "Chicago murals at CTA Red Line stations in... - Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/transportation/2024/04/08/cta-red-line-stations-murals-artwork-edgewater-uptown"
     },
     {
-      "url": "https://wgntv.com/news/traffic/cta-reopens-red-line-stations/200/",
-      "title": "Long wait over: CTA reopens 4 Red Line stations on Chicago 's North..."
+      "title": "EXP celebrates CTA Red Purple Modernization Phase One... | EXP",
+      "url": "https://www.exp.com/timeline/exp-celebrates-cta-red-purple-modernization-phase-one-project-milestone-four-new-red-line-stations-at-lawrence-argyle-berwyn-and-bryn-mawr/"
     },
     {
-      "url": "https://chicagosuburbanfamily.com/new-red-line-stations-at-bryn-mawr-berwyn-argyle-and-lawrence-set-to-open-in-july/",
-      "title": "New Red Line Stations At Bryn Mawr, Berwyn, Argyle And Lawrence ..."
+      "title": "Long wait over: CTA reopens 4 Red Line stations on Chicago 's North...",
+      "url": "https://wgntv.com/news/traffic/cta-reopens-red-line-stations/200/"
+    },
+    {
+      "title": "New Red Line Stations At Bryn Mawr, Berwyn, Argyle And Lawrence ...",
+      "url": "https://chicagosuburbanfamily.com/new-red-line-stations-at-bryn-mawr-berwyn-argyle-and-lawrence-set-to-open-in-july/"
     }
   ],
   "Argyle station elevator status": [
     {
-      "url": "https://www.transitchicago.com/station/argy/",
-      "title": "Argyle Station Information - CTA"
+      "title": "Argyle station (CTA) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Argyle_station_(CTA)"
+    },
+    {
+      "title": "Argyle Station is OPEN! - Sun Wah BBQ",
+      "url": "https://sunwahbbq.com/argyle-station-is-open/"
+    },
+    {
+      "title": "Argyle Station Information - CTA",
+      "url": "https://www.transitchicago.com/station/argy/"
+    },
+    {
+      "title": "Chicago ''L''.org: Stations - Argyle",
+      "url": "https://www.chicago-l.org/stations/argyle.html"
+    },
+    {
+      "title": "Elevator & Escalator Service Status | WMATA",
+      "url": "https://www.wmata.com/service/elevators-escalators/Elevator-Escalator-Service-Status.cfm"
     }
   ],
   "Brown Line crowding by time of day data": [
     {
-      "url": "https://www.transitchicago.com/ridership/",
-      "title": "Ridership Reports - Performance metrics - CTA"
+      "title": "Metra Ridership by Line, Direction and Time (Boarding ... - RTAMS",
+      "url": "https://rtams.org/ridership/metra/timeday"
+    },
+    {
+      "title": "Train Brown Line: Up-to-date Real-Time Schedules and All the ...",
+      "url": "https://ctaline.com/train-brown-line/"
+    },
+    {
+      "title": "Brown Line (Route info, alerts & schedules) - CTA",
+      "url": "https://www.transitchicago.com/brownline/"
+    },
+    {
+      "title": "Ridership Reports - Performance metrics - CTA",
+      "url": "https://www.transitchicago.com/ridership/"
+    },
+    {
+      "title": "Ridership Dashboard - Metra",
+      "url": "https://metra.com/dashboard"
     }
   ],
   "West Loop bike lane map current 2025": [
     {
-      "url": "https://maps.google.com/",
-      "title": "Google Maps"
+      "title": "NYC DOT - Bicycle Maps",
+      "url": "https://www.nyc.gov/html/dot/html/bicyclists/bikemaps.shtml"
+    },
+    {
+      "title": "Bicycle Route Maps - Department of Transportation",
+      "url": "https://www.dot.nh.gov/projects-plans-and-programs/programs/active-transportation/bicycle-route-maps"
+    },
+    {
+      "title": "Google Maps",
+      "url": "https://maps.google.com/"
+    },
+    {
+      "title": "Manhattan Bike Paths, Bike Lanes & Greenways - NYC Bike Maps",
+      "url": "https://www.nycbikemaps.com/maps/manhattan-bike-map/"
+    },
+    {
+      "title": "NYC Bike Map 2025 | PDF | Manhattan | Brooklyn - Scribd",
+      "url": "https://www.scribd.com/document/890357803/NYC-Bike-Map-2025"
     }
   ],
   "Bus-only lanes pilot Chicago streets list": [
     {
-      "url": "https://chi.streetsblog.org/2024/11/25/better-streets-chicago-celebrates-another-big-year-of-advocacy-and-provides-a-sneak-peek-at-next-years-efforts",
-      "title": "Better Streets Chicago celebrates another big year of advocacy, and..."
+      "title": "Better Streets Chicago celebrates another big year of advocacy, and...",
+      "url": "https://chi.streetsblog.org/2024/11/25/better-streets-chicago-celebrates-another-big-year-of-advocacy-and-provides-a-sneak-peek-at-next-years-efforts"
     },
     {
-      "url": "https://www.betterstreetschicago.org/blog?offset=1639013147198",
-      "title": "Blog \u2014 Better Streets Chicago"
+      "title": "Bus - only lanes coming to Route 40 through Fremont... - My Ballard",
+      "url": "https://myballard.com/2025/06/30/bus-only-lanes-coming-to-route-40-through-fremont-ballard-crown-hill-and-westlake/"
+    },
+    {
+      "title": "Blog \u2014 Better Streets Chicago",
+      "url": "https://www.betterstreetschicago.org/blog?offset=1639013147198"
+    },
+    {
+      "title": "District Launches Bus Lane Pilot | AFRO American Newspapers",
+      "url": "https://afro.com/district-launches-bus-lane-pilot/"
+    },
+    {
+      "title": "Metro aimed to install bus - only lane in LA\u2014but will it... - Curbed LA",
+      "url": "https://la.curbed.com/2019/5/15/18623890/metro-bus-only-lane-olympic-florence-mlk-van-nuys"
     }
   ],
   "CTA board meeting schedule public comment": [
     {
-      "url": "https://www.transitchicago.com/board/",
-      "title": "Chicago Transit Board (Info & Meetings) - CTA"
+      "title": "Chicago Transit Board (Info & Meetings) - CTA",
+      "url": "https://www.transitchicago.com/board/"
     },
     {
-      "url": "https://www.transitchicago.com/board/publiccommentprocess/",
-      "title": "Public Comment Process - CTA - Chicago Transit Authority"
+      "title": "Comments - From the November 2025 CTA Board Meeting",
+      "url": "https://thoughtsaboutcities.substack.com/p/from-the-november-2025-cta-board/comments"
     },
     {
-      "url": "https://www.transitchicago.com/board/notices-agendas-minutes/",
-      "title": "Chicago Transit Board/Committee Meeting Notices, Agendas ... Public Notices - News - CTA - Chicago Transit Authority Regular Board Meeting Dates - 2025 - Public Notices - News - CTA Chicago Transit Board Meeting Video - CTA"
+      "title": "Public Comment Process - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/board/publiccommentprocess/"
     },
     {
-      "url": "https://www.transitchicago.com/publicnotices/",
-      "title": "Public Notices - News - CTA - Chicago Transit Authority"
+      "title": "Chicago Transit Board/Committee Meeting Notices, Agendas ... Public Notices - News - CTA - Chicago Transit Authority Regular Board Meeting Dates - 2025 - Public Notices - News - CTA Chicago Transit Board Meeting Video - CTA",
+      "url": "https://www.transitchicago.com/board/notices-agendas-minutes/"
+    },
+    {
+      "title": "Public Notices - News - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/publicnotices/"
     }
   ],
   "RTA budget hearing dates 2025": [
     {
-      "url": "https://www.rtachicago.org/transit-funding/2025-regional-transit-budget",
-      "title": "Budgeting with the RTA | Regional Transportation Authority"
+      "title": "Budgeting with the RTA | Regional Transportation Authority",
+      "url": "https://www.rtachicago.org/transit-funding/2025-regional-transit-budget"
     },
     {
-      "url": "https://www.riderta.com/budget/2025",
-      "title": "2025 Budget | RideRTA"
+      "title": "FY 2024-2025 Budget and Town Meeting information",
+      "url": "https://www.hooksett.org/departments/finance/current_budget.php"
     },
     {
-      "url": "https://www.norta.com/RTA/media/Event-documents/CY2025-Public-Hearing-Notice.pdf",
-      "title": "PDF CY2025 Public Hearing Notice - norta.com"
+      "title": "2025 Budget | RideRTA",
+      "url": "https://www.riderta.com/budget/2025"
+    },
+    {
+      "title": "PDF CY2025 Public Hearing Notice - norta.com",
+      "url": "https://www.norta.com/RTA/media/Event-documents/CY2025-Public-Hearing-Notice.pdf"
+    },
+    {
+      "title": "PDF RTA Recommended Budget, Fiscal Year 2025 - rtamobility.com",
+      "url": "https://rtamobility.com/wp-content/docs/2024/06/RTA-Board-2024-05-30-Item-6-RTA-Budget-Presentation.pdf"
     }
   ],
   "Metra fare zones map and prices": [
     {
-      "url": "https://metra.com/fare-table",
-      "title": "Fare Table - Metra"
+      "title": "Fare Table - Metra",
+      "url": "https://metra.com/fare-table"
     },
     {
-      "url": "https://metraschedule.info/metra-tickets/",
-      "title": "Metra Tickets: Buy & Fare Information Guide"
+      "title": "Commuter Rail Fare Zones | Commuter Rail Fares | MBTA",
+      "url": "https://www.mbta.com/fares/commuter-rail-fares/zones"
     },
     {
-      "url": "https://metrarail.com/sites/default/files/assets/metra_fares_and_policies_2020-11-13.pdf",
-      "title": "PDF Metra_Fares_and_Policies_2020-11-13"
+      "title": "Metra Tickets: Buy & Fare Information Guide",
+      "url": "https://metraschedule.info/metra-tickets/"
+    },
+    {
+      "title": "PDF Metra_Fares_and_Policies_2020-11-13",
+      "url": "https://metrarail.com/sites/default/files/assets/metra_fares_and_policies_2020-11-13.pdf"
+    },
+    {
+      "title": "Metra Monthly Ridership by Fare Zone - RTAMS",
+      "url": "https://rtams.org/ridership/metra/byzone"
     }
   ],
   "Ventra app add Metra mobile ticket how": [
     {
-      "url": "https://metra.com/how-to-purchase-tickets",
-      "title": "How to Purchase Tickets | Metra"
+      "title": "How to Purchase Tickets | Metra",
+      "url": "https://metra.com/how-to-purchase-tickets"
     },
     {
-      "url": "https://lingualeo.com/ru/jungle/how-do-i-buy-and-use-metra-mobile-tickets-with-the-new-ventra-app-1908890",
-      "title": "How do I buy and use Metra mobile tickets with the new Ventra app ?"
+      "title": "Use Ventra Card/ App to Buy Metra Pass",
+      "url": "https://hr.northwestern.edu/documents/benefits/payflex-load-ventra-app.pdf"
+    },
+    {
+      "title": "How do I buy and use Metra mobile tickets with the new Ventra app ?",
+      "url": "https://lingualeo.com/ru/jungle/how-do-i-buy-and-use-metra-mobile-tickets-with-the-new-ventra-app-1908890"
+    },
+    {
+      "title": "Ventra Card & App | Pace Suburban Bus",
+      "url": "https://www.pacebus.com/ventra"
+    },
+    {
+      "title": "CTA, Metra , Pace release updated Ventra app | Mass Transit",
+      "url": "https://www.masstransitmag.com/technology/passenger-info/mobile-applications/press-release/21156121/chicago-transit-authority-cta-cta-metra-pace-release-updated-ventra-app"
     }
   ],
   "Pre-tax transit benefits Chicago employers setup": [
     {
-      "url": "https://natlawreview.com/article/new-law-requires-greater-chicago-metropolitan-area-employers-provide-pre-tax",
-      "title": "Chicago Employers to Provide Pre - Tax Transit Benefits"
+      "title": "Chicago Employers to Provide Pre - Tax Transit Benefits",
+      "url": "https://natlawreview.com/article/new-law-requires-greater-chicago-metropolitan-area-employers-provide-pre-tax"
     },
     {
-      "url": "https://www.edenredbenefits.com/blog/chicago-leads-the-way-pre-tax-commuter-benefits-now-mandatory",
-      "title": "Chicago leads the way: Pre - tax commuter benefits now mandatory"
+      "title": "Chicago leads the way: Pre - tax commuter benefits now mandatory",
+      "url": "https://www.edenredbenefits.com/blog/chicago-leads-the-way-pre-tax-commuter-benefits-now-mandatory"
     },
     {
-      "url": "https://taxnews.ey.com/news/2023-1558-illinois-law-requires-that-employers-provide-transit-benefits-to-their-employees-starting-in-2024",
-      "title": "Illinois law requires that employers provide transit benefits to their..."
+      "title": "Illinois law requires that employers provide transit benefits to their...",
+      "url": "https://taxnews.ey.com/news/2023-1558-illinois-law-requires-that-employers-provide-transit-benefits-to-their-employees-starting-in-2024"
     },
     {
-      "url": "https://metra.com/transit-benefits",
-      "title": "Transit Benefits | Metra"
+      "title": "Transit Benefits | Metra",
+      "url": "https://metra.com/transit-benefits"
     },
     {
-      "url": "https://cosmoins.com/riding-the-green-wave-how-new-legislation-expands-transit-benefits-in-chicago/",
-      "title": "Riding The Green Wave: How New Legislation Expands Transit ..."
+      "title": "Riding The Green Wave: How New Legislation Expands Transit ...",
+      "url": "https://cosmoins.com/riding-the-green-wave-how-new-legislation-expands-transit-benefits-in-chicago/"
     }
   ],
   "Quiet car policy Metra UP-N": [
     {
-      "url": "https://metra.com/what-expect-onboard",
-      "title": "What to Expect Onboard - Metra"
+      "title": "What to Expect Onboard - Metra",
+      "url": "https://metra.com/what-expect-onboard"
     },
     {
-      "url": "https://patch.com/illinois/winnetka/metra-adds-quiet-cars-to-up-n-line",
-      "title": "Metra Adds Quiet Cars to UP-N Line | Winnetka, IL Patch"
+      "title": "40518_Fm30_TT - metrarail.com",
+      "url": "https://metrarail.com/sites/default/files/assets/communications/upw.pdf"
+    },
+    {
+      "title": "Metra - Shhhhh! Quiet Car is in effect. These cars are...",
+      "url": "https://www.facebook.com/MetraRail/posts/shhhhh-quiet-car-is-in-effect-these-cars-are-designed-to-give-riders-a-space-fre/458047403404580/"
+    },
+    {
+      "title": "Metra Adds Quiet Cars to UP-N Line | Winnetka, IL Patch",
+      "url": "https://patch.com/illinois/winnetka/metra-adds-quiet-cars-to-up-n-line"
+    },
+    {
+      "title": "Metra | Do not be this person ! Quiet Cars ... - Instagram",
+      "url": "https://www.instagram.com/metrarail/reel/C-vSMZ3PohD/"
     }
   ],
-  "Coffee near Clark/Lake with outlets opens 6am": [],
-  "Coffee shops near Clinton station laptop friendly": [],
+  "Coffee near Clark/Lake with outlets opens 6am": [
+    {
+      "title": "TOP 10 BEST Coffee near Clark, NJ 07066 - Updated 2025 - Yelp",
+      "url": "https://www.yelp.com/search?find_desc=Coffee&find_loc=Clark,+NJ+07066"
+    },
+    {
+      "title": "LabCafe \u2013 Flight Coffee Co.",
+      "url": "https://flightcoffeeco.com/pages/labcafe"
+    },
+    {
+      "title": "Flight Coffee Company | Bedford NH - Facebook Flight Coffee Company, Bedford - Menu, Reviews (179), Photos ... Flight Coffee, 209 Route 101, Bedford, NH 03110, US - MapQuest Flight Coffee Company - Bedford, New Hampshire",
+      "url": "https://www.facebook.com/flghtcoffeecompany/"
+    },
+    {
+      "title": "Flight Coffee Company, Bedford - Menu, Reviews (179), Photos ... Flight Coffee, 209 Route 101, Bedford, NH 03110, US - MapQuest Flight Coffee Company - Bedford, New Hampshire",
+      "url": "https://www.restaurantji.com/nh/bedford/flight-coffee-co-roasting-lab-/"
+    },
+    {
+      "title": "Flight Coffee, 209 Route 101, Bedford, NH 03110, US - MapQuest",
+      "url": "https://www.mapquest.com/us/new-hampshire/flight-coffee-484366233"
+    }
+  ],
+  "Coffee shops near Clinton station laptop friendly": [
+    {
+      "title": "Best Laptop Friendly Cafe Free Wifi near Bedford, NH 03110",
+      "url": "https://www.yelp.com/search?find_desc=Laptop+Friendly+Cafe+Free+Wifi&find_loc=Bedford,+NH+03110"
+    },
+    {
+      "title": "LabCafe \u2013 Flight Coffee Co.",
+      "url": "https://flightcoffeeco.com/pages/labcafe"
+    },
+    {
+      "title": "Best Coffee Shops Free Wifi Study near Bedford, NH 03110 ...",
+      "url": "https://www.yelp.ca/search?find_desc=Coffee+Shops+Free+Wifi+Study&find_loc=Bedford,+NH+03110"
+    },
+    {
+      "title": "The Best Coffee Shops in Bedford, NH - 2025 Restaurantji",
+      "url": "https://www.restaurantji.com/nh/bedford/coffee-shops/"
+    },
+    {
+      "title": "The Best 10 Coffee & Tea near Bedford, NH 03110 - Yelp",
+      "url": "https://www.yelp.com/search?cflt=coffee&find_loc=Bedford,+NH+03110"
+    }
+  ],
   "Coffee near Ogilvie quick to-go morning": [
     {
-      "url": "https://www.yelp.com/search?find_desc=Coffee+&+Tea&find_loc=Ogilvie,+MN",
-      "title": "TOP 10 BEST Coffee & Tea near Ogilvie, MN - Updated 2025 - Yelp"
+      "title": "TOP 10 BEST Coffee & Tea near Ogilvie, MN - Updated 2025 - Yelp",
+      "url": "https://www.yelp.com/search?find_desc=Coffee+&+Tea&find_loc=Ogilvie,+MN"
     },
     {
-      "url": "https://www.restaurantji.com/mn/ogilvie/coffee-shops/",
-      "title": "The Best Coffee Shops near Ogilvie, MN - 2025 Restaurantji"
+      "title": "The Best Coffee Shops near Ogilvie, MN - 2025 Restaurantji",
+      "url": "https://www.restaurantji.com/mn/ogilvie/coffee-shops/"
     },
     {
-      "url": "https://restaurantguru.com/coffeehouse-Ogilvie-t5",
-      "title": "Top 5 coffeehouses in Ogilvie, december 2024 - Restaurant Guru"
+      "title": "Delicious Roadside Stop? I Found This Hidden Gem In Ogilvie!",
+      "url": "https://minnesotasnewcountry.com/delicious-roadside-stop-i-found-this-hidden-gem-in-olgilvie/"
     },
     {
-      "url": "https://www.yellowpages.com/ogilvie-mn/coffee-shops",
-      "title": "Best 10 Coffee Shops in Ogilvie, MN | The Real Yellow Pages\u00ae"
+      "title": "Top 5 coffeehouses in Ogilvie, december 2024 - Restaurant Guru",
+      "url": "https://restaurantguru.com/coffeehouse-Ogilvie-t5"
+    },
+    {
+      "title": "Best 10 Coffee Shops in Ogilvie, MN | The Real Yellow Pages\u00ae",
+      "url": "https://www.yellowpages.com/ogilvie-mn/coffee-shops"
     }
   ],
-  "Safe harbor cafes near Jackson pedway rainy day": [],
+  "Safe harbor cafes near Jackson pedway rainy day": [
+    {
+      "title": "TOP 10 BEST Cafes near Bedford, NH 03110 - Updated 2025 - Yelp",
+      "url": "https://www.yelp.com/search?find_desc=cafes&find_loc=Bedford,+NH+03110"
+    },
+    {
+      "title": "Top 7 cafes in Safety Harbor, november 2024 - Restaurant Guru",
+      "url": "https://restaurantguru.com/cafe-Safety-Harbor-t6"
+    },
+    {
+      "title": "Good Day Cafe | Safety Harbor FL - Facebook",
+      "url": "https://www.facebook.com/eatgooddaycafe/"
+    },
+    {
+      "title": "Daydreamers Cafe and Grill - A Unique Breakfast & Lunch Eatery",
+      "url": "https://daydreamerscafeandgrill.wordpress.com/"
+    },
+    {
+      "title": "The Best 10 Cafes near Bedford, NH 03110 - Yelp",
+      "url": "https://www.yelp.com/search?cflt=cafes&find_loc=Bedford,+NH+03110"
+    }
+  ],
   "White noise playlists offline Spotify for commute": [
     {
-      "url": "https://open.spotify.com/playlist/72u7iyyy7tQOAGnUwtJn6B",
-      "title": "10 Hours of Clean White Noise - Loopable with no fade - Spotify"
+      "title": "10 Hours of Clean White Noise - Loopable with no fade - Spotify",
+      "url": "https://open.spotify.com/playlist/72u7iyyy7tQOAGnUwtJn6B"
     },
     {
-      "url": "https://open.spotify.com/playlist/37i9dQZF1DWUZ5bk6qqDSy",
-      "title": "White Noise 10 Hours | Spotify Playlist"
+      "title": "White Noise 10 Hours | Spotify Playlist",
+      "url": "https://open.spotify.com/playlist/37i9dQZF1DWUZ5bk6qqDSy"
     },
     {
-      "url": "https://open.spotify.com/playlist/5h2493CRHAYc7HIQZuW8SA",
-      "title": "White Noise - Relaxing Noise - playlist by Peaceful Relaxation - Spotify"
+      "title": "Stuck at the airport? How to build an offline streaming toolkit for ...",
+      "url": "https://www.howtogeek.com/how-to-build-an-offline-streaming-toolkit-for-long-travel-delays/"
     },
     {
-      "url": "https://open.spotify.com/playlist/0a4W2V4poxTHec4TVwOn6f",
-      "title": "White Noise Relaxation - playlist by Relax & Chill \u2122 | Spotify"
+      "title": "White Noise - Relaxing Noise - playlist by Peaceful Relaxation - Spotify",
+      "url": "https://open.spotify.com/playlist/5h2493CRHAYc7HIQZuW8SA"
+    },
+    {
+      "title": "White Noise Relaxation - playlist by Relax & Chill \u2122 | Spotify",
+      "url": "https://open.spotify.com/playlist/0a4W2V4poxTHec4TVwOn6f"
     }
   ],
   "Transit policy podcasts best 20 min episodes": [
     {
-      "url": "https://player.fm/podcasts/Transport-Policy",
-      "title": "Best Transport Policy Podcasts (2025) - Player FM"
+      "title": "20 Best Mass Transit and Public Transport Podcasts",
+      "url": "https://podcast.feedspot.com/mass_transit_and_public_transport_podcasts/"
     },
     {
-      "url": "https://podcast.feedspot.com/mass_transit_and_public_transport_podcasts/",
-      "title": "20 Best Mass Transit and Public Transport Podcasts"
+      "title": "Best Transport Policy Podcasts (2025) - Player FM",
+      "url": "https://player.fm/podcasts/Transport-Policy"
     },
     {
-      "url": "https://www.millionpodcasts.com/mass-transit-and-public-transport-podcasts/",
-      "title": "Best 40 Mass Transit and Public Transport Podcasts"
+      "title": "Transit Unplugged",
+      "url": "https://transitunplugged.com/"
     },
     {
-      "url": "https://transitunplugged.com/",
-      "title": "Transit Unplugged"
+      "title": "Best 40 Mass Transit and Public Transport Podcasts",
+      "url": "https://www.millionpodcasts.com/mass-transit-and-public-transport-podcasts/"
     },
     {
-      "url": "https://www.youtube.com/@transitunpluggedpodcast",
-      "title": "Transit Unplugged Podcast - YouTube"
+      "title": "Transit Unplugged Podcast - YouTube",
+      "url": "https://www.youtube.com/@transitunpluggedpodcast"
     }
   ],
   "Intermediate Spanish podcasts daily news": [
     {
-      "url": "https://www.newsinslowspanish.com/home/news/intermediate",
-      "title": "News in Slow Spanish - Intermediate Podcast"
+      "title": "News in Slow Spanish - Intermediate Podcast",
+      "url": "https://www.newsinslowspanish.com/home/news/intermediate"
     },
     {
-      "url": "https://podcast.feedspot.com/spanish_news_podcasts/",
-      "title": "70 Best Spanish News Podcasts to Listen to in 2025"
+      "title": "70 Best Spanish News Podcasts to Listen to in 2025",
+      "url": "https://podcast.feedspot.com/spanish_news_podcasts/"
     },
     {
-      "url": "https://podcasts.apple.com/na/podcast/news-in-slow-spanish-intermediate/id305590390",
-      "title": "News in Slow Spanish (Intermediate) - Apple Podcasts"
+      "title": "News in Slow Spanish (Intermediate) - Apple Podcasts",
+      "url": "https://podcasts.apple.com/na/podcast/news-in-slow-spanish-intermediate/id305590390"
     },
     {
-      "url": "https://www.globalplayer.com/podcasts/42L57J/",
-      "title": "News in Slow Spanish (Intermediate) - Podcast - Global Player"
+      "title": "Daily Easy Spanish",
+      "url": "https://www.dailyeasyspanish.com/"
+    },
+    {
+      "title": "News in Slow Spanish (Intermediate) - Podcast - Global Player",
+      "url": "https://www.globalplayer.com/podcasts/42L57J/"
     }
   ],
   "Spanish flashcards app that works offline": [
     {
-      "url": "https://www.fluentu.com/blog/spanish/spanish-flashcard-apps-review/",
-      "title": "16 Best Spanish Flashcard Apps in 2025 - FluentU"
+      "title": "16 Best Spanish Flashcard Apps in 2025 - FluentU",
+      "url": "https://www.fluentu.com/blog/spanish/spanish-flashcard-apps-review/"
     },
     {
-      "url": "https://play.google.com/store/apps/details?id=com.ufo.learnspanish&hl=en-US",
-      "title": "Learn Spanish Offline - Apps on Google Play"
+      "title": "Learn Spanish Offline - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.ufo.learnspanish&hl=en-US"
     },
     {
-      "url": "https://joyofspanish.com/spanish-flashcard/",
-      "title": "How, Why & Best Spanish Flashcard Apps & Websites in 2025"
+      "title": "How, Why & Best Spanish Flashcard Apps & Websites in 2025",
+      "url": "https://joyofspanish.com/spanish-flashcard/"
     },
     {
-      "url": "https://www.italki.com/en/blog/spanish-flashcards-app",
-      "title": "5 most amazing Spanish flashcard apps to speed up the learning process"
+      "title": "5 most amazing Spanish flashcard apps to speed up the learning process",
+      "url": "https://www.italki.com/en/blog/spanish-flashcards-app"
+    },
+    {
+      "title": "Flashcards World | Create and Study Flashcards Online",
+      "url": "https://flashcards.world/"
     }
   ],
   "Noise cancelling earbuds transparency mode safety": [
     {
-      "url": "https://www.soundcore.com/blogs/earbuds/what-is-transparency-mode-on-earbuds",
-      "title": "What Is Transparency Mode And How Does It Work?"
+      "title": "What Is Transparency Mode And How Does It Work?",
+      "url": "https://www.soundcore.com/blogs/earbuds/what-is-transparency-mode-on-earbuds"
     },
     {
-      "url": "https://www.tozostore.com/blogs/news/proper-use-noise-cancelling-earbuds-safety-tips",
-      "title": "Proper Use of Noise - Cancelling Earbuds : ANC, Transparent Mode ..."
+      "title": "Proper Use of Noise - Cancelling Earbuds : ANC, Transparent Mode ...",
+      "url": "https://www.tozostore.com/blogs/news/proper-use-noise-cancelling-earbuds-safety-tips"
     },
     {
-      "url": "https://www.digitaltrends.com/phones/what-is-transparency-mode-and-how-does-it-work/",
-      "title": "What is transparency mode and how does it work? - Digital Trends"
+      "title": "I refuse to buy earbuds without this game-changing feature",
+      "url": "https://www.howtogeek.com/i-refuse-to-buy-earbuds-without-this-game-changing-feature/"
     },
     {
-      "url": "https://screenrant.com/apple-airpods-transparency-mode-works-purpose-benefits-explained/",
-      "title": "AirPods Transparency Mode : What Is It & How It Works Explained"
+      "title": "What is transparency mode and how does it work? - Digital Trends",
+      "url": "https://www.digitaltrends.com/phones/what-is-transparency-mode-and-how-does-it-work/"
+    },
+    {
+      "title": "AirPods Transparency Mode : What Is It & How It Works Explained",
+      "url": "https://screenrant.com/apple-airpods-transparency-mode-works-purpose-benefits-explained/"
     }
   ],
-  "CTA station art map downloadable": [],
+  "CTA station art map downloadable": [
+    {
+      "title": "Maps - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/maps/"
+    },
+    {
+      "title": "Chicago Transit Authority Maps & Posters - CTAGifts.com",
+      "url": "https://ctagifts.com/collections/chicago-transit-authority-maps-posters"
+    },
+    {
+      "title": "Cta Map Print - Etsy",
+      "url": "https://www.etsy.com/market/cta_map_print"
+    },
+    {
+      "title": "CTA System Map brochure : Chicago Transit Authority : Free Download ...",
+      "url": "https://archive.org/details/ctamap_systemmap_202411"
+    },
+    {
+      "title": "CTA Rail System Map Poster - Transit Tees",
+      "url": "https://www.transittees.com/cta-rail-system-map-poster/"
+    }
+  ],
   "Vintage CTA maps for sale Chicago": [
     {
-      "url": "https://m.ebay.com/sch/i.html?_nkw=chicago+cta+map&_sop=12",
-      "title": "Chicago CTA Map for sale | eBay"
+      "title": "Chicago CTA Map for sale | eBay",
+      "url": "https://m.ebay.com/sch/i.html?_nkw=chicago+cta+map&_sop=12"
     },
     {
-      "url": "https://www.etsy.com/market/vintage_chicago_transit_maps",
-      "title": "Vintage Chicago Transit Maps - Etsy"
+      "title": "Vintage Chicago Transit Maps - Etsy",
+      "url": "https://www.etsy.com/market/vintage_chicago_transit_maps"
     },
     {
-      "url": "https://ctagifts.com/collections/chicago-transit-authority-maps-posters",
-      "title": "Chicago Transit Authority Maps & Posters - CTAGifts.com"
+      "title": "Chicago Transit Authority Maps & Posters - CTAGifts.com",
+      "url": "https://ctagifts.com/collections/chicago-transit-authority-maps-posters"
+    },
+    {
+      "title": "Chicago Train Map for sale | eBay",
+      "url": "https://www.ebay.ca/sch/i.html?_nkw=chicago+train+map&_dcat=41511"
+    },
+    {
+      "title": "Vintage Chicago Map for sale | eBay",
+      "url": "https://m.ebay.com/sch/i.html?_nkw=vintage+chicago+map&_sop=12"
     }
   ],
   "Photography rules CTA stations": [
     {
-      "url": "https://www.transitchicago.com/photo-policy/",
-      "title": "CTA Photo & Video Policy - CTA - Chicago Transit Authority"
+      "title": "CTA Photo & Video Policy - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/photo-policy/"
     },
     {
-      "url": "https://www.spudart.org/blog/short-simple-rules-photographing-cta/",
-      "title": "Short and simple rules for photographing the CTA - Spudart"
+      "title": "Short and simple rules for photographing the CTA - Spudart",
+      "url": "https://www.spudart.org/blog/short-simple-rules-photographing-cta/"
     },
     {
-      "url": "https://forum.trains.com/t/metra-cta-photography/182632",
-      "title": "METRA & CTA Photography - Transit - Trains.com Forums"
+      "title": "METRA & CTA Photography - Transit - Trains.com Forums",
+      "url": "https://forum.trains.com/t/metra-cta-photography/182632"
     },
     {
-      "url": "https://www.chicagotribune.com/2010/01/26/what-is-excessive-cta-photography/",
-      "title": "What is \u2018excessive\u2019 CTA photography? - Chicago Tribune"
+      "title": "What is \u2018excessive\u2019 CTA photography? - Chicago Tribune",
+      "url": "https://www.chicagotribune.com/2010/01/26/what-is-excessive-cta-photography/"
     },
     {
-      "url": "https://railroad.net/viewtopic.php?t=57969",
-      "title": "Official CTA Photo Policy - railroad.net"
+      "title": "Official CTA Photo Policy - railroad.net",
+      "url": "https://railroad.net/viewtopic.php?t=57969"
     }
   ],
   "West Loop secure bike parking options": [
     {
-      "url": "https://www.bikelink.org/",
-      "title": "BikeLink - On-Demand Bike Parking"
+      "title": "West Loop, IL Monthly Parking & Garages Near Me | Spacer",
+      "url": "https://www.spacer.com/parking-west-loop-chicago-il-usa"
+    },
+    {
+      "title": "BikeLink - On-Demand Bike Parking",
+      "url": "https://www.bikelink.org/"
+    },
+    {
+      "title": "West Loop Parking - Find Guaranteed Parking",
+      "url": "https://parking.com/chicago/neighborhoods/west-loop"
+    },
+    {
+      "title": "Secure Bike Parking - Lockers, Racks, Shelters | CycleSafe",
+      "url": "https://cyclesafe.com/bike-parking/"
+    },
+    {
+      "title": "The 10 Most Inventive Bike Parking Solutions - PedalChef",
+      "url": "https://www.pedalchef.com/post/the-most-inventive-bike-parking-solutions/"
     }
   ],
   "Folding bike storage at office best practices": [
     {
-      "url": "https://www.reddit.com/r/chibike/comments/136bse4/office_bike_storage_best_practicesgood_examples/",
-      "title": "Office bike storage best practices/good examples? : r/chibike - Reddit"
+      "title": "Office bike storage best practices/good examples? : r/chibike - Reddit",
+      "url": "https://www.reddit.com/r/chibike/comments/136bse4/office_bike_storage_best_practicesgood_examples/"
     },
     {
-      "url": "https://dohenybike.com/blogs/folding-e-bikes/folding-e-bike-storage-solutions-space-saving-hacks",
-      "title": "Folding e-bike storage solutions: Space-saving hacks"
+      "title": "Folding e-bike storage solutions: Space-saving hacks",
+      "url": "https://dohenybike.com/blogs/folding-e-bikes/folding-e-bike-storage-solutions-space-saving-hacks"
     },
     {
-      "url": "https://thecooperativefoundation.org/the-ultimate-guide-to-folding-bike-storage/",
-      "title": "The Ultimate Guide To Folding Bike Storage"
+      "title": "The Ultimate Guide To Folding Bike Storage",
+      "url": "https://thecooperativefoundation.org/the-ultimate-guide-to-folding-bike-storage/"
     },
     {
-      "url": "https://meelod.com/blogs/news/fat-tire-ebike-storage-work",
-      "title": "How to Store Your Fat Tire Ebike at Work? - MEELOD"
+      "title": "How to Store Your Fat Tire Ebike at Work? - MEELOD",
+      "url": "https://meelod.com/blogs/news/fat-tire-ebike-storage-work"
+    },
+    {
+      "title": "Best bike storage solutions 2025: Tested and rated | Cycling Weekly",
+      "url": "https://www.cyclingweekly.com/group-tests/bike-storage-a-buyers-guide-326846"
     }
   ],
-  "Bike theft rates West Loop statistics": [],
-  "Weather wind chill Chicago loop morning": [
+  "Bike theft rates West Loop statistics": [
     {
-      "url": "https://weather.com/weather/today/l/USIL0225:1:US",
-      "title": "Loop, Chicago, Illinois - The Weather Channel"
+      "title": "Bike Index's 2025 Annual Bike Theft Report",
+      "url": "https://bikeindex.org/news/bike-indexs-2025-annual-bike-theft-report"
     },
     {
-      "url": "https://forecast.weather.gov/zipcity.php?inputstring=Chicago,IL",
-      "title": "7-Day Forecast 41.84N 87.68W - National Weather Service"
+      "title": "Bicycle Theft in the US: Magnitude and Equity Impacts",
+      "url": "https://findingspress.org/article/127974-bicycle-theft-in-the-us-magnitude-and-equity-impacts"
+    },
+    {
+      "title": "PDF 2025 Bike Index Annual Bike Theft Report - bicycleretailer.com",
+      "url": "https://www.bicycleretailer.com/sites/default/files/downloads/article/2025_bike_index_annual_bike_theft_report.pdf"
+    },
+    {
+      "title": "Bike Theft Statistics in the US (2024) - The Best Bike Lock",
+      "url": "https://thebestbikelock.com/bike-theft-statistics-us/"
+    },
+    {
+      "title": "Bike Index Releases the 2025 Annual Bike Theft Report",
+      "url": "https://www.cyclingwest.com/bike-theft/bike-index-releases-the-2025-annual-bike-theft-report/"
+    }
+  ],
+  "Weather wind chill Chicago loop morning": [
+    {
+      "title": "Arctic blast to usher in wind chill values as low as -30 degrees",
+      "url": "https://www.nbcchicago.com/weather/arctic-blast-to-usher-in-wind-chill-values-as-low-as-30-degrees/3862504/"
+    },
+    {
+      "title": "Chicago weather, wind chill today: Cold Weather Advisory issued amid ...",
+      "url": "https://abc7chicago.com/post/chicago-weather-wind-chill-today-cold-advisory-issued-amid-dangerous-temps-bears-game-sunday/18285622/"
+    },
+    {
+      "title": "Sunday forecast: Dangerously cold in Chicagoland, morning wind-chill ...",
+      "url": "https://www.msn.com/en-us/weather/meteorology/sunday-forecast-dangerously-cold-in-chicagoland-morning-wind-chill-values-25-in-some-locations/ar-AA1SiE9d"
+    },
+    {
+      "title": "Loop, Chicago, Illinois - The Weather Channel",
+      "url": "https://weather.com/weather/today/l/USIL0225:1:US"
+    },
+    {
+      "title": "7-Day Forecast 41.84N 87.68W - National Weather Service",
+      "url": "https://forecast.weather.gov/zipcity.php?inputstring=Chicago,IL"
     }
   ],
   "Radar rain timing Uptown to West Loop": [
     {
-      "url": "https://zoom.earth/maps/radar/",
-      "title": "Interactive real- time rain radar map. Shows precipitation detected by..."
+      "title": "Interactive real- time rain radar map. Shows precipitation detected by...",
+      "url": "https://zoom.earth/maps/radar/"
     },
     {
-      "url": "https://www.accuweather.com/en/en/national/weather-radar",
-      "title": "Weather Radar | AccuWeather"
+      "title": "Weather Radar | AccuWeather",
+      "url": "https://www.accuweather.com/en/en/national/weather-radar"
     },
     {
-      "url": "https://radar.weather.gov/",
-      "title": "NWS Radar"
+      "title": "UK rainfall radar map - Met Office",
+      "url": "https://weather.metoffice.gov.uk/maps-and-charts/rainfall-radar-forecast-map"
     },
     {
-      "url": "https://www.rain-radar.com/",
-      "title": "Real- Time Rain Radar - Accurate Rain Forecasts | Rain - Radar .com"
+      "title": "NWS Radar",
+      "url": "https://radar.weather.gov/"
+    },
+    {
+      "title": "Real- Time Rain Radar - Accurate Rain Forecasts | Rain - Radar .com",
+      "url": "https://www.rain-radar.com/"
     }
   ],
   "Air quality CTA platforms Chicago today": [
     {
-      "url": "https://cleanairinitiative.org/aqi/chicago/",
-      "title": "Chicago Air Quality Index (AQI) Today - Live Pollution Data"
+      "title": "Chicago Air Quality Index (AQI) Today - Live Pollution Data",
+      "url": "https://cleanairinitiative.org/aqi/chicago/"
     },
     {
-      "url": "https://www.accuweather.com/en/us/chicago/60608/air-quality-index/348308",
-      "title": "Chicago, IL Air Quality Index | AccuWeather"
+      "title": "Chicago, IL Air Quality Index | AccuWeather",
+      "url": "https://www.accuweather.com/en/us/chicago/60608/air-quality-index/348308"
     },
     {
-      "url": "https://aqi.getambee.com/us/illinois/chicago",
-      "title": "Current air quality in Chicago, Illinois today"
+      "title": "Current air quality in Chicago, Illinois today",
+      "url": "https://aqi.getambee.com/us/illinois/chicago"
     },
     {
-      "url": "https://www.aqi.in/us/dashboard/united-states/illinois/chicago",
-      "title": "Chicago Air Quality Index (AQI) | Air Pollution"
+      "title": "Chicago Air Quality Index (AQI) | Air Pollution",
+      "url": "https://www.aqi.in/us/dashboard/united-states/illinois/chicago"
     },
     {
-      "url": "https://aqicn.org/map/chicago/",
-      "title": "Air Pollution in Chicago: Real-time Air Quality Index Visual Map"
+      "title": "Air Pollution in Chicago: Real-time Air Quality Index Visual Map",
+      "url": "https://aqicn.org/map/chicago/"
     }
   ],
-  "UV index morning commute Chicago": [],
+  "UV index morning commute Chicago": [
+    {
+      "title": "Chicago , Illinois weather forecast tomorrow includes... - ABC7 Chicago",
+      "url": "https://abc7chicago.com/post/chicago-illinois-weather-forecast-tomorrow-includes-gusty-winds-possible-blowing-snow-during-morning-commute/18268792/"
+    },
+    {
+      "title": "Chicago weather radar: Rain, freezing rain, snow for morning drive...",
+      "url": "https://www.nbcchicago.com/weather/chicago-weather-freezing-rain-and-snow-for-morning-commute-major-temperature-drop-coming/3861079/"
+    },
+    {
+      "title": "Chicago Weather Alert: Wintry mix moves in overnight to affect...",
+      "url": "https://www.cbsnews.com/chicago/news/chicago-weather-alert-wintry-mix-monday-commute-forecast/"
+    },
+    {
+      "title": "Chicago weather: Snow to hit morning commute | FOX 32 Chicago",
+      "url": "https://www.fox32chicago.com/weather/chicago-weather-snow-snowfall"
+    },
+    {
+      "title": "Illinois Weather Alert: Dense Fog Slows Chicago Commute Tuesday...",
+      "url": "https://countryherald.com/news/illinois-weather-alert-dense-fog-slows-chicago-commute-tuesday-morning-clear-skies-ahead-through-october-weekend/"
+    }
+  ],
   "Pushcut or Pushover send commute summary": [
     {
-      "url": "https://n8n.io/integrations/pushcut/and/pushover/",
-      "title": "Pushcut and Pushover: Automate Workflows with n8n"
+      "title": "Pushcut and Pushover: Automate Workflows with n8n",
+      "url": "https://n8n.io/integrations/pushcut/and/pushover/"
     },
     {
-      "url": "https://ifttt.com/connect/pushcut/pushover",
-      "title": "Quickly connect Pushcut to Pushover - IFTTT"
+      "title": "Quickly connect Pushcut to Pushover - IFTTT",
+      "url": "https://ifttt.com/connect/pushcut/pushover"
     },
     {
-      "url": "https://zapier.com/apps/pushcut/integrations/pushover",
-      "title": "Pushcut Pushover Integration - Quick Connect - Zapier"
+      "title": "Is Pushover still the best way to add sensor automated HK ... - Reddit",
+      "url": "https://www.reddit.com/r/HomeKit/comments/18qwgps/is_pushover_still_the_best_way_to_add_sensor/"
+    },
+    {
+      "title": "How? Automation for calling PUSHCUT URL - Configuration - Home ...",
+      "url": "https://community.home-assistant.io/t/how-automation-for-calling-pushcut-url/807944"
+    },
+    {
+      "title": "Pushcut Pushover Integration - Quick Connect - Zapier",
+      "url": "https://zapier.com/apps/pushcut/integrations/pushover"
     }
   ],
   "IFTTT webhook to iOS notification example": [
     {
-      "url": "https://ifttt.com/applets/ZiLGhwtZ-if-a-webhook-is-triggered-get-a-mobile-notification",
-      "title": "If a webhook is triggered, get a mobile notification - IFTTT"
+      "title": "If a webhook is triggered, get a mobile notification - IFTTT",
+      "url": "https://ifttt.com/applets/ZiLGhwtZ-if-a-webhook-is-triggered-get-a-mobile-notification"
     },
     {
-      "url": "https://github.com/scotow/notigo",
-      "title": "scotow/notigo: Send iOS /Android Notifications using IFTTT 's Webhook"
+      "title": "scotow/notigo: Send iOS /Android Notifications using IFTTT 's Webhook",
+      "url": "https://github.com/scotow/notigo"
+    },
+    {
+      "title": "OpenHab send sensor notification to iOS /Android using IFTTT",
+      "url": "https://community.openhab.org/t/openhab-send-sensor-notification-to-ios-android-using-ifttt/24725"
+    },
+    {
+      "title": "Making IFTTT work with Apple\u2019s new Shortcuts app | Medium",
+      "url": "https://medium.com/@flat/making-ifttt-work-with-apples-new-shortcuts-app-5530e50d4527"
+    },
+    {
+      "title": "How to Trigger IFTTT Applets with iOS 12's New... - MacStories",
+      "url": "https://www.macstories.net/ios/how-to-trigger-ifttt-applets-with-ios-12s-new-shortcuts-app-and-siri/"
     }
   ],
   "Python script merge CTA and Metra alerts": [
     {
-      "url": "https://github.com/joerex1418/metra",
-      "title": "GitHub - joerex1418/metra: Python wrapper for interacting with the ..."
+      "title": "GitHub - joerex1418/metra: Python wrapper for interacting with the ...",
+      "url": "https://github.com/joerex1418/metra"
     },
     {
-      "url": "https://www.transitchicago.com/developers/",
-      "title": "CTA Developer Center - Open Chicago Transit Data - CTA"
+      "title": "CTA Developer Center - Open Chicago Transit Data - CTA",
+      "url": "https://www.transitchicago.com/developers/"
+    },
+    {
+      "title": "Creating a Real-Time CTA Train Map with Python and Plotly",
+      "url": "https://medium.com/@kaleighspitz/creating-a-real-time-cta-train-map-with-python-and-plotly-66092ff1f5ac"
+    },
+    {
+      "title": "Connect Chicago Transit Authority to Talk Python To Me and ... - IFTTT",
+      "url": "https://ifttt.com/connect/cta/talk_python"
+    },
+    {
+      "title": "CTA L Tracker | Base Project Template",
+      "url": "https://nicholassynovic.github.io/homework_cta-congestion-monitoring/"
     }
   ],
   "Best data sources for Chicago traffic incidents API": [
     {
-      "url": "https://docs.nextbillion.ai/map-data/traffic-incidents-api",
-      "title": "NextBillion.ai | Traffic Incidents API"
+      "title": "NextBillion.ai | Traffic Incidents API",
+      "url": "https://docs.nextbillion.ai/map-data/traffic-incidents-api"
     },
     {
-      "url": "https://zylalabs.com/api-marketplace/tag/traffic+incidents",
-      "title": "Best Traffic incidents APIs | Zyla API Hub"
+      "title": "Best Traffic incidents APIs | Zyla API Hub",
+      "url": "https://zylalabs.com/api-marketplace/tag/traffic+incidents"
     },
     {
-      "url": "https://developer.tomtom.com/traffic-api/documentation/tomtom-maps/traffic-incidents/traffic-incidents-service",
-      "title": "Traffic Incidents service | Traffic API | TomTom Developer Portal"
+      "title": "Traffic Incidents service | Traffic API | TomTom Developer Portal",
+      "url": "https://developer.tomtom.com/traffic-api/documentation/tomtom-maps/traffic-incidents/traffic-incidents-service"
     },
     {
-      "url": "https://learn.microsoft.com/ka-ge/bingmaps/spatial-data-services/public-data-sources/traffic-incident-data-source",
-      "title": "Traffic Incident Data Source - Bing Maps | Microsoft Learn"
+      "title": "Traffic Incident Data Source - Bing Maps | Microsoft Learn",
+      "url": "https://learn.microsoft.com/ka-ge/bingmaps/spatial-data-services/public-data-sources/traffic-incident-data-source"
     },
     {
-      "url": "https://developer.mapquest.com/documentation/api/traffic/incidents/get.html",
-      "title": "Traffic API | MapQuest Developer Documentation"
+      "title": "Traffic API | MapQuest Developer Documentation",
+      "url": "https://developer.mapquest.com/documentation/api/traffic/incidents/get.html"
     }
   ],
   "Rideshare safety features Chicago comparison": [
     {
-      "url": "https://www.eyeandpen.com/uber-vs-lyft-chicago/",
-      "title": "Uber Vs Lyft In Chicago: Which Rideshare Is Better?"
+      "title": "Uber Vs Lyft In Chicago: Which Rideshare Is Better?",
+      "url": "https://www.eyeandpen.com/uber-vs-lyft-chicago/"
     },
     {
-      "url": "https://www.socinvestigation.com/5-rideshare-safety-features-you-should-know/",
-      "title": "5 Rideshare Safety Features You Should Know"
+      "title": "Ride Safe, Chicago: Essential Tips for Using Uber and Lyft",
+      "url": "https://www.linkedin.com/pulse/ride-safe-chicago-essential-tips-using-uber-lyft-jonathan-rosenfeld-5xmhf"
+    },
+    {
+      "title": "5 Rideshare Safety Features You Should Know",
+      "url": "https://www.socinvestigation.com/5-rideshare-safety-features-you-should-know/"
+    },
+    {
+      "title": "Rideshare Safety Tips \u2014 Chicago Car Accident Lawyers",
+      "url": "https://www.chicago-injury-lawyer.org/rideshare-safety-tips/"
+    },
+    {
+      "title": "Chicago Rideshare Ordinance: Driver Pay, Safety & Deactivation ...",
+      "url": "https://www.publicgoodpolicy.org/our-research/rideshare-ordinance"
     }
   ],
   "Uber reserve to work insurance coverage": [
     {
-      "url": "https://www.uber.com/us/en/drive/insurance/",
-      "title": "Insurance for Rideshare and Delivery Drivers | Uber"
+      "title": "Insurance for Rideshare and Delivery Drivers | Uber",
+      "url": "https://www.uber.com/us/en/drive/insurance/"
     },
     {
-      "url": "https://therideshareguy.com/how-delivery-insurance-works-and-options-for-drivers/",
-      "title": "Delivery Driver Insurance: How It Works in 2025 - The Rideshare Guy"
+      "title": "Delivery Driver Insurance: How It Works in 2025 - The Rideshare Guy",
+      "url": "https://therideshareguy.com/how-delivery-insurance-works-and-options-for-drivers/"
     },
     {
-      "url": "https://mehtamcconnell.com/blog/uber-drivers-eligible-for-workers-comp/",
-      "title": "Are Uber Drivers Eligible for Workers' Comp? - Mehta & McConnell"
+      "title": "Uber Rentals | Hertz",
+      "url": "https://www.hertz.com/us/en/programs/rideshare-rentals/uber-drivers"
+    },
+    {
+      "title": "What Is Livery Conveyance and How Does It Affect Insurance?",
+      "url": "https://engineerfix.com/what-is-livery-conveyance-and-how-does-it-affect-insurance/"
+    },
+    {
+      "title": "Are Uber Drivers Eligible for Workers' Comp? - Mehta & McConnell",
+      "url": "https://mehtamcconnell.com/blog/uber-drivers-eligible-for-workers-comp/"
     }
   ],
   "Lyft Wait & Save how long mornings": [
     {
-      "url": "https://www.lyft.com/rider/wait-and-save",
-      "title": "Wait & Save | Lyft"
+      "title": "How Long Do You Wait For A Ride? Fees & Rules Explained",
+      "url": "https://eathealthy365.com/waiting-for-your-ride-a-guide-to-wait-times-fees/"
     },
     {
-      "url": "https://bestreferraldriver.com/lyft-wait-and-save.html",
-      "title": "Guide to Lyft Wait and Save : Lyft \u2019s Cost- Saving Option"
+      "title": "Wait & Save | Lyft",
+      "url": "https://www.lyft.com/rider/wait-and-save"
     },
     {
-      "url": "https://hypebeast.com/2020/5/lyft-wait-and-save-program-affordable-rides",
-      "title": "Lyft Wait & Save Program for Affordable Rides | Hypebeast"
+      "title": "Guide to Lyft Wait and Save : Lyft \u2019s Cost- Saving Option",
+      "url": "https://bestreferraldriver.com/lyft-wait-and-save.html"
+    },
+    {
+      "title": "Lyft Wait & Save Program for Affordable Rides | Hypebeast",
+      "url": "https://hypebeast.com/2020/5/lyft-wait-and-save-program-affordable-rides"
+    },
+    {
+      "title": "How long will Lyft wait at a stop? - TinyGrab",
+      "url": "https://tinygrab.com/how-long-will-lyft-wait-at-a-stop/"
     }
   ],
   "Taxi pickup at Ogilvie stand hours": [
     {
-      "url": "https://metra.com/train-lines/stations/ogilvie-transportation-center",
-      "title": "Ogilvie Transportation Center | Metra"
+      "title": "Ogilvie Transportation Center | Metra",
+      "url": "https://metra.com/train-lines/stations/ogilvie-transportation-center"
     },
     {
-      "url": "https://metraschedule.info/metra-ogilvie-transportation-center/",
-      "title": "Metra Ogilvie Transportation Center - Schedules, Parking & Access"
+      "title": "Ogilvie Transportation Center",
+      "url": "https://www.yelp.com/biz/ogilvie-transportation-center-chicago"
+    },
+    {
+      "title": "Ogilvie / Union (West Loop) - Chicago Water Taxi",
+      "url": "https://www.chicagowatertaxi.com/Chicago-River-Boat-Stops/Ogilvie-Union/"
+    },
+    {
+      "title": "Metra Ogilvie Transportation Center - Schedules, Parking & Access",
+      "url": "https://metraschedule.info/metra-ogilvie-transportation-center/"
+    },
+    {
+      "title": "Ogilvie Transportation Center (Everything To Know Before A Visit)",
+      "url": "https://thetouristchecklist.com/ogilvie-transportation-center/"
     }
   ],
   "CTA Tracker alternatives 2025 apps": [
     {
-      "url": "https://worldsapps.com/apps-like-transit-stop-cta-tracker",
-      "title": "Top 18 Apps Like Transit Stop: CTA Tracker. in 2025 | WorldsApps"
+      "title": "10 Apps Like Mint, But Better - 10 Best Mint App Alternatives",
+      "url": "https://www.bing.com/aclick?ld=e8jKqDnBLxmPghNfBTFOBv0zVUCUy9-aGiM7HYHE2fovQ7Zjdp7n982clz3Z4Jve4ZHfjcIfTa4m4StfERyozeb8QSGOXZEW2FA_RyXGD-mnsh1Su6KrpfO7WVhvJW-1z1ABHvllnwCgEwswGyvPXowcxN3UvlN__LAtR-7AF0dekwnfB__D5KcqEK2oXxT8zJ9sF75ojVkreTTaVTuKRHsDhDMs8&u=aHR0cHMlM2ElMmYlMmZyb2JiZXJnZXIuY29tJTJmbWludC1hbHRlcm5hdGl2ZXMlMmYlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q1MjE5MDE5MjklMjZ1dG1fY29udGVudCUzZCUyNnV0bV90ZXJtJTNkYmVzdCUyNTIwYXBwJTI1MjBleHBlbnNlJTI1MjB0cmFja2luZyUyNnV0bV9pZCUzZCU3YmNhbXBhaWdubmFtZSU3ZCUyNnBsYWNlJTNkJTI2bmV0JTNkbyUyNm1hdGNoJTNkcCUyNmFkZ3JvdXBpZCUzZDEzMTYxMTc4NzU2NzY5NjMlMjZtc2Nsa2lkJTNkZjM3ZGFkMzg4YWZiMWZmOTcyMjdjNDc5NmU3MmViMjE&rlid=f37dad388afb1ff97227c4796e72eb21"
     },
     {
-      "url": "https://justuseapp.com/en/app/414569920/transit-stop-cta-tracker/similar",
-      "title": "39 Transit Stop: CTA Tracker. Alternatives, Similar Apps ... ChiTrack App Reviews \u2013 Features, Alternatives & User Ratings Ventra App Landing Page | Ventra Best EZ-CTA-Tracker Alternatives and Similar Apps - APKPure.com"
+      "title": "Top 18 Apps Like Transit Stop: CTA Tracker. in 2025 | WorldsApps",
+      "url": "https://worldsapps.com/apps-like-transit-stop-cta-tracker"
     },
     {
-      "url": "https://topalter.com/android/com.vaxtech.nextbus.chicago/alternatives",
-      "title": "Top 38 Apps Like CTA Chicago Bus Transit for Android ..."
+      "title": "Most reliable CTA tracker? : r/chicago - Reddit",
+      "url": "https://www.reddit.com/r/chicago/comments/1ds6hp7/most_reliable_cta_tracker/"
+    },
+    {
+      "title": "Top 38 Apps Like CTA Chicago Bus Transit for Android ...",
+      "url": "https://topalter.com/android/com.vaxtech.nextbus.chicago/alternatives"
+    },
+    {
+      "title": "39 Transit Stop: CTA Tracker. Alternatives, Similar Apps ... ChiTrack App Reviews \u2013 Features, Alternatives & User Ratings Ventra App Landing Page | Ventra Best EZ-CTA-Tracker Alternatives and Similar Apps - APKPure.com",
+      "url": "https://justuseapp.com/en/app/414569920/transit-stop-cta-tracker/similar"
     }
   ],
   "Best CTA map app with car marker positions": [
     {
-      "url": "https://apps.apple.com/tr/app/live-cta-map/id6471347442?l=tr",
-      "title": "Live CTA Map App Store\u2019da"
+      "title": "Live CTA Map Problems & Troubleshooting and Solutions",
+      "url": "https://appsupports.co/6471347442/live-cta-map/problems"
     },
     {
-      "url": "https://ctabustracker.com/",
-      "title": "Get estimated arrival times for CTA buses or see them on a map ."
+      "title": "Live CTA Map App Store\u2019da",
+      "url": "https://apps.apple.com/tr/app/live-cta-map/id6471347442?l=tr"
+    },
+    {
+      "title": "Find and save ideas about map with gps track on Pinterest.",
+      "url": "https://www.pinterest.com/ideas/map-with-gps-track/949859498787/"
+    },
+    {
+      "title": "Get estimated arrival times for CTA buses or see them on a map .",
+      "url": "https://ctabustracker.com/"
+    },
+    {
+      "title": "Add a Google Map with Markers using HTML | Maps JavaScript API",
+      "url": "https://developers.google.com/maps/documentation/javascript/add-google-map-wc-tut"
     }
   ],
   "Red Line mid-train door alignment at Jackson": [
     {
-      "url": "https://en.wikipedia.org/wiki/Jackson_station_(CTA_Red_Line)",
-      "title": "Jackson station (CTA Red Line) - Wikipedia"
+      "title": "Jackson station (CTA Red Line) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jackson_station_(CTA_Red_Line)"
     },
     {
-      "url": "https://www.transitchicago.com/station/jacr/",
-      "title": "Jackson (Red Line Subway Station) Station Information - CTA"
+      "title": "Jackson (Red Line Subway Station) Station Information - CTA",
+      "url": "https://www.transitchicago.com/station/jacr/"
     },
     {
-      "url": "https://subwaynut.com/chicago/red_line/jackson/p2.php",
-      "title": "Jackson - CTA Red Line - The SubwayNut"
+      "title": "RH/L.H.R.B DOOR SHOWN ROUTING INSTRUCTIONS 3186 M ID-R AL P N C D",
+      "url": "https://webcache.crlaurence.com/jackson/3186_MID_RAIL_PANIC_ROUTING_INSTR_10-871-1.pdf"
+    },
+    {
+      "title": "Jackson - CTA Red Line - The SubwayNut",
+      "url": "https://subwaynut.com/chicago/red_line/jackson/p2.php"
+    },
+    {
+      "title": "Chicago Red Line Nightmare: Repeat Offender Charged in Brutal ...",
+      "url": "https://www.newsbreak.com/everyday-states-316335350/4396354153098-chicago-red-line-nightmare-repeat-offender-charged-in-brutal-attack-on-disabled-woman"
     }
   ],
   "Clinton station escalator status feed": [
     {
-      "url": "https://www.transitchicago.com/alerts/",
-      "title": "System Status & Alerts - CTA - Chicago Transit Authority"
+      "title": "System Status & Alerts - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/alerts/"
     },
     {
-      "url": "https://www.transitchicago.com/station/clil/",
-      "title": "Clinton (Green & Pink Line Station) Station Information - CTA"
+      "title": "CTA's Accessible Stations - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/accessibility/accessibleservices/"
+    },
+    {
+      "title": "Escalator Status - Bay Area Rapid Transit",
+      "url": "https://www.bart.gov/stations/escalators"
+    },
+    {
+      "title": "Clinton (Green & Pink Line Station) Station Information - CTA",
+      "url": "https://www.transitchicago.com/station/clil/"
+    },
+    {
+      "title": "CTA Stabbing on Blue Line Clinton Escalator ... 1:42:43 AM ... 426 S ...",
+      "url": "https://www.facebook.com/watch/?v=2110510146123934"
     }
   ],
   "Ogilvie to West Loop Gate exit time estimates": [
     {
-      "url": "https://www.travelmath.com/driving-time/",
-      "title": "Driving Time Calculator - Travelmath"
+      "title": "Driving Time Calculator - Travelmath",
+      "url": "https://www.travelmath.com/driving-time/"
     },
     {
-      "url": "https://distancebetween2places.com/driving-time-calculator/",
-      "title": "Driving Time Calculator with Traffic"
+      "title": "Driving Time Calculator with Traffic",
+      "url": "https://distancebetween2places.com/driving-time-calculator/"
     },
     {
-      "url": "https://www.distancesfrom.com/Travel-Time.aspx",
-      "title": "Travel Time calculator | Travel Time between Cities"
+      "title": "Driving Time Radius Map | Calculate Car Travel Times - RadiusMapper.com",
+      "url": "https://radiusmapper.com/driving"
     },
     {
-      "url": "https://tripplan.com/driving-time",
-      "title": "Driving Time Calculator - TripPlan.com"
+      "title": "Travel Time calculator | Travel Time between Cities",
+      "url": "https://www.distancesfrom.com/Travel-Time.aspx"
+    },
+    {
+      "title": "Driving Time Calculator - TripPlan.com",
+      "url": "https://tripplan.com/driving-time"
     }
   ],
-  "Walk time from Clinton to Randolph and Jefferson": [],
-  "CTA weekday holiday schedule differences": [],
+  "Walk time from Clinton to Randolph and Jefferson": [
+    {
+      "title": "Thomas Jefferson - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+    },
+    {
+      "title": "Biography of Thomas Jefferson , Third U.S. President",
+      "url": "https://www.thoughtco.com/thomas-jefferson-fast-facts-104981"
+    },
+    {
+      "title": "Martha Jefferson Randolph , Maria Jefferson Eppes... | Miller Center",
+      "url": "https://millercenter.org/president/jefferson/essays/madison-1801-firstlady"
+    },
+    {
+      "title": "Marion, Jefferson , Clinton , Randolph , Bond... | Data USA",
+      "url": "https://datausa.io/profile/geo/marion-jefferson-clinton-randolph-bond-washington-counties-puma-il"
+    },
+    {
+      "title": "Thomas Jefferson Visits the Natural Bridge \u2013 Abbeville Institute",
+      "url": "https://www.abbevilleinstitute.org/thomas-jefferson-visits-the-natural-bridge/"
+    }
+  ],
+  "CTA weekday holiday schedule differences": [
+    {
+      "title": "Linden station ( CTA ) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Linden_station_(CTA)"
+    },
+    {
+      "title": "China National Holidays 2025 Schedule and Adjusted Working Days",
+      "url": "https://www.china-briefing.com/news/china-public-holiday-2025-schedule/"
+    },
+    {
+      "title": "2025 holiday schedule : See full list of dates for Easter, Memorial Day ...",
+      "url": "https://www.aol.com/2025-holiday-schedule-see-full-101024887.html"
+    },
+    {
+      "title": "Stock Market Holidays in 2025: NYSE, NASDAQ and Wall... | Kiplinger",
+      "url": "https://www.kiplinger.com/investing/stock-market-holidays"
+    },
+    {
+      "title": "Official Employee Holidays | Office of Human Resources",
+      "url": "https://www.auburn.edu/administration/human_resources/holidays.php"
+    }
+  ],
   "Train crowding data CTA open data portal": [
     {
-      "url": "https://www.transitchicago.com/data/",
-      "title": "Open Data from the CTA - CTA - Chicago Transit Authority"
+      "title": "Open Data from the CTA - CTA - Chicago Transit Authority",
+      "url": "https://www.transitchicago.com/data/"
+    },
+    {
+      "title": "CTA Ridership Totals | City of Chicago | Data Portal",
+      "url": "https://data.cityofchicago.org/Transportation/CTA-Ridership-Totals/7cbh-vxt4"
+    },
+    {
+      "title": "Chicago Transit Authority (CTA) Data - Kaggle",
+      "url": "https://www.kaggle.com/datasets/chicago/chicago-transit-authority-cta-data"
+    },
+    {
+      "title": "Ridership Reports - Performance metrics - CTA",
+      "url": "https://www.transitchicago.com/ridership/"
+    },
+    {
+      "title": "CTA Rail Ridership By Station - RTAMS",
+      "url": "https://rtams.org/ridership/cta/stations"
     }
   ],
   "Metra monthly vs day pass calculator": [
     {
-      "url": "https://metra.com/fare-table",
-      "title": "Fare Table | Metra"
+      "title": "Fare Table | Metra",
+      "url": "https://metra.com/fare-table"
     },
     {
-      "url": "https://metra.com/fares",
-      "title": "Fares | Metra"
+      "title": "Fares | Metra",
+      "url": "https://metra.com/fares"
     },
     {
-      "url": "https://metrarail.com/tickets/ticket-options",
-      "title": "Ticket Options | Metra"
+      "title": "Ticket Options | Metra",
+      "url": "https://metrarail.com/tickets/ticket-options"
+    },
+    {
+      "title": "Question about Metra monthly passes . (Chicago: brokers, to buy, costs)",
+      "url": "https://www.city-data.com/forum/chicago/1044826-question-about-metra-monthly-passes.html"
+    },
+    {
+      "title": "What are the big changes in Metra 's new fare structure, which rolled...",
+      "url": "https://wgntv.com/news/chicago-news/what-are-the-big-changes-in-metras-new-fare-structure-which-rolled-out-thursday/"
     }
   ],
   "Divvy membership discounts with Ventra": [
     {
-      "url": "https://chi.streetsblog.org/2025/07/07/city-announces-lots-of-new-perks-for-divvy-riders-but-sorry-loyal-longtime-annual-members-no-99-memberships-for-you",
-      "title": "City announces lots of new perks for Divvy riders. But sorry, loyal ..."
+      "title": "Divvy Membership & Pass Options | Divvy Bikes",
+      "url": "https://divvybikes.com/pricing"
     },
     {
-      "url": "https://www.chicago.gov/city/en/depts/cdot/provdrs/bike/news/2025/july/-city-of-chicago-and-lyft-launch-major-divvy-membership-improvem.html",
-      "title": "City of Chicago and Lyft Launch Major Divvy Membership Improvements and ..."
+      "title": "Can I Use My Ventra Card For Divvy Bikes? - Fixanswer",
+      "url": "https://fixanswer.com/can-i-use-my-ventra-card-for-divvy-bikes/"
+    },
+    {
+      "title": "can i use my ventra card for divvy bikes - XJD",
+      "url": "https://www.xjd.com/t-can-i-use-my-ventra-card-for-divvy-bikes/"
+    },
+    {
+      "title": "City announces lots of new perks for Divvy riders. But sorry, loyal ...",
+      "url": "https://chi.streetsblog.org/2025/07/07/city-announces-lots-of-new-perks-for-divvy-riders-but-sorry-loyal-longtime-annual-members-no-99-memberships-for-you"
+    },
+    {
+      "title": "City of Chicago and Lyft Launch Major Divvy Membership Improvements and ...",
+      "url": "https://www.chicago.gov/city/en/depts/cdot/provdrs/bike/news/2025/july/-city-of-chicago-and-lyft-launch-major-divvy-membership-improvem.html"
     }
   ],
   "Combining Ventra and Apple Pay wallet tips": [
     {
-      "url": "https://www.macrumors.com/2020/10/26/chicago-ventra-card-now-supports-apple-pay/",
-      "title": "Apple Pay With Express Transit Mode Now Available in... - MacRumors"
+      "title": "Apple Pay With Express Transit Mode Now Available in... - MacRumors",
+      "url": "https://www.macrumors.com/2020/10/26/chicago-ventra-card-now-supports-apple-pay/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=8NP8UfM3eTk",
-      "title": "How to pay with your Ventra Card on iPhone and Apple ... - YouTube"
+      "title": "How to pay with your Ventra Card on iPhone and Apple ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=8NP8UfM3eTk"
     },
     {
-      "url": "https://chicago.curbed.com/2019/3/26/18282485/cta-metra-ventra-apple-pay-iphone-partnership",
-      "title": "CTA update: Ventra card headed to Apple Wallet ... - Curbed Chicago"
+      "title": "CTA update: Ventra card headed to Apple Wallet ... - Curbed Chicago",
+      "url": "https://chicago.curbed.com/2019/3/26/18282485/cta-metra-ventra-apple-pay-iphone-partnership"
     },
     {
-      "url": "https://www.tripadvisor.com/ShowTopic-g35805-i32-k11748584-Ventra_Apple_Pay_and_contactless-Chicago_Illinois.html",
-      "title": "Ventra , Apple Pay and contactless - Chicago Forum - Tripadvisor"
+      "title": "Ventra , Apple Pay and contactless - Chicago Forum - Tripadvisor",
+      "url": "https://www.tripadvisor.com/ShowTopic-g35805-i32-k11748584-Ventra_Apple_Pay_and_contactless-Chicago_Illinois.html"
+    },
+    {
+      "title": "Where you can travel on public transport using Apple Pay \u2013 Apple ...",
+      "url": "https://support.apple.com/en-au/118625"
     }
   ],
   "Ventra NFC card replacement time": [
     {
-      "url": "https://www.reddit.com/r/chicago/comments/2sacoz/how_long_does_a_ventra_replacement_card_take/",
-      "title": "How long does a Ventra replacement card take? - Reddit"
+      "title": "Expires | Ventra",
+      "url": "https://www.ventrachicago.com/expires/"
     },
     {
-      "url": "https://www.pacebus.com/faq/what-should-i-do-if-i-lose-my-ventra-card",
-      "title": "What should I do if I lose my Ventra Card? - Pace Suburban Bus"
+      "title": "How long does a Ventra replacement card take? - Reddit",
+      "url": "https://www.reddit.com/r/chicago/comments/2sacoz/how_long_does_a_ventra_replacement_card_take/"
     },
     {
-      "url": "https://www.ventrachicago.com/featured-questions/",
-      "title": "Featured Questions | Ventra"
+      "title": "What should I do if I lose my Ventra Card? - Pace Suburban Bus",
+      "url": "https://www.pacebus.com/faq/what-should-i-do-if-i-lose-my-ventra-card"
     },
     {
-      "url": "https://www.ventrachicago.com/expires/",
-      "title": "Expires | Ventra"
+      "title": "Ventra How-To: Ventra Cards | Ventra",
+      "url": "https://www.ventrachicago.com/mobile/how-to/ventra-cards/"
+    },
+    {
+      "title": "Featured Questions | Ventra",
+      "url": "https://www.ventrachicago.com/featured-questions/"
     }
   ],
   "Seasonal commute checklist winter Chicago": [
     {
-      "url": "https://anappleaplane.com/what-to-wear-in-winter-chicago-packing-list/",
-      "title": "What To Wear in Winter in Chicago: The Ultimate Packing List ..."
+      "title": "What To Wear in Winter in Chicago: The Ultimate Packing List ...",
+      "url": "https://anappleaplane.com/what-to-wear-in-winter-chicago-packing-list/"
     },
     {
-      "url": "https://clickup.com/p/travel-packing-checklists/chicago-winter",
-      "title": "Travel Packing Checklist For Chicago Weather in Winter"
+      "title": "Travel Packing Checklist For Chicago Weather in Winter",
+      "url": "https://clickup.com/p/travel-packing-checklists/chicago-winter"
     },
     {
-      "url": "https://themakeup.org/what-to-pack-chicago-winter-packing-list/",
-      "title": "What to Pack for Chicago in Winter: Everything You Need for ..."
+      "title": "What to Pack for Chicago in Winter: Everything You Need for ...",
+      "url": "https://themakeup.org/what-to-pack-chicago-winter-packing-list/"
     },
     {
-      "url": "https://alpackamybags.com/post/chicago-winter-packing",
-      "title": "What to Wear in Chicago in Winter - Alpacka My Bags"
+      "title": "What to Wear in Chicago in Winter - Alpacka My Bags",
+      "url": "https://alpackamybags.com/post/chicago-winter-packing"
     },
     {
-      "url": "https://www.travelfashiongirl.com/what-to-pack-for-chicago-getaways/",
-      "title": "What to Pack for Chicago Getaways in the Windy City 23 Best Tips for How to Survive A Chicago Winter (By a Local) The Ultimate Bucket List for Winter in Chicago 2025"
+      "title": "What to Pack for Chicago Getaways in the Windy City 23 Best Tips for How to Survive A Chicago Winter (By a Local) The Ultimate Bucket List for Winter in Chicago 2025",
+      "url": "https://www.travelfashiongirl.com/what-to-pack-for-chicago-getaways/"
     }
   ],
   "Heat advisory commuting tips CTA": [
     {
-      "url": "https://abc7chicago.com/post/chicago-heat-advisory-weather-dangerous-forecast-area-wednesday/17254995/",
-      "title": "Chicago heat advisory : Weather forecast includes... - ABC7 Chicago"
+      "title": "Chicago heat advisory : Weather forecast includes... - ABC7 Chicago",
+      "url": "https://abc7chicago.com/post/chicago-heat-advisory-weather-dangerous-forecast-area-wednesday/17254995/"
     },
     {
-      "url": "https://www.cbsnews.com/chicago/news/excessive-heat-damages-tracks-causes-delays-on-red-line/",
-      "title": "Excessive Heat Damages Tracks, Causes Delays On Red Line"
+      "title": "Some like it hot: Chicago heat wave biking tips revisited - Streetsblog...",
+      "url": "https://chi.streetsblog.org/2025/06/24/some-like-it-hot-chicago-heat-wave-biking-tips-revisited"
+    },
+    {
+      "title": "Navigating Chicago \u2019s CTA : Tips for Newcomers | TikTok",
+      "url": "https://www.tiktok.com/@hannahnicely5/video/7434701687027158318"
+    },
+    {
+      "title": "Excessive Heat Damages Tracks, Causes Delays On Red Line",
+      "url": "https://www.cbsnews.com/chicago/news/excessive-heat-damages-tracks-causes-delays-on-red-line/"
+    },
+    {
+      "title": "Update: Heat advisory issued for 7 Massachusetts... - masslive.com",
+      "url": "https://www.masslive.com/weather-alerts/2025/06/heat-advisory-issued-for-7-massachusetts-counties-until-wednesday-evening.html"
     }
   ],
   "Construction on Wells and Lake impact transit": [
     {
-      "url": "https://chicago.suntimes.com/2025/12/12/cta-state-lake-l-station-rebuild-what-readers-say",
-      "title": "CTA's State/Lake L station 3-year rebuild plan prompts ..."
+      "title": "CTA's State/Lake L station 3-year rebuild plan prompts ...",
+      "url": "https://chicago.suntimes.com/2025/12/12/cta-state-lake-l-station-rebuild-what-readers-say"
     },
     {
-      "url": "https://abc7chicago.com/post/chicago-traffic-initial-construction-new-state-lake-elevated-cta-station-cause-downtown-loop-lane-closures/17578665/",
-      "title": "Chicago traffic: Initial construction for new State, Lake ..."
+      "title": "Connecting Lake City to Light Rail | SEATTLE TRANSIT MEASURE",
+      "url": "https://sdotblog.seattle.gov/2025/12/11/connecting-lake-city-transit-30th-ave-ne-project/"
     },
     {
-      "url": "https://www.bldup.com/posts/construction-underway-for-440m-renovation-of-state-lake-cta-station",
-      "title": "Construction Underway for $440M Renovation of State/Lake CTA ..."
+      "title": "Chicago traffic: Initial construction for new State, Lake ...",
+      "url": "https://abc7chicago.com/post/chicago-traffic-initial-construction-new-state-lake-elevated-cta-station-cause-downtown-loop-lane-closures/17578665/"
     },
     {
-      "url": "https://www.chicagoconstructionnews.com/cdot-cta-to-start-construction-on-new-state-lake-elevated-station-in-january/",
-      "title": "CDOT, CTA to start construction on new State/Lake elevated ..."
+      "title": "Construction Underway for $440M Renovation of State/Lake CTA ...",
+      "url": "https://www.bldup.com/posts/construction-underway-for-440m-renovation-of-state-lake-cta-station"
+    },
+    {
+      "title": "CDOT, CTA to start construction on new State/Lake elevated ...",
+      "url": "https://www.chicagoconstructionnews.com/cdot-cta-to-start-construction-on-new-state-lake-elevated-station-in-january/"
     }
   ],
   "Weekend bus routes to explore station art": [
     {
-      "url": "https://www.zingbus.com/blog/pune-weekend-bus-routes/",
-      "title": "7 Viral Weekend Bus Routes from Pune You\u2019ll Want to Book Now"
+      "title": "FlixBus Bus Routes : Explore Our Bus Network Map",
+      "url": "https://www.flixbus.com/bus-routes"
+    },
+    {
+      "title": "7 Viral Weekend Bus Routes from Pune You\u2019ll Want to Book Now",
+      "url": "https://www.zingbus.com/blog/pune-weekend-bus-routes/"
+    },
+    {
+      "title": "Greyhound: Affordable Bus Tickets Across US, Canada & Mexico",
+      "url": "https://www.greyhound.com/"
+    },
+    {
+      "title": "Lisbon Buses Guide - 2026 Update",
+      "url": "https://www.lisbonportugaltourism.com/transportation/buses.html"
+    },
+    {
+      "title": "29 Bus Route Nottingham | TikTok",
+      "url": "https://www.tiktok.com/discover/29-bus-route-nottingham"
     }
   ],
   "Best places to photograph elevated tracks safely": [
     {
-      "url": "https://www.shothotspot.com/",
-      "title": "Places to take photos near me | The photography locations ..."
+      "title": "Places to take photos near me | The photography locations ...",
+      "url": "https://www.shothotspot.com/"
+    },
+    {
+      "title": "The Top 10 U.S. Destinations for Wildlife Photography",
+      "url": "https://backcountryjourneys.com/The-Top-10-US-Destinations-for-Wildlife-Photography"
+    },
+    {
+      "title": "75 Best Photography Locations in the U.S. (And when to visit ...",
+      "url": "https://improvephotography.com/30381/calendar-worlds-best-photo-locations/"
+    },
+    {
+      "title": "Best Places to Photograph Wildlife in North America",
+      "url": "https://www.sphotography.com/best-places-to-photograph-wildlife-in-north-america"
+    },
+    {
+      "title": "Top 50 Best Places for Wildlife Photography - Secret Atlas",
+      "url": "https://www.secretatlas.com/handbook/photo-guides/top-50-destinations-for-wildlife-photography"
     }
   ],
   "Spanish phrasebook for commuting situations": [
     {
-      "url": "https://www.linguavoyage.org/sp/42561.html",
-      "title": "900 Spanish Phrases for Travel and Everyday Situations 296"
+      "title": "900 Spanish Phrases for Travel and Everyday Situations 296",
+      "url": "https://www.linguavoyage.org/sp/42561.html"
     },
     {
-      "url": "https://www.theintrepidguide.com/wp-content/uploads/2024/05/The-Intrepid-Guide-Spanish-Travel-Phrases-Cheat-Sheet.pdf",
-      "title": "PDF The Intrepid Guide - Spanish Travel Phrases Cheat-Sheet"
+      "title": "Spanish conversation and phrases lists - SpanishForNoobs.com",
+      "url": "https://spanishfornoobs.com/spanish-conversation-phrases-pdf/"
+    },
+    {
+      "title": "PDF The Intrepid Guide - Spanish Travel Phrases Cheat-Sheet",
+      "url": "https://www.theintrepidguide.com/wp-content/uploads/2024/05/The-Intrepid-Guide-Spanish-Travel-Phrases-Cheat-Sheet.pdf"
+    },
+    {
+      "title": "Spanish Phrases for Retail Workers",
+      "url": "https://www.learn-spanish-guide.com/2025/12/spanish-phrases-for-retail-workers.html"
+    },
+    {
+      "title": "Top 87 Basic & Common Spanish Phrases You Must Know",
+      "url": "https://www.tellmeinspanish.com/vocab/basic-spanish-phrases/"
     }
   ],
   "West Loop dog walking 6pm schedule tips": [
     {
-      "url": "https://www.majesticpaws.com/how-to-hire-a-dog-walking-company-in-chicago/",
-      "title": "How to Find and Hire a Dog Walking Company | Majestic Paws"
+      "title": "Free Parking & Garages Deals near West Loop Dog Park",
+      "url": "https://www.spotangels.com/chicago/west-loop-dog-park-parking"
+    },
+    {
+      "title": "How to Find and Hire a Dog Walking Company | Majestic Paws",
+      "url": "https://www.majesticpaws.com/how-to-hire-a-dog-walking-company-in-chicago/"
+    },
+    {
+      "title": "Don't Forget To Book Your Dog 's Thanksgiving Stay! - Dog Training...",
+      "url": "https://canineperspectivechicago.com/thanksgiving-boarding-2019/"
+    },
+    {
+      "title": "North Loop Dog Grounds in Minneapolis, MN | Dog Parks Near Me",
+      "url": "https://wagwalking.com/lifestyle/parks/north-loop-dog-grounds"
+    },
+    {
+      "title": "There's a new dog park in the West Loop \u2022 South Loop Dog Park...",
+      "url": "https://southloopdogpac.org/2010/08/theres-a-new-dog-park-in-the-west-loop/"
     }
   ],
   "Share ETA from Google Maps automation to partner": [
     {
-      "url": "https://support.google.com/maps/thread/382167089/how-to-share-eta-whilst-using-android-auto?hl=en",
-      "title": "How to share ETA whilst using Android Auto - Google Maps Community"
+      "title": "How to share ETA whilst using Android Auto - Google Maps Community",
+      "url": "https://support.google.com/maps/thread/382167089/how-to-share-eta-whilst-using-android-auto?hl=en"
     },
     {
-      "url": "https://www.popsci.com/diy/how-to-share-eta-google-maps-apple-maps/",
-      "title": "How to share your ETA in Google Maps or Apple Maps"
+      "title": "How to share your ETA in Google Maps or Apple Maps",
+      "url": "https://www.popsci.com/diy/how-to-share-eta-google-maps-apple-maps/"
     },
     {
-      "url": "https://blog.google/products/maps/better-way-share-your-eta-google-maps/",
-      "title": "A better way to share your ETA with Google Maps - The Keyword"
+      "title": "Manage automatic ETA sharing in Maps - Apple Support",
+      "url": "https://support.apple.com/guide/personal-safety/manage-automatic-eta-sharing-in-maps-ips7e2458945/web"
     },
     {
-      "url": "https://techcult.com/share-eta-trip-progress-google-maps/",
-      "title": "You Can Now Use Google Maps to Share ETA and Trip Progress on Android ..."
+      "title": "A better way to share your ETA with Google Maps - The Keyword",
+      "url": "https://blog.google/products/maps/better-way-share-your-eta-google-maps/"
+    },
+    {
+      "title": "You Can Now Use Google Maps to Share ETA and Trip Progress on Android ...",
+      "url": "https://techcult.com/share-eta-trip-progress-google-maps/"
     }
   ],
   "Set leave by window alert 8:05 8:10 Notion": [
     {
-      "url": "https://www.notion.com/help/notification-settings",
-      "title": "Notification settings \u2013 Notion Help Center"
+      "title": "Notification settings \u2013 Notion Help Center",
+      "url": "https://www.notion.com/help/notification-settings"
     },
     {
-      "url": "https://notiondemy.com/set-reminders-in-notion/",
-      "title": "How to Set Reminders in Notion \u2013 The Easiest Methods!"
+      "title": "How to Set Reminders in Notion \u2013 The Easiest Methods!",
+      "url": "https://notiondemy.com/set-reminders-in-notion/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=xM21-LLg1V4",
-      "title": "How To Set Reminders In Notion (Easiest Way) (2025 Guide) Setting Reminders in Notion Explained - Penguin Mind Change How Long to Show Notifications in Windows 10 Notification settings \u2013 Notion Help Center Setting Reminders in Notion Explained - Penguin Mind Change How Long to Show Notifications in Windows 10 Decrease or increase Notification display time in Windows 11 How to set reminders in Notion - Supademo"
+      "title": "Decrease or increase Notification display time in Windows 11",
+      "url": "https://www.thewindowsclub.com/increase-the-windows-10-notification-display-time"
     },
     {
-      "url": "https://penguinmind.com/notion/reminders-in-notion/",
-      "title": "Setting Reminders in Notion Explained - Penguin Mind Change How Long to Show Notifications in Windows 10 Notification settings \u2013 Notion Help Center Setting Reminders in Notion Explained - Penguin Mind Change How Long to Show Notifications in Windows 10 Decrease or increase Notification display time in Windows 11 How to set reminders in Notion - Supademo"
+      "title": "How To Set Reminders In Notion (Easiest Way) (2025 Guide) Setting Reminders in Notion Explained - Penguin Mind Change How Long to Show Notifications in Windows 10 Notification settings \u2013 Notion Help Center Setting Reminders in Notion Explained - Penguin Mind Change How Long to Show Notifications in Windows 10 Decrease or increase Notification display time in Windows 11 How to set reminders in Notion - Supademo",
+      "url": "https://www.youtube.com/watch?v=xM21-LLg1V4"
+    },
+    {
+      "title": "Setting Reminders in Notion Explained - Penguin Mind Change How Long to Show Notifications in Windows 10 Notification settings \u2013 Notion Help Center Setting Reminders in Notion Explained - Penguin Mind Change How Long to Show Notifications in Windows 10 Decrease or increase Notification display time in Windows 11 How to set reminders in Notion - Supademo",
+      "url": "https://penguinmind.com/notion/reminders-in-notion/"
     }
   ],
   "Best white reflective slap bands runners": [
     {
-      "url": "https://thegirlthatruns.com/vetted/best-reflective-slap-bands-night-running/",
-      "title": "11 Best Reflective Slap Bands for Night Running to Keep You Safe and ..."
+      "title": "11 Best Reflective Slap Bands for Night Running to Keep You Safe and ...",
+      "url": "https://thegirlthatruns.com/vetted/best-reflective-slap-bands-night-running/"
     },
     {
-      "url": "https://unitedstateoffans.com/vetted/best-reflective-arm-bands-running-fans/",
-      "title": "15 Best Reflective Arm Bands for Runners to Stay Safe and Visible"
+      "title": "Best Reflective Straps for Runners to Maximize Night Visibility",
+      "url": "https://picksports.org/best-reflective-straps-for-runners/"
+    },
+    {
+      "title": "The Best Reflective Running Gear of 2025 - Runner's World",
+      "url": "https://www.runnersworld.com/gear/a38254827/reflective-gear-to-run-safely-in-the-dark/"
+    },
+    {
+      "title": "Amazon.com: Reflective Armbands",
+      "url": "https://www.amazon.com/reflective-armbands/s?k=reflective+armbands"
+    },
+    {
+      "title": "15 Best Reflective Arm Bands for Runners to Stay Safe and Visible",
+      "url": "https://unitedstateoffans.com/vetted/best-reflective-arm-bands-running-fans/"
     }
   ],
   "Packable umbrella wind resistant Chicago": [
     {
-      "url": "https://www.bing.com/aclick?ld=e85crqbfmuarhTJjJW-GegBzVUCUy6jsF9RNxE3cnbpTlpDXaqx0xfMW_A6NS6_3V4Sg1OrjJJelfSx-GturnO3-bDO03VHLXI11gBFbsqcl4cVkIUgJcQ0QVbJUN4emSjzHMxUDAfqJA7lC5m5fPE3si0erCaV0fr46pG_JhlFC1jqSnL36_828TWg1tqBFBO_hXcSuKADxof71UgATtATgPm8Jc&u=aHR0cHMlM2ElMmYlMmZ3d3cudHJhdmVsYW5kbGVpc3VyZS5jb20lMmZzdHlsZSUyZnRyYXZlbC1hY2Nlc3NvcmllcyUyZmJlc3QtdHJhdmVsLXVtYnJlbGxhcyUzZnV0bV9zb3VyY2UlM2RtaWNyb3NvZnRwYWlkJTI2dXRtX21lZGl1bSUzZGNvbiUyNnV0bV9jb250ZW50JTNkMzllNjk5MjViNTI0MTg5ODhhOTlmMDY0NTFiOTg5Y2MlMjZ1dG1fY2FtcGFpZ24lM2Rjb21tZXJjZS1kZC1UcmF2ZWxVbWJyZWxsYXNfVHJhdmVsQW5kTGVpc3VyZV9Db21iaW5lZF9Db21tU0VNX09yZ2FuaWNMUC01NDM0MTQ2JTI2dXRtX3Rlcm0lM2RiZXN0JTI1MjB3aW5kcHJvb2YlMjUyMHRyYXZlbCUyNTIwdW1icmVsbGElMjZrdyUzZHBhaWRub2FkcyUyNm1zY2xraWQlM2QzOWU2OTkyNWI1MjQxODk4OGE5OWYwNjQ1MWI5ODljYw&rlid=39e69925b52418988a99f06451b989cc",
-      "title": "10 Best Travel Umbrellas - Best Windproof Travel Umbrella"
+      "title": "10 Best Travel Umbrellas - Best Windproof Travel Umbrella",
+      "url": "https://www.bing.com/aclick?ld=e85crqbfmuarhTJjJW-GegBzVUCUy6jsF9RNxE3cnbpTlpDXaqx0xfMW_A6NS6_3V4Sg1OrjJJelfSx-GturnO3-bDO03VHLXI11gBFbsqcl4cVkIUgJcQ0QVbJUN4emSjzHMxUDAfqJA7lC5m5fPE3si0erCaV0fr46pG_JhlFC1jqSnL36_828TWg1tqBFBO_hXcSuKADxof71UgATtATgPm8Jc&u=aHR0cHMlM2ElMmYlMmZ3d3cudHJhdmVsYW5kbGVpc3VyZS5jb20lMmZzdHlsZSUyZnRyYXZlbC1hY2Nlc3NvcmllcyUyZmJlc3QtdHJhdmVsLXVtYnJlbGxhcyUzZnV0bV9zb3VyY2UlM2RtaWNyb3NvZnRwYWlkJTI2dXRtX21lZGl1bSUzZGNvbiUyNnV0bV9jb250ZW50JTNkMzllNjk5MjViNTI0MTg5ODhhOTlmMDY0NTFiOTg5Y2MlMjZ1dG1fY2FtcGFpZ24lM2Rjb21tZXJjZS1kZC1UcmF2ZWxVbWJyZWxsYXNfVHJhdmVsQW5kTGVpc3VyZV9Db21iaW5lZF9Db21tU0VNX09yZ2FuaWNMUC01NDM0MTQ2JTI2dXRtX3Rlcm0lM2RiZXN0JTI1MjB3aW5kcHJvb2YlMjUyMHRyYXZlbCUyNTIwdW1icmVsbGElMjZrdyUzZHBhaWRub2FkcyUyNm1zY2xraWQlM2QzOWU2OTkyNWI1MjQxODk4OGE5OWYwNjQ1MWI5ODljYw&rlid=39e69925b52418988a99f06451b989cc"
     },
     {
-      "url": "https://www.bing.com/aclick?ld=e8VEFFII-tSJGWBGlotZ60KDVUCUyOfXbQJ_7vvaC6E_vegAhZMsZ5Kmz3OC8Ki_ErAb9YPwEGxUTqOgWUpkFYYyszsTVlYAQHWzUGcgYbneSnfSkItSYkVclgLduNQ87izUn-tFpitsjmAXxTsrqJ9XuK0F9Jzhvm7LdQprWdd_aqqueMz6juX7gUGTswg4ec8jEXzO-FiC8mOpQkOsvb3IDTEZ8&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHdpbmQlMmJwcm9vZiUyYnVtYnJlbGxhJTJidHJhdmVsJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfNmV1eThkNGx1dV9wJTI2YWRncnBpZCUzZDEzMzM3MDkyODI5Nzg2NTklMjZodmFkaWQlM2Q4MzM1NzEwMTg0ODQwMiUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2Q0ODc5MiUyNmh2bG9jcGh5JTNkNTgxNjIlMjZodnRhcmdpZCUzZGt3ZC04MzM1Nzg1NjMzNjMyOCUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkNTE3Nl8xMDM1NDgxMiUyNm1jaWQlM2Q0YjIwODhmNjYxZmQzOTAyYTlmMDIwOGYxYjhiMTNhNSUyNm1zY2xraWQlM2Q5Yzg3ODQ1ZmMyZWIxZDhjMzU2N2VkMWUyNjc2ODQyNQ&rlid=9c87845fc2eb1d8c3567ed1e26768425",
-      "title": "wind proof umbrella travel - Amazon.com Official Site"
+      "title": "wind proof umbrella travel - Amazon.com Official Site",
+      "url": "https://www.bing.com/aclick?ld=e8VEFFII-tSJGWBGlotZ60KDVUCUyOfXbQJ_7vvaC6E_vegAhZMsZ5Kmz3OC8Ki_ErAb9YPwEGxUTqOgWUpkFYYyszsTVlYAQHWzUGcgYbneSnfSkItSYkVclgLduNQ87izUn-tFpitsjmAXxTsrqJ9XuK0F9Jzhvm7LdQprWdd_aqqueMz6juX7gUGTswg4ec8jEXzO-FiC8mOpQkOsvb3IDTEZ8&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZHdpbmQlMmJwcm9vZiUyYnVtYnJlbGxhJTJidHJhdmVsJTI2aW5kZXglM2RhcHMlMjZ0YWclM2RtaDBiLTIwJTI2cmVmJTNkcGRfc2xfNmV1eThkNGx1dV9wJTI2YWRncnBpZCUzZDEzMzM3MDkyODI5Nzg2NTklMjZodmFkaWQlM2Q4MzM1NzEwMTg0ODQwMiUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2Q0ODc5MiUyNmh2bG9jcGh5JTNkNTgxNjIlMjZodnRhcmdpZCUzZGt3ZC04MzM1Nzg1NjMzNjMyOCUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkNTE3Nl8xMDM1NDgxMiUyNm1jaWQlM2Q0YjIwODhmNjYxZmQzOTAyYTlmMDIwOGYxYjhiMTNhNSUyNm1zY2xraWQlM2Q5Yzg3ODQ1ZmMyZWIxZDhjMzU2N2VkMWUyNjc2ODQyNQ&rlid=9c87845fc2eb1d8c3567ed1e26768425"
     },
     {
-      "url": "https://www.cntraveler.com/story/best-travel-umbrellas",
-      "title": "The 7 Best Travel Umbrellas, Tested in Rainy, Windy Cities ... Images Windproof Travel Umbrella - Compact, Automatic, Slate Blue The 7 Best Umbrellas of 2025 | Reviews by Wirecutter Wind-Resistant Umbrellas and Clothing for Chicago Residents Compact Travel Umbrella - Walmart.com The 8 Best Travel Umbrellas of 2025, Tested and Reviewed 10 Best Travel Umbrellas - Best Windproof Travel Umbrella wind proof umbrella travel - Amazon.com Official Site"
+      "title": "Amazon.com: Chicago Umbrella",
+      "url": "https://www.amazon.com/chicago-umbrella/s?k=chicago+umbrella"
     },
     {
-      "url": "https://www.repelumbrella.com/products/repel-easy-touch-umbrella-slate-blue",
-      "title": "Windproof Travel Umbrella - Compact, Automatic, Slate Blue"
+      "title": "The 7 Best Travel Umbrellas, Tested in Rainy, Windy Cities ... Images Windproof Travel Umbrella - Compact, Automatic, Slate Blue The 7 Best Umbrellas of 2025 | Reviews by Wirecutter Wind-Resistant Umbrellas and Clothing for Chicago Residents Compact Travel Umbrella - Walmart.com The 8 Best Travel Umbrellas of 2025, Tested and Reviewed 10 Best Travel Umbrellas - Best Windproof Travel Umbrella wind proof umbrella travel - Amazon.com Official Site",
+      "url": "https://www.cntraveler.com/story/best-travel-umbrellas"
+    },
+    {
+      "title": "Windproof Travel Umbrella - Compact, Automatic, Slate Blue",
+      "url": "https://www.repelumbrella.com/products/repel-easy-touch-umbrella-slate-blue"
     }
   ]
 }
