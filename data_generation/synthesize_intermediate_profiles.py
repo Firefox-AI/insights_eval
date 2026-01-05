@@ -41,8 +41,11 @@ def _get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--min-records", dest="min_records", type=int, default=30)
     parser.add_argument("--max-records", dest="max_records", type=int, default=30)
-    parser.add_argument("--bank-dir", dest="bank_dir", default="./websites", help="bank of all the query-website records")
-    parser.add_argument("--persona-dir", dest="persona_dir", default="./persona_data", help="directory of all persona data")
+    parser.add_argument("--positive-bank-dir", dest="positive_bank_dir", default="./data/positive_websites", help="bank of positive query-website records")
+    parser.add_argument("--negative-bank-dir", dest="negative_bank_dir", default="./data/negative_websites", help="bank of negative query-website records")
+    parser.add_argument("--min-negative-pct", dest="min_negative_pct", type=float, default=5.0, help="minimum percentage of negative records")
+    parser.add_argument("--max-negative-pct", dest="max_negative_pct", type=float, default=5.0, help="maximum percentage of negative records")
+    parser.add_argument("--persona-dir", dest="persona_dir", default="./data/persona_data", help="directory of all persona data")
     parser.add_argument("--output-dir", dest="output_dir", default="./records", help="output directory")
     args = parser.parse_args()
 
@@ -52,17 +55,17 @@ def _get_args():
     return args
 
 
-def _insert_query(records, query):
+def _insert_query(records, query, is_negative=False):
     domain = random.sample(SEARCH_ENGINE_DOMAINS, 1)[0]
     converted_query = query.replace(" ", "+")
     url = f"https://{domain}.com/search?q={converted_query}"
     host = f"{domain}.com"
     title = f"{domain.capitalize()} Search : {query}"
-    category, intent = QUERY_LABELS[query]['labels']
-    records.append([url, host, title, 0, category, intent])
+    #category, intent = QUERY_LABELS[query]['labels']
+    records.append([url, host, title, 0, is_negative]) #category, intent, is_negative])
 
 
-def _insert_websites(records, selected_websites):
+def _insert_websites(records, selected_websites, is_negative=False):
     elapse = 0
     for website in selected_websites:
         title = website['title']
@@ -70,33 +73,27 @@ def _insert_websites(records, selected_websites):
         second_half = url.split("//")[1]
         host = second_half.split("/")[0]
         elapse += random.randint(10000000, 120000000) # 10~120 seconds
-        category, intent = URL_LABELS[url]['labels']
-        records.append([url, host, title, elapse, category, intent])
+        #category, intent = URL_LABELS[url]['labels']
+        records.append([url, host, title, elapse, is_negative]) #category, intent, is_negative])
 
 
-def randomly_insert_records(records, available_queries, query_websites, used_queries):
+def randomly_insert_records(records, available_queries, query_websites, used_queries, is_negative=False):
 
-    query = random.sample(available_queries, 1)[0]
-    # Check if we've already used a query -> can't duplicate queries
-    if query in used_queries:
-        return
-    used_queries.append(query)
+    query = random.choice(sorted(available_queries))
 
     # Randomly select between MIN_WEBSITES_PER_QUERY and len(website_set) websites for each query
     # If a query has fewer than MIN_WEBSITES_PER_QUERY websites, skip it
     # We need enough websites in each query to have sufficient evidence for a memory
     website_set = query_websites[query]
     num_websites = len(website_set)
-    if num_websites == MIN_WEBSITES_PER_QUERY:
-        num = MIN_WEBSITES_PER_QUERY
-    elif num_websites > MIN_WEBSITES_PER_QUERY:
-        num = random.randint(MIN_WEBSITES_PER_QUERY, len(website_set))
-    else:
+    if num_websites <= MIN_WEBSITES_PER_QUERY:
         return
+    num = random.randint(MIN_WEBSITES_PER_QUERY, len(website_set))
     selected_websites = random.sample(website_set, num)
+    used_queries.add(query)
 
-    _insert_query(records, query)
-    _insert_websites(records, selected_websites)
+    #_insert_query(records, query, is_negative=is_negative)
+    _insert_websites(records, selected_websites, is_negative=is_negative)
 
 
 def post_process_visit_date(records):
@@ -107,12 +104,14 @@ def post_process_visit_date(records):
 
     num_queries = elapses.count(0)
     query_times = sorted(np.random.randint(START_TIME, _max, num_queries).tolist())
+    base = None
     for obj in records:
         if obj[3] == 0:
             base = query_times.pop(0)
-            obj[3] += base
+            obj[3] = base
         else:
-            obj[3] += base
+            if base is not None:
+                obj[3] += base
 
 
 def assign_frec_pct(records):
@@ -177,41 +176,112 @@ def get_frec_dict(arr):
 
 def build_intermediate_profile(fname, args):
     """
-    url | host | title | category | intent | visit_date | frecency_pct | domain_frecency_pct
+    url | host | title | category | intent | visit_date | frecency_pct | domain_frecency_pct | is_negative
     visit_date ~= 1765400059075515
     """
 
-    with open(os.path.join(args.bank_dir, fname)) as f:
-        query_websites = json.load(f)
+    # Load positive websites
+    positive_file = os.path.join(args.positive_bank_dir, fname)
+    negative_file = os.path.join(args.negative_bank_dir, fname)
+    
+    if not os.path.exists(positive_file):
+        print(f"Warning: Positive file not found: {positive_file}")
+        return
+    
+    with open(positive_file) as f:
+        positive_query_websites = json.load(f)
+    
+    # Load negative websites
+    negative_query_websites = {}
+    if os.path.exists(negative_file):
+        with open(negative_file) as f:
+            negative_query_websites = json.load(f)
+    
+    # Get available queries for both
+    positive_available_queries = set(positive_query_websites.keys())
+    negative_available_queries = set(negative_query_websites.keys())
+    
+    used_positive_queries = set()
+    used_negative_queries = set()
 
-    available_queries = list(query_websites.keys())
-    used_queries = []
+    # Calculate total records needed
+    total_limit = random.randint(args.min_records, args.max_records + 1)
+    
+    # Calculate target negative percentage (random between min and max)
+    negative_pct = random.uniform(args.min_negative_pct, args.max_negative_pct)
+    target_negative_count = int(total_limit * (negative_pct / 100.0))
+    target_positive_count = total_limit - target_negative_count
+    
+    positive_records = []
+    negative_records = []
 
-    limit = random.randint(args.min_records, args.max_records+1)
-    records = list()
+    # Insert positive records
+    #last_len = -1
+    #retries = 0
+    while len(positive_records) < target_positive_count:
+        randomly_insert_records(
+            positive_records,
+            positive_available_queries,
+            positive_query_websites,
+            used_positive_queries,
+            is_negative=False
+        )
+        positive_available_queries -= used_positive_queries
+        # if len(positive_records) > last_len:
+        #     last_len = len(positive_records)
+        #     retries = 0
+        # else:
+        #     retries += 1
+        #     if retries >= 5:
+        #         break
+    
+    # Insert negative records
+    if negative_query_websites:
+        last_len = -1
+        retries = 0
+        while len(negative_records) < target_negative_count:
+            randomly_insert_records(
+                negative_records, 
+                negative_available_queries,
+                negative_query_websites, 
+                used_negative_queries,
+                is_negative=True
+            )
+            negative_available_queries -= used_negative_queries
+            # if len(negative_records) > last_len:
+            #     last_len = len(negative_records)
+            #     retries = 0
+            # else:
+            #     retries += 1
+            #     if retries >= 5:
+            #         break
+    
+    # Combine and shuffle records for even distribution
+    all_records = positive_records + negative_records
+    #random.shuffle(all_records)
 
-    last_records_len = -1
-    retries = 0
-    while len(records) < limit:
-        randomly_insert_records(records, available_queries, query_websites, used_queries)
-        if len(records) > last_records_len:
-            last_records_len = len(records)
-        else:
-            if retries < 5:
-                retries += 1
-            else:
-                break
+    #if len(all_records) > total_limit:
+    #    all_records = all_records[:total_limit]
+    
+    if len(all_records) > 0:
+        post_process_visit_date(all_records)
+        assign_frec_pct(all_records)
+        assign_domain_frec_pct(all_records)
+        # Rearrange columns to final order
+        for record in all_records:
+            record[4], record[5], record[6] = record[5], record[6], record[4]
 
-    if len(records) >= limit:
-        records = records[:limit]
-
-        post_process_visit_date(records)
-        assign_frec_pct(records)
-        assign_domain_frec_pct(records)
-
-        columns = ['url', 'host', 'title', 'visit_date', 'category', 'intent', 'frecency_pct', 'domain_frecency_pct']
-        df = pd.DataFrame(columns=columns, data=records)
+        #columns = ['url', 'host', 'title', 'visit_date', 'category', 'intent', 'frecency_pct', 'domain_frecency_pct', 'is_negative']
+        columns = ['url', 'host', 'title', 'visit_date', 'frecency_pct', 'domain_frecency_pct', 'is_negative']
+        df = pd.DataFrame(columns=columns, data=all_records)
         df.to_csv(os.path.join(args.output_dir, fname[:-4] + "csv"), index=False)
+        with open(os.path.join(args.output_dir, "queries_" + fname[:-4] + "json"), "w") as _o:
+            json.dump({"positive": sorted(used_positive_queries), "negative": sorted(used_negative_queries)}, _o, indent=2)
+
+        pos_count = sum(1 for r in all_records if not r[6])  # is_negative is now at index 8
+        neg_count = sum(1 for r in all_records if r[6])
+        actual_pct = (neg_count / len(all_records) * 100) if all_records else 0
+        print(f"{fname}: {len(all_records)} records ({pos_count} positive, {neg_count} negative = {actual_pct:.1f}%)")
 
 
 def main():
