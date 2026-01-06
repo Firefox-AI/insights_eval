@@ -25,7 +25,6 @@ logging.getLogger("httpx").setLevel(logging.ERROR)
 # Config File Models
 class DataConfig(BaseModel):
     records_path: str
-    websites_path: str
 
 class LiteLLMConfig(BaseModel):
     api_key: str
@@ -68,13 +67,13 @@ const {
   generateProfileInputs,
   aggregateSessions,
   topkAggregates,
-} = ChromeUtils.importESModule("moz-src:///browser/components/aiwindow/models/InsightsHistorySource.sys.mjs");
+} = ChromeUtils.importESModule("moz-src:///browser/components/aiwindow/models/memories/MemoriesHistorySource.sys.mjs");
 const {
   HISTORY,
   CONVERSATION
-} = ChromeUtils.importESModule("moz-src:///browser/components/aiwindow/models/InsightsConstants.sys.mjs");
-const { generateInsights } = ChromeUtils.importESModule(
-  "moz-src:///browser/components/aiwindow/models/Insights.sys.mjs"
+} = ChromeUtils.importESModule("moz-src:///browser/components/aiwindow/models/memories/MemoriesConstants.sys.mjs");
+const { generateMemories } = ChromeUtils.importESModule(
+  "moz-src:///browser/components/aiwindow/models/memories/Memories.sys.mjs"
 );
 
 async function runCallback() {
@@ -104,7 +103,7 @@ EVAL_JS_SCRIPT_FOOTER = """
   // Generate memories
   const engine = await openAIEngine.build("smart-openai", "ai");
 
-  return await generateInsights(engine, sources, []);
+  return await generateMemories(engine, sources, []);
 }
 runCallback().then(result => callback(result));
 """
@@ -204,7 +203,7 @@ class MemoryEvaluator:
             os.mkdir(profile_dir)
 
             profile_data = pd.read_csv(profile_file)
-            profile_data = profile_data.drop(["category", "intent"], axis=1)
+            profile_data = profile_data.drop(["is_negative"], axis=1)
             profile_data.columns = ["url", "domain", "title", "visitDateMicros", "frequencyPct", "domainFrequencyPct"]
             profile_data["source"] = profile_data["url"].map(lambda url: MemoryEvaluator.is_search_engine_url(url))
             profile_data.to_csv(f"{profile_dir}/memories_generation_input.csv")
@@ -307,7 +306,7 @@ Give your answer as a JSON list in the following format:
                 comparison_json_out = [query for query in MemoryEvaluator.extract_and_parse_json_response(resp.choices[0].message.content) if query in used_queries]
                 break
             except Exception as e:
-                print(f"Failed to extract insight/query comparison data: {e}")
+                print(f"Failed to extract memory/query comparison data: {e}")
                 continue
         return comparison_json_out
 
@@ -354,7 +353,7 @@ If you do not identify any groups of such statements, simply return an empty lis
 
         return dup_json_out
 
-    def compute_metrics(self, results_df: pd.DataFrame, used_queries: List[str], profile_dir: str):
+    def compute_metrics(self, results_df: pd.DataFrame, used_positive_queries: List[str], used_negative_queries: List[str], profile_dir: str):
         """
         Computes evaluation metrics for a profile's generated memories
         """
@@ -369,19 +368,22 @@ If you do not identify any groups of such statements, simply return an empty lis
             # Coverage -> each memory has at least 1 query
             memories_with_at_least_one_query = len(run_df[run_df["count_related_queries"] > 0])
 
-            # Extra -> memories without a query
-            memories_without_a_query = len(run_df[run_df["count_related_queries"] == 0])
+            # Negative Coverage -> each memories has at least 1 negative query
+            memories_with_at_least_one_negative_query = len(run_df[run_df["count_related_negative_queries"] > 0])
+
+            # Extra -> memories without a query (positive or negative)
+            memories_without_a_query = len(run_df[(run_df["count_related_queries"] == 0) & (run_df["count_related_negative_queries"] == 0)])
 
             # Missing -> queries without an memory
-            query_coverage_counts = {query: set() for query in used_queries}
+            query_coverage_counts = {query: set() for query in used_positive_queries}
             for _, row in run_df.iterrows():
                 for related_query in row["related_queries"]:
-                    query_coverage_counts[related_query].add(row["insight_summary"])
+                    query_coverage_counts[related_query].add(row["memory_summary"])
             queries_without_a_memory = [query for query, related_memory_set in query_coverage_counts.items() if len(related_memory_set) == 0]
             queries_without_a_memory_count = len(queries_without_a_memory)
 
             # Duplicates -> memories mapped to the same query
-            generated_memories = run_df["insight_summary"].tolist()
+            generated_memories = run_df["memory_summary"].tolist()
             duplicates_out = self.find_duplicates(generated_memories)
             with open(f"{profile_dir}/pass_{run_id}_duplicates_results.json", "w") as _o:
                 json.dump(duplicates_out, _o, indent=2)
@@ -392,13 +394,16 @@ If you do not identify any groups of such statements, simply return an empty lis
             results.append({
                 "run_id": run_id,
                 "total_memories_generated": total_rows,
-                "total_queries": len(used_queries),
+                "total_positive_queries": len(used_positive_queries),
+                "total_negative_queries": len(used_negative_queries),
                 "coverage_count": memories_with_at_least_one_query,
                 "coverage_perc": memories_with_at_least_one_query / total_rows,
+                "negative_coverage_count": memories_with_at_least_one_negative_query,
+                "negative_coverage_perc": memories_with_at_least_one_negative_query / total_rows,
                 "extra_count": memories_without_a_query,
                 "extra_perc": memories_without_a_query / total_rows,
                 "missing_count": queries_without_a_memory_count,
-                "missing_perc": queries_without_a_memory_count / len(used_queries),
+                "missing_perc": queries_without_a_memory_count / len(used_positive_queries),
                 "queries_without_a_memory": queries_without_a_memory,
                 "duplicate_count": len(duplicate_memories),
                 "duplicate_perc": len(duplicate_memories) / total_rows
@@ -420,17 +425,13 @@ If you do not identify any groups of such statements, simply return an empty lis
         for persona_id, persona in enumerate(personas):
             persona_log_header = log_header + f"[{persona_id+1}/{total_personas}]"
             print(f"{persona_log_header} Aggregating metrics for \"{persona}\"")
-            persona_source_data = pd.read_csv(f"{self.config.data.records_path}/{persona}.csv")
-            with open(f"{self.config.data.websites_path}/{persona}.json", "r") as _j:
-                persona_metadata = json.load(_j)
+            with open(f"{self.config.data.records_path}/queries_{persona}.json", "r") as _j:
+                all_persona_queries = json.load(_j)
             profile_dir = f"{self.outdir}/{METRICS_ARTIFACTS}/{persona}"
             os.mkdir(profile_dir)
 
-            persona_used_queries = [
-                query for query, pages in persona_metadata.items() if len(set([page["url"] for page in pages]).intersection(set(persona_source_data["url"].tolist()))) > 0
-            ]
-            with open(f"{profile_dir}/queries.json", "w") as _o:
-                json.dump(persona_used_queries, _o, indent=2)
+            persona_used_positive_queries = all_persona_queries["positive"]
+            persona_used_negative_queries = all_persona_queries["negative"]
 
             persona_results_list = []
             for run_idx, batch in enumerate(generated_memories[persona]):
@@ -440,11 +441,27 @@ If you do not identify any groups of such statements, simply return an empty lis
                         **memory
                     })
             persona_results_df = pd.DataFrame(persona_results_list)
-            persona_results_df["related_queries"] = persona_results_df["insight_summary"].map(
-                lambda memory_summary: self.compare_memory_to_queries(memory_summary, persona_used_queries)
+
+            # Find positive query overlap
+            persona_results_df["related_queries"] = persona_results_df["memory_summary"].map(
+                lambda memory_summary: self.compare_memory_to_queries(memory_summary, persona_used_positive_queries)
             )
             persona_results_df["count_related_queries"] = persona_results_df["related_queries"].map(lambda related_queries: len(related_queries))
-            persona_metrics_df = self.compute_metrics(persona_results_df, persona_used_queries, profile_dir)
+
+            # Find negative query overlap
+            persona_results_df["related_negative_queries"] = persona_results_df["memory_summary"].map(
+                lambda memory_summary: self.compare_memory_to_queries(memory_summary, persona_used_negative_queries)
+            )
+            persona_results_df["count_related_negative_queries"] = persona_results_df["related_negative_queries"].map(
+                lambda related_negative_queries: len(related_negative_queries)
+            )
+
+            persona_metrics_df = self.compute_metrics(
+                persona_results_df,
+                persona_used_positive_queries,
+                persona_used_negative_queries,
+                profile_dir
+            )
 
             persona_metrics_df.insert(0, "persona_id", [persona] * len(persona_metrics_df))
             persona_results_df.insert(0, "persona_id", [persona] * len(persona_results_df))
@@ -501,7 +518,6 @@ def main():
     args = get_args()
     with open(args.config, "r") as _y:
         config = MemoryEvaluatorConfig(**yaml.safe_load(_y))
-    print(config)
     memories_evalutor = MemoryEvaluator(config)
     memories_evalutor.run()
 
