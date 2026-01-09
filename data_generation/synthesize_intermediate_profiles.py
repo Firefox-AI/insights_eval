@@ -6,9 +6,18 @@ import pandas as pd
 import argparse
 from multiprocessing import Process
 from collections import Counter
+from openai import OpenAI
+from pydantic import BaseModel
+from typing import List
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '..', '.env'))
 
 random.seed(2025)
 np.random.seed(2025)
+
+client = OpenAI()
 
 # 10 seconds
 START_TIME = 1760720236895000
@@ -37,6 +46,49 @@ SEARCH_ENGINE_DOMAINS = [
 ]
 
 
+class ProxyQueriesFormat(BaseModel):
+    """Structured output format for proxy search queries."""
+    queries: List[str]
+
+
+def _generate_proxy_queries_from_titles(titles):
+    """
+    Generate natural search queries from website titles using GPT-5.
+    
+    Args:
+        titles (list of str): Website titles to convert into search queries.
+    
+    Returns:
+        list of str: Generated search query strings. Returns empty list if API call fails.
+    """
+    if not titles:
+        return []
+    
+    try:
+        titles_text = "\n".join([f"- {title}" for title in titles])
+        prompt = f"""Given the following website titles, generate natural search queries that someone might have used to find these websites. Each query should be a short, natural phrase (2-5 words) that captures the main topic or intent.
+
+Website titles:
+{titles_text}
+
+Generate one search query for each title."""
+        
+        completion = client.chat.completions.parse(
+            model="gpt-5",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that generates natural search queries from website titles."},
+                {"role": "user", "content": prompt},
+            ],
+            response_format=ProxyQueriesFormat,
+        )
+        
+        result = completion.choices[0].message.parsed
+        return result.queries if result else []
+    except Exception as e:
+        print(f"Warning: Failed to generate proxy queries: {e}")
+        return []
+
+
 def _get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--min-records", dest="min_records", type=int, default=30)
@@ -47,6 +99,8 @@ def _get_args():
     parser.add_argument("--max-negative-pct", dest="max_negative_pct", type=float, default=5.0, help="maximum percentage of negative records")
     parser.add_argument("--persona-dir", dest="persona_dir", default="./data/persona_data", help="directory of all persona data")
     parser.add_argument("--output-dir", dest="output_dir", default="./records", help="output directory")
+    parser.add_argument("--min-proxy-queries", dest="min_proxy_queries", type=int, default=1, help="minimum number of proxy search queries to generate per group of websites")
+    parser.add_argument("--max-proxy-queries", dest="max_proxy_queries", type=int, default=1, help="maximum number of proxy search queries to generate per group of websites")
     args = parser.parse_args()
 
     if not os.path.isdir(args.output_dir):
@@ -77,8 +131,18 @@ def _insert_websites(records, selected_websites, is_negative=False):
         records.append([url, host, title, elapse, is_negative]) #category, intent, is_negative])
 
 
-def randomly_insert_records(records, available_queries, query_websites, used_queries, is_negative=False):
-
+def randomly_insert_records(records, available_queries, query_websites, used_queries, is_negative=False, proxy_query_range=(1, 1)):
+    """
+    Randomly insert website records and proxy search queries into browsing history.
+    
+    Args:
+        records (list): List to append records to.
+        available_queries (set): Available search queries to choose from.
+        query_websites (dict): Mapping of queries to their website sets.
+        used_queries (set): Set to track used queries.
+        is_negative (bool): Whether these are negative records.
+        proxy_query_range (tuple): (min, max) number of proxy queries to generate.
+    """
     query = random.choice(sorted(available_queries))
 
     # Randomly select between MIN_WEBSITES_PER_QUERY and len(website_set) websites for each query
@@ -92,7 +156,21 @@ def randomly_insert_records(records, available_queries, query_websites, used_que
     selected_websites = random.sample(website_set, num)
     used_queries.add(query)
 
-    #_insert_query(records, query, is_negative=is_negative)
+    # Generate and insert proxy search queries from website titles
+    min_queries, max_queries = proxy_query_range
+    if min_queries > 0 or max_queries > 0:
+        titles = [website['title'] for website in selected_websites]
+        generated_queries = _generate_proxy_queries_from_titles(titles)
+        
+        if generated_queries:
+            num_proxy_queries = random.randint(min_queries, max_queries)
+            num_proxy_queries = min(num_proxy_queries, len(generated_queries))
+            
+            if num_proxy_queries > 0:
+                selected_proxy_queries = random.sample(generated_queries, num_proxy_queries)
+                for proxy_query in selected_proxy_queries:
+                    _insert_query(records, proxy_query, is_negative=is_negative)
+    
     _insert_websites(records, selected_websites, is_negative=is_negative)
 
 
@@ -224,7 +302,8 @@ def build_intermediate_profile(fname, args):
             positive_available_queries,
             positive_query_websites,
             used_positive_queries,
-            is_negative=False
+            is_negative=False,
+            proxy_query_range=(args.min_proxy_queries, args.max_proxy_queries)
         )
         positive_available_queries -= used_positive_queries
         # if len(positive_records) > last_len:
@@ -245,7 +324,8 @@ def build_intermediate_profile(fname, args):
                 negative_available_queries,
                 negative_query_websites, 
                 used_negative_queries,
-                is_negative=True
+                is_negative=True,
+                proxy_query_range=(args.min_proxy_queries, args.max_proxy_queries)
             )
             negative_available_queries -= used_negative_queries
             # if len(negative_records) > last_len:
@@ -301,4 +381,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
