@@ -14,6 +14,10 @@ from argparse import ArgumentParser
 from typing import Dict, List, Union
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# Disable deprecation warnings
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+
 # From https://github.com/gregtatum/ml-driver/tree/main
 from firefox_inference import FirefoxInference
 
@@ -92,13 +96,13 @@ EVAL_JS_SCRIPT_FOOTER = """
     titleAgg,
     searchAgg,
     {
-      k_domains: 100,
-      k_titles: 60,
-      k_searches: 10,
+      k_domains: 1000,
+      k_titles: 1000,
+      k_searches: 1000,
       now: undefined,
     }
   );
-  const sources = {history: [domainItems, titleItems, searchItems]};
+  const sources = {history: [[], titleItems, searchItems]};
 
   // Generate memories
   const engine = await openAIEngine.build("smart-openai", "ai");
@@ -132,6 +136,7 @@ OUTDIR_SUFFIX = "memories_eval_results"
 MEMORIES_GENERATION = "1.memories_generation"
 METRICS_ARTIFACTS = "2.metrics_artifacts"
 
+MAX_RETRIES = 3
 
 class MemoryEvaluator:
     """
@@ -188,6 +193,19 @@ class MemoryEvaluator:
             return "search"
         return "history"
 
+    def setup_firefox_driver(self):
+        # Set up the Selenium Firefox driver
+        firefox = FirefoxInference(
+            firefox_bin=self.firefox_bin,
+            headless=True,
+            ml_prefs=self.aiwindow_prefs
+        )
+        firefox.driver.set_context(firefox.driver.CONTEXT_CHROME)
+        firefox.driver.set_script_timeout(300)
+        firefox.driver.implicitly_wait(300)
+        firefox.driver.command_executor.set_timeout(300)
+        return firefox
+
     def generate_memories(self, profile_files: List[str], batch_id: int) -> Dict[str, List]:
         """
         Generates memories for a batch of profile files
@@ -211,24 +229,38 @@ class MemoryEvaluator:
             # Render eval JS script with data injected
             eval_js_script = EVAL_JS_SCRIPT_HEADER + profile_data.to_json(orient="records") + EVAL_JS_SCRIPT_FOOTER
 
-            # Set up the Selenium Firefox driver
-            firefox = FirefoxInference(
-                firefox_bin=self.firefox_bin,
-                headless=True,
-                ml_prefs=self.aiwindow_prefs
-            )
-            firefox.driver.set_context(firefox.driver.CONTEXT_CHROME)
-            firefox.driver.set_script_timeout(180)
-
+            retries = 0
+            gave_up = False
             results = []
             for i in range(self.config.memories_generation.n_passes):
-                memories = firefox.driver.execute_async_script(eval_js_script)
-                results.append(memories)
-                with open(f"{profile_dir}/pass_{i}_generated_memories.json", "w") as _o:
-                    json.dump(memories, _o, indent=2)
+                while True:
+                    try:
+                        firefox = self.setup_firefox_driver()
+                        memories = firefox.driver.execute_async_script(eval_js_script)
+                        firefox.quit()
+                        break
+                    except Exception as e:
+                        if retries < MAX_RETRIES:
+                            retries += 1
+                            print(f"{profile_log_header} Error generating memories for \"{profile_name}\"; retrying...: {e}")
+                            firefox.quit()
+                            firefox = self.setup_firefox_driver()
+                            continue
+                        else:
+                            print(f"{profile_log_header} Hit max retries for \"{profile_name}\"; giving up")
+                            firefox.quit()
+                            gave_up = True
+                            break
+                if not gave_up:
+                    if memories:
+                        results.append(memories)
+                        with open(f"{profile_dir}/pass_{i}_generated_memories.json", "w") as _o:
+                            json.dump(memories, _o, indent=2)
+                else:
+                    break
 
-            firefox.quit()
-            all_results[profile_name] = results
+            if not gave_up:
+                all_results[profile_name] = results
             print(f"{profile_log_header} Completed memories for \"{profile_name}\"")
         return all_results
 
@@ -255,7 +287,9 @@ class MemoryEvaluator:
                     )
                 )
             for task in as_completed(tasks):
-                generated_memories |= task.result()
+                task_out = task.result()
+                if task_out:
+                    generated_memories |= task_out
 
         return generated_memories
 
