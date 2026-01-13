@@ -63,7 +63,12 @@ class MemoryEvaluatorConfig(BaseModel):
 EVAL_JS_SCRIPT_HEADER = """
 var callback = arguments[arguments.length - 1];
 
-const { openAIEngine } = ChromeUtils.importESModule(
+const {
+  openAIEngine,
+  MODEL_FEATURES,
+  DEFAULT_ENGINE_ID,
+  SERVICE_TYPES
+} = ChromeUtils.importESModule(
   "moz-src:///browser/components/aiwindow/models/Utils.sys.mjs"
 );
 const {
@@ -105,7 +110,11 @@ EVAL_JS_SCRIPT_FOOTER = """
   const sources = {history: [[], titleItems, searchItems]};
 
   // Generate memories
-  const engine = await openAIEngine.build("smart-openai", "ai");
+  const engine = await openAIEngine.build(
+    MODEL_FEATURES.MEMORIES,
+    DEFAULT_ENGINE_ID,
+    SERVICE_TYPES.MEMORIES
+  );
 
   return await generateMemories(engine, sources, []);
 }
@@ -271,7 +280,7 @@ class MemoryEvaluator:
 
         mem_gen_conf = self.config.memories_generation
 
-        profile_files = glob.glob(f"{self.config.data.records_path}/*.csv")
+        profile_files = sorted(glob.glob(f"{self.config.data.records_path}/*.csv"))
 
         profile_file_batches = np.array_split(np.array(profile_files), min(len(profile_files), mem_gen_conf.max_threads))
 
